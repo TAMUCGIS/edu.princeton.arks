@@ -14,7 +14,7 @@
     <field name="dc_subject_sm">transportation</field>
     <field name="dc_title_s">Lumpkin County, Georgia roads, 2004</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/jw827d09p/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/jw827d09p/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/jw827d09p", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/jw827d09p/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/url": "http://arks.princeton.edu/ark:/88435/jw827d09p", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/jw827d09p/restricted/data.zip", "http://www.opengis.net/cat/csw/csdgm": "https://geowebservices.princeton.edu/metadata/edu.princeton.arks/jw827d09p/fgdc.xml"}</field>
     <field name="dct_spatial_sm">Lumpkin County</field>
     <field name="dct_spatial_sm">Lumpkin</field>
     <field name="dct_spatial_sm">Georgia</field>
@@ -23,7 +23,7 @@
     <field name="georss_box_s">34.420352 -84.193022 34.735014 -83.831654</field>
     <field name="georss_polygon_s">34.735014 -84.193022 34.735014 -83.831654 34.420352 -83.831654 34.420352 -84.193022 34.735014 -84.193022</field>
     <field name="layer_slug_s">princeton-jw827d09p</field>
-    <field name="layer_id_s">jw827d09p</field>
+    <field name="layer_id_s">pulmap-restricted:jw827d09p</field>
     <field name="layer_modified_dt">2014-12-19T16:18:33Z</field>
     <field name="layer_geom_type_s">Line</field>
     <field name="solr_geom">ENVELOPE(-84.193022, -83.831654, 34.735014, 34.420352)</field>

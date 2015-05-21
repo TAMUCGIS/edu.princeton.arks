@@ -22,7 +22,7 @@
     <field name="dc_subject_sm">planningCadastre</field>
     <field name="dc_title_s">Kent County, Delaware land parcels, 2006</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/g732db57r/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/g732db57r/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/g732db57r", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/g732db57r/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/url": "http://arks.princeton.edu/ark:/88435/g732db57r", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/g732db57r/restricted/data.zip", "http://www.opengis.net/cat/csw/csdgm": "https://geowebservices.princeton.edu/metadata/edu.princeton.arks/g732db57r/fgdc.xml"}</field>
     <field name="dct_spatial_sm">Kent</field>
     <field name="dct_spatial_sm">Kent County</field>
     <field name="dct_spatial_sm">Delaware</field>
@@ -31,7 +31,7 @@
     <field name="georss_box_s">38.829995 -75.759978 39.366058 -75.311916</field>
     <field name="georss_polygon_s">39.366058 -75.759978 39.366058 -75.311916 38.829995 -75.311916 38.829995 -75.759978 39.366058 -75.759978</field>
     <field name="layer_slug_s">princeton-g732db57r</field>
-    <field name="layer_id_s">g732db57r</field>
+    <field name="layer_id_s">pulmap-restricted:g732db57r</field>
     <field name="layer_modified_dt">2014-12-19T16:18:34Z</field>
     <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_geom">ENVELOPE(-75.759978, -75.311916, 39.366058, 38.829995)</field>

@@ -19,7 +19,7 @@
     <field name="dc_subject_sm">transportation</field>
     <field name="dc_title_s">U.S. GDT Airports 2002</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/41687k15x/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/41687k15x/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/41687k15x", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
+    <field name="dct_references_s">{"http://schema.org/downloadUrl": "https://geowebservices.princeton.edu/item/41687k15x/data.zip", "http://www.opengis.net/def/serviceType/ogc/wfs": "https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "https://geowebservices.princeton.edu/metadata/edu.princeton.arks/41687k15x/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/41687k15x", "http://www.opengis.net/def/serviceType/ogc/wms": "https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms"}</field>
     <field name="dct_spatial_sm">United States</field>
     <field name="dct_temporal_sm">1999</field>
     <field name="dct_temporal_sm">1994</field>
@@ -31,7 +31,7 @@
     <field name="georss_box_s">19.710794 -171.744183 71.280219 -67.003092</field>
     <field name="georss_polygon_s">71.280219 -171.744183 71.280219 -67.003092 19.710794 -67.003092 19.710794 -171.744183 71.280219 -171.744183</field>
     <field name="layer_slug_s">princeton-41687k15x</field>
-    <field name="layer_id_s">pulmap:ark_41687k15x</field>
+    <field name="layer_id_s">pulmap-restricted:41687k15x</field>
     <field name="layer_modified_dt">2014-12-19T16:18:36Z</field>
     <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_geom">ENVELOPE(-171.744183, -67.003092, 71.280219, 19.710794)</field>

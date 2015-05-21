@@ -14,7 +14,7 @@
     <field name="dc_subject_sm">province boundaries</field>
     <field name="dc_title_s">China Province Boundaries, 1953</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/mg74qn82n/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/mg74qn82n/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/mg74qn82n", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
+    <field name="dct_references_s">{"http://schema.org/downloadUrl": "https://geowebservices.princeton.edu/item/mg74qn82n/data.zip", "http://www.opengis.net/def/serviceType/ogc/wfs": "https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "https://geowebservices.princeton.edu/metadata/edu.princeton.arks/mg74qn82n/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/mg74qn82n", "http://www.opengis.net/def/serviceType/ogc/wms": "https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms"}</field>
     <field name="dct_spatial_sm">China</field>
     <field name="dct_temporal_sm">2005</field>
     <field name="dct_temporal_sm">1953</field>
@@ -23,7 +23,7 @@
     <field name="georss_box_s">5.369586 73.448799 53.560299 135.093307</field>
     <field name="georss_polygon_s">53.560299 73.448799 53.560299 135.093307 5.369586 135.093307 5.369586 73.448799 53.560299 73.448799</field>
     <field name="layer_slug_s">princeton-mg74qn82n</field>
-    <field name="layer_id_s">pulmap:ark_mg74qn82n</field>
+    <field name="layer_id_s">pulmap-restricted:mg74qn82n</field>
     <field name="layer_modified_dt">2014-12-19T16:18:33Z</field>
     <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_geom">ENVELOPE(73.448799, 135.093307, 53.560299, 5.369586)</field>
