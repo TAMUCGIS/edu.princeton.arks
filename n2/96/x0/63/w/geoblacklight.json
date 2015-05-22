@@ -1,0 +1,33 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/n296x063w",
+  "dc_creator_sm": "GfK MACON",
+  "dc_description_s": "This data include major powerlines of Serbia-Montenegro created by GfK MACON company, Germany.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "n296x063w",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "utilitiesCommunication",
+    "power lines"
+  ],
+  "dc_title_s": "Serbia-Montenegro Major Power Lines, 2005",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/n296x063w/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/n296x063w/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/n296x063w\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": [
+    "Serbia-Montenegro",
+    "Serbia",
+    "Montenegro"
+  ],
+  "dct_temporal_sm": "2006",
+  "dct_issued_s": "2005",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "41.941555 18.446477 46.140419 22.661028",
+  "georss_polygon_s": "46.140419 18.446477 46.140419 22.661028 41.941555 22.661028 41.941555 18.446477 46.140419 18.446477",
+  "layer_slug_s": "princeton-n296x063w",
+  "layer_id_s": "pulmap-restricted:n296x063w",
+  "layer_modified_dt": "2014-12-19T16:18:33Z",
+  "layer_geom_type_s": "Line",
+  "solr_geom": "ENVELOPE(18.446477, 22.661028, 46.140419, 41.941555)",
+  "solr_year_i": "2006"
+}

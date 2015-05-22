@@ -1,0 +1,32 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/jm214q87g",
+  "dc_creator_sm": "LAND INFO Worldwide Mapping, LLC",
+  "dc_description_s": "London streets and roads data. DigitalGlobe QuickBird CitySphere acquired.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "jm214q87g",
+  "dc_language_s": "English",
+  "dc_publisher_s": "LAND INFO Worldwide Mapping, LLC",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Transportation networks",
+    "Roads",
+    "Streets"
+  ],
+  "dc_title_s": "London streets and roads.",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/jm214q87g/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/jm214q87g/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/jm214q87g\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": [
+    "London",
+    "Great Britain"
+  ],
+  "dct_issued_s": "2006",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "51.264143 -0.522555 51.734987 0.290876",
+  "georss_polygon_s": "51.734987 -0.522555 51.734987 0.290876 51.264143 0.290876 51.264143 -0.522555 51.734987 -0.522555",
+  "layer_slug_s": "princeton-jm214q87g",
+  "layer_id_s": "pulmap-restricted:jm214q87g",
+  "layer_modified_dt": "2014-12-19T16:18:33Z",
+  "layer_geom_type_s": "Line",
+  "solr_geom": "ENVELOPE(-0.522555, 0.290876, 51.734987, 51.264143)",
+  "solr_year_i": "2006"
+}

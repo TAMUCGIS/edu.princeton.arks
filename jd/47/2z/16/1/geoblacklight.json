@@ -1,0 +1,31 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/jd472z161",
+  "dc_creator_sm": "ML InfoMap Pvt. Ltd.",
+  "dc_description_s": "Socio-Demographic and Economic Census data for Rajasthan",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "jd472z161",
+  "dc_language_s": "English",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Location",
+    "Villages",
+    "point"
+  ],
+  "dc_title_s": "Rajasthan Village Map",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/jd472z161/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/jd472z161/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/jd472z161\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": [
+    "India",
+    "Rajasthan"
+  ],
+  "dct_issued_s": "2006",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "23.0191 69.5837 30.0691 78.2190",
+  "georss_polygon_s": "30.0691 69.5837 30.0691 78.2190 23.0191 78.2190 23.0191 69.5837 30.0691 69.5837",
+  "layer_slug_s": "princeton-jd472z161",
+  "layer_id_s": "pulmap-restricted:jd472z161",
+  "layer_modified_dt": "2014-12-19T16:18:34Z",
+  "layer_geom_type_s": "Point",
+  "solr_geom": "ENVELOPE(69.5837, 78.2190, 30.0691, 23.0191)",
+  "solr_year_i": "2006"
+}

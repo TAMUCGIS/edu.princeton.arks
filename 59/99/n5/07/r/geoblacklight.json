@@ -1,0 +1,30 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/5999n507r",
+  "dc_creator_sm": "GfK MACON",
+  "dc_description_s": "This data includes Malta major roads created by GfK MACON company, Germany.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "5999n507r",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Roads",
+    "Transportation",
+    "Major Roads"
+  ],
+  "dc_title_s": "Malta Major Roads, 2005",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/5999n507r/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/5999n507r/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/5999n507r\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": "Malta",
+  "dct_temporal_sm": "2006",
+  "dct_issued_s": "2005",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "35.816773 14.197066 36.077099 14.561041",
+  "georss_polygon_s": "36.077099 14.197066 36.077099 14.561041 35.816773 14.561041 35.816773 14.197066 36.077099 14.197066",
+  "layer_slug_s": "princeton-5999n507r",
+  "layer_id_s": "pulmap-restricted:5999n507r",
+  "layer_modified_dt": "2014-12-19T16:18:36Z",
+  "layer_geom_type_s": "Line",
+  "solr_geom": "ENVELOPE(14.197066, 14.561041, 36.077099, 35.816773)",
+  "solr_year_i": "2006"
+}

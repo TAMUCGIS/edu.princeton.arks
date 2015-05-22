@@ -1,0 +1,31 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/j9602238h",
+  "dc_creator_sm": "LeadDog Consulting, LLC",
+  "dc_description_s": "Shanghai airports",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "j9602238h",
+  "dc_language_s": "English",
+  "dc_publisher_s": "LeadDog Consulting, LLC",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Transportation networks",
+    "Airports"
+  ],
+  "dc_title_s": "Shanghai airport",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/j9602238h/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/j9602238h/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/j9602238h\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": [
+    "Shanghai",
+    "China"
+  ],
+  "dct_issued_s": "2006",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "31.129599 121.338872 31.190632 121.803647",
+  "georss_polygon_s": "31.190632 121.338872 31.190632 121.803647 31.129599 121.803647 31.129599 121.338872 31.190632 121.338872",
+  "layer_slug_s": "princeton-j9602238h",
+  "layer_id_s": "pulmap-restricted:j9602238h",
+  "layer_modified_dt": "2014-12-19T16:18:34Z",
+  "layer_geom_type_s": "Point",
+  "solr_geom": "ENVELOPE(121.338872, 121.803647, 31.190632, 31.129599)",
+  "solr_year_i": "2006"
+}

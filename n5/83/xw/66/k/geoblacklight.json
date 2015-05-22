@@ -1,0 +1,35 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/n583xw66k",
+  "dc_creator_sm": "Boundary Solutions, Inc.",
+  "dc_description_s": "Land parcels in Modoc County, California, 2009.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "n583xw66k",
+  "dc_language_s": "English",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "parcels",
+    "tax parcels",
+    "property maps",
+    "cadastral maps",
+    "ownership",
+    "parcel",
+    "property",
+    "planningCadastre"
+  ],
+  "dc_title_s": "Modoc County, California land parcels, 2009",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/n583xw66k/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/n583xw66k/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/n583xw66k\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": [
+    "California",
+    "Modoc County"
+  ],
+  "dct_issued_s": "20090724",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "41.183875 -121.457342 41.997585 -119.998623",
+  "georss_polygon_s": "41.997585 -121.457342 41.997585 -119.998623 41.183875 -119.998623 41.183875 -121.457342 41.997585 -121.457342",
+  "layer_slug_s": "princeton-n583xw66k",
+  "layer_id_s": "pulmap-restricted:n583xw66k",
+  "layer_modified_dt": "2014-12-19T16:18:33Z",
+  "layer_geom_type_s": "Polygon",
+  "solr_geom": "ENVELOPE(-121.457342, -119.998623, 41.997585, 41.183875)"
+}

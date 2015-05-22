@@ -1,0 +1,40 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/6q182m75k",
+  "dc_creator_sm": "Geographic Data Technology, Inc. (GDT)",
+  "dc_description_s": "U.S. Major Water represents areas that are major water features within United States.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "6q182m75k",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "polygon",
+    "water",
+    "hydrography",
+    "bays",
+    "canals",
+    "lakes",
+    "reservoirs",
+    "rivers",
+    "inlandWaters"
+  ],
+  "dc_title_s": "U.S. Major Water 2002",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/6q182m75k/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/6q182m75k/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/6q182m75k\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": "United States",
+  "dct_temporal_sm": [
+    "1997",
+    "1999",
+    "2000"
+  ],
+  "dct_issued_s": "20020401",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "19.713890 -168.074728 70.719400 -67.121681",
+  "georss_polygon_s": "70.719400 -168.074728 70.719400 -67.121681 19.713890 -67.121681 19.713890 -168.074728 70.719400 -168.074728",
+  "layer_slug_s": "princeton-6q182m75k",
+  "layer_id_s": "pulmap-restricted:6q182m75k",
+  "layer_modified_dt": "2014-12-19T16:18:36Z",
+  "layer_geom_type_s": "Polygon",
+  "solr_geom": "ENVELOPE(-168.074728, -67.121681, 70.719400, 19.713890)",
+  "solr_year_i": "1997"
+}

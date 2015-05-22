@@ -1,0 +1,42 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/8049g6735",
+  "dc_creator_sm": "Geographic Data Technology, Inc. (GDT)",
+  "dc_description_s": "North Dakota Tracts represents the U.S. Census tracts and block numbering areas (BNA) of North Dakota.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "8049g6735",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "polygon",
+    "census tracts",
+    "census block numbering areas",
+    "demographics",
+    "population",
+    "households",
+    "boundaries",
+    "society"
+  ],
+  "dc_title_s": "North Dakota Tracts 2002",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/8049g6735/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/8049g6735/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/8049g6735\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": [
+    "United States",
+    "North Dakota"
+  ],
+  "dct_temporal_sm": [
+    "2002",
+    "2000",
+    "2001"
+  ],
+  "dct_issued_s": "20020401",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "45.935021 -104.048915 49.000693 -96.554508",
+  "georss_polygon_s": "49.000693 -104.048915 49.000693 -96.554508 45.935021 -96.554508 45.935021 -104.048915 49.000693 -104.048915",
+  "layer_slug_s": "princeton-8049g6735",
+  "layer_id_s": "pulmap-restricted:8049g6735",
+  "layer_modified_dt": "2014-12-19T16:18:35Z",
+  "layer_geom_type_s": "Polygon",
+  "solr_geom": "ENVELOPE(-104.048915, -96.554508, 49.000693, 45.935021)",
+  "solr_year_i": "2002"
+}

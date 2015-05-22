@@ -1,0 +1,32 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/3b591b05k",
+  "dc_creator_sm": "Boundary Solutions, Inc.",
+  "dc_description_s": "Roads and highways in Eddy County, New Mexico, 2010.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "3b591b05k",
+  "dc_language_s": "English",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "line",
+    "transportation"
+  ],
+  "dc_title_s": "Eddy County, New Mexico roads, 2010",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/3b591b05k/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/3b591b05k/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/3b591b05k\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": [
+    "New Mexico",
+    "Eddy",
+    "Eddy County"
+  ],
+  "dct_issued_s": "20100427",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "31.998973 -104.860728 32.966158 -103.717969",
+  "georss_polygon_s": "32.966158 -104.860728 32.966158 -103.717969 31.998973 -103.717969 31.998973 -104.860728 32.966158 -104.860728",
+  "layer_slug_s": "princeton-3b591b05k",
+  "layer_id_s": "pulmap-restricted:3b591b05k",
+  "layer_modified_dt": "2014-12-19T16:18:36Z",
+  "layer_geom_type_s": "Line",
+  "solr_geom": "ENVELOPE(-104.860728, -103.717969, 32.966158, 31.998973)"
+}

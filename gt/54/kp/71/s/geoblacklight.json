@@ -1,0 +1,33 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/gt54kp71s",
+  "dc_creator_sm": "LeadDog Consulting, LLC",
+  "dc_description_s": "Shanghai inland water",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "gt54kp71s",
+  "dc_language_s": "English",
+  "dc_publisher_s": "LeadDog Consulting, LLC",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Inland water resources",
+    "Drainage regions",
+    "Lake",
+    "River"
+  ],
+  "dc_title_s": "Shanghai drainage regions",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/gt54kp71s/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/gt54kp71s/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/gt54kp71s\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": [
+    "Shanghai",
+    "China"
+  ],
+  "dct_issued_s": "2006",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "30.672203 120.851060 31.870733 121.980622",
+  "georss_polygon_s": "31.870733 120.851060 31.870733 121.980622 30.672203 121.980622 30.672203 120.851060 31.870733 120.851060",
+  "layer_slug_s": "princeton-gt54kp71s",
+  "layer_id_s": "pulmap-restricted:gt54kp71s",
+  "layer_modified_dt": "2014-12-19T16:18:34Z",
+  "layer_geom_type_s": "Polygon",
+  "solr_geom": "ENVELOPE(120.851060, 121.980622, 31.870733, 30.672203)",
+  "solr_year_i": "2006"
+}

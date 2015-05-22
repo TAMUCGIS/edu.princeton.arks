@@ -1,0 +1,36 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/6w924d55r",
+  "dc_creator_sm": "Geographic Data Technology, Inc. (GDT)",
+  "dc_description_s": "South Dakota Major Roads represents interstate, U.S., and state highways and other major thoroughfares within South Dakota.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "6w924d55r",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "line",
+    "highways",
+    "roads",
+    "interstates",
+    "cfcc",
+    "transportation"
+  ],
+  "dc_title_s": "South Dakota Major Roads 2002",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/6w924d55r/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/6w924d55r/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/6w924d55r\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": [
+    "United States",
+    "South Dakota"
+  ],
+  "dct_temporal_sm": "1999",
+  "dct_issued_s": "20020401",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "42.495385 -104.266952 45.945455 -96.443318",
+  "georss_polygon_s": "45.945455 -104.266952 45.945455 -96.443318 42.495385 -96.443318 42.495385 -104.266952 45.945455 -104.266952",
+  "layer_slug_s": "princeton-6w924d55r",
+  "layer_id_s": "pulmap-restricted:6w924d55r",
+  "layer_modified_dt": "2014-12-19T16:18:35Z",
+  "layer_geom_type_s": "Line",
+  "solr_geom": "ENVELOPE(-104.266952, -96.443318, 45.945455, 42.495385)",
+  "solr_year_i": "1999"
+}

@@ -1,0 +1,41 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/nv9354443",
+  "dc_creator_sm": "Boundary Solutions, Inc.",
+  "dc_description_s": "Land parcels in Tulsa County, Oklahoma, 2007.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "nv9354443",
+  "dc_language_s": "English",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "land value",
+    "value",
+    "buildings",
+    "planningCadastre"
+  ],
+  "dc_title_s": "Tulsa County, Oklahoma land parcels, 2007",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/nv9354443/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/nv9354443/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/nv9354443\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": [
+    "Oklahoma",
+    "Tulsa County",
+    "Tulsa",
+    "Broken Arrow"
+  ],
+  "dct_issued_s": "20071001",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "35.856103 -96.297999 36.423729 -95.761598",
+  "georss_polygon_s": "36.423729 -96.297999 36.423729 -95.761598 35.856103 -95.761598 35.856103 -96.297999 36.423729 -96.297999",
+  "layer_slug_s": "princeton-nv9354443",
+  "layer_id_s": "pulmap-restricted:nv9354443",
+  "layer_modified_dt": "2014-12-19T16:18:33Z",
+  "layer_geom_type_s": "Polygon",
+  "solr_geom": "ENVELOPE(-96.297999, -95.761598, 36.423729, 35.856103)"
+}

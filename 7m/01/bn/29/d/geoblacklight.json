@@ -1,0 +1,31 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/7m01bn29d",
+  "dc_creator_sm": "LeadDog Consulting, LLC",
+  "dc_description_s": "Shanghai religious sites",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "7m01bn29d",
+  "dc_language_s": "English",
+  "dc_publisher_s": "LeadDog Consulting, LLC",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Cultural, society, and demographic",
+    "Religious sites"
+  ],
+  "dc_title_s": "Shanghai religious sites",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/7m01bn29d/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/7m01bn29d/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/7m01bn29d\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": [
+    "Shanghai",
+    "China"
+  ],
+  "dct_issued_s": "2006",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "30.864981 120.979621 31.627318 121.752850",
+  "georss_polygon_s": "31.627318 120.979621 31.627318 121.752850 30.864981 121.752850 30.864981 120.979621 31.627318 120.979621",
+  "layer_slug_s": "princeton-7m01bn29d",
+  "layer_id_s": "pulmap-restricted:7m01bn29d",
+  "layer_modified_dt": "2014-12-19T16:18:35Z",
+  "layer_geom_type_s": "Point",
+  "solr_geom": "ENVELOPE(120.979621, 121.752850, 31.627318, 30.864981)",
+  "solr_year_i": "2006"
+}

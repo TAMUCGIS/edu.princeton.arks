@@ -1,0 +1,29 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/tq57ns62f",
+  "dc_creator_sm": "City of Trenton Division of Planning",
+  "dc_description_s": "This dataset contains tax parcels for Trenton, New Jersey",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "tq57ns62f",
+  "dc_language_s": "English",
+  "dc_publisher_s": "City of Trenton",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Parcel Boundary",
+    "Parcel",
+    "PlanningCadastre"
+  ],
+  "dc_title_s": "Trenton Tax Parcels",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/tq57ns62f/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/tq57ns62f/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/tq57ns62f\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": "Trenton",
+  "dct_issued_s": "2004",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "40.184245 -74.819868 40.248589 -74.728763",
+  "georss_polygon_s": "40.248589 -74.819868 40.248589 -74.728763 40.184245 -74.728763 40.184245 -74.819868 40.248589 -74.819868",
+  "layer_slug_s": "princeton-tq57ns62f",
+  "layer_id_s": "pulmap-restricted:tq57ns62f",
+  "layer_modified_dt": "2014-12-19T16:18:32Z",
+  "layer_geom_type_s": "Polygon",
+  "solr_geom": "ENVELOPE(-74.819868, -74.728763, 40.248589, 40.184245)",
+  "solr_year_i": "2004"
+}

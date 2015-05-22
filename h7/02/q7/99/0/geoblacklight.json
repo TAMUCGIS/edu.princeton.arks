@@ -1,0 +1,32 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/h702q7990",
+  "dc_creator_sm": "LeadDog Consulting, LLC",
+  "dc_description_s": "Basra streets and roads",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "h702q7990",
+  "dc_language_s": "English",
+  "dc_publisher_s": "LeadDog Consulting, LLC",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Transportation networks",
+    "Streets",
+    "Roads"
+  ],
+  "dc_title_s": "Basra streets and roads",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/h702q7990/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/h702q7990/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/h702q7990\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": [
+    "Iraq",
+    "Basra"
+  ],
+  "dct_issued_s": "2006",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "30.444750 47.735470 30.569434 47.871257",
+  "georss_polygon_s": "30.569434 47.735470 30.569434 47.871257 30.444750 47.871257 30.444750 47.735470 30.569434 47.735470",
+  "layer_slug_s": "princeton-h702q7990",
+  "layer_id_s": "pulmap-restricted:h702q7990",
+  "layer_modified_dt": "2014-12-19T16:18:34Z",
+  "layer_geom_type_s": "Line",
+  "solr_geom": "ENVELOPE(47.735470, 47.871257, 30.569434, 30.444750)",
+  "solr_year_i": "2006"
+}

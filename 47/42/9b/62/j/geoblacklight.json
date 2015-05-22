@@ -1,0 +1,31 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/47429b62j",
+  "dc_creator_sm": "City of Trenton Division of Planning",
+  "dc_description_s": "Boundary of the Capital City Redevelopment Corporation (CCRC) district",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "47429b62j",
+  "dc_language_s": "English",
+  "dc_publisher_s": "City of Trenton",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Redevelopment district",
+    "Boundaries",
+    "CCRC"
+  ],
+  "dc_title_s": "Trenton Capital City Redevelopment Corporation District",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/47429b62j/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/47429b62j/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/47429b62j\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": [
+    "Trenton",
+    "City of Trenton"
+  ],
+  "dct_issued_s": "August 21, 2008",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "40.207884 -74.781553 40.226128 -74.751231",
+  "georss_polygon_s": "40.226128 -74.781553 40.226128 -74.751231 40.207884 -74.751231 40.207884 -74.781553 40.226128 -74.781553",
+  "layer_slug_s": "princeton-47429b62j",
+  "layer_id_s": "pulmap-restricted:47429b62j",
+  "layer_modified_dt": "2014-12-19T16:18:36Z",
+  "layer_geom_type_s": "Polygon",
+  "solr_geom": "ENVELOPE(-74.781553, -74.751231, 40.226128, 40.207884)"
+}

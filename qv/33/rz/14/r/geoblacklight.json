@@ -1,0 +1,42 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/qv33rz14r",
+  "dc_creator_sm": "United States Geological Survey",
+  "dc_description_s": "A scanned USGS 1:24,000 topographic map.",
+  "dc_format_s": "Scanned Map",
+  "dc_identifier_s": "qv33rz14r",
+  "dc_language_s": "English",
+  "dc_publisher_s": "United States Geological Survey",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic map",
+    "7.5 Minute Quadrangle Map",
+    "Contour line",
+    "Elevation",
+    "Roads",
+    "geoscientificInformation"
+  ],
+  "dc_title_s": "Hackensack Quadrangle, New Jersey, 7.5 minute series (topographic) ",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://geowebservices.princeton.edu/iiif/pulmap%2Fqv%2F33%2Frz%2F14%2Fr%2F00000001.jp2%2Finfo.json\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/qv33rz14r\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/qv33rz14r/fgdc.xml\"}",
+  "dct_spatial_sm": [
+    "Hackensack",
+    "Garfield",
+    "Paterson",
+    "Fair Lawn",
+    "Teaneck",
+    "Bergenfield",
+    "Oradell",
+    "Hohokus",
+    "New Jersey"
+  ],
+  "dct_issued_s": "1955",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "40.8750 -74.1250 41.000 -74.000",
+  "georss_polygon_s": "41.000 -74.1250 41.000 -74.000 40.8750 -74.000 40.8750 -74.1250 41.000 -74.1250",
+  "layer_slug_s": "princeton-qv33rz14r",
+  "layer_id_s": "qv33rz14r",
+  "layer_modified_dt": "2015-01-11T17:42:46Z",
+  "layer_geom_type_s": "Image",
+  "solr_geom": "ENVELOPE(-74.1250, -74.000, 41.000, 40.8750)",
+  "solr_year_i": "1955"
+}

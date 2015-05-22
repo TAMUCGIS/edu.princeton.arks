@@ -1,0 +1,32 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/gh93h1258",
+  "dc_creator_sm": "LAND INFO Worldwide Mapping, LLC",
+  "dc_description_s": "Barcelona streets and roads data. DigitalGlobe QuickBird CitySphere acquired.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "gh93h1258",
+  "dc_language_s": "English",
+  "dc_publisher_s": "LAND INFO Worldwide Mapping, LLC",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Transportation networks",
+    "Roads",
+    "Streets"
+  ],
+  "dc_title_s": "Barcelona roads",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/gh93h1258/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/gh93h1258/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/gh93h1258\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": [
+    "Barcelona",
+    "Spain"
+  ],
+  "dct_issued_s": "2006",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "41.268310 1.980961 41.466089 2.279891",
+  "georss_polygon_s": "41.466089 1.980961 41.466089 2.279891 41.268310 2.279891 41.268310 1.980961 41.466089 1.980961",
+  "layer_slug_s": "princeton-gh93h1258",
+  "layer_id_s": "pulmap-restricted:gh93h1258",
+  "layer_modified_dt": "2014-12-19T16:18:34Z",
+  "layer_geom_type_s": "Line",
+  "solr_geom": "ENVELOPE(1.980961, 2.279891, 41.466089, 41.268310)",
+  "solr_year_i": "2006"
+}

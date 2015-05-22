@@ -1,0 +1,43 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/zp38wf02p",
+  "dc_creator_sm": "Boundary Solutions, Inc.",
+  "dc_description_s": "Land parcels in Passaic County, New Jersey, 2010.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "zp38wf02p",
+  "dc_language_s": "English",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "land value",
+    "value",
+    "buildings",
+    "stories",
+    "floors",
+    "planningCadastre"
+  ],
+  "dc_title_s": "Passaic County, New Jersey land parcels, 2010",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/zp38wf02p/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/zp38wf02p/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/zp38wf02p\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": [
+    "New Jersey",
+    "Passaic County",
+    "Passaic",
+    "Paterson"
+  ],
+  "dct_issued_s": "20100201",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "40.820689 -74.503212 41.203241 -74.107390",
+  "georss_polygon_s": "41.203241 -74.503212 41.203241 -74.107390 40.820689 -74.107390 40.820689 -74.503212 41.203241 -74.503212",
+  "layer_slug_s": "princeton-zp38wf02p",
+  "layer_id_s": "pulmap-restricted:zp38wf02p",
+  "layer_modified_dt": "2014-12-19T16:18:31Z",
+  "layer_geom_type_s": "Polygon",
+  "solr_geom": "ENVELOPE(-74.503212, -74.107390, 41.203241, 40.820689)"
+}

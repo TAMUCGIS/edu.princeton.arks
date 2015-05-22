@@ -1,0 +1,30 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/47429b561",
+  "dc_creator_sm": "GfK MACON",
+  "dc_description_s": "This data includes Austria cities with population 5 thousand and more created by GfK MACON company, Germany.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "47429b561",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Cities",
+    "Location",
+    "Cities 5K"
+  ],
+  "dc_title_s": "Austria Cities With Population 5 Thousand and More, 2006",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/47429b561/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/47429b561/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/47429b561\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": "Austria",
+  "dct_temporal_sm": "2006",
+  "dct_issued_s": "2006",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "46.409500 9.899251 48.867580 17.031444",
+  "georss_polygon_s": "48.867580 9.899251 48.867580 17.031444 46.409500 17.031444 46.409500 9.899251 48.867580 9.899251",
+  "layer_slug_s": "princeton-47429b561",
+  "layer_id_s": "pulmap-restricted:47429b561",
+  "layer_modified_dt": "2014-12-19T16:18:36Z",
+  "layer_geom_type_s": "Point",
+  "solr_geom": "ENVELOPE(9.899251, 17.031444, 48.867580, 46.409500)",
+  "solr_year_i": "2006"
+}

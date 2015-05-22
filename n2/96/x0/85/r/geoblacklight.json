@@ -1,0 +1,31 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/n296x085r",
+  "dc_creator_sm": "GfK MACON",
+  "dc_description_s": "This data includes Chile cities with population 10,000 to 50,000 created by GfK MACON company, Germany.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "n296x085r",
+  "dc_language_s": "English",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Cities",
+    "Location",
+    "Cities 10 to 50 thousands",
+    "Cities 10K",
+    "Cities 50K",
+    "point"
+  ],
+  "dc_title_s": "Chile Cities with Population From 10 Thousand to 50 Thousand, 1995",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/n296x085r/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/n296x085r/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/n296x085r\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": "Chile",
+  "dct_issued_s": "1995",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "-55.9751 -75.947 -17.2876 -66.9542",
+  "georss_polygon_s": "-17.2876 -75.947 -17.2876 -66.9542 -55.9751 -66.9542 -55.9751 -75.947 -17.2876 -75.947",
+  "layer_slug_s": "princeton-n296x085r",
+  "layer_id_s": "pulmap-restricted:n296x085r",
+  "layer_modified_dt": "2014-12-19T16:18:33Z",
+  "layer_geom_type_s": "Point",
+  "solr_geom": "ENVELOPE(-75.947, -66.9542, -17.2876, -55.9751)",
+  "solr_year_i": "1995"
+}

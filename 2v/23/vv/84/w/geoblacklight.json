@@ -1,0 +1,38 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/2v23vv84w",
+  "dc_creator_sm": "Boundary Solutions, Inc.",
+  "dc_description_s": "Land parcels in Madera County, California, 2004.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "2v23vv84w",
+  "dc_language_s": "English",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "parcels",
+    "tax parcels",
+    "land use",
+    "property maps",
+    "cadastral maps",
+    "ownership",
+    "parcel",
+    "property",
+    "land value",
+    "value",
+    "planningCadastre"
+  ],
+  "dc_title_s": "Madera County, California land parcels, 2004",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/2v23vv84w/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/2v23vv84w/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/2v23vv84w\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": [
+    "California",
+    "Madera County"
+  ],
+  "dct_issued_s": "20040505",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "36.763204 -120.544983 37.778195 -119.023040",
+  "georss_polygon_s": "37.778195 -120.544983 37.778195 -119.023040 36.763204 -119.023040 36.763204 -120.544983 37.778195 -120.544983",
+  "layer_slug_s": "princeton-2v23vv84w",
+  "layer_id_s": "pulmap-restricted:2v23vv84w",
+  "layer_modified_dt": "2014-12-19T16:18:36Z",
+  "layer_geom_type_s": "Polygon",
+  "solr_geom": "ENVELOPE(-120.544983, -119.023040, 37.778195, 36.763204)"
+}

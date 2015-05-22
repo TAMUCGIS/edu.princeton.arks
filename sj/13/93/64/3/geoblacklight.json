@@ -1,0 +1,30 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/sj1393643",
+  "dc_creator_sm": "GfK MACON",
+  "dc_description_s": "This data includes El Salvador major roads created by GfK MACON company, Germany.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "sj1393643",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Roads",
+    "Transportation",
+    "Major Roads"
+  ],
+  "dc_title_s": "El Salvador Major Roads, 1992",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/sj1393643/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/sj1393643/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/sj1393643\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": "El Salvador",
+  "dct_temporal_sm": "2006",
+  "dct_issued_s": "2005",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "13.174469 -90.086449 14.411586 -87.818420",
+  "georss_polygon_s": "14.411586 -90.086449 14.411586 -87.818420 13.174469 -87.818420 13.174469 -90.086449 14.411586 -90.086449",
+  "layer_slug_s": "princeton-sj1393643",
+  "layer_id_s": "pulmap-restricted:sj1393643",
+  "layer_modified_dt": "2014-12-19T16:18:32Z",
+  "layer_geom_type_s": "Line",
+  "solr_geom": "ENVELOPE(-90.086449, -87.818420, 14.411586, 13.174469)",
+  "solr_year_i": "2006"
+}

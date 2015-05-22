@@ -1,0 +1,35 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/8p58pf70c",
+  "dc_creator_sm": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_description_s": "Idaho Block Centroid Populations represents the population of the U.S. Census block centroids for Idaho.  U.S. Census blocks are the smallest geographic entities within a county for which the Census Bureau tabulates population.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "8p58pf70c",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "point",
+    "census block centroids",
+    "census blocks",
+    "population",
+    "society"
+  ],
+  "dc_title_s": "Idaho Block Centroid Populations 2002",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/8p58pf70c/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/8p58pf70c/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/8p58pf70c\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": [
+    "United States",
+    "Idaho"
+  ],
+  "dct_temporal_sm": "2000",
+  "dct_issued_s": "20020401",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "41.988966 -117.232325 49.000591 -111.044179",
+  "georss_polygon_s": "49.000591 -117.232325 49.000591 -111.044179 41.988966 -111.044179 41.988966 -117.232325 49.000591 -117.232325",
+  "layer_slug_s": "princeton-8p58pf70c",
+  "layer_id_s": "pulmap-restricted:8p58pf70c",
+  "layer_modified_dt": "2014-12-19T16:18:35Z",
+  "layer_geom_type_s": "Point",
+  "solr_geom": "ENVELOPE(-117.232325, -111.044179, 49.000591, 41.988966)",
+  "solr_year_i": "2000"
+}

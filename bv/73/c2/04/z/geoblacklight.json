@@ -1,0 +1,28 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/bv73c204z",
+  "dc_creator_sm": "City of Trenton Division of Planning",
+  "dc_description_s": "\nThis polygon dataset contains area designated as Urban Enterprise Zones for the City of Trenton, New Jersey\n",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "bv73c204z",
+  "dc_language_s": "English",
+  "dc_publisher_s": "City of Trenton",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Urban Enterprise Zones",
+    "Economy"
+  ],
+  "dc_title_s": "Trenton Urban Enterprise Zones",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/bv73c204z/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/bv73c204z/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/bv73c204z\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": "Trenton",
+  "dct_issued_s": "2004",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "40.184531 -74.785305 40.244091 -74.728687",
+  "georss_polygon_s": "40.244091 -74.785305 40.244091 -74.728687 40.184531 -74.728687 40.184531 -74.785305 40.244091 -74.785305",
+  "layer_slug_s": "princeton-bv73c204z",
+  "layer_id_s": "pulmap-restricted:bv73c204z",
+  "layer_modified_dt": "2014-12-19T16:18:35Z",
+  "layer_geom_type_s": "Polygon",
+  "solr_geom": "ENVELOPE(-74.785305, -74.728687, 40.244091, 40.184531)",
+  "solr_year_i": "2004"
+}

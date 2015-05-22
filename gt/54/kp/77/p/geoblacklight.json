@@ -1,0 +1,27 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/gt54kp77p",
+  "dc_creator_sm": "City of Trenton Division of Planning",
+  "dc_description_s": "Trenton's Urban Transit Hub Area is a 1/2 mile area around the Trenton Train Station as per the Urban Transit Hub legislation.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "gt54kp77p",
+  "dc_language_s": "English",
+  "dc_publisher_s": "City of Trenton",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Urban Transit Hub",
+    "Transportation"
+  ],
+  "dc_title_s": "Trenton Urban Transit Hub Area",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/gt54kp77p/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/gt54kp77p/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/gt54kp77p\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": "Trenton",
+  "dct_issued_s": "10282008",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "40.211753 -74.762783 40.226289 -74.743822",
+  "georss_polygon_s": "40.226289 -74.762783 40.226289 -74.743822 40.211753 -74.743822 40.211753 -74.762783 40.226289 -74.762783",
+  "layer_slug_s": "princeton-gt54kp77p",
+  "layer_id_s": "pulmap-restricted:gt54kp77p",
+  "layer_modified_dt": "2014-12-19T16:18:34Z",
+  "layer_geom_type_s": "Polygon",
+  "solr_geom": "ENVELOPE(-74.762783, -74.743822, 40.226289, 40.211753)"
+}

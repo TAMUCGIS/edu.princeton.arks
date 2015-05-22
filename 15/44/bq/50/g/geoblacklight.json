@@ -1,0 +1,32 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/1544bq50g",
+  "dc_creator_sm": "LeadDog Consulting, LLC",
+  "dc_description_s": "Mexico City streets and roads",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "1544bq50g",
+  "dc_language_s": "English",
+  "dc_publisher_s": "LeadDog Consulting, LLC",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Transportation networks",
+    "Streets",
+    "Roads"
+  ],
+  "dc_title_s": "Mexico City streets and roads",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/1544bq50g/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/1544bq50g/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/1544bq50g\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": [
+    "Mexico",
+    "Mexico City "
+  ],
+  "dct_issued_s": "2006",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "19.164689 -99.359457 19.861811 -98.828100",
+  "georss_polygon_s": "19.861811 -99.359457 19.861811 -98.828100 19.164689 -98.828100 19.164689 -99.359457 19.861811 -99.359457",
+  "layer_slug_s": "princeton-1544bq50g",
+  "layer_id_s": "pulmap-restricted:1544bq50g",
+  "layer_modified_dt": "2014-12-19T16:18:37Z",
+  "layer_geom_type_s": "Line",
+  "solr_geom": "ENVELOPE(-99.359457, -98.828100, 19.861811, 19.164689)",
+  "solr_year_i": "2006"
+}

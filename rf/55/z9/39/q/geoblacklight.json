@@ -1,0 +1,38 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/rf55z939q",
+  "dc_creator_sm": "Boundary Solutions, Inc.",
+  "dc_description_s": "Land parcels in Pulaski County, Arkansas, 2009.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "rf55z939q",
+  "dc_language_s": "English",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "parcels",
+    "tax parcels",
+    "property maps",
+    "land use",
+    "cadastral maps",
+    "parcel",
+    "ownership",
+    "land value",
+    "property",
+    "planningCadastre"
+  ],
+  "dc_title_s": "Pulaski County, Arkansas land parcels, 2009",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/rf55z939q/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/rf55z939q/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/rf55z939q\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": [
+    "Arkansas",
+    "Pulaski County",
+    "Little Rock"
+  ],
+  "dct_issued_s": "20090514",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "34.489434 -92.755602 35.014551 -92.029420",
+  "georss_polygon_s": "35.014551 -92.755602 35.014551 -92.029420 34.489434 -92.029420 34.489434 -92.755602 35.014551 -92.755602",
+  "layer_slug_s": "princeton-rf55z939q",
+  "layer_id_s": "pulmap-restricted:rf55z939q",
+  "layer_modified_dt": "2014-12-19T16:18:32Z",
+  "layer_geom_type_s": "Polygon",
+  "solr_geom": "ENVELOPE(-92.755602, -92.029420, 35.014551, 34.489434)"
+}

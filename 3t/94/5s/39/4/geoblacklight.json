@@ -1,0 +1,33 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/3t945s394",
+  "dc_creator_sm": "LeadDog Consulting, LLC",
+  "dc_description_s": "Basic Geographic Statistical Areas (AGEB, Áreas Geográfico Estadísticas Básicas) in Colima, Mexico, 2011.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "3t945s394",
+  "dc_language_s": "English",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "boundaries",
+    "statistical area",
+    "statistical areas",
+    "census",
+    "boundaries",
+    "location"
+  ],
+  "dc_title_s": "Colima, Mexico Basic Geographic Statistical Areas, 2011",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/3t945s394/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/3t945s394/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/3t945s394\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": [
+    "Mexico",
+    "Colima"
+  ],
+  "dct_issued_s": "20110401",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "18.743222 -104.402803 19.396489 -103.565056",
+  "georss_polygon_s": "19.396489 -104.402803 19.396489 -103.565056 18.743222 -103.565056 18.743222 -104.402803 19.396489 -104.402803",
+  "layer_slug_s": "princeton-3t945s394",
+  "layer_id_s": "pulmap-restricted:3t945s394",
+  "layer_modified_dt": "2014-12-19T16:18:36Z",
+  "layer_geom_type_s": "Polygon",
+  "solr_geom": "ENVELOPE(-104.402803, -103.565056, 19.396489, 18.743222)"
+}

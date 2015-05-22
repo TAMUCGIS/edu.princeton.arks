@@ -1,0 +1,32 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/2801ph879",
+  "dc_creator_sm": "ESRI",
+  "dc_description_s": "World Latitude and Longitude Grids represents a 5 by 5 degree latitude/longitude grid covering the world with attributes that allow you to display grids at intervals of 5, 10, 15, 20, and 30 degrees. To display a grid with a 5-degree interval, simply display all of the lines. To display a coarser grid, for example, a 15-degree interval, define the theme properties as lines with the Degree15 attribute equal to Y.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "2801ph879",
+  "dc_language_s": "English",
+  "dc_publisher_s": "ESRI",
+  "dc_rights_s": "Restricted",
+  "dc_subject_sm": [
+    "line",
+    "latitudes",
+    "longitudes",
+    "grids",
+    "location"
+  ],
+  "dc_title_s": "World Latitude and Longitude Grids 2008",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/2801ph879\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/2801ph879/fgdc.xml\"}",
+  "dct_spatial_sm": "World",
+  "dct_temporal_sm": "1996",
+  "dct_issued_s": "20080401",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "-90.000000 -180.000000 90.000000 180.000000",
+  "georss_polygon_s": "90.000000 -180.000000 90.000000 180.000000 -90.000000 180.000000 -90.000000 -180.000000 90.000000 -180.000000",
+  "layer_slug_s": "princeton-2801ph879",
+  "layer_id_s": "pulmap-restricted:2801ph879",
+  "layer_modified_dt": "2014-12-19T16:18:37Z",
+  "layer_geom_type_s": "Line",
+  "solr_geom": "ENVELOPE(-180.000000, 180.000000, 90.000000, -90.000000)",
+  "solr_year_i": "1996"
+}

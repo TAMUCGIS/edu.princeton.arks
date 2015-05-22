@@ -1,0 +1,30 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/v979v467h",
+  "dc_creator_sm": "GfK MACON",
+  "dc_description_s": "This data includes Myanmar cities with population between 25 thousand and 50 thousand created by GfK MACON company, Germany.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "v979v467h",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "City",
+    "Location",
+    "Cities 25K"
+  ],
+  "dc_title_s": "Myanmar Cities With Population From 25 Thousand To 50 Thousand, 1996",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/v979v467h/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/v979v467h/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/v979v467h\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": "Myanmar",
+  "dct_temporal_sm": "2006",
+  "dct_issued_s": "2005",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "15.248716 92.424431 24.754498 98.389458",
+  "georss_polygon_s": "24.754498 92.424431 24.754498 98.389458 15.248716 98.389458 15.248716 92.424431 24.754498 92.424431",
+  "layer_slug_s": "princeton-v979v467h",
+  "layer_id_s": "pulmap-restricted:v979v467h",
+  "layer_modified_dt": "2014-12-19T16:18:32Z",
+  "layer_geom_type_s": "Point",
+  "solr_geom": "ENVELOPE(92.424431, 98.389458, 24.754498, 15.248716)",
+  "solr_year_i": "2006"
+}

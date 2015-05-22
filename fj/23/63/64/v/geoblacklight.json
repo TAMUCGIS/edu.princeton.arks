@@ -1,0 +1,34 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/fj236364v",
+  "dc_creator_sm": "LeadDog Consulting, LLC",
+  "dc_description_s": "Basic Geographic Statistical Areas (AGEB, Áreas Geográfico Estadísticas Básicas) in Baja California, Mexico, 2011.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "fj236364v",
+  "dc_language_s": "English",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "boundaries",
+    "statistical area",
+    "statistical areas",
+    "census",
+    "boundaries",
+    "location"
+  ],
+  "dc_title_s": "Baja California, Mexico Basic Geographic Statistical Areas, 2011",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/fj236364v/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/fj236364v/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/fj236364v\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": [
+    "Mexico",
+    "Baja California",
+    "Baja"
+  ],
+  "dct_issued_s": "20110401",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "30.505605 -117.124964 32.718293 -114.724447",
+  "georss_polygon_s": "32.718293 -117.124964 32.718293 -114.724447 30.505605 -114.724447 30.505605 -117.124964 32.718293 -117.124964",
+  "layer_slug_s": "princeton-fj236364v",
+  "layer_id_s": "pulmap-restricted:fj236364v",
+  "layer_modified_dt": "2014-12-19T16:18:34Z",
+  "layer_geom_type_s": "Polygon",
+  "solr_geom": "ENVELOPE(-117.124964, -114.724447, 32.718293, 30.505605)"
+}

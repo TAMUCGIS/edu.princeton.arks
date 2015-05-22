@@ -1,0 +1,39 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/hd76s178t",
+  "dc_creator_sm": "Originally developed by R & S Digital, Goodland, KS. Currenty updated, edited, and maintained by Assessment Division, City & County of Denver",
+  "dc_description_s": "The parcels of the City and County of Denver as of 2006. The geometry of this data is not of survey quality and should not be used for survey purposes. It is for general reference purposes only.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "hd76s178t",
+  "dc_language_s": "English",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "parcel",
+    "parcels",
+    "tax parcels",
+    "property",
+    "property maps",
+    "cadastral maps",
+    "value",
+    "land value",
+    "land use",
+    "buildings",
+    "planningCadastre"
+  ],
+  "dc_title_s": "Denver County, Colorado land parcels, 2006",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/hd76s178t/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/hd76s178t/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/hd76s178t\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": [
+    "Colorado",
+    "Denver County",
+    "Denver"
+  ],
+  "dct_issued_s": "20061201",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "39.612738 -105.109833 39.914193 -104.599539",
+  "georss_polygon_s": "39.914193 -105.109833 39.914193 -104.599539 39.612738 -104.599539 39.612738 -105.109833 39.914193 -105.109833",
+  "layer_slug_s": "princeton-hd76s178t",
+  "layer_id_s": "pulmap-restricted:hd76s178t",
+  "layer_modified_dt": "2014-12-19T16:18:34Z",
+  "layer_geom_type_s": "Polygon",
+  "solr_geom": "ENVELOPE(-105.109833, -104.599539, 39.914193, 39.612738)"
+}

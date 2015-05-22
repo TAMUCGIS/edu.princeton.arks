@@ -1,0 +1,33 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/x059c8855",
+  "dc_creator_sm": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_description_s": "Canada Roads represents the expressways and primary highways of Canada.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "x059c8855",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "line",
+    "highways",
+    "expressways",
+    "primary highways",
+    "major multi lanes",
+    "roads"
+  ],
+  "dc_title_s": "Canada Roads 1999",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/x059c8855/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/x059c8855/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/x059c8855\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": "Canada",
+  "dct_temporal_sm": "1998",
+  "dct_issued_s": "19990801",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "42.232533 -141.000000 64.327400 -52.779598",
+  "georss_polygon_s": "64.327400 -141.000000 64.327400 -52.779598 42.232533 -52.779598 42.232533 -141.000000 64.327400 -141.000000",
+  "layer_slug_s": "princeton-x059c8855",
+  "layer_id_s": "pulmap-restricted:x059c8855",
+  "layer_modified_dt": "2014-12-19T16:18:31Z",
+  "layer_geom_type_s": "Line",
+  "solr_geom": "ENVELOPE(-141.000000, -52.779598, 64.327400, 42.232533)",
+  "solr_year_i": "1998"
+}

@@ -1,0 +1,35 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/5t34sm33m",
+  "dc_creator_sm": "LeadDog Consulting, LLC",
+  "dc_description_s": "Basic Geographic Statistical Areas (AGEB, Áreas Geográfico Estadísticas Básicas) in Quintana Roo, Mexico, 2011.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "5t34sm33m",
+  "dc_language_s": "English",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "boundaries",
+    "statistical area",
+    "statistical areas",
+    "census",
+    "boundaries",
+    "location"
+  ],
+  "dc_title_s": "Quintana Roo, Mexico Basic Geographic Statistical Areas, 2011",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/5t34sm33m/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/5t34sm33m/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/5t34sm33m\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": [
+    "Mexico",
+    "Quintana Roo",
+    "Quintana",
+    "Roo"
+  ],
+  "dct_issued_s": "20110401",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "18.265355 -88.936478 21.265675 -86.723491",
+  "georss_polygon_s": "21.265675 -88.936478 21.265675 -86.723491 18.265355 -86.723491 18.265355 -88.936478 21.265675 -88.936478",
+  "layer_slug_s": "princeton-5t34sm33m",
+  "layer_id_s": "pulmap-restricted:5t34sm33m",
+  "layer_modified_dt": "2014-12-19T16:18:36Z",
+  "layer_geom_type_s": "Polygon",
+  "solr_geom": "ENVELOPE(-88.936478, -86.723491, 21.265675, 18.265355)"
+}

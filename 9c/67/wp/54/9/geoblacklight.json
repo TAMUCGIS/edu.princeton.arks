@@ -1,0 +1,28 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/9c67wp549",
+  "dc_creator_sm": "ML Infomap Pvt. Ltd.",
+  "dc_description_s": "Digital map of locations of district and other hospitals in India, 2013.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "9c67wp549",
+  "dc_language_s": "English",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "hospital",
+    "hospitals",
+    "health",
+    "health"
+  ],
+  "dc_title_s": "India hospitals, 2013",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/9c67wp549/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/9c67wp549/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/9c67wp549\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": "India",
+  "dct_issued_s": "20140501",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "8.390170 72.629646 32.745383 91.307327",
+  "georss_polygon_s": "32.745383 72.629646 32.745383 91.307327 8.390170 91.307327 8.390170 72.629646 32.745383 72.629646",
+  "layer_slug_s": "princeton-9c67wp549",
+  "layer_id_s": "pulmap-restricted:9c67wp549",
+  "layer_modified_dt": "2014-12-19T16:18:35Z",
+  "layer_geom_type_s": "Point",
+  "solr_geom": "ENVELOPE(72.629646, 91.307327, 32.745383, 8.390170)"
+}

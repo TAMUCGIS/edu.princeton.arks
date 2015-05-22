@@ -1,0 +1,32 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/00000162k",
+  "dc_creator_sm": "LeadDog Consulting, LLC",
+  "dc_description_s": "Mecca streets and roads",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "00000162k",
+  "dc_language_s": "English",
+  "dc_publisher_s": "LeadDog Consulting, LLC",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Transportation networks",
+    "Streets",
+    "Roads"
+  ],
+  "dc_title_s": "Mecca Streets and roads",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/00000162k/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/00000162k/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/00000162k\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": [
+    "Saudi Arabia",
+    "Mecca "
+  ],
+  "dct_issued_s": "2006",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "21.381173 39.773726 21.466303 39.906508",
+  "georss_polygon_s": "21.466303 39.773726 21.466303 39.906508 21.381173 39.906508 21.381173 39.773726 21.466303 39.773726",
+  "layer_slug_s": "princeton-00000162k",
+  "layer_id_s": "pulmap-restricted:00000162k",
+  "layer_modified_dt": "2014-12-19T16:18:37Z",
+  "layer_geom_type_s": "Line",
+  "solr_geom": "ENVELOPE(39.773726, 39.906508, 21.466303, 21.381173)",
+  "solr_year_i": "2006"
+}

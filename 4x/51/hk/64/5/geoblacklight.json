@@ -1,0 +1,29 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/4x51hk645",
+  "dc_creator_sm": "GfK MACON",
+  "dc_description_s": "This data include major powerlines of Turkey created by GfK MACON company, Germany.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "4x51hk645",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "utilitiesCommunication",
+    "power lines"
+  ],
+  "dc_title_s": "Turkey Major Power Lines, 2005",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/4x51hk645/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/4x51hk645/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/4x51hk645\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": "Turkey",
+  "dct_temporal_sm": "2006",
+  "dct_issued_s": "2005",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "36.062946 26.213833 42.041611 44.495224",
+  "georss_polygon_s": "42.041611 26.213833 42.041611 44.495224 36.062946 44.495224 36.062946 26.213833 42.041611 26.213833",
+  "layer_slug_s": "princeton-4x51hk645",
+  "layer_id_s": "pulmap-restricted:4x51hk645",
+  "layer_modified_dt": "2014-12-19T16:18:36Z",
+  "layer_geom_type_s": "Line",
+  "solr_geom": "ENVELOPE(26.213833, 44.495224, 42.041611, 36.062946)",
+  "solr_year_i": "2006"
+}

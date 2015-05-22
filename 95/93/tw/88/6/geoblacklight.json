@@ -1,0 +1,31 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/9593tw886",
+  "dc_creator_sm": "AND Data Solutions, B.V.",
+  "dc_description_s": "Europe Canals represents the canals of Europe.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "9593tw886",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "polygon",
+    "canals",
+    "water",
+    "transportation"
+  ],
+  "dc_title_s": "Europe Canals 2000",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/9593tw886/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/9593tw886/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/9593tw886\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": "Europe",
+  "dct_temporal_sm": "1999",
+  "dct_issued_s": "20001101",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "43.022600 -8.215300 64.518900 34.823200",
+  "georss_polygon_s": "64.518900 -8.215300 64.518900 34.823200 43.022600 34.823200 43.022600 -8.215300 64.518900 -8.215300",
+  "layer_slug_s": "princeton-9593tw886",
+  "layer_id_s": "pulmap-restricted:9593tw886",
+  "layer_modified_dt": "2014-12-19T16:18:35Z",
+  "layer_geom_type_s": "Polygon",
+  "solr_geom": "ENVELOPE(-8.215300, 34.823200, 64.518900, 43.022600)",
+  "solr_year_i": "1999"
+}

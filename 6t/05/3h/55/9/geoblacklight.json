@@ -1,0 +1,31 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/6t053h559",
+  "dc_creator_sm": "LeadDog Consulting, LLC",
+  "dc_description_s": "Shanghai landmass",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "6t053h559",
+  "dc_language_s": "English",
+  "dc_publisher_s": "LeadDog Consulting, LLC",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Imagery, basemaps, and land cover",
+    "Landmass"
+  ],
+  "dc_title_s": "SH_Landmass_region",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/6t053h559/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/6t053h559/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/6t053h559\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": [
+    "Shanghai",
+    "China"
+  ],
+  "dct_issued_s": "2006",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "30.688945 120.849471 31.863911 121.958932",
+  "georss_polygon_s": "31.863911 120.849471 31.863911 121.958932 30.688945 121.958932 30.688945 120.849471 31.863911 120.849471",
+  "layer_slug_s": "princeton-6t053h559",
+  "layer_id_s": "pulmap-restricted:6t053h559",
+  "layer_modified_dt": "2014-12-19T16:18:36Z",
+  "layer_geom_type_s": "Polygon",
+  "solr_geom": "ENVELOPE(120.849471, 121.958932, 31.863911, 30.688945)",
+  "solr_year_i": "2006"
+}

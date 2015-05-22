@@ -1,0 +1,30 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/cj82k872m",
+  "dc_creator_sm": "GfK MACON",
+  "dc_description_s": "This data includes Switzerland minor roads created by GfK MACON company, Germany.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "cj82k872m",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Roads",
+    "Transportation",
+    "Minor Roads"
+  ],
+  "dc_title_s": "Switzerland Minor Roads, 2006",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/cj82k872m/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/cj82k872m/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/cj82k872m\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": "Switzerland",
+  "dct_temporal_sm": "2006",
+  "dct_issued_s": "2006",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "45.983314 6.052279 47.662950 10.482870",
+  "georss_polygon_s": "47.662950 6.052279 47.662950 10.482870 45.983314 10.482870 45.983314 6.052279 47.662950 6.052279",
+  "layer_slug_s": "princeton-cj82k872m",
+  "layer_id_s": "pulmap-restricted:cj82k872m",
+  "layer_modified_dt": "2014-12-19T16:18:35Z",
+  "layer_geom_type_s": "Line",
+  "solr_geom": "ENVELOPE(6.052279, 10.482870, 47.662950, 45.983314)",
+  "solr_year_i": "2006"
+}

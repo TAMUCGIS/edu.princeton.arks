@@ -1,0 +1,42 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/05741t47x",
+  "dc_creator_sm": "Geographic Data Technology, Inc. (GDT)",
+  "dc_description_s": "Iowa ZIP Code Areas represents five-digit ZIP Code areas used by the U.S. Postal Service to deliver mail more effectively.  The first digit of a five-digit ZIP Code divides the country into 10 large groups of states numbered from 0 in the Northeast to 9 in the far West.  Within these areas, each state is divided into an average of 10 smaller geographical areas, identified by the 2nd and 3rd digits.  These digits, in conjunction with the first digit, represent a sectional center facility or a mail processing facility area.  The 4th and 5th digits identify a post office, station, branch or local delivery area.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "05741t47x",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_rights_s": "Restricted",
+  "dc_subject_sm": [
+    "polygon",
+    "zip codes",
+    "areas",
+    "five-digit zip codes",
+    "post offices",
+    "population",
+    "location",
+    "society"
+  ],
+  "dc_title_s": "Iowa ZIP Code Areas 2002",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/05741t47x\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/05741t47x/fgdc.xml\"}",
+  "dct_spatial_sm": [
+    "United States",
+    "Iowa"
+  ],
+  "dct_temporal_sm": [
+    "2001",
+    "2000",
+    "2001"
+  ],
+  "dct_issued_s": "20020401",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "40.375810 -96.639857 43.500789 -90.158374",
+  "georss_polygon_s": "43.500789 -96.639857 43.500789 -90.158374 40.375810 -90.158374 40.375810 -96.639857 43.500789 -96.639857",
+  "layer_slug_s": "princeton-05741t47x",
+  "layer_id_s": "pulmap-restricted:05741t47x",
+  "layer_modified_dt": "2014-12-19T16:18:37Z",
+  "layer_geom_type_s": "Polygon",
+  "solr_geom": "ENVELOPE(-96.639857, -90.158374, 43.500789, 40.375810)",
+  "solr_year_i": "2001"
+}

@@ -1,0 +1,30 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/gm80hw81v",
+  "dc_creator_sm": "GfK MACON",
+  "dc_description_s": "This data includes Jamaica major roads created by GfK MACON company, Germany.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "gm80hw81v",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Roads",
+    "Transportation",
+    "Major Roads"
+  ],
+  "dc_title_s": "Jamaica Major Roads, 1995",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/gm80hw81v/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/gm80hw81v/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/gm80hw81v\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": "Jamaica",
+  "dct_temporal_sm": "2006",
+  "dct_issued_s": "2005",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "17.797621 -78.345261 18.520878 -76.246429",
+  "georss_polygon_s": "18.520878 -78.345261 18.520878 -76.246429 17.797621 -76.246429 17.797621 -78.345261 18.520878 -78.345261",
+  "layer_slug_s": "princeton-gm80hw81v",
+  "layer_id_s": "pulmap-restricted:gm80hw81v",
+  "layer_modified_dt": "2014-12-19T16:18:34Z",
+  "layer_geom_type_s": "Line",
+  "solr_geom": "ENVELOPE(-78.345261, -76.246429, 18.520878, 17.797621)",
+  "solr_year_i": "2006"
+}

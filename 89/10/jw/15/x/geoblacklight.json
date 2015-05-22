@@ -1,0 +1,42 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/8910jw15x",
+  "dc_creator_sm": "Boundary Solutions, Inc.",
+  "dc_description_s": "Land parcels in Arapahoe County, Colorado, 2010.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "8910jw15x",
+  "dc_language_s": "English",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "parcel",
+    "parcels",
+    "tax parcels",
+    "parcels",
+    "property",
+    "property maps",
+    "cadastral maps",
+    "ownership",
+    "value",
+    "land value",
+    "purchase",
+    "planningCadastre"
+  ],
+  "dc_title_s": "Arapahoe County, Colorado land parcels, 2010",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/8910jw15x/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/8910jw15x/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/8910jw15x\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": [
+    "Colorado",
+    "Arapahoe County",
+    "Denver",
+    "Aurora",
+    "Centennial"
+  ],
+  "dct_issued_s": "20100312",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "39.563702 -105.054115 39.740463 -103.706575",
+  "georss_polygon_s": "39.740463 -105.054115 39.740463 -103.706575 39.563702 -103.706575 39.563702 -105.054115 39.740463 -105.054115",
+  "layer_slug_s": "princeton-8910jw15x",
+  "layer_id_s": "pulmap-restricted:8910jw15x",
+  "layer_modified_dt": "2014-12-19T16:18:35Z",
+  "layer_geom_type_s": "Polygon",
+  "solr_geom": "ENVELOPE(-105.054115, -103.706575, 39.740463, 39.563702)"
+}

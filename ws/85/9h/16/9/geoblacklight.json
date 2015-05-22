@@ -1,0 +1,43 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/ws859h169",
+  "dc_creator_sm": "Information Services Department, County of Santa Clara",
+  "dc_description_s": "Land parcels in Santa Clara County, California, 2009.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "ws859h169",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Boundary Solutions, Inc.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "parcel",
+    "parcels",
+    "tax parcels",
+    "property",
+    "property maps",
+    "ownership",
+    "cadastral maps",
+    "land use",
+    "land value",
+    "planningCadastre"
+  ],
+  "dc_title_s": "Santa Clara County, California land parcels, 2009",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/ws859h169/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/ws859h169/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/ws859h169\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": [
+    "California",
+    "Santa Clara County",
+    "San Jose",
+    "Santa Clara",
+    "San Francisco",
+    "Bay Area",
+    "Silicon Valley"
+  ],
+  "dct_issued_s": "20090420",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "36.893026 -122.202877 37.484732 -121.208088",
+  "georss_polygon_s": "37.484732 -122.202877 37.484732 -121.208088 36.893026 -121.208088 36.893026 -122.202877 37.484732 -122.202877",
+  "layer_slug_s": "princeton-ws859h169",
+  "layer_id_s": "pulmap-restricted:ws859h169",
+  "layer_modified_dt": "2014-12-19T16:18:32Z",
+  "layer_geom_type_s": "Polygon",
+  "solr_geom": "ENVELOPE(-122.202877, -121.208088, 37.484732, 36.893026)"
+}

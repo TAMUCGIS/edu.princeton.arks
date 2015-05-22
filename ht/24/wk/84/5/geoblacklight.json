@@ -1,0 +1,30 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/ht24wk845",
+  "dc_creator_sm": "ML InfoMap Pvt. Ltd.",
+  "dc_description_s": "Socio-Demographic and Economic Census data for Gujarat",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "ht24wk845",
+  "dc_language_s": "English",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Location",
+    "Villages"
+  ],
+  "dc_title_s": "Gujarat Village Map",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/ht24wk845/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/ht24wk845/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/ht24wk845\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": [
+    "India",
+    "Gujarat"
+  ],
+  "dct_issued_s": "2006",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "20.0559 68.1793 24.6969 74.4635",
+  "georss_polygon_s": "24.6969 68.1793 24.6969 74.4635 20.0559 74.4635 20.0559 68.1793 24.6969 68.1793",
+  "layer_slug_s": "princeton-ht24wk845",
+  "layer_id_s": "pulmap-restricted:ht24wk845",
+  "layer_modified_dt": "2014-12-30T13:14:42Z",
+  "layer_geom_type_s": "Point",
+  "solr_geom": "ENVELOPE(68.1793, 74.4635, 24.6969, 20.0559)",
+  "solr_year_i": "2006"
+}

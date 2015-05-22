@@ -1,0 +1,45 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/fj236372b",
+  "dc_creator_sm": "Tele Atlas North America, Inc.",
+  "dc_description_s": "U.S. Large Area Landmarks represents common landmark areas within United States including military areas, prisons, educational institutions, amusement centers, government centers, sport centers, golf courses, and cemeteries.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "fj236372b",
+  "dc_language_s": "English",
+  "dc_publisher_s": "ESRI",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "polygon",
+    "landmarks",
+    "military installations or reservations",
+    "penitentiaries or prisons",
+    "educational institutions",
+    "amusement centers",
+    "government centers",
+    "sports centers",
+    "golf courses",
+    "cemeteries",
+    "society",
+    "structure"
+  ],
+  "dc_title_s": "U.S. Large Area Landmarks 2008",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/fj236372b/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/fj236372b/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/fj236372b\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": [
+    "United States",
+    "Puerto Rico"
+  ],
+  "dct_temporal_sm": [
+    "2007",
+    "2006"
+  ],
+  "dct_issued_s": "20080401",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "17.989100 -176.810434 68.870010 -65.986516",
+  "georss_polygon_s": "68.870010 -176.810434 68.870010 -65.986516 17.989100 -65.986516 17.989100 -176.810434 68.870010 -176.810434",
+  "layer_slug_s": "princeton-fj236372b",
+  "layer_id_s": "pulmap-restricted:fj236372b",
+  "layer_modified_dt": "2014-12-19T16:18:34Z",
+  "layer_geom_type_s": "Polygon",
+  "solr_geom": "ENVELOPE(-176.810434, -65.986516, 68.870010, 17.989100)",
+  "solr_year_i": "2007"
+}

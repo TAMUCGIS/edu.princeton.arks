@@ -1,0 +1,42 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/dv13zv76n",
+  "dc_creator_sm": "Boundary Solutions, Inc.",
+  "dc_description_s": "Land parcels in Mono County, California, 2009.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "dv13zv76n",
+  "dc_language_s": "English",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "parcel",
+    "parcels",
+    "tax parcels",
+    "property maps",
+    "cadastral maps",
+    "cadastre",
+    "assessment",
+    "ownership",
+    "land use",
+    "parcel",
+    "property",
+    "tax",
+    "value",
+    "land value",
+    "planningCadastre"
+  ],
+  "dc_title_s": "Mono County, California land parcels, 2009",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/dv13zv76n/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/dv13zv76n/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/dv13zv76n\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": [
+    "California",
+    "Mono County"
+  ],
+  "dct_issued_s": "20090223",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "37.462642 -119.650505 38.705595 -117.831802",
+  "georss_polygon_s": "38.705595 -119.650505 38.705595 -117.831802 37.462642 -117.831802 37.462642 -119.650505 38.705595 -119.650505",
+  "layer_slug_s": "princeton-dv13zv76n",
+  "layer_id_s": "pulmap-restricted:dv13zv76n",
+  "layer_modified_dt": "2014-12-19T16:18:34Z",
+  "layer_geom_type_s": "Polygon",
+  "solr_geom": "ENVELOPE(-119.650505, -117.831802, 38.705595, 37.462642)"
+}

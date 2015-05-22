@@ -1,0 +1,30 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/mg74qn80p",
+  "dc_creator_sm": "GfK MACON",
+  "dc_description_s": "This data includes Lithuania cities with population between 50 thousand and 100 thousand created by GfK MACON company, Germany.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "mg74qn80p",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "City",
+    "Location",
+    "Cities 50K"
+  ],
+  "dc_title_s": "Lithuania Cities With Population From 50 Thousand To 100 Thousand, 2004",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/mg74qn80p/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/mg74qn80p/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/mg74qn80p\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": "Lithuania",
+  "dct_temporal_sm": "2006",
+  "dct_issued_s": "2005",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "52.218649 24.359598 55.537121 30.403690",
+  "georss_polygon_s": "55.537121 24.359598 55.537121 30.403690 52.218649 30.403690 52.218649 24.359598 55.537121 24.359598",
+  "layer_slug_s": "princeton-mg74qn80p",
+  "layer_id_s": "pulmap-restricted:mg74qn80p",
+  "layer_modified_dt": "2014-12-19T16:18:33Z",
+  "layer_geom_type_s": "Point",
+  "solr_geom": "ENVELOPE(24.359598, 30.403690, 55.537121, 52.218649)",
+  "solr_year_i": "2006"
+}

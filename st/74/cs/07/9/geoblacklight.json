@@ -1,0 +1,41 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/st74cs079",
+  "dc_creator_sm": "United States Geological Survey",
+  "dc_description_s": "A scanned USGS 1:62500 topographic map.",
+  "dc_format_s": "Scanned Map",
+  "dc_identifier_s": "st74cs079",
+  "dc_language_s": "English",
+  "dc_publisher_s": "United States Geological Survey",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic map",
+    "Contour line",
+    "Elevation",
+    "Roads",
+    "geoscientificInformation",
+    "15 Minute Quadrangle Map"
+  ],
+  "dc_title_s": "New Jersey, Greenwood Lake Quadrangle (1922)",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://geowebservices.princeton.edu/iiif/pulmap%2Fst%2F74%2Fcs%2F07%2F9%2F00000001.jp2%2Finfo.json\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/st74cs079\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/st74cs079/fgdc.xml\"}",
+  "dct_spatial_sm": [
+    "New Jersey",
+    "Vernon",
+    "West Milford",
+    "Pompton Lakes",
+    "Warwick, NY",
+    "Passaic County",
+    "Sussex County",
+    "Orange County, NY"
+  ],
+  "dct_issued_s": "1922",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "41.0 -74.5 41.25 -74.25",
+  "georss_polygon_s": "41.25 -74.5 41.25 -74.25 41.0 -74.25 41.0 -74.5 41.25 -74.5",
+  "layer_slug_s": "princeton-st74cs079",
+  "layer_id_s": "st74cs079",
+  "layer_modified_dt": "2015-01-11T17:43:11Z",
+  "layer_geom_type_s": "Image",
+  "solr_geom": "ENVELOPE(-74.5, -74.25, 41.25, 41.0)",
+  "solr_year_i": "1922"
+}

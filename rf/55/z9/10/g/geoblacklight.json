@@ -1,0 +1,30 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/rf55z910g",
+  "dc_creator_sm": "GfK MACON",
+  "dc_description_s": "This data includes Japan cities with population 1 million and more created by GfK MACON company, Germany.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "rf55z910g",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Cities",
+    "Location",
+    "Cities 1000K"
+  ],
+  "dc_title_s": "Japan Cities With Population 1 Million and More, 1995",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/rf55z910g/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/rf55z910g/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/rf55z910g\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": "Japan",
+  "dct_temporal_sm": "2006",
+  "dct_issued_s": "1995",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "33.584770 130.389893 43.059620 141.347946",
+  "georss_polygon_s": "43.059620 130.389893 43.059620 141.347946 33.584770 141.347946 33.584770 130.389893 43.059620 130.389893",
+  "layer_slug_s": "princeton-rf55z910g",
+  "layer_id_s": "pulmap-restricted:rf55z910g",
+  "layer_modified_dt": "2014-12-19T16:18:32Z",
+  "layer_geom_type_s": "Point",
+  "solr_geom": "ENVELOPE(130.389893, 141.347946, 43.059620, 33.584770)",
+  "solr_year_i": "2006"
+}

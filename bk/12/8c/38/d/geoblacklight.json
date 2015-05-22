@@ -1,0 +1,42 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/bk128c38d",
+  "dc_creator_sm": "Boundary Solutions, Inc.",
+  "dc_description_s": "Land parcels in Sumter, Florida, 2009.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "bk128c38d",
+  "dc_language_s": "English",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "land value",
+    "value",
+    "buildings",
+    "stories",
+    "floors",
+    "planningCadastre"
+  ],
+  "dc_title_s": "Sumter County, Florida land parcels, 2009",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/bk128c38d/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/bk128c38d/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/bk128c38d\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": [
+    "Sumter County",
+    "Sumter",
+    "Florida"
+  ],
+  "dct_issued_s": "20090831",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "28.306653 -82.311302 28.960498 -81.953335",
+  "georss_polygon_s": "28.960498 -82.311302 28.960498 -81.953335 28.306653 -81.953335 28.306653 -82.311302 28.960498 -82.311302",
+  "layer_slug_s": "princeton-bk128c38d",
+  "layer_id_s": "pulmap-restricted:bk128c38d",
+  "layer_modified_dt": "2014-12-19T16:18:35Z",
+  "layer_geom_type_s": "Polygon",
+  "solr_geom": "ENVELOPE(-82.311302, -81.953335, 28.960498, 28.306653)"
+}
