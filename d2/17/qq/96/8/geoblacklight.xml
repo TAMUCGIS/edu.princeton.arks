@@ -21,7 +21,7 @@
     <field name="dc_subject_sm">planningCadastre</field>
     <field name="dc_title_s">Los Angeles County, California land parcels, 2009</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/d217qq968/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/d217qq968/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/d217qq968", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/d217qq968/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/url": "http://arks.princeton.edu/ark:/88435/d217qq968", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/d217qq968/restricted/data.zip", "http://www.opengis.net/cat/csw/csdgm": "https://geowebservices.princeton.edu/metadata/edu.princeton.arks/d217qq968/fgdc.xml"}</field>
     <field name="dct_spatial_sm">California</field>
     <field name="dct_spatial_sm">Los Angeles County</field>
     <field name="dct_spatial_sm">Los Angeles</field>
@@ -33,7 +33,7 @@
     <field name="georss_box_s">32.795201 -118.944691 34.823299 -117.646374</field>
     <field name="georss_polygon_s">34.823299 -118.944691 34.823299 -117.646374 32.795201 -117.646374 32.795201 -118.944691 34.823299 -118.944691</field>
     <field name="layer_slug_s">princeton-d217qq968</field>
-    <field name="layer_id_s">d217qq968</field>
+    <field name="layer_id_s">pulmap-restricted:d217qq968</field>
     <field name="layer_modified_dt">2014-12-19T16:18:34Z</field>
     <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_geom">ENVELOPE(-118.944691, -117.646374, 34.823299, 32.795201)</field>

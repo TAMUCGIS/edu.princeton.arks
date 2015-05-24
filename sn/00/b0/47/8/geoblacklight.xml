@@ -17,7 +17,7 @@
     <field name="dc_subject_sm">planningCadastre</field>
     <field name="dc_title_s">Forsyth County, North Carolina land parcels, 2009</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/sn00b0478/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/sn00b0478/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/sn00b0478", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/sn00b0478/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/url": "http://arks.princeton.edu/ark:/88435/sn00b0478", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/sn00b0478/restricted/data.zip", "http://www.opengis.net/cat/csw/csdgm": "https://geowebservices.princeton.edu/metadata/edu.princeton.arks/sn00b0478/fgdc.xml"}</field>
     <field name="dct_spatial_sm">North Carolina</field>
     <field name="dct_spatial_sm">Forsyth County</field>
     <field name="dct_spatial_sm">Winston-Salem</field>
@@ -26,7 +26,7 @@
     <field name="georss_box_s">35.973281 -80.515892 36.266576 -80.033234</field>
     <field name="georss_polygon_s">36.266576 -80.515892 36.266576 -80.033234 35.973281 -80.033234 35.973281 -80.515892 36.266576 -80.515892</field>
     <field name="layer_slug_s">princeton-sn00b0478</field>
-    <field name="layer_id_s">sn00b0478</field>
+    <field name="layer_id_s">pulmap-restricted:sn00b0478</field>
     <field name="layer_modified_dt">2014-12-19T16:18:32Z</field>
     <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_geom">ENVELOPE(-80.515892, -80.033234, 36.266576, 35.973281)</field>

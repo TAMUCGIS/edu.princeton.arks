@@ -15,7 +15,7 @@
     <field name="dc_subject_sm">floods</field>
     <field name="dc_title_s">Ukraine Inundation Areas, 2004</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/w3763850j/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/w3763850j/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/w3763850j", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
+    <field name="dct_references_s">{"http://schema.org/downloadUrl": "https://geowebservices.princeton.edu/item/w3763850j/data.zip", "http://www.opengis.net/def/serviceType/ogc/wfs": "https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "https://geowebservices.princeton.edu/metadata/edu.princeton.arks/w3763850j/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/w3763850j", "http://www.opengis.net/def/serviceType/ogc/wms": "https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms"}</field>
     <field name="dct_spatial_sm">Ukraine</field>
     <field name="dct_temporal_sm">2006</field>
     <field name="dct_issued_s">2005</field>
@@ -23,7 +23,7 @@
     <field name="georss_box_s">45.036667 24.290277 52.077965 36.325584</field>
     <field name="georss_polygon_s">52.077965 24.290277 52.077965 36.325584 45.036667 36.325584 45.036667 24.290277 52.077965 24.290277</field>
     <field name="layer_slug_s">princeton-w3763850j</field>
-    <field name="layer_id_s">pulmap:ark_w3763850j</field>
+    <field name="layer_id_s">pulmap-restricted:w3763850j</field>
     <field name="layer_modified_dt">2014-12-19T16:18:32Z</field>
     <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_geom">ENVELOPE(24.290277, 36.325584, 52.077965, 45.036667)</field>

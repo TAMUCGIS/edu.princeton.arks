@@ -41,7 +41,7 @@
     <field name="dc_subject_sm">society</field>
     <field name="dc_title_s">Township map of Zhejang with 2000 Census long form data (L7-L8)</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/bz60cx81x/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/bz60cx81x/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/bz60cx81x", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/bz60cx81x/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/url": "http://arks.princeton.edu/ark:/88435/bz60cx81x", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/bz60cx81x/restricted/data.zip", "http://www.opengis.net/cat/csw/csdgm": "https://geowebservices.princeton.edu/metadata/edu.princeton.arks/bz60cx81x/fgdc.xml"}</field>
     <field name="dct_spatial_sm">China</field>
     <field name="dct_spatial_sm">Zhejang</field>
     <field name="dct_spatial_sm">Zhejang Province</field>
@@ -51,7 +51,7 @@
     <field name="georss_box_s">27.180740 118.128075 31.112670 122.804811</field>
     <field name="georss_polygon_s">31.112670 118.128075 31.112670 122.804811 27.180740 122.804811 27.180740 118.128075 31.112670 118.128075</field>
     <field name="layer_slug_s">princeton-bz60cx81x</field>
-    <field name="layer_id_s">bz60cx81x</field>
+    <field name="layer_id_s">pulmap-restricted:bz60cx81x</field>
     <field name="layer_modified_dt">2014-12-19T16:18:35Z</field>
     <field name="layer_geom_type_s">Point</field>
     <field name="solr_geom">ENVELOPE(118.128075, 122.804811, 31.112670, 27.180740)</field>

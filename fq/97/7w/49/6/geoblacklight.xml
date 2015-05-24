@@ -14,7 +14,7 @@
     <field name="dc_subject_sm">Minor rivers</field>
     <field name="dc_title_s">Bosnia-Herzegovina Minor Rivers, 2005</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/fq977w496/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/fq977w496/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/fq977w496", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
+    <field name="dct_references_s">{"http://schema.org/downloadUrl": "https://geowebservices.princeton.edu/item/fq977w496/data.zip", "http://www.opengis.net/def/serviceType/ogc/wfs": "https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "https://geowebservices.princeton.edu/metadata/edu.princeton.arks/fq977w496/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/fq977w496", "http://www.opengis.net/def/serviceType/ogc/wms": "https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms"}</field>
     <field name="dct_spatial_sm">Bosnia-Herzegovina</field>
     <field name="dct_spatial_sm">Bosnia</field>
     <field name="dct_spatial_sm">Herzegovina</field>
@@ -24,7 +24,7 @@
     <field name="georss_box_s">42.696362 15.741251 45.237721 19.513240</field>
     <field name="georss_polygon_s">45.237721 15.741251 45.237721 19.513240 42.696362 19.513240 42.696362 15.741251 45.237721 15.741251</field>
     <field name="layer_slug_s">princeton-fq977w496</field>
-    <field name="layer_id_s">pulmap:ark_fq977w496</field>
+    <field name="layer_id_s">pulmap-restricted:fq977w496</field>
     <field name="layer_modified_dt">2014-12-19T16:18:34Z</field>
     <field name="layer_geom_type_s">Line</field>
     <field name="solr_geom">ENVELOPE(15.741251, 19.513240, 45.237721, 42.696362)</field>
