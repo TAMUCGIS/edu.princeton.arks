@@ -1,0 +1,33 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/tx31qk42s",
+  "dc_creator_sm": "GfK MACON",
+  "dc_description_s": "This data includes Taiwan major city areas created by GfK MACON company, Germany.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "tx31qk42s",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Cities",
+    "Location",
+    "Major Cities"
+  ],
+  "dc_title_s": "Taiwan Major City Areas, 2005",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/tx31qk42s/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/tx31qk42s/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/tx31qk42s\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": [
+    "Taiwan",
+    "China"
+  ],
+  "dct_temporal_sm": "2006",
+  "dct_issued_s": "2005",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "22.599525 120.175829 25.083159 121.550950",
+  "georss_polygon_s": "25.083159 120.175829 25.083159 121.550950 22.599525 121.550950 22.599525 120.175829 25.083159 120.175829",
+  "layer_slug_s": "princeton-tx31qk42s",
+  "layer_id_s": "pulmap-restricted:tx31qk42s",
+  "layer_modified_dt": "2014-12-19T16:18:32Z",
+  "layer_geom_type_s": "Polygon",
+  "solr_geom": "ENVELOPE(120.175829, 121.550950, 25.083159, 22.599525)",
+  "solr_year_i": "2006"
+}

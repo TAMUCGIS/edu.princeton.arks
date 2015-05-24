@@ -1,0 +1,35 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/n583xw494",
+  "dc_creator_sm": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_description_s": "Georgia Block Centroid Populations represents the population of the U.S. Census block centroids for Georgia.  U.S. Census blocks are the smallest geographic entities within a county for which the Census Bureau tabulates population.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "n583xw494",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "point",
+    "census block centroids",
+    "census blocks",
+    "population",
+    "society"
+  ],
+  "dc_title_s": "Georgia Block Centroid Populations 2002",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/n583xw494/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/n583xw494/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/n583xw494\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": [
+    "United States",
+    "Georgia"
+  ],
+  "dct_temporal_sm": "2000",
+  "dct_issued_s": "20020401",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "30.363127 -85.602337 34.998192 -80.803337",
+  "georss_polygon_s": "34.998192 -85.602337 34.998192 -80.803337 30.363127 -80.803337 30.363127 -85.602337 34.998192 -85.602337",
+  "layer_slug_s": "princeton-n583xw494",
+  "layer_id_s": "pulmap-restricted:n583xw494",
+  "layer_modified_dt": "2014-12-19T16:18:33Z",
+  "layer_geom_type_s": "Point",
+  "solr_geom": "ENVELOPE(-85.602337, -80.803337, 34.998192, 30.363127)",
+  "solr_year_i": "2000"
+}

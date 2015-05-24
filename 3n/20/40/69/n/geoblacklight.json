@@ -1,0 +1,30 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/3n204069n",
+  "dc_creator_sm": "GfK MACON",
+  "dc_description_s": "This data includes Lithuania minor roads created by GfK MACON company, Germany.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "3n204069n",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Roads",
+    "Transportation",
+    "Minor Roads"
+  ],
+  "dc_title_s": "Lithuania Minor Roads, 2004",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/3n204069n/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/3n204069n/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/3n204069n\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": "Lithuania",
+  "dct_temporal_sm": "2006",
+  "dct_issued_s": "2005",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "53.936540 20.957529 56.421166 26.840996",
+  "georss_polygon_s": "56.421166 20.957529 56.421166 26.840996 53.936540 26.840996 53.936540 20.957529 56.421166 20.957529",
+  "layer_slug_s": "princeton-3n204069n",
+  "layer_id_s": "pulmap-restricted:3n204069n",
+  "layer_modified_dt": "2014-12-19T16:18:36Z",
+  "layer_geom_type_s": "Line",
+  "solr_geom": "ENVELOPE(20.957529, 26.840996, 56.421166, 53.936540)",
+  "solr_year_i": "2006"
+}

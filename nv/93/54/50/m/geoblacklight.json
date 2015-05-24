@@ -1,0 +1,31 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/nv935450m",
+  "dc_creator_sm": "ML InfoMap Pvt. Ltd.",
+  "dc_description_s": "Socio-Demographic and Economic Census data for Madhya Pradesh",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "nv935450m",
+  "dc_language_s": "English",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Location",
+    "Villages",
+    "point"
+  ],
+  "dc_title_s": "Madhya Pradesh Village Map",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/nv935450m/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/nv935450m/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/nv935450m\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": [
+    "India",
+    "Madhya Pradesh"
+  ],
+  "dct_issued_s": "2006",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "21.1459 74.0441 26.8436 82.7014",
+  "georss_polygon_s": "26.8436 74.0441 26.8436 82.7014 21.1459 82.7014 21.1459 74.0441 26.8436 74.0441",
+  "layer_slug_s": "princeton-nv935450m",
+  "layer_id_s": "pulmap-restricted:nv935450m",
+  "layer_modified_dt": "2014-12-19T16:18:33Z",
+  "layer_geom_type_s": "Point",
+  "solr_geom": "ENVELOPE(74.0441, 82.7014, 26.8436, 21.1459)",
+  "solr_year_i": "2006"
+}

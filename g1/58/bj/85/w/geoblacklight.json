@@ -1,0 +1,41 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/g158bj85w",
+  "dc_creator_sm": "Boundary Solutions, Inc.",
+  "dc_description_s": "Land parcels in Chester County, Pennsylvania, 2006.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "g158bj85w",
+  "dc_language_s": "English",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "land value",
+    "value",
+    "planningCadastre"
+  ],
+  "dc_title_s": "Chester County, Pennsylvania land parcels, 2006",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/g158bj85w/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/g158bj85w/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/g158bj85w\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": [
+    "Pennsylvania",
+    "Chester",
+    "Chester County",
+    "Philadelphia",
+    "Delaware Valley"
+  ],
+  "dct_issued_s": "20061201",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "39.720410 -76.136538 40.244735 -75.361013",
+  "georss_polygon_s": "40.244735 -76.136538 40.244735 -75.361013 39.720410 -75.361013 39.720410 -76.136538 40.244735 -76.136538",
+  "layer_slug_s": "princeton-g158bj85w",
+  "layer_id_s": "pulmap-restricted:g158bj85w",
+  "layer_modified_dt": "2014-12-19T16:18:34Z",
+  "layer_geom_type_s": "Polygon",
+  "solr_geom": "ENVELOPE(-76.136538, -75.361013, 40.244735, 39.720410)"
+}

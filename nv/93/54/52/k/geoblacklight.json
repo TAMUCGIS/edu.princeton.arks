@@ -1,0 +1,35 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/nv935452k",
+  "dc_creator_sm": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_description_s": "World Regions represents the boundaries for the regions of the world. There are 25 commonly recognized world regions.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "nv935452k",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "polygon",
+    "regions",
+    "coastlines",
+    "boundaries"
+  ],
+  "dc_title_s": "World Regions 2002",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/nv935452k/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/nv935452k/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/nv935452k\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": "World",
+  "dct_temporal_sm": [
+    "1996",
+    "1998",
+    "2000"
+  ],
+  "dct_issued_s": "20020401",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "-90.000000 -180.000000 83.623596 180.000000",
+  "georss_polygon_s": "83.623596 -180.000000 83.623596 180.000000 -90.000000 180.000000 -90.000000 -180.000000 83.623596 -180.000000",
+  "layer_slug_s": "princeton-nv935452k",
+  "layer_id_s": "pulmap-restricted:nv935452k",
+  "layer_modified_dt": "2014-12-19T16:18:33Z",
+  "layer_geom_type_s": "Polygon",
+  "solr_geom": "ENVELOPE(-180.000000, 180.000000, 83.623596, -90.000000)",
+  "solr_year_i": "1996"
+}

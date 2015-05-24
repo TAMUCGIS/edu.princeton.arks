@@ -1,0 +1,30 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/0g354g66x",
+  "dc_creator_sm": "DMTI Spatial Inc.",
+  "dc_description_s": "Canada Railways represents the railroads within Canada.  The railways are based on the National Atlas Information Service (NAIS) 1:7.5 million digital maps created by Natural Resources Canada for publishing of the National Atlas of Canada.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "0g354g66x",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "line",
+    "railways",
+    "railroads"
+  ],
+  "dc_title_s": "Canada Railways 2000",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/0g354g66x/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/0g354g66x/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/0g354g66x\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": "Canada",
+  "dct_temporal_sm": "2000",
+  "dct_issued_s": "20001101",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "42.038992 -130.256649 60.880420 -52.791109",
+  "georss_polygon_s": "60.880420 -130.256649 60.880420 -52.791109 42.038992 -52.791109 42.038992 -130.256649 60.880420 -130.256649",
+  "layer_slug_s": "princeton-0g354g66x",
+  "layer_id_s": "pulmap-restricted:0g354g66x",
+  "layer_modified_dt": "2014-12-19T16:18:37Z",
+  "layer_geom_type_s": "Line",
+  "solr_geom": "ENVELOPE(-130.256649, -52.791109, 60.880420, 42.038992)",
+  "solr_year_i": "2000"
+}

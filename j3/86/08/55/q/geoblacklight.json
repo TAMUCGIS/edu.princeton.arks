@@ -1,0 +1,42 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/j3860855q",
+  "dc_creator_sm": "Geographic Data Technology, Inc. (GDT)",
+  "dc_description_s": "Tennessee Tracts represents the U.S. Census tracts and block numbering areas (BNA) of Tennessee.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "j3860855q",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "polygon",
+    "census tracts",
+    "census block numbering areas",
+    "demographics",
+    "population",
+    "households",
+    "boundaries",
+    "society"
+  ],
+  "dc_title_s": "Tennessee Tracts 2002",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/j3860855q/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/j3860855q/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/j3860855q\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": [
+    "United States",
+    "Tennessee"
+  ],
+  "dct_temporal_sm": [
+    "2002",
+    "2000",
+    "2001"
+  ],
+  "dct_issued_s": "20020401",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "34.982924 -90.310298 36.678119 -81.646901",
+  "georss_polygon_s": "36.678119 -90.310298 36.678119 -81.646901 34.982924 -81.646901 34.982924 -90.310298 36.678119 -90.310298",
+  "layer_slug_s": "princeton-j3860855q",
+  "layer_id_s": "pulmap-restricted:j3860855q",
+  "layer_modified_dt": "2014-12-19T16:18:34Z",
+  "layer_geom_type_s": "Polygon",
+  "solr_geom": "ENVELOPE(-90.310298, -81.646901, 36.678119, 34.982924)",
+  "solr_year_i": "2002"
+}

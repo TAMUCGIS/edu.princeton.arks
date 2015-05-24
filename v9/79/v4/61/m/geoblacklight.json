@@ -1,0 +1,33 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/v979v461m",
+  "dc_creator_sm": "Boundary Solutions, Inc.",
+  "dc_description_s": "Roads and highways in Tulsa County, Oklahoma, 2007.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "v979v461m",
+  "dc_language_s": "English",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "polygon",
+    "transportation"
+  ],
+  "dc_title_s": "Tulsa County, Oklahoma land parcels, 2007",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/v979v461m/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/v979v461m/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/v979v461m\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": [
+    "Tulsa",
+    "Tulsa County",
+    "Broken Arrow",
+    "Oklahoma"
+  ],
+  "dct_issued_s": "20071001",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "35.852452 -96.304031 36.431663 -95.747121",
+  "georss_polygon_s": "36.431663 -96.304031 36.431663 -95.747121 35.852452 -95.747121 35.852452 -96.304031 36.431663 -96.304031",
+  "layer_slug_s": "princeton-v979v461m",
+  "layer_id_s": "pulmap-restricted:v979v461m",
+  "layer_modified_dt": "2014-12-19T16:18:32Z",
+  "layer_geom_type_s": "Polygon",
+  "solr_geom": "ENVELOPE(-96.304031, -95.747121, 36.431663, 35.852452)"
+}

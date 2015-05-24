@@ -1,0 +1,22 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/8623j046h",
+  "dc_creator_sm": "New York City Department of Information Technology and Telecommunications",
+  "dc_description_s": "The \"Survey_control_point\" dataset is a point representation of New York City monuments, GPS points and analytical points used for the triangulation of the New York City Base Map.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "8623j046h",
+  "dc_language_s": "English",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": "Survey control point, Monument, GPS Point, Analytical Point.",
+  "dc_title_s": "New York City Survey Control Points 2004",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/8623j046h/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/8623j046h/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/8623j046h\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_issued_s": "5/19/2004",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "40.482717 -74.288371 40.962382 -73.640692",
+  "georss_polygon_s": "40.962382 -74.288371 40.962382 -73.640692 40.482717 -73.640692 40.482717 -74.288371 40.962382 -74.288371",
+  "layer_slug_s": "princeton-8623j046h",
+  "layer_id_s": "pulmap-restricted:8623j046h",
+  "layer_modified_dt": "2014-12-23T15:22:12Z",
+  "layer_geom_type_s": "Point",
+  "solr_geom": "ENVELOPE(-74.288371, -73.640692, 40.962382, 40.482717)"
+}

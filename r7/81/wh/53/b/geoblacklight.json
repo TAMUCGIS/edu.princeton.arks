@@ -1,0 +1,41 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/r781wh53b",
+  "dc_creator_sm": "Robert Fargo",
+  "dc_description_s": "This shape file contains points indentifying the known oil and gas industry facilities in Iraq. The location and nature of the facilities was complied from a variety of sources including MapSearch facilities data. The attributes of the facilities are those which were identified in the MapSearch dataset. The majority of the facilites were identified from thematic CIA maps of the Petroleum Infrastructure in Iraq.",
+  "dc_format_s": "Scanned Map",
+  "dc_identifier_s": "r781wh53b",
+  "dc_language_s": "English",
+  "dc_publisher_s": "ESOC Group",
+  "dc_rights_s": "Restricted",
+  "dc_subject_sm": [
+    "Facilities and Structures",
+    "Gas Oil Seperation Plants",
+    "Petroleum",
+    "Oil",
+    "Natural Gas",
+    "Pumping Station",
+    "Well Head Meter",
+    "Storage Tank",
+    "Asphalt Refinery",
+    "Gas Processing Plant",
+    "LPG Fractionator",
+    "Refineries"
+  ],
+  "dc_title_s": "Surface Facilities",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/r781wh53b\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/r781wh53b/fgdc.xml\"}",
+  "dct_spatial_sm": [
+    "Iraq",
+    "Middle East"
+  ],
+  "dct_issued_s": "2007",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "29.395447 38.706127 36.956465 48.188357",
+  "georss_polygon_s": "36.956465 38.706127 36.956465 48.188357 29.395447 48.188357 29.395447 38.706127 36.956465 38.706127",
+  "layer_slug_s": "princeton-r781wh53b",
+  "layer_id_s": "r781wh53b",
+  "layer_modified_dt": "2015-01-11T18:24:46Z",
+  "layer_geom_type_s": "Image",
+  "solr_geom": "ENVELOPE(38.706127, 48.188357, 36.956465, 29.395447)",
+  "solr_year_i": "2007"
+}

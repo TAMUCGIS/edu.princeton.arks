@@ -1,0 +1,37 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/ks65hd84q",
+  "dc_creator_sm": "Boundary Solutions, Inc.",
+  "dc_description_s": "Land parcels in Van Buren County, Arkansas, 2008.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "ks65hd84q",
+  "dc_language_s": "English",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "parcels",
+    "tax parcels",
+    "property maps",
+    "land use",
+    "cadastral maps",
+    "parcel",
+    "property",
+    "land value",
+    "ownership",
+    "planningCadastre"
+  ],
+  "dc_title_s": "Van Buren County, Arkansas land parcels, 2008",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/ks65hd84q/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/ks65hd84q/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/ks65hd84q\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": [
+    "Arkansas",
+    "Van Buren County"
+  ],
+  "dct_issued_s": "20080522",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "35.363596 -92.850935 35.790533 -92.240867",
+  "georss_polygon_s": "35.790533 -92.850935 35.790533 -92.240867 35.363596 -92.240867 35.363596 -92.850935 35.790533 -92.850935",
+  "layer_slug_s": "princeton-ks65hd84q",
+  "layer_id_s": "pulmap-restricted:ks65hd84q",
+  "layer_modified_dt": "2014-12-19T16:18:33Z",
+  "layer_geom_type_s": "Polygon",
+  "solr_geom": "ENVELOPE(-92.850935, -92.240867, 35.790533, 35.363596)"
+}

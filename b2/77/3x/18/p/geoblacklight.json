@@ -1,0 +1,38 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/b2773x18p",
+  "dc_creator_sm": "County of Yuba GIS Unit",
+  "dc_description_s": "Parcels for Yuba County. Digitized from fall 2002 aerial photograph, with reference to Assessor's parcel maps. Updated and maintained by a combination of digitizing the CAD Assessor's changes or COGO entering the updated info.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "b2773x18p",
+  "dc_language_s": "English",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "parcel",
+    "parcels",
+    "tax parcels",
+    "property",
+    "property maps",
+    "cadastral maps",
+    "ownership",
+    "mobile",
+    "mobile home",
+    "planningCadastre"
+  ],
+  "dc_title_s": "Yuba County, California land parcels, 200",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/b2773x18p/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/b2773x18p/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/b2773x18p\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": [
+    "California",
+    "Yuba County",
+    "Sacramento"
+  ],
+  "dct_issued_s": "20090911",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "38.915812 -121.635549 39.639386 -121.009593",
+  "georss_polygon_s": "39.639386 -121.635549 39.639386 -121.009593 38.915812 -121.009593 38.915812 -121.635549 39.639386 -121.635549",
+  "layer_slug_s": "princeton-b2773x18p",
+  "layer_id_s": "pulmap-restricted:b2773x18p",
+  "layer_modified_dt": "2014-12-19T16:18:35Z",
+  "layer_geom_type_s": "Polygon",
+  "solr_geom": "ENVELOPE(-121.635549, -121.009593, 39.639386, 38.915812)"
+}

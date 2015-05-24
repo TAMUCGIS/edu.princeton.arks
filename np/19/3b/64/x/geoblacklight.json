@@ -1,0 +1,40 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/np193b64x",
+  "dc_creator_sm": "All China Marketing Research Co., Ltd.",
+  "dc_description_s": "Religious sites in China with zip map from 2004 economic census.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "np193b64x",
+  "dc_language_s": "English",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "religion",
+    "religions",
+    "religious",
+    "site",
+    "sites",
+    "Buddhism",
+    "Taoism",
+    "Islam",
+    "Christianity",
+    "ownership",
+    "society"
+  ],
+  "dc_title_s": "China religious sites, 2004",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/np193b64x/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/np193b64x/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/np193b64x\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": "China",
+  "dct_temporal_sm": [
+    "2000",
+    "2010"
+  ],
+  "dct_issued_s": "20100331",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "18.789057 74.334602 53.476133 134.287269",
+  "georss_polygon_s": "53.476133 74.334602 53.476133 134.287269 18.789057 134.287269 18.789057 74.334602 53.476133 74.334602",
+  "layer_slug_s": "princeton-np193b64x",
+  "layer_id_s": "pulmap-restricted:np193b64x",
+  "layer_modified_dt": "2014-12-19T16:18:33Z",
+  "layer_geom_type_s": "Point",
+  "solr_geom": "ENVELOPE(74.334602, 134.287269, 53.476133, 18.789057)",
+  "solr_year_i": "2000"
+}

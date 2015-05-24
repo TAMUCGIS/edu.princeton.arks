@@ -1,0 +1,40 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/ft848s38w",
+  "dc_creator_sm": "Geographic Data Technology, Inc. (GDT)",
+  "dc_description_s": "Oklahoma Block Groups represents the U.S. Census block groups of Oklahoma.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "ft848s38w",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "polygon",
+    "census block groups",
+    "demographics",
+    "population",
+    "households",
+    "boundaries",
+    "society"
+  ],
+  "dc_title_s": "Oklahoma Block Groups 2002",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/ft848s38w/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/ft848s38w/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/ft848s38w\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": [
+    "United States",
+    "Oklahoma"
+  ],
+  "dct_temporal_sm": [
+    "2002",
+    "2000"
+  ],
+  "dct_issued_s": "20020401",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "33.615765 -103.002648 37.002328 -94.431215",
+  "georss_polygon_s": "37.002328 -103.002648 37.002328 -94.431215 33.615765 -94.431215 33.615765 -103.002648 37.002328 -103.002648",
+  "layer_slug_s": "princeton-ft848s38w",
+  "layer_id_s": "pulmap-restricted:ft848s38w",
+  "layer_modified_dt": "2014-12-19T16:18:34Z",
+  "layer_geom_type_s": "Polygon",
+  "solr_geom": "ENVELOPE(-103.002648, -94.431215, 37.002328, 33.615765)",
+  "solr_year_i": "2002"
+}

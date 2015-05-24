@@ -1,0 +1,43 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/sn00b021g",
+  "dc_creator_sm": "Boundary Solutions, Inc.",
+  "dc_description_s": "Land parcels in Lancaster County, Nebraska, 2009.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "sn00b021g",
+  "dc_language_s": "English",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "land value",
+    "value",
+    "buildings",
+    "stories",
+    "floors",
+    "planningCadastre"
+  ],
+  "dc_title_s": "Lancaster County, Nebraska land parcels, 2009",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/sn00b021g/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/sn00b021g/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/sn00b021g\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": [
+    "Nebraska",
+    "Lancaster County",
+    "Lancaster",
+    "Lincoln"
+  ],
+  "dct_issued_s": "20091116",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "40.523105 -96.913809 41.046025 -96.463719",
+  "georss_polygon_s": "41.046025 -96.913809 41.046025 -96.463719 40.523105 -96.463719 40.523105 -96.913809 41.046025 -96.913809",
+  "layer_slug_s": "princeton-sn00b021g",
+  "layer_id_s": "pulmap-restricted:sn00b021g",
+  "layer_modified_dt": "2014-12-19T16:18:32Z",
+  "layer_geom_type_s": "Polygon",
+  "solr_geom": "ENVELOPE(-96.913809, -96.463719, 41.046025, 40.523105)"
+}

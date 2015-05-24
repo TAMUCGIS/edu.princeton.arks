@@ -1,0 +1,39 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/kw52j953h",
+  "dc_creator_sm": "National Atlas of the United States and the United States Geological Survey",
+  "dc_description_s": "U.S. National Atlas Historic Earthquakes represents the locations of significant, historic earthquakes in United States and adjacent Canada and Mexico that caused deaths, property damage, and geological effects, or were otherwise experienced by the resident populations.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "kw52j953h",
+  "dc_language_s": "English",
+  "dc_publisher_s": "ESRI",
+  "dc_rights_s": "Restricted",
+  "dc_subject_sm": [
+    "point",
+    "earthquakes",
+    "historic earthquakes",
+    "depths",
+    "magnitudes",
+    "geological effects",
+    "geoscientificInformation"
+  ],
+  "dc_title_s": "U.S. National Atlas Historic Earthquakes 2008",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/kw52j953h\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/kw52j953h/fgdc.xml\"}",
+  "dct_spatial_sm": [
+    "United States",
+    "Puerto Rico",
+    "U.S. Virgin Islands",
+    "Canada",
+    "Mexico"
+  ],
+  "dct_temporal_sm": "1568–2004",
+  "dct_issued_s": "20080401",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "17.250000 -179.992676 68.688660 180.000000",
+  "georss_polygon_s": "68.688660 -179.992676 68.688660 180.000000 17.250000 180.000000 17.250000 -179.992676 68.688660 -179.992676",
+  "layer_slug_s": "princeton-kw52j953h",
+  "layer_id_s": "pulmap-restricted:kw52j953h",
+  "layer_modified_dt": "2014-12-19T16:18:33Z",
+  "layer_geom_type_s": "Point",
+  "solr_geom": "ENVELOPE(-179.992676, 180.000000, 68.688660, 17.250000)"
+}

@@ -1,0 +1,41 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/d217qq968",
+  "dc_creator_sm": "Boundary Solutions, Inc.",
+  "dc_description_s": "Los Angeles County, CA geodatabase containing polygon feature class depicting land\n        parcels as of 2009.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "d217qq968",
+  "dc_language_s": "English",
+  "dc_rights_s": "Restricted",
+  "dc_subject_sm": [
+    "parcels",
+    "tax parcels",
+    "property maps",
+    "cadastral maps",
+    "land use",
+    "land value",
+    "ownership",
+    "parcel",
+    "property",
+    "planningCadastre"
+  ],
+  "dc_title_s": "Los Angeles County, California land parcels, 2009",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/d217qq968\", \"http://schema.org/downloadUrl\": \"http://map.princeton.edu/items/d217qq968/restricted/data.zip\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/d217qq968/fgdc.xml\"}",
+  "dct_spatial_sm": [
+    "California",
+    "Los Angeles County",
+    "Los Angeles",
+    "San Clemente",
+    "Santa Catalina",
+    "Catalina"
+  ],
+  "dct_issued_s": "20090603",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "32.795201 -118.944691 34.823299 -117.646374",
+  "georss_polygon_s": "34.823299 -118.944691 34.823299 -117.646374 32.795201 -117.646374 32.795201 -118.944691 34.823299 -118.944691",
+  "layer_slug_s": "princeton-d217qq968",
+  "layer_id_s": "pulmap-restricted:d217qq968",
+  "layer_modified_dt": "2014-12-19T16:18:34Z",
+  "layer_geom_type_s": "Polygon",
+  "solr_geom": "ENVELOPE(-118.944691, -117.646374, 34.823299, 32.795201)"
+}

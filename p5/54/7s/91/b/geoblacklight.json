@@ -1,0 +1,29 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/p5547s91b",
+  "dc_creator_sm": "Globe Telecom",
+  "dc_description_s": "Points representing shops in Cairo.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "p5547s91b",
+  "dc_language_s": "English",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "shops",
+    "structure"
+  ],
+  "dc_title_s": "Cairo Shops",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/p5547s91b/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/p5547s91b/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/p5547s91b\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": [
+    "Egypt",
+    "Cairo"
+  ],
+  "dct_issued_s": "20140706",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "29.847021 30.917479 30.193641 31.655652",
+  "georss_polygon_s": "30.193641 30.917479 30.193641 31.655652 29.847021 31.655652 29.847021 30.917479 30.193641 30.917479",
+  "layer_slug_s": "princeton-p5547s91b",
+  "layer_id_s": "pulmap-restricted:p5547s91b",
+  "layer_modified_dt": "2014-12-19T16:18:33Z",
+  "layer_geom_type_s": "Point",
+  "solr_geom": "ENVELOPE(30.917479, 31.655652, 30.193641, 29.847021)"
+}

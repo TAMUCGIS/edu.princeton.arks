@@ -1,0 +1,42 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/7m01bn16h",
+  "dc_creator_sm": "Boundary Solutions, Inc.",
+  "dc_description_s": "Land parcels in Douglas County, Nevada, 2006.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "7m01bn16h",
+  "dc_language_s": "English",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "land value",
+    "value",
+    "buildings",
+    "stories",
+    "floors",
+    "planningCadastre"
+  ],
+  "dc_title_s": "Douglas County, Nevada land parcels, 2006",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/7m01bn16h/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/7m01bn16h/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/7m01bn16h\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": [
+    "Nevada",
+    "Douglas",
+    "Douglas County"
+  ],
+  "dct_issued_s": "20061001",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "38.535114 -119.961409 39.113979 -119.310436",
+  "georss_polygon_s": "39.113979 -119.961409 39.113979 -119.310436 38.535114 -119.310436 38.535114 -119.961409 39.113979 -119.961409",
+  "layer_slug_s": "princeton-7m01bn16h",
+  "layer_id_s": "pulmap-restricted:7m01bn16h",
+  "layer_modified_dt": "2014-12-19T16:18:35Z",
+  "layer_geom_type_s": "Polygon",
+  "solr_geom": "ENVELOPE(-119.961409, -119.310436, 39.113979, 38.535114)"
+}

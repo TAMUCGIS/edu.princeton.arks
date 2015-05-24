@@ -1,0 +1,42 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/h989r473s",
+  "dc_creator_sm": "Geographic Data Technology, Inc. (GDT)",
+  "dc_description_s": "New York Tracts represents the U.S. Census tracts and block numbering areas (BNA) of New York.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "h989r473s",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "polygon",
+    "census tracts",
+    "census block numbering areas",
+    "demographics",
+    "population",
+    "households",
+    "boundaries",
+    "society"
+  ],
+  "dc_title_s": "New York Tracts 2002",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/h989r473s/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/h989r473s/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/h989r473s\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": [
+    "United States",
+    "New York"
+  ],
+  "dct_temporal_sm": [
+    "2002",
+    "2000",
+    "2001"
+  ],
+  "dct_issued_s": "20020401",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "40.495908 -79.762153 45.015851 -71.856150",
+  "georss_polygon_s": "45.015851 -79.762153 45.015851 -71.856150 40.495908 -71.856150 40.495908 -79.762153 45.015851 -79.762153",
+  "layer_slug_s": "princeton-h989r473s",
+  "layer_id_s": "pulmap-restricted:h989r473s",
+  "layer_modified_dt": "2014-12-19T16:18:34Z",
+  "layer_geom_type_s": "Polygon",
+  "solr_geom": "ENVELOPE(-79.762153, -71.856150, 45.015851, 40.495908)",
+  "solr_year_i": "2002"
+}

@@ -1,0 +1,35 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/kd17cv30h",
+  "dc_creator_sm": "Bureau of Transportation Statistics ",
+  "dc_description_s": "U.S. National Transportation Atlas Railroads represents a comprehensive database of the nation's railway system at 1:100,000 scale. The data set covers the 48 contiguous States plus the District of Columbia within United States.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "kd17cv30h",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "line",
+    "railroads",
+    "railway",
+    "transportation"
+  ],
+  "dc_title_s": "U.S. National Transportation Atlas Railroads 2002",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/kd17cv30h/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/kd17cv30h/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/kd17cv30h\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": "United States",
+  "dct_temporal_sm": [
+    "1997",
+    "1996",
+    "199512"
+  ],
+  "dct_issued_s": "20020401",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "25.440482 -124.511501 49.002484 -67.234402",
+  "georss_polygon_s": "49.002484 -124.511501 49.002484 -67.234402 25.440482 -67.234402 25.440482 -124.511501 49.002484 -124.511501",
+  "layer_slug_s": "princeton-kd17cv30h",
+  "layer_id_s": "pulmap-restricted:kd17cv30h",
+  "layer_modified_dt": "2014-12-19T16:18:33Z",
+  "layer_geom_type_s": "Line",
+  "solr_geom": "ENVELOPE(-124.511501, -67.234402, 49.002484, 25.440482)",
+  "solr_year_i": "1997"
+}

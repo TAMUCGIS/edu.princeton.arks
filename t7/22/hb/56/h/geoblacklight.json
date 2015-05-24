@@ -1,0 +1,30 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/t722hb56h",
+  "dc_creator_sm": "GfK MACON",
+  "dc_description_s": "This data includes Italy minor roads created by GfK MACON company, Germany.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "t722hb56h",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Roads",
+    "Transportation",
+    "Minor Roads"
+  ],
+  "dc_title_s": "Italy Minor Roads, 2005",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/t722hb56h/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/t722hb56h/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/t722hb56h\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": "Italy",
+  "dct_temporal_sm": "2006",
+  "dct_issued_s": "2005",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "36.687805 6.949972 46.991196 18.490221",
+  "georss_polygon_s": "46.991196 6.949972 46.991196 18.490221 36.687805 18.490221 36.687805 6.949972 46.991196 6.949972",
+  "layer_slug_s": "princeton-t722hb56h",
+  "layer_id_s": "pulmap-restricted:t722hb56h",
+  "layer_modified_dt": "2014-12-19T16:18:32Z",
+  "layer_geom_type_s": "Line",
+  "solr_geom": "ENVELOPE(6.949972, 18.490221, 46.991196, 36.687805)",
+  "solr_year_i": "2006"
+}

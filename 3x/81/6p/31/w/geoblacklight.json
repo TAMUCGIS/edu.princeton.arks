@@ -1,0 +1,33 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/3x816p31w",
+  "dc_creator_sm": "LAND INFO Worldwide Mapping, LLC",
+  "dc_description_s": "Nairobi street, road and raildroad data. DigitalGlobe QuickBird CitySphere acquired.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "3x816p31w",
+  "dc_language_s": "English",
+  "dc_publisher_s": "LAND INFO Worldwide Mapping, LLC",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Transportation networks",
+    "Roads",
+    "Streets",
+    "Railroads"
+  ],
+  "dc_title_s": "Nairobi streets, roads and railroads",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/3x816p31w/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/3x816p31w/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/3x816p31w\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": [
+    "Nairobi",
+    "Kenya"
+  ],
+  "dct_issued_s": "2006",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "-1.361033 36.729225 -1.220896 36.964236",
+  "georss_polygon_s": "-1.220896 36.729225 -1.220896 36.964236 -1.361033 36.964236 -1.361033 36.729225 -1.220896 36.729225",
+  "layer_slug_s": "princeton-3x816p31w",
+  "layer_id_s": "pulmap-restricted:3x816p31w",
+  "layer_modified_dt": "2014-12-19T16:18:36Z",
+  "layer_geom_type_s": "Line",
+  "solr_geom": "ENVELOPE(36.729225, 36.964236, -1.220896, -1.361033)",
+  "solr_year_i": "2006"
+}

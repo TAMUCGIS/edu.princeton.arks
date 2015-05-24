@@ -1,0 +1,29 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/ft848s02n",
+  "dc_creator_sm": "GfK MACON",
+  "dc_description_s": "This data include major dams of Croatia created by GfK MACON company, Germany.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "ft848s02n",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Dams",
+    "inlandWaters"
+  ],
+  "dc_title_s": "Croatia Major Dams, 2005",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/ft848s02n/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/ft848s02n/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/ft848s02n\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": "Croatia",
+  "dct_temporal_sm": "2006",
+  "dct_issued_s": "2005",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "40.708668 19.385584 42.286777 20.038361",
+  "georss_polygon_s": "42.286777 19.385584 42.286777 20.038361 40.708668 20.038361 40.708668 19.385584 42.286777 19.385584",
+  "layer_slug_s": "princeton-ft848s02n",
+  "layer_id_s": "pulmap-restricted:ft848s02n",
+  "layer_modified_dt": "2014-12-19T16:18:34Z",
+  "layer_geom_type_s": "Point",
+  "solr_geom": "ENVELOPE(19.385584, 20.038361, 42.286777, 40.708668)",
+  "solr_year_i": "2006"
+}

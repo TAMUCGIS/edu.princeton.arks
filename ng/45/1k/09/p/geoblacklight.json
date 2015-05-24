@@ -1,0 +1,30 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/ng451k09p",
+  "dc_creator_sm": "GfK MACON",
+  "dc_description_s": "This data include major rivers of El Salvador created by GfK MACON company, Germany.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "ng451k09p",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Rivers",
+    "inlandWaters",
+    "Major rivers"
+  ],
+  "dc_title_s": "El Salvador Major Rivers, 1992",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/ng451k09p/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/ng451k09p/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/ng451k09p\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": "El Salvador",
+  "dct_temporal_sm": "2006",
+  "dct_issued_s": "2005",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "13.235630 -89.436920 14.374855 -88.085060",
+  "georss_polygon_s": "14.374855 -89.436920 14.374855 -88.085060 13.235630 -88.085060 13.235630 -89.436920 14.374855 -89.436920",
+  "layer_slug_s": "princeton-ng451k09p",
+  "layer_id_s": "pulmap-restricted:ng451k09p",
+  "layer_modified_dt": "2014-12-19T16:18:33Z",
+  "layer_geom_type_s": "Line",
+  "solr_geom": "ENVELOPE(-89.436920, -88.085060, 14.374855, 13.235630)",
+  "solr_year_i": "2006"
+}

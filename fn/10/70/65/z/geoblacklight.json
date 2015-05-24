@@ -1,0 +1,33 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/fn107065z",
+  "dc_creator_sm": "GfK MACON",
+  "dc_description_s": "This data include minor lakes of United Kingdom created by GfK MACON company, Germany.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "fn107065z",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Lakes",
+    "inlandWaters",
+    "Major lakes"
+  ],
+  "dc_title_s": "United Kingdom Minor Lakes, 2005",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/fn107065z/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/fn107065z/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/fn107065z\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": [
+    "United Kingdom",
+    "UK"
+  ],
+  "dct_temporal_sm": "2006",
+  "dct_issued_s": "2005",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "50.070641 -8.277250 60.804501 1.716889",
+  "georss_polygon_s": "60.804501 -8.277250 60.804501 1.716889 50.070641 1.716889 50.070641 -8.277250 60.804501 -8.277250",
+  "layer_slug_s": "princeton-fn107065z",
+  "layer_id_s": "pulmap-restricted:fn107065z",
+  "layer_modified_dt": "2014-12-19T16:18:34Z",
+  "layer_geom_type_s": "Polygon",
+  "solr_geom": "ENVELOPE(-8.277250, 1.716889, 60.804501, 50.070641)",
+  "solr_year_i": "2006"
+}

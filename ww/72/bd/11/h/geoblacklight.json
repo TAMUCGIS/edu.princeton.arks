@@ -1,0 +1,39 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/ww72bd11h",
+  "dc_creator_sm": "United States Geological Survey",
+  "dc_description_s": "A scanned USGS 1:62500 topographic map.",
+  "dc_format_s": "Scanned Map",
+  "dc_identifier_s": "ww72bd11h",
+  "dc_language_s": "English",
+  "dc_publisher_s": "United States Geological Survey",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic map",
+    "Contour line",
+    "Elevation",
+    "Roads",
+    "geoscientificInformation",
+    "15 Minute Quadrangle Map"
+  ],
+  "dc_title_s": "New Jersey, Lake Hopatcong Quadrangle (1912)",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://geowebservices.princeton.edu/iiif/pulmap%2Fww%2F72%2Fbd%2F11%2Fh%2F00000001.jp2%2Finfo.json\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/ww72bd11h\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/ww72bd11h/fgdc.xml\"}",
+  "dct_spatial_sm": [
+    "Mendhem",
+    "Randolph",
+    "Rock Away",
+    "Jefferson",
+    "Roxbury",
+    "New Jersey"
+  ],
+  "dct_issued_s": "1912",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "40.75 -74.75 41.00 -74.5",
+  "georss_polygon_s": "41.00 -74.75 41.00 -74.5 40.75 -74.5 40.75 -74.75 41.00 -74.75",
+  "layer_slug_s": "princeton-ww72bd11h",
+  "layer_id_s": "ww72bd11h",
+  "layer_modified_dt": "2015-01-11T17:43:10Z",
+  "layer_geom_type_s": "Image",
+  "solr_geom": "ENVELOPE(-74.75, -74.5, 41.00, 40.75)",
+  "solr_year_i": "1912"
+}

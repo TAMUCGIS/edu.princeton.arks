@@ -1,0 +1,32 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/6h440v14f",
+  "dc_creator_sm": "LeadDog Consulting, LLC",
+  "dc_description_s": "Beijing Airports",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "6h440v14f",
+  "dc_language_s": "English",
+  "dc_publisher_s": "LeadDog Consulting, LLC",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Transportation networks",
+    "Transportation",
+    "Airports"
+  ],
+  "dc_title_s": "Beijing Airports",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/6h440v14f/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/6h440v14f/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/6h440v14f\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": [
+    "China",
+    "Beijing"
+  ],
+  "dct_issued_s": "2006",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "39.794807 116.385344 40.080156 116.587154",
+  "georss_polygon_s": "40.080156 116.385344 40.080156 116.587154 39.794807 116.587154 39.794807 116.385344 40.080156 116.385344",
+  "layer_slug_s": "princeton-6h440v14f",
+  "layer_id_s": "pulmap-restricted:6h440v14f",
+  "layer_modified_dt": "2014-12-19T16:18:36Z",
+  "layer_geom_type_s": "Point",
+  "solr_geom": "ENVELOPE(116.385344, 116.587154, 40.080156, 39.794807)",
+  "solr_year_i": "2006"
+}

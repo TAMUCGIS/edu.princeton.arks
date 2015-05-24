@@ -1,0 +1,31 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/p5547s83v",
+  "dc_creator_sm": "AND Data Solutions, B.V.",
+  "dc_description_s": "Europe Provinces represents provinces or province-like areas for Europe.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "p5547s83v",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "polygon",
+    "provinces",
+    "boundaries",
+    "coastlines"
+  ],
+  "dc_title_s": "Europe Provinces 2002",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/p5547s83v/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/p5547s83v/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/p5547s83v\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": "Europe",
+  "dct_temporal_sm": "1999",
+  "dct_issued_s": "20020401",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "27.635900 -31.267200 71.183900 66.063300",
+  "georss_polygon_s": "71.183900 -31.267200 71.183900 66.063300 27.635900 66.063300 27.635900 -31.267200 71.183900 -31.267200",
+  "layer_slug_s": "princeton-p5547s83v",
+  "layer_id_s": "pulmap-restricted:p5547s83v",
+  "layer_modified_dt": "2014-12-19T16:18:33Z",
+  "layer_geom_type_s": "Polygon",
+  "solr_geom": "ENVELOPE(-31.267200, 66.063300, 71.183900, 27.635900)",
+  "solr_year_i": "1999"
+}

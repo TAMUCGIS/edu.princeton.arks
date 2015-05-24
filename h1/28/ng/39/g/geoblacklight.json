@@ -1,0 +1,32 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/h128ng39g",
+  "dc_creator_sm": "LeadDog Consulting, LLC",
+  "dc_description_s": "Baghdad streets and roads",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "h128ng39g",
+  "dc_language_s": "English",
+  "dc_publisher_s": "LeadDog Consulting, LLC",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Transportation networks",
+    "Streets",
+    "Roads"
+  ],
+  "dc_title_s": "Baghdad streets and roads",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/h128ng39g/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/h128ng39g/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/h128ng39g\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": [
+    "Iraq",
+    "Baghdad"
+  ],
+  "dct_issued_s": "2006",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "33.185434 44.158852 33.452968 44.578084",
+  "georss_polygon_s": "33.452968 44.158852 33.452968 44.578084 33.185434 44.578084 33.185434 44.158852 33.452968 44.158852",
+  "layer_slug_s": "princeton-h128ng39g",
+  "layer_id_s": "pulmap-restricted:h128ng39g",
+  "layer_modified_dt": "2014-12-19T16:18:34Z",
+  "layer_geom_type_s": "Line",
+  "solr_geom": "ENVELOPE(44.158852, 44.578084, 33.452968, 33.185434)",
+  "solr_year_i": "2006"
+}

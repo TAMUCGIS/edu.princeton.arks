@@ -1,0 +1,29 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/gx41mk47z",
+  "dc_creator_sm": "Globe Telecom",
+  "dc_description_s": "Points representing banks in Cairo.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "gx41mk47z",
+  "dc_language_s": "English",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "banks",
+    "structure"
+  ],
+  "dc_title_s": "Cairo Banks",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/gx41mk47z/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/gx41mk47z/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/gx41mk47z\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": [
+    "Egypt",
+    "Cairo"
+  ],
+  "dct_issued_s": "20130707",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "29.797756 30.873842 30.182471 31.725906",
+  "georss_polygon_s": "30.182471 30.873842 30.182471 31.725906 29.797756 31.725906 29.797756 30.873842 30.182471 30.873842",
+  "layer_slug_s": "princeton-gx41mk47z",
+  "layer_id_s": "pulmap-restricted:gx41mk47z",
+  "layer_modified_dt": "2014-12-19T16:18:34Z",
+  "layer_geom_type_s": "Point",
+  "solr_geom": "ENVELOPE(30.873842, 31.725906, 30.182471, 29.797756)"
+}

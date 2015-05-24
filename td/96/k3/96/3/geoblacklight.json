@@ -1,0 +1,41 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/td96k3963",
+  "dc_creator_sm": "United States Geological Survey",
+  "dc_description_s": "U.S. Geographic Names Information System Golf Locales represents an automated inventory of the proper names and locations of physical and cultural geographic features located throughout the United States and its Territories. No data exists for Alaska.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "td96k3963",
+  "dc_language_s": "English",
+  "dc_publisher_s": "ESRI",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "point",
+    "golf locale",
+    "place name",
+    "geographic feature",
+    "society"
+  ],
+  "dc_title_s": "U.S. Geographic Names Information System Golf Locales 2008",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/td96k3963/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/td96k3963/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/td96k3963\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": [
+    "United States",
+    "U.S. Commonwealths",
+    "U.S. Territories"
+  ],
+  "dct_temporal_sm": [
+    "1981",
+    "2007",
+    "1974-Present",
+    "2007"
+  ],
+  "dct_issued_s": "20080401",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "-14.346944 -170.740000 48.982241 144.861111",
+  "georss_polygon_s": "48.982241 -170.740000 48.982241 144.861111 -14.346944 144.861111 -14.346944 -170.740000 48.982241 -170.740000",
+  "layer_slug_s": "princeton-td96k3963",
+  "layer_id_s": "pulmap-restricted:td96k3963",
+  "layer_modified_dt": "2014-12-19T16:18:32Z",
+  "layer_geom_type_s": "Point",
+  "solr_geom": "ENVELOPE(-170.740000, 144.861111, 48.982241, -14.346944)",
+  "solr_year_i": "1981"
+}

@@ -1,0 +1,31 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/pv63g177c",
+  "dc_creator_sm": "GfK MACON",
+  "dc_description_s": "This data includes Malta major airports created by GfK MACON company, Germany.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "pv63g177c",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Airports",
+    "Transportation",
+    "Major Airports",
+    "point"
+  ],
+  "dc_title_s": "Malta Major Airports, 2005",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/pv63g177c/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/pv63g177c/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/pv63g177c\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": "Malta",
+  "dct_temporal_sm": "2006",
+  "dct_issued_s": "2005",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "35.8066 14.1832 36.0818 14.5732",
+  "georss_polygon_s": "36.0818 14.1832 36.0818 14.5732 35.8066 14.5732 35.8066 14.1832 36.0818 14.1832",
+  "layer_slug_s": "princeton-pv63g177c",
+  "layer_id_s": "pulmap-restricted:pv63g177c",
+  "layer_modified_dt": "2014-12-19T16:18:33Z",
+  "layer_geom_type_s": "Point",
+  "solr_geom": "ENVELOPE(14.1832, 14.5732, 36.0818, 35.8066)",
+  "solr_year_i": "2006"
+}

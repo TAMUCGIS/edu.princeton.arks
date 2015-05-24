@@ -1,0 +1,39 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/wh246t638",
+  "dc_creator_sm": "Bureau of Transportation Statistics ",
+  "dc_description_s": "U.S. National Transportation Atlas Highways represents rural interstates and arteries; and urban freeways, expressways, interstates, arteries and collectors. U.S. National Transportation Atlas Highways is part of the National Highway Planning Network version 2.1 published by the Bureau of Transportation Statistics as part of the National Transportation Atlas Databases for the United States.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "wh246t638",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_rights_s": "Restricted",
+  "dc_subject_sm": [
+    "line",
+    "highways",
+    "interstates",
+    "arteries",
+    "freeways or expressways",
+    "rural",
+    "urban",
+    "transportation"
+  ],
+  "dc_title_s": "U.S. National Transportation Atlas Highways 2002",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/wh246t638\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/wh246t638/fgdc.xml\"}",
+  "dct_spatial_sm": "United States",
+  "dct_temporal_sm": [
+    "1997",
+    "1992–1996",
+    "1978"
+  ],
+  "dct_issued_s": "20020401",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "18.912035 -176.746361 71.316577 179.456371",
+  "georss_polygon_s": "71.316577 -176.746361 71.316577 179.456371 18.912035 179.456371 18.912035 -176.746361 71.316577 -176.746361",
+  "layer_slug_s": "princeton-wh246t638",
+  "layer_id_s": "pulmap-restricted:wh246t638",
+  "layer_modified_dt": "2014-12-19T16:18:32Z",
+  "layer_geom_type_s": "Line",
+  "solr_geom": "ENVELOPE(-176.746361, 179.456371, 71.316577, 18.912035)",
+  "solr_year_i": "1997"
+}

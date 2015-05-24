@@ -1,0 +1,31 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/6108vc64n",
+  "dc_creator_sm": "LeadDog Consulting, LLC",
+  "dc_description_s": "Shanghai residences",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "6108vc64n",
+  "dc_language_s": "English",
+  "dc_publisher_s": "LeadDog Consulting, LLC",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Cadastral and land planning:",
+    "Residences"
+  ],
+  "dc_title_s": "Shanghai residences",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/6108vc64n/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/6108vc64n/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/6108vc64n\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": [
+    "Shanghai",
+    "China"
+  ],
+  "dct_issued_s": "2006",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "30.715873 121.099685 31.637508 121.763227",
+  "georss_polygon_s": "31.637508 121.099685 31.637508 121.763227 30.715873 121.763227 30.715873 121.099685 31.637508 121.099685",
+  "layer_slug_s": "princeton-6108vc64n",
+  "layer_id_s": "pulmap-restricted:6108vc64n",
+  "layer_modified_dt": "2014-12-19T16:18:36Z",
+  "layer_geom_type_s": "Point",
+  "solr_geom": "ENVELOPE(121.099685, 121.763227, 31.637508, 30.715873)",
+  "solr_year_i": "2006"
+}

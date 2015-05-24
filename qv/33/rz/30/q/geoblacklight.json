@@ -1,0 +1,34 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/qv33rz30q",
+  "dc_creator_sm": "All China Marketing Research Co., Ltd.",
+  "dc_description_s": "China counties with 2000 population Census data from 9.95% Long Form data (table L7-L8).",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "qv33rz30q",
+  "dc_language_s": "English",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Counties",
+    "Census",
+    "boundaries",
+    "Demographics",
+    "county boundaries"
+  ],
+  "dc_title_s": "China County Census Long Form Data (L7-L8), 2000",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/qv33rz30q/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/qv33rz30q/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/qv33rz30q\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": "China",
+  "dct_temporal_sm": [
+    "2005",
+    "2000"
+  ],
+  "dct_issued_s": "2005",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "6.318641 73.446960 53.557926 135.085831",
+  "georss_polygon_s": "53.557926 73.446960 53.557926 135.085831 6.318641 135.085831 6.318641 73.446960 53.557926 73.446960",
+  "layer_slug_s": "princeton-qv33rz30q",
+  "layer_id_s": "pulmap-restricted:qv33rz30q",
+  "layer_modified_dt": "2014-12-19T16:18:32Z",
+  "layer_geom_type_s": "Polygon",
+  "solr_geom": "ENVELOPE(73.446960, 135.085831, 53.557926, 6.318641)",
+  "solr_year_i": "2005"
+}

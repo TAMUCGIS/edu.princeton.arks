@@ -1,0 +1,27 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/n296x076s",
+  "dc_creator_sm": "LeadDog Consulting, LLC",
+  "dc_description_s": "Shanghai piers",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "n296x076s",
+  "dc_language_s": "English",
+  "dc_publisher_s": "LeadDog Consulting, LLC",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Shanghai piers",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/n296x076s/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/n296x076s/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/n296x076s\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": [
+    "Shanghai",
+    "China"
+  ],
+  "dct_issued_s": "2006",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "30.727222 121.369522 31.619532 121.657766",
+  "georss_polygon_s": "31.619532 121.369522 31.619532 121.657766 30.727222 121.657766 30.727222 121.369522 31.619532 121.369522",
+  "layer_slug_s": "princeton-n296x076s",
+  "layer_id_s": "pulmap-restricted:n296x076s",
+  "layer_modified_dt": "2014-12-19T16:18:33Z",
+  "layer_geom_type_s": "Point",
+  "solr_geom": "ENVELOPE(121.369522, 121.657766, 31.619532, 30.727222)",
+  "solr_year_i": "2006"
+}

@@ -1,0 +1,32 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/jq085m59v",
+  "dc_creator_sm": "Globe Telecom",
+  "dc_description_s": "Polygons representing water bodies in Egypt.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "jq085m59v",
+  "dc_language_s": "English",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "lakes",
+    "dams",
+    "reservoirs",
+    "oasis",
+    "oases",
+    "ponds",
+    "pools",
+    "inlandWaters"
+  ],
+  "dc_title_s": "Egypt Water Bodies",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/jq085m59v/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/jq085m59v/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/jq085m59v\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": "Egypt",
+  "dct_issued_s": "20140428",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "21.856676 25.102925 32.374915 39.711953",
+  "georss_polygon_s": "32.374915 25.102925 32.374915 39.711953 21.856676 39.711953 21.856676 25.102925 32.374915 25.102925",
+  "layer_slug_s": "princeton-jq085m59v",
+  "layer_id_s": "pulmap-restricted:jq085m59v",
+  "layer_modified_dt": "2014-12-19T16:18:33Z",
+  "layer_geom_type_s": "Polygon",
+  "solr_geom": "ENVELOPE(25.102925, 39.711953, 32.374915, 21.856676)"
+}

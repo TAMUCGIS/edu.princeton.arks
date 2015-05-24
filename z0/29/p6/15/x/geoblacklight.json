@@ -1,0 +1,42 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/z029p615x",
+  "dc_creator_sm": "Boundary Solutions, Inc.",
+  "dc_description_s": "Land parcels in Santa Rosa, Florida, 2009.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "z029p615x",
+  "dc_language_s": "English",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "land value",
+    "value",
+    "buildings",
+    "stories",
+    "floors",
+    "planningCadastre"
+  ],
+  "dc_title_s": "parcel_12113",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/z029p615x/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/z029p615x/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/z029p615x\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": [
+    "Santa Rosa",
+    "Santa Rosa County",
+    "Florida"
+  ],
+  "dct_issued_s": "20090831",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "30.342595 -87.313330 31.000138 -86.785915",
+  "georss_polygon_s": "31.000138 -87.313330 31.000138 -86.785915 30.342595 -86.785915 30.342595 -87.313330 31.000138 -87.313330",
+  "layer_slug_s": "princeton-z029p615x",
+  "layer_id_s": "pulmap-restricted:z029p615x",
+  "layer_modified_dt": "2014-12-19T16:18:31Z",
+  "layer_geom_type_s": "Polygon",
+  "solr_geom": "ENVELOPE(-87.313330, -86.785915, 31.000138, 30.342595)"
+}

@@ -1,0 +1,35 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/ng451k245",
+  "dc_creator_sm": "All China Marketing Research Co., Ltd.",
+  "dc_description_s": "China County boundaries with 1990 Census data (part b).",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "ng451k245",
+  "dc_language_s": "English",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Counties",
+    "Census",
+    "administrative regions",
+    "Demographics",
+    "boundaries",
+    "county boundaries"
+  ],
+  "dc_title_s": "China County Boundaries with Census Data (Part B), 1990",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/ng451k245/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/ng451k245/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/ng451k245\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": "China",
+  "dct_temporal_sm": [
+    "2005",
+    "1990"
+  ],
+  "dct_issued_s": "2005",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "6.318641 73.446960 53.557926 135.085831",
+  "georss_polygon_s": "53.557926 73.446960 53.557926 135.085831 6.318641 135.085831 6.318641 73.446960 53.557926 73.446960",
+  "layer_slug_s": "princeton-ng451k245",
+  "layer_id_s": "pulmap-restricted:ng451k245",
+  "layer_modified_dt": "2014-12-19T16:18:33Z",
+  "layer_geom_type_s": "Polygon",
+  "solr_geom": "ENVELOPE(73.446960, 135.085831, 53.557926, 6.318641)",
+  "solr_year_i": "2005"
+}

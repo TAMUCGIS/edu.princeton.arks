@@ -1,0 +1,35 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/1z40kv485",
+  "dc_creator_sm": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_description_s": "U.S. Lakes (Generalized) represents the major lakes within United States.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "1z40kv485",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "polygon",
+    "lakes",
+    "hydrography"
+  ],
+  "dc_title_s": "U.S. Lakes (Generalized) 2000",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/1z40kv485/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/1z40kv485/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/1z40kv485\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": "United States",
+  "dct_temporal_sm": [
+    "1992",
+    "1991",
+    "1990",
+    "1992"
+  ],
+  "dct_issued_s": "20001101",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "26.682839 -120.152131 49.996367 -71.198121",
+  "georss_polygon_s": "49.996367 -120.152131 49.996367 -71.198121 26.682839 -71.198121 26.682839 -120.152131 49.996367 -120.152131",
+  "layer_slug_s": "princeton-1z40kv485",
+  "layer_id_s": "pulmap-restricted:1z40kv485",
+  "layer_modified_dt": "2014-12-19T16:18:37Z",
+  "layer_geom_type_s": "Polygon",
+  "solr_geom": "ENVELOPE(-120.152131, -71.198121, 49.996367, 26.682839)",
+  "solr_year_i": "1992"
+}

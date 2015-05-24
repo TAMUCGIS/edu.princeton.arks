@@ -1,0 +1,22 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/h128ng126",
+  "dc_creator_sm": "New York City Department of Information and Technology. ",
+  "dc_description_s": "The \"Open_space\" dataset is a polygon representation of New York City parks and open space. The data is comprised of polygon geometries with attribute information. Feature classifications include: \n1.\tBall fields within park,\n2.\tCemetery Outline,\n3.\tHard surface courts within park,\n4.\tParking areas within park,\n5.\tPlaygrounds within park,\n6.\tPools within park,\n7.\tRecreational area over 2 acres,\n8.\tSkating rinks within park.\n",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "h128ng126",
+  "dc_language_s": "English",
+  "dc_rights_s": "Restricted",
+  "dc_subject_sm": "New York City Open Space, Cemetery Outline, Recreational area over 2 acres, Ball fields within park, Hard surface courts within park, Playgrounds within park, Pools within park, Skating rinks within park and Parking areas within park. ",
+  "dc_title_s": "New York City Open Space 2004",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/h128ng126\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/h128ng126/fgdc.xml\"}",
+  "dct_issued_s": "05/17/2004",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "40.495738 -74.268667 40.920486 -73.707281",
+  "georss_polygon_s": "40.920486 -74.268667 40.920486 -73.707281 40.495738 -73.707281 40.495738 -74.268667 40.920486 -74.268667",
+  "layer_slug_s": "princeton-h128ng126",
+  "layer_id_s": "pulmap-restricted:h128ng126",
+  "layer_modified_dt": "2014-12-23T15:19:18Z",
+  "layer_geom_type_s": "Polygon",
+  "solr_geom": "ENVELOPE(-74.268667, -73.707281, 40.920486, 40.495738)"
+}

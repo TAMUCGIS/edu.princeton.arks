@@ -1,0 +1,22 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/5h73px81w",
+  "dc_creator_sm": "New York City Department of Information Technology and Telecommunications.",
+  "dc_description_s": "The \"Railroad\" dataset is a line representation of New York City railroad transportation lines including additional features such as railroad fences and viaduct.  The data is comprised of line geometries with attribute information.  Feature classifications include:\n1.\tRailroad,\n2.\tHidden railroad,\n3.\tElevated railroad,\n4.\tEmbankment railroad,\n5.\tViaduct centreline,\n6.\tOpen cut depression railroad,\n7.\tRailway fence,\n8.\tRailway retaining wall,\n9.\tAbandoned railroad.\n",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "5h73px81w",
+  "dc_language_s": "English",
+  "dc_rights_s": "Restricted",
+  "dc_subject_sm": "New York City railroad, railroad",
+  "dc_title_s": "New York City Railroad 2004",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/5h73px81w\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/5h73px81w/fgdc.xml\"}",
+  "dct_issued_s": "5/19/2004",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "40.512001 -74.255775 40.915647 -73.725416",
+  "georss_polygon_s": "40.915647 -74.255775 40.915647 -73.725416 40.512001 -73.725416 40.512001 -74.255775 40.915647 -74.255775",
+  "layer_slug_s": "princeton-5h73px81w",
+  "layer_id_s": "pulmap-restricted:5h73px81w",
+  "layer_modified_dt": "2014-12-23T15:22:30Z",
+  "layer_geom_type_s": "Line",
+  "solr_geom": "ENVELOPE(-74.255775, -73.725416, 40.915647, 40.512001)"
+}

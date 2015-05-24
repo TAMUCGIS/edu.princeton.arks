@@ -1,0 +1,32 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/m613n001j",
+  "dc_creator_sm": "AND Data Solutions, B.V.",
+  "dc_description_s": "Europe Urbanized Areas represents the urbanized areas of Europe.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "m613n001j",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "polygon",
+    "urban",
+    "urban areas",
+    "cities",
+    "society"
+  ],
+  "dc_title_s": "Europe Urbanized Areas 2002",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/m613n001j/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/m613n001j/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/m613n001j\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": "Europe",
+  "dct_temporal_sm": "1999",
+  "dct_issued_s": "20020401",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "35.126200 -22.039900 70.683200 56.807600",
+  "georss_polygon_s": "70.683200 -22.039900 70.683200 56.807600 35.126200 56.807600 35.126200 -22.039900 70.683200 -22.039900",
+  "layer_slug_s": "princeton-m613n001j",
+  "layer_id_s": "pulmap-restricted:m613n001j",
+  "layer_modified_dt": "2014-12-19T16:18:33Z",
+  "layer_geom_type_s": "Polygon",
+  "solr_geom": "ENVELOPE(-22.039900, 56.807600, 70.683200, 35.126200)",
+  "solr_year_i": "1999"
+}

@@ -1,0 +1,38 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/q811km29k",
+  "dc_creator_sm": "United States Geological Survey",
+  "dc_description_s": "A scanned USGS 1:24,000 topographic map.",
+  "dc_format_s": "Scanned Map",
+  "dc_identifier_s": "q811km29k",
+  "dc_language_s": "English",
+  "dc_publisher_s": "United States Geological Survey",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic map",
+    "7.5 Minute Quadrangle Map",
+    "Contour line",
+    "Elevation",
+    "Roads",
+    "geoscientificInformation"
+  ],
+  "dc_title_s": "Rio Grande Quadrangle, New Jersey - Cape May Co., 7.5 Minute series (topographic) (1956)",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://geowebservices.princeton.edu/iiif/pulmap%2Fq8%2F11%2Fkm%2F29%2Fk%2F00000001.jp2%2Finfo.json\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/q811km29k\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/q811km29k/fgdc.xml\"}",
+  "dct_spatial_sm": [
+    "Rio Grande",
+    "Lower",
+    "Middle",
+    "Cape May County",
+    "New Jersey"
+  ],
+  "dct_issued_s": "1956",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "39.000 -75.000 39.125 -74.875",
+  "georss_polygon_s": "39.125 -75.000 39.125 -74.875 39.000 -74.875 39.000 -75.000 39.125 -75.000",
+  "layer_slug_s": "princeton-q811km29k",
+  "layer_id_s": "q811km29k",
+  "layer_modified_dt": "2015-01-11T17:43:24Z",
+  "layer_geom_type_s": "Image",
+  "solr_geom": "ENVELOPE(-75.000, -74.875, 39.125, 39.000)",
+  "solr_year_i": "1956"
+}

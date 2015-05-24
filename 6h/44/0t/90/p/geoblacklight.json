@@ -1,0 +1,33 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/6h440t90p",
+  "dc_creator_sm": "All China Marketing Research Co., Ltd.",
+  "dc_description_s": "China boundaries and islands.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "6h440t90p",
+  "dc_language_s": "English",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Administrative units",
+    "Boundaries",
+    "Coastline",
+    "Islands"
+  ],
+  "dc_title_s": "China Boundaries and Islands, 2000",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/6h440t90p/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/6h440t90p/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/6h440t90p\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": "China",
+  "dct_temporal_sm": [
+    "2005",
+    "2000"
+  ],
+  "dct_issued_s": "2005",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "3.408477 73.446960 53.557926 135.085831",
+  "georss_polygon_s": "53.557926 73.446960 53.557926 135.085831 3.408477 135.085831 3.408477 73.446960 53.557926 73.446960",
+  "layer_slug_s": "princeton-6h440t90p",
+  "layer_id_s": "pulmap-restricted:6h440t90p",
+  "layer_modified_dt": "2014-12-19T16:18:36Z",
+  "layer_geom_type_s": "Line",
+  "solr_geom": "ENVELOPE(73.446960, 135.085831, 53.557926, 3.408477)",
+  "solr_year_i": "2005"
+}

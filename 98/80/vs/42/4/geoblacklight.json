@@ -1,0 +1,35 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/9880vs424",
+  "dc_creator_sm": "United States Geological Survey",
+  "dc_description_s": "A scanned USGS 1:24,000 topographic map.",
+  "dc_format_s": "Scanned Map",
+  "dc_identifier_s": "9880vs424",
+  "dc_language_s": "English",
+  "dc_publisher_s": "United States Geological Survey",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic map",
+    "7.5 Minute Quadrangle Map",
+    "Contour line",
+    "Elevation",
+    "Roads",
+    "geoscientificInformation"
+  ],
+  "dc_title_s": "Cape May Quadrangle, New Jersey, 7.5 minute series (topographic)",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://geowebservices.princeton.edu/iiif/pulmap%2F98%2F80%2Fvs%2F42%2F4%2F00000001.jp2%2Finfo.json\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/9880vs424\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/9880vs424/fgdc.xml\"}",
+  "dct_spatial_sm": [
+    "Cape May",
+    "Sewell Point",
+    "New Jersey"
+  ],
+  "dct_issued_s": "1954 (Photorevised 1972)",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "38.875 -75.000 39.000 -74.875",
+  "georss_polygon_s": "39.000 -75.000 39.000 -74.875 38.875 -74.875 38.875 -75.000 39.000 -75.000",
+  "layer_slug_s": "princeton-9880vs424",
+  "layer_id_s": "9880vs424",
+  "layer_modified_dt": "2015-01-11T17:42:37Z",
+  "layer_geom_type_s": "Image",
+  "solr_geom": "ENVELOPE(-75.000, -74.875, 39.000, 38.875)"
+}

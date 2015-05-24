@@ -1,0 +1,30 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/5999n489w",
+  "dc_creator_sm": "GfK MACON",
+  "dc_description_s": "This data includes Denmark cities with population between 50 thousand and 100 thousand created by GfK MACON company, Germany.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "5999n489w",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "City",
+    "Location",
+    "Cities 50K"
+  ],
+  "dc_title_s": "Denmark Cities With Population From 50 Thousand To 100 Thousand, 2005",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/5999n489w/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/5999n489w/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/5999n489w\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": "Denmark",
+  "dct_temporal_sm": "2006",
+  "dct_issued_s": "2005",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "55.463330 8.453330 56.459303 12.540150",
+  "georss_polygon_s": "56.459303 8.453330 56.459303 12.540150 55.463330 12.540150 55.463330 8.453330 56.459303 8.453330",
+  "layer_slug_s": "princeton-5999n489w",
+  "layer_id_s": "pulmap-restricted:5999n489w",
+  "layer_modified_dt": "2014-12-19T16:18:36Z",
+  "layer_geom_type_s": "Point",
+  "solr_geom": "ENVELOPE(8.453330, 12.540150, 56.459303, 55.463330)",
+  "solr_year_i": "2006"
+}

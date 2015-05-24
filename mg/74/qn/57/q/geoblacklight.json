@@ -1,0 +1,30 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/mg74qn57q",
+  "dc_creator_sm": "GfK MACON",
+  "dc_description_s": "This data includes Czech Republic cities with population between 50 thousand and 100 thousand created by GfK MACON company, Germany.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "mg74qn57q",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "City",
+    "Location",
+    "Cities 50K"
+  ],
+  "dc_title_s": "Czech Republic Cities With Population From 50 Thousand To 100 Thousand, 2005",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/mg74qn57q/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/mg74qn57q/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/mg74qn57q\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": "Czech Republic",
+  "dct_temporal_sm": "2006",
+  "dct_issued_s": "2005",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "48.968986 12.871014 50.771086 18.548152",
+  "georss_polygon_s": "50.771086 12.871014 50.771086 18.548152 48.968986 18.548152 48.968986 12.871014 50.771086 12.871014",
+  "layer_slug_s": "princeton-mg74qn57q",
+  "layer_id_s": "pulmap-restricted:mg74qn57q",
+  "layer_modified_dt": "2014-12-19T16:18:33Z",
+  "layer_geom_type_s": "Point",
+  "solr_geom": "ENVELOPE(12.871014, 18.548152, 50.771086, 48.968986)",
+  "solr_year_i": "2006"
+}

@@ -1,0 +1,31 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/v118rg16c",
+  "dc_creator_sm": "GfK MACON",
+  "dc_description_s": "This data includes Denmark major railways created by GfK MACON company, Germany.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "v118rg16c",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Railways",
+    "Transportation",
+    "Major Railways",
+    "Railroads"
+  ],
+  "dc_title_s": "Denmark Major Railways, 2005",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/v118rg16c/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/v118rg16c/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/v118rg16c\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_spatial_sm": "Denmark",
+  "dct_temporal_sm": "2006",
+  "dct_issued_s": "2005",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "54.292500 8.152500 57.723835 12.627194",
+  "georss_polygon_s": "57.723835 8.152500 57.723835 12.627194 54.292500 12.627194 54.292500 8.152500 57.723835 8.152500",
+  "layer_slug_s": "princeton-v118rg16c",
+  "layer_id_s": "pulmap-restricted:v118rg16c",
+  "layer_modified_dt": "2014-12-19T16:18:32Z",
+  "layer_geom_type_s": "Line",
+  "solr_geom": "ENVELOPE(8.152500, 12.627194, 57.723835, 54.292500)",
+  "solr_year_i": "2006"
+}

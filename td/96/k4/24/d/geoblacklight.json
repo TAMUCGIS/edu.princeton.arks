@@ -1,0 +1,40 @@
+{
+  "uuid": "http://arks.princeton.edu/ark:/88435/td96k424d",
+  "dc_creator_sm": "Tuolumne County Community Development Department, GIS Division",
+  "dc_description_s": "Based on original Tuolumne County cadastral parcel data, which was digitized and rubbersheeted using Manatron software and assessors' record of survey maps starting in 1992, this feature class was spatially adjusted in ARCINFO Workstation using ARCEDIT in late 2002 to reflect more accurate locational data. This is the first generation of the overall spatially corrected parcel data.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "td96k424d",
+  "dc_language_s": "English",
+  "dc_rights_s": "Restricted",
+  "dc_subject_sm": [
+    "parcel",
+    "parcels",
+    "tax parcels",
+    "property",
+    "property maps",
+    "cadastral maps",
+    "ownership",
+    "value",
+    "land value",
+    "land use",
+    "planningCadastre"
+  ],
+  "dc_title_s": "Tuolumne County, California land parcels, 2008",
+  "dc_type_s": "Dataset",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/td96k424d\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/td96k424d/fgdc.xml\"}",
+  "dct_spatial_sm": [
+    "California",
+    "Tuolumne County",
+    "Yosemite",
+    "Yosemite National Park"
+  ],
+  "dct_issued_s": "20081119",
+  "dct_provenance_s": "Princeton",
+  "georss_box_s": "37.634824 -120.654048 38.441401 -119.182442",
+  "georss_polygon_s": "38.441401 -120.654048 38.441401 -119.182442 37.634824 -119.182442 37.634824 -120.654048 38.441401 -120.654048",
+  "layer_slug_s": "princeton-td96k424d",
+  "layer_id_s": "pulmap-restricted:td96k424d",
+  "layer_modified_dt": "2014-12-19T16:18:32Z",
+  "layer_geom_type_s": "Polygon",
+  "solr_geom": "ENVELOPE(-120.654048, -119.182442, 38.441401, 37.634824)"
+}
