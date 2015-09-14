@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/p5547t63c",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Camden",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "p5547t63c",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Camden"
   ],
-  "dct_temporal_sm": "1926",
+  "dct_temporal_sm": [
+    "1926"
+  ],
   "georss_box_s": "39.898664 -75.132837 39.968156 -75.066546",
   "georss_polygon_s": "39.968156 -75.132837 39.968156 -75.066546 39.898664 -75.066546 39.898664 -75.132837 39.968156 -75.132837",
   "solr_geom": "ENVELOPE(-75.132837, -75.066546, 39.968156, 39.898664)",

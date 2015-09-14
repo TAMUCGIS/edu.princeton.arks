@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/8s45qc14n",
-  "dc_creator_sm": "Mitchell, John,",
+  "dc_creator_sm": [
+    "Mitchell, John,"
+  ],
   "dc_description_s": "La Pensilvania, la Nuova York, il Jersey Settentrio[na]le : con la parte occidentale del Connecticut, Massachusset-s-bay e l'Irochesia",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "8s45qc14n",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-19T22:37:01Z",
   "dc_title_s": "La Pensilvania, la Nuova York, il Jersey Settentrio[na]le : con la parte occidentale del Connecticut, Massachusset-s-bay e l'Irochesia",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Northeastern States",
-  "dct_temporal_sm": "1778",
+  "dct_spatial_sm": [
+    "Northeastern States"
+  ],
+  "dct_temporal_sm": [
+    "1778"
+  ],
   "georss_box_s": "40.25 -83.5 45.75 -72.5",
   "georss_polygon_s": "45.75 -83.5 45.75 -72.5 40.25 -72.5 40.25 -83.5 45.75 -83.5",
   "solr_geom": "ENVELOPE(-83.5, -72.5, 45.75, 40.25)",

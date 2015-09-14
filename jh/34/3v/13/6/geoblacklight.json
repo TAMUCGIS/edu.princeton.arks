@@ -19,8 +19,12 @@
   "layer_modified_dt": "2015-01-19T22:36:43Z",
   "dc_title_s": "Geological map, land and sea areas of northern Europe",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Europe, Northern",
-  "dct_temporal_sm": "2002",
+  "dct_spatial_sm": [
+    "Europe, Northern"
+  ],
+  "dct_temporal_sm": [
+    "2002"
+  ],
   "georss_box_s": "47.00000 -39.00000 82.50000 75.00000",
   "georss_polygon_s": "82.50000 -39.00000 82.50000 75.00000 47.00000 75.00000 47.00000 -39.00000 82.50000 -39.00000",
   "solr_geom": "ENVELOPE(-39.00000, 75.00000, 82.50000, 47.00000)",

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/00000254h",
-  "dc_creator_sm": "Woerl, Leo,",
+  "dc_creator_sm": [
+    "Woerl, Leo,"
+  ],
   "dc_description_s": "Wetzlar mit nächster Umgebung",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "00000254h",
@@ -17,7 +19,9 @@
     "Hesse (Germany)",
     "Wetzlar (Germany)"
   ],
-  "dct_temporal_sm": "1888",
+  "dct_temporal_sm": [
+    "1888"
+  ],
   "georss_box_s": "49.3952611 7.7724063 51.657817 10.2364858",
   "georss_polygon_s": "51.657817 7.7724063 51.657817 10.2364858 49.3952611 10.2364858 49.3952611 7.7724063 51.657817 7.7724063",
   "solr_geom": "ENVELOPE(7.7724063, 10.2364858, 51.657817, 49.3952611)",

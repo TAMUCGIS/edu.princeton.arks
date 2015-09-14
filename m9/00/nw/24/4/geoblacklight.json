@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/m900nw244",
-  "dc_creator_sm": "Jacquot, Mr.",
+  "dc_creator_sm": [
+    "Jacquot, Mr."
+  ],
   "dc_description_s": "Carte geologique detaillee de la France [a 1/80 000]: Chalons.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "m900nw244",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-19T22:36:37Z",
   "dc_title_s": "Carte geologique detaillee de la France [a 1/80 000]: Chalons.",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "France",
-  "dct_temporal_sm": "1932",
+  "dct_spatial_sm": [
+    "France"
+  ],
+  "dct_temporal_sm": [
+    "1932"
+  ],
   "georss_box_s": "48.77180 3.65310 49.13150 4.53000",
   "georss_polygon_s": "49.13150 3.65310 49.13150 4.53000 48.77180 4.53000 48.77180 3.65310 49.13150 3.65310",
   "solr_geom": "ENVELOPE(3.65310, 4.53000, 49.13150, 48.77180)",

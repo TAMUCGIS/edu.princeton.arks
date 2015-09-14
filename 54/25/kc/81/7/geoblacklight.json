@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/5425kc817",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Sayreville",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "5425kc817",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Sayreville"
   ],
-  "dct_temporal_sm": "1920",
+  "dct_temporal_sm": [
+    "1920"
+  ],
   "georss_box_s": "40.416597 -74.386158 40.509307 -74.257791",
   "georss_polygon_s": "40.509307 -74.386158 40.509307 -74.257791 40.416597 -74.257791 40.416597 -74.386158 40.509307 -74.386158",
   "solr_geom": "ENVELOPE(-74.386158, -74.257791, 40.509307, 40.416597)",

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/wm117r16h",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Lakewood",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "wm117r16h",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Lakewood"
   ],
-  "dct_temporal_sm": "1928",
+  "dct_temporal_sm": [
+    "1928"
+  ],
   "georss_box_s": "40.057893 -74.257643 40.137893 -74.177643",
   "georss_polygon_s": "40.137893 -74.257643 40.137893 -74.177643 40.057893 -74.177643 40.057893 -74.257643 40.137893 -74.257643",
   "solr_geom": "ENVELOPE(-74.257643, -74.177643, 40.137893, 40.057893)",

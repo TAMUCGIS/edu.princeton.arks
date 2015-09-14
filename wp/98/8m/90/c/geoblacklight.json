@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/wp988m90c",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Dunellen",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "wp988m90c",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Dunellen"
   ],
-  "dct_temporal_sm": "1927",
+  "dct_temporal_sm": [
+    "1927"
+  ],
   "georss_box_s": "40.580725 -74.478087 40.599245 -74.452321",
   "georss_polygon_s": "40.599245 -74.478087 40.599245 -74.452321 40.580725 -74.452321 40.580725 -74.478087 40.599245 -74.478087",
   "solr_geom": "ENVELOPE(-74.478087, -74.452321, 40.599245, 40.580725)",

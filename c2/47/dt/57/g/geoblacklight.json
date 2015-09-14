@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/c247dt57g",
-  "dc_creator_sm": "Army Map Service",
+  "dc_creator_sm": [
+    "Army Map Service"
+  ],
   "dc_description_s": "This is a map of the city of Imi N'Tanout, Morocco, shown at a 1:125,000. The map was created for use by War and Navy Department agencies during World War II.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "c247dt57g",
@@ -22,8 +24,7 @@
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://geowebservices.princeton.edu/iiif/pulmap%2Fc2%2F47%2Fdt%2F57%2Fg%2F00000001.jp2%2Finfo.json\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/c247dt57g\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/c247dt57g/fgdc.xml\"}",
   "dct_spatial_sm": [
     "Imi N'Tanout",
-    "Morocco",
-    "G8231.C2.s125.A7M3 sh17"
+    "Morocco"
   ],
   "dct_issued_s": "1943",
   "dct_provenance_s": "Princeton",

@@ -17,8 +17,12 @@
   "layer_modified_dt": "2015-01-19T22:37:37Z",
   "dc_title_s": "China",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "China",
-  "dct_temporal_sm": "1818",
+  "dct_spatial_sm": [
+    "China"
+  ],
+  "dct_temporal_sm": [
+    "1818"
+  ],
   "georss_box_s": "18.0 96.0 43.0 126.0",
   "georss_polygon_s": "43.0 96.0 43.0 126.0 18.0 126.0 18.0 96.0 43.0 96.0",
   "solr_geom": "ENVELOPE(96.0, 126.0, 43.0, 18.0)",

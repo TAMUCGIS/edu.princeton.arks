@@ -12,8 +12,12 @@
   "layer_modified_dt": "2015-01-19T22:36:44Z",
   "dc_title_s": "Belize 1:50,000. Series E755 (D.O.S. 4499). Sheet 37",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Belize",
-  "dct_temporal_sm": "1993",
+  "dct_spatial_sm": [
+    "Belize"
+  ],
+  "dct_temporal_sm": [
+    "1993"
+  ],
   "georss_box_s": "16.25000 -89.25000 16.50000 -89.00000",
   "georss_polygon_s": "16.50000 -89.25000 16.50000 -89.00000 16.25000 -89.00000 16.25000 -89.25000 16.50000 -89.25000",
   "solr_geom": "ENVELOPE(-89.25000, -89.00000, 16.50000, 16.25000)",

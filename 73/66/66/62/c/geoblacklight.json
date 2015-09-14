@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/73666662c",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of New Brunswick",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "73666662c",
@@ -25,7 +27,9 @@
     "New Jersey",
     "New Brunswick"
   ],
-  "dct_temporal_sm": "1930",
+  "dct_temporal_sm": [
+    "1930"
+  ],
   "georss_box_s": "40.467952 -74.4895 40.509533 -74.392412",
   "georss_polygon_s": "40.509533 -74.4895 40.509533 -74.392412 40.467952 -74.392412 40.467952 -74.4895 40.509533 -74.4895",
   "solr_geom": "ENVELOPE(-74.4895, -74.392412, 40.509533, 40.467952)",

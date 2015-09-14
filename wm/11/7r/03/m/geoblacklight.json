@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/wm117r03m",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of North Bergen",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "wm117r03m",
@@ -25,7 +27,9 @@
     "New Jersey",
     "North Bergen"
   ],
-  "dct_temporal_sm": "1910",
+  "dct_temporal_sm": [
+    "1910"
+  ],
   "georss_box_s": "40.75737 -74.056895 40.823569 -73.984883",
   "georss_polygon_s": "40.823569 -74.056895 40.823569 -73.984883 40.75737 -73.984883 40.75737 -74.056895 40.823569 -74.056895",
   "solr_geom": "ENVELOPE(-74.056895, -73.984883, 40.823569, 40.75737)",

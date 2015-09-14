@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/pz50gz47p",
-  "dc_creator_sm": "Pelet, Jean Jacques Germain,",
+  "dc_creator_sm": [
+    "Pelet, Jean Jacques Germain,"
+  ],
   "dc_description_s": "Carte du département de la Seine",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "pz50gz47p",
@@ -17,7 +19,9 @@
     "Seine (France)",
     "Paris (France)"
   ],
-  "dct_temporal_sm": "1839",
+  "dct_temporal_sm": [
+    "1839"
+  ],
   "georss_box_s": "47.4859522 0.2281 49.5225833 4.7169896",
   "georss_polygon_s": "49.5225833 0.2281 49.5225833 4.7169896 47.4859522 4.7169896 47.4859522 0.2281 49.5225833 0.2281",
   "solr_geom": "ENVELOPE(0.2281, 4.7169896, 49.5225833, 47.4859522)",

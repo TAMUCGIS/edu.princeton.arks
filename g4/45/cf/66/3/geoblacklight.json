@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/g445cf663",
-  "dc_creator_sm": "Army Map Service",
+  "dc_creator_sm": [
+    "Army Map Service"
+  ],
   "dc_description_s": "This is a map of the city of Parma, Italy, shown at a 1:10,000 scale. The map was created for use by War and Navy Department agencies during World War II.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "g445cf663",
@@ -15,15 +17,13 @@
     "World War II",
     "City map",
     "Military",
-    "Facilities and Structures",
-    "MAX  G6714.P3.1942.A7M3"
+    "Facilities and Structures"
   ],
   "dc_title_s": "Town plan of Parma.G.S.G.S. 4380.",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://geowebservices.princeton.edu/iiif/pulmap%2Fg4%2F45%2Fcf%2F66%2F3%2F00000001.jp2%2Finfo.json\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/g445cf663\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/g445cf663/fgdc.xml\"}",
   "dct_spatial_sm": [
     "Parma",
-    "Parma  Prov.",
     "Emilia-Romagna Regioni",
     "Italy"
   ],

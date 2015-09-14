@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/76537354h",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Palisades",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "76537354h",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Palisades"
   ],
-  "dct_temporal_sm": "1930",
+  "dct_temporal_sm": [
+    "1930"
+  ],
   "georss_box_s": "40.798873 -74.029505 40.914496 -73.927943",
   "georss_polygon_s": "40.914496 -74.029505 40.914496 -73.927943 40.798873 -73.927943 40.798873 -74.029505 40.914496 -74.029505",
   "solr_geom": "ENVELOPE(-74.029505, -73.927943, 40.914496, 40.798873)",

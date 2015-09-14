@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/m613n0585",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of East Orange",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "m613n0585",
@@ -25,7 +27,9 @@
     "New Jersey",
     "East Orange"
   ],
-  "dct_temporal_sm": "1911",
+  "dct_temporal_sm": [
+    "1911"
+  ],
   "georss_box_s": "40.745094 -74.238349 40.788123 -74.189989",
   "georss_polygon_s": "40.788123 -74.238349 40.788123 -74.189989 40.745094 -74.189989 40.745094 -74.238349 40.788123 -74.238349",
   "solr_geom": "ENVELOPE(-74.238349, -74.189989, 40.788123, 40.745094)",

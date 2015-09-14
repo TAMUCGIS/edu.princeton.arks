@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/7m01bn62t",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Holly Beach",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "7m01bn62t",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Holly Beach"
   ],
-  "dct_temporal_sm": "1909",
+  "dct_temporal_sm": [
+    "1909"
+  ],
   "georss_box_s": "38.974196 -74.835124 38.998783 -74.7996",
   "georss_polygon_s": "38.998783 -74.835124 38.998783 -74.7996 38.974196 -74.7996 38.974196 -74.835124 38.998783 -74.835124",
   "solr_geom": "ENVELOPE(-74.835124, -74.7996, 38.998783, 38.974196)",

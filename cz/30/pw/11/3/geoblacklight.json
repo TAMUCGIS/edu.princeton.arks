@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/cz30pw113",
-  "dc_creator_sm": "Ortelius, Abraham,",
+  "dc_creator_sm": [
+    "Ortelius, Abraham,"
+  ],
   "dc_description_s": "Hispaniae veteris descriptio",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "cz30pw113",
@@ -18,7 +20,9 @@
     "Portugal",
     "Spain"
   ],
-  "dct_temporal_sm": "1590",
+  "dct_temporal_sm": [
+    "1590"
+  ],
   "georss_box_s": "36.2380667008 -9.5035614375 43.7923795 4.3277839",
   "georss_polygon_s": "43.7923795 -9.5035614375 43.7923795 4.3277839 36.2380667008 4.3277839 36.2380667008 -9.5035614375 43.7923795 -9.5035614375",
   "solr_geom": "ENVELOPE(-9.5035614375, 4.3277839, 43.7923795, 36.2380667008)",

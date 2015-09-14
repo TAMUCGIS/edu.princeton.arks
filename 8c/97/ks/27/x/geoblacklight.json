@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/8c97ks27x",
-  "dc_creator_sm": "Ptolemy,",
+  "dc_creator_sm": [
+    "Ptolemy,"
+  ],
   "dc_description_s": "[Greece]",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "8c97ks27x",
@@ -19,7 +21,9 @@
     "Greece",
     "Balkan Peninsula"
   ],
-  "dct_temporal_sm": "1525",
+  "dct_temporal_sm": [
+    "1525"
+  ],
   "georss_box_s": "35.59933 22.4993729 40.901786 28.3309422",
   "georss_polygon_s": "40.901786 22.4993729 40.901786 28.3309422 35.59933 28.3309422 35.59933 22.4993729 40.901786 22.4993729",
   "solr_geom": "ENVELOPE(22.4993729, 28.3309422, 40.901786, 35.59933)",

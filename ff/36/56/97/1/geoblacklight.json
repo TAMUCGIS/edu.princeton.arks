@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/ff3656971",
-  "dc_creator_sm": "Army Map Service",
+  "dc_creator_sm": [
+    "Army Map Service"
+  ],
   "dc_description_s": "This is a map of the city of Lung-Chi'i, China, shown at a 1:12,500 scale. The map was created for use by War and Navy Department agencies during World War II.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "ff3656971",
@@ -16,13 +18,12 @@
     "City map",
     "Military",
     "Facilities and Structures",
-    "boundaries"
+    "Boundaries"
   ],
   "dc_title_s": "Lung-Ch'i (Chang-Chou), China, Fukien Province.",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://geowebservices.princeton.edu/iiif/pulmap%2Fff%2F36%2F56%2F97%2F1%2F00000001.jp2%2Finfo.json\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/ff3656971\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/ff3656971/fgdc.xml\"}",
   "dct_spatial_sm": [
-    "G7824.Z4C2.1946.A7M3",
     "Lung-Ch'i",
     "Zhangzhou",
     "Fukien Province",

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/ws859j10t",
-  "dc_creator_sm": "Fer, Nicolas de,",
+  "dc_creator_sm": [
+    "Fer, Nicolas de,"
+  ],
   "dc_description_s": "Les environs de Rome",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "ws859j10t",
@@ -18,7 +20,9 @@
     "Rome (Italy)",
     "Rome (Italy : Province)"
   ],
-  "dct_temporal_sm": "1705",
+  "dct_temporal_sm": [
+    "1705"
+  ],
   "georss_box_s": "40.7849283 11.4491695 42.8387459 14.0276445",
   "georss_polygon_s": "42.8387459 11.4491695 42.8387459 14.0276445 40.7849283 14.0276445 40.7849283 11.4491695 42.8387459 11.4491695",
   "solr_geom": "ENVELOPE(11.4491695, 14.0276445, 42.8387459, 40.7849283)",

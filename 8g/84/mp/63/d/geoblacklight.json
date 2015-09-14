@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/8g84mp63d",
-  "dc_creator_sm": "Bourgoin,",
+  "dc_creator_sm": [
+    "Bourgoin,"
+  ],
   "dc_description_s": "Plan detaillé de la Cité",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "8g84mp63d",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-21T22:23:58Z",
   "dc_title_s": "Plan detaillé de la Cité",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Île de la Cité (Paris, France)",
-  "dct_temporal_sm": "1980",
+  "dct_spatial_sm": [
+    "Île de la Cité (Paris, France)"
+  ],
+  "dct_temporal_sm": [
+    "1980"
+  ],
   "georss_box_s": "48.8516058 2.3393186 48.8577857 2.3526731",
   "georss_polygon_s": "48.8577857 2.3393186 48.8577857 2.3526731 48.8516058 2.3526731 48.8516058 2.3393186 48.8577857 2.3393186",
   "solr_geom": "ENVELOPE(2.3393186, 2.3526731, 48.8577857, 48.8516058)",

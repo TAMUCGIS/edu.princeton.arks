@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/5q47rq82r",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Hudson County",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "5q47rq82r",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Hudson County"
   ],
-  "dct_temporal_sm": "1906",
+  "dct_temporal_sm": [
+    "1906"
+  ],
   "georss_box_s": "40.643781 -74.166087 40.823417 -73.991958",
   "georss_polygon_s": "40.823417 -74.166087 40.823417 -73.991958 40.643781 -73.991958 40.643781 -74.166087 40.823417 -74.166087",
   "solr_geom": "ENVELOPE(-74.166087, -73.991958, 40.823417, 40.643781)",

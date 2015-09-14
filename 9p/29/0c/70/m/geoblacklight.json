@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/9p290c70m",
-  "dc_creator_sm": "Manesson-Mallet, Allain,",
+  "dc_creator_sm": [
+    "Manesson-Mallet, Allain,"
+  ],
   "dc_description_s": "Rhodes",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "9p290c70m",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-21T22:23:57Z",
   "dc_title_s": "Rhodes",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Rhodes (Greece)",
-  "dct_temporal_sm": "1683",
+  "dct_spatial_sm": [
+    "Rhodes (Greece)"
+  ],
+  "dct_temporal_sm": [
+    "1683"
+  ],
   "georss_box_s": "36.4128963 28.2054335 36.4582939 28.2407983",
   "georss_polygon_s": "36.4582939 28.2054335 36.4582939 28.2407983 36.4128963 28.2407983 36.4128963 28.2054335 36.4582939 28.2054335",
   "solr_geom": "ENVELOPE(28.2054335, 28.2407983, 36.4582939, 36.4128963)",

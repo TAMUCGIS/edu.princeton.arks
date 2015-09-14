@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/bn999929f",
-  "dc_creator_sm": "Harrison, Charles Peter,",
+  "dc_creator_sm": [
+    "Harrison, Charles Peter,"
+  ],
   "dc_description_s": "Portugal",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "bn999929f",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-23T17:48:40Z",
   "dc_title_s": "Portugal",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Portugal",
-  "dct_temporal_sm": "1825",
+  "dct_spatial_sm": [
+    "Portugal"
+  ],
+  "dct_temporal_sm": [
+    "1825"
+  ],
   "georss_box_s": "36.0 -10.0 43.0 -5.0",
   "georss_polygon_s": "43.0 -10.0 43.0 -5.0 36.0 -5.0 36.0 -10.0 43.0 -10.0",
   "solr_geom": "ENVELOPE(-10.0, -5.0, 43.0, 36.0)",

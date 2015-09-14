@@ -17,8 +17,12 @@
   "layer_modified_dt": "2015-01-21T22:24:18Z",
   "dc_title_s": "A map of Wiltshire : from the best authorities",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Wiltshire (England)",
-  "dct_temporal_sm": "1805",
+  "dct_spatial_sm": [
+    "Wiltshire (England)"
+  ],
+  "dct_temporal_sm": [
+    "1805"
+  ],
   "georss_box_s": "50.9445859 -2.3655988 51.7031431 -1.4857261",
   "georss_polygon_s": "51.7031431 -2.3655988 51.7031431 -1.4857261 50.9445859 -1.4857261 50.9445859 -2.3655988 51.7031431 -2.3655988",
   "solr_geom": "ENVELOPE(-2.3655988, -1.4857261, 51.7031431, 50.9445859)",

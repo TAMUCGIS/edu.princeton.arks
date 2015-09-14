@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/000002550",
-  "dc_creator_sm": "Macpherson, David,",
+  "dc_creator_sm": [
+    "Macpherson, David,"
+  ],
   "dc_description_s": "Italia in regiones undecim ab Augusto descripta, cum insulis Corsica et Sardinia",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "000002550",
@@ -18,7 +20,9 @@
     "Corsica (France)",
     "Sardinia (Italy)"
   ],
-  "dct_temporal_sm": "1806",
+  "dct_temporal_sm": [
+    "1806"
+  ],
   "georss_box_s": "38.0 6.0 48.0 20.0",
   "georss_polygon_s": "48.0 6.0 48.0 20.0 38.0 20.0 38.0 6.0 48.0 6.0",
   "solr_geom": "ENVELOPE(6.0, 20.0, 48.0, 38.0)",

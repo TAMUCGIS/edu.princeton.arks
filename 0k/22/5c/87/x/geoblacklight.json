@@ -17,8 +17,12 @@
   "layer_modified_dt": "2015-01-19T22:36:37Z",
   "dc_title_s": "Carte geologique detaillee de la France [a 1/80 000]: Bernay.",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "France",
-  "dct_temporal_sm": "1944",
+  "dct_spatial_sm": [
+    "France"
+  ],
+  "dct_temporal_sm": [
+    "1944"
+  ],
   "georss_box_s": "48.75950 0.14440 49.13150 1.02130",
   "georss_polygon_s": "49.13150 0.14440 49.13150 1.02130 48.75950 1.02130 48.75950 0.14440 49.13150 0.14440",
   "solr_geom": "ENVELOPE(0.14440, 1.02130, 49.13150, 48.75950)",

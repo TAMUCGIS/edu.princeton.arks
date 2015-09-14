@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/5h73pz50g",
-  "dc_creator_sm": "McClelland, D.,",
+  "dc_creator_sm": [
+    "McClelland, D.,"
+  ],
   "dc_description_s": "\"A\" diagram of a portion of Oregon Territory /",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "5h73pz50g",
@@ -17,7 +19,9 @@
     "Oregon",
     "Washington (State)"
   ],
-  "dct_temporal_sm": "1851",
+  "dct_temporal_sm": [
+    "1851"
+  ],
   "georss_box_s": "41.991794 -124.7035409 46.299099 -116.4635039",
   "georss_polygon_s": "46.299099 -124.7035409 46.299099 -116.4635039 41.991794 -116.4635039 41.991794 -124.7035409 46.299099 -124.7035409",
   "solr_geom": "ENVELOPE(-124.7035409, -116.4635039, 46.299099, 41.991794)",

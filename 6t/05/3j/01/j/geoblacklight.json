@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/6t053j01j",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Swedesboro",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "6t053j01j",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Swedesboro"
   ],
-  "dct_temporal_sm": "1926",
+  "dct_temporal_sm": [
+    "1926"
+  ],
   "georss_box_s": "39.732229 -75.320089 39.755706 -75.301528",
   "georss_polygon_s": "39.755706 -75.320089 39.755706 -75.301528 39.732229 -75.301528 39.732229 -75.320089 39.755706 -75.320089",
   "solr_geom": "ENVELOPE(-75.320089, -75.301528, 39.755706, 39.732229)",

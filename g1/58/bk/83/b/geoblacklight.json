@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/g158bk83b",
-  "dc_creator_sm": "McCabe, Robert A.,",
+  "dc_creator_sm": [
+    "McCabe, Robert A.,"
+  ],
   "dc_description_s": "Novissima & exactissima totius regni Neapolis tabula",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "g158bk83b",
@@ -17,7 +19,9 @@
     "Naples (Italy : Province)",
     "Naples (Kingdom)"
   ],
-  "dct_temporal_sm": "1710",
+  "dct_temporal_sm": [
+    "1710"
+  ],
   "georss_box_s": "40.7919337 14.1394899 40.9159348 14.3537148",
   "georss_polygon_s": "40.9159348 14.1394899 40.9159348 14.3537148 40.7919337 14.3537148 40.7919337 14.1394899 40.9159348 14.1394899",
   "solr_geom": "ENVELOPE(14.1394899, 14.3537148, 40.9159348, 40.7919337)",

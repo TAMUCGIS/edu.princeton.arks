@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/9880vt46g",
-  "dc_creator_sm": "McClellan, George B.",
+  "dc_creator_sm": [
+    "McClellan, George B."
+  ],
   "dc_description_s": "Post map of Europe : comprehending England, France, Germany, Italy, &c., with the posts, distances, roads, railways, packet routes, &c.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "9880vt46g",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-21T22:24:16Z",
   "dc_title_s": "Post map of Europe : comprehending England, France, Germany, Italy, &c., with the posts, distances, roads, railways, packet routes, &c.",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Europe",
-  "dct_temporal_sm": "1865",
+  "dct_spatial_sm": [
+    "Europe"
+  ],
+  "dct_temporal_sm": [
+    "1865"
+  ],
   "georss_box_s": "50.9999503 9.9999497 51.0000503 10.0000497",
   "georss_polygon_s": "51.0000503 9.9999497 51.0000503 10.0000497 50.9999503 10.0000497 50.9999503 9.9999497 51.0000503 9.9999497",
   "solr_geom": "ENVELOPE(9.9999497, 10.0000497, 51.0000503, 50.9999503)",

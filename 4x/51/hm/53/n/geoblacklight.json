@@ -16,8 +16,12 @@
   "layer_modified_dt": "2015-01-19T22:37:36Z",
   "dc_title_s": "Lake Erie",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Erie, Lake",
-  "dct_temporal_sm": "1853",
+  "dct_spatial_sm": [
+    "Erie, Lake"
+  ],
+  "dct_temporal_sm": [
+    "1853"
+  ],
   "georss_box_s": "41.0833333333 -83.5833333333 43.1666666667 -78.75",
   "georss_polygon_s": "43.1666666667 -83.5833333333 43.1666666667 -78.75 41.0833333333 -78.75 41.0833333333 -83.5833333333 43.1666666667 -83.5833333333",
   "solr_geom": "ENVELOPE(-83.5833333333, -78.75, 43.1666666667, 41.0833333333)",

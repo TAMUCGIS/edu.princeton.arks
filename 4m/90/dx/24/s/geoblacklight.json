@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/4m90dx24s",
-  "dc_creator_sm": "Army Map Service",
+  "dc_creator_sm": [
+    "Army Map Service"
+  ],
   "dc_description_s": "This is a map of the city of Pisa, Italy, shown at a 1:10,000 scale. The map was created for use by War and Navy Department agencies during World War II.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "4m90dx24s",
@@ -16,15 +18,13 @@
     "City map",
     "Military",
     "Facilities and Structures",
-    "Airfield",
-    "MAX  G6714.P673.19432W3O3"
+    "Airfield"
   ],
   "dc_title_s": "Town plan of Pisa. G.S.G.S. 4380.",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://geowebservices.princeton.edu/iiif/pulmap%2F4m%2F90%2Fdx%2F24%2Fs%2F00000001.jp2%2Finfo.json\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/4m90dx24s\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/4m90dx24s/fgdc.xml\"}",
   "dct_spatial_sm": [
     "Pisa",
-    "Pisa Prov.",
     "Toscany Regioni",
     "Tuscany",
     "Italy"

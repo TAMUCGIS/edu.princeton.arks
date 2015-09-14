@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/0z708z93h",
-  "dc_creator_sm": "Faden, William,",
+  "dc_creator_sm": [
+    "Faden, William,"
+  ],
   "dc_description_s": "A chart of the bar of Sandy Hook, the entrance of Hudsons River in the Province of New Jersey",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "0z708z93h",
@@ -14,10 +16,11 @@
   "dc_title_s": "A chart of the bar of Sandy Hook, the entrance of Hudsons River in the Province of New Jersey",
   "dc_type_s": "Image",
   "dct_spatial_sm": [
-    "Lower Bay (N.Y. and N.J.)",
-    "Sandy Hook (N.J.)"
+
   ],
-  "dct_temporal_sm": "1784",
+  "dct_temporal_sm": [
+    "1784"
+  ],
   "georss_box_s": "40.4706627 -74.1376442 40.6095877 -74.0112045",
   "georss_polygon_s": "40.6095877 -74.1376442 40.6095877 -74.0112045 40.4706627 -74.0112045 40.4706627 -74.1376442 40.6095877 -74.1376442",
   "solr_geom": "ENVELOPE(-74.1376442, -74.0112045, 40.6095877, 40.4706627)",

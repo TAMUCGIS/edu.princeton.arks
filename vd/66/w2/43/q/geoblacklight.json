@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/vd66w243q",
-  "dc_creator_sm": "Bellin, Jacques Nicolas,",
+  "dc_creator_sm": [
+    "Bellin, Jacques Nicolas,"
+  ],
   "dc_description_s": "Plan de la baye de Se. Maure",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "vd66w243q",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-21T22:24:26Z",
   "dc_title_s": "Plan de la baye de Se. Maure",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Lefkas Island (Greece)",
-  "dct_temporal_sm": "1771",
+  "dct_spatial_sm": [
+    "Lefkas Island (Greece)"
+  ],
+  "dct_temporal_sm": [
+    "1771"
+  ],
   "georss_box_s": "38.5607257 20.5409845 38.8523966 20.7332156",
   "georss_polygon_s": "38.8523966 20.5409845 38.8523966 20.7332156 38.5607257 20.7332156 38.5607257 20.5409845 38.8523966 20.5409845",
   "solr_geom": "ENVELOPE(20.5409845, 20.7332156, 38.8523966, 38.5607257)",

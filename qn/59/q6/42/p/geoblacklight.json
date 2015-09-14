@@ -17,8 +17,12 @@
   "layer_modified_dt": "2015-01-21T22:24:01Z",
   "dc_title_s": "To Her most excellent Majesty Queen Victoria this hydrographical map of the British Isles, exhibiting the geographical distribution of the inland waters",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Great Britain",
-  "dct_temporal_sm": "1849",
+  "dct_spatial_sm": [
+    "Great Britain"
+  ],
+  "dct_temporal_sm": [
+    "1849"
+  ],
   "georss_box_s": "49.674 -14.0155169 61.061 2.0919117",
   "georss_polygon_s": "61.061 -14.0155169 61.061 2.0919117 49.674 2.0919117 49.674 -14.0155169 61.061 -14.0155169",
   "solr_geom": "ENVELOPE(-14.0155169, 2.0919117, 61.061, 49.674)",

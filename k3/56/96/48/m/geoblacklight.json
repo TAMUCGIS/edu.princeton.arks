@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/k3569648m",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Long Beach Island",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "k3569648m",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Long Beach Island"
   ],
-  "dct_temporal_sm": "1930",
+  "dct_temporal_sm": [
+    "1930"
+  ],
   "georss_box_s": "39.505575 -74.292742 39.765086 -74.095302",
   "georss_polygon_s": "39.765086 -74.292742 39.765086 -74.095302 39.505575 -74.095302 39.505575 -74.292742 39.765086 -74.292742",
   "solr_geom": "ENVELOPE(-74.292742, -74.095302, 39.765086, 39.505575)",

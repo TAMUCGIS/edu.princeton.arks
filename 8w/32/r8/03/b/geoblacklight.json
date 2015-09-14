@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/8w32r803b",
-  "dc_creator_sm": "Lalande, Joseph Jérôme Le Français de,",
+  "dc_creator_sm": [
+    "Lalande, Joseph Jérôme Le Français de,"
+  ],
   "dc_description_s": "Plan de Florence",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "8w32r803b",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-21T22:24:00Z",
   "dc_title_s": "Plan de Florence",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Florence (Italy)",
-  "dct_temporal_sm": "1769",
+  "dct_spatial_sm": [
+    "Florence (Italy)"
+  ],
+  "dct_temporal_sm": [
+    "1769"
+  ],
   "georss_box_s": "43.7258633 11.1505803 43.8351694 11.3391283",
   "georss_polygon_s": "43.8351694 11.1505803 43.8351694 11.3391283 43.7258633 11.3391283 43.7258633 11.1505803 43.8351694 11.1505803",
   "solr_geom": "ENVELOPE(11.1505803, 11.3391283, 43.8351694, 43.7258633)",

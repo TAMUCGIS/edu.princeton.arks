@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/j6731608z",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Plainfield",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "j6731608z",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Plainfield"
   ],
-  "dct_temporal_sm": "1886",
+  "dct_temporal_sm": [
+    "1886"
+  ],
   "georss_box_s": "40.594502 -74.463351 40.644185 -74.382791",
   "georss_polygon_s": "40.644185 -74.463351 40.644185 -74.382791 40.594502 -74.382791 40.594502 -74.463351 40.644185 -74.463351",
   "solr_geom": "ENVELOPE(-74.463351, -74.382791, 40.644185, 40.594502)",

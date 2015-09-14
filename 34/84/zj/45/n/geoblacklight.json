@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/3484zj45n",
-  "dc_creator_sm": "Army Map Service",
+  "dc_creator_sm": [
+    "Army Map Service"
+  ],
   "dc_description_s": "This is a map of the city of Hajnowka, Poland, shown at a 1:100,000 scale. The map was created for use by War and Navy Department agencies during World War II.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "3484zj45n",
@@ -22,8 +24,7 @@
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://geowebservices.princeton.edu/iiif/pulmap%2F34%2F84%2Fzj%2F45%2Fn%2F00000001.jp2%2Finfo.json\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/3484zj45n\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/3484zj45n/fgdc.xml\"}",
   "dct_spatial_sm": [
     "Hajnowka ",
-    "Poland",
-    "G6521.C2.s100.A7M3 N-18"
+    "Poland"
   ],
   "dct_issued_s": "1944",
   "dct_provenance_s": "Princeton",

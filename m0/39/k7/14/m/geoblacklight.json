@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/m039k714m",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Somerville",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "m039k714m",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Somerville"
   ],
-  "dct_temporal_sm": "1917",
+  "dct_temporal_sm": [
+    "1917"
+  ],
   "georss_box_s": "40.556034 -74.626395 40.581697 -74.586259",
   "georss_polygon_s": "40.581697 -74.626395 40.581697 -74.586259 40.556034 -74.586259 40.556034 -74.626395 40.581697 -74.626395",
   "solr_geom": "ENVELOPE(-74.626395, -74.586259, 40.581697, 40.556034)",

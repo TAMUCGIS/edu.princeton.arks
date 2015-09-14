@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/js956j36c",
-  "dc_creator_sm": "Blaeu, Joan,",
+  "dc_creator_sm": [
+    "Blaeu, Joan,"
+  ],
   "dc_description_s": "Territorio di Bologna",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "js956j36c",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-25T02:06:20Z",
   "dc_title_s": "Territorio di Bologna",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Bologna (Italy : Province)",
-  "dct_temporal_sm": "1663",
+  "dct_spatial_sm": [
+    "Bologna (Italy : Province)"
+  ],
+  "dct_temporal_sm": [
+    "1663"
+  ],
   "georss_box_s": "44.0622557 10.8066008 44.8056876 11.841408",
   "georss_polygon_s": "44.8056876 10.8066008 44.8056876 11.841408 44.0622557 11.841408 44.0622557 10.8066008 44.8056876 10.8066008",
   "solr_geom": "ENVELOPE(10.8066008, 11.841408, 44.8056876, 44.0622557)",

@@ -12,8 +12,12 @@
   "layer_modified_dt": "2015-01-19T22:36:38Z",
   "dc_title_s": "Carte geologique detaillee de la France [a 1/80 000]: Le Mans.",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "France",
-  "dct_temporal_sm": "1880",
+  "dct_spatial_sm": [
+    "France"
+  ],
+  "dct_temporal_sm": [
+    "1880"
+  ],
   "georss_box_s": "47.69250 0.19060 48.05240 1.04900",
   "georss_polygon_s": "48.05240 0.19060 48.05240 1.04900 47.69250 1.04900 47.69250 0.19060 48.05240 0.19060",
   "solr_geom": "ENVELOPE(0.19060, 1.04900, 48.05240, 47.69250)",

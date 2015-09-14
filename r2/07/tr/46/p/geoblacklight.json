@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/r207tr46p",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Roosevelt",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "r207tr46p",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Roosevelt"
   ],
-  "dct_temporal_sm": "1912",
+  "dct_temporal_sm": [
+    "1912"
+  ],
   "georss_box_s": "40.207333 -74.489187 40.235864 -74.455331",
   "georss_polygon_s": "40.235864 -74.489187 40.235864 -74.455331 40.207333 -74.455331 40.207333 -74.489187 40.235864 -74.489187",
   "solr_geom": "ENVELOPE(-74.489187, -74.455331, 40.235864, 40.207333)",

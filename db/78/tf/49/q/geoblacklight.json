@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/db78tf49q",
-  "dc_creator_sm": "Reimer, Dietrich,",
+  "dc_creator_sm": [
+    "Reimer, Dietrich,"
+  ],
   "dc_description_s": "Aufnahmen in der östlichen Wüste von Aegypten ...",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "db78tf49q",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-21T22:24:11Z",
   "dc_title_s": "Aufnahmen in der östlichen Wüste von Aegypten ...",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Eastern Desert (Egypt)",
-  "dct_temporal_sm": "1910",
+  "dct_spatial_sm": [
+    "Eastern Desert (Egypt)"
+  ],
+  "dct_temporal_sm": [
+    "1910"
+  ],
   "georss_box_s": "27.943496 31.96187 27.983496 32.00187",
   "georss_polygon_s": "27.983496 31.96187 27.983496 32.00187 27.943496 32.00187 27.943496 31.96187 27.983496 31.96187",
   "solr_geom": "ENVELOPE(31.96187, 32.00187, 27.983496, 27.943496)",

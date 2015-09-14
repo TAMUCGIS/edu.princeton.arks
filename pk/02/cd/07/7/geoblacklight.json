@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/pk02cd077",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Hackettstown",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "pk02cd077",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Hackettstown"
   ],
-  "dct_temporal_sm": "1884",
+  "dct_temporal_sm": [
+    "1884"
+  ],
   "georss_box_s": "40.828052 -74.850452 40.88255 -74.801918",
   "georss_polygon_s": "40.88255 -74.850452 40.88255 -74.801918 40.828052 -74.801918 40.828052 -74.850452 40.88255 -74.850452",
   "solr_geom": "ENVELOPE(-74.850452, -74.801918, 40.88255, 40.828052)",

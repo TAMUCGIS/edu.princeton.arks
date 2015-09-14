@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/w3763834k",
-  "dc_creator_sm": "Depot de la Marine",
+  "dc_creator_sm": [
+    "Depot de la Marine"
+  ],
   "dc_description_s": "This is a map of the island of Madagascar. ",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "w3763834k",
@@ -14,7 +16,9 @@
   "dc_title_s": "Carte de l’Isle de Madagascar ",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://geowebservices.princeton.edu/iiif/pulmap%2Fw3%2F76%2F38%2F34%2Fk%2F00000001.jp2%2Finfo.json\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/w3763834k\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/w3763834k/fgdc.xml\"}",
-  "dct_spatial_sm": "Madagascar ",
+  "dct_spatial_sm": [
+    "Madagascar "
+  ],
   "dct_issued_s": "1765",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "-26.888 51.995 -10.221 42.582",

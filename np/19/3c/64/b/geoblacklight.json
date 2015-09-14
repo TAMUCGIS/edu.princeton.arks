@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/np193c64b",
-  "dc_creator_sm": "Ortelius, Abraham,",
+  "dc_creator_sm": [
+    "Ortelius, Abraham,"
+  ],
   "dc_description_s": "Palaestinae sive totius terrae promissionis nova descriptio auctore Tilemanno Stella Sigenensi",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "np193c64b",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-21T22:24:13Z",
   "dc_title_s": "Palaestinae sive totius terrae promissionis nova descriptio auctore Tilemanno Stella Sigenensi",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Middle East",
-  "dct_temporal_sm": "1601",
+  "dct_spatial_sm": [
+    "Middle East"
+  ],
+  "dct_temporal_sm": [
+    "1601"
+  ],
   "georss_box_s": "11.7975 24.6967748 42.3667 63.3333366",
   "georss_polygon_s": "42.3667 24.6967748 42.3667 63.3333366 11.7975 63.3333366 11.7975 24.6967748 42.3667 24.6967748",
   "solr_geom": "ENVELOPE(24.6967748, 63.3333366, 42.3667, 11.7975)",

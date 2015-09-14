@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/d504rn138",
-  "dc_creator_sm": "Harshberger, John William",
+  "dc_creator_sm": [
+    "Harshberger, John William"
+  ],
   "dc_description_s": "Map of the vegetation of the Pine-Barrens of the southern part of New Jersey.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "d504rn138",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-19T22:36:35Z",
   "dc_title_s": "Map of the vegetation of the Pine-Barrens of the southern part of New Jersey.",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Pine Barrens (N.J.)",
-  "dct_temporal_sm": "1916",
+  "dct_spatial_sm": [
+
+  ],
+  "dct_temporal_sm": [
+    "1916"
+  ],
   "georss_box_s": "38.83333 -75.63333 40.46667 -73.83333",
   "georss_polygon_s": "40.46667 -75.63333 40.46667 -73.83333 38.83333 -73.83333 38.83333 -75.63333 40.46667 -75.63333",
   "solr_geom": "ENVELOPE(-75.63333, -73.83333, 40.46667, 38.83333)",

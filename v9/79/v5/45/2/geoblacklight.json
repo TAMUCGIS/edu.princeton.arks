@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/v979v5452",
-  "dc_creator_sm": "Fox, N. B.,",
+  "dc_creator_sm": [
+    "Fox, N. B.,"
+  ],
   "dc_description_s": "A new map of New England, New York, New Iarsey, Pensilvania, Maryland, and Virginia",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "v979v5452",
@@ -17,7 +19,9 @@
     "New England",
     "Middle Atlantic States"
   ],
-  "dct_temporal_sm": "1690",
+  "dct_temporal_sm": [
+    "1690"
+  ],
   "georss_box_s": "40.950943 -73.727775 47.459686 -66.8850751",
   "georss_polygon_s": "47.459686 -73.727775 47.459686 -66.8850751 40.950943 -66.8850751 40.950943 -73.727775 47.459686 -73.727775",
   "solr_geom": "ENVELOPE(-73.727775, -66.8850751, 47.459686, 40.950943)",

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/jm214r505",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Garfield",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "jm214r505",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Garfield"
   ],
-  "dct_temporal_sm": "1923",
+  "dct_temporal_sm": [
+    "1923"
+  ],
   "georss_box_s": "40.861615 -74.129142 40.893664 -74.091913",
   "georss_polygon_s": "40.893664 -74.129142 40.893664 -74.091913 40.861615 -74.091913 40.861615 -74.129142 40.893664 -74.129142",
   "solr_geom": "ENVELOPE(-74.129142, -74.091913, 40.893664, 40.861615)",

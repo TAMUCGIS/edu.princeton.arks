@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/xs55md67h",
-  "dc_creator_sm": "United States Geological Survey",
+  "dc_creator_sm": [
+    "United States Geological Survey"
+  ],
   "dc_description_s": "A scanned USGS 1:62,500 topographic map.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "xs55md67h",
@@ -11,7 +13,7 @@
     "Contour line",
     "Elevation",
     "Roads",
-    "geoscientificInformation"
+    "Geoscientific Information"
   ],
   "dc_title_s": "California (Los Angeles Co.) Los Angeles Quadrangle.",
   "dc_type_s": "Dataset",
@@ -19,8 +21,7 @@
   "dct_spatial_sm": [
     "Los Angeles",
     "California",
-    "United States",
-    "G4362.L6C2.1900.U5G4"
+    "United States"
   ],
   "dct_issued_s": "1900",
   "dct_provenance_s": "Princeton",

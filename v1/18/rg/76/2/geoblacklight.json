@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/v118rg762",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Carneys Point",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "v118rg762",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Carneys Point"
   ],
-  "dct_temporal_sm": "1916",
+  "dct_temporal_sm": [
+    "1916"
+  ],
   "georss_box_s": "39.691225 -75.490196 39.731225 -75.450196",
   "georss_polygon_s": "39.731225 -75.490196 39.731225 -75.450196 39.691225 -75.450196 39.691225 -75.490196 39.731225 -75.490196",
   "solr_geom": "ENVELOPE(-75.490196, -75.450196, 39.731225, 39.691225)",

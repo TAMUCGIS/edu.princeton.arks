@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/gx41mk58w",
-  "dc_creator_sm": "Army Map Service",
+  "dc_creator_sm": [
+    "Army Map Service"
+  ],
   "dc_description_s": "This is a map of the city of Lecce, Italy, shown at a 1:5,000 scale. The map was created for use by War and Navy Department agencies during World War II.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "gx41mk58w",
@@ -15,15 +17,13 @@
     "World War II",
     "City map",
     "Military",
-    "Facilities and Structures",
-    "MAX  G6714.L457.1942.W3O3"
+    "Facilities and Structures"
   ],
   "dc_title_s": "Town plan of Lecce. G.S.G.S. 4380.",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://geowebservices.princeton.edu/iiif/pulmap%2Fgx%2F41%2Fmk%2F58%2Fw%2F00000001.jp2%2Finfo.json\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/gx41mk58w\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/gx41mk58w/fgdc.xml\"}",
   "dct_spatial_sm": [
     "Lecce",
-    "Lecce Prov.",
     "Apulia Regioni",
     "Italy"
   ],

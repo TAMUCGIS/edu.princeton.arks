@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/02870x33x",
-  "dc_creator_sm": "Army Map Service",
+  "dc_creator_sm": [
+    "Army Map Service"
+  ],
   "dc_description_s": "This is a map of the city of Muroran, Japan, shown at a 1:12,500 scale. The map was created for use by War and Navy Department agencies during World War II.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "02870x33x",
@@ -22,11 +24,8 @@
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://geowebservices.princeton.edu/iiif/pulmap%2F02%2F87%2F0x%2F33%2Fx%2F00000001.jp2%2Finfo.json\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/02870x33x\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/02870x33x/fgdc.xml\"}",
   "dct_spatial_sm": [
     "Muroran",
-    "Hokkaido Pref.",
-    "Iburi Dist.",
     "Kudamatsu",
-    "Japan",
-    "G7964.M8C1.1945.A7M3"
+    "Japan"
   ],
   "dct_issued_s": "1945",
   "dct_provenance_s": "Princeton",

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/mg74qn68n",
-  "dc_creator_sm": "Army Map Service",
+  "dc_creator_sm": [
+    "Army Map Service"
+  ],
   "dc_description_s": "This is a map of the city of Sidi Bel Abbes, Algeria, shown at a 1:10,000. The map was created for use by War and Navy Department agencies during World War II.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "mg74qn68n",
@@ -22,8 +24,7 @@
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://geowebservices.princeton.edu/iiif/pulmap%2Fmg%2F74%2Fqn%2F68%2Fn%2F00000001.jp2%2Finfo.json\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/mg74qn68n\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/mg74qn68n/fgdc.xml\"}",
   "dct_spatial_sm": [
     "Sidi bel Abbes",
-    "Algeria",
-    "G8244.S6.1943.W3O3"
+    "Algeria"
   ],
   "dct_issued_s": "1943",
   "dct_provenance_s": "Princeton",

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/8s45qc205",
-  "dc_creator_sm": "Manesson-Mallet, Allain,",
+  "dc_creator_sm": [
+    "Manesson-Mallet, Allain,"
+  ],
   "dc_description_s": "Isle de Scarpanto",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "8s45qc205",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-21T22:24:02Z",
   "dc_title_s": "Isle de Scarpanto",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Karpathos Island (Greece)",
-  "dct_temporal_sm": "1683",
+  "dct_spatial_sm": [
+    "Karpathos Island (Greece)"
+  ],
+  "dct_temporal_sm": [
+    "1683"
+  ],
   "georss_box_s": "35.3965234 27.0612692 35.8304376 27.2426242",
   "georss_polygon_s": "35.8304376 27.0612692 35.8304376 27.2426242 35.3965234 27.2426242 35.3965234 27.0612692 35.8304376 27.0612692",
   "solr_geom": "ENVELOPE(27.0612692, 27.2426242, 35.8304376, 35.3965234)",

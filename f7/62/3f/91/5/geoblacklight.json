@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/f7623f915",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Belvidere",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "f7623f915",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Belvidere"
   ],
-  "dct_temporal_sm": "1909",
+  "dct_temporal_sm": [
+    "1909"
+  ],
   "georss_box_s": "40.817783 -75.088876 40.840947 -75.059128",
   "georss_polygon_s": "40.840947 -75.088876 40.840947 -75.059128 40.817783 -75.059128 40.817783 -75.088876 40.840947 -75.088876",
   "solr_geom": "ENVELOPE(-75.088876, -75.059128, 40.840947, 40.817783)",

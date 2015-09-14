@@ -16,8 +16,12 @@
   "layer_modified_dt": "2015-01-19T22:36:40Z",
   "dc_title_s": "State of Oregon",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Oregon",
-  "dct_temporal_sm": "1884",
+  "dct_spatial_sm": [
+    "Oregon"
+  ],
+  "dct_temporal_sm": [
+    "1884"
+  ],
   "georss_box_s": "42.0 -124.75 46.25 -116.5",
   "georss_polygon_s": "46.25 -124.75 46.25 -116.5 42.0 -116.5 42.0 -124.75 46.25 -124.75",
   "solr_geom": "ENVELOPE(-124.75, -116.5, 46.25, 42.0)",

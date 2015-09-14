@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/j3860898z",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Wenonah",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "j3860898z",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Wenonah"
   ],
-  "dct_temporal_sm": "1931",
+  "dct_temporal_sm": [
+    "1931"
+  ],
   "georss_box_s": "39.780726 -75.160403 39.802621 -75.138096",
   "georss_polygon_s": "39.802621 -75.160403 39.802621 -75.138096 39.780726 -75.138096 39.780726 -75.160403 39.802621 -75.160403",
   "solr_geom": "ENVELOPE(-75.160403, -75.138096, 39.802621, 39.780726)",

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/8910jw477",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Mounty Holly",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "8910jw477",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Mounty Holly"
   ],
-  "dct_temporal_sm": "1928",
+  "dct_temporal_sm": [
+    "1928"
+  ],
   "georss_box_s": "39.979374 -74.805952 40.011093 -74.767992",
   "georss_polygon_s": "40.011093 -74.805952 40.011093 -74.767992 39.979374 -74.767992 39.979374 -74.805952 40.011093 -74.805952",
   "solr_geom": "ENVELOPE(-74.805952, -74.767992, 40.011093, 39.979374)",

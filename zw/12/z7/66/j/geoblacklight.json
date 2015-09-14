@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/zw12z766j",
-  "dc_creator_sm": "Vandermaelen, Philippe, 1795-1869.",
+  "dc_creator_sm": [
+    "Vandermaelen, Philippe, 1795-1869."
+  ],
   "dc_description_s": "Partie de Madagascar",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "zw12z766j",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-19T22:37:02Z",
   "dc_title_s": "Partie de Madagascar",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Madagascar",
-  "dct_temporal_sm": "1827",
+  "dct_spatial_sm": [
+    "Madagascar"
+  ],
+  "dct_temporal_sm": [
+    "1827"
+  ],
   "georss_box_s": "-24.0 43.3333333333 -18.0 51.3333333333",
   "georss_polygon_s": "-18.0 43.3333333333 -18.0 51.3333333333 -24.0 51.3333333333 -24.0 43.3333333333 -18.0 43.3333333333",
   "solr_geom": "ENVELOPE(43.3333333333, 51.3333333333, -18.0, -24.0)",

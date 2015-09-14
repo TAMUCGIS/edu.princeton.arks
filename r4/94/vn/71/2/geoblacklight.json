@@ -16,8 +16,12 @@
   "layer_modified_dt": "2015-01-21T22:24:29Z",
   "dc_title_s": "Wind and current chart of the North Atlantic",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "North Atlantic Ocean",
-  "dct_temporal_sm": "1847",
+  "dct_spatial_sm": [
+    "North Atlantic Ocean"
+  ],
+  "dct_temporal_sm": [
+    "1847"
+  ],
   "georss_box_s": "39.99995 -40.00005 40.00005 -39.99995",
   "georss_polygon_s": "40.00005 -40.00005 40.00005 -39.99995 39.99995 -39.99995 39.99995 -40.00005 40.00005 -40.00005",
   "solr_geom": "ENVELOPE(-40.00005, -39.99995, 40.00005, 39.99995)",

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/st74cs238",
-  "dc_creator_sm": "Kircher, Athanasius",
+  "dc_creator_sm": [
+    "Kircher, Athanasius"
+  ],
   "dc_description_s": "This is a scanned map of the world from the Historical Map Collection of Princeton University's Rare Books department.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "st74cs238",
@@ -11,13 +13,14 @@
     "Maps--Early works to 1800",
     "World maps",
     "World map 1665",
-    "Administrative and political boundaries",
-    "HMC01.3537 "
+    "Administrative and political boundaries"
   ],
   "dc_title_s": "Systema ideale quo exprimitur, aquarum per canales hydragogos subterraneos ex mari et in montium hydrophylacia protusio, aquarumq[ue] subterrestrium per pyragogos canales concotus ",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://geowebservices.princeton.edu/iiif/pulmap%2Fst%2F74%2Fcs%2F23%2F8%2F00000001.jp2%2Finfo.json\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/st74cs238\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/st74cs238/fgdc.xml\"}",
-  "dct_spatial_sm": "World",
+  "dct_spatial_sm": [
+    "World"
+  ],
   "dct_issued_s": "1665",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "-90 -180 90 180",

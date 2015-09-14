@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/bn999855f",
-  "dc_creator_sm": "Grandjean, A.",
+  "dc_creator_sm": [
+    "Grandjean, A."
+  ],
   "dc_description_s": "Carte geologique detaillee de la France [a 1/80 000]: Orleans.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "bn999855f",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-19T22:36:38Z",
   "dc_title_s": "Carte geologique detaillee de la France [a 1/80 000]: Orleans.",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "France",
-  "dct_temporal_sm": "1936",
+  "dct_spatial_sm": [
+    "France"
+  ],
+  "dct_temporal_sm": [
+    "1936"
+  ],
   "georss_box_s": "47.69860 1.90780 48.05840 2.76660",
   "georss_polygon_s": "48.05840 1.90780 48.05840 2.76660 47.69860 2.76660 47.69860 1.90780 48.05840 1.90780",
   "solr_geom": "ENVELOPE(1.90780, 2.76660, 48.05840, 47.69860)",

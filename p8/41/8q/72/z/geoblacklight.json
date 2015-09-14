@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/p8418q72z",
-  "dc_creator_sm": "Bien, Julius,",
+  "dc_creator_sm": [
+    "Bien, Julius,"
+  ],
   "dc_description_s": "Outline map showing the triangulations made by the U.S. Coast Survey including the primary stations selected in 1875.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "p8418q72z",
@@ -17,7 +19,9 @@
     "New Jersey",
     "New Jersey"
   ],
-  "dct_temporal_sm": "1875",
+  "dct_temporal_sm": [
+    "1875"
+  ],
   "georss_box_s": "38.0 -75.0 41.0 -73.0",
   "georss_polygon_s": "41.0 -75.0 41.0 -73.0 38.0 -73.0 38.0 -75.0 41.0 -75.0",
   "solr_geom": "ENVELOPE(-75.0, -73.0, 41.0, 38.0)",

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/t435gg45c",
-  "dc_creator_sm": "Smith, William,",
+  "dc_creator_sm": [
+    "Smith, William,"
+  ],
   "dc_description_s": "The Holy Land at successive periods",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "t435gg45c",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-19T22:37:20Z",
   "dc_title_s": "The Holy Land at successive periods",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Palestine",
-  "dct_temporal_sm": "1874",
+  "dct_spatial_sm": [
+    "Palestine"
+  ],
+  "dct_temporal_sm": [
+    "1874"
+  ],
   "georss_box_s": "30.0 33.0 36.0 38.0",
   "georss_polygon_s": "36.0 33.0 36.0 38.0 30.0 38.0 30.0 33.0 36.0 33.0",
   "solr_geom": "ENVELOPE(33.0, 38.0, 36.0, 30.0)",

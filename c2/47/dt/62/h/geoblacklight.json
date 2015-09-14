@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/c247dt62h",
-  "dc_creator_sm": "New York : Sanborn Map Company",
+  "dc_creator_sm": [
+    "New York : Sanborn Map Company"
+  ],
   "dc_description_s": "This is an insurance map of Mt. Ephraim, Camden County, New Jersey, shown at a scale of 1:600.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "c247dt62h",
@@ -16,7 +18,6 @@
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://geowebservices.princeton.edu/iiif/pulmap%2Fc2%2F47%2Fdt%2F62%2Fh%2F00000001.jp2%2Finfo.json\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/c247dt62h\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/c247dt62h/fgdc.xml\"}",
   "dct_spatial_sm": [
-    "Mt. Ephraim",
     "Camden County",
     "New Jersey"
   ],

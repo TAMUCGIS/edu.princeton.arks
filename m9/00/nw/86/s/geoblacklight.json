@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/m900nw86s",
-  "dc_creator_sm": "Marshall, John,",
+  "dc_creator_sm": [
+    "Marshall, John,"
+  ],
   "dc_description_s": "Théâtre des opérations de l'armée du nord, et désert que le Général Arnold traversa en marchant contre Québec",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "m900nw86s",
@@ -18,7 +20,9 @@
     "New England",
     "Canada"
   ],
-  "dct_temporal_sm": "1807",
+  "dct_temporal_sm": [
+    "1807"
+  ],
   "georss_box_s": "-14.7608357 -179.9999999 71.6048217 180",
   "georss_polygon_s": "71.6048217 -179.9999999 71.6048217 180 -14.7608357 180 -14.7608357 -179.9999999 71.6048217 -179.9999999",
   "solr_geom": "ENVELOPE(-179.9999999, 180, 71.6048217, -14.7608357)",

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/cj82k913t",
-  "dc_creator_sm": "Jefferys, Thomas,",
+  "dc_creator_sm": [
+    "Jefferys, Thomas,"
+  ],
   "dc_description_s": "Carte générale des découvertes de l'amiral De Fonte représentant la grande probabilité d'un passage au nord ouest",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "cj82k913t",
@@ -17,7 +19,9 @@
     "Northern Hemisphere",
     "Northwest Passage"
   ],
-  "dct_temporal_sm": "1772",
+  "dct_temporal_sm": [
+    "1772"
+  ],
   "georss_box_s": "0 -180 90 180",
   "georss_polygon_s": "90 -180 90 180 0 180 0 -180 90 -180",
   "solr_geom": "ENVELOPE(-180, 180, 90, 0)",

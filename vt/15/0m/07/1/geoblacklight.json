@@ -16,8 +16,12 @@
   "layer_modified_dt": "2015-01-19T22:36:37Z",
   "dc_title_s": "Carte geologique detaillee de la France [a 1/80 000]: Evreux.",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "France",
-  "dct_temporal_sm": "1938",
+  "dct_spatial_sm": [
+    "France"
+  ],
+  "dct_temporal_sm": [
+    "1938"
+  ],
   "georss_box_s": "48.77800 1.02130 49.13770 1.89850",
   "georss_polygon_s": "49.13770 1.02130 49.13770 1.89850 48.77800 1.89850 48.77800 1.02130 49.13770 1.02130",
   "solr_geom": "ENVELOPE(1.02130, 1.89850, 49.13770, 48.77800)",

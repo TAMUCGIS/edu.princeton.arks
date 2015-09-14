@@ -17,8 +17,12 @@
   "layer_modified_dt": "2015-01-19T22:36:37Z",
   "dc_title_s": "Carte geologique detaillee de la France [a 1/80 000]: Barneville.",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "France",
-  "dct_temporal_sm": "1963",
+  "dct_spatial_sm": [
+    "France"
+  ],
+  "dct_temporal_sm": [
+    "1963"
+  ],
   "georss_box_s": "49.07570 -2.51710 49.43490 -1.63620",
   "georss_polygon_s": "49.43490 -2.51710 49.43490 -1.63620 49.07570 -1.63620 49.07570 -2.51710 49.43490 -2.51710",
   "solr_geom": "ENVELOPE(-2.51710, -1.63620, 49.43490, 49.07570)",

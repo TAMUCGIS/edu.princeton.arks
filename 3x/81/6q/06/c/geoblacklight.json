@@ -12,8 +12,12 @@
   "layer_modified_dt": "2015-01-21T22:24:05Z",
   "dc_title_s": "Montevideo Bay",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Montevideo (Uruguay)",
-  "dct_temporal_sm": "1850",
+  "dct_spatial_sm": [
+    "Montevideo (Uruguay)"
+  ],
+  "dct_temporal_sm": [
+    "1850"
+  ],
   "georss_box_s": "-34.9380559 -56.4313996 -34.7018525 -56.0225005",
   "georss_polygon_s": "-34.7018525 -56.4313996 -34.7018525 -56.0225005 -34.9380559 -56.0225005 -34.9380559 -56.4313996 -34.7018525 -56.4313996",
   "solr_geom": "ENVELOPE(-56.4313996, -56.0225005, -34.7018525, -34.9380559)",

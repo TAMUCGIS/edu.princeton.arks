@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/pn89d903w",
-  "dc_creator_sm": "Manesson-Mallet, Allain,",
+  "dc_creator_sm": [
+    "Manesson-Mallet, Allain,"
+  ],
   "dc_description_s": "Bagdet",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "pn89d903w",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-21T22:24:02Z",
   "dc_title_s": "Bagdet",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Baghdad (Iraq)",
-  "dct_temporal_sm": "1683",
+  "dct_spatial_sm": [
+    "Baghdad (Iraq)"
+  ],
+  "dct_temporal_sm": [
+    "1683"
+  ],
   "georss_box_s": "33.1424248 44.2187992 33.4624248 44.5387992",
   "georss_polygon_s": "33.4624248 44.2187992 33.4624248 44.5387992 33.1424248 44.5387992 33.1424248 44.2187992 33.4624248 44.2187992",
   "solr_geom": "ENVELOPE(44.2187992, 44.5387992, 33.4624248, 33.1424248)",

@@ -14,10 +14,11 @@
   "dc_type_s": "Image",
   "dct_spatial_sm": [
     "New England",
-    "New York (N.Y.)",
     "Middle Atlantic States"
   ],
-  "dct_temporal_sm": "1690",
+  "dct_temporal_sm": [
+    "1690"
+  ],
   "georss_box_s": "40.950943 -73.727775 47.459686 -66.8850751",
   "georss_polygon_s": "47.459686 -73.727775 47.459686 -66.8850751 40.950943 -66.8850751 40.950943 -73.727775 47.459686 -73.727775",
   "solr_geom": "ENVELOPE(-73.727775, -66.8850751, 47.459686, 40.950943)",

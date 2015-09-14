@@ -16,8 +16,12 @@
   "layer_modified_dt": "2015-01-21T22:24:00Z",
   "dc_title_s": "Hambourg, ville imperiale d'Allemagne, tres fameux port de mer située a l'entrée de la Riviere d'Elbe a 53. degrez 50. minutes de latitude et a 28. degrez 15. minutes de longitude",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Hamburg (Germany)",
-  "dct_temporal_sm": "1705",
+  "dct_spatial_sm": [
+    "Hamburg (Germany)"
+  ],
+  "dct_temporal_sm": [
+    "1705"
+  ],
   "georss_box_s": "53.3951118 9.7304736 53.7394377 10.3253403",
   "georss_polygon_s": "53.7394377 9.7304736 53.7394377 10.3253403 53.3951118 10.3253403 53.3951118 9.7304736 53.7394377 9.7304736",
   "solr_geom": "ENVELOPE(9.7304736, 10.3253403, 53.7394377, 53.3951118)",

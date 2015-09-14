@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/qb98mh85x",
-  "dc_creator_sm": "Vandermaelen, Philippe,",
+  "dc_creator_sm": [
+    "Vandermaelen, Philippe,"
+  ],
   "dc_description_s": "Partie du Bas Canada",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "qb98mh85x",
@@ -17,7 +19,9 @@
     "Newfoundland and Labrador",
     "Quebec (Province)"
   ],
-  "dct_temporal_sm": "1827",
+  "dct_temporal_sm": [
+    "1827"
+  ],
   "georss_box_s": "48.0 -68.6666666667 54.0 -56.6666666667",
   "georss_polygon_s": "54.0 -68.6666666667 54.0 -56.6666666667 48.0 -56.6666666667 48.0 -68.6666666667 54.0 -68.6666666667",
   "solr_geom": "ENVELOPE(-68.6666666667, -56.6666666667, 54.0, 48.0)",

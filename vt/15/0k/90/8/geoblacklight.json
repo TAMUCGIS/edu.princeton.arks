@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/vt150k908",
-  "dc_creator_sm": "Army Map Service",
+  "dc_creator_sm": [
+    "Army Map Service"
+  ],
   "dc_description_s": "This is a map of the city of Miyakonojo Japan, shown at a 1:12,500 scale. The map was created for use by War and Navy Department agencies during World War II.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "vt150k908",
@@ -22,9 +24,7 @@
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://geowebservices.princeton.edu/iiif/pulmap%2Fvt%2F15%2F0k%2F90%2F8%2F00000001.jp2%2Finfo.json\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/vt150k908\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/vt150k908/fgdc.xml\"}",
   "dct_spatial_sm": [
     "Miyakonojo",
-    "Miazaki Pref.",
-    "Japan",
-    "G7964.M59.1945.A7M3"
+    "Japan"
   ],
   "dct_issued_s": "1945",
   "dct_provenance_s": "Princeton",

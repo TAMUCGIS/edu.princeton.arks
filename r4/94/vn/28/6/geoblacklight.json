@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/r494vn286",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Perth Amboy",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "r494vn286",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Perth Amboy"
   ],
-  "dct_temporal_sm": "1918",
+  "dct_temporal_sm": [
+    "1918"
+  ],
   "georss_box_s": "40.498903 -74.292226 40.544561 -74.25028",
   "georss_polygon_s": "40.544561 -74.292226 40.544561 -74.25028 40.498903 -74.25028 40.498903 -74.292226 40.544561 -74.292226",
   "solr_geom": "ENVELOPE(-74.292226, -74.25028, 40.544561, 40.498903)",

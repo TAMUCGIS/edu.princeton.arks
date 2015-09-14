@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/3r074x196",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Lafayette",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "3r074x196",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Lafayette"
   ],
-  "dct_temporal_sm": "1886",
+  "dct_temporal_sm": [
+    "1886"
+  ],
   "georss_box_s": "41.07843 -74.708497 41.11843 -74.668497",
   "georss_polygon_s": "41.11843 -74.708497 41.11843 -74.668497 41.07843 -74.668497 41.07843 -74.708497 41.11843 -74.708497",
   "solr_geom": "ENVELOPE(-74.708497, -74.668497, 41.11843, 41.07843)",

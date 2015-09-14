@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/f7623f83p",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Newark",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "f7623f83p",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Newark"
   ],
-  "dct_temporal_sm": "1926",
+  "dct_temporal_sm": [
+    "1926"
+  ],
   "georss_box_s": "40.674018 -74.251324 40.788664 -74.112787",
   "georss_polygon_s": "40.788664 -74.251324 40.788664 -74.112787 40.674018 -74.112787 40.674018 -74.251324 40.788664 -74.251324",
   "solr_geom": "ENVELOPE(-74.251324, -74.112787, 40.788664, 40.674018)",

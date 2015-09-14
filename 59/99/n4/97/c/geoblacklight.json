@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/5999n497c",
-  "dc_creator_sm": "Army Map Service",
+  "dc_creator_sm": [
+    "Army Map Service"
+  ],
   "dc_description_s": "This is a map of the city of Sidi Moh'd b' Abdallah, Morocco, shown at a 1:125,000. The map was created for use by War and Navy Department agencies during World War II.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "5999n497c",
@@ -22,8 +24,7 @@
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://geowebservices.princeton.edu/iiif/pulmap%2F59%2F99%2Fn4%2F97%2Fc%2F00000001.jp2%2Finfo.json\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/5999n497c\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/5999n497c/fgdc.xml\"}",
   "dct_spatial_sm": [
     "Sidi Moh'd b' Abdallah",
-    "Morocco",
-    "G8231.C2.s125.A7M3 sh53"
+    "Morocco"
   ],
   "dct_issued_s": "1943",
   "dct_provenance_s": "Princeton",

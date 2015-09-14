@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/ms35tb44t",
-  "dc_creator_sm": "Vermeule, Cornelius Clarkson",
+  "dc_creator_sm": [
+    "Vermeule, Cornelius Clarkson"
+  ],
   "dc_description_s": "A topographical map of Kittatinny Valley and Mountain in Sussex County and the northern part of Warren.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "ms35tb44t",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-19T22:36:35Z",
   "dc_title_s": "A topographical map of Kittatinny Valley and Mountain in Sussex County and the northern part of Warren.",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Sussex County (N.J.)",
-  "dct_temporal_sm": "1886",
+  "dct_spatial_sm": [
+
+  ],
+  "dct_temporal_sm": [
+    "1886"
+  ],
   "georss_box_s": "40.88333 -75.03333 41.38333 -74.58333",
   "georss_polygon_s": "41.38333 -75.03333 41.38333 -74.58333 40.88333 -74.58333 40.88333 -75.03333 41.38333 -75.03333",
   "solr_geom": "ENVELOPE(-75.03333, -74.58333, 41.38333, 40.88333)",

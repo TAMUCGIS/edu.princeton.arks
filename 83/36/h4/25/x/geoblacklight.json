@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/8336h425x",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Cliffside Park",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "8336h425x",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Cliffside Park"
   ],
-  "dct_temporal_sm": "1919",
+  "dct_temporal_sm": [
+    "1919"
+  ],
   "georss_box_s": "40.806453 -73.998 40.8344 -73.976382",
   "georss_polygon_s": "40.8344 -73.998 40.8344 -73.976382 40.806453 -73.976382 40.806453 -73.998 40.8344 -73.998",
   "solr_geom": "ENVELOPE(-73.998, -73.976382, 40.8344, 40.806453)",

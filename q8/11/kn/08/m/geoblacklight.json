@@ -16,8 +16,12 @@
   "layer_modified_dt": "2015-01-19T22:37:24Z",
   "dc_title_s": "Europe",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Europe",
-  "dct_temporal_sm": "1821",
+  "dct_spatial_sm": [
+    "Europe"
+  ],
+  "dct_temporal_sm": [
+    "1821"
+  ],
   "georss_box_s": "35.0 10.0 70.0 -60.0",
   "georss_polygon_s": "70.0 10.0 70.0 -60.0 35.0 -60.0 35.0 10.0 70.0 10.0",
   "solr_geom": "ENVELOPE(10.0, -60.0, 70.0, 35.0)",

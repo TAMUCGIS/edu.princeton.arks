@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/h989r5102",
-  "dc_creator_sm": "Hinton, John,",
+  "dc_creator_sm": [
+    "Hinton, John,"
+  ],
   "dc_description_s": "An accurate map of all the countries bordering on the eastern parts of the Mediterranean Sea : from the latest improvements",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "h989r5102",
@@ -20,7 +22,9 @@
     "Greece",
     "Balkan Peninsula"
   ],
-  "dct_temporal_sm": "1760",
+  "dct_temporal_sm": [
+    "1760"
+  ],
   "georss_box_s": "34.9999535 19.9999457 35.0000535 20.0000457",
   "georss_polygon_s": "35.0000535 19.9999457 35.0000535 20.0000457 34.9999535 20.0000457 34.9999535 19.9999457 35.0000535 19.9999457",
   "solr_geom": "ENVELOPE(19.9999457, 20.0000457, 35.0000535, 34.9999535)",

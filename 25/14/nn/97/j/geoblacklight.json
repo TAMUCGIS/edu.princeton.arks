@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/2514nn97j",
-  "dc_creator_sm": "Hinton, John,",
+  "dc_creator_sm": [
+    "Hinton, John,"
+  ],
   "dc_description_s": "An accurate map of England, Scotland, and Ireland, with all the adjacent islands, from the latest improvements",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "2514nn97j",
@@ -17,7 +19,9 @@
     "Great Britain",
     "Ireland"
   ],
-  "dct_temporal_sm": "1761",
+  "dct_temporal_sm": [
+    "1761"
+  ],
   "georss_box_s": "49.0 -11.0 60.0 2.0",
   "georss_polygon_s": "60.0 -11.0 60.0 2.0 49.0 2.0 49.0 -11.0 60.0 -11.0",
   "solr_geom": "ENVELOPE(-11.0, 2.0, 60.0, 49.0)",

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/2v23vw44h",
-  "dc_creator_sm": "Blaeu, Willem Janszoon,",
+  "dc_creator_sm": [
+    "Blaeu, Willem Janszoon,"
+  ],
   "dc_description_s": "Moluccæ insulæ celeberrimæ",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "2v23vw44h",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-21T22:23:53Z",
   "dc_title_s": "Moluccæ insulæ celeberrimæ",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Maluku (Indonesia)",
-  "dct_temporal_sm": "1640",
+  "dct_spatial_sm": [
+    "Maluku (Indonesia)"
+  ],
+  "dct_temporal_sm": [
+    "1640"
+  ],
   "georss_box_s": "-8.5496595 124.9518369 -2.2664175 135.2282853",
   "georss_polygon_s": "-2.2664175 124.9518369 -2.2664175 135.2282853 -8.5496595 135.2282853 -8.5496595 124.9518369 -2.2664175 124.9518369",
   "solr_geom": "ENVELOPE(124.9518369, 135.2282853, -2.2664175, -8.5496595)",

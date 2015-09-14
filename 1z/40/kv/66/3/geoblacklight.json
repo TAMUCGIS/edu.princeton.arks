@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/1z40kv663",
-  "dc_creator_sm": "Bernard, Jean Frédéric,",
+  "dc_creator_sm": [
+    "Bernard, Jean Frédéric,"
+  ],
   "dc_description_s": "Carte du nord est & du nord west du Pole",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "1z40kv663",
@@ -17,7 +19,9 @@
     "North Pole",
     "Arctic regions"
   ],
-  "dct_temporal_sm": "1731",
+  "dct_temporal_sm": [
+    "1731"
+  ],
   "georss_box_s": "80 -0 90 0",
   "georss_polygon_s": "90 -0 90 0 80 0 80 -0 90 -0",
   "solr_geom": "ENVELOPE(-0, 0, 90, 80)",

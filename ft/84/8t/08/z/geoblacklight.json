@@ -16,8 +16,12 @@
   "layer_modified_dt": "2015-01-21T22:24:12Z",
   "dc_title_s": "Plan de Jérusalem",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Jerusalem",
-  "dct_temporal_sm": "1850",
+  "dct_spatial_sm": [
+    "Jerusalem"
+  ],
+  "dct_temporal_sm": [
+    "1850"
+  ],
   "georss_box_s": "31.7087672 35.0854203 31.8826765 35.2630682",
   "georss_polygon_s": "31.8826765 35.0854203 31.8826765 35.2630682 31.7087672 35.2630682 31.7087672 35.0854203 31.8826765 35.0854203",
   "solr_geom": "ENVELOPE(35.0854203, 35.2630682, 31.8826765, 31.7087672)",

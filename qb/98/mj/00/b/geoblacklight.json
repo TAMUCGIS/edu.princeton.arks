@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/qb98mj00b",
-  "dc_creator_sm": "Rocca, Louis,",
+  "dc_creator_sm": [
+    "Rocca, Louis,"
+  ],
   "dc_description_s": "Plan von Leipzig",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "qb98mj00b",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-21T22:24:27Z",
   "dc_title_s": "Plan von Leipzig",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Leipzig (Germany)",
-  "dct_temporal_sm": "1870",
+  "dct_spatial_sm": [
+    "Leipzig (Germany)"
+  ],
+  "dct_temporal_sm": [
+    "1870"
+  ],
   "georss_box_s": "51.1791827 12.2210549 51.4991827 12.5410549",
   "georss_polygon_s": "51.4991827 12.2210549 51.4991827 12.5410549 51.1791827 12.5410549 51.1791827 12.2210549 51.4991827 12.2210549",
   "solr_geom": "ENVELOPE(12.2210549, 12.5410549, 51.4991827, 51.1791827)",

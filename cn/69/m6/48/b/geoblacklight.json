@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/cn69m648b",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Washington",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "cn69m648b",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Washington"
   ],
-  "dct_temporal_sm": "1902",
+  "dct_temporal_sm": [
+    "1902"
+  ],
   "georss_box_s": "40.744654 -74.999381 40.768524 -74.962106",
   "georss_polygon_s": "40.768524 -74.999381 40.768524 -74.962106 40.744654 -74.962106 40.744654 -74.999381 40.768524 -74.999381",
   "solr_geom": "ENVELOPE(-74.999381, -74.962106, 40.768524, 40.744654)",

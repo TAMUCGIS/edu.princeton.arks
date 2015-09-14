@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/mc87ps472",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Newton",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "mc87ps472",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Newton"
   ],
-  "dct_temporal_sm": "1916",
+  "dct_temporal_sm": [
+    "1916"
+  ],
   "georss_box_s": "41.038007 -74.773849 41.071392 -74.729993",
   "georss_polygon_s": "41.071392 -74.773849 41.071392 -74.729993 41.038007 -74.729993 41.038007 -74.773849 41.071392 -74.773849",
   "solr_geom": "ENVELOPE(-74.773849, -74.729993, 41.071392, 41.038007)",

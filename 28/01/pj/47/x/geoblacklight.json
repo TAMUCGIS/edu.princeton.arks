@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/2801pj47x",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Dover",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "2801pj47x",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Dover"
   ],
-  "dct_temporal_sm": "1927",
+  "dct_temporal_sm": [
+    "1927"
+  ],
   "georss_box_s": "40.872536 -74.578304 40.904113 -74.538707",
   "georss_polygon_s": "40.904113 -74.578304 40.904113 -74.538707 40.872536 -74.538707 40.872536 -74.578304 40.904113 -74.578304",
   "solr_geom": "ENVELOPE(-74.578304, -74.538707, 40.904113, 40.872536)",

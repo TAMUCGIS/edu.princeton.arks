@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/5712m875b",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Elmer",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "5712m875b",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Elmer"
   ],
-  "dct_temporal_sm": "1908",
+  "dct_temporal_sm": [
+    "1908"
+  ],
   "georss_box_s": "39.583751 -75.184421 39.602163 -75.164676",
   "georss_polygon_s": "39.602163 -75.184421 39.602163 -75.164676 39.583751 -75.164676 39.583751 -75.184421 39.602163 -75.184421",
   "solr_geom": "ENVELOPE(-75.184421, -75.164676, 39.602163, 39.583751)",

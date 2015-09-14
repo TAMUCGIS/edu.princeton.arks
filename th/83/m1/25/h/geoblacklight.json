@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/th83m125h",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Corsons Inlet",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "th83m125h",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Corsons Inlet"
   ],
-  "dct_temporal_sm": "1909",
+  "dct_temporal_sm": [
+    "1909"
+  ],
   "georss_box_s": "39.2048469 -74.6580069 39.2194154 -74.6382447",
   "georss_polygon_s": "39.2194154 -74.6580069 39.2194154 -74.6382447 39.2048469 -74.6382447 39.2048469 -74.6580069 39.2194154 -74.6580069",
   "solr_geom": "ENVELOPE(-74.6580069, -74.6382447, 39.2194154, 39.2048469)",

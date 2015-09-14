@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/9c67wp37v",
-  "dc_creator_sm": "United States Geological Survey",
+  "dc_creator_sm": [
+    "United States Geological Survey"
+  ],
   "dc_description_s": "A scanned USGS 1:24,000 topographic map Index.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "9c67wp37v",
@@ -8,14 +10,15 @@
   "dc_rights_s": "Public",
   "dc_subject_sm": [
     "1:24,000 Topographic Map Index",
-    "7.5 Minute Quadrangle Names",
-    "geoscientificInformation",
+    "Geoscientific Information",
     "New Jersey 1:24,000 Map Index"
   ],
   "dc_title_s": "New Jersey: 7.5-Minute Quandrangle Names",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://geowebservices.princeton.edu/iiif/pulmap%2F9c%2F67%2Fwp%2F37%2Fv%2F00000001.jp2%2Finfo.json\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/9c67wp37v\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/9c67wp37v/fgdc.xml\"}",
-  "dct_spatial_sm": "New Jersey",
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
   "dct_issued_s": "1989",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "36.61 -75.37 40.84 -73.66",

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/9019s4554",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Weehawken",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "9019s4554",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Weehawken"
   ],
-  "dct_temporal_sm": "1900",
+  "dct_temporal_sm": [
+    "1900"
+  ],
   "georss_box_s": "40.756601 -74.032699 40.780685 -74.001327",
   "georss_polygon_s": "40.780685 -74.032699 40.780685 -74.001327 40.756601 -74.001327 40.756601 -74.032699 40.780685 -74.032699",
   "solr_geom": "ENVELOPE(-74.032699, -74.001327, 40.780685, 40.756601)",

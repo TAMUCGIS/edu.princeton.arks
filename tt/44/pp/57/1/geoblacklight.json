@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/tt44pp571",
-  "dc_creator_sm": "Neitzschitz, Georg Christoph von",
+  "dc_creator_sm": [
+    "Neitzschitz, Georg Christoph von"
+  ],
   "dc_description_s": "This is a scanned map of the world from the Historical Map Collection of Princeton University's Rare Books department.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "tt44pp571",
@@ -10,13 +12,14 @@
   "dc_subject_sm": [
     "World map",
     "World maps 1666",
-    "Administrative and political boundaries",
-    "HMC01.17 "
+    "Administrative and political boundaries"
   ],
   "dc_title_s": "World map",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://geowebservices.princeton.edu/iiif/pulmap%2Ftt%2F44%2Fpp%2F57%2F1%2F00000001.jp2%2Finfo.json\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/tt44pp571\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/tt44pp571/fgdc.xml\"}",
-  "dct_spatial_sm": "World",
+  "dct_spatial_sm": [
+    "World"
+  ],
   "dct_issued_s": "1666",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "-90 -180 90 180",

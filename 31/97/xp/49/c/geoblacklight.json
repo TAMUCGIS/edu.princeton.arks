@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/3197xp49c",
-  "dc_creator_sm": "Raynal,",
+  "dc_creator_sm": [
+    "Raynal,"
+  ],
   "dc_description_s": "Map of the United States in North America : with the British, French and Spanish dominions adjoining, according to the treaty of 1783",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "3197xp49c",
@@ -15,10 +17,11 @@
   "dc_type_s": "Image",
   "dct_spatial_sm": [
     "Canada",
-    "East (U.S.)",
     "United States"
   ],
-  "dct_temporal_sm": "1783",
+  "dct_temporal_sm": [
+    "1783"
+  ],
   "georss_box_s": "30.0 -90.0 50.0 -52.0",
   "georss_polygon_s": "50.0 -90.0 50.0 -52.0 30.0 -52.0 30.0 -90.0 50.0 -90.0",
   "solr_geom": "ENVELOPE(-90.0, -52.0, 50.0, 30.0)",

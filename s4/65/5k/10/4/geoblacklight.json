@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/s4655k104",
-  "dc_creator_sm": "Grosvenor, Gilbert Hovey,",
+  "dc_creator_sm": [
+    "Grosvenor, Gilbert Hovey,"
+  ],
   "dc_description_s": "Map of Mexico",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "s4655k104",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-19T22:37:35Z",
   "dc_title_s": "Map of Mexico",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Mexico",
-  "dct_temporal_sm": "1916",
+  "dct_spatial_sm": [
+    "Mexico"
+  ],
+  "dct_temporal_sm": [
+    "1916"
+  ],
   "georss_box_s": "14.0 -118.0 32.0 -86.0",
   "georss_polygon_s": "32.0 -118.0 32.0 -86.0 14.0 -86.0 14.0 -118.0 32.0 -118.0",
   "solr_geom": "ENVELOPE(-118.0, -86.0, 32.0, 14.0)",

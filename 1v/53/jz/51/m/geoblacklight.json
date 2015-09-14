@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/1v53jz51m",
-  "dc_creator_sm": "Macpherson, David",
+  "dc_creator_sm": [
+    "Macpherson, David"
+  ],
   "dc_description_s": "This is a scanned map of Egypt from the Historical Map Collection of Princeton University's Rare Books department.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "1v53jz51m",
@@ -9,7 +11,7 @@
   "dc_rights_s": "Public",
   "dc_subject_sm": [
     "Historical Maps",
-    "boundaries",
+    "Boundaries",
     "Ancient Maps"
   ],
   "dc_title_s": "Ægyptus, provincia romana imperialis ",
@@ -17,10 +19,7 @@
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://geowebservices.princeton.edu/iiif/pulmap%2F1v%2F53%2Fjz%2F51%2Fm%2F00000001.jp2%2Finfo.json\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/1v53jz51m\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/1v53jz51m/fgdc.xml\"}",
   "dct_spatial_sm": [
     "Africa",
-    "HMC01.411",
-    "Egypt",
-    "HMC01.293",
-    "HMC01.416"
+    "Egypt"
   ],
   "dct_issued_s": "1806",
   "dct_provenance_s": "Princeton",

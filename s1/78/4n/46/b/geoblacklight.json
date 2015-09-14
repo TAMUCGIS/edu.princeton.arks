@@ -1,13 +1,14 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/s1784n46b",
-  "dc_creator_sm": "U.S. Geological Survey",
+  "dc_creator_sm": [
+    "U.S. Geological Survey"
+  ],
   "dc_description_s": "An orthoimage is remotely sensed image data in which displacement of features in the image caused by terrain relief and sensor orientation have been mathematically removed. Orthoimagery combines the image characteristics of a photograph with the geometric qualities of a map. For this dataset, the natural color orthoimages were produced at 0.3-meter pixel resolution (approximately 1-foot). The design accuracy is estimated not to exceed 3-meter diagonal RMSE (2.12m RMSE in X or Y). Each orthoimage provides imagery for a 1500- by 1500-meter block on the ground. The projected coordinate system is UTM with a NAD83 datum. There is no image overlap been adjacent files. The naming convention is based on the U.S. National Grid (USNG), taking the coordinates of the SW corner of the orthoimage.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "s1784n46b",
   "dc_language_s": "English",
   "dc_rights_s": "Public",
   "dc_subject_sm": [
-    "0.3 meter orthoimage",
     "rectified photograph",
     "rectified image",
     "orthophoto",
@@ -15,7 +16,7 @@
     "orthoimage",
     "image map",
     "Aerial photo",
-    "imageryBaseMapsEarthCover",
+    "Imagery and Base Maps",
     "Imagery and Base Maps"
   ],
   "dc_title_s": "USGS High Resolution Orthoimage USNG, Atlanta, GA (Altanta Aerial Photograph, 2002)",

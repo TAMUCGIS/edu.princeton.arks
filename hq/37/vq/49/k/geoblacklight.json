@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/hq37vq49k",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of New Milford",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "hq37vq49k",
@@ -25,7 +27,9 @@
     "New Jersey",
     "New Milford"
   ],
-  "dct_temporal_sm": "1923",
+  "dct_temporal_sm": [
+    "1923"
+  ],
   "georss_box_s": "40.913351 -74.032876 40.952098 -74.002567",
   "georss_polygon_s": "40.952098 -74.032876 40.952098 -74.002567 40.913351 -74.002567 40.913351 -74.032876 40.952098 -74.032876",
   "solr_geom": "ENVELOPE(-74.032876, -74.002567, 40.952098, 40.913351)",

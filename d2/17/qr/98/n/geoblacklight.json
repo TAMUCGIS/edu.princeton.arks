@@ -12,8 +12,12 @@
   "layer_modified_dt": "2015-01-21T22:24:12Z",
   "dc_title_s": "Aleppo",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Aleppo (Syria : Province)",
-  "dct_temporal_sm": "1918",
+  "dct_spatial_sm": [
+    "Aleppo (Syria : Province)"
+  ],
+  "dct_temporal_sm": [
+    "1918"
+  ],
   "georss_box_s": "36.037971 37.0056697 36.357971 37.3256697",
   "georss_polygon_s": "36.357971 37.0056697 36.357971 37.3256697 36.037971 37.3256697 36.037971 37.0056697 36.357971 37.0056697",
   "solr_geom": "ENVELOPE(37.0056697, 37.3256697, 36.357971, 36.037971)",

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/w0892c96m",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Paulsboro",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "w0892c96m",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Paulsboro"
   ],
-  "dct_temporal_sm": "1927",
+  "dct_temporal_sm": [
+    "1927"
+  ],
   "georss_box_s": "39.819836 -75.257328 39.852064 -75.222864",
   "georss_polygon_s": "39.852064 -75.257328 39.852064 -75.222864 39.819836 -75.222864 39.819836 -75.257328 39.852064 -75.257328",
   "solr_geom": "ENVELOPE(-75.257328, -75.222864, 39.852064, 39.819836)",

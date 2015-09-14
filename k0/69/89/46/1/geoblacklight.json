@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/k06989461",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Millburn",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "k06989461",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Millburn"
   ],
-  "dct_temporal_sm": "1912",
+  "dct_temporal_sm": [
+    "1912"
+  ],
   "georss_box_s": "40.7133 -74.3725599 40.7608679 -74.28549",
   "georss_polygon_s": "40.7608679 -74.3725599 40.7608679 -74.28549 40.7133 -74.28549 40.7133 -74.3725599 40.7608679 -74.3725599",
   "solr_geom": "ENVELOPE(-74.3725599, -74.28549, 40.7608679, 40.7133)",

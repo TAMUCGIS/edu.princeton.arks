@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/s1784p20z",
-  "dc_creator_sm": "James, Henry,",
+  "dc_creator_sm": [
+    "James, Henry,"
+  ],
   "dc_description_s": "Map showing the levelling from the Mediterranean to the Dead Sea",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "s1784p20z",
@@ -18,7 +20,9 @@
     "Israel",
     "Dead Sea (Israel and Jordan)"
   ],
-  "dct_temporal_sm": "1866",
+  "dct_temporal_sm": [
+    "1866"
+  ],
   "georss_box_s": "30.96056 34.74806 32.05556 35.58639",
   "georss_polygon_s": "32.05556 34.74806 32.05556 35.58639 30.96056 35.58639 30.96056 34.74806 32.05556 34.74806",
   "solr_geom": "ENVELOPE(34.74806, 35.58639, 32.05556, 30.96056)",

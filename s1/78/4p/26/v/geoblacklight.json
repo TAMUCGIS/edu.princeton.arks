@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/s1784p26v",
-  "dc_creator_sm": "Mercator, Gerhard,",
+  "dc_creator_sm": [
+    "Mercator, Gerhard,"
+  ],
   "dc_description_s": "Tartaria",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "s1784p26v",
@@ -18,7 +20,9 @@
     "Pacific Coast (America)",
     "Siberia (Russia)"
   ],
-  "dct_temporal_sm": "1636",
+  "dct_temporal_sm": [
+    "1636"
+  ],
   "georss_box_s": "3.966232 73.4997347 53.5608154 134.7754563",
   "georss_polygon_s": "53.5608154 73.4997347 53.5608154 134.7754563 3.966232 134.7754563 3.966232 73.4997347 53.5608154 73.4997347",
   "solr_geom": "ENVELOPE(73.4997347, 134.7754563, 53.5608154, 3.966232)",

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/f7623f597",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Belleville",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "f7623f597",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Belleville"
   ],
-  "dct_temporal_sm": "1938",
+  "dct_temporal_sm": [
+    "1938"
+  ],
   "georss_box_s": "39.54701 -74.258177 39.581824 -74.230009",
   "georss_polygon_s": "39.581824 -74.258177 39.581824 -74.230009 39.54701 -74.230009 39.54701 -74.258177 39.581824 -74.258177",
   "solr_geom": "ENVELOPE(-74.258177, -74.230009, 39.581824, 39.54701)",

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/zp38wf58t",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Essex Fells",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "zp38wf58t",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Essex Fells"
   ],
-  "dct_temporal_sm": "1907",
+  "dct_temporal_sm": [
+    "1907"
+  ],
   "georss_box_s": "40.814288 -74.299695 40.835277 -74.259779",
   "georss_polygon_s": "40.835277 -74.299695 40.835277 -74.259779 40.814288 -74.259779 40.814288 -74.299695 40.835277 -74.299695",
   "solr_geom": "ENVELOPE(-74.299695, -74.259779, 40.835277, 40.814288)",

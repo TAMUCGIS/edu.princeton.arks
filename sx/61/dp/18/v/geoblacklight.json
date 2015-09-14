@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/sx61dp18v",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Moorestown",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "sx61dp18v",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Moorestown"
   ],
-  "dct_temporal_sm": "1929",
+  "dct_temporal_sm": [
+    "1929"
+  ],
   "georss_box_s": "39.927057 -74.982668 40.007057 -74.902668",
   "georss_polygon_s": "40.007057 -74.982668 40.007057 -74.902668 39.927057 -74.902668 39.927057 -74.982668 40.007057 -74.982668",
   "solr_geom": "ENVELOPE(-74.982668, -74.902668, 40.007057, 39.927057)",

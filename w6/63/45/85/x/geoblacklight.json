@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/w6634585x",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Hamburg",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "w6634585x",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Hamburg"
   ],
-  "dct_temporal_sm": "1910",
+  "dct_temporal_sm": [
+    "1910"
+  ],
   "georss_box_s": "41.136764 -74.58292 41.161163 -74.560975",
   "georss_polygon_s": "41.161163 -74.58292 41.161163 -74.560975 41.136764 -74.560975 41.136764 -74.58292 41.161163 -74.58292",
   "solr_geom": "ENVELOPE(-74.58292, -74.560975, 41.161163, 41.136764)",

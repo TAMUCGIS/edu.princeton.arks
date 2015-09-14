@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/r781wh934",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Minotola",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "r781wh934",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Minotola"
   ],
-  "dct_temporal_sm": "1925",
+  "dct_temporal_sm": [
+    "1925"
+  ],
   "georss_box_s": "39.498727 -74.968227 39.538727 -74.928227",
   "georss_polygon_s": "39.538727 -74.968227 39.538727 -74.928227 39.498727 -74.928227 39.498727 -74.968227 39.538727 -74.968227",
   "solr_geom": "ENVELOPE(-74.968227, -74.928227, 39.538727, 39.498727)",

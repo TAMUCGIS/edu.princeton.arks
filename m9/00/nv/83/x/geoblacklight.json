@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/m900nv83x",
-  "dc_creator_sm": "Rand McNally & Co.",
+  "dc_creator_sm": [
+    "Rand McNally & Co."
+  ],
   "dc_description_s": "This is a historical map of the state of New York published in 1914. The scale is 1:570, 240, or 1 in. = 9 miles.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "m900nv83x",
@@ -19,8 +21,7 @@
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://geowebservices.princeton.edu/iiif/pulmap%2Fm9%2F00%2Fnv%2F83%2Fx%2F00000001.jp2%2Finfo.json\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/m900nv83x\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/m900nv83x/fgdc.xml\"}",
   "dct_spatial_sm": [
     "New York",
-    "United States",
-    "G3801.F7.1914.R3"
+    "United States"
   ],
   "dct_issued_s": "1914",
   "dct_provenance_s": "Princeton",

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/9593tx50d",
-  "dc_creator_sm": "Vandermaelen, Philippe, 1795-1869.",
+  "dc_creator_sm": [
+    "Vandermaelen, Philippe, 1795-1869."
+  ],
   "dc_description_s": "Partie du Mexique et de Guatemala",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "9593tx50d",
@@ -17,7 +19,9 @@
     "Guatemala",
     "Mexico (State)"
   ],
-  "dct_temporal_sm": "1827",
+  "dct_temporal_sm": [
+    "1827"
+  ],
   "georss_box_s": "12.0 -97.6666666667 18.0 -89.6666666667",
   "georss_polygon_s": "18.0 -97.6666666667 18.0 -89.6666666667 12.0 -89.6666666667 12.0 -97.6666666667 18.0 -97.6666666667",
   "solr_geom": "ENVELOPE(-97.6666666667, -89.6666666667, 18.0, 12.0)",

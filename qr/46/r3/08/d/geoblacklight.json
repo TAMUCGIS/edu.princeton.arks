@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/qr46r308d",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Nutley",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "qr46r308d",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Nutley"
   ],
-  "dct_temporal_sm": "1938",
+  "dct_temporal_sm": [
+    "1938"
+  ],
   "georss_box_s": "40.80564 -74.183836 40.837869 -74.130031",
   "georss_polygon_s": "40.837869 -74.183836 40.837869 -74.130031 40.80564 -74.130031 40.80564 -74.183836 40.837869 -74.183836",
   "solr_geom": "ENVELOPE(-74.183836, -74.130031, 40.837869, 40.80564)",

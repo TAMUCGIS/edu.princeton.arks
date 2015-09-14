@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/cn69m656t",
-  "dc_creator_sm": "Ortelius, Abraham,",
+  "dc_creator_sm": [
+    "Ortelius, Abraham,"
+  ],
   "dc_description_s": "Daphne",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "cn69m656t",
@@ -17,7 +19,9 @@
     "Antioch (Turkey)",
     "Maps"
   ],
-  "dct_temporal_sm": "1603",
+  "dct_temporal_sm": [
+    "1603"
+  ],
   "georss_box_s": "36.1938048 36.1442916 36.2118122 36.1763064",
   "georss_polygon_s": "36.2118122 36.1442916 36.2118122 36.1763064 36.1938048 36.1763064 36.1938048 36.1442916 36.2118122 36.1442916",
   "solr_geom": "ENVELOPE(36.1442916, 36.1763064, 36.2118122, 36.1938048)",

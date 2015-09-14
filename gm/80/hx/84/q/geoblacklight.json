@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/gm80hx84q",
-  "dc_creator_sm": "Morse, Hosea Ballou,",
+  "dc_creator_sm": [
+    "Morse, Hosea Ballou,"
+  ],
   "dc_description_s": "Map of China",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "gm80hx84q",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-21T22:24:23Z",
   "dc_title_s": "Map of China",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "China",
-  "dct_temporal_sm": "1913",
+  "dct_spatial_sm": [
+    "China"
+  ],
+  "dct_temporal_sm": [
+    "1913"
+  ],
   "georss_box_s": "3.966232 73.4997347 53.5608154 134.7754563",
   "georss_polygon_s": "53.5608154 73.4997347 53.5608154 134.7754563 3.966232 134.7754563 3.966232 73.4997347 53.5608154 73.4997347",
   "solr_geom": "ENVELOPE(73.4997347, 134.7754563, 53.5608154, 3.966232)",

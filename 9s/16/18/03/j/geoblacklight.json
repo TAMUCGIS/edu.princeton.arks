@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/9s161803j",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Oakhurst",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "9s161803j",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Oakhurst"
   ],
-  "dct_temporal_sm": "1907",
+  "dct_temporal_sm": [
+    "1907"
+  ],
   "georss_box_s": "40.250945 -74.036249 40.290945 -73.996249",
   "georss_polygon_s": "40.290945 -74.036249 40.290945 -73.996249 40.250945 -73.996249 40.250945 -74.036249 40.290945 -74.036249",
   "solr_geom": "ENVELOPE(-74.036249, -73.996249, 40.290945, 40.250945)",

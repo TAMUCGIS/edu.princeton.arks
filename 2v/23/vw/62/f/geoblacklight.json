@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/2v23vw62f",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Franklin",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "2v23vw62f",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Franklin"
   ],
-  "dct_temporal_sm": "1920",
+  "dct_temporal_sm": [
+    "1920"
+  ],
   "georss_box_s": "41.085096 -74.609812 41.138151 -74.569941",
   "georss_polygon_s": "41.138151 -74.609812 41.138151 -74.569941 41.085096 -74.569941 41.085096 -74.609812 41.138151 -74.609812",
   "solr_geom": "ENVELOPE(-74.609812, -74.569941, 41.138151, 41.085096)",

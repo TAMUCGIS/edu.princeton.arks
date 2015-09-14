@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/fb494b266",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Milford",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "fb494b266",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Milford"
   ],
-  "dct_temporal_sm": "1912",
+  "dct_temporal_sm": [
+    "1912"
+  ],
   "georss_box_s": "40.556343 -75.103003 40.578277 -75.078757",
   "georss_polygon_s": "40.578277 -75.103003 40.578277 -75.078757 40.556343 -75.078757 40.556343 -75.103003 40.578277 -75.103003",
   "solr_geom": "ENVELOPE(-75.103003, -75.078757, 40.578277, 40.556343)",

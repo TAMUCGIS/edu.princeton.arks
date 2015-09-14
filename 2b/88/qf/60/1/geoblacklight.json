@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/2b88qf601",
-  "dc_creator_sm": "Harris, John,",
+  "dc_creator_sm": [
+    "Harris, John,"
+  ],
   "dc_description_s": "A plan of the city of Canton on the river Ta ho",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "2b88qf601",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-21T22:24:00Z",
   "dc_title_s": "A plan of the city of Canton on the river Ta ho",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Guangzhou (China)",
-  "dct_temporal_sm": "1744",
+  "dct_spatial_sm": [
+    "Guangzhou (China)"
+  ],
+  "dct_temporal_sm": [
+    "1744"
+  ],
   "georss_box_s": "22.5541838 112.9529252 23.9360754 114.0500833",
   "georss_polygon_s": "23.9360754 112.9529252 23.9360754 114.0500833 22.5541838 114.0500833 22.5541838 112.9529252 23.9360754 112.9529252",
   "solr_geom": "ENVELOPE(112.9529252, 114.0500833, 23.9360754, 22.5541838)",

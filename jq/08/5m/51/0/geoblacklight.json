@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/jq085m510",
-  "dc_creator_sm": "United States Geological Survey",
+  "dc_creator_sm": [
+    "United States Geological Survey"
+  ],
   "dc_description_s": "A scanned USGS 1:506,880 topographic map.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "jq085m510",
@@ -11,7 +13,7 @@
     "Contour line",
     "Elevation",
     "Roads",
-    "geoscientificInformation"
+    "Geoscientific Information"
   ],
   "dc_title_s": "Fault map of the state of California, compiled from data assembled by the Seismological Society of America. Sheet 3",
   "dc_type_s": "Dataset",
@@ -19,8 +21,7 @@
   "dct_spatial_sm": [
     "California ",
     "CA ",
-    "United States",
-    "G4361.C55.1922.S4"
+    "United States"
   ],
   "dct_issued_s": "1922",
   "dct_provenance_s": "Princeton",

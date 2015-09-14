@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/0c483m816",
-  "dc_creator_sm": "Henkenius, J. C.",
+  "dc_creator_sm": [
+    "Henkenius, J. C."
+  ],
   "dc_description_s": "Yosemite : Wawona route via Mariposa Big Trees, Inspiration Point and Glacier Point ...",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "0c483m816",
@@ -14,10 +16,11 @@
   "dc_title_s": "Yosemite : Wawona route via Mariposa Big Trees, Inspiration Point and Glacier Point ...",
   "dc_type_s": "Image",
   "dct_spatial_sm": [
-    "Yosemite National Park (Calif.)",
-    "Yosemite Valley (Calif.)"
+
   ],
-  "dct_temporal_sm": "1904",
+  "dct_temporal_sm": [
+    "1904"
+  ],
   "georss_box_s": "37.4948419 -119.8863376 38.1863499 -119.1995074",
   "georss_polygon_s": "38.1863499 -119.8863376 38.1863499 -119.1995074 37.4948419 -119.1995074 37.4948419 -119.8863376 38.1863499 -119.8863376",
   "solr_geom": "ENVELOPE(-119.8863376, -119.1995074, 38.1863499, 37.4948419)",

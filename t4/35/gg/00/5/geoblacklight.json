@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/t435gg005",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Bridgeport",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "t435gg005",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Bridgeport"
   ],
-  "dct_temporal_sm": "1920",
+  "dct_temporal_sm": [
+    "1920"
+  ],
   "georss_box_s": "39.792373 -75.363419 39.809518 -75.331404",
   "georss_polygon_s": "39.809518 -75.363419 39.809518 -75.331404 39.792373 -75.331404 39.792373 -75.363419 39.809518 -75.363419",
   "solr_geom": "ENVELOPE(-75.363419, -75.331404, 39.809518, 39.792373)",

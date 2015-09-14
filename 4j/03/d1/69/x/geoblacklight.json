@@ -18,8 +18,12 @@
   "layer_modified_dt": "2015-01-21T22:23:53Z",
   "dc_title_s": "Carte des Isles Sandwich",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Hawaii",
-  "dct_temporal_sm": "1785",
+  "dct_spatial_sm": [
+    "Hawaii"
+  ],
+  "dct_temporal_sm": [
+    "1785"
+  ],
   "georss_box_s": "18.864031 -178.4435929 28.517269 -154.757659",
   "georss_polygon_s": "28.517269 -178.4435929 28.517269 -154.757659 18.864031 -154.757659 18.864031 -178.4435929 28.517269 -178.4435929",
   "solr_geom": "ENVELOPE(-178.4435929, -154.757659, 28.517269, 18.864031)",

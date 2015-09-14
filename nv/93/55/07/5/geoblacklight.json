@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/nv9355075",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Bernardsville",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "nv9355075",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Bernardsville"
   ],
-  "dct_temporal_sm": "1923",
+  "dct_temporal_sm": [
+    "1923"
+  ],
   "georss_box_s": "40.692871 -74.640976 40.758005 -74.548751",
   "georss_polygon_s": "40.758005 -74.640976 40.758005 -74.548751 40.692871 -74.548751 40.692871 -74.640976 40.758005 -74.640976",
   "solr_geom": "ENVELOPE(-74.640976, -74.548751, 40.758005, 40.692871)",

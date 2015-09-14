@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/mw22v747w",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Montclair",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "mw22v747w",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Montclair"
   ],
-  "dct_temporal_sm": "1934",
+  "dct_temporal_sm": [
+    "1934"
+  ],
   "georss_box_s": "40.788323 -74.23764 40.861847 -74.182689",
   "georss_polygon_s": "40.861847 -74.23764 40.861847 -74.182689 40.788323 -74.182689 40.788323 -74.23764 40.861847 -74.23764",
   "solr_geom": "ENVELOPE(-74.23764, -74.182689, 40.861847, 40.788323)",

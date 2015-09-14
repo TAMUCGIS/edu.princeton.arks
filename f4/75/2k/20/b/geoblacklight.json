@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/f4752k20b",
-  "dc_creator_sm": "Cary, John,",
+  "dc_creator_sm": [
+    "Cary, John,"
+  ],
   "dc_description_s": "A new map of Egypt, from the latest authorities",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "f4752k20b",
@@ -17,7 +19,9 @@
     "Egypt",
     "Nile River Delta (Egypt)"
   ],
-  "dct_temporal_sm": "1805",
+  "dct_temporal_sm": [
+    "1805"
+  ],
   "georss_box_s": "24.0 26.0 31.0 35.0",
   "georss_polygon_s": "31.0 26.0 31.0 35.0 24.0 35.0 24.0 26.0 31.0 26.0",
   "solr_geom": "ENVELOPE(26.0, 35.0, 31.0, 24.0)",

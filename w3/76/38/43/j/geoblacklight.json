@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/w3763843j",
-  "dc_creator_sm": "Army Map Service",
+  "dc_creator_sm": [
+    "Army Map Service"
+  ],
   "dc_description_s": "This is a map of the city of Pozzuoli, Italy, shown at a 1:5,000 scale. The map was created for use by War and Navy Department agencies during World War II.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "w3763843j",
@@ -16,15 +18,13 @@
     "City map",
     "Military",
     "Facilities and Structures",
-    "Port",
-    "MAX  G6714.P894.1943.A7M3"
+    "Port"
   ],
   "dc_title_s": "Italy 1:5,000. Pozzuoli city plan. Provisional G.S.G.S. 4380.",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://geowebservices.princeton.edu/iiif/pulmap%2Fw3%2F76%2F38%2F43%2Fj%2F00000001.jp2%2Finfo.json\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/w3763843j\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/w3763843j/fgdc.xml\"}",
   "dct_spatial_sm": [
     "Pozzuoli",
-    "Naples Prov.",
     "Campania Regioni",
     "Puteoli",
     "Italy"

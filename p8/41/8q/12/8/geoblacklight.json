@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/p8418q128",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Lenola",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "p8418q128",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Lenola"
   ],
-  "dct_temporal_sm": "1929",
+  "dct_temporal_sm": [
+    "1929"
+  ],
   "georss_box_s": "39.942335 -75.002391 39.982335 -74.962391",
   "georss_polygon_s": "39.982335 -75.002391 39.982335 -74.962391 39.942335 -74.962391 39.942335 -75.002391 39.982335 -75.002391",
   "solr_geom": "ENVELOPE(-75.002391, -74.962391, 39.982335, 39.942335)",

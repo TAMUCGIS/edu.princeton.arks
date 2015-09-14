@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/c534fr059",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of South River",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "c534fr059",
@@ -25,7 +27,9 @@
     "New Jersey",
     "South River"
   ],
-  "dct_temporal_sm": "1910",
+  "dct_temporal_sm": [
+    "1910"
+  ],
   "georss_box_s": "40.428946 -74.403543 40.463878 -74.353585",
   "georss_polygon_s": "40.463878 -74.403543 40.463878 -74.353585 40.428946 -74.353585 40.428946 -74.403543 40.463878 -74.403543",
   "solr_geom": "ENVELOPE(-74.403543, -74.353585, 40.463878, 40.428946)",

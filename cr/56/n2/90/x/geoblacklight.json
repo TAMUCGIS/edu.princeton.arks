@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/cr56n290x",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Waldwick",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "cr56n290x",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Waldwick"
   ],
-  "dct_temporal_sm": "1925",
+  "dct_temporal_sm": [
+    "1925"
+  ],
   "georss_box_s": "41.005263 -74.152084 41.022369 -74.093876",
   "georss_polygon_s": "41.022369 -74.152084 41.022369 -74.093876 41.005263 -74.093876 41.005263 -74.152084 41.022369 -74.152084",
   "solr_geom": "ENVELOPE(-74.152084, -74.093876, 41.022369, 41.005263)",

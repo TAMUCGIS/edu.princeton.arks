@@ -12,8 +12,12 @@
   "layer_modified_dt": "2015-01-19T22:37:23Z",
   "dc_title_s": "Europe : wall-atlas",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Europe",
-  "dct_temporal_sm": "1866",
+  "dct_spatial_sm": [
+    "Europe"
+  ],
+  "dct_temporal_sm": [
+    "1866"
+  ],
   "georss_box_s": "25.0 -30.0 75.0 80.0",
   "georss_polygon_s": "75.0 -30.0 75.0 80.0 25.0 80.0 25.0 -30.0 75.0 -30.0",
   "solr_geom": "ENVELOPE(-30.0, 80.0, 75.0, 25.0)",

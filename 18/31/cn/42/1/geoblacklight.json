@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/1831cn421",
-  "dc_creator_sm": "Weller, Edward,",
+  "dc_creator_sm": [
+    "Weller, Edward,"
+  ],
   "dc_description_s": "Map of the rivers Canumá, Abacaxis, & Maué-Assú & its tributaries (Brazil) reduced from the original map /",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "1831cn421",
@@ -19,7 +21,9 @@
     "Amazonas (Brazil)",
     "Madeira River Watershed (Brazil and Bolivia)"
   ],
-  "dct_temporal_sm": "1870",
+  "dct_temporal_sm": [
+    "1870"
+  ],
   "georss_box_s": "-6.33333 -59.66667 -3.25000 -57.00000",
   "georss_polygon_s": "-3.25000 -59.66667 -3.25000 -57.00000 -6.33333 -57.00000 -6.33333 -59.66667 -3.25000 -59.66667",
   "solr_geom": "ENVELOPE(-59.66667, -57.00000, -3.25000, -6.33333)",

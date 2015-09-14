@@ -12,8 +12,12 @@
   "layer_modified_dt": "2015-01-19T22:36:37Z",
   "dc_title_s": "Carte geologique detaillee de la France [a 1/80 000]: Paris.",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "France",
-  "dct_temporal_sm": "1953",
+  "dct_spatial_sm": [
+    "France"
+  ],
+  "dct_temporal_sm": [
+    "1953"
+  ],
   "georss_box_s": "48.77800 1.90170 49.13780 2.77270",
   "georss_polygon_s": "49.13780 1.90170 49.13780 2.77270 48.77800 2.77270 48.77800 1.90170 49.13780 1.90170",
   "solr_geom": "ENVELOPE(1.90170, 2.77270, 49.13780, 48.77800)",

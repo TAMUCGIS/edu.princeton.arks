@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/cf95jd81c",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Mantoloking",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "cf95jd81c",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Mantoloking"
   ],
-  "dct_temporal_sm": "1905",
+  "dct_temporal_sm": [
+    "1905"
+  ],
   "georss_box_s": "40.026647 -74.057693 40.058657 -74.04438",
   "georss_polygon_s": "40.058657 -74.057693 40.058657 -74.04438 40.026647 -74.04438 40.026647 -74.057693 40.058657 -74.057693",
   "solr_geom": "ENVELOPE(-74.057693, -74.04438, 40.058657, 40.026647)",

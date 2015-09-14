@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/kp78gj901",
-  "dc_creator_sm": "Atwood, John M.,",
+  "dc_creator_sm": [
+    "Atwood, John M.,"
+  ],
   "dc_description_s": "Map of the Chinese empire, compiled from native & foreign authorities",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "kp78gj901",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-19T22:37:37Z",
   "dc_title_s": "Map of the Chinese empire, compiled from native & foreign authorities",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "China",
-  "dct_temporal_sm": "1848",
+  "dct_spatial_sm": [
+    "China"
+  ],
+  "dct_temporal_sm": [
+    "1848"
+  ],
   "georss_box_s": "15.0 80.0 55.0 135.0",
   "georss_polygon_s": "55.0 80.0 55.0 135.0 15.0 135.0 15.0 80.0 55.0 80.0",
   "solr_geom": "ENVELOPE(80.0, 135.0, 55.0, 15.0)",

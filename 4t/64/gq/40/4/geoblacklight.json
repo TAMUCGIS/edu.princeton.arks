@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/4t64gq404",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Deckertown",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "4t64gq404",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Deckertown"
   ],
-  "dct_temporal_sm": "1885",
+  "dct_temporal_sm": [
+    "1885"
+  ],
   "georss_box_s": "41.202844 -74.6165459 41.216327 -74.5985659",
   "georss_polygon_s": "41.216327 -74.6165459 41.216327 -74.5985659 41.202844 -74.5985659 41.202844 -74.6165459 41.216327 -74.6165459",
   "solr_geom": "ENVELOPE(-74.6165459, -74.5985659, 41.216327, 41.202844)",

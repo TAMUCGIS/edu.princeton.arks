@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/1c18dh67p",
-  "dc_creator_sm": "Smith, William,",
+  "dc_creator_sm": [
+    "Smith, William,"
+  ],
   "dc_description_s": "Greece at the time of the Achæan and Ætolian League",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "1c18dh67p",
@@ -17,7 +19,9 @@
     "Greece",
     "Greece"
   ],
-  "dct_temporal_sm": "1873",
+  "dct_temporal_sm": [
+    "1873"
+  ],
   "georss_box_s": "34.7006096 19.2477876 41.7488862 29.7296986",
   "georss_polygon_s": "41.7488862 19.2477876 41.7488862 29.7296986 34.7006096 29.7296986 34.7006096 19.2477876 41.7488862 19.2477876",
   "solr_geom": "ENVELOPE(19.2477876, 29.7296986, 41.7488862, 34.7006096)",

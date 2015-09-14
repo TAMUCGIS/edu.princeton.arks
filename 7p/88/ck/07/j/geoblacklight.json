@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/7p88ck07j",
-  "dc_creator_sm": "Grosvenor, Gilbert Hovey,",
+  "dc_creator_sm": [
+    "Grosvenor, Gilbert Hovey,"
+  ],
   "dc_description_s": "The National Geographic Magazine map of Mexico",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "7p88ck07j",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-21T22:24:28Z",
   "dc_title_s": "The National Geographic Magazine map of Mexico",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Mexico",
-  "dct_temporal_sm": "1911",
+  "dct_spatial_sm": [
+    "Mexico"
+  ],
+  "dct_temporal_sm": [
+    "1911"
+  ],
   "georss_box_s": "14.5333037 -118.36443 32.7187629 -86.7105711",
   "georss_polygon_s": "32.7187629 -118.36443 32.7187629 -86.7105711 14.5333037 -86.7105711 14.5333037 -118.36443 32.7187629 -118.36443",
   "solr_geom": "ENVELOPE(-118.36443, -86.7105711, 32.7187629, 14.5333037)",

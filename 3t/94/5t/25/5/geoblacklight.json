@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/3t945t255",
-  "dc_creator_sm": "Hilliard d'Auberteuil, Michel-René,",
+  "dc_creator_sm": [
+    "Hilliard d'Auberteuil, Michel-René,"
+  ],
   "dc_description_s": "Carte des deux Carolines et de la Géorgie",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "3t945t255",
@@ -19,7 +21,9 @@
     "South Carolina",
     "Southern States"
   ],
-  "dct_temporal_sm": "1782",
+  "dct_temporal_sm": [
+    "1782"
+  ],
   "georss_box_s": "30.355757 -85.60512 35.0008288 -80.751432",
   "georss_polygon_s": "35.0008288 -85.60512 35.0008288 -80.751432 30.355757 -80.751432 30.355757 -85.60512 35.0008288 -85.60512",
   "solr_geom": "ENVELOPE(-85.60512, -80.751432, 35.0008288, 30.355757)",

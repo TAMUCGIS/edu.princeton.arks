@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/7m01bp06g",
-  "dc_creator_sm": "Prévost,",
+  "dc_creator_sm": [
+    "Prévost,"
+  ],
   "dc_description_s": "Carte particuliere de l'Isle de Juan Fernandés : tirée du Voyage de l'Amiral Anson",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "7m01bp06g",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-21T22:23:57Z",
   "dc_title_s": "Carte particuliere de l'Isle de Juan Fernandés : tirée du Voyage de l'Amiral Anson",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Juan Fernández Islands",
-  "dct_temporal_sm": "1753",
+  "dct_spatial_sm": [
+    "Juan Fernández Islands"
+  ],
+  "dct_temporal_sm": [
+    "1753"
+  ],
   "georss_box_s": "28.4945404 -16.4371425 28.5345404 -16.3971425",
   "georss_polygon_s": "28.5345404 -16.4371425 28.5345404 -16.3971425 28.4945404 -16.3971425 28.4945404 -16.4371425 28.5345404 -16.4371425",
   "solr_geom": "ENVELOPE(-16.4371425, -16.3971425, 28.5345404, 28.4945404)",

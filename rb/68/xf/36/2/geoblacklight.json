@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/rb68xf362",
-  "dc_creator_sm": "Cooper, John C.,",
+  "dc_creator_sm": [
+    "Cooper, John C.,"
+  ],
   "dc_description_s": "Mexico and internal provinces Prepared from Humboldt's map & other documents /",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "rb68xf362",
@@ -17,7 +19,9 @@
     "Mexico",
     "Southwestern States"
   ],
-  "dct_temporal_sm": "1825",
+  "dct_temporal_sm": [
+    "1825"
+  ],
   "georss_box_s": "15.0 -115.0 41.0 -86.0",
   "georss_polygon_s": "41.0 -115.0 41.0 -86.0 15.0 -86.0 15.0 -115.0 41.0 -115.0",
   "solr_geom": "ENVELOPE(-115.0, -86.0, 41.0, 15.0)",

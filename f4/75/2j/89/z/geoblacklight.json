@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/f4752j89z",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Rockaway",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "f4752j89z",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Rockaway"
   ],
-  "dct_temporal_sm": "1898",
+  "dct_temporal_sm": [
+    "1898"
+  ],
   "georss_box_s": "40.883449 -74.536411 40.911764 -74.496905",
   "georss_polygon_s": "40.911764 -74.536411 40.911764 -74.496905 40.883449 -74.496905 40.883449 -74.536411 40.911764 -74.536411",
   "solr_geom": "ENVELOPE(-74.536411, -74.496905, 40.911764, 40.883449)",

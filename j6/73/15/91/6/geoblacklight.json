@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/j67315916",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Morristown",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "j67315916",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Morristown"
   ],
-  "dct_temporal_sm": "1918",
+  "dct_temporal_sm": [
+    "1918"
+  ],
   "georss_box_s": "40.780231 -74.501444 40.818361 -74.456181",
   "georss_polygon_s": "40.818361 -74.501444 40.818361 -74.456181 40.780231 -74.456181 40.780231 -74.501444 40.818361 -74.501444",
   "solr_geom": "ENVELOPE(-74.501444, -74.456181, 40.818361, 40.780231)",

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/5t34sn083",
-  "dc_creator_sm": "Brué, Adrien Hubert,",
+  "dc_creator_sm": [
+    "Brué, Adrien Hubert,"
+  ],
   "dc_description_s": "Carte générale des États-Unis Mexicains et des Provinces-Unies de l'Amérique Centrale",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "5t34sn083",
@@ -18,7 +20,9 @@
     "Mexico",
     "Southwestern States"
   ],
-  "dct_temporal_sm": "1825",
+  "dct_temporal_sm": [
+    "1825"
+  ],
   "georss_box_s": "-6.0 -126.0 43.0 -76.0",
   "georss_polygon_s": "43.0 -126.0 43.0 -76.0 -6.0 -76.0 -6.0 -126.0 43.0 -126.0",
   "solr_geom": "ENVELOPE(-126.0, -76.0, 43.0, -6.0)",

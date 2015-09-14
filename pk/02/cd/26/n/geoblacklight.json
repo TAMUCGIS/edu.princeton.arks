@@ -12,8 +12,12 @@
   "layer_modified_dt": "2015-01-21T22:24:27Z",
   "dc_title_s": "Leipzig : mit sämtl. angeschlossenen Vororten",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Leipzig (Germany)",
-  "dct_temporal_sm": "1895",
+  "dct_spatial_sm": [
+    "Leipzig (Germany)"
+  ],
+  "dct_temporal_sm": [
+    "1895"
+  ],
   "georss_box_s": "51.1791827 12.2210549 51.4991827 12.5410549",
   "georss_polygon_s": "51.4991827 12.2210549 51.4991827 12.5410549 51.1791827 12.5410549 51.1791827 12.2210549 51.4991827 12.2210549",
   "solr_geom": "ENVELOPE(12.2210549, 12.5410549, 51.4991827, 51.1791827)",

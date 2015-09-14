@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/w95052950",
-  "dc_creator_sm": "Mercator, Gerhard,",
+  "dc_creator_sm": [
+    "Mercator, Gerhard,"
+  ],
   "dc_description_s": "Macedonia, Epirus et Achaia",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "w95052950",
@@ -18,7 +20,9 @@
     "Epirus (Greece and Albania)",
     "Macedonia (Greece)"
   ],
-  "dct_temporal_sm": "1636",
+  "dct_temporal_sm": [
+    "1636"
+  ],
   "georss_box_s": "37.7807215 21.3506249 38.3411904 22.3780635",
   "georss_polygon_s": "38.3411904 21.3506249 38.3411904 22.3780635 37.7807215 22.3780635 37.7807215 21.3506249 38.3411904 21.3506249",
   "solr_geom": "ENVELOPE(21.3506249, 22.3780635, 38.3411904, 37.7807215)",

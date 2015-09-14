@@ -19,8 +19,12 @@
   "layer_modified_dt": "2015-01-19T22:36:43Z",
   "dc_title_s": "Map of the Indian Ocean = Carte de l'océan Indien",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Indian Ocean",
-  "dct_temporal_sm": "2004",
+  "dct_spatial_sm": [
+    "Indian Ocean"
+  ],
+  "dct_temporal_sm": [
+    "2004"
+  ],
   "georss_box_s": "-71.25000 0.00000 30.00000 155.00000",
   "georss_polygon_s": "30.00000 0.00000 30.00000 155.00000 -71.25000 155.00000 -71.25000 0.00000 30.00000 0.00000",
   "solr_geom": "ENVELOPE(0.00000, 155.00000, 30.00000, -71.25000)",

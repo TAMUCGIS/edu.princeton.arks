@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/v979v491z",
-  "dc_creator_sm": "Ptolemy,",
+  "dc_creator_sm": [
+    "Ptolemy,"
+  ],
   "dc_description_s": "Nova Graecia XXII : nova tabula",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "v979v491z",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-21T22:23:46Z",
   "dc_title_s": "Nova Graecia XXII : nova tabula",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Greece",
-  "dct_temporal_sm": "1545",
+  "dct_spatial_sm": [
+    "Greece"
+  ],
+  "dct_temporal_sm": [
+    "1545"
+  ],
   "georss_box_s": "34.7006096 19.2477876 41.7488862 29.7296986",
   "georss_polygon_s": "41.7488862 19.2477876 41.7488862 29.7296986 34.7006096 29.7296986 34.7006096 19.2477876 41.7488862 19.2477876",
   "solr_geom": "ENVELOPE(19.2477876, 29.7296986, 41.7488862, 34.7006096)",

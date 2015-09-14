@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/zc77sr955",
-  "dc_creator_sm": "Mercator, Gerhard,",
+  "dc_creator_sm": [
+    "Mercator, Gerhard,"
+  ],
   "dc_description_s": "Septentrionalium terrarum descripto /",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "zc77sr955",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-19T22:36:44Z",
   "dc_title_s": "Septentrionalium terrarum descripto /",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Arctic regions",
-  "dct_temporal_sm": "1628",
+  "dct_spatial_sm": [
+    "Arctic regions"
+  ],
+  "dct_temporal_sm": [
+    "1628"
+  ],
   "georss_box_s": "60.0 -180.0 90.0 180.0",
   "georss_polygon_s": "90.0 -180.0 90.0 180.0 60.0 180.0 60.0 -180.0 90.0 -180.0",
   "solr_geom": "ENVELOPE(-180.0, 180.0, 90.0, 60.0)",

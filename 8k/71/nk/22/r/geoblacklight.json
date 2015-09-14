@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/8k71nk22r",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Chatham",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "8k71nk22r",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Chatham"
   ],
-  "dct_temporal_sm": "1931",
+  "dct_temporal_sm": [
+    "1931"
+  ],
   "georss_box_s": "40.724299 -74.399721 40.75521 -74.363072",
   "georss_polygon_s": "40.75521 -74.399721 40.75521 -74.363072 40.724299 -74.363072 40.724299 -74.399721 40.75521 -74.399721",
   "solr_geom": "ENVELOPE(-74.399721, -74.363072, 40.75521, 40.724299)",

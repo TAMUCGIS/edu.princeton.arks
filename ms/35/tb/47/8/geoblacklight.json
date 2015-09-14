@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/ms35tb478",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Deal",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "ms35tb478",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Deal"
   ],
-  "dct_temporal_sm": "1905",
+  "dct_temporal_sm": [
+    "1905"
+  ],
   "georss_box_s": "40.237266 -74.009733 40.26345 -73.986681",
   "georss_polygon_s": "40.26345 -74.009733 40.26345 -73.986681 40.237266 -73.986681 40.237266 -74.009733 40.26345 -74.009733",
   "solr_geom": "ENVELOPE(-74.009733, -73.986681, 40.26345, 40.237266)",

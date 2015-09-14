@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/rj4306456",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Burlington",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "rj4306456",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Burlington"
   ],
-  "dct_temporal_sm": "1924",
+  "dct_temporal_sm": [
+    "1924"
+  ],
   "georss_box_s": "40.062631 -74.879239 40.09805 -74.828908",
   "georss_polygon_s": "40.09805 -74.879239 40.09805 -74.828908 40.062631 -74.828908 40.062631 -74.879239 40.09805 -74.879239",
   "solr_geom": "ENVELOPE(-74.879239, -74.828908, 40.09805, 40.062631)",

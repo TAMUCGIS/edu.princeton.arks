@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/xs55md88w",
-  "dc_creator_sm": "Raguin, E.",
+  "dc_creator_sm": [
+    "Raguin, E."
+  ],
   "dc_description_s": "Carte geologique detaillee de la France [a 1/80 000]: Rethel.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "xs55md88w",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-19T22:36:36Z",
   "dc_title_s": "Carte geologique detaillee de la France [a 1/80 000]: Rethel.",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "France",
-  "dct_temporal_sm": "1945",
+  "dct_spatial_sm": [
+    "France"
+  ],
+  "dct_temporal_sm": [
+    "1945"
+  ],
   "georss_box_s": "49.49130 3.67250 49.85090 4.56240",
   "georss_polygon_s": "49.85090 3.67250 49.85090 4.56240 49.49130 4.56240 49.49130 3.67250 49.85090 3.67250",
   "solr_geom": "ENVELOPE(3.67250, 4.56240, 49.85090, 49.49130)",

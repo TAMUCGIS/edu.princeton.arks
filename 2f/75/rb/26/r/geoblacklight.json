@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/2f75rb26r",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Stanhope",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "2f75rb26r",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Stanhope"
   ],
-  "dct_temporal_sm": "1920",
+  "dct_temporal_sm": [
+    "1920"
+  ],
   "georss_box_s": "40.899141 -74.720272 40.926068 -74.683246",
   "georss_polygon_s": "40.926068 -74.720272 40.926068 -74.683246 40.899141 -74.683246 40.899141 -74.720272 40.926068 -74.720272",
   "solr_geom": "ENVELOPE(-74.720272, -74.683246, 40.926068, 40.899141)",

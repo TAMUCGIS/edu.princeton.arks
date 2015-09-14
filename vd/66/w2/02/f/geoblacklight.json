@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/vd66w202f",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Woodbridge",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "vd66w202f",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Woodbridge"
   ],
-  "dct_temporal_sm": "1929",
+  "dct_temporal_sm": [
+    "1929"
+  ],
   "georss_box_s": "40.517604 -74.324591 40.597605 -74.244591",
   "georss_polygon_s": "40.597605 -74.324591 40.597605 -74.244591 40.517604 -74.244591 40.517604 -74.324591 40.597605 -74.324591",
   "solr_geom": "ENVELOPE(-74.324591, -74.244591, 40.597605, 40.517604)",

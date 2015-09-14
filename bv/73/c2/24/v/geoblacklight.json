@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/bv73c224v",
-  "dc_creator_sm": "Termier, Pierre",
+  "dc_creator_sm": [
+    "Termier, Pierre"
+  ],
   "dc_description_s": "Carte geologique detaillee de la France [a 1/80 000]: Commercy.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "bv73c224v",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-19T22:36:37Z",
   "dc_title_s": "Carte geologique detaillee de la France [a 1/80 000]: Commercy.",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "France",
-  "dct_temporal_sm": "1928",
+  "dct_spatial_sm": [
+    "France"
+  ],
+  "dct_temporal_sm": [
+    "1928"
+  ],
   "georss_box_s": "48.74090 5.40630 49.10050 6.28190",
   "georss_polygon_s": "49.10050 5.40630 49.10050 6.28190 48.74090 6.28190 48.74090 5.40630 49.10050 5.40630",
   "solr_geom": "ENVELOPE(5.40630, 6.28190, 49.10050, 48.74090)",

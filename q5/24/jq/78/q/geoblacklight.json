@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/q524jq78q",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Clayton",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "q524jq78q",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Clayton"
   ],
-  "dct_temporal_sm": "1923",
+  "dct_temporal_sm": [
+    "1923"
+  ],
   "georss_box_s": "39.640417 -75.120892 39.679689 -75.031768",
   "georss_polygon_s": "39.679689 -75.120892 39.679689 -75.031768 39.640417 -75.031768 39.640417 -75.120892 39.679689 -75.120892",
   "solr_geom": "ENVELOPE(-75.120892, -75.031768, 39.679689, 39.640417)",

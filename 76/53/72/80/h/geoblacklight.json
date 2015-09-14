@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/76537280h",
-  "dc_creator_sm": "Army Map Service",
+  "dc_creator_sm": [
+    "Army Map Service"
+  ],
   "dc_description_s": "This is a map of the city of San Remo, Italy, shown at a 1:10,000 scale. The map was created for use by War and Navy Department agencies during World War II.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "76537280h",
@@ -15,15 +17,13 @@
     "World War II",
     "City map",
     "Military",
-    "Facilities and Structures",
-    "MAX  G6714.S228.1943.W3O3"
+    "Facilities and Structures"
   ],
   "dc_title_s": "Town plan of San Remo. G.S.G.S. 4380.",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://geowebservices.princeton.edu/iiif/pulmap%2F76%2F53%2F72%2F80%2Fh%2F00000001.jp2%2Finfo.json\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/76537280h\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/76537280h/fgdc.xml\"}",
   "dct_spatial_sm": [
     "San Remo",
-    "Imperia Prov.",
     "Liguria Regioni",
     "Italy"
   ],

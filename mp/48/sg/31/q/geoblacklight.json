@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/mp48sg31q",
-  "dc_creator_sm": "Maury, Matthew Fontaine,",
+  "dc_creator_sm": [
+    "Maury, Matthew Fontaine,"
+  ],
   "dc_description_s": "Pilot chart of the coast of Brazil",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "mp48sg31q",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-19T22:37:41Z",
   "dc_title_s": "Pilot chart of the coast of Brazil",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Atlantic Coast (Brazil)",
-  "dct_temporal_sm": "1850",
+  "dct_spatial_sm": [
+    "Atlantic Coast (Brazil)"
+  ],
+  "dct_temporal_sm": [
+    "1850"
+  ],
   "georss_box_s": "-25.0 -39.0 -1.0 -29.0",
   "georss_polygon_s": "-1.0 -39.0 -1.0 -29.0 -25.0 -29.0 -25.0 -39.0 -1.0 -39.0",
   "solr_geom": "ENVELOPE(-39.0, -29.0, -1.0, -25.0)",

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/jd472z28f",
-  "dc_creator_sm": "Michel-Levy, Mr.",
+  "dc_creator_sm": [
+    "Michel-Levy, Mr."
+  ],
   "dc_description_s": "Carte geologique detaillee de la France [a 1/80 000]: Rennes.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "jd472z28f",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-19T22:36:38Z",
   "dc_title_s": "Carte geologique detaillee de la France [a 1/80 000]: Rennes.",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "France",
-  "dct_temporal_sm": "1941",
+  "dct_spatial_sm": [
+    "France"
+  ],
+  "dct_temporal_sm": [
+    "1941"
+  ],
   "georss_box_s": "47.99750 -2.41390 48.35690 -1.55160",
   "georss_polygon_s": "48.35690 -2.41390 48.35690 -1.55160 47.99750 -1.55160 47.99750 -2.41390 48.35690 -2.41390",
   "solr_geom": "ENVELOPE(-2.41390, -1.55160, 48.35690, 47.99750)",

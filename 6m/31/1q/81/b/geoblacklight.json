@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/6m311q81b",
-  "dc_creator_sm": "Army Map Service",
+  "dc_creator_sm": [
+    "Army Map Service"
+  ],
   "dc_description_s": "This is a map of the city of Cavite in the Philippines. shown at a 1:10,000 scale. The map was created for use by War and Navy Department agencies during World War II.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "6m311q81b",
@@ -22,9 +24,7 @@
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://geowebservices.princeton.edu/iiif/pulmap%2F6m%2F31%2F1q%2F81%2Fb%2F00000001.jp2%2Finfo.json\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/6m311q81b\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/6m311q81b/fgdc.xml\"}",
   "dct_spatial_sm": [
     "Cavite",
-    "Luzon I.",
-    "Philippines",
-    "G8064.C382C1.1944.A7M3"
+    "Philippines"
   ],
   "dct_issued_s": "1944",
   "dct_provenance_s": "Princeton",

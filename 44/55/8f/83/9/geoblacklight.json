@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/44558f839",
-  "dc_creator_sm": "Sebastian Mnster",
+  "dc_creator_sm": [
+    "Sebastian Mnster"
+  ],
   "dc_description_s": "Scanned map of the world 1550 (colored)",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "44558f839",
@@ -15,7 +17,9 @@
   "dc_title_s": "Typus orbis universalis. ",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://geowebservices.princeton.edu/iiif/pulmap%2F44%2F55%2F8f%2F83%2F9%2F00000001.jp2%2Finfo.json\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/44558f839\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/44558f839/fgdc.xml\"}",
-  "dct_spatial_sm": "World",
+  "dct_spatial_sm": [
+    "World"
+  ],
   "dct_issued_s": "1550",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "-90 -180 90 180",

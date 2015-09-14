@@ -12,8 +12,12 @@
   "layer_modified_dt": "2015-01-19T22:37:27Z",
   "dc_title_s": "Carte génerale des Iles Britanniques",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "British Isles",
-  "dct_temporal_sm": "1820",
+  "dct_spatial_sm": [
+    "British Isles"
+  ],
+  "dct_temporal_sm": [
+    "1820"
+  ],
   "georss_box_s": "48.5 -13.0 60.0 -0.5",
   "georss_polygon_s": "60.0 -13.0 60.0 -0.5 48.5 -0.5 48.5 -13.0 60.0 -13.0",
   "solr_geom": "ENVELOPE(-13.0, -0.5, 60.0, 48.5)",

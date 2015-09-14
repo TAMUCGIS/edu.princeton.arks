@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/8k71nk53k",
-  "dc_creator_sm": "Bew, John,",
+  "dc_creator_sm": [
+    "Bew, John,"
+  ],
   "dc_description_s": "A new and accurate map of North Carolina and part of South Carolina : with the field of battle between Earl Cornwallis and General Gates",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "8k71nk53k",
@@ -17,7 +19,9 @@
     "South Carolina",
     "North Carolina"
   ],
-  "dct_temporal_sm": "1780",
+  "dct_temporal_sm": [
+    "1780"
+  ],
   "georss_box_s": "32.0333126 -83.3539978 35.21554 -78.4993009",
   "georss_polygon_s": "35.21554 -83.3539978 35.21554 -78.4993009 32.0333126 -78.4993009 32.0333126 -83.3539978 35.21554 -83.3539978",
   "solr_geom": "ENVELOPE(-83.3539978, -78.4993009, 35.21554, 32.0333126)",

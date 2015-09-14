@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/hm50tv21g",
-  "dc_creator_sm": "Cary, John,",
+  "dc_creator_sm": [
+    "Cary, John,"
+  ],
   "dc_description_s": "Glocestershire",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "hm50tv21g",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-21T22:24:17Z",
   "dc_title_s": "Glocestershire",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Gloucestershire (England)",
-  "dct_temporal_sm": "1793",
+  "dct_spatial_sm": [
+    "Gloucestershire (England)"
+  ],
+  "dct_temporal_sm": [
+    "1793"
+  ],
   "georss_box_s": "51.5775306 -2.6875371 52.1125797 -1.6152019",
   "georss_polygon_s": "52.1125797 -2.6875371 52.1125797 -1.6152019 51.5775306 -1.6152019 51.5775306 -2.6875371 52.1125797 -2.6875371",
   "solr_geom": "ENVELOPE(-2.6875371, -1.6152019, 52.1125797, 51.5775306)",

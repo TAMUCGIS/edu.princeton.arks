@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/mp48sf67j",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Mays Landing",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "mp48sf67j",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Mays Landing"
   ],
-  "dct_temporal_sm": "1912",
+  "dct_temporal_sm": [
+    "1912"
+  ],
   "georss_box_s": "39.432333 -74.747661 39.472333 -74.707661",
   "georss_polygon_s": "39.472333 -74.747661 39.472333 -74.707661 39.432333 -74.707661 39.432333 -74.747661 39.472333 -74.747661",
   "solr_geom": "ENVELOPE(-74.747661, -74.707661, 39.472333, 39.432333)",

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/xk81jn732",
-  "dc_creator_sm": "Smith, Roswell Chamberlain,",
+  "dc_creator_sm": [
+    "Smith, Roswell Chamberlain,"
+  ],
   "dc_description_s": "United States",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "xk81jn732",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-19T22:37:00Z",
   "dc_title_s": "United States",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "West (U.S.)",
-  "dct_temporal_sm": "1953",
+  "dct_spatial_sm": [
+
+  ],
+  "dct_temporal_sm": [
+    "1953"
+  ],
   "georss_box_s": "30.0 -125.0 50.0 -102.0",
   "georss_polygon_s": "50.0 -125.0 50.0 -102.0 30.0 -102.0 30.0 -125.0 50.0 -125.0",
   "solr_geom": "ENVELOPE(-125.0, -102.0, 50.0, 30.0)",

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/7w62fb742",
-  "dc_creator_sm": "Woerl, Leo,",
+  "dc_creator_sm": [
+    "Woerl, Leo,"
+  ],
   "dc_description_s": "Bonn",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "7w62fb742",
@@ -17,7 +19,9 @@
     "Bonn (Germany)",
     "North Rhine-Westphalia (Germany)"
   ],
-  "dct_temporal_sm": "1905",
+  "dct_temporal_sm": [
+    "1905"
+  ],
   "georss_box_s": "50.5758511 6.9406599 50.8958511 7.2606599",
   "georss_polygon_s": "50.8958511 6.9406599 50.8958511 7.2606599 50.5758511 7.2606599 50.5758511 6.9406599 50.8958511 6.9406599",
   "solr_geom": "ENVELOPE(6.9406599, 7.2606599, 50.8958511, 50.5758511)",

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/ht24wk92n",
-  "dc_creator_sm": "Petrus Plancius",
+  "dc_creator_sm": [
+    "Petrus Plancius"
+  ],
   "dc_description_s": "Scanned map of the world, 1594",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "ht24wk92n",
@@ -15,7 +17,9 @@
   "dc_title_s": "Orbis terrarum typus de integro multis in locis emendatus ",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://geowebservices.princeton.edu/iiif/pulmap%2Fht%2F24%2Fwk%2F92%2Fn%2F00000001.jp2%2Finfo.json\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/ht24wk92n\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/ht24wk92n/fgdc.xml\"}",
-  "dct_spatial_sm": "World",
+  "dct_spatial_sm": [
+    "World"
+  ],
   "dct_issued_s": "1594",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "-90 -180 90 180",

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/70795950b",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Ocean Beach",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "70795950b",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Ocean Beach"
   ],
-  "dct_temporal_sm": "1886",
+  "dct_temporal_sm": [
+    "1886"
+  ],
   "georss_box_s": "39.972956 -74.082255 39.990056 -74.05024",
   "georss_polygon_s": "39.990056 -74.082255 39.990056 -74.05024 39.972956 -74.05024 39.972956 -74.082255 39.990056 -74.082255",
   "solr_geom": "ENVELOPE(-74.082255, -74.05024, 39.990056, 39.972956)",

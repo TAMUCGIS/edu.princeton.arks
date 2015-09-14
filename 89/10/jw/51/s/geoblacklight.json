@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/8910jw51s",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Ocean City",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "8910jw51s",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Ocean City"
   ],
-  "dct_temporal_sm": "1909",
+  "dct_temporal_sm": [
+    "1909"
+  ],
   "georss_box_s": "39.210927 -74.654871 39.307774 -74.551579",
   "georss_polygon_s": "39.307774 -74.654871 39.307774 -74.551579 39.210927 -74.551579 39.210927 -74.654871 39.307774 -74.654871",
   "solr_geom": "ENVELOPE(-74.654871, -74.551579, 39.307774, 39.210927)",

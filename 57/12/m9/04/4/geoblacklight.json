@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/5712m9044",
-  "dc_creator_sm": "Cottier, Hamilton,",
+  "dc_creator_sm": [
+    "Cottier, Hamilton,"
+  ],
   "dc_description_s": "Grosses Relief-Panorama des Rheines",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "5712m9044",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-21T22:24:23Z",
   "dc_title_s": "Grosses Relief-Panorama des Rheines",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Rhine River",
-  "dct_temporal_sm": "1920",
+  "dct_spatial_sm": [
+    "Rhine River"
+  ],
+  "dct_temporal_sm": [
+    "1920"
+  ],
   "georss_box_s": "46.822878 6.0624861 51.86737 9.6713648",
   "georss_polygon_s": "51.86737 6.0624861 51.86737 9.6713648 46.822878 9.6713648 46.822878 6.0624861 51.86737 6.0624861",
   "solr_geom": "ENVELOPE(6.0624861, 9.6713648, 51.86737, 46.822878)",

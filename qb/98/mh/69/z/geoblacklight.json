@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/qb98mh69z",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Salem",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "qb98mh69z",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Salem"
   ],
-  "dct_temporal_sm": "1915",
+  "dct_temporal_sm": [
+    "1915"
+  ],
   "georss_box_s": "39.554874 -75.494969 39.584022 -75.452387",
   "georss_polygon_s": "39.584022 -75.494969 39.584022 -75.452387 39.554874 -75.452387 39.554874 -75.494969 39.584022 -75.494969",
   "solr_geom": "ENVELOPE(-75.494969, -75.452387, 39.584022, 39.554874)",

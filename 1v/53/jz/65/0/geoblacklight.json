@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/1v53jz650",
-  "dc_creator_sm": "McCammon, R. L.",
+  "dc_creator_sm": [
+    "McCammon, R. L."
+  ],
   "dc_description_s": "A scanned historical map shown at a scale of 1:62500.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "1v53jz650",
@@ -13,18 +15,13 @@
     "Contour",
     "Boundaries",
     "Administrative and political boundaries",
-    "imageryBaseMapsEarthCover"
+    "Imagery and Base Maps"
   ],
   "dc_title_s": "Vermont: Lincoln Mountain Quadrangle. [1921]",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://geowebservices.princeton.edu/iiif/pulmap%2F1v%2F53%2Fjz%2F65%2F0%2F00000001.jp2%2Finfo.json\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/1v53jz650\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/1v53jz650/fgdc.xml\"}",
   "dct_spatial_sm": [
-    "Lincoln Mountain Quad.",
-    "Washington Co.",
-    "Addison Co.",
-    "Chittenden Co.",
-    "Vermont",
-    "MC  G3751.C2.s62.U5G4 Lincoln Mountain"
+    "Vermont"
   ],
   "dct_issued_s": "1921",
   "dct_provenance_s": "Princeton",

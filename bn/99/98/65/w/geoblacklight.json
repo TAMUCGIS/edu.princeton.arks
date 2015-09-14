@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/bn999865w",
-  "dc_creator_sm": "Symonds, H. D.",
+  "dc_creator_sm": [
+    "Symonds, H. D."
+  ],
   "dc_description_s": "A general map of North America : drawn from the best surveys",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "bn999865w",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-19T22:36:53Z",
   "dc_title_s": "A general map of North America : drawn from the best surveys",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "North America",
-  "dct_temporal_sm": "1794",
+  "dct_spatial_sm": [
+    "North America"
+  ],
+  "dct_temporal_sm": [
+    "1794"
+  ],
   "georss_box_s": "10.0 -180.0 85.0 -30.0",
   "georss_polygon_s": "85.0 -180.0 85.0 -30.0 10.0 -30.0 10.0 -180.0 85.0 -180.0",
   "solr_geom": "ENVELOPE(-180.0, -30.0, 85.0, 10.0)",

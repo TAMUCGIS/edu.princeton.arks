@@ -17,8 +17,12 @@
   "layer_modified_dt": "2015-01-19T22:36:55Z",
   "dc_title_s": "A new, plaine, and exact map of Asia : described by N.I. Vischer and done into English, enlarged and corrected according to I. Blaeu, with the habits of ye countries and manner of the cheife citties, ye like never before",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Asia",
-  "dct_temporal_sm": "1688",
+  "dct_spatial_sm": [
+    "Asia"
+  ],
+  "dct_temporal_sm": [
+    "1688"
+  ],
   "georss_box_s": "-10.0 30.0 70.0 150.0",
   "georss_polygon_s": "70.0 30.0 70.0 150.0 -10.0 150.0 -10.0 30.0 70.0 30.0",
   "solr_geom": "ENVELOPE(30.0, 150.0, 70.0, -10.0)",

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/6w924d48r",
-  "dc_creator_sm": "Lorenz Fries",
+  "dc_creator_sm": [
+    "Lorenz Fries"
+  ],
   "dc_description_s": "This is a map of Europe, Asia, and North Africa.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "6w924d48r",
@@ -15,7 +17,9 @@
   "dc_title_s": "Orbis typus universalis iuxta: hydrographorum traditionem, exactissime depicta.",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://geowebservices.princeton.edu/iiif/pulmap%2F6w%2F92%2F4d%2F48%2Fr%2F00000001.jp2%2Finfo.json\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/6w924d48r\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/6w924d48r/fgdc.xml\"}",
-  "dct_spatial_sm": "World",
+  "dct_spatial_sm": [
+    "World"
+  ],
   "dct_issued_s": "1535",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "-30 180 70 0",

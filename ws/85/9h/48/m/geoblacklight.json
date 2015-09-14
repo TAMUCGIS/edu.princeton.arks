@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/ws859h48m",
-  "dc_creator_sm": "Goguel, Jean",
+  "dc_creator_sm": [
+    "Goguel, Jean"
+  ],
   "dc_description_s": "Carte geologique detaillee de la France [a 1/80 000]: Soissons.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "ws859h48m",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-19T22:36:37Z",
   "dc_title_s": "Carte geologique detaillee de la France [a 1/80 000]: Soissons.",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "France",
-  "dct_temporal_sm": "1964",
+  "dct_spatial_sm": [
+    "France"
+  ],
+  "dct_temporal_sm": [
+    "1964"
+  ],
   "georss_box_s": "49.13770 2.77590 49.49750 3.65310",
   "georss_polygon_s": "49.49750 2.77590 49.49750 3.65310 49.13770 3.65310 49.13770 2.77590 49.49750 2.77590",
   "solr_geom": "ENVELOPE(2.77590, 3.65310, 49.49750, 49.13770)",

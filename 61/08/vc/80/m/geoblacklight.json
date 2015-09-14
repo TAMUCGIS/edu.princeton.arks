@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/6108vc80m",
-  "dc_creator_sm": "Weimar, Geograph. Institut",
+  "dc_creator_sm": [
+    "Weimar, Geograph. Institut"
+  ],
   "dc_description_s": "This is a map of Africa, 1804.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "6108vc80m",
@@ -14,7 +16,9 @@
   "dc_title_s": "Charte der Südspitze Africa’s und der Colonie vom Vorgebirge der guten Hoffnung ",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://geowebservices.princeton.edu/iiif/pulmap%2F61%2F08%2Fvc%2F80%2Fm%2F00000001.jp2%2Finfo.json\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/6108vc80m\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/6108vc80m/fgdc.xml\"}",
-  "dct_spatial_sm": "Africa",
+  "dct_spatial_sm": [
+    "Africa"
+  ],
   "dct_issued_s": "1804",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "-35.316 42.821 -3.312 8.184",

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/9593tx658",
-  "dc_creator_sm": "Rhoades, Nelson,",
+  "dc_creator_sm": [
+    "Rhoades, Nelson,"
+  ],
   "dc_description_s": "Mapa de las propiedades rusticas del estado de Sinaloa, México",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "9593tx658",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-21T22:24:29Z",
   "dc_title_s": "Mapa de las propiedades rusticas del estado de Sinaloa, México",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Sinaloa (Mexico : State)",
-  "dct_temporal_sm": "1909",
+  "dct_spatial_sm": [
+    "Sinaloa (Mexico : State)"
+  ],
+  "dct_temporal_sm": [
+    "1909"
+  ],
   "georss_box_s": "22.470687 -109.4475839 27.0422491 -105.3922225",
   "georss_polygon_s": "27.0422491 -109.4475839 27.0422491 -105.3922225 22.470687 -105.3922225 22.470687 -109.4475839 27.0422491 -109.4475839",
   "solr_geom": "ENVELOPE(-109.4475839, -105.3922225, 27.0422491, 22.470687)",

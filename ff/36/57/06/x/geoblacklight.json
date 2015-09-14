@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/ff365706x",
-  "dc_creator_sm": "Grandjean, F.",
+  "dc_creator_sm": [
+    "Grandjean, F."
+  ],
   "dc_description_s": "Carte geologique detaillee de la France [a 1/80 000]: Tours.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "ff365706x",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-19T22:36:39Z",
   "dc_title_s": "Carte geologique detaillee de la France [a 1/80 000]: Tours.",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "France",
-  "dct_temporal_sm": "1940",
+  "dct_spatial_sm": [
+    "France"
+  ],
+  "dct_temporal_sm": [
+    "1940"
+  ],
   "georss_box_s": "47.33270 0.20550 47.69250 1.05790",
   "georss_polygon_s": "47.69250 0.20550 47.69250 1.05790 47.33270 1.05790 47.33270 0.20550 47.69250 0.20550",
   "solr_geom": "ENVELOPE(0.20550, 1.05790, 47.69250, 47.33270)",

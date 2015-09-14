@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/mg74qp536",
-  "dc_creator_sm": "Yard, Robert Sterling,",
+  "dc_creator_sm": [
+    "Yard, Robert Sterling,"
+  ],
   "dc_description_s": "Denver, the gateway to twelve national parks and thirty-two national monuments",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "mg74qp536",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-21T22:24:00Z",
   "dc_title_s": "Denver, the gateway to twelve national parks and thirty-two national monuments",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "United States",
-  "dct_temporal_sm": "1918",
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "1918"
+  ],
   "georss_box_s": "-14.7608357 -179.9999999 71.6048217 180",
   "georss_polygon_s": "71.6048217 -179.9999999 71.6048217 180 -14.7608357 180 -14.7608357 -179.9999999 71.6048217 -179.9999999",
   "solr_geom": "ENVELOPE(-179.9999999, 180, 71.6048217, -14.7608357)",

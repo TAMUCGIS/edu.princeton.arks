@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/2514nn16g",
-  "dc_creator_sm": "Sanson, Nicolas",
+  "dc_creator_sm": [
+    "Sanson, Nicolas"
+  ],
   "dc_description_s": "This is a scanned map of the world from the Historical Map Collection of Princeton University's Rare Books department.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "2514nn16g",
@@ -11,13 +13,14 @@
     "Maps--Early works to 1800",
     "World maps",
     "World map 1694",
-    "Administrative and political boundaries",
-    "HMC01.22 "
+    "Administrative and political boundaries"
   ],
   "dc_title_s": "Orbis vetus, et orbis veteris utraque continens, terrarumq[ue] tractus, Arcticus, et Antarcticus : ex Platone, Theopompo, sive Æliano, Manilio &c. ",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://geowebservices.princeton.edu/iiif/pulmap%2F25%2F14%2Fnn%2F16%2Fg%2F00000001.jp2%2Finfo.json\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/2514nn16g\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/2514nn16g/fgdc.xml\"}",
-  "dct_spatial_sm": "World",
+  "dct_spatial_sm": [
+    "World"
+  ],
   "dct_issued_s": "1694",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "-90 -180 90 180",

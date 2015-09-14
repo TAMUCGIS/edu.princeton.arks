@@ -12,8 +12,12 @@
   "layer_modified_dt": "2015-01-21T22:23:49Z",
   "dc_title_s": "Street map of Glasgow",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Glasgow (Scotland)",
-  "dct_temporal_sm": "1893",
+  "dct_spatial_sm": [
+    "Glasgow (Scotland)"
+  ],
+  "dct_temporal_sm": [
+    "1893"
+  ],
   "georss_box_s": "55.701147 -4.4099891 56.021147 -4.0899891",
   "georss_polygon_s": "56.021147 -4.4099891 56.021147 -4.0899891 55.701147 -4.0899891 55.701147 -4.4099891 56.021147 -4.4099891",
   "solr_geom": "ENVELOPE(-4.4099891, -4.0899891, 56.021147, 55.701147)",

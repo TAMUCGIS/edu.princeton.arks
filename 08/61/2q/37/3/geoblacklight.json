@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/08612q373",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Whitehouse Station",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "08612q373",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Whitehouse Station"
   ],
-  "dct_temporal_sm": "1928",
+  "dct_temporal_sm": [
+    "1928"
+  ],
   "georss_box_s": "40.605683 -74.788087 40.626393 -74.754982",
   "georss_polygon_s": "40.626393 -74.788087 40.626393 -74.754982 40.605683 -74.754982 40.605683 -74.788087 40.626393 -74.788087",
   "solr_geom": "ENVELOPE(-74.788087, -74.754982, 40.626393, 40.605683)",

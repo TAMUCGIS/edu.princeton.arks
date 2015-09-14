@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/gf06g515s",
-  "dc_creator_sm": "Woerl, Leo,",
+  "dc_creator_sm": [
+    "Woerl, Leo,"
+  ],
   "dc_description_s": "Karte von Elgersburg und Umgebung",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "gf06g515s",
@@ -17,7 +19,9 @@
     "Elgersburg (Germany)",
     "Thuringia (Germany)"
   ],
-  "dct_temporal_sm": "1888",
+  "dct_temporal_sm": [
+    "1888"
+  ],
   "georss_box_s": "50.6608876 10.8096884 50.7155207 10.8707735",
   "georss_polygon_s": "50.7155207 10.8096884 50.7155207 10.8707735 50.6608876 10.8707735 50.6608876 10.8096884 50.7155207 10.8096884",
   "solr_geom": "ENVELOPE(10.8096884, 10.8707735, 50.7155207, 50.6608876)",

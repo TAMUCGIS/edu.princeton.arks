@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/6w924f27s",
-  "dc_creator_sm": "Ortelius, Abraham,",
+  "dc_creator_sm": [
+    "Ortelius, Abraham,"
+  ],
   "dc_description_s": "Creta, Iouis magni, medio iacet insula ponto",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "6w924f27s",
@@ -19,7 +21,9 @@
     "Ionian Islands (Greece)",
     "Sardinia (Italy)"
   ],
-  "dct_temporal_sm": "1624",
+  "dct_temporal_sm": [
+    "1624"
+  ],
   "georss_box_s": "39.6040662 6.5382074 44.7240662 11.6582074",
   "georss_polygon_s": "44.7240662 6.5382074 44.7240662 11.6582074 39.6040662 11.6582074 39.6040662 6.5382074 44.7240662 6.5382074",
   "solr_geom": "ENVELOPE(6.5382074, 11.6582074, 44.7240662, 39.6040662)",

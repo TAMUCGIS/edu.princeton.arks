@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/hh63sx617",
-  "dc_creator_sm": "Hondius, Jodocus",
+  "dc_creator_sm": [
+    "Hondius, Jodocus"
+  ],
   "dc_description_s": "This is a scanned map of the world from the Historical Map Collection of Princeton University's Rare Books department.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "hh63sx617",
@@ -11,13 +13,14 @@
     "Maps--Early works to 1800",
     "World maps",
     "World map 1780",
-    "Administrative and political boundaries",
-    "HMC01.3"
+    "Administrative and political boundaries"
   ],
   "dc_title_s": "Typus orbis terrarum / Iudocus Hondius fecit 1589.",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://geowebservices.princeton.edu/iiif/pulmap%2Fhh%2F63%2Fsx%2F61%2F7%2F00000001.jp2%2Finfo.json\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/hh63sx617\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/hh63sx617/fgdc.xml\"}",
-  "dct_spatial_sm": "World",
+  "dct_spatial_sm": [
+    "World"
+  ],
   "dct_issued_s": "1593",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "-90 -180 90 180",

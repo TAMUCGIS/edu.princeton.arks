@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/zw12z712c",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Hightstown",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "zw12z712c",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Hightstown"
   ],
-  "dct_temporal_sm": "1925",
+  "dct_temporal_sm": [
+    "1925"
+  ],
   "georss_box_s": "40.257748 -74.537601 40.27863 -74.513858",
   "georss_polygon_s": "40.27863 -74.537601 40.27863 -74.513858 40.257748 -74.513858 40.257748 -74.537601 40.27863 -74.537601",
   "solr_geom": "ENVELOPE(-74.537601, -74.513858, 40.27863, 40.257748)",

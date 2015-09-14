@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/rb68xd660",
-  "dc_creator_sm": "Clark, William Bullock",
+  "dc_creator_sm": [
+    "Clark, William Bullock"
+  ],
   "dc_description_s": "A preliminary geological map of portions of Monmouth and Middlesex counties, New Jersey.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "rb68xd660",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-19T22:36:35Z",
   "dc_title_s": "A preliminary geological map of portions of Monmouth and Middlesex counties, New Jersey.",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Monmouth County (N.J.)",
-  "dct_temporal_sm": "1892",
+  "dct_spatial_sm": [
+
+  ],
+  "dct_temporal_sm": [
+    "1892"
+  ],
   "georss_box_s": "40.25000 -74.50000 40.50000 -73.95000",
   "georss_polygon_s": "40.50000 -74.50000 40.50000 -73.95000 40.25000 -73.95000 40.25000 -74.50000 40.50000 -74.50000",
   "solr_geom": "ENVELOPE(-74.50000, -73.95000, 40.50000, 40.25000)",

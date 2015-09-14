@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/0v8382995",
-  "dc_creator_sm": "Joanne, Adolphe Laurent,",
+  "dc_creator_sm": [
+    "Joanne, Adolphe Laurent,"
+  ],
   "dc_description_s": "Seine",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "0v8382995",
@@ -17,7 +19,9 @@
     "Paris (France)",
     "Seine (France)"
   ],
-  "dct_temporal_sm": "1870",
+  "dct_temporal_sm": [
+    "1870"
+  ],
   "georss_box_s": "48.8155755 2.224122 48.902156 2.4697602",
   "georss_polygon_s": "48.902156 2.224122 48.902156 2.4697602 48.8155755 2.4697602 48.8155755 2.224122 48.902156 2.224122",
   "solr_geom": "ENVELOPE(2.224122, 2.4697602, 48.902156, 48.8155755)",

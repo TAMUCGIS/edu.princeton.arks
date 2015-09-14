@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/z890rw69d",
-  "dc_creator_sm": "Guthrie, William,",
+  "dc_creator_sm": [
+    "Guthrie, William,"
+  ],
   "dc_description_s": "British dominions in America : drawn from the latest and best authorities",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "z890rw69d",
@@ -14,10 +16,11 @@
   "dc_title_s": "British dominions in America : drawn from the latest and best authorities",
   "dc_type_s": "Image",
   "dct_spatial_sm": [
-    "Canada",
-    "East (U.S.)"
+    "Canada"
   ],
-  "dct_temporal_sm": "1784",
+  "dct_temporal_sm": [
+    "1784"
+  ],
   "georss_box_s": "28.5 -99.0 53.0 -51.5",
   "georss_polygon_s": "53.0 -99.0 53.0 -51.5 28.5 -51.5 28.5 -99.0 53.0 -99.0",
   "solr_geom": "ENVELOPE(-99.0, -51.5, 53.0, 28.5)",

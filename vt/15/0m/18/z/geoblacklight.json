@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/vt150m18z",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Wallington",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "vt150m18z",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Wallington"
   ],
-  "dct_temporal_sm": "1910",
+  "dct_temporal_sm": [
+    "1910"
+  ],
   "georss_box_s": "40.841478 -74.120069 40.863781 -74.096299",
   "georss_polygon_s": "40.863781 -74.120069 40.863781 -74.096299 40.841478 -74.096299 40.841478 -74.120069 40.863781 -74.120069",
   "solr_geom": "ENVELOPE(-74.120069, -74.096299, 40.863781, 40.841478)",

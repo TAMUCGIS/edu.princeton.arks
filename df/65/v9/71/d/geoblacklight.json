@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/df65v971d",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Shrewsbury",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "df65v971d",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Shrewsbury"
   ],
-  "dct_temporal_sm": "1907",
+  "dct_temporal_sm": [
+    "1907"
+  ],
   "georss_box_s": "40.311532 -74.074905 40.338267 -74.040653",
   "georss_polygon_s": "40.338267 -74.074905 40.338267 -74.040653 40.311532 -74.040653 40.311532 -74.074905 40.338267 -74.074905",
   "solr_geom": "ENVELOPE(-74.074905, -74.040653, 40.338267, 40.311532)",

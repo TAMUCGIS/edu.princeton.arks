@@ -12,8 +12,12 @@
   "layer_modified_dt": "2015-01-19T22:37:36Z",
   "dc_title_s": "Ireland",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Ireland",
-  "dct_temporal_sm": "1889",
+  "dct_spatial_sm": [
+    "Ireland"
+  ],
+  "dct_temporal_sm": [
+    "1889"
+  ],
   "georss_box_s": "51.5 -10.5 55.5 -5.5",
   "georss_polygon_s": "55.5 -10.5 55.5 -5.5 51.5 -5.5 51.5 -10.5 55.5 -10.5",
   "solr_geom": "ENVELOPE(-10.5, -5.5, 55.5, 51.5)",

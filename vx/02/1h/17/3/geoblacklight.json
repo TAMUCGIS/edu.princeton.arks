@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/vx021h173",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of West New York",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "vx021h173",
@@ -25,7 +27,9 @@
     "New Jersey",
     "West New York"
   ],
-  "dct_temporal_sm": "1900",
+  "dct_temporal_sm": [
+    "1900"
+  ],
   "georss_box_s": "40.778136 -74.023614 40.796557 -73.998174",
   "georss_polygon_s": "40.796557 -74.023614 40.796557 -73.998174 40.778136 -73.998174 40.778136 -74.023614 40.796557 -74.023614",
   "solr_geom": "ENVELOPE(-74.023614, -73.998174, 40.796557, 40.778136)",

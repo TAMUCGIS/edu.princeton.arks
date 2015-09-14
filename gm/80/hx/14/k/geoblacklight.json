@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/gm80hx14k",
-  "dc_creator_sm": "Granjean, F.",
+  "dc_creator_sm": [
+    "Granjean, F."
+  ],
   "dc_description_s": "Carte geologique detaillee de la France [a 1/80 000]: Bar-Le-Duc.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "gm80hx14k",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-19T22:36:37Z",
   "dc_title_s": "Carte geologique detaillee de la France [a 1/80 000]: Bar-Le-Duc.",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "France",
-  "dct_temporal_sm": "1940",
+  "dct_spatial_sm": [
+    "France"
+  ],
+  "dct_temporal_sm": [
+    "1940"
+  ],
   "georss_box_s": "48.75950 4.53000 49.11910 5.40630",
   "georss_polygon_s": "49.11910 4.53000 49.11910 5.40630 48.75950 5.40630 48.75950 4.53000 49.11910 4.53000",
   "solr_geom": "ENVELOPE(4.53000, 5.40630, 49.11910, 48.75950)",

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/pn89d896z",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Point Pleasant",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "pn89d896z",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Point Pleasant"
   ],
-  "dct_temporal_sm": "1905",
+  "dct_temporal_sm": [
+    "1905"
+  ],
   "georss_box_s": "40.059716 -74.091661 40.097611 -74.047758",
   "georss_polygon_s": "40.097611 -74.091661 40.097611 -74.047758 40.059716 -74.047758 40.059716 -74.091661 40.097611 -74.091661",
   "solr_geom": "ENVELOPE(-74.091661, -74.047758, 40.097611, 40.059716)",

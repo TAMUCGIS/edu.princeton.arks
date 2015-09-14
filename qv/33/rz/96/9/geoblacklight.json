@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/qv33rz969",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Hawthorne",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "qv33rz969",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Hawthorne"
   ],
-  "dct_temporal_sm": "1922",
+  "dct_temporal_sm": [
+    "1922"
+  ],
   "georss_box_s": "40.93433 -74.171588 40.983865 -74.141048",
   "georss_polygon_s": "40.983865 -74.171588 40.983865 -74.141048 40.93433 -74.141048 40.93433 -74.171588 40.983865 -74.171588",
   "solr_geom": "ENVELOPE(-74.171588, -74.141048, 40.983865, 40.93433)",

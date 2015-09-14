@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/m326m408q",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Rumson",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "m326m408q",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Rumson"
   ],
-  "dct_temporal_sm": "1922",
+  "dct_temporal_sm": [
+    "1922"
+  ],
   "georss_box_s": "40.338497 -74.037668 40.383709 -73.976402",
   "georss_polygon_s": "40.383709 -74.037668 40.383709 -73.976402 40.338497 -73.976402 40.338497 -74.037668 40.383709 -74.037668",
   "solr_geom": "ENVELOPE(-74.037668, -73.976402, 40.383709, 40.338497)",

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/ws859h59j",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Woodbine",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "ws859h59j",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Woodbine"
   ],
-  "dct_temporal_sm": "1924",
+  "dct_temporal_sm": [
+    "1924"
+  ],
   "georss_box_s": "39.203307 -74.848383 39.256833 -74.766362",
   "georss_polygon_s": "39.256833 -74.848383 39.256833 -74.766362 39.203307 -74.766362 39.203307 -74.848383 39.256833 -74.848383",
   "solr_geom": "ENVELOPE(-74.848383, -74.766362, 39.256833, 39.203307)",

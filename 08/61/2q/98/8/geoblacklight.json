@@ -17,8 +17,12 @@
   "layer_modified_dt": "2015-01-19T22:37:18Z",
   "dc_title_s": "Egypt",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Egypt",
-  "dct_temporal_sm": "1818",
+  "dct_spatial_sm": [
+    "Egypt"
+  ],
+  "dct_temporal_sm": [
+    "1818"
+  ],
   "georss_box_s": "24.0 28.8333333333 31.7 35.1666666667",
   "georss_polygon_s": "31.7 28.8333333333 31.7 35.1666666667 24.0 35.1666666667 24.0 28.8333333333 31.7 28.8333333333",
   "solr_geom": "ENVELOPE(28.8333333333, 35.1666666667, 31.7, 24.0)",

@@ -21,7 +21,9 @@
     "Western Hemisphere",
     "Atlantic Ocean"
   ],
-  "dct_temporal_sm": "1790",
+  "dct_temporal_sm": [
+    "1790"
+  ],
   "georss_box_s": "-90 -180 90 0",
   "georss_polygon_s": "90 -180 90 0 -90 0 -90 -180 90 -180",
   "solr_geom": "ENVELOPE(-180, 0, 90, -90)",

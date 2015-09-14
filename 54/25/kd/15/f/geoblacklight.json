@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/5425kd15f",
-  "dc_creator_sm": "Smith, William,",
+  "dc_creator_sm": [
+    "Smith, William,"
+  ],
   "dc_description_s": "Nineveh",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "5425kd15f",
@@ -17,7 +19,9 @@
     "Iraq",
     "Nineveh (Extinct city)"
   ],
-  "dct_temporal_sm": "1874",
+  "dct_temporal_sm": [
+    "1874"
+  ],
   "georss_box_s": "29.0612087 38.7936612 37.380932 48.8412702",
   "georss_polygon_s": "37.380932 38.7936612 37.380932 48.8412702 29.0612087 48.8412702 29.0612087 38.7936612 37.380932 38.7936612",
   "solr_geom": "ENVELOPE(38.7936612, 48.8412702, 37.380932, 29.0612087)",

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/0z708z66m",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Bound Brook",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "0z708z66m",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Bound Brook"
   ],
-  "dct_temporal_sm": "1910",
+  "dct_temporal_sm": [
+    "1910"
+  ],
   "georss_box_s": "40.555196 -74.557675 40.581725 -74.523702",
   "georss_polygon_s": "40.581725 -74.557675 40.581725 -74.523702 40.555196 -74.523702 40.555196 -74.557675 40.581725 -74.557675",
   "solr_geom": "ENVELOPE(-74.557675, -74.523702, 40.581725, 40.555196)",

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/mp48sg22r",
-  "dc_creator_sm": "Stedman, John Gabriel,",
+  "dc_creator_sm": [
+    "Stedman, John Gabriel,"
+  ],
   "dc_description_s": "Carta della Guiana",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "mp48sg22r",
@@ -17,7 +19,9 @@
     "Guiana",
     "Suriname"
   ],
-  "dct_temporal_sm": "1818",
+  "dct_temporal_sm": [
+    "1818"
+  ],
   "georss_box_s": "-4.0 -79.0 10.0 -48.0",
   "georss_polygon_s": "10.0 -79.0 10.0 -48.0 -4.0 -48.0 -4.0 -79.0 10.0 -79.0",
   "solr_geom": "ENVELOPE(-79.0, -48.0, 10.0, -4.0)",

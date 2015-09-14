@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/37720g057",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Summit",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "37720g057",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Summit"
   ],
-  "dct_temporal_sm": "1921",
+  "dct_temporal_sm": [
+    "1921"
+  ],
   "georss_box_s": "39.014002 -74.789943 39.066099 -74.738975",
   "georss_polygon_s": "39.066099 -74.789943 39.066099 -74.738975 39.014002 -74.738975 39.014002 -74.789943 39.066099 -74.789943",
   "solr_geom": "ENVELOPE(-74.789943, -74.738975, 39.066099, 39.014002)",

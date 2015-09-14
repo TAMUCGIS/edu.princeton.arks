@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/z029p6585",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Lavallette",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "z029p6585",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Lavallette"
   ],
-  "dct_temporal_sm": "1905",
+  "dct_temporal_sm": [
+    "1905"
+  ],
   "georss_box_s": "39.959078 -74.085448 39.981561 -74.063659",
   "georss_polygon_s": "39.981561 -74.085448 39.981561 -74.063659 39.959078 -74.063659 39.959078 -74.085448 39.981561 -74.085448",
   "solr_geom": "ENVELOPE(-74.085448, -74.063659, 39.981561, 39.959078)",

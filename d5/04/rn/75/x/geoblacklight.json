@@ -18,8 +18,12 @@
   "layer_modified_dt": "2015-01-21T22:24:02Z",
   "dc_title_s": "Plan géométral de Paris et de ses agrandissments : à l'échelle de un millimètre pour 10 mètres (1/10.000)",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Paris (France)",
-  "dct_temporal_sm": "1865",
+  "dct_spatial_sm": [
+    "Paris (France)"
+  ],
+  "dct_temporal_sm": [
+    "1865"
+  ],
   "georss_box_s": "48.8155755 2.224122 48.902156 2.4697602",
   "georss_polygon_s": "48.902156 2.224122 48.902156 2.4697602 48.8155755 2.4697602 48.8155755 2.224122 48.902156 2.224122",
   "solr_geom": "ENVELOPE(2.224122, 2.4697602, 48.902156, 48.8155755)",

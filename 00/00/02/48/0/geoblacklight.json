@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/000002480",
-  "dc_creator_sm": "Smith, William,",
+  "dc_creator_sm": [
+    "Smith, William,"
+  ],
   "dc_description_s": "Kingdoms of the successors of Alexander in the middle of the third century",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "000002480",
@@ -17,7 +19,9 @@
     "Asia, Central",
     "Middle East"
   ],
-  "dct_temporal_sm": "1873",
+  "dct_temporal_sm": [
+    "1873"
+  ],
   "georss_box_s": "20.0 15.0 50.0 85.0",
   "georss_polygon_s": "50.0 15.0 50.0 85.0 20.0 85.0 20.0 15.0 50.0 15.0",
   "solr_geom": "ENVELOPE(15.0, 85.0, 50.0, 20.0)",

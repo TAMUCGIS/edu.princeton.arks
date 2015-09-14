@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/rr172049h",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Trenton",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "rr172049h",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Trenton"
   ],
-  "dct_temporal_sm": "1927",
+  "dct_temporal_sm": [
+    "1927"
+  ],
   "georss_box_s": "40.183834 -74.819582 40.248298 -74.728904",
   "georss_polygon_s": "40.248298 -74.819582 40.248298 -74.728904 40.183834 -74.728904 40.183834 -74.819582 40.248298 -74.819582",
   "solr_geom": "ENVELOPE(-74.819582, -74.728904, 40.248298, 40.183834)",

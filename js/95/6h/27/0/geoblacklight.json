@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/js956h270",
-  "dc_creator_sm": "Army Map Service",
+  "dc_creator_sm": [
+    "Army Map Service"
+  ],
   "dc_description_s": "This is a map of the city of La Spezia, Italy, shown at a 1:10,000 scale. The map was created for use by War and Navy Department agencies during World War II.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "js956h270",
@@ -17,15 +19,13 @@
     "Military",
     "Facilities and Structures",
     "Geomorphology",
-    "Topography",
-    "MAX  G6714.L12C2.1943.W3O3"
+    "Topography"
   ],
   "dc_title_s": "La Spezia. G.S.G.S. 4380.",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://geowebservices.princeton.edu/iiif/pulmap%2Fjs%2F95%2F6h%2F27%2F0%2F00000001.jp2%2Finfo.json\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/js956h270\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/js956h270/fgdc.xml\"}",
   "dct_spatial_sm": [
     "La Spezia",
-    "La Spezia Prov.",
     "Liguria Regioni",
     "Italy"
   ],

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/vq27zq49t",
-  "dc_creator_sm": "Reynolds, James,",
+  "dc_creator_sm": [
+    "Reynolds, James,"
+  ],
   "dc_description_s": "Reynolds's map of London with the latest improvements",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "vq27zq49t",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-21T22:23:54Z",
   "dc_title_s": "Reynolds's map of London with the latest improvements",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "London (England)",
-  "dct_temporal_sm": "1853",
+  "dct_spatial_sm": [
+    "London (England)"
+  ],
+  "dct_temporal_sm": [
+    "1853"
+  ],
   "georss_box_s": "51.2867602 -0.510375 51.6918741 0.3340155",
   "georss_polygon_s": "51.6918741 -0.510375 51.6918741 0.3340155 51.2867602 0.3340155 51.2867602 -0.510375 51.6918741 -0.510375",
   "solr_geom": "ENVELOPE(-0.510375, 0.3340155, 51.6918741, 51.2867602)",

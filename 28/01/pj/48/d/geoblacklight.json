@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/2801pj48d",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Lakehurst",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "2801pj48d",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Lakehurst"
   ],
-  "dct_temporal_sm": "1931",
+  "dct_temporal_sm": [
+    "1931"
+  ],
   "georss_box_s": "40.004135 -74.331896 40.021582 -74.298465",
   "georss_polygon_s": "40.021582 -74.331896 40.021582 -74.298465 40.004135 -74.298465 40.004135 -74.331896 40.021582 -74.331896",
   "solr_geom": "ENVELOPE(-74.331896, -74.298465, 40.021582, 40.004135)",

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/8s45qb69w",
-  "dc_creator_sm": "Bankes, Thomas,",
+  "dc_creator_sm": [
+    "Bankes, Thomas,"
+  ],
   "dc_description_s": "A new & accurate map of North America : including Nootka Sound with the new discovered islands on the North East coast of Asia",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "8s45qb69w",
@@ -17,7 +19,9 @@
     "North America",
     "North America"
   ],
-  "dct_temporal_sm": "1788",
+  "dct_temporal_sm": [
+    "1788"
+  ],
   "georss_box_s": "10.0 -180.0 80.0 -10.0",
   "georss_polygon_s": "80.0 -180.0 80.0 -10.0 10.0 -10.0 10.0 -180.0 80.0 -180.0",
   "solr_geom": "ENVELOPE(-180.0, -10.0, 80.0, 10.0)",

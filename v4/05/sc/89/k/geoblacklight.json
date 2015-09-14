@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/v405sc89k",
-  "dc_creator_sm": "Stockley,",
+  "dc_creator_sm": [
+    "Stockley,"
+  ],
   "dc_description_s": "Republic of Mexico and Texas",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "v405sc89k",
@@ -18,7 +20,9 @@
     "Mexico",
     "Southwestern States"
   ],
-  "dct_temporal_sm": "1840",
+  "dct_temporal_sm": [
+    "1840"
+  ],
   "georss_box_s": "14.0 -125.0 42.0 -85.0",
   "georss_polygon_s": "42.0 -125.0 42.0 -85.0 14.0 -85.0 14.0 -125.0 42.0 -125.0",
   "solr_geom": "ENVELOPE(-125.0, -85.0, 42.0, 14.0)",

@@ -17,8 +17,12 @@
   "layer_modified_dt": "2015-01-19T22:36:39Z",
   "dc_title_s": "The west part of Barbary containing Fez, Marocco, Algiers and Tunis The east part of Barbary containing Tripoli, Barca and the north part of Egypt.",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Africa, North",
-  "dct_temporal_sm": "1732",
+  "dct_spatial_sm": [
+    "Africa, North"
+  ],
+  "dct_temporal_sm": [
+    "1732"
+  ],
   "georss_box_s": "-42.0 -40.0 40.0 80.0",
   "georss_polygon_s": "40.0 -40.0 40.0 80.0 -42.0 80.0 -42.0 -40.0 40.0 -40.0",
   "solr_geom": "ENVELOPE(-40.0, 80.0, 40.0, -42.0)",

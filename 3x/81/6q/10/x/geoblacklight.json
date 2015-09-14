@@ -12,8 +12,12 @@
   "layer_modified_dt": "2015-01-19T22:37:25Z",
   "dc_title_s": "France : in provinces",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "France",
-  "dct_temporal_sm": "1854",
+  "dct_spatial_sm": [
+    "France"
+  ],
+  "dct_temporal_sm": [
+    "1854"
+  ],
   "georss_box_s": "42.0 -6.0 52.0 8.0",
   "georss_polygon_s": "52.0 -6.0 52.0 8.0 42.0 8.0 42.0 -6.0 52.0 -6.0",
   "solr_geom": "ENVELOPE(-6.0, 8.0, 52.0, 42.0)",

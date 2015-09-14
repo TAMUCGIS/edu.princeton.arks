@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/6t053j40v",
-  "dc_creator_sm": "Kitchin, Thomas,",
+  "dc_creator_sm": [
+    "Kitchin, Thomas,"
+  ],
   "dc_description_s": "A map of the river Gambia from Eropina to Barrakunda",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "6t053j40v",
@@ -17,7 +19,9 @@
     "Gambia",
     "Gambia River"
   ],
-  "dct_temporal_sm": "1732",
+  "dct_temporal_sm": [
+    "1732"
+  ],
   "georss_box_s": "13.061 -17.0288253 13.826389 -13.7977779",
   "georss_polygon_s": "13.826389 -17.0288253 13.826389 -13.7977779 13.061 -13.7977779 13.061 -17.0288253 13.826389 -17.0288253",
   "solr_geom": "ENVELOPE(-17.0288253, -13.7977779, 13.826389, 13.061)",

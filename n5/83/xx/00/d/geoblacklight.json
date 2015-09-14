@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/n583xx00d",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Glassboro",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "n583xx00d",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Glassboro"
   ],
-  "dct_temporal_sm": "1900",
+  "dct_temporal_sm": [
+    "1900"
+  ],
   "georss_box_s": "39.678584 -75.168261 39.73739 -75.054785",
   "georss_polygon_s": "39.73739 -75.168261 39.73739 -75.054785 39.678584 -75.054785 39.678584 -75.168261 39.73739 -75.168261",
   "solr_geom": "ENVELOPE(-75.168261, -75.054785, 39.73739, 39.678584)",

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/k3569621b",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Ocean Grove",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "k3569621b",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Ocean Grove"
   ],
-  "dct_temporal_sm": "1890",
+  "dct_temporal_sm": [
+    "1890"
+  ],
   "georss_box_s": "40.2068759 -74.0160229 40.217172 -73.9984811",
   "georss_polygon_s": "40.217172 -74.0160229 40.217172 -73.9984811 40.2068759 -73.9984811 40.2068759 -74.0160229 40.217172 -74.0160229",
   "solr_geom": "ENVELOPE(-74.0160229, -73.9984811, 40.217172, 40.2068759)",

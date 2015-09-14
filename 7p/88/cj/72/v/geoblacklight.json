@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/7p88cj72v",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Acquackanonk",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "7p88cj72v",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Acquackanonk"
   ],
-  "dct_temporal_sm": "1916",
+  "dct_temporal_sm": [
+    "1916"
+  ],
   "georss_box_s": "40.849998 -74.195382 40.882954 -74.134215",
   "georss_polygon_s": "40.882954 -74.195382 40.882954 -74.134215 40.849998 -74.134215 40.849998 -74.195382 40.882954 -74.195382",
   "solr_geom": "ENVELOPE(-74.195382, -74.134215, 40.882954, 40.849998)",

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/37720f43n",
-  "dc_creator_sm": "Moll, Herman",
+  "dc_creator_sm": [
+    "Moll, Herman"
+  ],
   "dc_description_s": "This is a scanned map of the world from the Historical Map Collection of Princeton University's Rare Books department.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "37720f43n",
@@ -11,14 +13,14 @@
     "Maps--Early works to 1800",
     "World maps",
     "World map 1719",
-    "Administrative and political boundaries",
-    "HMC01.25 ",
-    "HMC01.26"
+    "Administrative and political boundaries"
   ],
   "dc_title_s": "A new & correct map of the whole world : shewing ye situation of its principal parts",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://geowebservices.princeton.edu/iiif/pulmap%2F37%2F72%2F0f%2F43%2Fn%2F00000001.jp2%2Finfo.json\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/37720f43n\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/37720f43n/fgdc.xml\"}",
-  "dct_spatial_sm": "World",
+  "dct_spatial_sm": [
+    "World"
+  ],
   "dct_issued_s": "1719",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "-90 -180 90 180",

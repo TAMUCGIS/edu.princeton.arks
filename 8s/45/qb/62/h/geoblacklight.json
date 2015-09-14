@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/8s45qb62h",
-  "dc_creator_sm": "Ptolemy,",
+  "dc_creator_sm": [
+    "Ptolemy,"
+  ],
   "dc_description_s": "Aphricae tabula I",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "8s45qb62h",
@@ -17,7 +19,9 @@
     "Africa, North",
     "Mauritania"
   ],
-  "dct_temporal_sm": "1540",
+  "dct_temporal_sm": [
+    "1540"
+  ],
   "georss_box_s": "3.4889804 -17.4573 37.5359 38.6938",
   "georss_polygon_s": "37.5359 -17.4573 37.5359 38.6938 3.4889804 38.6938 3.4889804 -17.4573 37.5359 -17.4573",
   "solr_geom": "ENVELOPE(-17.4573, 38.6938, 37.5359, 3.4889804)",

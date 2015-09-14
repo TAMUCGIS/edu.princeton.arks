@@ -12,8 +12,12 @@
   "layer_modified_dt": "2015-01-21T22:23:43Z",
   "dc_title_s": "Africa",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Africa",
-  "dct_temporal_sm": "1901",
+  "dct_spatial_sm": [
+    "Africa"
+  ],
+  "dct_temporal_sm": [
+    "1901"
+  ],
   "georss_box_s": "1.9999503 15.9999497 2.0000503 16.0000497",
   "georss_polygon_s": "2.0000503 15.9999497 2.0000503 16.0000497 1.9999503 16.0000497 1.9999503 15.9999497 2.0000503 15.9999497",
   "solr_geom": "ENVELOPE(15.9999497, 16.0000497, 2.0000503, 1.9999503)",

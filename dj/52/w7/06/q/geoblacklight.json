@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/dj52w706q",
-  "dc_creator_sm": "Bonne, Rigobert,",
+  "dc_creator_sm": [
+    "Bonne, Rigobert,"
+  ],
   "dc_description_s": "Carte de la partie nord, des Etats Unis, de l'Amérique septentrionale",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "dj52w706q",
@@ -17,7 +19,9 @@
     "Middle Atlantic States",
     "New England"
   ],
-  "dct_temporal_sm": "1780",
+  "dct_temporal_sm": [
+    "1780"
+  ],
   "georss_box_s": "38.0 -83.0 45.0 -67.0",
   "georss_polygon_s": "45.0 -83.0 45.0 -67.0 38.0 -67.0 38.0 -83.0 45.0 -83.0",
   "solr_geom": "ENVELOPE(-83.0, -67.0, 45.0, 38.0)",

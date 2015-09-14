@@ -20,8 +20,12 @@
   "layer_modified_dt": "2015-01-21T22:24:14Z",
   "dc_title_s": "A new and exact map of France : dividid into all its provinces and acquisitions, according to the newest observations, and that accurate survey made by the King's command by Mr. Picar and de la Hire, with the post roads and the computed leagues from town to town, the passes of the Pirenean Mountains, and many other remarcks &c.",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "France",
-  "dct_temporal_sm": "1723",
+  "dct_spatial_sm": [
+    "France"
+  ],
+  "dct_temporal_sm": [
+    "1723"
+  ],
   "georss_box_s": "-50.2187168 -178.3873748 51.268318 172.3057152",
   "georss_polygon_s": "51.268318 -178.3873748 51.268318 172.3057152 -50.2187168 172.3057152 -50.2187168 -178.3873748 51.268318 -178.3873748",
   "solr_geom": "ENVELOPE(-178.3873748, 172.3057152, 51.268318, -50.2187168)",

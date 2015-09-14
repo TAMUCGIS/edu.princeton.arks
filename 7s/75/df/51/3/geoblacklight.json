@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/7s75df513",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Hopatcong",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "7s75df513",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Hopatcong"
   ],
-  "dct_temporal_sm": "1917",
+  "dct_temporal_sm": [
+    "1917"
+  ],
   "georss_box_s": "40.910844 -74.697709 40.999481 -74.613751",
   "georss_polygon_s": "40.999481 -74.697709 40.999481 -74.613751 40.910844 -74.613751 40.910844 -74.697709 40.999481 -74.697709",
   "solr_geom": "ENVELOPE(-74.697709, -74.613751, 40.999481, 40.910844)",

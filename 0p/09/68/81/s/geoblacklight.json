@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/0p096881s",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of North Plainfield",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "0p096881s",
@@ -25,7 +27,9 @@
     "New Jersey",
     "North Plainfield"
   ],
-  "dct_temporal_sm": "1910",
+  "dct_temporal_sm": [
+    "1910"
+  ],
   "georss_box_s": "40.602216 -74.465242 40.641576 -74.413737",
   "georss_polygon_s": "40.641576 -74.465242 40.641576 -74.413737 40.602216 -74.413737 40.602216 -74.465242 40.641576 -74.465242",
   "solr_geom": "ENVELOPE(-74.465242, -74.413737, 40.641576, 40.602216)",

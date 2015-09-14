@@ -12,8 +12,12 @@
   "layer_modified_dt": "2015-01-19T22:37:38Z",
   "dc_title_s": "Map of north eastern China",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "China",
-  "dct_temporal_sm": "1900",
+  "dct_spatial_sm": [
+    "China"
+  ],
+  "dct_temporal_sm": [
+    "1900"
+  ],
   "georss_box_s": "30.0 112.0 42.0 124.0",
   "georss_polygon_s": "42.0 112.0 42.0 124.0 30.0 124.0 30.0 112.0 42.0 112.0",
   "solr_geom": "ENVELOPE(112.0, 124.0, 42.0, 30.0)",

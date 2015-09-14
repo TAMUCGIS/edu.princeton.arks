@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/d504rn47j",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Madison",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "d504rn47j",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Madison"
   ],
-  "dct_temporal_sm": "1931",
+  "dct_temporal_sm": [
+    "1931"
+  ],
   "georss_box_s": "40.739944 -74.444606 40.777214 -74.392166",
   "georss_polygon_s": "40.777214 -74.444606 40.777214 -74.392166 40.739944 -74.392166 40.739944 -74.444606 40.777214 -74.444606",
   "solr_geom": "ENVELOPE(-74.444606, -74.392166, 40.777214, 40.739944)",

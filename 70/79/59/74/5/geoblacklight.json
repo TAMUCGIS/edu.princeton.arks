@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/707959745",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Helmetta",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "707959745",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Helmetta"
   ],
-  "dct_temporal_sm": "1897",
+  "dct_temporal_sm": [
+    "1897"
+  ],
   "georss_box_s": "40.366424 -74.438595 40.38641 -74.409816",
   "georss_polygon_s": "40.38641 -74.438595 40.38641 -74.409816 40.366424 -74.409816 40.366424 -74.438595 40.38641 -74.438595",
   "solr_geom": "ENVELOPE(-74.438595, -74.409816, 40.38641, 40.366424)",

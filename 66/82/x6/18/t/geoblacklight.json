@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/6682x618t",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Peapack",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "6682x618t",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Peapack"
   ],
-  "dct_temporal_sm": "1932",
+  "dct_temporal_sm": [
+    "1932"
+  ],
   "georss_box_s": "40.694641 -74.682605 40.741111 -74.629274",
   "georss_polygon_s": "40.741111 -74.682605 40.741111 -74.629274 40.694641 -74.629274 40.694641 -74.682605 40.741111 -74.682605",
   "solr_geom": "ENVELOPE(-74.682605, -74.629274, 40.741111, 40.694641)",

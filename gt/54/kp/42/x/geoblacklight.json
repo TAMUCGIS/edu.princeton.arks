@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/gt54kp42x",
-  "dc_creator_sm": "Army Map Service",
+  "dc_creator_sm": [
+    "Army Map Service"
+  ],
   "dc_description_s": "This is a map of the city of Okayama, Taiwan, shown at a 1:10,000 scale. The map was created for use by War and Navy Department agencies during World War II.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "gt54kp42x",
@@ -16,13 +18,12 @@
     "City map",
     "Military",
     "Facilities and Structures",
-    "boundaries"
+    "Boundaries"
   ],
   "dc_title_s": "Okayama, Formosa (Taiwan), Takao-shu. A.M.S. L991.",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://geowebservices.princeton.edu/iiif/pulmap%2Fgt%2F54%2Fkp%2F42%2Fx%2F00000001.jp2%2Finfo.json\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/gt54kp42x\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/gt54kp42x/fgdc.xml\"}",
   "dct_spatial_sm": [
-    "G7914.K3C2.1945.A7M3",
     "Okayama",
     "Formosa",
     "Takao-shu",

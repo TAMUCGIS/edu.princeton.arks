@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/xk81jn408",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Pitman",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "xk81jn408",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Pitman"
   ],
-  "dct_temporal_sm": "1923",
+  "dct_temporal_sm": [
+    "1923"
+  ],
   "georss_box_s": "39.717914 -75.15006 39.749441 -75.113469",
   "georss_polygon_s": "39.749441 -75.15006 39.749441 -75.113469 39.717914 -75.113469 39.717914 -75.15006 39.749441 -75.15006",
   "solr_geom": "ENVELOPE(-75.15006, -75.113469, 39.749441, 39.717914)",

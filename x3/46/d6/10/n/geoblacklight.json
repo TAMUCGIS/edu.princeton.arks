@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/x346d610n",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Sea Isle City",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "x346d610n",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Sea Isle City"
   ],
-  "dct_temporal_sm": "1886",
+  "dct_temporal_sm": [
+    "1886"
+  ],
   "georss_box_s": "39.119489 -74.71746 39.183567 -74.669813",
   "georss_polygon_s": "39.183567 -74.71746 39.183567 -74.669813 39.119489 -74.669813 39.119489 -74.71746 39.183567 -74.71746",
   "solr_geom": "ENVELOPE(-74.71746, -74.669813, 39.183567, 39.119489)",

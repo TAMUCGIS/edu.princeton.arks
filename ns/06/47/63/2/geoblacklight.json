@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/ns0647632",
-  "dc_creator_sm": "Burghers, M.",
+  "dc_creator_sm": [
+    "Burghers, M."
+  ],
   "dc_description_s": "This is a scanned map of the world from the Historical Map Collection of Princeton University's Rare Books department.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "ns0647632",
@@ -11,14 +13,14 @@
     "Maps--Early works to 1800",
     "World maps",
     "World map 1700",
-    "Administrative and political boundaries",
-    "HMC01.23",
-    "HMC01.24 "
+    "Administrative and political boundaries"
   ],
   "dc_title_s": "A new map of the terraqueous globe according to the ancient discoveries and most general divisions of it into continents and oceans",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://geowebservices.princeton.edu/iiif/pulmap%2Fns%2F06%2F47%2F63%2F2%2F00000001.jp2%2Finfo.json\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/ns0647632\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/ns0647632/fgdc.xml\"}",
-  "dct_spatial_sm": "World",
+  "dct_spatial_sm": [
+    "World"
+  ],
   "dct_issued_s": "1700",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "-90 -180 90 180",

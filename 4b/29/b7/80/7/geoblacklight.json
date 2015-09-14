@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/4b29b7807",
-  "dc_creator_sm": "Raguin, Eugene",
+  "dc_creator_sm": [
+    "Raguin, Eugene"
+  ],
   "dc_description_s": "Carte geologique detaillee de la France [a 1/80 000]: Falaise.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "4b29b7807",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-19T22:36:37Z",
   "dc_title_s": "Carte geologique detaillee de la France [a 1/80 000]: Falaise.",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "France",
-  "dct_temporal_sm": "1946",
+  "dct_spatial_sm": [
+    "France"
+  ],
+  "dct_temporal_sm": [
+    "1946"
+  ],
   "georss_box_s": "48.75950 -0.73190 49.11910 0.14440",
   "georss_polygon_s": "49.11910 -0.73190 49.11910 0.14440 48.75950 0.14440 48.75950 -0.73190 49.11910 -0.73190",
   "solr_geom": "ENVELOPE(-0.73190, 0.14440, 49.11910, 48.75950)",

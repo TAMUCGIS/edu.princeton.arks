@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/1j92g9123",
-  "dc_creator_sm": "Unknown",
+  "dc_creator_sm": [
+    "Unknown"
+  ],
   "dc_description_s": "A scanned historical map shown at a scale of 1:62500.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "1j92g9123",
@@ -13,17 +15,13 @@
     "Contour",
     "Boundaries",
     "Administrative and political boundaries",
-    "imageryBaseMapsEarthCover"
+    "Imagery and Base Maps"
   ],
   "dc_title_s": "Vermont: Montpelier Quadrangle. [1921] ",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://geowebservices.princeton.edu/iiif/pulmap%2F1j%2F92%2Fg9%2F12%2F3%2F00000001.jp2%2Finfo.json\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/1j92g9123\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/1j92g9123/fgdc.xml\"}",
   "dct_spatial_sm": [
-    "Montpelier Quad.",
-    "Lamoille Co.",
-    "Washington Co.",
-    "Vermont",
-    "MC  G3751.C2.s62.U5G4 Montpelier"
+    "Vermont"
   ],
   "dct_issued_s": "1921",
   "dct_provenance_s": "Princeton",

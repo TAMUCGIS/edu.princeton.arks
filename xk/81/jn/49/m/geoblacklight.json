@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/xk81jn49m",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Old Bridge",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "xk81jn49m",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Old Bridge"
   ],
-  "dct_temporal_sm": "1910",
+  "dct_temporal_sm": [
+    "1910"
+  ],
   "georss_box_s": "40.4115806156 -74.37302869 40.4205217939 -74.3574217153",
   "georss_polygon_s": "40.4205217939 -74.37302869 40.4205217939 -74.3574217153 40.4115806156 -74.3574217153 40.4115806156 -74.37302869 40.4205217939 -74.37302869",
   "solr_geom": "ENVELOPE(-74.37302869, -74.3574217153, 40.4205217939, 40.4115806156)",

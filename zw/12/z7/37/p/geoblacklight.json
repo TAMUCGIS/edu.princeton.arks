@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/zw12z737p",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Secaucus",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "zw12z737p",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Secaucus"
   ],
-  "dct_temporal_sm": "1910",
+  "dct_temporal_sm": [
+    "1910"
+  ],
   "georss_box_s": "40.750371 -74.094039 40.806499 -74.033791",
   "georss_polygon_s": "40.806499 -74.094039 40.806499 -74.033791 40.750371 -74.033791 40.750371 -74.094039 40.806499 -74.094039",
   "solr_geom": "ENVELOPE(-74.094039, -74.033791, 40.806499, 40.750371)",

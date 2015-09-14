@@ -12,8 +12,12 @@
   "layer_modified_dt": "2015-01-21T22:23:55Z",
   "dc_title_s": "Map of the Territory of New Mexico",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "New Mexico",
-  "dct_temporal_sm": "1899",
+  "dct_spatial_sm": [
+    "New Mexico"
+  ],
+  "dct_temporal_sm": [
+    "1899"
+  ],
   "georss_box_s": "31.332301 -109.0501729 37.000139 -103.0008688",
   "georss_polygon_s": "37.000139 -109.0501729 37.000139 -103.0008688 31.332301 -103.0008688 31.332301 -109.0501729 37.000139 -109.0501729",
   "solr_geom": "ENVELOPE(-109.0501729, -103.0008688, 37.000139, 31.332301)",

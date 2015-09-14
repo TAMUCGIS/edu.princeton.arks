@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/j6731619w",
-  "dc_creator_sm": "Johnston, Lewis,",
+  "dc_creator_sm": [
+    "Johnston, Lewis,"
+  ],
   "dc_description_s": "Map of the Benson and Vredenburgh Farm",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "j6731619w",
@@ -14,10 +16,11 @@
   "dc_title_s": "Map of the Benson and Vredenburgh Farm",
   "dc_type_s": "Image",
   "dct_spatial_sm": [
-    "Manhattan (New York, N.Y.)",
-    "New York (N.Y.)"
+
   ],
-  "dct_temporal_sm": "1873",
+  "dct_temporal_sm": [
+    "1873"
+  ],
   "georss_box_s": "40.7702778 -73.9797222 40.8102778 -73.9397222",
   "georss_polygon_s": "40.8102778 -73.9797222 40.8102778 -73.9397222 40.7702778 -73.9397222 40.7702778 -73.9797222 40.8102778 -73.9797222",
   "solr_geom": "ENVELOPE(-73.9797222, -73.9397222, 40.8102778, 40.7702778)",

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/xs55mf59f",
-  "dc_creator_sm": "Sayer, Robert,",
+  "dc_creator_sm": [
+    "Sayer, Robert,"
+  ],
   "dc_description_s": "Course of the river Mississippi, from the Balise to Fort Chartres taken on an expedition to the Illinois, in the latter end of the year 1765 /",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "xs55mf59f",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-21T22:24:26Z",
   "dc_title_s": "Course of the river Mississippi, from the Balise to Fort Chartres taken on an expedition to the Illinois, in the latter end of the year 1765 /",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Mississippi River",
-  "dct_temporal_sm": "1775",
+  "dct_spatial_sm": [
+    "Mississippi River"
+  ],
+  "dct_temporal_sm": [
+    "1775"
+  ],
   "georss_box_s": "29.1470149 -91.6681703 39.0065849 -89.0943544",
   "georss_polygon_s": "39.0065849 -91.6681703 39.0065849 -89.0943544 29.1470149 -89.0943544 29.1470149 -91.6681703 39.0065849 -91.6681703",
   "solr_geom": "ENVELOPE(-91.6681703, -89.0943544, 39.0065849, 29.1470149)",

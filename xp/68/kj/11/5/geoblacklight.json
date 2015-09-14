@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/xp68kj115",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Ramsey",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "xp68kj115",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Ramsey"
   ],
-  "dct_temporal_sm": "1931",
+  "dct_temporal_sm": [
+    "1931"
+  ],
   "georss_box_s": "41.040506 -74.176283 41.077908 -74.114444",
   "georss_polygon_s": "41.077908 -74.176283 41.077908 -74.114444 41.040506 -74.114444 41.040506 -74.176283 41.077908 -74.176283",
   "solr_geom": "ENVELOPE(-74.176283, -74.114444, 41.077908, 41.040506)",

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/fn107083w",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Bordentown",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "fn107083w",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Bordentown"
   ],
-  "dct_temporal_sm": "1902",
+  "dct_temporal_sm": [
+    "1902"
+  ],
   "georss_box_s": "40.892961 -74.426537 40.917784 -74.383293",
   "georss_polygon_s": "40.917784 -74.426537 40.917784 -74.383293 40.892961 -74.383293 40.892961 -74.426537 40.917784 -74.426537",
   "solr_geom": "ENVELOPE(-74.426537, -74.383293, 40.917784, 40.892961)",

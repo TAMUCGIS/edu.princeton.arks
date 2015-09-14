@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/6108vd27q",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Woodbury",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "6108vd27q",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Woodbury"
   ],
-  "dct_temporal_sm": "1908",
+  "dct_temporal_sm": [
+    "1908"
+  ],
   "georss_box_s": "39.824056 -75.170823 39.855007 -75.135095",
   "georss_polygon_s": "39.855007 -75.170823 39.855007 -75.135095 39.824056 -75.135095 39.824056 -75.170823 39.855007 -75.170823",
   "solr_geom": "ENVELOPE(-75.170823, -75.135095, 39.855007, 39.824056)",

@@ -20,8 +20,12 @@
   "layer_modified_dt": "2015-01-19T22:37:16Z",
   "dc_title_s": "Carte des provinces unies des Pays Bas : tirée des cartes les plus correcte qui en ont eté faites sur les lieux : rectifieés par les observations et operations geometriques de Snellius et par celles que Mr. Cassini y a faites en dernier lieu",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Netherlands",
-  "dct_temporal_sm": "1730",
+  "dct_spatial_sm": [
+    "Netherlands"
+  ],
+  "dct_temporal_sm": [
+    "1730"
+  ],
   "georss_box_s": "51.0 3.0 54.0 8.0",
   "georss_polygon_s": "54.0 3.0 54.0 8.0 51.0 8.0 51.0 3.0 54.0 3.0",
   "solr_geom": "ENVELOPE(3.0, 8.0, 54.0, 51.0)",

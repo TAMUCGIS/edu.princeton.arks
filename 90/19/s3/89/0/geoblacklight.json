@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/9019s3890",
-  "dc_creator_sm": "Army Map Service",
+  "dc_creator_sm": [
+    "Army Map Service"
+  ],
   "dc_description_s": "This is a map of the city of Tientsin, China ,shown at a 1:12,500 scale. The map was created for use by War and Navy Department agencies during World War II.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "9019s3890",
@@ -16,13 +18,12 @@
     "City map",
     "Military",
     "Facilities and Structures",
-    "boundaries"
+    "Boundaries"
   ],
   "dc_title_s": "Plan of Tientsin. A.M.S. L901 (G.S.G.S. 3959).",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://geowebservices.princeton.edu/iiif/pulmap%2F90%2F19%2Fs3%2F89%2F0%2F00000001.jp2%2Finfo.json\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/9019s3890\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/9019s3890/fgdc.xml\"}",
   "dct_spatial_sm": [
-    "MAX G7824.T5.1945.A7M3",
     "Tientsin",
     "Tianjin",
     "China"

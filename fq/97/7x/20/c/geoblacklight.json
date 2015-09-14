@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/fq977x20c",
-  "dc_creator_sm": "Burr, Edward,",
+  "dc_creator_sm": [
+    "Burr, Edward,"
+  ],
   "dc_description_s": "Map illustrating the military operations of the Atlanta campaign",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "fq977x20c",
@@ -17,7 +19,9 @@
     "United States",
     "Georgia"
   ],
-  "dct_temporal_sm": "1874",
+  "dct_temporal_sm": [
+    "1874"
+  ],
   "georss_box_s": "-14.7608357 -179.9999999 71.6048217 180",
   "georss_polygon_s": "71.6048217 -179.9999999 71.6048217 180 -14.7608357 180 -14.7608357 -179.9999999 71.6048217 -179.9999999",
   "solr_geom": "ENVELOPE(-179.9999999, 180, 71.6048217, -14.7608357)",

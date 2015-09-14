@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/r494vn356",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Passaic",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "r494vn356",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Passaic"
   ],
-  "dct_temporal_sm": "1910",
+  "dct_temporal_sm": [
+    "1910"
+  ],
   "georss_box_s": "40.834098 -74.146704 40.876812 -74.106786",
   "georss_polygon_s": "40.876812 -74.146704 40.876812 -74.106786 40.834098 -74.106786 40.834098 -74.146704 40.876812 -74.146704",
   "solr_geom": "ENVELOPE(-74.146704, -74.106786, 40.876812, 40.834098)",

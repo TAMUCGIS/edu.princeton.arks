@@ -12,8 +12,12 @@
   "layer_modified_dt": "2015-01-19T22:37:25Z",
   "dc_title_s": "Central Pacific [ocean saltness]",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Pacific Ocean",
-  "dct_temporal_sm": "1877",
+  "dct_spatial_sm": [
+    "Pacific Ocean"
+  ],
+  "dct_temporal_sm": [
+    "1877"
+  ],
   "georss_box_s": "-40.00000 -160.00000 38.00000 -150.00000",
   "georss_polygon_s": "38.00000 -160.00000 38.00000 -150.00000 -40.00000 -150.00000 -40.00000 -160.00000 38.00000 -160.00000",
   "solr_geom": "ENVELOPE(-160.00000, -150.00000, 38.00000, -40.00000)",

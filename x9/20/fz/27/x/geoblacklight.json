@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/x920fz27x",
-  "dc_creator_sm": "Adam and Charles Black (Firm) ",
+  "dc_creator_sm": [
+    "Adam and Charles Black (Firm) "
+  ],
   "dc_description_s": "This is a scanned map of the world from the Historical Map Collection of Princeton University's Rare Books department.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "x920fz27x",
@@ -11,13 +13,14 @@
     "Physical geography",
     "Rivers",
     "Mountains",
-    "Geological maps 1854",
-    "HMC01.3609 "
+    "Geological maps 1854"
   ],
   "dc_title_s": "Physical geography [cartographic material] / Geo. Aikman sculpt. ",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://geowebservices.princeton.edu/iiif/pulmap%2Fx9%2F20%2Ffz%2F27%2Fx%2F00000001.jp2%2Finfo.json\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/x920fz27x\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/x920fz27x/fgdc.xml\"}",
-  "dct_spatial_sm": "World",
+  "dct_spatial_sm": [
+    "World"
+  ],
   "dct_issued_s": "1854",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "-90 -180 90 180",

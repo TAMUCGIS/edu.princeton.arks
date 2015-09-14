@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/37720f58h",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Neptune City",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "37720f58h",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Neptune City"
   ],
-  "dct_temporal_sm": "1890",
+  "dct_temporal_sm": [
+    "1890"
+  ],
   "georss_box_s": "40.190983 -74.051786 40.20741 -74.019739",
   "georss_polygon_s": "40.20741 -74.051786 40.20741 -74.019739 40.190983 -74.019739 40.190983 -74.051786 40.20741 -74.051786",
   "solr_geom": "ENVELOPE(-74.051786, -74.019739, 40.20741, 40.190983)",

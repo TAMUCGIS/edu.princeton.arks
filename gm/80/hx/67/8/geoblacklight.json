@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/gm80hx678",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Stewartsville",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "gm80hx678",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Stewartsville"
   ],
-  "dct_temporal_sm": "1924",
+  "dct_temporal_sm": [
+    "1924"
+  ],
   "georss_box_s": "40.67371 -75.131007 40.71371 -75.091007",
   "georss_polygon_s": "40.71371 -75.131007 40.71371 -75.091007 40.67371 -75.091007 40.67371 -75.131007 40.71371 -75.131007",
   "solr_geom": "ENVELOPE(-75.131007, -75.091007, 40.71371, 40.67371)",

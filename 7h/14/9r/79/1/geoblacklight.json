@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/7h149r791",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Teaneck",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "7h149r791",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Teaneck"
   ],
-  "dct_temporal_sm": "1929",
+  "dct_temporal_sm": [
+    "1929"
+  ],
   "georss_box_s": "40.859899 -74.036556 40.917079 -73.98739",
   "georss_polygon_s": "40.917079 -74.036556 40.917079 -73.98739 40.859899 -73.98739 40.859899 -74.036556 40.917079 -74.036556",
   "solr_geom": "ENVELOPE(-74.036556, -73.98739, 40.917079, 40.859899)",

@@ -16,8 +16,12 @@
   "layer_modified_dt": "2015-01-19T22:36:53Z",
   "dc_title_s": "A map of Turkey in Asia : containing the countries of Anadoli, Carman, Roum, Georgia Armenia, Kurdistan, Algezira, Syria, &c. /",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Turkey",
-  "dct_temporal_sm": "1774",
+  "dct_spatial_sm": [
+    "Turkey"
+  ],
+  "dct_temporal_sm": [
+    "1774"
+  ],
   "georss_box_s": "28.0 23.0 47.0 58.0",
   "georss_polygon_s": "47.0 23.0 47.0 58.0 28.0 58.0 28.0 23.0 47.0 23.0",
   "solr_geom": "ENVELOPE(23.0, 58.0, 47.0, 28.0)",

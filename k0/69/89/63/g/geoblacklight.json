@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/k0698963g",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Lincoln Park",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "k0698963g",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Lincoln Park"
   ],
-  "dct_temporal_sm": "1937",
+  "dct_temporal_sm": [
+    "1937"
+  ],
   "georss_box_s": "40.894906 -74.341063 40.953005 -74.266638",
   "georss_polygon_s": "40.953005 -74.341063 40.953005 -74.266638 40.894906 -74.266638 40.894906 -74.341063 40.953005 -74.341063",
   "solr_geom": "ENVELOPE(-74.341063, -74.266638, 40.953005, 40.894906)",

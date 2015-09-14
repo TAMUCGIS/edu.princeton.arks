@@ -12,8 +12,12 @@
   "layer_modified_dt": "2015-01-19T22:37:18Z",
   "dc_title_s": "Map of ancient sites of Iraq",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Iraq",
-  "dct_temporal_sm": "1889",
+  "dct_spatial_sm": [
+    "Iraq"
+  ],
+  "dct_temporal_sm": [
+    "1889"
+  ],
   "georss_box_s": "29.0 40.0 38.0 49.0",
   "georss_polygon_s": "38.0 40.0 38.0 49.0 29.0 49.0 29.0 40.0 38.0 40.0",
   "solr_geom": "ENVELOPE(40.0, 49.0, 38.0, 29.0)",

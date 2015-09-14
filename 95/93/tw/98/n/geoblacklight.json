@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/9593tw98n",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Loch Arbour",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "9593tw98n",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Loch Arbour"
   ],
-  "dct_temporal_sm": "1890",
+  "dct_temporal_sm": [
+    "1890"
+  ],
   "georss_box_s": "40.757596 -74.377517 40.818416 -74.280592",
   "georss_polygon_s": "40.818416 -74.377517 40.818416 -74.280592 40.757596 -74.280592 40.757596 -74.377517 40.818416 -74.377517",
   "solr_geom": "ENVELOPE(-74.377517, -74.280592, 40.818416, 40.757596)",

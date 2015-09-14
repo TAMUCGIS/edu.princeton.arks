@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/jq085n15j",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Midvale",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "jq085n15j",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Midvale"
   ],
-  "dct_temporal_sm": "1914",
+  "dct_temporal_sm": [
+    "1914"
+  ],
   "georss_box_s": "41.031486 -74.30876 41.071486 -74.26876",
   "georss_polygon_s": "41.071486 -74.30876 41.071486 -74.26876 41.031486 -74.26876 41.031486 -74.30876 41.071486 -74.30876",
   "solr_geom": "ENVELOPE(-74.30876, -74.26876, 41.071486, 41.031486)",

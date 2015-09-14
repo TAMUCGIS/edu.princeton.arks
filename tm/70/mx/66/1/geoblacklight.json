@@ -16,8 +16,12 @@
   "layer_modified_dt": "2015-01-19T22:37:27Z",
   "dc_title_s": "Carte des Iles Britanniques, comprenant l'Angleterre, l'Écosse et l'Irlande",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Great Britain",
-  "dct_temporal_sm": "1855",
+  "dct_spatial_sm": [
+    "Great Britain"
+  ],
+  "dct_temporal_sm": [
+    "1855"
+  ],
   "georss_box_s": "49.0 -12.0 61.0 3.0",
   "georss_polygon_s": "61.0 -12.0 61.0 3.0 49.0 3.0 49.0 -12.0 61.0 -12.0",
   "solr_geom": "ENVELOPE(-12.0, 3.0, 61.0, 49.0)",

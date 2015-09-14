@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/44558g687",
-  "dc_creator_sm": "Ptolemy,",
+  "dc_creator_sm": [
+    "Ptolemy,"
+  ],
   "dc_description_s": "Tabula Asiae XI",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "44558g687",
@@ -18,7 +20,9 @@
     "India",
     "Thailand"
   ],
-  "dct_temporal_sm": "1540",
+  "dct_temporal_sm": [
+    "1540"
+  ],
   "georss_box_s": "-11.1083 92.171808 28.5478351 141.0425",
   "georss_polygon_s": "28.5478351 92.171808 28.5478351 141.0425 -11.1083 141.0425 -11.1083 92.171808 28.5478351 92.171808",
   "solr_geom": "ENVELOPE(92.171808, 141.0425, 28.5478351, -11.1083)",

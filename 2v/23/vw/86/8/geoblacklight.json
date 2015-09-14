@@ -17,8 +17,12 @@
   "layer_modified_dt": "2015-01-25T02:06:14Z",
   "dc_title_s": "Tabula Europae I",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Great Britain",
-  "dct_temporal_sm": "1540",
+  "dct_spatial_sm": [
+    "Great Britain"
+  ],
+  "dct_temporal_sm": [
+    "1540"
+  ],
   "georss_box_s": "49.674 -14.0155169 61.061 2.0919117",
   "georss_polygon_s": "61.061 -14.0155169 61.061 2.0919117 49.674 2.0919117 49.674 -14.0155169 61.061 -14.0155169",
   "solr_geom": "ENVELOPE(-14.0155169, 2.0919117, 61.061, 49.674)",

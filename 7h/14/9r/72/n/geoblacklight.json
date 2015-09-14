@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/7h149r72n",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Allentown",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "7h149r72n",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Allentown"
   ],
-  "dct_temporal_sm": "1910",
+  "dct_temporal_sm": [
+    "1910"
+  ],
   "georss_box_s": "40.172209 -74.598753 40.185171 -74.576843",
   "georss_polygon_s": "40.185171 -74.598753 40.185171 -74.576843 40.172209 -74.576843 40.172209 -74.598753 40.185171 -74.598753",
   "solr_geom": "ENVELOPE(-74.598753, -74.576843, 40.185171, 40.172209)",

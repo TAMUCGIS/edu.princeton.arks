@@ -16,8 +16,12 @@
   "layer_modified_dt": "2015-01-19T22:36:54Z",
   "dc_title_s": "L'Amérique Septentrionale : dressée sur les observations de Mrs. de l'Academie royale des sciences & quelques autres, & sur les memoires les plus recens",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "North America",
-  "dct_temporal_sm": "1742",
+  "dct_spatial_sm": [
+    "North America"
+  ],
+  "dct_temporal_sm": [
+    "1742"
+  ],
   "georss_box_s": "7.0 -125.0 79.0 -24.0",
   "georss_polygon_s": "79.0 -125.0 79.0 -24.0 7.0 -24.0 7.0 -125.0 79.0 -125.0",
   "solr_geom": "ENVELOPE(-125.0, -24.0, 79.0, 7.0)",

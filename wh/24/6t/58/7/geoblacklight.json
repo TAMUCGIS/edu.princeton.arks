@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/wh246t587",
-  "dc_creator_sm": "Valck, G. (Gerard)",
+  "dc_creator_sm": [
+    "Valck, G. (Gerard)"
+  ],
   "dc_description_s": "This is a scanned map of the world from the Historical Map Collection of Princeton University's Rare Books department.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "wh246t587",
@@ -11,13 +13,14 @@
     "Maps--Early works to 1800",
     "World maps",
     "World map 1700",
-    "Administrative and political boundaries",
-    "HMC01.34 "
+    "Administrative and political boundaries"
   ],
   "dc_title_s": "Mappe-monde geo-hydrographique, ou, Description générale du globe terrestre et aquatique en deux-plans-hemishpheres ",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://geowebservices.princeton.edu/iiif/pulmap%2Fwh%2F24%2F6t%2F58%2F7%2F00000001.jp2%2Finfo.json\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/wh246t587\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/wh246t587/fgdc.xml\"}",
-  "dct_spatial_sm": "World",
+  "dct_spatial_sm": [
+    "World"
+  ],
   "dct_issued_s": "1700",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "-90 -180 90 180",

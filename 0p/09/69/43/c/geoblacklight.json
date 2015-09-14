@@ -12,8 +12,12 @@
   "layer_modified_dt": "2015-01-19T22:37:35Z",
   "dc_title_s": "Mexico",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Mexico",
-  "dct_temporal_sm": "1859",
+  "dct_spatial_sm": [
+    "Mexico"
+  ],
+  "dct_temporal_sm": [
+    "1859"
+  ],
   "georss_box_s": "15.0 -116.0 33.0 -86.0",
   "georss_polygon_s": "33.0 -116.0 33.0 -86.0 15.0 -86.0 15.0 -116.0 33.0 -116.0",
   "solr_geom": "ENVELOPE(-116.0, -86.0, 33.0, 15.0)",

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/6108vd680",
-  "dc_creator_sm": "Blaeu, Joan,",
+  "dc_creator_sm": [
+    "Blaeu, Joan,"
+  ],
   "dc_description_s": "Corfu, ville de la Republique de Venise, dans la Dalmatie",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "6108vd680",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-21T22:24:02Z",
   "dc_title_s": "Corfu, ville de la Republique de Venise, dans la Dalmatie",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Kerkyra (Greece)",
-  "dct_temporal_sm": "1724",
+  "dct_spatial_sm": [
+    "Kerkyra (Greece)"
+  ],
+  "dct_temporal_sm": [
+    "1724"
+  ],
   "georss_box_s": "39.464247 19.7610427 39.784247 20.0810427",
   "georss_polygon_s": "39.784247 19.7610427 39.784247 20.0810427 39.464247 20.0810427 39.464247 19.7610427 39.784247 19.7610427",
   "solr_geom": "ENVELOPE(19.7610427, 20.0810427, 39.784247, 39.464247)",

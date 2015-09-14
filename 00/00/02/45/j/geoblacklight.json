@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/00000245j",
-  "dc_creator_sm": "Michler, N.",
+  "dc_creator_sm": [
+    "Michler, N."
+  ],
   "dc_description_s": "Appomattox Court House",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "00000245j",
@@ -14,10 +16,11 @@
   "dc_title_s": "Appomattox Court House",
   "dc_type_s": "Image",
   "dct_spatial_sm": [
-    "Appomattox County (Va.)",
     "United States"
   ],
-  "dct_temporal_sm": "1867",
+  "dct_temporal_sm": [
+    "1867"
+  ],
   "georss_box_s": "37.198151 -79.0227659 37.557735 -78.5942602",
   "georss_polygon_s": "37.557735 -79.0227659 37.557735 -78.5942602 37.198151 -78.5942602 37.198151 -79.0227659 37.557735 -79.0227659",
   "solr_geom": "ENVELOPE(-79.0227659, -78.5942602, 37.557735, 37.198151)",

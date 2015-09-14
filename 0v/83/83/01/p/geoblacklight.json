@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/0v838301p",
-  "dc_creator_sm": "Robertson, William,",
+  "dc_creator_sm": [
+    "Robertson, William,"
+  ],
   "dc_description_s": "Carta de' paesi situati sul Mare del Sud da Panama fino a Guajaquil : perchè serva alla Storia dell' America del Sigr. Robertson",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "0v838301p",
@@ -18,7 +20,9 @@
     "Colombia",
     "Ecuador"
   ],
-  "dct_temporal_sm": "1822",
+  "dct_temporal_sm": [
+    "1822"
+  ],
   "georss_box_s": "7.0338679 -83.0517244 9.8701757 -77.1393778",
   "georss_polygon_s": "9.8701757 -83.0517244 9.8701757 -77.1393778 7.0338679 -77.1393778 7.0338679 -83.0517244 9.8701757 -83.0517244",
   "solr_geom": "ENVELOPE(-83.0517244, -77.1393778, 9.8701757, 7.0338679)",

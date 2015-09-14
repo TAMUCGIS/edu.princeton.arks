@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/02870x892",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Westville",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "02870x892",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Westville"
   ],
-  "dct_temporal_sm": "1915",
+  "dct_temporal_sm": [
+    "1915"
+  ],
   "georss_box_s": "39.856054 -75.141891 39.881931 -75.1128",
   "georss_polygon_s": "39.881931 -75.141891 39.881931 -75.1128 39.856054 -75.1128 39.856054 -75.141891 39.881931 -75.141891",
   "solr_geom": "ENVELOPE(-75.141891, -75.1128, 39.881931, 39.856054)",

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/0z708z97f",
-  "dc_creator_sm": "Woerl, Leo,",
+  "dc_creator_sm": [
+    "Woerl, Leo,"
+  ],
   "dc_description_s": "Helmstedt",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "0z708z97f",
@@ -17,7 +19,9 @@
     "Helmstedt (Germany)",
     "Lower Saxony (Germany)"
   ],
-  "dct_temporal_sm": "1843",
+  "dct_temporal_sm": [
+    "1843"
+  ],
   "georss_box_s": "52.1754 10.9118835 52.2872682 11.0723671",
   "georss_polygon_s": "52.2872682 10.9118835 52.2872682 11.0723671 52.1754 11.0723671 52.1754 10.9118835 52.2872682 10.9118835",
   "solr_geom": "ENVELOPE(10.9118835, 11.0723671, 52.2872682, 52.1754)",

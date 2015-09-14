@@ -12,8 +12,12 @@
   "layer_modified_dt": "2015-01-19T22:37:12Z",
   "dc_title_s": "National highways map of the United States showing one hundred fifty thousand miles of national highways proposed by the National Highways Association",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "United States",
-  "dct_temporal_sm": "1918",
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "1918"
+  ],
   "georss_box_s": "25.0 -125.0 49.0 -67.0",
   "georss_polygon_s": "49.0 -125.0 49.0 -67.0 25.0 -67.0 25.0 -125.0 49.0 -125.0",
   "solr_geom": "ENVELOPE(-125.0, -67.0, 49.0, 25.0)",

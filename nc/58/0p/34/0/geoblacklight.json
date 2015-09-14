@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/nc580p340",
-  "dc_creator_sm": "Army Map Service",
+  "dc_creator_sm": [
+    "Army Map Service"
+  ],
   "dc_description_s": "This is a map of the city of Aparri in the Philippines, shown at a 1:25,000 scale. The map was created for use by War and Navy Department agencies during World War II.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "nc580p340",
@@ -22,10 +24,7 @@
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://geowebservices.princeton.edu/iiif/pulmap%2Fnc%2F58%2F0p%2F34%2F0%2F00000001.jp2%2Finfo.json\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/nc580p340\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/nc580p340/fgdc.xml\"}",
   "dct_spatial_sm": [
     "Aparri",
-    "Cagayan Prov. ",
-    "Luzon I. ",
-    "Philippines",
-    "G8064.A639C2.1944.A7M3"
+    "Philippines"
   ],
   "dct_issued_s": "1944",
   "dct_provenance_s": "Princeton",

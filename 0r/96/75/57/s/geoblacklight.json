@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/0r967557s",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of White Horse",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "0r967557s",
@@ -25,7 +27,9 @@
     "New Jersey",
     "White Horse"
   ],
-  "dct_temporal_sm": "1908",
+  "dct_temporal_sm": [
+    "1908"
+  ],
   "georss_box_s": "40.170665 -74.722382 40.210665 -74.682382",
   "georss_polygon_s": "40.210665 -74.722382 40.210665 -74.682382 40.170665 -74.682382 40.170665 -74.722382 40.210665 -74.722382",
   "solr_geom": "ENVELOPE(-74.722382, -74.682382, 40.210665, 40.170665)",

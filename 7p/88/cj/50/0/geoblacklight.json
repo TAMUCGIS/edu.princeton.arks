@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/7p88cj500",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Milburn",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "7p88cj500",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Milburn"
   ],
-  "dct_temporal_sm": "1895",
+  "dct_temporal_sm": [
+    "1895"
+  ],
   "georss_box_s": "40.7133 -74.37256 40.760868 -74.28549",
   "georss_polygon_s": "40.760868 -74.37256 40.760868 -74.28549 40.7133 -74.28549 40.7133 -74.37256 40.760868 -74.37256",
   "solr_geom": "ENVELOPE(-74.37256, -74.28549, 40.760868, 40.7133)",

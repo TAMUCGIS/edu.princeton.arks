@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/ns0648048",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Bloomfield",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "ns0648048",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Bloomfield"
   ],
-  "dct_temporal_sm": "1938",
+  "dct_temporal_sm": [
+    "1938"
+  ],
   "georss_box_s": "40.768048 -74.21189 40.848799 -74.162628",
   "georss_polygon_s": "40.848799 -74.21189 40.848799 -74.162628 40.768048 -74.162628 40.768048 -74.21189 40.848799 -74.21189",
   "solr_geom": "ENVELOPE(-74.21189, -74.162628, 40.848799, 40.768048)",

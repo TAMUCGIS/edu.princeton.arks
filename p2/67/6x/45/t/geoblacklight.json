@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/p2676x45t",
-  "dc_creator_sm": "Aikman, George,",
+  "dc_creator_sm": [
+    "Aikman, George,"
+  ],
   "dc_description_s": "Turkey in Asia",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "p2676x45t",
@@ -18,7 +20,9 @@
     "Turkey",
     "Middle East"
   ],
-  "dct_temporal_sm": "1854",
+  "dct_temporal_sm": [
+    "1854"
+  ],
   "georss_box_s": "32.5308163633 44.406204663 32.5539905253 44.4384283804",
   "georss_polygon_s": "32.5539905253 44.406204663 32.5539905253 44.4384283804 32.5308163633 44.4384283804 32.5308163633 44.406204663 32.5539905253 44.406204663",
   "solr_geom": "ENVELOPE(44.406204663, 44.4384283804, 32.5539905253, 32.5308163633)",

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/q811km32n",
-  "dc_creator_sm": "Hopkins, Griffith Morgan",
+  "dc_creator_sm": [
+    "Hopkins, Griffith Morgan"
+  ],
   "dc_description_s": "A scanned historical New Jersey Geological Survey map shown at a scale of 1:126,720.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "q811km32n",
@@ -13,7 +15,7 @@
     "Stratigraphy",
     "Geology",
     "Railroad Stations",
-    "geoscientificInformation",
+    "Geoscientific Information",
     "Administrative and political boundaries"
   ],
   "dc_title_s": "Cretaceous formation: including the green-sand marl beds. (Sheet 1)",
@@ -21,19 +23,12 @@
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://geowebservices.princeton.edu/iiif/pulmap%2Fq8%2F11%2Fkm%2F32%2Fn%2F00000001.jp2%2Finfo.json\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/q811km32n\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/q811km32n/fgdc.xml\"}",
   "dct_spatial_sm": [
     "Alloways Creek",
-    "Salem Co.",
     "Raritan Bay",
-    "Gloucester Co.",
-    "Camden Co.",
-    "Burlington Co.",
-    "Mercer co.",
-    "Middlesex Co.",
     "Southwest and central New Jersey",
     "Staten Island",
     "New York",
     "Northeast Delaware",
-    "Southeast Pennsylvania",
-    "MC  G3811.C5.1866.N4J4"
+    "Southeast Pennsylvania"
   ],
   "dct_issued_s": "1866",
   "dct_provenance_s": "Princeton",

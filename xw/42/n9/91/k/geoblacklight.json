@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/xw42n991k",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Caldwell",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "xw42n991k",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Caldwell"
   ],
-  "dct_temporal_sm": "1934",
+  "dct_temporal_sm": [
+    "1934"
+  ],
   "georss_box_s": "40.98419 -74.367129 41.014161 -74.32879",
   "georss_polygon_s": "41.014161 -74.367129 41.014161 -74.32879 40.98419 -74.32879 40.98419 -74.367129 41.014161 -74.367129",
   "solr_geom": "ENVELOPE(-74.367129, -74.32879, 41.014161, 40.98419)",

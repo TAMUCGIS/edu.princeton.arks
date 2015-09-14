@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/9g54xk57c",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Wyckoff Township",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "9g54xk57c",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Wyckoff Township"
   ],
-  "dct_temporal_sm": "1932",
+  "dct_temporal_sm": [
+    "1932"
+  ],
   "georss_box_s": "40.971137 -74.191843 41.02585 -74.137536",
   "georss_polygon_s": "41.02585 -74.191843 41.02585 -74.137536 40.971137 -74.137536 40.971137 -74.191843 41.02585 -74.191843",
   "solr_geom": "ENVELOPE(-74.191843, -74.137536, 41.02585, 40.971137)",

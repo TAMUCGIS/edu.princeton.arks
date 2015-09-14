@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/fj236395p",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Norwood Park",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "fj236395p",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Norwood Park"
   ],
-  "dct_temporal_sm": "1907",
+  "dct_temporal_sm": [
+    "1907"
+  ],
   "georss_box_s": "40.976957 -73.970648 41.011672 -73.925991",
   "georss_polygon_s": "41.011672 -73.970648 41.011672 -73.925991 40.976957 -73.925991 40.976957 -73.970648 41.011672 -73.970648",
   "solr_geom": "ENVELOPE(-73.970648, -73.925991, 41.011672, 40.976957)",

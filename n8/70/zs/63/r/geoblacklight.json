@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/n870zs63r",
-  "dc_creator_sm": "De-Launay, Louis",
+  "dc_creator_sm": [
+    "De-Launay, Louis"
+  ],
   "dc_description_s": "Carte geolgique de la France a 1/80,000; Verdun.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "n870zs63r",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-19T22:36:37Z",
   "dc_title_s": "Carte geolgique de la France a 1/80,000; Verdun.",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "France",
-  "dct_temporal_sm": "1934",
+  "dct_spatial_sm": [
+    "France"
+  ],
+  "dct_temporal_sm": [
+    "1934"
+  ],
   "georss_box_s": "49.11910 4.53000 49.47880 5.40630",
   "georss_polygon_s": "49.47880 4.53000 49.47880 5.40630 49.11910 5.40630 49.11910 4.53000 49.47880 4.53000",
   "solr_geom": "ENVELOPE(4.53000, 5.40630, 49.47880, 49.11910)",

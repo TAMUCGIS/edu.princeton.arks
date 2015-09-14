@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/1544br45v",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Bay Head",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "1544br45v",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Bay Head"
   ],
-  "dct_temporal_sm": "1905",
+  "dct_temporal_sm": [
+    "1905"
+  ],
   "georss_box_s": "40.058016 -74.055266 40.080325 -74.040706",
   "georss_polygon_s": "40.080325 -74.055266 40.080325 -74.040706 40.058016 -74.040706 40.058016 -74.055266 40.080325 -74.055266",
   "solr_geom": "ENVELOPE(-74.055266, -74.040706, 40.080325, 40.058016)",

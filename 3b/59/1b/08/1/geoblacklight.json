@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/3b591b081",
-  "dc_creator_sm": "Army Map Service",
+  "dc_creator_sm": [
+    "Army Map Service"
+  ],
   "dc_description_s": "This is a map of the city of Rokko, Taiwan, shown at a 1:6,000 scale. The map was created for use by War and Navy Department agencies during World War II.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "3b591b081",
@@ -16,13 +18,12 @@
     "City map",
     "Military",
     "Facilities and Structures",
-    "boundaries"
+    "Boundaries"
   ],
   "dc_title_s": "Rokko, Formosa (Taiwan), Taichu-shu. A.M.S. L991.",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://geowebservices.princeton.edu/iiif/pulmap%2F3b%2F59%2F1b%2F08%2F1%2F00000001.jp2%2Finfo.json\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/3b591b081\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/3b591b081/fgdc.xml\"}",
   "dct_spatial_sm": [
-    "G7914.H75C1.1944.A7M3",
     "Rokko",
     "Formosa",
     "Hsi-chuang",

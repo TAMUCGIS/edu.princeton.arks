@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/gt54kp97k",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Port Norris",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "gt54kp97k",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Port Norris"
   ],
-  "dct_temporal_sm": "1920",
+  "dct_temporal_sm": [
+    "1920"
+  ],
   "georss_box_s": "39.22453 -75.065725 39.252755 -75.010814",
   "georss_polygon_s": "39.252755 -75.065725 39.252755 -75.010814 39.22453 -75.010814 39.22453 -75.065725 39.252755 -75.065725",
   "solr_geom": "ENVELOPE(-75.065725, -75.010814, 39.252755, 39.22453)",

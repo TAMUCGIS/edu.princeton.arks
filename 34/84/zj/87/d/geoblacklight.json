@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/3484zj87d",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Vineland",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "3484zj87d",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Vineland"
   ],
-  "dct_temporal_sm": "1925",
+  "dct_temporal_sm": [
+    "1925"
+  ],
   "georss_box_s": "39.377715 -75.087129 39.568643 -74.896626",
   "georss_polygon_s": "39.568643 -75.087129 39.568643 -74.896626 39.377715 -74.896626 39.377715 -75.087129 39.568643 -75.087129",
   "solr_geom": "ENVELOPE(-75.087129, -74.896626, 39.568643, 39.377715)",

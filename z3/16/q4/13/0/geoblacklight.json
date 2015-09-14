@@ -12,8 +12,12 @@
   "layer_modified_dt": "2015-01-23T17:48:39Z",
   "dc_title_s": "Rand McNally & Co.'s indexed atlas of the world map of Mexico",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Mexico",
-  "dct_temporal_sm": "1891",
+  "dct_spatial_sm": [
+    "Mexico"
+  ],
+  "dct_temporal_sm": [
+    "1891"
+  ],
   "georss_box_s": "16.0 -116.0 32.0 -86.0",
   "georss_polygon_s": "32.0 -116.0 32.0 -86.0 16.0 -86.0 16.0 -116.0 32.0 -116.0",
   "solr_geom": "ENVELOPE(-116.0, -86.0, 32.0, 16.0)",

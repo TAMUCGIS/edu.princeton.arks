@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/c247dv027",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Middle Township",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "c247dv027",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Middle Township"
   ],
-  "dct_temporal_sm": "1909",
+  "dct_temporal_sm": [
+    "1909"
+  ],
   "georss_box_s": "38.983276 -74.935323 39.179118 -74.716263",
   "georss_polygon_s": "39.179118 -74.935323 39.179118 -74.716263 38.983276 -74.716263 38.983276 -74.935323 39.179118 -74.935323",
   "solr_geom": "ENVELOPE(-74.935323, -74.716263, 39.179118, 38.983276)",

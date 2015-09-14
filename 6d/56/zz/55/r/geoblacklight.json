@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/6d56zz55r",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Wildwood",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "6d56zz55r",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Wildwood"
   ],
-  "dct_temporal_sm": "1909",
+  "dct_temporal_sm": [
+    "1909"
+  ],
   "georss_box_s": "38.976884 -74.833461 38.998783 -74.801896",
   "georss_polygon_s": "38.998783 -74.833461 38.998783 -74.801896 38.976884 -74.801896 38.976884 -74.833461 38.998783 -74.833461",
   "solr_geom": "ENVELOPE(-74.833461, -74.801896, 38.998783, 38.976884)",

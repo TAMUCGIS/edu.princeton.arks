@@ -12,8 +12,12 @@
   "layer_modified_dt": "2015-01-21T22:23:45Z",
   "dc_title_s": "Bacon's bird's-eye view of South Africa, with enlarged views of Natal, and Mafeking to Pretoria",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "South Africa",
-  "dct_temporal_sm": "1900",
+  "dct_spatial_sm": [
+    "South Africa"
+  ],
+  "dct_temporal_sm": [
+    "1900"
+  ],
   "georss_box_s": "-46.9813794 16.45194 -22.12503 38.0037335",
   "georss_polygon_s": "-22.12503 16.45194 -22.12503 38.0037335 -46.9813794 38.0037335 -46.9813794 16.45194 -22.12503 16.45194",
   "solr_geom": "ENVELOPE(16.45194, 38.0037335, -22.12503, -46.9813794)",

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/d217qr52z",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of South Orange",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "d217qr52z",
@@ -25,7 +27,9 @@
     "New Jersey",
     "South Orange"
   ],
-  "dct_temporal_sm": "1912",
+  "dct_temporal_sm": [
+    "1912"
+  ],
   "georss_box_s": "40.735601 -74.283427 40.762314 -74.234841",
   "georss_polygon_s": "40.762314 -74.283427 40.762314 -74.234841 40.735601 -74.234841 40.735601 -74.283427 40.762314 -74.283427",
   "solr_geom": "ENVELOPE(-74.283427, -74.234841, 40.762314, 40.735601)",

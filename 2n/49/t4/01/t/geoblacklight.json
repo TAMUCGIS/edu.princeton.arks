@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/2n49t401t",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Wanaque",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "2n49t401t",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Wanaque"
   ],
-  "dct_temporal_sm": "1930",
+  "dct_temporal_sm": [
+    "1930"
+  ],
   "georss_box_s": "41.011397 -74.324369 41.072932 -74.250595",
   "georss_polygon_s": "41.072932 -74.324369 41.072932 -74.250595 41.011397 -74.250595 41.011397 -74.324369 41.072932 -74.324369",
   "solr_geom": "ENVELOPE(-74.324369, -74.250595, 41.072932, 41.011397)",

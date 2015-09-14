@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/ht24wm890",
-  "dc_creator_sm": "Huntington, Eleazer,",
+  "dc_creator_sm": [
+    "Huntington, Eleazer,"
+  ],
   "dc_description_s": "Map of the United States : compiled from the latest authorities",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "ht24wm890",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-19T22:37:14Z",
   "dc_title_s": "Map of the United States : compiled from the latest authorities",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "United States",
-  "dct_temporal_sm": "1839",
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "1839"
+  ],
   "georss_box_s": "25.0 -38.0 49.0 -12.0",
   "georss_polygon_s": "49.0 -38.0 49.0 -12.0 25.0 -12.0 25.0 -38.0 49.0 -38.0",
   "solr_geom": "ENVELOPE(-38.0, -12.0, 49.0, 25.0)",

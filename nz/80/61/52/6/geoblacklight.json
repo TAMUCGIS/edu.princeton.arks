@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/nz8061526",
-  "dc_creator_sm": "Köhler, Johann David,",
+  "dc_creator_sm": [
+    "Köhler, Johann David,"
+  ],
   "dc_description_s": "Novi orbis sive totius Americae cum adiacentibus insulis nova exhibitio.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "nz8061526",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-19T22:36:45Z",
   "dc_title_s": "Novi orbis sive totius Americae cum adiacentibus insulis nova exhibitio.",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "America",
-  "dct_temporal_sm": "1719",
+  "dct_spatial_sm": [
+    "America"
+  ],
+  "dct_temporal_sm": [
+    "1719"
+  ],
   "georss_box_s": "-60.0 -180.0 70.0 -10.0",
   "georss_polygon_s": "70.0 -180.0 70.0 -10.0 -60.0 -10.0 -60.0 -180.0 70.0 -180.0",
   "solr_geom": "ENVELOPE(-180.0, -10.0, 70.0, -60.0)",

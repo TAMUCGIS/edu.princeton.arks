@@ -12,8 +12,12 @@
   "layer_modified_dt": "2015-01-19T22:37:12Z",
   "dc_title_s": "Rand, McNally & Co.'s indexed atlas of the world map of Germany (western sheet)",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Germany",
-  "dct_temporal_sm": "1891",
+  "dct_spatial_sm": [
+    "Germany"
+  ],
+  "dct_temporal_sm": [
+    "1891"
+  ],
   "georss_box_s": "47.0 5.0 56.0 15.0",
   "georss_polygon_s": "56.0 5.0 56.0 15.0 47.0 15.0 47.0 5.0 56.0 5.0",
   "solr_geom": "ENVELOPE(5.0, 15.0, 56.0, 47.0)",

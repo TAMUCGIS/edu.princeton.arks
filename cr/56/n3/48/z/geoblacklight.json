@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/cr56n348z",
-  "dc_creator_sm": "Randolph, John,",
+  "dc_creator_sm": [
+    "Randolph, John,"
+  ],
   "dc_description_s": "Official Texas brags map of North America",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "cr56n348z",
@@ -17,7 +19,9 @@
     "North America",
     "Texas"
   ],
-  "dct_temporal_sm": "1948",
+  "dct_temporal_sm": [
+    "1948"
+  ],
   "georss_box_s": "50.9999502 -109.0000502 51.0000502 -108.9999502",
   "georss_polygon_s": "51.0000502 -109.0000502 51.0000502 -108.9999502 50.9999502 -108.9999502 50.9999502 -109.0000502 51.0000502 -109.0000502",
   "solr_geom": "ENVELOPE(-109.0000502, -108.9999502, 51.0000502, 50.9999502)",

@@ -12,8 +12,12 @@
   "layer_modified_dt": "2015-01-19T22:36:36Z",
   "dc_title_s": "Corporation of the City of Glasgow, Town and Country Planning (Scotland) Act, 1947. Development Plan 1951: Programme map relative to the main proposals contained in the town map",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Scotland",
-  "dct_temporal_sm": "1951",
+  "dct_spatial_sm": [
+    "Scotland"
+  ],
+  "dct_temporal_sm": [
+    "1951"
+  ],
   "georss_box_s": "55.81667 -4.35000 55.90000 -4.16667",
   "georss_polygon_s": "55.90000 -4.35000 55.90000 -4.16667 55.81667 -4.16667 55.81667 -4.35000 55.90000 -4.35000",
   "solr_geom": "ENVELOPE(-4.35000, -4.16667, 55.90000, 55.81667)",

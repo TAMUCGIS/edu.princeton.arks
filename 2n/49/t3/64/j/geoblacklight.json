@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/2n49t364j",
-  "dc_creator_sm": "Ortelius, Abraham,",
+  "dc_creator_sm": [
+    "Ortelius, Abraham,"
+  ],
   "dc_description_s": "Tartariae sive Magni Chami Regni tÿpus",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "2n49t364j",
@@ -19,7 +21,9 @@
     "Bering Sea",
     "Bering Strait"
   ],
-  "dct_temporal_sm": "1574",
+  "dct_temporal_sm": [
+    "1574"
+  ],
   "georss_box_s": "51.0228712 -179.9999999 71.6048217 180",
   "georss_polygon_s": "71.6048217 -179.9999999 71.6048217 180 51.0228712 180 51.0228712 -179.9999999 71.6048217 -179.9999999",
   "solr_geom": "ENVELOPE(-179.9999999, 180, 71.6048217, 51.0228712)",

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/hq37vr06r",
-  "dc_creator_sm": "Fish, Ruth G.",
+  "dc_creator_sm": [
+    "Fish, Ruth G."
+  ],
   "dc_description_s": "A more or less inaccurate map of Taos, New Mexico : and guide to the land of mañana in a state of peace",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "hq37vr06r",
@@ -14,10 +16,11 @@
   "dc_title_s": "A more or less inaccurate map of Taos, New Mexico : and guide to the land of mañana in a state of peace",
   "dc_type_s": "Image",
   "dct_spatial_sm": [
-    "Taos (N.M.)",
-    "Taos (N.M.)"
+
   ],
-  "dct_temporal_sm": "1940",
+  "dct_temporal_sm": [
+    "1940"
+  ],
   "georss_box_s": "36.354433 -105.6059669 36.424067 -105.5571679",
   "georss_polygon_s": "36.424067 -105.6059669 36.424067 -105.5571679 36.354433 -105.5571679 36.354433 -105.6059669 36.424067 -105.6059669",
   "solr_geom": "ENVELOPE(-105.6059669, -105.5571679, 36.424067, 36.354433)",

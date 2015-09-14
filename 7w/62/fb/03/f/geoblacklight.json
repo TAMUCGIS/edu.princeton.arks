@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/7w62fb03f",
-  "dc_creator_sm": "Goguel, Jean",
+  "dc_creator_sm": [
+    "Goguel, Jean"
+  ],
   "dc_description_s": "Carte geologique detaillee de la France [a 1/80 000]: Colmar.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "7w62fb03f",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-19T22:36:38Z",
   "dc_title_s": "Carte geologique detaillee de la France [a 1/80 000]: Colmar.",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "France",
-  "dct_temporal_sm": "1962",
+  "dct_spatial_sm": [
+    "France"
+  ],
+  "dct_temporal_sm": [
+    "1962"
+  ],
   "georss_box_s": "47.96710 7.08830 48.32630 7.94930",
   "georss_polygon_s": "48.32630 7.08830 48.32630 7.94930 47.96710 7.94930 47.96710 7.08830 48.32630 7.08830",
   "solr_geom": "ENVELOPE(7.08830, 7.94930, 48.32630, 47.96710)",

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/v118rg91j",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Fanwood",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "v118rg91j",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Fanwood"
   ],
-  "dct_temporal_sm": "1933",
+  "dct_temporal_sm": [
+    "1933"
+  ],
   "georss_box_s": "40.814288 -74.299695 40.835277 -74.259779",
   "georss_polygon_s": "40.835277 -74.299695 40.835277 -74.259779 40.814288 -74.259779 40.814288 -74.299695 40.835277 -74.299695",
   "solr_geom": "ENVELOPE(-74.299695, -74.259779, 40.835277, 40.814288)",

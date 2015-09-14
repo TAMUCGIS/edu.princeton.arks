@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/6t053j48q",
-  "dc_creator_sm": "Kitchin, Thomas,",
+  "dc_creator_sm": [
+    "Kitchin, Thomas,"
+  ],
   "dc_description_s": "A map of Coromandel shewing the seat of war on that coast",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "6t053j48q",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-21T22:24:21Z",
   "dc_title_s": "A map of Coromandel shewing the seat of war on that coast",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Coromandel Coast (India)",
-  "dct_temporal_sm": "1754",
+  "dct_spatial_sm": [
+    "Coromandel Coast (India)"
+  ],
+  "dct_temporal_sm": [
+    "1754"
+  ],
   "georss_box_s": "7.7481070557 77.1711750625 16.7017889635 84.2559065625",
   "georss_polygon_s": "16.7017889635 77.1711750625 16.7017889635 84.2559065625 7.7481070557 84.2559065625 7.7481070557 77.1711750625 16.7017889635 77.1711750625",
   "solr_geom": "ENVELOPE(77.1711750625, 84.2559065625, 16.7017889635, 7.7481070557)",

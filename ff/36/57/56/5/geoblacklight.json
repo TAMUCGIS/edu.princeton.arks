@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/ff3657565",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Linden",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "ff3657565",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Linden"
   ],
-  "dct_temporal_sm": "1920",
+  "dct_temporal_sm": [
+    "1920"
+  ],
   "georss_box_s": "40.593847 -74.290699 40.654927 -74.201209",
   "georss_polygon_s": "40.654927 -74.290699 40.654927 -74.201209 40.593847 -74.201209 40.593847 -74.290699 40.654927 -74.290699",
   "solr_geom": "ENVELOPE(-74.290699, -74.201209, 40.654927, 40.593847)",

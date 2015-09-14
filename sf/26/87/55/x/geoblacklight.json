@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/sf268755x",
-  "dc_creator_sm": "Mitchell, S. Augustus",
+  "dc_creator_sm": [
+    "Mitchell, S. Augustus"
+  ],
   "dc_description_s": "County map of Utah and Nevada",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "sf268755x",
@@ -17,7 +19,9 @@
     "Nevada",
     "Utah"
   ],
-  "dct_temporal_sm": "1870",
+  "dct_temporal_sm": [
+    "1870"
+  ],
   "georss_box_s": "36.0 -120.0 41.0 -109.0",
   "georss_polygon_s": "41.0 -120.0 41.0 -109.0 36.0 -109.0 36.0 -120.0 41.0 -120.0",
   "solr_geom": "ENVELOPE(-120.0, -109.0, 41.0, 36.0)",

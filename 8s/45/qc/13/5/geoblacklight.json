@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/8s45qc135",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Essex County",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "8s45qc135",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Essex County"
   ],
-  "dct_temporal_sm": "1921",
+  "dct_temporal_sm": [
+    "1921"
+  ],
   "georss_box_s": "40.674018 -74.377517 40.90889 -74.112787",
   "georss_polygon_s": "40.90889 -74.377517 40.90889 -74.112787 40.674018 -74.112787 40.674018 -74.377517 40.90889 -74.377517",
   "solr_geom": "ENVELOPE(-74.377517, -74.112787, 40.90889, 40.674018)",

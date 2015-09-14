@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/kd17cv59r",
-  "dc_creator_sm": "Vuillemin, A. (Alexandre)",
+  "dc_creator_sm": [
+    "Vuillemin, A. (Alexandre)"
+  ],
   "dc_description_s": "This is a scanned map of the world from the Historical Map Collection of Princeton University's Rare Books department.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "kd17cv59r",
@@ -11,13 +13,14 @@
     "World maps",
     "World map 1854",
     "Steamboat lines",
-    "Ocean travel",
-    "HMC01.3753"
+    "Ocean travel"
   ],
   "dc_title_s": "Planisphère illustré: présentant la description géographique des parties connues de la terres, indiquant l'époque des grandes découvertes et le nom des navigateurs, les colonies des diverses nations",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://geowebservices.princeton.edu/iiif/pulmap%2Fkd%2F17%2Fcv%2F59%2Fr%2F00000001.jp2%2Finfo.json\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/kd17cv59r\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/kd17cv59r/fgdc.xml\"}",
-  "dct_spatial_sm": "World",
+  "dct_spatial_sm": [
+    "World"
+  ],
   "dct_issued_s": "1854",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "-90 -180 90 180",

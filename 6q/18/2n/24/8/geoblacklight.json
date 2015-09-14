@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/6q182n248",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Milltown",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "6q182n248",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Milltown"
   ],
-  "dct_temporal_sm": "1904",
+  "dct_temporal_sm": [
+    "1904"
+  ],
   "georss_box_s": "40.434438 -74.449486 40.463366 -74.423035",
   "georss_polygon_s": "40.463366 -74.449486 40.463366 -74.423035 40.434438 -74.423035 40.434438 -74.449486 40.463366 -74.449486",
   "solr_geom": "ENVELOPE(-74.449486, -74.423035, 40.463366, 40.434438)",

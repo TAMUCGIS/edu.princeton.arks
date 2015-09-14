@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/pk02cc89c",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Tuckerton",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "pk02cc89c",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Tuckerton"
   ],
-  "dct_temporal_sm": "1895",
+  "dct_temporal_sm": [
+    "1895"
+  ],
   "georss_box_s": "39.575962 -74.350706 39.616915 -74.310831",
   "georss_polygon_s": "39.616915 -74.350706 39.616915 -74.310831 39.575962 -74.310831 39.575962 -74.350706 39.616915 -74.350706",
   "solr_geom": "ENVELOPE(-74.350706, -74.310831, 39.616915, 39.575962)",

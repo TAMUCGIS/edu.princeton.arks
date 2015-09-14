@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/h702q824v",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Water Witch",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "h702q824v",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Water Witch"
   ],
-  "dct_temporal_sm": "1907",
+  "dct_temporal_sm": [
+    "1907"
+  ],
   "georss_box_s": "40.401958 -74.004713 40.411601 -73.989561",
   "georss_polygon_s": "40.411601 -74.004713 40.411601 -73.989561 40.401958 -73.989561 40.401958 -74.004713 40.411601 -74.004713",
   "solr_geom": "ENVELOPE(-74.004713, -73.989561, 40.411601, 40.401958)",

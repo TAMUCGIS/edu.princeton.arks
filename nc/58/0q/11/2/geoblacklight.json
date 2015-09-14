@@ -17,8 +17,12 @@
   "layer_modified_dt": "2015-01-19T22:37:21Z",
   "dc_title_s": "A new map of Europe according to the present general divisions and names of its countries together with their capital cities chief rivers mountains &c.",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Europe",
-  "dct_temporal_sm": "1700",
+  "dct_spatial_sm": [
+    "Europe"
+  ],
+  "dct_temporal_sm": [
+    "1700"
+  ],
   "georss_box_s": "25.0 -25.0 75.0 90.0",
   "georss_polygon_s": "75.0 -25.0 75.0 90.0 25.0 90.0 25.0 -25.0 75.0 -25.0",
   "solr_geom": "ENVELOPE(-25.0, 90.0, 75.0, 25.0)",

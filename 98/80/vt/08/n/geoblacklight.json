@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/9880vt08n",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Carteret",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "9880vt08n",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Carteret"
   ],
-  "dct_temporal_sm": "1924",
+  "dct_temporal_sm": [
+    "1924"
+  ],
   "georss_box_s": "40.557452 -74.254701 40.604074 -74.203688",
   "georss_polygon_s": "40.604074 -74.254701 40.604074 -74.203688 40.557452 -74.203688 40.557452 -74.254701 40.604074 -74.254701",
   "solr_geom": "ENVELOPE(-74.254701, -74.203688, 40.604074, 40.557452)",

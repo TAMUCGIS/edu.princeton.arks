@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/x346d570x",
-  "dc_creator_sm": "Maine Technology Experimental Station Bulletin",
+  "dc_creator_sm": [
+    "Maine Technology Experimental Station Bulletin"
+  ],
   "dc_description_s": "A scanned 1:443,520 survey map of Maine including road materials and glacial geology.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "x346d570x",
@@ -12,7 +14,7 @@
     "Contour line",
     "Elevation",
     "Roads",
-    "geoscientificInformation"
+    "Geoscientific Information"
   ],
   "dc_title_s": "The official map of Maine, glacial deposits State of Maine.",
   "dc_type_s": "Dataset",
@@ -20,9 +22,7 @@
   "dct_spatial_sm": [
     "Maine",
     "ME",
-    "United States",
-    "U.S.",
-    "G3731.C38.1934.M3T4"
+    "United States"
   ],
   "dct_issued_s": "1934",
   "dct_provenance_s": "Princeton",

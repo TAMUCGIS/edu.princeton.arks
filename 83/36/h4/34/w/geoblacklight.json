@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/8336h434w",
-  "dc_creator_sm": "Johnston, Lewis,",
+  "dc_creator_sm": [
+    "Johnston, Lewis,"
+  ],
   "dc_description_s": "Map of parts of Somerindyke, Harsen, Talman, Hardenbrook and other estates and the adjoining water grants",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "8336h434w",
@@ -14,10 +16,11 @@
   "dc_title_s": "Map of parts of Somerindyke, Harsen, Talman, Hardenbrook and other estates and the adjoining water grants",
   "dc_type_s": "Image",
   "dct_spatial_sm": [
-    "Manhattan (New York, N.Y.)",
-    "New York (N.Y.)"
+
   ],
-  "dct_temporal_sm": "1879",
+  "dct_temporal_sm": [
+    "1879"
+  ],
   "georss_box_s": "40.7702778 -73.9797222 40.8102778 -73.9397222",
   "georss_polygon_s": "40.8102778 -73.9797222 40.8102778 -73.9397222 40.7702778 -73.9397222 40.7702778 -73.9797222 40.8102778 -73.9797222",
   "solr_geom": "ENVELOPE(-73.9797222, -73.9397222, 40.8102778, 40.7702778)",

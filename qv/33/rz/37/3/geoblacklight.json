@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/qv33rz373",
-  "dc_creator_sm": "Army Map Service",
+  "dc_creator_sm": [
+    "Army Map Service"
+  ],
   "dc_description_s": "This is a map of the city of Tamalelt el Djedid, Morocco, shown at a 1:125,000. The map was created for use by War and Navy Department agencies during World War II.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "qv33rz373",
@@ -22,8 +24,7 @@
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://geowebservices.princeton.edu/iiif/pulmap%2Fqv%2F33%2Frz%2F37%2F3%2F00000001.jp2%2Finfo.json\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/qv33rz373\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/qv33rz373/fgdc.xml\"}",
   "dct_spatial_sm": [
     "Tamalelt el Djedid",
-    "Morocco",
-    "G8231.C2.s125.A7M3 sh6"
+    "Morocco"
   ],
   "dct_issued_s": "1943",
   "dct_provenance_s": "Princeton",

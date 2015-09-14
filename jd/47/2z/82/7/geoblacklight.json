@@ -21,7 +21,9 @@
     "Yellowstone River Watershed",
     "Missouri River Watershed"
   ],
-  "dct_temporal_sm": "1876",
+  "dct_temporal_sm": [
+    "1876"
+  ],
   "georss_box_s": "41.0 -106.0 48.0 -96.0",
   "georss_polygon_s": "48.0 -106.0 48.0 -96.0 41.0 -96.0 41.0 -106.0 48.0 -106.0",
   "solr_geom": "ENVELOPE(-106.0, -96.0, 48.0, 41.0)",

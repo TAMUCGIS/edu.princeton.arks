@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/dn39x3658",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Spotswood",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "dn39x3658",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Spotswood"
   ],
-  "dct_temporal_sm": "1897",
+  "dct_temporal_sm": [
+    "1897"
+  ],
   "georss_box_s": "40.379396 -74.413033 40.409171 -74.367854",
   "georss_polygon_s": "40.409171 -74.413033 40.409171 -74.367854 40.379396 -74.367854 40.379396 -74.413033 40.409171 -74.413033",
   "solr_geom": "ENVELOPE(-74.413033, -74.367854, 40.409171, 40.379396)",

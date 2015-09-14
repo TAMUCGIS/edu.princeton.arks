@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/rb68xf324",
-  "dc_creator_sm": "Clarke, Dumont,",
+  "dc_creator_sm": [
+    "Clarke, Dumont,"
+  ],
   "dc_description_s": "Ägypten",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "rb68xf324",
@@ -18,7 +20,9 @@
     "Suez Canal (Egypt)",
     "Caucasus"
   ],
-  "dct_temporal_sm": "1900",
+  "dct_temporal_sm": [
+    "1900"
+  ],
   "georss_box_s": "21.9999975 24.706389 31.8330854 37.1153517",
   "georss_polygon_s": "31.8330854 24.706389 31.8330854 37.1153517 21.9999975 37.1153517 21.9999975 24.706389 31.8330854 24.706389",
   "solr_geom": "ENVELOPE(24.706389, 37.1153517, 31.8330854, 21.9999975)",

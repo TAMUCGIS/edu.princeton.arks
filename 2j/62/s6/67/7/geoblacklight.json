@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/2j62s6677",
-  "dc_creator_sm": "Michel-Levy",
+  "dc_creator_sm": [
+    "Michel-Levy"
+  ],
   "dc_description_s": "Carte geologique detaillee de la France [a 1/80 000]: Montdidier.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "2j62s6677",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-19T22:36:36Z",
   "dc_title_s": "Carte geologique detaillee de la France [a 1/80 000]: Montdidier.",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "France",
-  "dct_temporal_sm": "1938",
+  "dct_spatial_sm": [
+    "France"
+  ],
+  "dct_temporal_sm": [
+    "1938"
+  ],
   "georss_box_s": "49.49750 1.89210 49.85720 2.78230",
   "georss_polygon_s": "49.85720 1.89210 49.85720 2.78230 49.49750 2.78230 49.49750 1.89210 49.85720 1.89210",
   "solr_geom": "ENVELOPE(1.89210, 2.78230, 49.85720, 49.49750)",

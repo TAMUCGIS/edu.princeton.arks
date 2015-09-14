@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/t435gg21j",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of East Millstone",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "t435gg21j",
@@ -25,7 +27,9 @@
     "New Jersey",
     "East Millstone"
   ],
-  "dct_temporal_sm": "1897",
+  "dct_temporal_sm": [
+    "1897"
+  ],
   "georss_box_s": "40.493008 -74.596719 40.509977 -74.564705",
   "georss_polygon_s": "40.509977 -74.596719 40.509977 -74.564705 40.493008 -74.564705 40.493008 -74.596719 40.509977 -74.596719",
   "solr_geom": "ENVELOPE(-74.596719, -74.564705, 40.509977, 40.493008)",

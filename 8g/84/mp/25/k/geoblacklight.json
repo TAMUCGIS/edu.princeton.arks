@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/8g84mp25k",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Orange",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "8g84mp25k",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Orange"
   ],
-  "dct_temporal_sm": "1912",
+  "dct_temporal_sm": [
+    "1912"
+  ],
   "georss_box_s": "40.75199 -74.255273 40.7898 -74.218485",
   "georss_polygon_s": "40.7898 -74.255273 40.7898 -74.218485 40.75199 -74.218485 40.75199 -74.255273 40.7898 -74.255273",
   "solr_geom": "ENVELOPE(-74.255273, -74.218485, 40.7898, 40.75199)",

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/5q47rq75r",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of National Park",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "5q47rq75r",
@@ -25,7 +27,9 @@
     "New Jersey",
     "National Park"
   ],
-  "dct_temporal_sm": "1926",
+  "dct_temporal_sm": [
+    "1926"
+  ],
   "georss_box_s": "39.845968 -75.199635 39.885968 -75.159635",
   "georss_polygon_s": "39.885968 -75.199635 39.885968 -75.159635 39.845968 -75.159635 39.845968 -75.199635 39.885968 -75.199635",
   "solr_geom": "ENVELOPE(-75.199635, -75.159635, 39.885968, 39.845968)",

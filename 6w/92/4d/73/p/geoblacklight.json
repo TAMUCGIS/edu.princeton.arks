@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/6w924d73p",
-  "dc_creator_sm": "Bouvé, Ephraim W.,",
+  "dc_creator_sm": [
+    "Bouvé, Ephraim W.,"
+  ],
   "dc_description_s": "Map of the island of Nantucket : including Tuckernuck /",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "6w924d73p",
@@ -14,10 +16,11 @@
   "dc_title_s": "Map of the island of Nantucket : including Tuckernuck /",
   "dc_type_s": "Image",
   "dct_spatial_sm": [
-    "Nantucket (Mass.)",
-    "Nantucket Island (Mass.)"
+
   ],
-  "dct_temporal_sm": "1838",
+  "dct_temporal_sm": [
+    "1838"
+  ],
   "georss_box_s": "41.1888589 -70.3973558 41.4433863 -69.8936438",
   "georss_polygon_s": "41.4433863 -70.3973558 41.4433863 -69.8936438 41.1888589 -69.8936438 41.1888589 -70.3973558 41.4433863 -70.3973558",
   "solr_geom": "ENVELOPE(-70.3973558, -69.8936438, 41.4433863, 41.1888589)",

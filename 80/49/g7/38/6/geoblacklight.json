@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/8049g7386",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Oxford",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "8049g7386",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Oxford"
   ],
-  "dct_temporal_sm": "1909",
+  "dct_temporal_sm": [
+    "1909"
+  ],
   "georss_box_s": "40.783155 -75.009616 40.823155 -74.969616",
   "georss_polygon_s": "40.823155 -75.009616 40.823155 -74.969616 40.783155 -74.969616 40.783155 -75.009616 40.823155 -75.009616",
   "solr_geom": "ENVELOPE(-75.009616, -74.969616, 40.823155, 40.783155)",

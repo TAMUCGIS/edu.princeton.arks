@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/vt150m578",
-  "dc_creator_sm": "Smith, J. L.",
+  "dc_creator_sm": [
+    "Smith, J. L."
+  ],
   "dc_description_s": "Map of the rail roads of New Jersey, and parts of adjoining states",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "vt150m578",
@@ -17,7 +19,9 @@
     "New Jersey",
     "Pennsylvania"
   ],
-  "dct_temporal_sm": "1873",
+  "dct_temporal_sm": [
+    "1873"
+  ],
   "georss_box_s": "38.7911303 -75.5633859 41.357423 -73.8939789",
   "georss_polygon_s": "41.357423 -75.5633859 41.357423 -73.8939789 38.7911303 -73.8939789 38.7911303 -75.5633859 41.357423 -75.5633859",
   "solr_geom": "ENVELOPE(-75.5633859, -73.8939789, 41.357423, 38.7911303)",

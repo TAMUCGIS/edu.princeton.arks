@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/qf85nd81m",
-  "dc_creator_sm": "Find, John T.,",
+  "dc_creator_sm": [
+    "Find, John T.,"
+  ],
   "dc_description_s": "China",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "qf85nd81m",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-19T22:37:37Z",
   "dc_title_s": "China",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "China",
-  "dct_temporal_sm": "1824",
+  "dct_spatial_sm": [
+    "China"
+  ],
+  "dct_temporal_sm": [
+    "1824"
+  ],
   "georss_box_s": "20.0 98.0 40.0 128.0",
   "georss_polygon_s": "40.0 98.0 40.0 128.0 20.0 128.0 20.0 98.0 40.0 98.0",
   "solr_geom": "ENVELOPE(98.0, 128.0, 40.0, 20.0)",

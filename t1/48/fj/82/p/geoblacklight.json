@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/t148fj82p",
-  "dc_creator_sm": "New Hampshire. Geological and Mineralogical Survey",
+  "dc_creator_sm": [
+    "New Hampshire. Geological and Mineralogical Survey"
+  ],
   "dc_description_s": "A scanned 1:349,000 topographic map of New Hampshire.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "t148fj82p",
@@ -12,17 +14,14 @@
     "Contour line",
     "Elevation",
     "Roads",
-    "geoscientificInformation"
+    "Geoscientific Information"
   ],
   "dc_title_s": "Map of New Hampshire. ",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://geowebservices.princeton.edu/iiif/pulmap%2Ft1%2F48%2Ffj%2F82%2Fp%2F00000001.jp2%2Finfo.json\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/t148fj82p\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/t148fj82p/fgdc.xml\"}",
   "dct_spatial_sm": [
     "New Hampshire",
-    "United States",
-    "G3741.C1.1878.N4H3",
-    "G3741.C5.1878.N4H3",
-    "B 8564.671  v.1-5"
+    "United States"
   ],
   "dct_issued_s": "1816",
   "dct_provenance_s": "Princeton",

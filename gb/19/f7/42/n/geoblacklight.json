@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/gb19f742n",
-  "dc_creator_sm": "Army Map Service",
+  "dc_creator_sm": [
+    "Army Map Service"
+  ],
   "dc_description_s": "This is a map of the city of Hozan, Taiwan, shown at a 1:10,000 scale. The map was created for use by War and Navy Department agencies during World War II.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "gb19f742n",
@@ -21,12 +23,10 @@
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://geowebservices.princeton.edu/iiif/pulmap%2Fgb%2F19%2Ff7%2F42%2Fn%2F00000001.jp2%2Finfo.json\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/gb19f742n\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/gb19f742n/fgdc.xml\"}",
   "dct_spatial_sm": [
-    "G7914.H9C2.1945.A7M3",
     "Hozan",
     "Hozan-shu",
     "Formosa",
-    "Taiwan",
-    "G7914.F4C2.1945.A7M3"
+    "Taiwan"
   ],
   "dct_issued_s": "1945",
   "dct_provenance_s": "Princeton",

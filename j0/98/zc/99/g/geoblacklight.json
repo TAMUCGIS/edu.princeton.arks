@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/j098zc99g",
-  "dc_creator_sm": "Clarke, Dumont,",
+  "dc_creator_sm": [
+    "Clarke, Dumont,"
+  ],
   "dc_description_s": "Karte von Kleinasien meist nach noch nicht oder in kleinstem Massstabe veröffentlichen Aufnahmen",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "j098zc99g",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-25T02:06:09Z",
   "dc_title_s": "Karte von Kleinasien meist nach noch nicht oder in kleinstem Massstabe veröffentlichen Aufnahmen",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Turkey",
-  "dct_temporal_sm": "1902",
+  "dct_spatial_sm": [
+    "Turkey"
+  ],
+  "dct_temporal_sm": [
+    "1902"
+  ],
   "georss_box_s": "35.8076804 25.6212891 42.297 44.8176638",
   "georss_polygon_s": "42.297 25.6212891 42.297 44.8176638 35.8076804 44.8176638 35.8076804 25.6212891 42.297 25.6212891",
   "solr_geom": "ENVELOPE(25.6212891, 44.8176638, 42.297, 35.8076804)",

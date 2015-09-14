@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/q811km264",
-  "dc_creator_sm": "Army Map Service",
+  "dc_creator_sm": [
+    "Army Map Service"
+  ],
   "dc_description_s": "This is a map of the city of Hsia-men, China, shown at a 1:12,500 scale. The map was created for use by War and Navy Department agencies during World War II.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "q811km264",
@@ -16,13 +18,12 @@
     "City map",
     "Military",
     "Facilities and Structures",
-    "boundaries"
+    "Boundaries"
   ],
   "dc_title_s": "Hsia-men (Amoy), China, Fukien Province",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://geowebservices.princeton.edu/iiif/pulmap%2Fq8%2F11%2Fkm%2F26%2F4%2F00000001.jp2%2Finfo.json\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/q811km264\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/q811km264/fgdc.xml\"}",
   "dct_spatial_sm": [
-    "G7824.X5C2.1946.A7M3",
     "Hsia-men ",
     "Amoy",
     "Fukien Province",

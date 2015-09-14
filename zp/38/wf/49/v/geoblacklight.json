@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/zp38wf49v",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Ocean Park",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "zp38wf49v",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Ocean Park"
   ],
-  "dct_temporal_sm": "1890",
+  "dct_temporal_sm": [
+    "1890"
+  ],
   "georss_box_s": "40.1951551 -74.0213299 40.208715 -74.0037939",
   "georss_polygon_s": "40.208715 -74.0213299 40.208715 -74.0037939 40.1951551 -74.0037939 40.1951551 -74.0213299 40.208715 -74.0213299",
   "solr_geom": "ENVELOPE(-74.0213299, -74.0037939, 40.208715, 40.1951551)",

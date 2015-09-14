@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/r207tr01g",
-  "dc_creator_sm": "United States Geological Survey",
+  "dc_creator_sm": [
+    "United States Geological Survey"
+  ],
   "dc_description_s": "A scanned USGS 1:250,000 topographic map.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "r207tr01g",
@@ -11,7 +13,7 @@
     "Contour line",
     "Elevation",
     "Roads",
-    "geoscientificInformation"
+    "Geoscientific Information"
   ],
   "dc_title_s": "Topographic map of the Sacramento Valley, California.",
   "dc_type_s": "Dataset",
@@ -19,8 +21,7 @@
   "dct_spatial_sm": [
     "Sacramento Valley",
     "California",
-    "United States",
-    "G4362.S2C2.1911.U5G4"
+    "United States"
   ],
   "dct_issued_s": "1911",
   "dct_provenance_s": "Princeton",

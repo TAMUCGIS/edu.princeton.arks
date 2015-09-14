@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/g445cg651",
-  "dc_creator_sm": "Dower, John,",
+  "dc_creator_sm": [
+    "Dower, John,"
+  ],
   "dc_description_s": "California, Mexico, Guatimala, &c.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "g445cg651",
@@ -18,7 +20,9 @@
     "Guatemala",
     "California"
   ],
-  "dct_temporal_sm": "1850",
+  "dct_temporal_sm": [
+    "1850"
+  ],
   "georss_box_s": "5.0 -125.0 41.0 -70.0",
   "georss_polygon_s": "41.0 -125.0 41.0 -70.0 5.0 -70.0 5.0 -125.0 41.0 -125.0",
   "solr_geom": "ENVELOPE(-125.0, -70.0, 41.0, 5.0)",

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/b8515q90n",
-  "dc_creator_sm": "Dien, Charles,",
+  "dc_creator_sm": [
+    "Dien, Charles,"
+  ],
   "dc_description_s": "Le Nouveau Mexique, avec la partie septentrionale d l'ancien, ou de la Nouvelle Espagne",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "b8515q90n",
@@ -16,10 +18,11 @@
   "dct_spatial_sm": [
     "California",
     "Mexico",
-    "New Mexico",
-    "West (U.S.)"
+    "New Mexico"
   ],
-  "dct_temporal_sm": "1780",
+  "dct_temporal_sm": [
+    "1780"
+  ],
   "georss_box_s": "32.5295236 -124.4820029 42.009499 -114.1307815",
   "georss_polygon_s": "42.009499 -124.4820029 42.009499 -114.1307815 32.5295236 -114.1307815 32.5295236 -124.4820029 42.009499 -124.4820029",
   "solr_geom": "ENVELOPE(-124.4820029, -114.1307815, 42.009499, 32.5295236)",

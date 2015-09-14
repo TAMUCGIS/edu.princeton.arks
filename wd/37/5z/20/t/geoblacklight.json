@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/wd375z20t",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Ridgefield",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "wd375z20t",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Ridgefield"
   ],
-  "dct_temporal_sm": "1925",
+  "dct_temporal_sm": [
+    "1925"
+  ],
   "georss_box_s": "40.812821 -74.034094 40.847125 -73.988883",
   "georss_polygon_s": "40.847125 -74.034094 40.847125 -73.988883 40.812821 -73.988883 40.812821 -74.034094 40.847125 -74.034094",
   "solr_geom": "ENVELOPE(-74.034094, -73.988883, 40.847125, 40.812821)",

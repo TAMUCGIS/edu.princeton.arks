@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/ng451k315",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Princeton",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "ng451k315",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Princeton"
   ],
-  "dct_temporal_sm": "1911",
+  "dct_temporal_sm": [
+    "1911"
+  ],
   "georss_box_s": "40.304872 -74.722177 40.391755 -74.617508",
   "georss_polygon_s": "40.391755 -74.722177 40.391755 -74.617508 40.304872 -74.617508 40.304872 -74.722177 40.391755 -74.722177",
   "solr_geom": "ENVELOPE(-74.722177, -74.617508, 40.391755, 40.304872)",

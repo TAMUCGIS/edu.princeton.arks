@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/j3860918s",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Branchville",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "j3860918s",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Branchville"
   ],
-  "dct_temporal_sm": "1920",
+  "dct_temporal_sm": [
+    "1920"
+  ],
   "georss_box_s": "41.140275 -74.760876 41.154035 -74.739672",
   "georss_polygon_s": "41.154035 -74.760876 41.154035 -74.739672 41.140275 -74.739672 41.140275 -74.760876 41.154035 -74.760876",
   "solr_geom": "ENVELOPE(-74.760876, -74.739672, 41.154035, 41.140275)",

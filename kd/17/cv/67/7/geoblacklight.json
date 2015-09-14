@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/kd17cv677",
-  "dc_creator_sm": "Termier, Pierre",
+  "dc_creator_sm": [
+    "Termier, Pierre"
+  ],
   "dc_description_s": "Carte geologique detaillee de la France [a 1/80 000]: Alencon.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "kd17cv677",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-19T22:36:37Z",
   "dc_title_s": "Carte geologique detaillee de la France [a 1/80 000]: Alencon.",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "France",
-  "dct_temporal_sm": "1924",
+  "dct_spatial_sm": [
+    "France"
+  ],
+  "dct_temporal_sm": [
+    "1924"
+  ],
   "georss_box_s": "48.39980 -0.70990 48.75950 0.16010",
   "georss_polygon_s": "48.75950 -0.70990 48.75950 0.16010 48.39980 0.16010 48.39980 -0.70990 48.75950 -0.70990",
   "solr_geom": "ENVELOPE(-0.70990, 0.16010, 48.75950, 48.39980)",

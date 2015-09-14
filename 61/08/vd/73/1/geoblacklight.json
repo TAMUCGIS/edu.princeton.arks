@@ -16,8 +16,12 @@
   "layer_modified_dt": "2015-01-19T22:37:25Z",
   "dc_title_s": "Map of part of the island of Newfoundland to illustrate the paper by Staff-Commander G. Robinson R.N. /",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Newfoundland",
-  "dct_temporal_sm": "1877",
+  "dct_spatial_sm": [
+    "Newfoundland"
+  ],
+  "dct_temporal_sm": [
+    "1877"
+  ],
   "georss_box_s": "49.25000 -57.91667 49.75000 -56.00000",
   "georss_polygon_s": "49.75000 -57.91667 49.75000 -56.00000 49.25000 -56.00000 49.25000 -57.91667 49.75000 -57.91667",
   "solr_geom": "ENVELOPE(-57.91667, -56.00000, 49.75000, 49.25000)",

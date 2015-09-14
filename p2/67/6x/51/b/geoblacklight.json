@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/p2676x51b",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Irvington",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "p2676x51b",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Irvington"
   ],
-  "dct_temporal_sm": "1909",
+  "dct_temporal_sm": [
+    "1909"
+  ],
   "georss_box_s": "40.70829 -74.25629 40.7434 -74.209489",
   "georss_polygon_s": "40.7434 -74.25629 40.7434 -74.209489 40.70829 -74.209489 40.70829 -74.25629 40.7434 -74.25629",
   "solr_geom": "ENVELOPE(-74.25629, -74.209489, 40.7434, 40.70829)",

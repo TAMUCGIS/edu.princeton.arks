@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/m039k707m",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Manahawkin",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "m039k707m",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Manahawkin"
   ],
-  "dct_temporal_sm": "1918",
+  "dct_temporal_sm": [
+    "1918"
+  ],
   "georss_box_s": "39.675397 -74.278753 39.715397 -74.238753",
   "georss_polygon_s": "39.715397 -74.278753 39.715397 -74.238753 39.675397 -74.238753 39.675397 -74.278753 39.715397 -74.278753",
   "solr_geom": "ENVELOPE(-74.278753, -74.238753, 39.715397, 39.675397)",

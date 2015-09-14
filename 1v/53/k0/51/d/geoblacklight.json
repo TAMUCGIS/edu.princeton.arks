@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/1v53k051d",
-  "dc_creator_sm": "Woerl, Leo,",
+  "dc_creator_sm": [
+    "Woerl, Leo,"
+  ],
   "dc_description_s": "Magdeburg",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "1v53k051d",
@@ -17,7 +19,9 @@
     "Magdeburg (Germany)",
     "Saxony-Anhalt (Germany)"
   ],
-  "dct_temporal_sm": "1904",
+  "dct_temporal_sm": [
+    "1904"
+  ],
   "georss_box_s": "52.0238362 11.5177765 52.2282553 11.7666902",
   "georss_polygon_s": "52.2282553 11.5177765 52.2282553 11.7666902 52.0238362 11.7666902 52.0238362 11.5177765 52.2282553 11.5177765",
   "solr_geom": "ENVELOPE(11.5177765, 11.7666902, 52.2282553, 52.0238362)",

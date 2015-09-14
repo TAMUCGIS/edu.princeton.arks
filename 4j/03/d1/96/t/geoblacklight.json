@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/4j03d196t",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Roselle",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "4j03d196t",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Roselle"
   ],
-  "dct_temporal_sm": "1915",
+  "dct_temporal_sm": [
+    "1915"
+  ],
   "georss_box_s": "40.637244 -74.285786 40.663509 -74.233325",
   "georss_polygon_s": "40.663509 -74.285786 40.663509 -74.233325 40.637244 -74.233325 40.637244 -74.285786 40.663509 -74.285786",
   "solr_geom": "ENVELOPE(-74.285786, -74.233325, 40.663509, 40.637244)",

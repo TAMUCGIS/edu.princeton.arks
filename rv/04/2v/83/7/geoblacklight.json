@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/rv042v837",
-  "dc_creator_sm": "Wm. M. Bradley & Bros. ",
+  "dc_creator_sm": [
+    "Wm. M. Bradley & Bros. "
+  ],
   "dc_description_s": "This is a scanned map of the world from the Historical Map Collection of Princeton University's Rare Books department.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "rv042v837",
@@ -12,13 +14,14 @@
     "World map 1884",
     "Challenger Expedition",
     "Ocean currents",
-    "Trade routes",
-    "HMC01.3626 "
+    "Trade routes"
   ],
   "dc_title_s": "Chart of the world on Mercator's projection : showing the direction of the ocean currents, with the routes and distances between the principal ports.",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://geowebservices.princeton.edu/iiif/pulmap%2Frv%2F04%2F2v%2F83%2F7%2F00000001.jp2%2Finfo.json\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/rv042v837\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/rv042v837/fgdc.xml\"}",
-  "dct_spatial_sm": "World",
+  "dct_spatial_sm": [
+    "World"
+  ],
   "dct_issued_s": "1884 (?)",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "-90 -180 90 180",

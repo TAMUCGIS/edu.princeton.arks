@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/6t053h53b",
-  "dc_creator_sm": "United States Geological Survey",
+  "dc_creator_sm": [
+    "United States Geological Survey"
+  ],
   "dc_description_s": "A scanned USGS 1:31,680 topographic map.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "6t053h53b",
@@ -12,7 +14,7 @@
     "Contour line",
     "Elevation",
     "Roads",
-    "geoscientificInformation",
+    "Geoscientific Information",
     "Sedimentation",
     "Sedimentary Formations"
   ],
@@ -20,7 +22,6 @@
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://geowebservices.princeton.edu/iiif/pulmap%2F6t%2F05%2F3h%2F53%2Fb%2F00000001.jp2%2Finfo.json\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/6t053h53b\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/6t053h53b/fgdc.xml\"}",
   "dct_spatial_sm": [
-    "Washington D.C.",
     "Washington Metropolitan Area",
     "Prince Georges County",
     "Montgomery County",
@@ -29,8 +30,7 @@
     "Maryland",
     "Virginia",
     "District of Columbia",
-    "United States",
-    "G3851.C5.1947.U5G4"
+    "United States"
   ],
   "dct_issued_s": "1947",
   "dct_provenance_s": "Princeton",

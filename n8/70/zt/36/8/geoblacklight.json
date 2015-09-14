@@ -16,8 +16,12 @@
   "layer_modified_dt": "2015-01-25T02:06:21Z",
   "dc_title_s": "Pianta dei contorni di Roma",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Rome (Italy : Province)",
-  "dct_temporal_sm": "1858",
+  "dct_spatial_sm": [
+    "Rome (Italy : Province)"
+  ],
+  "dct_temporal_sm": [
+    "1858"
+  ],
   "georss_box_s": "41.769596 12.341707 42.0505462 12.7302888",
   "georss_polygon_s": "42.0505462 12.341707 42.0505462 12.7302888 41.769596 12.7302888 41.769596 12.341707 42.0505462 12.341707",
   "solr_geom": "ENVELOPE(12.341707, 12.7302888, 42.0505462, 41.769596)",

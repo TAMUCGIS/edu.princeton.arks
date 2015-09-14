@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/5m60qv363",
-  "dc_creator_sm": "Arrowsmith, Aaron,",
+  "dc_creator_sm": [
+    "Arrowsmith, Aaron,"
+  ],
   "dc_description_s": "Holland, from the map executed at the Dutch Military Dépôt",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "5m60qv363",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-25T02:06:13Z",
   "dc_title_s": "Holland, from the map executed at the Dutch Military Dépôt",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Netherlands",
-  "dct_temporal_sm": "1815",
+  "dct_spatial_sm": [
+    "Netherlands"
+  ],
+  "dct_temporal_sm": [
+    "1815"
+  ],
   "georss_box_s": "11.825 -68.6255318 53.7253321 7.2274985",
   "georss_polygon_s": "53.7253321 -68.6255318 53.7253321 7.2274985 11.825 7.2274985 11.825 -68.6255318 53.7253321 -68.6255318",
   "solr_geom": "ENVELOPE(-68.6255318, 7.2274985, 53.7253321, 11.825)",

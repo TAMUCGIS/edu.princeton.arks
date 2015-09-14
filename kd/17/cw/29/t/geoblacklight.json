@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/kd17cw29t",
-  "dc_creator_sm": "Breese, Samuel,",
+  "dc_creator_sm": [
+    "Breese, Samuel,"
+  ],
   "dc_description_s": "New York ; City of New York, 1843",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "kd17cw29t",
@@ -15,11 +17,11 @@
   "dc_type_s": "Image",
   "dct_spatial_sm": [
     "New York (State)",
-    "New York (State)",
-    "New York (N.Y.)",
-    "Manhattan (New York, N.Y.)"
+    "New York (State)"
   ],
-  "dct_temporal_sm": "1843",
+  "dct_temporal_sm": [
+    "1843"
+  ],
   "georss_box_s": "40.4913686 -79.7621438 45.015865 -71.8562643",
   "georss_polygon_s": "45.015865 -79.7621438 45.015865 -71.8562643 40.4913686 -71.8562643 40.4913686 -79.7621438 45.015865 -79.7621438",
   "solr_geom": "ENVELOPE(-79.7621438, -71.8562643, 45.015865, 40.4913686)",

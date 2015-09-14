@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/rv042w596",
-  "dc_creator_sm": "Woerl, Leo,",
+  "dc_creator_sm": [
+    "Woerl, Leo,"
+  ],
   "dc_description_s": "Dessau",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "rv042w596",
@@ -17,7 +19,9 @@
     "Dessau (Germany)",
     "Saxony-Anhalt (Germany)"
   ],
-  "dct_temporal_sm": "1903",
+  "dct_temporal_sm": [
+    "1903"
+  ],
   "georss_box_s": "51.7911104 12.2029261 51.8711104 12.2829261",
   "georss_polygon_s": "51.8711104 12.2029261 51.8711104 12.2829261 51.7911104 12.2829261 51.7911104 12.2029261 51.8711104 12.2029261",
   "solr_geom": "ENVELOPE(12.2029261, 12.2829261, 51.8711104, 51.7911104)",

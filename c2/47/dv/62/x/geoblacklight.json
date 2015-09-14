@@ -16,8 +16,12 @@
   "layer_modified_dt": "2015-01-25T02:06:20Z",
   "dc_title_s": "Ducatus Mediolanensis, finitimarumq[ue] regionu[m] descriptio",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Milan (Italy : Province)",
-  "dct_temporal_sm": "1572",
+  "dct_spatial_sm": [
+    "Milan (Italy : Province)"
+  ],
+  "dct_temporal_sm": [
+    "1572"
+  ],
   "georss_box_s": "45.3897787 9.0651182 45.535689 9.2903463",
   "georss_polygon_s": "45.535689 9.0651182 45.535689 9.2903463 45.3897787 9.2903463 45.3897787 9.0651182 45.535689 9.0651182",
   "solr_geom": "ENVELOPE(9.0651182, 9.2903463, 45.535689, 45.3897787)",

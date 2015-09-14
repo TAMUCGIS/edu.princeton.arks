@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/5d86p185k",
-  "dc_creator_sm": "Maryland Geological Survey",
+  "dc_creator_sm": [
+    "Maryland Geological Survey"
+  ],
   "dc_description_s": "This is a geological map of the state of Maryland, published in 1916. The scale is 1:62,500",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "5d86p185k",
@@ -10,7 +12,7 @@
   "dc_subject_sm": [
     "Elevation",
     "Roads",
-    "geoscientificInformation",
+    "Geoscientific Information",
     "Contour lines",
     "Geological Formations"
   ],
@@ -20,9 +22,7 @@
   "dct_spatial_sm": [
     "Arundel County",
     "Anne Arundel County",
-    "Maryland",
-    "8557.621.4 v.7 ANNE ARUNDEL",
-    "G3841.C5.s62.M3 ANNE ARUNDEL"
+    "Maryland"
   ],
   "dct_issued_s": "1916",
   "dct_provenance_s": "Princeton",

@@ -16,8 +16,12 @@
   "layer_modified_dt": "2015-01-19T22:37:28Z",
   "dc_title_s": "English Channel",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "English Channel",
-  "dct_temporal_sm": "1882",
+  "dct_spatial_sm": [
+    "English Channel"
+  ],
+  "dct_temporal_sm": [
+    "1882"
+  ],
   "georss_box_s": "49.0 -12.0 52.0 1.0",
   "georss_polygon_s": "52.0 -12.0 52.0 1.0 49.0 1.0 49.0 -12.0 52.0 -12.0",
   "solr_geom": "ENVELOPE(-12.0, 1.0, 52.0, 49.0)",

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/x059c925w",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Rochelle Park",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "x059c925w",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Rochelle Park"
   ],
-  "dct_temporal_sm": "1917",
+  "dct_temporal_sm": [
+    "1917"
+  ],
   "georss_box_s": "40.891771 -74.091238 40.919644 -74.068909",
   "georss_polygon_s": "40.919644 -74.091238 40.919644 -74.068909 40.891771 -74.068909 40.891771 -74.091238 40.919644 -74.091238",
   "solr_geom": "ENVELOPE(-74.091238, -74.068909, 40.919644, 40.891771)",

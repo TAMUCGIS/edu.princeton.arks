@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/4x51hm493",
-  "dc_creator_sm": "Hondius, Jodocus,",
+  "dc_creator_sm": [
+    "Hondius, Jodocus,"
+  ],
   "dc_description_s": "The kingdome of Great Britaine and Ireland",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "4x51hm493",
@@ -17,7 +19,9 @@
     "Great Britain",
     "Ireland"
   ],
-  "dct_temporal_sm": "1971",
+  "dct_temporal_sm": [
+    "1971"
+  ],
   "georss_box_s": "49.674 -14.0155169 61.061 2.0919117",
   "georss_polygon_s": "61.061 -14.0155169 61.061 2.0919117 49.674 2.0919117 49.674 -14.0155169 61.061 -14.0155169",
   "solr_geom": "ENVELOPE(-14.0155169, 2.0919117, 61.061, 49.674)",

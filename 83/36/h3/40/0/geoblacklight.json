@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/8336h3400",
-  "dc_creator_sm": "United States. Geological Survey",
+  "dc_creator_sm": [
+    "United States. Geological Survey"
+  ],
   "dc_description_s": "This is a scanned historical map of the Red Mills Quadrangle in New York shown at a scale of 1:62,500. This map was created by the US Geological Survey.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "8336h3400",
@@ -19,10 +21,8 @@
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://geowebservices.princeton.edu/iiif/pulmap%2F83%2F36%2Fh3%2F40%2F0%2F00000001.jp2%2Finfo.json\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/8336h3400\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/8336h3400/fgdc.xml\"}",
   "dct_spatial_sm": [
     "Red Mill",
-    "St. Lawrence County",
     "New York",
-    "USA",
-    "MC G3801.C2.s62.U5G4 Red Mills (1942)"
+    "USA"
   ],
   "dct_issued_s": "1906",
   "dct_provenance_s": "Princeton",

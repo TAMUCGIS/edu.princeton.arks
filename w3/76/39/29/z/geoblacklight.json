@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/w3763929z",
-  "dc_creator_sm": "Meyer, Joseph,",
+  "dc_creator_sm": [
+    "Meyer, Joseph,"
+  ],
   "dc_description_s": "Plan von Mainz, 1849",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "w3763929z",
@@ -17,7 +19,9 @@
     "Mainz (Germany)",
     "Rhineland-Palatinate (Germany)"
   ],
-  "dct_temporal_sm": "1849",
+  "dct_temporal_sm": [
+    "1849"
+  ],
   "georss_box_s": "49.8399952 8.1110237 50.1599952 8.4310237",
   "georss_polygon_s": "50.1599952 8.1110237 50.1599952 8.4310237 49.8399952 8.4310237 49.8399952 8.1110237 50.1599952 8.1110237",
   "solr_geom": "ENVELOPE(8.1110237, 8.4310237, 50.1599952, 49.8399952)",

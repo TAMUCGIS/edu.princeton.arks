@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/rf55z913x",
-  "dc_creator_sm": "Rumold Mercator",
+  "dc_creator_sm": [
+    "Rumold Mercator"
+  ],
   "dc_description_s": "Scanned map of the world, 1587",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "rf55z913x",
@@ -15,7 +17,9 @@
   "dc_title_s": "Orbis terrae compendiosa descriptio ",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://geowebservices.princeton.edu/iiif/pulmap%2Frf%2F55%2Fz9%2F13%2Fx%2F00000001.jp2%2Finfo.json\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/rf55z913x\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/rf55z913x/fgdc.xml\"}",
-  "dct_spatial_sm": "World",
+  "dct_spatial_sm": [
+    "World"
+  ],
   "dct_issued_s": "1587",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "-90 -180 90 180",

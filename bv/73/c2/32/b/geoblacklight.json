@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/bv73c232b",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Egg Harbor City",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "bv73c232b",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Egg Harbor City"
   ],
-  "dct_temporal_sm": "1924",
+  "dct_temporal_sm": [
+    "1924"
+  ],
   "georss_box_s": "39.518543 -74.656813 39.600134 -74.533787",
   "georss_polygon_s": "39.600134 -74.656813 39.600134 -74.533787 39.518543 -74.533787 39.518543 -74.656813 39.600134 -74.656813",
   "solr_geom": "ENVELOPE(-74.656813, -74.533787, 39.600134, 39.518543)",

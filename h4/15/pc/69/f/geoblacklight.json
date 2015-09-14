@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/h415pc69f",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Pequannock",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "h415pc69f",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Pequannock"
   ],
-  "dct_temporal_sm": "1937",
+  "dct_temporal_sm": [
+    "1937"
+  ],
   "georss_box_s": "40.92001 -74.337476 41.00001 -74.257476",
   "georss_polygon_s": "41.00001 -74.337476 41.00001 -74.257476 40.92001 -74.257476 40.92001 -74.337476 41.00001 -74.337476",
   "solr_geom": "ENVELOPE(-74.337476, -74.257476, 41.00001, 40.92001)",

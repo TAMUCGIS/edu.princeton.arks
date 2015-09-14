@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/v405sc756",
-  "dc_creator_sm": "Vandermaelen, Philippe,",
+  "dc_creator_sm": [
+    "Vandermaelen, Philippe,"
+  ],
   "dc_description_s": "Partie de la Nouvelle Bretagne",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "v405sc756",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-19T22:37:02Z",
   "dc_title_s": "Partie de la Nouvelle Bretagne",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Quebec (Province)",
-  "dct_temporal_sm": "1827",
+  "dct_spatial_sm": [
+    "Quebec (Province)"
+  ],
+  "dct_temporal_sm": [
+    "1827"
+  ],
   "georss_box_s": "48.0 -80.6666666667 54.0 -68.6666666667",
   "georss_polygon_s": "54.0 -80.6666666667 54.0 -68.6666666667 48.0 -68.6666666667 48.0 -80.6666666667 54.0 -80.6666666667",
   "solr_geom": "ENVELOPE(-80.6666666667, -68.6666666667, 54.0, 48.0)",

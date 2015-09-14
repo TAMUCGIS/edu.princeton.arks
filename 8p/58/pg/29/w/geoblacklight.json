@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/8p58pg29w",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Jersey City",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "8p58pg29w",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Jersey City"
   ],
-  "dct_temporal_sm": "1911",
+  "dct_temporal_sm": [
+    "1911"
+  ],
   "georss_box_s": "40.66689 -74.117057 40.768867 -74.026614",
   "georss_polygon_s": "40.768867 -74.117057 40.768867 -74.026614 40.66689 -74.026614 40.66689 -74.117057 40.768867 -74.117057",
   "solr_geom": "ENVELOPE(-74.117057, -74.026614, 40.768867, 40.66689)",

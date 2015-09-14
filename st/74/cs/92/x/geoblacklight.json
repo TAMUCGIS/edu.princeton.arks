@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/st74cs92x",
-  "dc_creator_sm": "Mercator, Gerhard,",
+  "dc_creator_sm": [
+    "Mercator, Gerhard,"
+  ],
   "dc_description_s": "Diœcesis Leodiensis accurata tabula",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "st74cs92x",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-21T22:24:09Z",
   "dc_title_s": "Diœcesis Leodiensis accurata tabula",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Liège (Belgium : Province)",
-  "dct_temporal_sm": "1636",
+  "dct_spatial_sm": [
+    "Liège (Belgium : Province)"
+  ],
+  "dct_temporal_sm": [
+    "1636"
+  ],
   "georss_box_s": "50.5610901 5.5230701 50.68819 5.6751101",
   "georss_polygon_s": "50.68819 5.5230701 50.68819 5.6751101 50.5610901 5.6751101 50.5610901 5.5230701 50.68819 5.5230701",
   "solr_geom": "ENVELOPE(5.5230701, 5.6751101, 50.68819, 50.5610901)",

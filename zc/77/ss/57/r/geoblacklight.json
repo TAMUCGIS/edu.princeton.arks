@@ -17,8 +17,12 @@
   "layer_modified_dt": "2015-01-21T22:24:13Z",
   "dc_title_s": "A mapp of the north part from the equinoctial, with the auncient seates of the families mentioned in genesis : conteyning also the summe of Daniel, who sheweth howe those fight against the Ebrewes until our Lord's Birth from the fall of David's Kingdome",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Northern Hemisphere",
-  "dct_temporal_sm": "1590",
+  "dct_spatial_sm": [
+    "Northern Hemisphere"
+  ],
+  "dct_temporal_sm": [
+    "1590"
+  ],
   "georss_box_s": "0 -180 90 180",
   "georss_polygon_s": "90 -180 90 180 0 180 0 -180 90 -180",
   "solr_geom": "ENVELOPE(-180, 180, 90, 0)",

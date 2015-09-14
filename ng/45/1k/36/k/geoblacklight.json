@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/ng451k36k",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Freehold",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "ng451k36k",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Freehold"
   ],
-  "dct_temporal_sm": "1885",
+  "dct_temporal_sm": [
+    "1885"
+  ],
   "georss_box_s": "40.168296 -74.406777 40.295479 -74.22275",
   "georss_polygon_s": "40.295479 -74.406777 40.295479 -74.22275 40.168296 -74.22275 40.168296 -74.406777 40.295479 -74.406777",
   "solr_geom": "ENVELOPE(-74.406777, -74.22275, 40.295479, 40.168296)",

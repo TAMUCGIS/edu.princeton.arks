@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/2v23vw53g",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Port Oram",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "2v23vw53g",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Port Oram"
   ],
-  "dct_temporal_sm": "1886",
+  "dct_temporal_sm": [
+    "1886"
+  ],
   "georss_box_s": "40.885984 -74.599086 40.91525 -74.565959",
   "georss_polygon_s": "40.91525 -74.599086 40.91525 -74.565959 40.885984 -74.565959 40.885984 -74.599086 40.91525 -74.599086",
   "solr_geom": "ENVELOPE(-74.599086, -74.565959, 40.91525, 40.885984)",

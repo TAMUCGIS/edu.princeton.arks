@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/5138jg78j",
-  "dc_creator_sm": "Guthrie, William,",
+  "dc_creator_sm": [
+    "Guthrie, William,"
+  ],
   "dc_description_s": "North America : drawn from the latest & best authorities",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "5138jg78j",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-21T22:23:50Z",
   "dc_title_s": "North America : drawn from the latest & best authorities",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "North America",
-  "dct_temporal_sm": "1770",
+  "dct_spatial_sm": [
+    "North America"
+  ],
+  "dct_temporal_sm": [
+    "1770"
+  ],
   "georss_box_s": "50.9999502 -109.0000502 51.0000502 -108.9999502",
   "georss_polygon_s": "51.0000502 -109.0000502 51.0000502 -108.9999502 50.9999502 -108.9999502 50.9999502 -109.0000502 51.0000502 -109.0000502",
   "solr_geom": "ENVELOPE(-109.0000502, -108.9999502, 51.0000502, 50.9999502)",

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/3f4627304",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Oceanport",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "3f4627304",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Oceanport"
   ],
-  "dct_temporal_sm": "1907",
+  "dct_temporal_sm": [
+    "1907"
+  ],
   "georss_box_s": "40.298748 -74.051025 40.334039 -73.996011",
   "georss_polygon_s": "40.334039 -74.051025 40.334039 -73.996011 40.298748 -73.996011 40.298748 -74.051025 40.334039 -74.051025",
   "solr_geom": "ENVELOPE(-74.051025, -73.996011, 40.334039, 40.298748)",

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/jh343v10r",
-  "dc_creator_sm": "Termier, Pierre",
+  "dc_creator_sm": [
+    "Termier, Pierre"
+  ],
   "dc_description_s": "Carte geologique detaillee de la France [a 1/80 000]: St. Lo.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "jh343v10r",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-19T22:36:37Z",
   "dc_title_s": "Carte geologique detaillee de la France [a 1/80 000]: St. Lo.",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "France",
-  "dct_temporal_sm": "1926",
+  "dct_spatial_sm": [
+    "France"
+  ],
+  "dct_temporal_sm": [
+    "1926"
+  ],
   "georss_box_s": "49.10050 -1.63620 49.46010 -0.75430",
   "georss_polygon_s": "49.46010 -1.63620 49.46010 -0.75430 49.10050 -0.75430 49.10050 -1.63620 49.46010 -1.63620",
   "solr_geom": "ENVELOPE(-1.63620, -0.75430, 49.46010, 49.10050)",

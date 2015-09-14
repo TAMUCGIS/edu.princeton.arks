@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/wh246v14x",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Verona Township",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "wh246v14x",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Verona Township"
   ],
-  "dct_temporal_sm": "1907",
+  "dct_temporal_sm": [
+    "1907"
+  ],
   "georss_box_s": "40.8161 -74.264026 40.851099 -74.22099",
   "georss_polygon_s": "40.851099 -74.264026 40.851099 -74.22099 40.8161 -74.22099 40.8161 -74.264026 40.851099 -74.264026",
   "solr_geom": "ENVELOPE(-74.264026, -74.22099, 40.851099, 40.8161)",

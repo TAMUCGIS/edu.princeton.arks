@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/nc580p58t",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Tenafly",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "nc580p58t",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Tenafly"
   ],
-  "dct_temporal_sm": "1923",
+  "dct_temporal_sm": [
+    "1923"
+  ],
   "georss_box_s": "40.899757 -73.984433 40.937905 -73.927389",
   "georss_polygon_s": "40.937905 -73.984433 40.937905 -73.927389 40.899757 -73.927389 40.899757 -73.984433 40.937905 -73.984433",
   "solr_geom": "ENVELOPE(-73.984433, -73.927389, 40.937905, 40.899757)",

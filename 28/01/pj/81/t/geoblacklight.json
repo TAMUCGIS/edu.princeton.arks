@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/2801pj81t",
-  "dc_creator_sm": "Weller, Edward,",
+  "dc_creator_sm": [
+    "Weller, Edward,"
+  ],
   "dc_description_s": "Map of part of the Desert of Atacama (Bolivia)",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "2801pj81t",
@@ -17,7 +19,9 @@
     "Atacama Desert (Chile)",
     "Antofagasta (Chile: Region)"
   ],
-  "dct_temporal_sm": "1877",
+  "dct_temporal_sm": [
+    "1877"
+  ],
   "georss_box_s": "-24.38333 -71.33333 -21.83333 -67.66667",
   "georss_polygon_s": "-21.83333 -71.33333 -21.83333 -67.66667 -24.38333 -67.66667 -24.38333 -71.33333 -21.83333 -71.33333",
   "solr_geom": "ENVELOPE(-71.33333, -67.66667, -21.83333, -24.38333)",

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/5425kd06g",
-  "dc_creator_sm": "Ptolemy,",
+  "dc_creator_sm": [
+    "Ptolemy,"
+  ],
   "dc_description_s": "Tabula Asiae I",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "5425kd06g",
@@ -18,7 +20,9 @@
     "Turkey",
     "Greece"
   ],
-  "dct_temporal_sm": "1540",
+  "dct_temporal_sm": [
+    "1540"
+  ],
   "georss_box_s": "38.8404775 43.4471395 41.300712 46.6333087",
   "georss_polygon_s": "41.300712 43.4471395 41.300712 46.6333087 38.8404775 46.6333087 38.8404775 43.4471395 41.300712 43.4471395",
   "solr_geom": "ENVELOPE(43.4471395, 46.6333087, 41.300712, 38.8404775)",

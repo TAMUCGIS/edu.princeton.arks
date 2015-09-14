@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/76537321q",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of East Oceanic",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "76537321q",
@@ -25,7 +27,9 @@
     "New Jersey",
     "East Oceanic"
   ],
-  "dct_temporal_sm": "1907",
+  "dct_temporal_sm": [
+    "1907"
+  ],
   "georss_box_s": "40.357887 -74.030694 40.397887 -73.990694",
   "georss_polygon_s": "40.397887 -74.030694 40.397887 -73.990694 40.357887 -73.990694 40.357887 -74.030694 40.397887 -74.030694",
   "solr_geom": "ENVELOPE(-74.030694, -73.990694, 40.397887, 40.357887)",

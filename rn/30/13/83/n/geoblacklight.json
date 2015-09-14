@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/rn301383n",
-  "dc_creator_sm": "La Rochefoucauld-Liancourt, François-Alexandre-Frédéric,",
+  "dc_creator_sm": [
+    "La Rochefoucauld-Liancourt, François-Alexandre-Frédéric,"
+  ],
   "dc_description_s": "Carte des Etats-Unis : provinces septentrionales",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "rn301383n",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-21T22:24:07Z",
   "dc_title_s": "Carte des Etats-Unis : provinces septentrionales",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Northeastern States",
-  "dct_temporal_sm": "1799",
+  "dct_spatial_sm": [
+    "Northeastern States"
+  ],
+  "dct_temporal_sm": [
+    "1799"
+  ],
   "georss_box_s": "37.9648979285 -80.7892842875 47.5887446096 -66.8711891",
   "georss_polygon_s": "47.5887446096 -80.7892842875 47.5887446096 -66.8711891 37.9648979285 -66.8711891 37.9648979285 -80.7892842875 47.5887446096 -80.7892842875",
   "solr_geom": "ENVELOPE(-80.7892842875, -66.8711891, 47.5887446096, 37.9648979285)",

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/7d278w56g",
-  "dc_creator_sm": "Cary, John,",
+  "dc_creator_sm": [
+    "Cary, John,"
+  ],
   "dc_description_s": "A new map of Spain and Portugal divided into their respective kingdoms and provinces from the latest authorities /",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "7d278w56g",
@@ -18,7 +20,9 @@
     "Portugal",
     "Spain"
   ],
-  "dct_temporal_sm": "1807",
+  "dct_temporal_sm": [
+    "1807"
+  ],
   "georss_box_s": "36.0 -10.0 44.0 4.0",
   "georss_polygon_s": "44.0 -10.0 44.0 4.0 36.0 4.0 36.0 -10.0 44.0 -10.0",
   "solr_geom": "ENVELOPE(-10.0, 4.0, 44.0, 36.0)",

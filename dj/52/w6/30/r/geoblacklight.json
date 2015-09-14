@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/dj52w630r",
-  "dc_creator_sm": "Harrison, R. L.",
+  "dc_creator_sm": [
+    "Harrison, R. L."
+  ],
   "dc_description_s": "This is a scanned historical map of the Kilmarnock Quadrangle in Virginia shown at a scale of 1:62,500. This map was created by the US Geological Survey.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "dj52w630r",
@@ -19,14 +21,8 @@
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://geowebservices.princeton.edu/iiif/pulmap%2Fdj%2F52%2Fw6%2F30%2Fr%2F00000001.jp2%2Finfo.json\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/dj52w630r\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/dj52w630r/fgdc.xml\"}",
   "dct_spatial_sm": [
     "Kilmarnock",
-    "Middlesex Co.",
-    "Mathews Co.",
-    "Gloucester Co.",
-    "Lancaster Co.",
-    "Northumberland Co.",
     "Virginia",
-    "United States",
-    "MC  G3881.C2.s62.U5G4 Kilmarnock"
+    "United States"
   ],
   "dct_issued_s": "1917",
   "dct_provenance_s": "Princeton",

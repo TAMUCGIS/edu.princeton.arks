@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/h702q884j",
-  "dc_creator_sm": "Mueller, A. H.",
+  "dc_creator_sm": [
+    "Mueller, A. H."
+  ],
   "dc_description_s": "Map of Bergen County, New Jersey : with a portion of Passaic Co.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "h702q884j",
@@ -14,10 +16,11 @@
   "dc_title_s": "Map of Bergen County, New Jersey : with a portion of Passaic Co.",
   "dc_type_s": "Image",
   "dct_spatial_sm": [
-    "Bergen County (N.J.)",
-    "Passaic County (N.J.)"
+
   ],
-  "dct_temporal_sm": "1902",
+  "dct_temporal_sm": [
+    "1902"
+  ],
   "georss_box_s": "40.7666666667 -74.2666666667 41.1166666667 -73.9",
   "georss_polygon_s": "41.1166666667 -74.2666666667 41.1166666667 -73.9 40.7666666667 -73.9 40.7666666667 -74.2666666667 41.1166666667 -74.2666666667",
   "solr_geom": "ENVELOPE(-74.2666666667, -73.9, 41.1166666667, 40.7666666667)",

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/6d56zz904",
-  "dc_creator_sm": "Vandermaelen, Philippe, 1795-1869.",
+  "dc_creator_sm": [
+    "Vandermaelen, Philippe, 1795-1869."
+  ],
   "dc_description_s": "Partie du Désert de Sahara",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "6d56zz904",
@@ -18,7 +20,9 @@
     "Western Sahara",
     "Canary Islands"
   ],
-  "dct_temporal_sm": "1827",
+  "dct_temporal_sm": [
+    "1827"
+  ],
   "georss_box_s": "24.0 -15.6666666667 30.0 -7.66666666667",
   "georss_polygon_s": "30.0 -15.6666666667 30.0 -7.66666666667 24.0 -7.66666666667 24.0 -15.6666666667 30.0 -15.6666666667",
   "solr_geom": "ENVELOPE(-15.6666666667, -7.66666666667, 30.0, 24.0)",

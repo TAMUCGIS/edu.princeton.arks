@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/9s161862r",
-  "dc_creator_sm": "Cooper, John C.,",
+  "dc_creator_sm": [
+    "Cooper, John C.,"
+  ],
   "dc_description_s": "The Antilles or West-India islands",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "9s161862r",
@@ -13,7 +15,9 @@
   "layer_modified_dt": "2015-01-19T22:37:15Z",
   "dc_title_s": "The Antilles or West-India islands",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "West Indies",
+  "dct_spatial_sm": [
+    "West Indies"
+  ],
   "georss_box_s": "8.0 -92.0 30.0 -60.0",
   "georss_polygon_s": "30.0 -92.0 30.0 -60.0 8.0 -60.0 8.0 -92.0 30.0 -92.0",
   "solr_geom": "ENVELOPE(-92.0, -60.0, 30.0, 8.0)"

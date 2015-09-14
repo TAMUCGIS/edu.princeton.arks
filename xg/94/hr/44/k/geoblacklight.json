@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/xg94hr44k",
-  "dc_creator_sm": "Moll, Herman,",
+  "dc_creator_sm": [
+    "Moll, Herman,"
+  ],
   "dc_description_s": "A chart of the South Sea coast from the Steights [sic] of Magellan to Arica.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "xg94hr44k",
@@ -16,10 +18,11 @@
   "dct_spatial_sm": [
     "Chile",
     "Argentina",
-    "Magellan, Strait of (Chile and Argentina)",
-    "Arica (Chile : Dept.)"
+    "Magellan, Strait of (Chile and Argentina)"
   ],
-  "dct_temporal_sm": "1745",
+  "dct_temporal_sm": [
+    "1745"
+  ],
   "georss_box_s": "-56.7249999 -109.6795788 -17.4983855 -66.0745052",
   "georss_polygon_s": "-17.4983855 -109.6795788 -17.4983855 -66.0745052 -56.7249999 -66.0745052 -56.7249999 -109.6795788 -17.4983855 -109.6795788",
   "solr_geom": "ENVELOPE(-109.6795788, -66.0745052, -17.4983855, -56.7249999)",

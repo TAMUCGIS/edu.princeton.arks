@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/8049g6716",
-  "dc_creator_sm": "Gayetty, J. I.",
+  "dc_creator_sm": [
+    "Gayetty, J. I."
+  ],
   "dc_description_s": "This is a scanned historical map of the Surry Quadrangle in Virginia shown at a scale of 1:62,500. This map was created by the US Geological Survey.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "8049g6716",
@@ -19,15 +21,8 @@
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://geowebservices.princeton.edu/iiif/pulmap%2F80%2F49%2Fg6%2F71%2F6%2F00000001.jp2%2Finfo.json\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/8049g6716\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/8049g6716/fgdc.xml\"}",
   "dct_spatial_sm": [
     "Surry",
-    "Sussex Co.",
-    "James City Co.",
-    "Charles City Co.",
-    "Prince George Co.",
-    "Isle of Wight Co.",
-    "Surry Co.",
     "Virginia",
-    "United States",
-    "MC  G3881.C2.s62.U5G4 Surry"
+    "United States"
   ],
   "dct_issued_s": "1919",
   "dct_provenance_s": "Princeton",

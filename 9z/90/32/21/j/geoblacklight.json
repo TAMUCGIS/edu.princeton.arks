@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/9z903221j",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Flemington",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "9z903221j",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Flemington"
   ],
-  "dct_temporal_sm": "1921",
+  "dct_temporal_sm": [
+    "1921"
+  ],
   "georss_box_s": "40.49776 -74.869494 40.519105 -74.850499",
   "georss_polygon_s": "40.519105 -74.869494 40.519105 -74.850499 40.49776 -74.850499 40.49776 -74.869494 40.519105 -74.869494",
   "solr_geom": "ENVELOPE(-74.869494, -74.850499, 40.519105, 40.49776)",

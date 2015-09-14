@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/9w032484t",
-  "dc_creator_sm": "Michel-Levy, Mr.",
+  "dc_creator_sm": [
+    "Michel-Levy, Mr."
+  ],
   "dc_description_s": "Carte geologique detaillee de la France [a 1/80 000]: Chartres.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "9w032484t",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-19T22:36:38Z",
   "dc_title_s": "Carte geologique detaillee de la France [a 1/80 000]: Chartres.",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "France",
-  "dct_temporal_sm": "1938",
+  "dct_spatial_sm": [
+    "France"
+  ],
+  "dct_temporal_sm": [
+    "1938"
+  ],
   "georss_box_s": "48.41820 1.03080 48.77800 1.90170",
   "georss_polygon_s": "48.77800 1.03080 48.77800 1.90170 48.41820 1.90170 48.41820 1.03080 48.77800 1.03080",
   "solr_geom": "ENVELOPE(1.03080, 1.90170, 48.77800, 48.41820)",

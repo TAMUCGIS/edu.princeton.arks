@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/6395w9523",
-  "dc_creator_sm": "Harris, John,",
+  "dc_creator_sm": [
+    "Harris, John,"
+  ],
   "dc_description_s": "Plans of the old & new city of Peking ye. metropolis of China",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "6395w9523",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-21T22:24:00Z",
   "dc_title_s": "Plans of the old & new city of Peking ye. metropolis of China",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Beijing (China)",
-  "dct_temporal_sm": "1748",
+  "dct_spatial_sm": [
+    "Beijing (China)"
+  ],
+  "dct_temporal_sm": [
+    "1748"
+  ],
   "georss_box_s": "39.4424669 115.4165193 41.0586089 117.5071157",
   "georss_polygon_s": "41.0586089 115.4165193 41.0586089 117.5071157 39.4424669 117.5071157 39.4424669 115.4165193 41.0586089 115.4165193",
   "solr_geom": "ENVELOPE(115.4165193, 117.5071157, 41.0586089, 39.4424669)",

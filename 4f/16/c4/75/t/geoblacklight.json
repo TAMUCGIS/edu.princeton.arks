@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/4f16c475t",
-  "dc_creator_sm": "Disturnell, John,",
+  "dc_creator_sm": [
+    "Disturnell, John,"
+  ],
   "dc_description_s": "Mexican boundary B. Extract from the treaty map of Disturnell of 1847",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "4f16c475t",
@@ -17,7 +19,9 @@
     "United States",
     "Mexico"
   ],
-  "dct_temporal_sm": "1851",
+  "dct_temporal_sm": [
+    "1851"
+  ],
   "georss_box_s": "-14.7608357 -179.9999999 71.6048217 180",
   "georss_polygon_s": "71.6048217 -179.9999999 71.6048217 180 -14.7608357 180 -14.7608357 -179.9999999 71.6048217 -179.9999999",
   "solr_geom": "ENVELOPE(-179.9999999, 180, 71.6048217, -14.7608357)",

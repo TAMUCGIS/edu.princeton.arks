@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/d217qs05k",
-  "dc_creator_sm": "Henshall, J.,",
+  "dc_creator_sm": [
+    "Henshall, J.,"
+  ],
   "dc_description_s": "Madrid",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "d217qs05k",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-25T02:06:20Z",
   "dc_title_s": "Madrid",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Madrid (Spain)",
-  "dct_temporal_sm": "1831",
+  "dct_spatial_sm": [
+    "Madrid (Spain)"
+  ],
+  "dct_temporal_sm": [
+    "1831"
+  ],
   "georss_box_s": "40.3121886 -3.8889538 40.6437293 -3.5179162",
   "georss_polygon_s": "40.6437293 -3.8889538 40.6437293 -3.5179162 40.3121886 -3.5179162 40.3121886 -3.8889538 40.6437293 -3.8889538",
   "solr_geom": "ENVELOPE(-3.8889538, -3.5179162, 40.6437293, 40.3121886)",

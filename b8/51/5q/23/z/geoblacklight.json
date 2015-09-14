@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/b8515q23z",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Asbury Park",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "b8515q23z",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Asbury Park"
   ],
-  "dct_temporal_sm": "1905",
+  "dct_temporal_sm": [
+    "1905"
+  ],
   "georss_box_s": "40.213125 -74.027256 40.231222 -73.994681",
   "georss_polygon_s": "40.231222 -74.027256 40.231222 -73.994681 40.213125 -73.994681 40.213125 -74.027256 40.231222 -74.027256",
   "solr_geom": "ENVELOPE(-74.027256, -73.994681, 40.231222, 40.213125)",

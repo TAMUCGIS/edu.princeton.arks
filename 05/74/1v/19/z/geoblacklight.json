@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/05741v19z",
-  "dc_creator_sm": "Scudder, Richard B.",
+  "dc_creator_sm": [
+    "Scudder, Richard B."
+  ],
   "dc_description_s": "Map of the City of Newark",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "05741v19z",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-21T22:24:18Z",
   "dc_title_s": "Map of the City of Newark",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Newark (N.J.)",
-  "dct_temporal_sm": "1853",
+  "dct_spatial_sm": [
+
+  ],
+  "dct_temporal_sm": [
+    "1853"
+  ],
   "georss_box_s": "40.673903 -74.2513239 40.7881387 -74.1127869",
   "georss_polygon_s": "40.7881387 -74.2513239 40.7881387 -74.1127869 40.673903 -74.1127869 40.673903 -74.2513239 40.7881387 -74.2513239",
   "solr_geom": "ENVELOPE(-74.2513239, -74.1127869, 40.7881387, 40.673903)",

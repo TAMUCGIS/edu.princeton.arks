@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/hm50tv05h",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Scotch Plains",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "hm50tv05h",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Scotch Plains"
   ],
-  "dct_temporal_sm": "1910",
+  "dct_temporal_sm": [
+    "1910"
+  ],
   "georss_box_s": "40.600901 -74.408267 40.678234 -74.325635",
   "georss_polygon_s": "40.678234 -74.408267 40.678234 -74.325635 40.600901 -74.325635 40.600901 -74.408267 40.678234 -74.408267",
   "solr_geom": "ENVELOPE(-74.408267, -74.325635, 40.678234, 40.600901)",

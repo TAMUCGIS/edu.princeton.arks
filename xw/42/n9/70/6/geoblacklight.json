@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/xw42n9706",
-  "dc_creator_sm": "Vermeule, Cornelius Clarkson.",
+  "dc_creator_sm": [
+    "Vermeule, Cornelius Clarkson."
+  ],
   "dc_description_s": "New Jersey: Princeton Quadrangle",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "xw42n9706",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-19T22:36:35Z",
   "dc_title_s": "New Jersey: Princeton Quadrangle",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Princeton (N.J.)",
-  "dct_temporal_sm": "1942",
+  "dct_spatial_sm": [
+
+  ],
+  "dct_temporal_sm": [
+    "1942"
+  ],
   "georss_box_s": "40.25000 -74.75000 40.50000 -74.50000",
   "georss_polygon_s": "40.50000 -74.75000 40.50000 -74.50000 40.25000 -74.50000 40.25000 -74.75000 40.50000 -74.75000",
   "solr_geom": "ENVELOPE(-74.75000, -74.50000, 40.50000, 40.25000)",

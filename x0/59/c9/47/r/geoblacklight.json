@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/x059c947r",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Mendham",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "x059c947r",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Mendham"
   ],
-  "dct_temporal_sm": "1915",
+  "dct_temporal_sm": [
+    "1915"
+  ],
   "georss_box_s": "39.432333 -74.747661 39.472333 -74.707661",
   "georss_polygon_s": "39.472333 -74.747661 39.472333 -74.707661 39.432333 -74.707661 39.432333 -74.747661 39.472333 -74.747661",
   "solr_geom": "ENVELOPE(-74.747661, -74.707661, 39.472333, 39.432333)",

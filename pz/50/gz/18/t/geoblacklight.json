@@ -12,8 +12,12 @@
   "layer_modified_dt": "2015-01-19T22:36:57Z",
   "dc_title_s": "Railroad and county map of Alabama",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Alabama",
-  "dct_temporal_sm": "1888",
+  "dct_spatial_sm": [
+    "Alabama"
+  ],
+  "dct_temporal_sm": [
+    "1888"
+  ],
   "georss_box_s": "30.25 -88.5 35.0 -84.8666666667",
   "georss_polygon_s": "35.0 -88.5 35.0 -84.8666666667 30.25 -84.8666666667 30.25 -88.5 35.0 -88.5",
   "solr_geom": "ENVELOPE(-88.5, -84.8666666667, 35.0, 30.25)",

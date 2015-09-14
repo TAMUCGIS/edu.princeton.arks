@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/7p88cj76s",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Penns Grove",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "7p88cj76s",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Penns Grove"
   ],
-  "dct_temporal_sm": "1927",
+  "dct_temporal_sm": [
+    "1927"
+  ],
   "georss_box_s": "39.717341 -75.477169 39.739351 -75.460459",
   "georss_polygon_s": "39.739351 -75.477169 39.739351 -75.460459 39.717341 -75.460459 39.717341 -75.477169 39.739351 -75.477169",
   "solr_geom": "ENVELOPE(-75.477169, -75.460459, 39.739351, 39.717341)",

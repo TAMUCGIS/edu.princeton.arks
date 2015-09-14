@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/jw827d86t",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Wayne",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "jw827d86t",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Wayne"
   ],
-  "dct_temporal_sm": "1935",
+  "dct_temporal_sm": [
+    "1935"
+  ],
   "georss_box_s": "40.882871 -74.289186 41.014024 -74.195541",
   "georss_polygon_s": "41.014024 -74.289186 41.014024 -74.195541 40.882871 -74.195541 40.882871 -74.289186 41.014024 -74.289186",
   "solr_geom": "ENVELOPE(-74.289186, -74.195541, 41.014024, 40.882871)",

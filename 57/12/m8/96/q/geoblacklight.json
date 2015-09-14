@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/5712m896q",
-  "dc_creator_sm": "Welcke, Robert A.,",
+  "dc_creator_sm": [
+    "Welcke, Robert A.,"
+  ],
   "dc_description_s": "Bird's eye view of greater New York and vicinity.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "5712m896q",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-21T22:24:00Z",
   "dc_title_s": "Bird's eye view of greater New York and vicinity.",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "New York Metropolitan Area",
-  "dct_temporal_sm": "1906",
+  "dct_spatial_sm": [
+    "New York Metropolitan Area"
+  ],
+  "dct_temporal_sm": [
+    "1906"
+  ],
   "georss_box_s": "40.3240577237 -75.3687090406 41.6971973419 -72.1841588188",
   "georss_polygon_s": "41.6971973419 -75.3687090406 41.6971973419 -72.1841588188 40.3240577237 -72.1841588188 40.3240577237 -75.3687090406 41.6971973419 -75.3687090406",
   "solr_geom": "ENVELOPE(-75.3687090406, -72.1841588188, 41.6971973419, 40.3240577237)",

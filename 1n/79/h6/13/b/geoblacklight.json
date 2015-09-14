@@ -16,8 +16,12 @@
   "layer_modified_dt": "2015-01-19T22:36:43Z",
   "dc_title_s": "The world",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "World",
-  "dct_temporal_sm": "1965",
+  "dct_spatial_sm": [
+    "World"
+  ],
+  "dct_temporal_sm": [
+    "1965"
+  ],
   "georss_box_s": "-90.00000 -100.00000 80.00000 90.00000",
   "georss_polygon_s": "80.00000 -100.00000 80.00000 90.00000 -90.00000 90.00000 -90.00000 -100.00000 80.00000 -100.00000",
   "solr_geom": "ENVELOPE(-100.00000, 90.00000, 80.00000, -90.00000)",

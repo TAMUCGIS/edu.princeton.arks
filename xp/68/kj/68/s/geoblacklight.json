@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/xp68kj68s",
-  "dc_creator_sm": "Michal, Jacques,",
+  "dc_creator_sm": [
+    "Michal, Jacques,"
+  ],
   "dc_description_s": "Circuli Sueuiae mappa",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "xp68kj68s",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-21T22:24:12Z",
   "dc_title_s": "Circuli Sueuiae mappa",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Baden-Württemberg (Germany)",
-  "dct_temporal_sm": "1743",
+  "dct_spatial_sm": [
+    "Baden-Württemberg (Germany)"
+  ],
+  "dct_temporal_sm": [
+    "1743"
+  ],
   "georss_box_s": "47.5324787 7.5117461 49.7913277 10.4955731",
   "georss_polygon_s": "49.7913277 7.5117461 49.7913277 10.4955731 47.5324787 10.4955731 47.5324787 7.5117461 49.7913277 7.5117461",
   "solr_geom": "ENVELOPE(7.5117461, 10.4955731, 49.7913277, 47.5324787)",

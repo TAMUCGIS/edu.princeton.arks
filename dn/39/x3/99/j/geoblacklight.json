@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/dn39x399j",
-  "dc_creator_sm": "Berghaus, Heinrich Karl Wilhelm,",
+  "dc_creator_sm": [
+    "Berghaus, Heinrich Karl Wilhelm,"
+  ],
   "dc_description_s": "Karte von Syrien : den Manen Jacotin's und Burckhardt's gewidmet",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "dn39x399j",
@@ -18,7 +20,9 @@
     "Lebanon",
     "Syria"
   ],
-  "dct_temporal_sm": "1835",
+  "dct_temporal_sm": [
+    "1835"
+  ],
   "georss_box_s": "29.4533796 34.2676025 33.3356317 35.8950234",
   "georss_polygon_s": "33.3356317 34.2676025 33.3356317 35.8950234 29.4533796 35.8950234 29.4533796 34.2676025 33.3356317 34.2676025",
   "solr_geom": "ENVELOPE(34.2676025, 35.8950234, 33.3356317, 29.4533796)",

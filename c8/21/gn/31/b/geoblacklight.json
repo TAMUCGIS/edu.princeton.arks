@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/c821gn31b",
-  "dc_creator_sm": "Woerl, Leo,",
+  "dc_creator_sm": [
+    "Woerl, Leo,"
+  ],
   "dc_description_s": "Erlangen",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "c821gn31b",
@@ -17,7 +19,9 @@
     "Erlangen (Germany)",
     "Bavaria (Germany)"
   ],
-  "dct_temporal_sm": "1905",
+  "dct_temporal_sm": [
+    "1905"
+  ],
   "georss_box_s": "49.4381208 10.8436532 49.7581208 11.1636532",
   "georss_polygon_s": "49.7581208 10.8436532 49.7581208 11.1636532 49.4381208 11.1636532 49.4381208 10.8436532 49.7581208 10.8436532",
   "solr_geom": "ENVELOPE(10.8436532, 11.1636532, 49.7581208, 49.4381208)",

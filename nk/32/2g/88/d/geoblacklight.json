@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/nk322g88d",
-  "dc_creator_sm": "Andrews, John,",
+  "dc_creator_sm": [
+    "Andrews, John,"
+  ],
   "dc_description_s": "A plan of the city of Lisbon",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "nk322g88d",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-25T02:06:20Z",
   "dc_title_s": "A plan of the city of Lisbon",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Lisbon (Portugal)",
-  "dct_temporal_sm": "1771",
+  "dct_spatial_sm": [
+    "Lisbon (Portugal)"
+  ],
+  "dct_temporal_sm": [
+    "1771"
+  ],
   "georss_box_s": "38.6914845 -9.2294567 38.7957485 -9.0895574",
   "georss_polygon_s": "38.7957485 -9.2294567 38.7957485 -9.0895574 38.6914845 -9.0895574 38.6914845 -9.2294567 38.7957485 -9.2294567",
   "solr_geom": "ENVELOPE(-9.2294567, -9.0895574, 38.7957485, 38.6914845)",

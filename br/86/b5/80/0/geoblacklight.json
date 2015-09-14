@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/br86b5800",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Woodstown",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "br86b5800",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Woodstown"
   ],
-  "dct_temporal_sm": "1909",
+  "dct_temporal_sm": [
+    "1909"
+  ],
   "georss_box_s": "39.637336 -75.336228 39.663762 -75.314644",
   "georss_polygon_s": "39.663762 -75.336228 39.663762 -75.314644 39.637336 -75.314644 39.637336 -75.336228 39.663762 -75.336228",
   "solr_geom": "ENVELOPE(-75.336228, -75.314644, 39.663762, 39.637336)",

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/qb98mh505",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Williamstown",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "qb98mh505",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Williamstown"
   ],
-  "dct_temporal_sm": "1910",
+  "dct_temporal_sm": [
+    "1910"
+  ],
   "georss_box_s": "39.666226 -75.015168 39.706226 -74.975168",
   "georss_polygon_s": "39.706226 -75.015168 39.706226 -74.975168 39.666226 -74.975168 39.666226 -75.015168 39.706226 -75.015168",
   "solr_geom": "ENVELOPE(-75.015168, -74.975168, 39.706226, 39.666226)",

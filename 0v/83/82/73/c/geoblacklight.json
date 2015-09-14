@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/0v838273c",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Haskell",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "0v838273c",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Haskell"
   ],
-  "dct_temporal_sm": "1914",
+  "dct_temporal_sm": [
+    "1914"
+  ],
   "georss_box_s": "41.00843 -74.315982 41.04843 -74.275982",
   "georss_polygon_s": "41.04843 -74.315982 41.04843 -74.275982 41.00843 -74.275982 41.00843 -74.315982 41.04843 -74.315982",
   "solr_geom": "ENVELOPE(-74.315982, -74.275982, 41.04843, 41.00843)",

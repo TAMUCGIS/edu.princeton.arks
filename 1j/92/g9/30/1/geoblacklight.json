@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/1j92g9301",
-  "dc_creator_sm": "Thomas, H.",
+  "dc_creator_sm": [
+    "Thomas, H."
+  ],
   "dc_description_s": "Carte geologique detaillee de la France [a 1/80 000]: Beauvais.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "1j92g9301",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-19T22:36:37Z",
   "dc_title_s": "Carte geologique detaillee de la France [a 1/80 000]: Beauvais.",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "France",
-  "dct_temporal_sm": "1912",
+  "dct_spatial_sm": [
+    "France"
+  ],
+  "dct_temporal_sm": [
+    "1912"
+  ],
   "georss_box_s": "49.13770 1.89540 49.49750 2.77900",
   "georss_polygon_s": "49.49750 1.89540 49.49750 2.77900 49.13770 2.77900 49.13770 1.89540 49.49750 1.89540",
   "solr_geom": "ENVELOPE(1.89540, 2.77900, 49.49750, 49.13770)",

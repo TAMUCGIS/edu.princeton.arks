@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/dv13zw57n",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of North Arlington",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "dv13zw57n",
@@ -25,7 +27,9 @@
     "New Jersey",
     "North Arlington"
   ],
-  "dct_temporal_sm": "1922",
+  "dct_temporal_sm": [
+    "1922"
+  ],
   "georss_box_s": "40.7701 -74.147529 40.805282 -74.102385",
   "georss_polygon_s": "40.805282 -74.147529 40.805282 -74.102385 40.7701 -74.102385 40.7701 -74.147529 40.805282 -74.147529",
   "solr_geom": "ENVELOPE(-74.147529, -74.102385, 40.805282, 40.7701)",

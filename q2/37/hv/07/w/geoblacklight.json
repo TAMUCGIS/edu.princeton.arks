@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/q237hv07w",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Bloomingdale",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "q237hv07w",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Bloomingdale"
   ],
-  "dct_temporal_sm": "1901",
+  "dct_temporal_sm": [
+    "1901"
+  ],
   "georss_box_s": "40.998442 -74.363116 41.068396 -74.300322",
   "georss_polygon_s": "41.068396 -74.363116 41.068396 -74.300322 40.998442 -74.300322 40.998442 -74.363116 41.068396 -74.363116",
   "solr_geom": "ENVELOPE(-74.363116, -74.300322, 41.068396, 40.998442)",

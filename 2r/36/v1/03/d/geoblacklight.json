@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/2r36v103d",
-  "dc_creator_sm": "Woerl, Leo,",
+  "dc_creator_sm": [
+    "Woerl, Leo,"
+  ],
   "dc_description_s": "Umgebungskarte von Eisenach bis Ruhla",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "2r36v103d",
@@ -18,7 +20,9 @@
     "Ruhla (Germany)",
     "Thuringia (Germany)"
   ],
-  "dct_temporal_sm": "1906",
+  "dct_temporal_sm": [
+    "1906"
+  ],
   "georss_box_s": "50.9433 10.2766999 51.0233 10.3566999",
   "georss_polygon_s": "51.0233 10.2766999 51.0233 10.3566999 50.9433 10.3566999 50.9433 10.2766999 51.0233 10.2766999",
   "solr_geom": "ENVELOPE(10.2766999, 10.3566999, 51.0233, 50.9433)",

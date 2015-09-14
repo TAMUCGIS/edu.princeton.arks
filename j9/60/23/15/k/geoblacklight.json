@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/j9602315k",
-  "dc_creator_sm": "Thoreau, Henry David,",
+  "dc_creator_sm": [
+    "Thoreau, Henry David,"
+  ],
   "dc_description_s": "Map of the town of Concord, Middlesex County Mass.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "j9602315k",
@@ -14,10 +16,11 @@
   "dc_title_s": "Map of the town of Concord, Middlesex County Mass.",
   "dc_type_s": "Image",
   "dct_spatial_sm": [
-    "Concord (Mass. : Town)",
-    "Walden Pond (Middlesex County, Mass.)"
+
   ],
-  "dct_temporal_sm": "1852",
+  "dct_temporal_sm": [
+    "1852"
+  ],
   "georss_box_s": "42.4126909 -71.4302758 42.504563 -71.2890488",
   "georss_polygon_s": "42.504563 -71.4302758 42.504563 -71.2890488 42.4126909 -71.2890488 42.4126909 -71.4302758 42.504563 -71.4302758",
   "solr_geom": "ENVELOPE(-71.4302758, -71.2890488, 42.504563, 42.4126909)",

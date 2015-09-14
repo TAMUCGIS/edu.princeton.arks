@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/2z10ws12t",
-  "dc_creator_sm": "Miller, J. Davis. Miller's new and complete illustrated guide through Glasgow.",
+  "dc_creator_sm": [
+    "Miller, J. Davis. Miller's new and complete illustrated guide through Glasgow."
+  ],
   "dc_description_s": "New pictorial map of Glasgow",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "2z10ws12t",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-21T22:23:49Z",
   "dc_title_s": "New pictorial map of Glasgow",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Glasgow (Scotland)",
-  "dct_temporal_sm": "1865",
+  "dct_spatial_sm": [
+    "Glasgow (Scotland)"
+  ],
+  "dct_temporal_sm": [
+    "1865"
+  ],
   "georss_box_s": "55.701147 -4.4099891 56.021147 -4.0899891",
   "georss_polygon_s": "56.021147 -4.4099891 56.021147 -4.0899891 55.701147 -4.0899891 55.701147 -4.4099891 56.021147 -4.4099891",
   "solr_geom": "ENVELOPE(-4.4099891, -4.0899891, 56.021147, 55.701147)",

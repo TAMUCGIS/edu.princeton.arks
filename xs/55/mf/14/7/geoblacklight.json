@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/xs55mf147",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Town of Union",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "xs55mf147",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Town of Union"
   ],
-  "dct_temporal_sm": "1910",
+  "dct_temporal_sm": [
+    "1910"
+  ],
   "georss_box_s": "40.670169 -74.312226 40.722268 -74.222252",
   "georss_polygon_s": "40.722268 -74.312226 40.722268 -74.222252 40.670169 -74.222252 40.670169 -74.312226 40.722268 -74.312226",
   "solr_geom": "ENVELOPE(-74.312226, -74.222252, 40.722268, 40.670169)",

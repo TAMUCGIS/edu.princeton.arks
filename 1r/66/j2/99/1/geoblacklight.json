@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/1r66j2991",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Little Silver",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "1r66j2991",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Little Silver"
   ],
-  "dct_temporal_sm": "1907",
+  "dct_temporal_sm": [
+    "1907"
+  ],
   "georss_box_s": "40.320494 -74.063703 40.352242 -74.002658",
   "georss_polygon_s": "40.352242 -74.063703 40.352242 -74.002658 40.320494 -74.002658 40.320494 -74.063703 40.352242 -74.063703",
   "solr_geom": "ENVELOPE(-74.063703, -74.002658, 40.352242, 40.320494)",

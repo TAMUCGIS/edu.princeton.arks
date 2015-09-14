@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/8p58pf58b",
-  "dc_creator_sm": "Army Map Service",
+  "dc_creator_sm": [
+    "Army Map Service"
+  ],
   "dc_description_s": "This is a map of the city of Forli, Italy, shown at a 1:10,000 scale. The map was created for use by War and Navy Department agencies during World War II.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "8p58pf58b",
@@ -15,15 +17,13 @@
     "World War II",
     "City map",
     "Military",
-    "Facilities and Structures",
-    "MAX  G6714.F7.1942.W3O3"
+    "Facilities and Structures"
   ],
   "dc_title_s": " Forli. G.S.G.S. 4380.",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://geowebservices.princeton.edu/iiif/pulmap%2F8p%2F58%2Fpf%2F58%2Fb%2F00000001.jp2%2Finfo.json\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/8p58pf58b\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/8p58pf58b/fgdc.xml\"}",
   "dct_spatial_sm": [
     "Forli",
-    "Forli Prov.",
     "Emilia-Romagna Regioni",
     "Italy"
   ],

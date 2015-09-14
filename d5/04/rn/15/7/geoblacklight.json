@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/d504rn157",
-  "dc_creator_sm": "Peary, Robert E.",
+  "dc_creator_sm": [
+    "Peary, Robert E."
+  ],
   "dc_description_s": "Flat-globe of the world /",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "d504rn157",
@@ -17,7 +19,9 @@
     "Eastern Hemisphere",
     "Western Hemisphere"
   ],
-  "dct_temporal_sm": "1905",
+  "dct_temporal_sm": [
+    "1905"
+  ],
   "georss_box_s": "-90 0 90 180",
   "georss_polygon_s": "90 0 90 180 -90 180 -90 0 90 0",
   "solr_geom": "ENVELOPE(0, 180, 90, -90)",

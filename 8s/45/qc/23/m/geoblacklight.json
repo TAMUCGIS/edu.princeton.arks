@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/8s45qc23m",
-  "dc_creator_sm": "Ortelius, Abraham,",
+  "dc_creator_sm": [
+    "Ortelius, Abraham,"
+  ],
   "dc_description_s": "Belgii veteris typus",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "8s45qc23m",
@@ -17,7 +19,9 @@
     "Belgium",
     "Netherlands"
   ],
-  "dct_temporal_sm": "1584",
+  "dct_temporal_sm": [
+    "1584"
+  ],
   "georss_box_s": "49.4969821 2.3889137 51.5516667 6.4080405",
   "georss_polygon_s": "51.5516667 2.3889137 51.5516667 6.4080405 49.4969821 6.4080405 49.4969821 2.3889137 51.5516667 2.3889137",
   "solr_geom": "ENVELOPE(2.3889137, 6.4080405, 51.5516667, 49.4969821)",

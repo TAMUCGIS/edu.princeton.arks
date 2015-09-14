@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/37720f52m",
-  "dc_creator_sm": "Moench, Robert H.",
+  "dc_creator_sm": [
+    "Moench, Robert H."
+  ],
   "dc_description_s": "Geologic map of the Seboyeta Quadrangle, New Mexico",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "37720f52m",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-19T22:36:33Z",
   "dc_title_s": "Geologic map of the Seboyeta Quadrangle, New Mexico",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Seboyeta (N.M.)",
-  "dct_temporal_sm": "1963",
+  "dct_spatial_sm": [
+
+  ],
+  "dct_temporal_sm": [
+    "1963"
+  ],
   "georss_box_s": "35.11667 -107.50000 35.25000 -107.36667",
   "georss_polygon_s": "35.25000 -107.50000 35.25000 -107.36667 35.11667 -107.36667 35.11667 -107.50000 35.25000 -107.50000",
   "solr_geom": "ENVELOPE(-107.50000, -107.36667, 35.25000, 35.11667)",

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/12579v75k",
-  "dc_creator_sm": "Moll, Herman,",
+  "dc_creator_sm": [
+    "Moll, Herman,"
+  ],
   "dc_description_s": "Germany",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "12579v75k",
@@ -18,7 +20,9 @@
     "Germany",
     "Poland"
   ],
-  "dct_temporal_sm": "1701",
+  "dct_temporal_sm": [
+    "1701"
+  ],
   "georss_box_s": "46.3722761 9.5307265 49.0205304 17.160776",
   "georss_polygon_s": "49.0205304 9.5307265 49.0205304 17.160776 46.3722761 17.160776 46.3722761 9.5307265 49.0205304 9.5307265",
   "solr_geom": "ENVELOPE(9.5307265, 17.160776, 49.0205304, 46.3722761)",

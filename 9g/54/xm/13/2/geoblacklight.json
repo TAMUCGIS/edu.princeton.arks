@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/9g54xm132",
-  "dc_creator_sm": "Moll, Herman,",
+  "dc_creator_sm": [
+    "Moll, Herman,"
+  ],
   "dc_description_s": "Dominia Anglorum in America Septentrionali.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "9g54xm132",
@@ -20,7 +22,9 @@
     "South Carolina",
     "North Carolina"
   ],
-  "dct_temporal_sm": "1737",
+  "dct_temporal_sm": [
+    "1737"
+  ],
   "georss_box_s": "24.396308 -87.6348959 31.000968 -79.9743059",
   "georss_polygon_s": "31.000968 -87.6348959 31.000968 -79.9743059 24.396308 -79.9743059 24.396308 -87.6348959 31.000968 -87.6348959",
   "solr_geom": "ENVELOPE(-87.6348959, -79.9743059, 31.000968, 24.396308)",

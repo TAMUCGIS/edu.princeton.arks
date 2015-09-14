@@ -18,8 +18,12 @@
   "layer_modified_dt": "2015-01-21T22:24:17Z",
   "dc_title_s": "An accurate map of North Wales : divided into its counties ; viz. Carnarvonshire, Flintshire, Denbeighshire, Merionythshire, Montgomeryshire with the Isle of Anglesey : improved from the best surveys & intelligences and illustrated with historical extracts relative to its air, soil, natural produce, trade, manufactures &c.",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Wales, North",
-  "dct_temporal_sm": "1760",
+  "dct_spatial_sm": [
+    "Wales, North"
+  ],
+  "dct_temporal_sm": [
+    "1760"
+  ],
   "georss_box_s": "52.4323363268 -5.6700973 53.4356935 -2.6497994",
   "georss_polygon_s": "53.4356935 -5.6700973 53.4356935 -2.6497994 52.4323363268 -2.6497994 52.4323363268 -5.6700973 53.4356935 -5.6700973",
   "solr_geom": "ENVELOPE(-5.6700973, -2.6497994, 53.4356935, 52.4323363268)",

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/rb68xd79w",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Millville",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "rb68xd79w",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Millville"
   ],
-  "dct_temporal_sm": "1929",
+  "dct_temporal_sm": [
+    "1929"
+  ],
   "georss_box_s": "39.332481 -75.14901 39.44701 -74.950823",
   "georss_polygon_s": "39.44701 -75.14901 39.44701 -74.950823 39.332481 -74.950823 39.332481 -75.14901 39.44701 -75.14901",
   "solr_geom": "ENVELOPE(-75.14901, -74.950823, 39.44701, 39.332481)",

@@ -12,8 +12,12 @@
   "layer_modified_dt": "2015-01-19T22:36:34Z",
   "dc_title_s": "England 1:10 000, Cardiff, BB 32a",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Cardiff (England)",
-  "dct_temporal_sm": "1942",
+  "dct_spatial_sm": [
+    "Cardiff (England)"
+  ],
+  "dct_temporal_sm": [
+    "1942"
+  ],
   "georss_box_s": "51.48333 -3.25000 51.50000 -3.20000",
   "georss_polygon_s": "51.50000 -3.25000 51.50000 -3.20000 51.48333 -3.20000 51.48333 -3.25000 51.50000 -3.25000",
   "solr_geom": "ENVELOPE(-3.25000, -3.20000, 51.50000, 51.48333)",

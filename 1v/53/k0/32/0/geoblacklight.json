@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/1v53k0320",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Atlantic City",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "1v53k0320",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Atlantic City"
   ],
-  "dct_temporal_sm": "1921",
+  "dct_temporal_sm": [
+    "1921"
+  ],
   "georss_box_s": "39.335544 -74.501592 39.417678 -74.402886",
   "georss_polygon_s": "39.417678 -74.501592 39.417678 -74.402886 39.335544 -74.402886 39.335544 -74.501592 39.417678 -74.501592",
   "solr_geom": "ENVELOPE(-74.501592, -74.402886, 39.417678, 39.335544)",

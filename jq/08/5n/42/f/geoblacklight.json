@@ -12,8 +12,12 @@
   "layer_modified_dt": "2015-01-25T02:06:12Z",
   "dc_title_s": "Mapa del Peru",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Peru",
-  "dct_temporal_sm": "1880",
+  "dct_spatial_sm": [
+    "Peru"
+  ],
+  "dct_temporal_sm": [
+    "1880"
+  ],
   "georss_box_s": "-20.1984471 -84.6732789 -0.0392817 -68.6519905",
   "georss_polygon_s": "-0.0392817 -84.6732789 -0.0392817 -68.6519905 -20.1984471 -68.6519905 -20.1984471 -84.6732789 -0.0392817 -84.6732789",
   "solr_geom": "ENVELOPE(-84.6732789, -68.6519905, -0.0392817, -20.1984471)",

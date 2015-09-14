@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/5712m8779",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Sussex",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "5712m8779",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Sussex"
   ],
-  "dct_temporal_sm": "1904",
+  "dct_temporal_sm": [
+    "1904"
+  ],
   "georss_box_s": "41.202844 -74.6165461 41.2163271 -74.5985659",
   "georss_polygon_s": "41.2163271 -74.6165461 41.2163271 -74.5985659 41.202844 -74.5985659 41.202844 -74.6165461 41.2163271 -74.6165461",
   "solr_geom": "ENVELOPE(-74.6165461, -74.5985659, 41.2163271, 41.202844)",

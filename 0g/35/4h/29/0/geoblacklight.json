@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/0g354h290",
-  "dc_creator_sm": "Cruchley, G. F.,",
+  "dc_creator_sm": [
+    "Cruchley, G. F.,"
+  ],
   "dc_description_s": "Cary's new plan of London and its vicinity",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "0g354h290",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-21T22:23:54Z",
   "dc_title_s": "Cary's new plan of London and its vicinity",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "London (England)",
-  "dct_temporal_sm": "1855",
+  "dct_spatial_sm": [
+    "London (England)"
+  ],
+  "dct_temporal_sm": [
+    "1855"
+  ],
   "georss_box_s": "51.2867602 -0.510375 51.6918741 0.3340155",
   "georss_polygon_s": "51.6918741 -0.510375 51.6918741 0.3340155 51.2867602 0.3340155 51.2867602 -0.510375 51.6918741 -0.510375",
   "solr_geom": "ENVELOPE(-0.510375, 0.3340155, 51.6918741, 51.2867602)",

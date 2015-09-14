@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/dn39x406g",
-  "dc_creator_sm": "Grierson, George,",
+  "dc_creator_sm": [
+    "Grierson, George,"
+  ],
   "dc_description_s": "A draught of New York from the Hook to New York Town",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "dn39x406g",
@@ -14,11 +16,11 @@
   "dc_title_s": "A draught of New York from the Hook to New York Town",
   "dc_type_s": "Image",
   "dct_spatial_sm": [
-    "New York Harbor (N.Y. and N.J.)",
-    "New York Region",
-    "Sandy Hook (N.J.)"
+    "New York Region"
   ],
-  "dct_temporal_sm": "1749",
+  "dct_temporal_sm": [
+    "1749"
+  ],
   "georss_box_s": "40.3837099138 -74.3030352125 40.7926856614 -73.698898809",
   "georss_polygon_s": "40.7926856614 -74.3030352125 40.7926856614 -73.698898809 40.3837099138 -73.698898809 40.3837099138 -74.3030352125 40.7926856614 -74.3030352125",
   "solr_geom": "ENVELOPE(-74.3030352125, -73.698898809, 40.7926856614, 40.3837099138)",

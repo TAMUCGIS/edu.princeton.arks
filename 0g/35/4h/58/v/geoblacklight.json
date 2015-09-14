@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/0g354h58v",
-  "dc_creator_sm": "Ptolemy,",
+  "dc_creator_sm": [
+    "Ptolemy,"
+  ],
   "dc_description_s": "Tabula Asiae XII",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "0g354h58v",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-21T22:23:59Z",
   "dc_title_s": "Tabula Asiae XII",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Sri Lanka",
-  "dct_temporal_sm": "1540",
+  "dct_spatial_sm": [
+    "Sri Lanka"
+  ],
+  "dct_temporal_sm": [
+    "1540"
+  ],
   "georss_box_s": "5.719 79.3741141 10.035 82.0810141",
   "georss_polygon_s": "10.035 79.3741141 10.035 82.0810141 5.719 82.0810141 5.719 79.3741141 10.035 79.3741141",
   "solr_geom": "ENVELOPE(79.3741141, 82.0810141, 10.035, 5.719)",

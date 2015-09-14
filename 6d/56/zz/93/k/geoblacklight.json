@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/6d56zz93k",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Westfield",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "6d56zz93k",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Westfield"
   ],
-  "dct_temporal_sm": "1909",
+  "dct_temporal_sm": [
+    "1909"
+  ],
   "georss_box_s": "40.6244 -74.379359 40.682192 -74.313192",
   "georss_polygon_s": "40.682192 -74.379359 40.682192 -74.313192 40.6244 -74.313192 40.6244 -74.379359 40.682192 -74.379359",
   "solr_geom": "ENVELOPE(-74.379359, -74.313192, 40.682192, 40.6244)",

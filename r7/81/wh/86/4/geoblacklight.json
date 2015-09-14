@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/r781wh864",
-  "dc_creator_sm": "Webb, Philip Barker,",
+  "dc_creator_sm": [
+    "Webb, Philip Barker,"
+  ],
   "dc_description_s": "Carte topographique de l'Ile de Ténériffe /",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "r781wh864",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-21T22:23:45Z",
   "dc_title_s": "Carte topographique de l'Ile de Ténériffe /",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Tenerife (Canary Islands)",
-  "dct_temporal_sm": "1834",
+  "dct_spatial_sm": [
+    "Tenerife (Canary Islands)"
+  ],
+  "dct_temporal_sm": [
+    "1834"
+  ],
   "georss_box_s": "27.9980751 -16.9259265 28.6053951 -16.1193832",
   "georss_polygon_s": "28.6053951 -16.9259265 28.6053951 -16.1193832 27.9980751 -16.1193832 27.9980751 -16.9259265 28.6053951 -16.9259265",
   "solr_geom": "ENVELOPE(-16.9259265, -16.1193832, 28.6053951, 27.9980751)",

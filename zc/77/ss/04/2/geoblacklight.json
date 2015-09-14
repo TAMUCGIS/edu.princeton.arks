@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/zc77ss042",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Lodi",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "zc77ss042",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Lodi"
   ],
-  "dct_temporal_sm": "1907",
+  "dct_temporal_sm": [
+    "1907"
+  ],
   "georss_box_s": "40.861442 -74.09864 40.895068 -74.064149",
   "georss_polygon_s": "40.895068 -74.09864 40.895068 -74.064149 40.861442 -74.064149 40.861442 -74.09864 40.895068 -74.09864",
   "solr_geom": "ENVELOPE(-74.09864, -74.064149, 40.895068, 40.861442)",

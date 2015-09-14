@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/cj82k9149",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Lebanon",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "cj82k9149",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Lebanon"
   ],
-  "dct_temporal_sm": "1930",
+  "dct_temporal_sm": [
+    "1930"
+  ],
   "georss_box_s": "40.634905 -74.848013 40.649903 -74.821217",
   "georss_polygon_s": "40.649903 -74.848013 40.649903 -74.821217 40.634905 -74.821217 40.634905 -74.848013 40.649903 -74.848013",
   "solr_geom": "ENVELOPE(-74.848013, -74.821217, 40.649903, 40.634905)",

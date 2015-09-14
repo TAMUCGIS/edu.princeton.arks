@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/ww72bd74n",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Manville",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "ww72bd74n",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Manville"
   ],
-  "dct_temporal_sm": "1928",
+  "dct_temporal_sm": [
+    "1928"
+  ],
   "georss_box_s": "40.526691 -74.608914 40.557713 -74.566073",
   "georss_polygon_s": "40.557713 -74.608914 40.557713 -74.566073 40.526691 -74.566073 40.526691 -74.608914 40.557713 -74.608914",
   "solr_geom": "ENVELOPE(-74.608914, -74.566073, 40.557713, 40.526691)",

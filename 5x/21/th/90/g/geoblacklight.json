@@ -17,8 +17,12 @@
   "layer_modified_dt": "2015-01-21T22:24:18Z",
   "dc_title_s": "A map of Kent : from the best authorities",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Kent (England)",
-  "dct_temporal_sm": "1805",
+  "dct_spatial_sm": [
+    "Kent (England)"
+  ],
+  "dct_temporal_sm": [
+    "1805"
+  ],
   "georss_box_s": "50.9104763 0.0335249 51.4822724 1.4517689",
   "georss_polygon_s": "51.4822724 0.0335249 51.4822724 1.4517689 50.9104763 1.4517689 50.9104763 0.0335249 51.4822724 0.0335249",
   "solr_geom": "ENVELOPE(0.0335249, 1.4517689, 51.4822724, 50.9104763)",

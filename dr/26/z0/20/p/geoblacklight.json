@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/dr26z020p",
-  "dc_creator_sm": "Grandjean, F. A.",
+  "dc_creator_sm": [
+    "Grandjean, F. A."
+  ],
   "dc_description_s": "Carte geologique detaillee de la France [a 1/80 000]: Caen.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "dr26z020p",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-19T22:36:37Z",
   "dc_title_s": "Carte geologique detaillee de la France [a 1/80 000]: Caen.",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "France",
-  "dct_temporal_sm": "1936",
+  "dct_spatial_sm": [
+    "France"
+  ],
+  "dct_temporal_sm": [
+    "1936"
+  ],
   "georss_box_s": "49.11910 -0.75430 49.47880 0.12840",
   "georss_polygon_s": "49.47880 -0.75430 49.47880 0.12840 49.11910 0.12840 49.11910 -0.75430 49.47880 -0.75430",
   "solr_geom": "ENVELOPE(-0.75430, 0.12840, 49.47880, 49.11910)",

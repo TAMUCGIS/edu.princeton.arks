@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/05741v240",
-  "dc_creator_sm": "Morden, Robert,",
+  "dc_creator_sm": [
+    "Morden, Robert,"
+  ],
   "dc_description_s": "Italia",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "05741v240",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-23T17:48:40Z",
   "dc_title_s": "Italia",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Italy",
-  "dct_temporal_sm": "1693",
+  "dct_spatial_sm": [
+    "Italy"
+  ],
+  "dct_temporal_sm": [
+    "1693"
+  ],
   "georss_box_s": "37.0 6.0 48.0 22.0",
   "georss_polygon_s": "48.0 6.0 48.0 22.0 37.0 22.0 37.0 6.0 48.0 6.0",
   "solr_geom": "ENVELOPE(6.0, 22.0, 48.0, 37.0)",

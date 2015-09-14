@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/g732db84n",
-  "dc_creator_sm": "Bickham, George,",
+  "dc_creator_sm": [
+    "Bickham, George,"
+  ],
   "dc_description_s": "A map of the King of Great Britain's dominions in Europe, Africa, and America",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "g732db84n",
@@ -20,7 +22,9 @@
     "North America",
     "Africa"
   ],
-  "dct_temporal_sm": "1743",
+  "dct_temporal_sm": [
+    "1743"
+  ],
   "georss_box_s": "9.9999501 -25.0000501 10.0000501 -24.9999501",
   "georss_polygon_s": "10.0000501 -25.0000501 10.0000501 -24.9999501 9.9999501 -24.9999501 9.9999501 -25.0000501 10.0000501 -25.0000501",
   "solr_geom": "ENVELOPE(-25.0000501, -24.9999501, 10.0000501, 9.9999501)",

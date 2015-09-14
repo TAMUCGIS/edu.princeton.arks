@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/5138jg772",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Browns Mills",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "5138jg772",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Browns Mills"
   ],
-  "dct_temporal_sm": "1929",
+  "dct_temporal_sm": [
+    "1929"
+  ],
   "georss_box_s": "39.952842 -74.600463 39.99041 -74.539823",
   "georss_polygon_s": "39.99041 -74.600463 39.99041 -74.539823 39.952842 -74.539823 39.952842 -74.600463 39.99041 -74.600463",
   "solr_geom": "ENVELOPE(-74.600463, -74.539823, 39.99041, 39.952842)",

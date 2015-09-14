@@ -16,8 +16,12 @@
   "layer_modified_dt": "2015-01-21T22:23:45Z",
   "dc_title_s": "State of Idaho /",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Idaho",
-  "dct_temporal_sm": "1909",
+  "dct_spatial_sm": [
+    "Idaho"
+  ],
+  "dct_temporal_sm": [
+    "1909"
+  ],
   "georss_box_s": "41.988057 -117.2430269 49.0008447 -111.0435639",
   "georss_polygon_s": "49.0008447 -117.2430269 49.0008447 -111.0435639 41.988057 -111.0435639 41.988057 -117.2430269 49.0008447 -117.2430269",
   "solr_geom": "ENVELOPE(-117.2430269, -111.0435639, 49.0008447, 41.988057)",

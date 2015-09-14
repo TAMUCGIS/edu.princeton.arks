@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/qb98mj01t",
-  "dc_creator_sm": "Guerra, Giuseppe,",
+  "dc_creator_sm": [
+    "Guerra, Giuseppe,"
+  ],
   "dc_description_s": "Napoli e suoi dintorni",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "qb98mj01t",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-25T02:06:21Z",
   "dc_title_s": "Napoli e suoi dintorni",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Naples (Italy : Province)",
-  "dct_temporal_sm": "1794",
+  "dct_spatial_sm": [
+    "Naples (Italy : Province)"
+  ],
+  "dct_temporal_sm": [
+    "1794"
+  ],
   "georss_box_s": "40.7919337 14.1394899 40.9159348 14.3537148",
   "georss_polygon_s": "40.9159348 14.1394899 40.9159348 14.3537148 40.7919337 14.3537148 40.7919337 14.1394899 40.9159348 14.1394899",
   "solr_geom": "ENVELOPE(14.1394899, 14.3537148, 40.9159348, 40.7919337)",

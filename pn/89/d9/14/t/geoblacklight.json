@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/pn89d914t",
-  "dc_creator_sm": "Bauerkeller, Georg,",
+  "dc_creator_sm": [
+    "Bauerkeller, Georg,"
+  ],
   "dc_description_s": "Australien (Neu Holland, Australland) im Maasstabe von 1:14400000 d.n.G.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "pn89d914t",
@@ -17,7 +19,9 @@
     "Australia",
     "New Zealand"
   ],
-  "dct_temporal_sm": "1849",
+  "dct_temporal_sm": [
+    "1849"
+  ],
   "georss_box_s": "-55.3228174 72.2460938 -9.190427 168.2249543",
   "georss_polygon_s": "-9.190427 72.2460938 -9.190427 168.2249543 -55.3228174 168.2249543 -55.3228174 72.2460938 -9.190427 72.2460938",
   "solr_geom": "ENVELOPE(72.2460938, 168.2249543, -9.190427, -55.3228174)",

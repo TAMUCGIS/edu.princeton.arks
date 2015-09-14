@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/tt44pp77x",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Anglesea",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "tt44pp77x",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Anglesea"
   ],
-  "dct_temporal_sm": "1890",
+  "dct_temporal_sm": [
+    "1890"
+  ],
   "georss_box_s": "38.998724 -74.814888 39.038724 -74.774888",
   "georss_polygon_s": "39.038724 -74.814888 39.038724 -74.774888 38.998724 -74.774888 38.998724 -74.814888 39.038724 -74.814888",
   "solr_geom": "ENVELOPE(-74.814888, -74.774888, 39.038724, 38.998724)",

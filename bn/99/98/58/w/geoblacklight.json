@@ -16,8 +16,12 @@
   "layer_modified_dt": "2015-01-21T22:23:44Z",
   "dc_title_s": "Novi orbis pars borealis, America scilicet, complectens Floridam, Baccalaon, Canadam, terram Corterialem, Virginiam, Norombecam, pluresque alias provincias",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "North America",
-  "dct_temporal_sm": "1600",
+  "dct_spatial_sm": [
+    "North America"
+  ],
+  "dct_temporal_sm": [
+    "1600"
+  ],
   "georss_box_s": "50.9999502 -109.0000502 51.0000502 -108.9999502",
   "georss_polygon_s": "51.0000502 -109.0000502 51.0000502 -108.9999502 50.9999502 -108.9999502 50.9999502 -109.0000502 51.0000502 -109.0000502",
   "solr_geom": "ENVELOPE(-109.0000502, -108.9999502, 51.0000502, 50.9999502)",

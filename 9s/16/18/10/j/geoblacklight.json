@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/9s161810j",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Little Ferry",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "9s161810j",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Little Ferry"
   ],
-  "dct_temporal_sm": "1925",
+  "dct_temporal_sm": [
+    "1925"
+  ],
   "georss_box_s": "40.82855 -74.053981 40.85919 -74.028418",
   "georss_polygon_s": "40.85919 -74.053981 40.85919 -74.028418 40.82855 -74.028418 40.82855 -74.053981 40.85919 -74.053981",
   "solr_geom": "ENVELOPE(-74.053981, -74.028418, 40.85919, 40.82855)",

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/6m311r15j",
-  "dc_creator_sm": "Smith, William,",
+  "dc_creator_sm": [
+    "Smith, William,"
+  ],
   "dc_description_s": "Plans of Nineveh, Troy, Carthage, Alexandria, and Constantinople",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "6m311r15j",
@@ -19,7 +21,9 @@
     "Alexandria (Egypt)",
     "Istanbul (Turkey)"
   ],
-  "dct_temporal_sm": "1874",
+  "dct_temporal_sm": [
+    "1874"
+  ],
   "georss_box_s": "39.8848797096 26.1419244373 40.011334784 26.3244516143",
   "georss_polygon_s": "40.011334784 26.1419244373 40.011334784 26.3244516143 39.8848797096 26.3244516143 39.8848797096 26.1419244373 40.011334784 26.1419244373",
   "solr_geom": "ENVELOPE(26.1419244373, 26.3244516143, 40.011334784, 39.8848797096)",

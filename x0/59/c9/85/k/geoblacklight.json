@@ -12,8 +12,12 @@
   "layer_modified_dt": "2015-01-23T17:48:38Z",
   "dc_title_s": "Japan",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Japan",
-  "dct_temporal_sm": "1904",
+  "dct_spatial_sm": [
+    "Japan"
+  ],
+  "dct_temporal_sm": [
+    "1904"
+  ],
   "georss_box_s": "22.0 120.0 52.0 157.0",
   "georss_polygon_s": "52.0 120.0 52.0 157.0 22.0 157.0 22.0 120.0 52.0 120.0",
   "solr_geom": "ENVELOPE(120.0, 157.0, 52.0, 22.0)",

@@ -18,8 +18,12 @@
   "layer_modified_dt": "2015-01-21T22:23:44Z",
   "dc_title_s": "Eastern hemisphere",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Eastern Hemisphere",
-  "dct_temporal_sm": "1851",
+  "dct_spatial_sm": [
+    "Eastern Hemisphere"
+  ],
+  "dct_temporal_sm": [
+    "1851"
+  ],
   "georss_box_s": "-90 0 90 180",
   "georss_polygon_s": "90 0 90 180 -90 180 -90 0 90 0",
   "solr_geom": "ENVELOPE(0, 180, 90, -90)",

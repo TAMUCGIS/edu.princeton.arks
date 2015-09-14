@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/bz60cz135",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Oceanic",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "bz60cz135",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Oceanic"
   ],
-  "dct_temporal_sm": "1907",
+  "dct_temporal_sm": [
+    "1907"
+  ],
   "georss_box_s": "40.369387 -74.021594 40.381581 -73.994687",
   "georss_polygon_s": "40.381581 -74.021594 40.381581 -73.994687 40.369387 -73.994687 40.369387 -74.021594 40.381581 -74.021594",
   "solr_geom": "ENVELOPE(-74.021594, -73.994687, 40.381581, 40.369387)",

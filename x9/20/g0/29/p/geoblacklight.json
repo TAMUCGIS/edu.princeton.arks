@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/x920g029p",
-  "dc_creator_sm": "Marshall, John,",
+  "dc_creator_sm": [
+    "Marshall, John,"
+  ],
   "dc_description_s": "Siége de Charlestown",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "x920g029p",
@@ -14,10 +16,11 @@
   "dc_title_s": "Siége de Charlestown",
   "dc_type_s": "Image",
   "dct_spatial_sm": [
-    "Charleston (S.C.)",
-    "Charleston (S.C.)"
+
   ],
-  "dct_temporal_sm": "1807",
+  "dct_temporal_sm": [
+    "1807"
+  ],
   "georss_box_s": "32.668505 -80.1438458 32.973515 -79.7970639",
   "georss_polygon_s": "32.973515 -80.1438458 32.973515 -79.7970639 32.668505 -79.7970639 32.668505 -80.1438458 32.973515 -80.1438458",
   "solr_geom": "ENVELOPE(-80.1438458, -79.7970639, 32.973515, 32.668505)",

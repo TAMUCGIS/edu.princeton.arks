@@ -19,8 +19,12 @@
   "layer_modified_dt": "2015-01-19T22:36:43Z",
   "dc_title_s": "Mineral atlas of the world. Map sheet no. 9: Europe and neighboring countries = Atlas mineral du monde. Feuille no. 9: Europe et des pays limitrophes",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Europe",
-  "dct_temporal_sm": "1997",
+  "dct_spatial_sm": [
+    "Europe"
+  ],
+  "dct_temporal_sm": [
+    "1997"
+  ],
   "georss_box_s": "31.18330 -25.00000 71.20000 75.00000",
   "georss_polygon_s": "71.20000 -25.00000 71.20000 75.00000 31.18330 75.00000 31.18330 -25.00000 71.20000 -25.00000",
   "solr_geom": "ENVELOPE(-25.00000, 75.00000, 71.20000, 31.18330)",

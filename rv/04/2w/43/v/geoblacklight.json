@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/rv042w43v",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Atlantic Highlands",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "rv042w43v",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Atlantic Highlands"
   ],
-  "dct_temporal_sm": "1923",
+  "dct_temporal_sm": [
+    "1923"
+  ],
   "georss_box_s": "40.40171 -74.050446 40.420208 -74.001401",
   "georss_polygon_s": "40.420208 -74.050446 40.420208 -74.001401 40.40171 -74.001401 40.40171 -74.050446 40.420208 -74.050446",
   "solr_geom": "ENVELOPE(-74.050446, -74.001401, 40.420208, 40.40171)",

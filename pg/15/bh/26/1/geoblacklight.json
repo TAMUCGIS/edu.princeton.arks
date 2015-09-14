@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/pg15bh261",
-  "dc_creator_sm": "Vandermaelen, Philippe,",
+  "dc_creator_sm": [
+    "Vandermaelen, Philippe,"
+  ],
   "dc_description_s": "Ile de Cuba",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "pg15bh261",
@@ -18,7 +20,9 @@
     "Cuba",
     "Jamaica"
   ],
-  "dct_temporal_sm": "1827",
+  "dct_temporal_sm": [
+    "1827"
+  ],
   "georss_box_s": "20.7059846 -80.700194 27.4734551 -72.447752",
   "georss_polygon_s": "27.4734551 -80.700194 27.4734551 -72.447752 20.7059846 -72.447752 20.7059846 -80.700194 27.4734551 -80.700194",
   "solr_geom": "ENVELOPE(-80.700194, -72.447752, 27.4734551, 20.7059846)",

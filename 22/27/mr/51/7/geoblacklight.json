@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/2227mr517",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Keyport",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "2227mr517",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Keyport"
   ],
-  "dct_temporal_sm": "1923",
+  "dct_temporal_sm": [
+    "1923"
+  ],
   "georss_box_s": "40.422612 -74.218062 40.447384 -74.183532",
   "georss_polygon_s": "40.447384 -74.218062 40.447384 -74.183532 40.422612 -74.183532 40.422612 -74.218062 40.447384 -74.218062",
   "solr_geom": "ENVELOPE(-74.218062, -74.183532, 40.447384, 40.422612)",

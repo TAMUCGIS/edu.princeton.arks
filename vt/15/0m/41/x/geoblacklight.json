@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/vt150m41x",
-  "dc_creator_sm": "Doolittle, Amos,",
+  "dc_creator_sm": [
+    "Doolittle, Amos,"
+  ],
   "dc_description_s": "New Jersey",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "vt150m41x",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-25T02:06:10Z",
   "dc_title_s": "New Jersey",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "New Jersey",
-  "dct_temporal_sm": "1814",
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1814"
+  ],
   "georss_box_s": "38.7911303 -75.5633859 41.357423 -73.8939789",
   "georss_polygon_s": "41.357423 -75.5633859 41.357423 -73.8939789 38.7911303 -73.8939789 38.7911303 -75.5633859 41.357423 -75.5633859",
   "solr_geom": "ENVELOPE(-75.5633859, -73.8939789, 41.357423, 38.7911303)",

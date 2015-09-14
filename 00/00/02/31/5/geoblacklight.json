@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/000002315",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Elizabeth",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "000002315",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Elizabeth"
   ],
-  "dct_temporal_sm": "1903",
+  "dct_temporal_sm": [
+    "1903"
+  ],
   "georss_box_s": "40.634165 -74.254216 40.690428 -74.138869",
   "georss_polygon_s": "40.690428 -74.254216 40.690428 -74.138869 40.634165 -74.138869 40.634165 -74.254216 40.690428 -74.254216",
   "solr_geom": "ENVELOPE(-74.254216, -74.138869, 40.690428, 40.634165)",

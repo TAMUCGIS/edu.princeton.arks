@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/k930bz94c",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Cape May",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "k930bz94c",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Cape May"
   ],
-  "dct_temporal_sm": "1909",
+  "dct_temporal_sm": [
+    "1909"
+  ],
   "georss_box_s": "38.928588 -74.938801 38.950125 -74.871605",
   "georss_polygon_s": "38.950125 -74.938801 38.950125 -74.871605 38.928588 -74.871605 38.928588 -74.938801 38.950125 -74.938801",
   "solr_geom": "ENVELOPE(-74.938801, -74.871605, 38.950125, 38.928588)",

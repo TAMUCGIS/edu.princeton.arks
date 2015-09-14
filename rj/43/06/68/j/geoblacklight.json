@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/rj430668j",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Chester",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "rj430668j",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Chester"
   ],
-  "dct_temporal_sm": "1886",
+  "dct_temporal_sm": [
+    "1886"
+  ],
   "georss_box_s": "40.777834 -74.710382 40.795033 -74.669689",
   "georss_polygon_s": "40.795033 -74.710382 40.795033 -74.669689 40.777834 -74.669689 40.777834 -74.710382 40.795033 -74.710382",
   "solr_geom": "ENVELOPE(-74.710382, -74.669689, 40.795033, 40.777834)",

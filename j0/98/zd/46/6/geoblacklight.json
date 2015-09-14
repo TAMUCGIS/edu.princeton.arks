@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/j098zd466",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Red Bank",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "j098zd466",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Red Bank"
   ],
-  "dct_temporal_sm": "1922",
+  "dct_temporal_sm": [
+    "1922"
+  ],
   "georss_box_s": "40.336249 -74.090631 40.363686 -74.04985",
   "georss_polygon_s": "40.363686 -74.090631 40.363686 -74.04985 40.336249 -74.04985 40.336249 -74.090631 40.363686 -74.090631",
   "solr_geom": "ENVELOPE(-74.090631, -74.04985, 40.363686, 40.336249)",

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/3f462690d",
-  "dc_creator_sm": "Central Intelligence Agency",
+  "dc_creator_sm": [
+    "Central Intelligence Agency"
+  ],
   "dc_description_s": "This is a map of Africa, showing its countries, leaders, and populations. The map was created by the Central Intelligence Agency.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "3f462690d",
@@ -16,7 +18,9 @@
   "dc_title_s": "Current leaders and populations in Africa.",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://geowebservices.princeton.edu/iiif/pulmap%2F3f%2F46%2F26%2F90%2Fd%2F00000001.jp2%2Finfo.json\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/3f462690d\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/3f462690d/fgdc.xml\"}",
-  "dct_spatial_sm": "Africa",
+  "dct_spatial_sm": [
+    "Africa"
+  ],
   "dct_issued_s": "1987",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "-34.8573 -17.4768 37.4462 51.4395",

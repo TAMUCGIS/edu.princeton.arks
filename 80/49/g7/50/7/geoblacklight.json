@@ -16,8 +16,12 @@
   "layer_modified_dt": "2015-01-19T22:37:10Z",
   "dc_title_s": "A map of South America with all the European settlements & whatever else is remarkable from the latest & best observations",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "South America",
-  "dct_temporal_sm": "1745",
+  "dct_spatial_sm": [
+    "South America"
+  ],
+  "dct_temporal_sm": [
+    "1745"
+  ],
   "georss_box_s": "-60.0 -100.0 15.0 -20.0",
   "georss_polygon_s": "15.0 -100.0 15.0 -20.0 -60.0 -20.0 -60.0 -100.0 15.0 -100.0",
   "solr_geom": "ENVELOPE(-100.0, -20.0, 15.0, -60.0)",

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/f7623g03h",
-  "dc_creator_sm": "Blaeu, Willem Janszoon,",
+  "dc_creator_sm": [
+    "Blaeu, Willem Janszoon,"
+  ],
   "dc_description_s": "Terra Firma et Novum Regnum Granatense et Popayan",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "f7623g03h",
@@ -17,7 +19,9 @@
     "Panama",
     "Colombia"
   ],
-  "dct_temporal_sm": "1635",
+  "dct_temporal_sm": [
+    "1635"
+  ],
   "georss_box_s": "7.0338679 -83.0517244 9.8701757 -77.1393778",
   "georss_polygon_s": "9.8701757 -83.0517244 9.8701757 -77.1393778 7.0338679 -77.1393778 7.0338679 -83.0517244 9.8701757 -83.0517244",
   "solr_geom": "ENVELOPE(-83.0517244, -77.1393778, 9.8701757, 7.0338679)",

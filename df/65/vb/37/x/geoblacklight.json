@@ -12,8 +12,12 @@
   "layer_modified_dt": "2015-01-23T17:48:38Z",
   "dc_title_s": "The Rand-McNally new library atlas map of Italy",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Italy",
-  "dct_temporal_sm": "1914",
+  "dct_spatial_sm": [
+    "Italy"
+  ],
+  "dct_temporal_sm": [
+    "1914"
+  ],
   "georss_box_s": "36.0 7.0 47.0 19.0",
   "georss_polygon_s": "47.0 7.0 47.0 19.0 36.0 19.0 36.0 7.0 47.0 7.0",
   "solr_geom": "ENVELOPE(7.0, 19.0, 47.0, 36.0)",

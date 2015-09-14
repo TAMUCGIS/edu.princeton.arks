@@ -12,8 +12,12 @@
   "layer_modified_dt": "2015-01-19T22:36:55Z",
   "dc_title_s": "Map of Nevada",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Nevada",
-  "dct_temporal_sm": "1924",
+  "dct_spatial_sm": [
+    "Nevada"
+  ],
+  "dct_temporal_sm": [
+    "1924"
+  ],
   "georss_box_s": "35.0 -120.0 42.0 -114.0",
   "georss_polygon_s": "42.0 -120.0 42.0 -114.0 35.0 -114.0 35.0 -120.0 42.0 -120.0",
   "solr_geom": "ENVELOPE(-120.0, -114.0, 42.0, 35.0)",

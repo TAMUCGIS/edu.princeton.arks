@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/b8515q72q",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Blairstown",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "b8515q72q",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Blairstown"
   ],
-  "dct_temporal_sm": "1910",
+  "dct_temporal_sm": [
+    "1910"
+  ],
   "georss_box_s": "40.919716 -75.063313 41.043585 -74.937618",
   "georss_polygon_s": "41.043585 -75.063313 41.043585 -74.937618 40.919716 -74.937618 40.919716 -75.063313 41.043585 -75.063313",
   "solr_geom": "ENVELOPE(-75.063313, -74.937618, 41.043585, 40.919716)",

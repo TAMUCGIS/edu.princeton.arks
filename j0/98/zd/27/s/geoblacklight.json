@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/j098zd27s",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Seaside Park",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "j098zd27s",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Seaside Park"
   ],
-  "dct_temporal_sm": "1905",
+  "dct_temporal_sm": [
+    "1905"
+  ],
   "georss_box_s": "39.912738 -74.085809 39.937538 -74.070891",
   "georss_polygon_s": "39.937538 -74.085809 39.937538 -74.070891 39.912738 -74.070891 39.912738 -74.085809 39.937538 -74.085809",
   "solr_geom": "ENVELOPE(-74.085809, -74.070891, 39.937538, 39.912738)",

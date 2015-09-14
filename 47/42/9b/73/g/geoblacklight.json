@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/47429b73g",
-  "dc_creator_sm": "Venetia : Vincenzo Valgrisi",
+  "dc_creator_sm": [
+    "Venetia : Vincenzo Valgrisi"
+  ],
   "dc_description_s": "Scanned map of the world, 1561",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "47429b73g",
@@ -15,7 +17,9 @@
   "dc_title_s": "Carta marina nuova tavola",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://geowebservices.princeton.edu/iiif/pulmap%2F47%2F42%2F9b%2F73%2Fg%2F00000001.jp2%2Finfo.json\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/47429b73g\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/47429b73g/fgdc.xml\"}",
-  "dct_spatial_sm": "World",
+  "dct_spatial_sm": [
+    "World"
+  ],
   "dct_issued_s": "1561",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "-90 -180 90 180",

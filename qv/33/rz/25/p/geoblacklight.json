@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/qv33rz25p",
-  "dc_creator_sm": "New Hampshire. Geological and Mineralogical Survey",
+  "dc_creator_sm": [
+    "New Hampshire. Geological and Mineralogical Survey"
+  ],
   "dc_description_s": "One sheet of an atlas accompanying the report on the geology of New Hampshire. The scale is 1:158,400.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "qv33rz25p",
@@ -12,7 +14,7 @@
     "Contour line",
     "Elevation",
     "Roads",
-    "geoscientificInformation",
+    "Geoscientific Information",
     "Atlas"
   ],
   "dc_title_s": "Atlas accompanying the report on the geology of New Hampshire. Sheet 5.",
@@ -20,9 +22,7 @@
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://geowebservices.princeton.edu/iiif/pulmap%2Fqv%2F33%2Frz%2F25%2Fp%2F00000001.jp2%2Finfo.json\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/qv33rz25p\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/qv33rz25p/fgdc.xml\"}",
   "dct_spatial_sm": [
     "New Hampshire",
-    "United States",
-    "G3741.C4.1878.N4H3",
-    "G3741.C5.1878.N4H3"
+    "United States"
   ],
   "dct_issued_s": "1878",
   "dct_provenance_s": "Princeton",

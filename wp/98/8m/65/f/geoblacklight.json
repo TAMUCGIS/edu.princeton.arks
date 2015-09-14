@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/wp988m65f",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Junction",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "wp988m65f",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Junction"
   ],
-  "dct_temporal_sm": "1901",
+  "dct_temporal_sm": [
+    "1901"
+  ],
   "georss_box_s": "40.698073 -74.98125 40.720517 -74.948175",
   "georss_polygon_s": "40.720517 -74.98125 40.720517 -74.948175 40.698073 -74.948175 40.698073 -74.98125 40.720517 -74.98125",
   "solr_geom": "ENVELOPE(-74.98125, -74.948175, 40.720517, 40.698073)",

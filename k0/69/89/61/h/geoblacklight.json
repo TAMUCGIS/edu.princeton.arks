@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/k0698961h",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of South Amboy",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "k0698961h",
@@ -25,7 +27,9 @@
     "New Jersey",
     "South Amboy"
   ],
-  "dct_temporal_sm": "1908",
+  "dct_temporal_sm": [
+    "1908"
+  ],
   "georss_box_s": "40.470172 -74.297673 40.496252 -74.268088",
   "georss_polygon_s": "40.496252 -74.297673 40.496252 -74.268088 40.470172 -74.268088 40.470172 -74.297673 40.496252 -74.297673",
   "solr_geom": "ENVELOPE(-74.297673, -74.268088, 40.496252, 40.470172)",

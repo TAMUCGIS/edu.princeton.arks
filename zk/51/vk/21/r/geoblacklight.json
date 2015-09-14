@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/zk51vk21r",
-  "dc_creator_sm": "Bond, Frank,",
+  "dc_creator_sm": [
+    "Bond, Frank,"
+  ],
   "dc_description_s": "Map of Oklahoma Territory",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "zk51vk21r",
@@ -13,8 +15,12 @@
   "layer_modified_dt": "2015-01-21T22:24:04Z",
   "dc_title_s": "Map of Oklahoma Territory",
   "dc_type_s": "Image",
-  "dct_spatial_sm": "Oklahoma",
-  "dct_temporal_sm": "1904",
+  "dct_spatial_sm": [
+    "Oklahoma"
+  ],
+  "dct_temporal_sm": [
+    "1904"
+  ],
   "georss_box_s": "33.6191955 -103.0024614 37.002133 -94.4312149",
   "georss_polygon_s": "37.002133 -103.0024614 37.002133 -94.4312149 33.6191955 -94.4312149 33.6191955 -103.0024614 37.002133 -103.0024614",
   "solr_geom": "ENVELOPE(-103.0024614, -94.4312149, 37.002133, 33.6191955)",

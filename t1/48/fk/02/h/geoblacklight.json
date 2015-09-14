@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/t148fk02h",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Beverly",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "t148fk02h",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Beverly"
   ],
-  "dct_temporal_sm": "1927",
+  "dct_temporal_sm": [
+    "1927"
+  ],
   "georss_box_s": "40.057224 -74.931521 40.069028 -74.911479",
   "georss_polygon_s": "40.069028 -74.931521 40.069028 -74.911479 40.057224 -74.911479 40.057224 -74.931521 40.069028 -74.931521",
   "solr_geom": "ENVELOPE(-74.931521, -74.911479, 40.069028, 40.057224)",

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/nv935476d",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Englewood",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "nv935476d",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Englewood"
   ],
-  "dct_temporal_sm": "1915",
+  "dct_temporal_sm": [
+    "1915"
+  ],
   "georss_box_s": "40.865568 -73.994572 40.913458 -73.949229",
   "georss_polygon_s": "40.913458 -73.994572 40.913458 -73.949229 40.865568 -73.949229 40.865568 -73.994572 40.913458 -73.994572",
   "solr_geom": "ENVELOPE(-73.994572, -73.949229, 40.913458, 40.865568)",

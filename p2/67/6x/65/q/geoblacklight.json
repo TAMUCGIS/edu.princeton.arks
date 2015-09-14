@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/p2676x65q",
-  "dc_creator_sm": "Sanborn Map Company",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_description_s": "This a Sanborn map of Jamesburg",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "p2676x65q",
@@ -25,7 +27,9 @@
     "New Jersey",
     "Jamesburg"
   ],
-  "dct_temporal_sm": "1910",
+  "dct_temporal_sm": [
+    "1910"
+  ],
   "georss_box_s": "40.342219 -74.454142 40.360981 -74.423158",
   "georss_polygon_s": "40.360981 -74.454142 40.360981 -74.423158 40.342219 -74.423158 40.342219 -74.454142 40.360981 -74.454142",
   "solr_geom": "ENVELOPE(-74.454142, -74.423158, 40.360981, 40.342219)",
