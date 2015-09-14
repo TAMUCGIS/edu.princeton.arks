@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/8623j019m",
-  "dc_creator_sm": "Proxy Logic Ltd. ",
+  "dc_creator_sm": [
+    "Proxy Logic Ltd. "
+  ],
   "dc_description_s": "Oil and gas concessions in Nigeria in .shp format.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "8623j019m",
@@ -11,13 +13,15 @@
     "gas",
     "concessions",
     "land use",
-    "planningCadastre",
-    "utilitiesCommunication"
+    "Planning and Cadastral",
+    "Utilities and Communication"
   ],
   "dc_title_s": "Nigeria oil and gas concession blocks, 2012",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/8623j019m/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/8623j019m/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/8623j019m\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
-  "dct_spatial_sm": "Nigeria",
+  "dct_spatial_sm": [
+    "Nigeria"
+  ],
   "dct_issued_s": "20120425",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "2.666104 2.709254 13.715817 13.884114",

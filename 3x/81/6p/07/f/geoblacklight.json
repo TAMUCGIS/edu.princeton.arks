@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/3x816p07f",
-  "dc_creator_sm": "GfK MACON",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
   "dc_description_s": "This map includes the jurisdiction district boundary of Austria created by GfK MACON company, Germany. ",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "3x816p07f",
@@ -8,7 +10,7 @@
   "dc_rights_s": "Public",
   "dc_subject_sm": [
     "administrative units",
-    "boundaries",
+    "Boundaries",
     "Jurisdistricts"
   ],
   "dc_title_s": "Austria Jurisdiction Districts 2006",
@@ -18,7 +20,9 @@
     "Austria",
     "Osterreich"
   ],
-  "dct_temporal_sm": "2006",
+  "dct_temporal_sm": [
+    "2006"
+  ],
   "dct_issued_s": "2006",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "46.372056 9.529923 48.020364 17.159856",

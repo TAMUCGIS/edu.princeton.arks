@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/jq085m699",
-  "dc_creator_sm": "National Park Service",
+  "dc_creator_sm": [
+    "National Park Service"
+  ],
   "dc_description_s": "U.S. Parks represents National Parks, National Forests, State and local parks and forests within United States.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "jq085m699",
@@ -13,12 +15,14 @@
     "national park or forest",
     "state park or forest",
     "local park or forest",
-    "environment"
+    "Environment"
   ],
   "dc_title_s": "U.S. Parks 2002",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/jq085m699/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/jq085m699/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/jq085m699\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
-  "dct_spatial_sm": "United States",
+  "dct_spatial_sm": [
+    "United States"
+  ],
   "dct_temporal_sm": [
     "1992",
     "1997"

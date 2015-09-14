@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/3f4627126",
-  "dc_creator_sm": "TomTom North America, Inc.",
+  "dc_creator_sm": [
+    "TomTom North America, Inc."
+  ],
   "dc_description_s": "U.S. ZIP Code Points represents the five-digit U.S. ZIP Code areas as points, plus all ZIP Codes that have no associated area. These ZIP Codes that have few or no street delivery locations are assigned to a single organization, such as a business that has street delivery.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "3f4627126",
@@ -14,20 +16,21 @@
     "post offices",
     "population",
     "areas",
-    "location",
-    "society",
-    "society",
-    "location"
+    "Location",
+    "Society",
+    "Society",
+    "Location"
   ],
   "dc_title_s": "U.S. ZIP Code Points, 2013",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/3f4627126\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/3f4627126/fgdc.xml\"}",
   "dct_spatial_sm": [
     "United States",
-    "Puerto Rico",
-    "U.S. Virgin Islands"
+    "Puerto Rico"
   ],
-  "dct_temporal_sm": "2012",
+  "dct_temporal_sm": [
+    "2012"
+  ],
   "dct_issued_s": "20130601",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "17.706759 -176.760204 70.741890 -64.704868",

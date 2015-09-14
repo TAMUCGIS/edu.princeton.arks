@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/7h149r52r",
-  "dc_creator_sm": "GfK MACON",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
   "dc_description_s": "This data include major lakes of El Salvador created by GfK MACON company, Germany.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "7h149r52r",
@@ -9,14 +11,18 @@
   "dc_rights_s": "Public",
   "dc_subject_sm": [
     "Lakes",
-    "inlandWaters",
+    "Inland Waters",
     "Major lakes"
   ],
   "dc_title_s": "El Salvador Major Lakes, 1992",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/7h149r52r/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/7h149r52r/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/7h149r52r\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
-  "dct_spatial_sm": "El Salvador",
-  "dct_temporal_sm": "2006",
+  "dct_spatial_sm": [
+    "El Salvador"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
   "dct_issued_s": "2005",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "13.283913 -89.582687 14.306892 -88.030090",

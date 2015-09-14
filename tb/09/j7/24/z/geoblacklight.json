@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/tb09j724z",
-  "dc_creator_sm": "GfK MACON",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
   "dc_description_s": "This data includes Slovakia major railways created by GfK MACON company, Germany.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "tb09j724z",
@@ -16,8 +18,12 @@
   "dc_title_s": "Slovakia Major Railways, 2005",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/tb09j724z/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/tb09j724z/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/tb09j724z\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
-  "dct_spatial_sm": "Slovakia",
-  "dct_temporal_sm": "2006",
+  "dct_spatial_sm": [
+    "Slovakia"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
   "dct_issued_s": "2005",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "47.762778 16.837971 49.515529 22.245083",

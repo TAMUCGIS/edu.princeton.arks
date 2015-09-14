@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/vt150k97n",
-  "dc_creator_sm": "ESRI",
+  "dc_creator_sm": [
+    "ESRI"
+  ],
   "dc_description_s": "World Gazetteer represents the locations and proper names for map features around the world. The gazetteer includes attribute and annotation name information from various layers of the Digital Chart of the World.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "vt150k97n",
@@ -18,14 +20,16 @@
     "ocean features",
     "political features",
     "populated places",
-    "location",
-    "oceans",
-    "transportation"
+    "Location",
+    "Oceans",
+    "Transportation"
   ],
   "dc_title_s": "World Gazetteer 2008",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/vt150k97n/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/vt150k97n/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/vt150k97n\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
-  "dct_spatial_sm": "World",
+  "dct_spatial_sm": [
+    "World"
+  ],
   "dct_temporal_sm": [
     "1992",
     "1993/1994",

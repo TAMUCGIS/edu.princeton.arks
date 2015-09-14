@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/2b88qd721",
-  "dc_creator_sm": "All China Marketing Research Co., Ltd.",
+  "dc_creator_sm": [
+    "All China Marketing Research Co., Ltd."
+  ],
   "dc_description_s": "Summary data from China's 2008 economic census, integrated with county map.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "2b88qd721",
@@ -16,7 +18,7 @@
     "pulp",
     "employees",
     "mining",
-    "health",
+    "Health",
     "joint",
     "media",
     "wood",
@@ -42,7 +44,7 @@
     "livestock",
     "private",
     "paper",
-    "transportation",
+    "Transportation",
     "medicine",
     "state-owned",
     "petroleum",
@@ -58,14 +60,18 @@
     "retail",
     "county",
     "collective",
-    "boundaries",
-    "economy"
+    "Boundaries",
+    "Economy"
   ],
   "dc_title_s": "China Economic Census Data by County, 2008",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/2b88qd721/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/2b88qd721/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/2b88qd721\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
-  "dct_spatial_sm": "China",
-  "dct_temporal_sm": "2008",
+  "dct_spatial_sm": [
+    "China"
+  ],
+  "dct_temporal_sm": [
+    "2008"
+  ],
   "dct_issued_s": "20130527",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "6.318641 73.446960 53.557926 135.085831",

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/qv33rz29m",
-  "dc_creator_sm": "Globe Telecom",
+  "dc_creator_sm": [
+    "Globe Telecom"
+  ],
   "dc_description_s": "Polygons representing water bodies in Cairo.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "qv33rz29m",
@@ -12,7 +14,7 @@
     "lakes",
     "coasts",
     "ponds",
-    "inlandWaters"
+    "Inland Waters"
   ],
   "dc_title_s": "Cairo Water Bodies",
   "dc_type_s": "Dataset",

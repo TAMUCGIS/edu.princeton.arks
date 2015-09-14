@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/4m90dx00z",
-  "dc_creator_sm": "City and County of San Francisco, Department of Public Works, Bureau of Street-Use\n          & Mapping",
+  "dc_creator_sm": [
+    "City and County of San Francisco, Department of Public Works, Bureau of Street-Use\n          & Mapping"
+  ],
   "dc_description_s": "Representation of the City and County of San Francisco's Subdivision parcels,\n        2009.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "4m90dx00z",
@@ -18,7 +20,7 @@
     "property",
     "ownership",
     "land use",
-    "planningCadastre"
+    "Planning and Cadastral"
   ],
   "dc_title_s": "San Francisco County, California land parcels, 2009",
   "dc_type_s": "Dataset",

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/6h440v10h",
-  "dc_creator_sm": "National Atlas of the United States and the United States Geological Survey",
+  "dc_creator_sm": [
+    "National Atlas of the United States and the United States Geological Survey"
+  ],
   "dc_description_s": "U.S. National Atlas Water Feature Areas represents the water feature areas (e.g., bays, glaciers, lakes, and swamps) of the United States.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "6h440v10h",
@@ -17,15 +19,14 @@
     "reservoirs",
     "streams",
     "swamps",
-    "inlandWaters"
+    "Inland Waters"
   ],
   "dc_title_s": "U.S. National Atlas Water Feature Areas 2002",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/6h440v10h/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/6h440v10h/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/6h440v10h\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
   "dct_spatial_sm": [
     "United States",
-    "Puerto Rico",
-    "U.S. Virgin Islands"
+    "Puerto Rico"
   ],
   "dct_temporal_sm": [
     "1995–1999",

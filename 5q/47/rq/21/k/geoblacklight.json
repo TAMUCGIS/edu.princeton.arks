@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/5q47rq21k",
-  "dc_creator_sm": "DMTI Spatial Inc.",
+  "dc_creator_sm": [
+    "DMTI Spatial Inc."
+  ],
   "dc_description_s": "Canada Provinces represents the Canadian provinces and territories as well as coastline, international boundaries, provincial boundaries, and demographics.  The boundaries are digitized from CanMap®.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "5q47rq21k",
@@ -18,7 +20,9 @@
   "dc_title_s": "Canada Provinces 2000",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/5q47rq21k/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/5q47rq21k/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/5q47rq21k\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
-  "dct_spatial_sm": "Canada",
+  "dct_spatial_sm": [
+    "Canada"
+  ],
   "dct_temporal_sm": [
     "2000",
     "1996"

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/3197xn78t",
-  "dc_creator_sm": "GfK MACON",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
   "dc_description_s": "This data includes Sri lLnka cities with population 100 thousand to 500 thousand created by GfK MACON company, Germany.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "3197xn78t",
@@ -15,8 +17,12 @@
   "dc_title_s": "Sri Lanka Cities With From Population 100 Thousand To 500 Thousand, 1997",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/3197xn78t/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/3197xn78t/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/3197xn78t\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
-  "dct_spatial_sm": "Srti Lanka",
-  "dct_temporal_sm": "2006",
+  "dct_spatial_sm": [
+    "Srti Lanka"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
   "dct_issued_s": "2005",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "6.041071 79.897430 9.647180 80.650871",

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/vx021g78v",
-  "dc_creator_sm": "GfK MACON",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
   "dc_description_s": "This map includes the district boundaries of Sri Lanka created by GfK MACON company, Germany.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "vx021g78v",
@@ -10,14 +12,18 @@
   "dc_subject_sm": [
     "administrative units",
     "districts",
-    "boundaries",
+    "Boundaries",
     "district boundaries"
   ],
   "dc_title_s": "Sri Lanka District Boundaires, 1993",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/vx021g78v/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/vx021g78v/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/vx021g78v\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
-  "dct_spatial_sm": "Sri Lanka",
-  "dct_temporal_sm": "2006",
+  "dct_spatial_sm": [
+    "Sri Lanka"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
   "dct_issued_s": "2005",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "5.921132 79.661046 9.814835 81.866210",

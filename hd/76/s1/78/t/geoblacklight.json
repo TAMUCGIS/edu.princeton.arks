@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/hd76s178t",
-  "dc_creator_sm": "Originally developed by R & S Digital, Goodland, KS. Currenty updated, edited, and maintained by Assessment Division, City & County of Denver",
+  "dc_creator_sm": [
+    "Originally developed by R & S Digital, Goodland, KS. Currenty updated, edited, and maintained by Assessment Division, City & County of Denver"
+  ],
   "dc_description_s": "The parcels of the City and County of Denver as of 2006. The geometry of this data is not of survey quality and should not be used for survey purposes. It is for general reference purposes only.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "hd76s178t",
@@ -17,7 +19,7 @@
     "land value",
     "land use",
     "buildings",
-    "planningCadastre"
+    "Planning and Cadastral"
   ],
   "dc_title_s": "Denver County, Colorado land parcels, 2006",
   "dc_type_s": "Dataset",

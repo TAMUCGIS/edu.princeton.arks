@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/ns064778x",
-  "dc_creator_sm": "GfK MACON",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
   "dc_description_s": "This map includes the municipality boundaries of Norway created by GfK MACON company, Germany.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "ns064778x",
@@ -10,14 +12,18 @@
   "dc_subject_sm": [
     "administrative units",
     "municipalities",
-    "boundaries",
+    "Boundaries",
     "municipality boundaries"
   ],
   "dc_title_s": "Norway Municipality Boundaries, 2005",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/ns064778x/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/ns064778x/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/ns064778x\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
-  "dct_spatial_sm": "Norway",
-  "dct_temporal_sm": "2006",
+  "dct_spatial_sm": [
+    "Norway"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
   "dct_issued_s": "2005",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "57.958555 -9.086359 80.821188 37.066794",

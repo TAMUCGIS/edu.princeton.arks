@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/fj236380t",
-  "dc_creator_sm": "GfK MACON",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
   "dc_description_s": "This data include major lakes of Portugal created by GfK MACON company, Germany.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "fj236380t",
@@ -9,14 +11,18 @@
   "dc_rights_s": "Public",
   "dc_subject_sm": [
     "Lakes",
-    "inlandWaters",
+    "Inland Waters",
     "Major lakes"
   ],
   "dc_title_s": "Portugal Major Lakes, 2005",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/fj236380t/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/fj236380t/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/fj236380t\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
-  "dct_spatial_sm": "Portugal",
-  "dct_temporal_sm": "2006",
+  "dct_spatial_sm": [
+    "Portugal"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
   "dct_issued_s": "2005",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "37.460993 -8.756041 41.807637 -7.130374",

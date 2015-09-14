@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/zs25xb21q",
-  "dc_creator_sm": "Geographic Data Technology, Inc. (GDT)",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)"
+  ],
   "dc_description_s": "Alaska Major Roads represents interstate, U.S., and state highways and other major thoroughfares within Alaska.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "zs25xb21q",
@@ -13,7 +15,7 @@
     "roads",
     "interstates",
     "cfcc",
-    "transportation"
+    "Transportation"
   ],
   "dc_title_s": "Alaska Major Roads 2002",
   "dc_type_s": "Dataset",
@@ -22,7 +24,9 @@
     "United States",
     "Alaska"
   ],
-  "dct_temporal_sm": "1999",
+  "dct_temporal_sm": [
+    "1999"
+  ],
   "dct_issued_s": "20020401",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "53.869004 -166.556497 71.298881 -130.885944",

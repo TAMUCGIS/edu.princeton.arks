@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/g732db71r",
-  "dc_creator_sm": "All China Marketing Research Co., Ltd.",
+  "dc_creator_sm": [
+    "All China Marketing Research Co., Ltd."
+  ],
   "dc_description_s": "Township locations in Anhui Province, China, with 2000 Census data from long form tables L7-L8 (9.5% counts). Includes introductory, employed population, and fertility information.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "g732db71r",
@@ -37,7 +39,7 @@
     "rental",
     "houses",
     "sex",
-    "society"
+    "Society"
   ],
   "dc_title_s": "Township map of Anhui with 2000 Census long form data (L7-L8)",
   "dc_type_s": "Dataset",
@@ -47,7 +49,9 @@
     "Anhui",
     "Anhui Province"
   ],
-  "dct_temporal_sm": "2000",
+  "dct_temporal_sm": [
+    "2000"
+  ],
   "dct_issued_s": "20050418",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "29.431625 114.898987 34.620541 119.565224",

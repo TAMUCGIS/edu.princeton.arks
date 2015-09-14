@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/hh63sx30d",
-  "dc_creator_sm": "GfK MACON",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
   "dc_description_s": "This data includes Turkey major ruins created by GfK MACON company, Germany.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "hh63sx30d",
@@ -9,13 +11,17 @@
   "dc_rights_s": "Public",
   "dc_subject_sm": [
     "ruins",
-    "society"
+    "Society"
   ],
   "dc_title_s": "Turkey Major Ruins, 2005",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/hh63sx30d/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/hh63sx30d/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/hh63sx30d\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
-  "dct_spatial_sm": "Turkey",
-  "dct_temporal_sm": "2006",
+  "dct_spatial_sm": [
+    "Turkey"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
   "dct_issued_s": "2005",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "36.847305 39.521278 39.887112 41.363583",

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/s7526d94f",
-  "dc_creator_sm": "National Atlas of the United States and the United States Geological Survey",
+  "dc_creator_sm": [
+    "National Atlas of the United States and the United States Geological Survey"
+  ],
   "dc_description_s": "U.S. National Atlas Historic Earthquakes represents the locations of significant, historic earthquakes in United States and adjacent Canada and Mexico that caused deaths, property damage, and geological effects, or were otherwise experienced by the resident populations.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "s7526d94f",
@@ -14,7 +16,7 @@
     "deaths",
     "property damage",
     "geological effects",
-    "geoscientificInformation"
+    "Geoscientific Information"
   ],
   "dc_title_s": "U.S. National Atlas Historic Earthquakes 2002",
   "dc_type_s": "Dataset",
@@ -22,7 +24,6 @@
   "dct_spatial_sm": [
     "United States",
     "Puerto Rico",
-    "U.S. Virgin Islands",
     "Canada",
     "Mexico"
   ],

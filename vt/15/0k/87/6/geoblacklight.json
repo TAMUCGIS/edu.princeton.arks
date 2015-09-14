@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/vt150k876",
-  "dc_creator_sm": "Geographic Data Technology, Inc. (GDT)",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)"
+  ],
   "dc_description_s": "Washington Tracts represents the U.S. Census tracts and block numbering areas (BNA) of Washington.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "vt150k876",
@@ -14,8 +16,8 @@
     "demographics",
     "population",
     "households",
-    "boundaries",
-    "society"
+    "Boundaries",
+    "Society"
   ],
   "dc_title_s": "Washington Tracts 2002",
   "dc_type_s": "Dataset",

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/w0892c649",
-  "dc_creator_sm": "GfK MACON",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
   "dc_description_s": "This map includes the district boundaries of Bhutan created by GfK MACON company, Germany.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "w0892c649",
@@ -10,14 +12,18 @@
   "dc_subject_sm": [
     "administrative units",
     "districts",
-    "boundaries",
+    "Boundaries",
     "district boundaries"
   ],
   "dc_title_s": "Bhutan District Boundaries, 1988",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/w0892c649/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/w0892c649/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/w0892c649\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
-  "dct_spatial_sm": "Bhutan",
-  "dct_temporal_sm": "2006",
+  "dct_spatial_sm": [
+    "Bhutan"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
   "dct_issued_s": "2005",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "26.697817 88.754211 28.249049 92.124504",

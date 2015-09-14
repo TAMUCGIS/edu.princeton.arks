@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/ww72bc91p",
-  "dc_creator_sm": "National Atlas of the United States and the United States Geological Survey",
+  "dc_creator_sm": [
+    "National Atlas of the United States and the United States Geological Survey"
+  ],
   "dc_description_s": "U.S. National Atlas Urbanized Areas represents urban areas in the United States derived from the urban areas layer of the Digital Chart of the World (DCW).",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "ww72bc91p",
@@ -12,12 +14,14 @@
     "urbanized areas",
     "urban areas",
     "cities",
-    "boundaries"
+    "Boundaries"
   ],
   "dc_title_s": "U.S. National Atlas Urbanized Areas 2002",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/ww72bc91p/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/ww72bc91p/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/ww72bc91p\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
-  "dct_spatial_sm": "United States",
+  "dct_spatial_sm": [
+    "United States"
+  ],
   "dct_temporal_sm": [
     "1998",
     "1996",

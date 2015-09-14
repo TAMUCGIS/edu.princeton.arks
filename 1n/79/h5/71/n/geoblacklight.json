@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/1n79h571n",
-  "dc_creator_sm": "Globe Telecom",
+  "dc_creator_sm": [
+    "Globe Telecom"
+  ],
   "dc_description_s": "Polygons representing landmarks in Egypt.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "1n79h571n",
@@ -9,12 +11,14 @@
   "dc_subject_sm": [
     "landmarks",
     "points of interest",
-    "structure"
+    "Structure"
   ],
   "dc_title_s": "Egypt Landmarks",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/1n79h571n/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/1n79h571n/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/1n79h571n\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
-  "dct_spatial_sm": "Egypt",
+  "dct_spatial_sm": [
+    "Egypt"
+  ],
   "dct_issued_s": "20140428",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "21.880781 25.075991 31.824376 37.062209",

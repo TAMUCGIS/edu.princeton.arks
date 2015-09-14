@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/3x816p13z",
-  "dc_creator_sm": "GfK MACON",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
   "dc_description_s": "This data includes major lighthouses of Portugal created by GfK MACON company, Germany.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "3x816p13z",
@@ -9,14 +11,18 @@
   "dc_rights_s": "Public",
   "dc_subject_sm": [
     "lighthouse",
-    "structure",
-    "transportation"
+    "Structure",
+    "Transportation"
   ],
   "dc_title_s": "Portugal Major Lighthouses, 2005",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/3x816p13z/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/3x816p13z/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/3x816p13z\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
-  "dct_spatial_sm": "Portugal",
-  "dct_temporal_sm": "2006",
+  "dct_spatial_sm": [
+    "Portugal"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
   "dct_issued_s": "2005",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "36.995721 -28.820809 41.686749 -8.669166",

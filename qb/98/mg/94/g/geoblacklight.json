@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/qb98mg94g",
-  "dc_creator_sm": "GfK MACON",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
   "dc_description_s": "This data include major rivers of Bosnia-Herzegovina created by GfK MACON company, Germany.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "qb98mg94g",
@@ -9,7 +11,7 @@
   "dc_rights_s": "Public",
   "dc_subject_sm": [
     "Rivers",
-    "inlandWaters",
+    "Inland Waters",
     "Major rivers"
   ],
   "dc_title_s": "Bosnia-Herzegovina Major Rivers, 2005",
@@ -20,7 +22,9 @@
     "Bosnia",
     "Herzegovina"
   ],
-  "dct_temporal_sm": "2006",
+  "dct_temporal_sm": [
+    "2006"
+  ],
   "dct_issued_s": "2005",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "43.049608 15.851995 45.277027 19.622772",

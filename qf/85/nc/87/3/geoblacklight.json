@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/qf85nc873",
-  "dc_creator_sm": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_creator_sm": [
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
   "dc_description_s": "World Countries 1992 represents the boundaries for the countries of the world, as they existed in 1992 showing the Soviet Union, Yugoslavia, and Czechoslovakia as single nations.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "qf85nc873",
@@ -18,7 +20,9 @@
   "dc_title_s": "World Countries 1992",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/qf85nc873/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/qf85nc873/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/qf85nc873\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
-  "dct_spatial_sm": "World",
+  "dct_spatial_sm": [
+    "World"
+  ],
   "dct_temporal_sm": [
     "1996",
     "1998",

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/1v53jz64h",
-  "dc_creator_sm": "GfK MACON",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
   "dc_description_s": "This data include minor rivers of Netherlands created by GfK MACON company, Germany.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "1v53jz64h",
@@ -9,14 +11,18 @@
   "dc_rights_s": "Public",
   "dc_subject_sm": [
     "Rivers",
-    "inlandWaters",
+    "Inland Waters",
     "Minor rivers"
   ],
   "dc_title_s": "Netherlands Minor Rivers, 2005",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/1v53jz64h/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/1v53jz64h/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/1v53jz64h\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
-  "dct_spatial_sm": "Netherlands",
-  "dct_temporal_sm": "2006",
+  "dct_spatial_sm": [
+    "Netherlands"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
   "dct_issued_s": "2005",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "50.758899 3.370593 53.351582 7.212280",

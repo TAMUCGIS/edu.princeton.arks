@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/c821gm200",
-  "dc_creator_sm": "National Atlas of the United States and the United States Geological Survey",
+  "dc_creator_sm": [
+    "National Atlas of the United States and the United States Geological Survey"
+  ],
   "dc_description_s": "U.S. National Atlas Cities represents cities and towns in the United States.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "c821gm200",
@@ -15,7 +17,9 @@
   "dc_title_s": "U.S. National Atlas Cities 2000",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/c821gm200/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/c821gm200/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/c821gm200\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
-  "dct_spatial_sm": "United States",
+  "dct_spatial_sm": [
+    "United States"
+  ],
   "dct_temporal_sm": [
     "1998",
     "1970",

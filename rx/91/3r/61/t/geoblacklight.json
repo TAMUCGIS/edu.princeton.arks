@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/rx913r61t",
-  "dc_creator_sm": "United States Geological Survey",
+  "dc_creator_sm": [
+    "United States Geological Survey"
+  ],
   "dc_description_s": "U.S. Geographic Names Information System Locales represents an automated inventory of the proper names and locations of physical and cultural geographic features located throughout the United States and its Territories.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "rx913r61t",
@@ -12,16 +14,13 @@
     "locale",
     "place name",
     "geographic feature",
-    "location"
+    "Location"
   ],
   "dc_title_s": "U.S. Geographic Names Information System Locales 2008",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/rx913r61t/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/rx913r61t/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/rx913r61t\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
   "dct_spatial_sm": [
-    "United States",
-    "U.S. Commonwealths",
-    "U.S. Territories",
-    "U.S. Freely Associated States"
+    "United States"
   ],
   "dct_temporal_sm": [
     "1981",

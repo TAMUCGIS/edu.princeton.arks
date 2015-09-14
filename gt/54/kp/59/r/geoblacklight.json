@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/gt54kp59r",
-  "dc_creator_sm": "Geographic Data Technology, Inc. (GDT)",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)"
+  ],
   "dc_description_s": "Kentucky ZIP Code Areas represents five-digit ZIP Code areas used by the U.S. Postal Service to deliver mail more effectively.  The first digit of a five-digit ZIP Code divides the country into 10 large groups of states numbered from 0 in the Northeast to 9 in the far West.  Within these areas, each state is divided into an average of 10 smaller geographical areas, identified by the 2nd and 3rd digits.  These digits, in conjunction with the first digit, represent a sectional center facility or a mail processing facility area.  The 4th and 5th digits identify a post office, station, branch or local delivery area.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "gt54kp59r",
@@ -14,8 +16,8 @@
     "five-digit zip codes",
     "post offices",
     "population",
-    "location",
-    "society"
+    "Location",
+    "Society"
   ],
   "dc_title_s": "Kentucky ZIP Code Areas 2002",
   "dc_type_s": "Dataset",

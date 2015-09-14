@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/gx41mk253",
-  "dc_creator_sm": "GfK MACON",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
   "dc_description_s": "This data include minor rivers of United Kingdom created by GfK MACON company, Germany.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "gx41mk253",
@@ -9,7 +11,7 @@
   "dc_rights_s": "Public",
   "dc_subject_sm": [
     "Rivers",
-    "inlandWaters",
+    "Inland Waters",
     "Minor rivers"
   ],
   "dc_title_s": "United Kingdom Minor Rivers, 2005",
@@ -19,7 +21,9 @@
     "United Kingdom",
     "UK"
   ],
-  "dct_temporal_sm": "2006",
+  "dct_temporal_sm": [
+    "2006"
+  ],
   "dct_issued_s": "2005",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "49.200584 -8.099195 60.769859 1.747987",

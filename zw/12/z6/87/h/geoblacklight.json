@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/zw12z687h",
-  "dc_creator_sm": "GfK MACON",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
   "dc_description_s": "This data includes major lighthouses of Estonia created by GfK MACON company, Germany.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "zw12z687h",
@@ -9,14 +11,18 @@
   "dc_rights_s": "Public",
   "dc_subject_sm": [
     "lighthouse",
-    "structure",
-    "transportation"
+    "Structure",
+    "Transportation"
   ],
   "dc_title_s": "Estonia Major Lighthouses, 2005",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/zw12z687h/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/zw12z687h/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/zw12z687h\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
-  "dct_spatial_sm": "Estonia",
-  "dct_temporal_sm": "2006",
+  "dct_spatial_sm": [
+    "Estonia"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
   "dct_issued_s": "2005",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "58.712528 22.491972 59.643585 26.584833",

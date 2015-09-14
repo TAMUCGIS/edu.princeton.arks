@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/ft848s34z",
-  "dc_creator_sm": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_creator_sm": [
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
   "dc_description_s": "World Lakes represents the major lakes and inland seas within the world.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "ft848s34z",
@@ -16,7 +18,9 @@
   "dc_title_s": "World Lakes 1999",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/ft848s34z/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/ft848s34z/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/ft848s34z\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
-  "dct_spatial_sm": "World",
+  "dct_spatial_sm": [
+    "World"
+  ],
   "dct_temporal_sm": [
     "1992",
     "1991",

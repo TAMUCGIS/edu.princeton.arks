@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/kh04dr164",
-  "dc_creator_sm": "GfK MACON",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
   "dc_description_s": "This data includes Austria major roads created by GfK MACON company, Germany.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "kh04dr164",
@@ -15,8 +17,12 @@
   "dc_title_s": "Austria Major Roads, 2006",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/kh04dr164/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/kh04dr164/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/kh04dr164\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
-  "dct_spatial_sm": "Austria",
-  "dct_temporal_sm": "2006",
+  "dct_spatial_sm": [
+    "Austria"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
   "dct_issued_s": "2006",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "46.418715 9.570216 48.998652 17.097709",

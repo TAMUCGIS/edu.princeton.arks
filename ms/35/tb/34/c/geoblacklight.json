@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/ms35tb34c",
-  "dc_creator_sm": "Geographic Data Technology, Inc. (GDT)",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)"
+  ],
   "dc_description_s": "New Mexico Tracts represents the U.S. Census tracts and block numbering areas (BNA) of New Mexico.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "ms35tb34c",
@@ -14,8 +16,8 @@
     "demographics",
     "population",
     "households",
-    "boundaries",
-    "society"
+    "Boundaries",
+    "Society"
   ],
   "dc_title_s": "New Mexico Tracts 2002",
   "dc_type_s": "Dataset",

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/8s45qb42m",
-  "dc_creator_sm": "Tele Atlas North America, Inc.",
+  "dc_creator_sm": [
+    "Tele Atlas North America, Inc."
+  ],
   "dc_description_s": "U.S. Institutions represents point locations within the United States for common institution landmark types including hospitals, educational institutions, religious institutions, government centers, and cemeteries.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "8s45qb42m",
@@ -15,7 +17,7 @@
     "religious institutions",
     "government centers",
     "cemeteries",
-    "structure"
+    "Structure"
   ],
   "dc_title_s": "U.S. Institutions 2008",
   "dc_type_s": "Dataset",

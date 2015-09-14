@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/1j92g8985",
-  "dc_creator_sm": "GfK MACON",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
   "dc_description_s": "This data includes major lighthouses of United Kingdom created by GfK MACON company, Germany.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "1j92g8985",
@@ -9,8 +11,8 @@
   "dc_rights_s": "Public",
   "dc_subject_sm": [
     "lighthouse",
-    "structure",
-    "transportation"
+    "Structure",
+    "Transportation"
   ],
   "dc_title_s": "United Kingdom Major Lighthouses, 2005",
   "dc_type_s": "Dataset",
@@ -19,7 +21,9 @@
     "United Kingdom",
     "UK"
   ],
-  "dct_temporal_sm": "2006",
+  "dct_temporal_sm": [
+    "2006"
+  ],
   "dct_issued_s": "2005",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "49.934113 -7.589778 60.493572 1.568056",

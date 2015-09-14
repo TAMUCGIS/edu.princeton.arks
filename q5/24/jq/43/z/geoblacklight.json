@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/q524jq43z",
-  "dc_creator_sm": "ML InfoMap Pvt. Ltd.",
+  "dc_creator_sm": [
+    "ML InfoMap Pvt. Ltd."
+  ],
   "dc_description_s": "District boundary data of India, 1981. Includes socio-demographic data.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "q524jq43z",
@@ -16,8 +18,12 @@
   "dc_title_s": "District boundary of India, 1981",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/q524jq43z/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/q524jq43z/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/q524jq43z\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
-  "dct_spatial_sm": "India",
-  "dct_temporal_sm": "1981",
+  "dct_spatial_sm": [
+    "India"
+  ],
+  "dct_temporal_sm": [
+    "1981"
+  ],
   "dct_issued_s": "2006",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "6.767454 68.196831 37.069954 97.409096",

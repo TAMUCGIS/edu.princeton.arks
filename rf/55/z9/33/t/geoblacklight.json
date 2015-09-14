@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/rf55z933t",
-  "dc_creator_sm": "Geographic Data Technology, Inc. (GDT)",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)"
+  ],
   "dc_description_s": "Kentucky Tracts represents the U.S. Census tracts and block numbering areas (BNA) of Kentucky.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "rf55z933t",
@@ -14,8 +16,8 @@
     "demographics",
     "population",
     "households",
-    "boundaries",
-    "society"
+    "Boundaries",
+    "Society"
   ],
   "dc_title_s": "Kentucky Tracts 2002",
   "dc_type_s": "Dataset",

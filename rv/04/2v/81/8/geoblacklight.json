@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/rv042v818",
-  "dc_creator_sm": "City of Trenton Division of Planning",
+  "dc_creator_sm": [
+    "City of Trenton Division of Planning"
+  ],
   "dc_description_s": "Regional bicycle and pedestrian/walking trails",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "rv042v818",
@@ -17,7 +19,9 @@
   "dc_title_s": "Trenton Regional Trails",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/rv042v818/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/rv042v818/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/rv042v818\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
-  "dct_spatial_sm": "Trenton",
+  "dct_spatial_sm": [
+    "Trenton"
+  ],
   "dct_issued_s": "2006",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "39.991193 -75.047521 40.343089 -74.589094",

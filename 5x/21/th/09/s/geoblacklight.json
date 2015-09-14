@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/5x21th09s",
-  "dc_creator_sm": "Geographic Data Technology, Inc. (GDT)",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)"
+  ],
   "dc_description_s": "Oregon Tracts represents the U.S. Census tracts and block numbering areas (BNA) of Oregon.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "5x21th09s",
@@ -14,8 +16,8 @@
     "demographics",
     "population",
     "households",
-    "boundaries",
-    "society"
+    "Boundaries",
+    "Society"
   ],
   "dc_title_s": "Oregon Tracts 2002",
   "dc_type_s": "Dataset",

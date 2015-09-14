@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/hx11xg64w",
-  "dc_creator_sm": "Department of Commerce, Census Bureau, Geography Division",
+  "dc_creator_sm": [
+    "Department of Commerce, Census Bureau, Geography Division"
+  ],
   "dc_description_s": "U.S. 107th Congressional Districts represents political boundaries for the U.S. 107th Congressional Districts.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "hx11xg64w",
@@ -12,7 +14,7 @@
     "Congressional Districts",
     "Congress",
     "House of Representatives",
-    "society"
+    "Society"
   ],
   "dc_title_s": "U.S. 107th Congressional Districts 2002",
   "dc_type_s": "Dataset",
@@ -21,7 +23,9 @@
     "United States",
     "Congressional Districts"
   ],
-  "dct_temporal_sm": "2001–2003",
+  "dct_temporal_sm": [
+    "2001–2003"
+  ],
   "dct_issued_s": "20020401",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "17.884813 -179.147340 71.352561 179.778470",

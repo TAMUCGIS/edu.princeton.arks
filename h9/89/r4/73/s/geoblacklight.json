@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/h989r473s",
-  "dc_creator_sm": "Geographic Data Technology, Inc. (GDT)",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)"
+  ],
   "dc_description_s": "New York Tracts represents the U.S. Census tracts and block numbering areas (BNA) of New York.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "h989r473s",
@@ -14,8 +16,8 @@
     "demographics",
     "population",
     "households",
-    "boundaries",
-    "society"
+    "Boundaries",
+    "Society"
   ],
   "dc_title_s": "New York Tracts 2002",
   "dc_type_s": "Dataset",

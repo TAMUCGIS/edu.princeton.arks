@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/bc386k85z",
-  "dc_creator_sm": "Globe Telecom",
+  "dc_creator_sm": [
+    "Globe Telecom"
+  ],
   "dc_description_s": "Polylines representing metro lines in Cairo.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "bc386k85z",
@@ -15,7 +17,7 @@
     "railways",
     "tracks",
     "line",
-    "transportation"
+    "Transportation"
   ],
   "dc_title_s": "Cairo Metro Lines",
   "dc_type_s": "Dataset",

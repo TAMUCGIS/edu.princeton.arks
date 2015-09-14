@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/47429b64h",
-  "dc_creator_sm": "GfK MACON",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
   "dc_description_s": "This data includes Albania karst topography created by GfK MACON company, Germany.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "47429b64h",
@@ -9,13 +11,17 @@
   "dc_rights_s": "Public",
   "dc_subject_sm": [
     "Karst Topography",
-    "geoscientificInformation"
+    "Geoscientific Information"
   ],
   "dc_title_s": "Albania Karst Topography, 2005",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/47429b64h/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/47429b64h/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/47429b64h\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
-  "dct_spatial_sm": "Albania",
-  "dct_temporal_sm": "2006",
+  "dct_spatial_sm": [
+    "Albania"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
   "dct_issued_s": "2005",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "40.177723 19.466555 42.411888 20.877138",

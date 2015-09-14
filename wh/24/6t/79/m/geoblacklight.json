@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/wh246t79m",
-  "dc_creator_sm": "National Atlas of the United States and the United States Geological Survey",
+  "dc_creator_sm": [
+    "National Atlas of the United States and the United States Geological Survey"
+  ],
   "dc_description_s": "U.S. National Atlas Water Feature Lines represents the linear water features (e.g., aqueducts, canals, intercoastal waterways, and streams) of the United States.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "wh246t79m",
@@ -24,8 +26,7 @@
   "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/wh246t79m/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/wh246t79m/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/wh246t79m\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
   "dct_spatial_sm": [
     "United States",
-    "Puerto Rico",
-    "U.S. Virgin Islands"
+    "Puerto Rico"
   ],
   "dct_temporal_sm": [
     "1995–1999",

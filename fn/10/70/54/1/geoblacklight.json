@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/fn1070541",
-  "dc_creator_sm": "Geographic Data Technology, Inc. (GDT)",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)"
+  ],
   "dc_description_s": "Nevada Tracts represents the U.S. Census tracts and block numbering areas (BNA) of Nevada.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "fn1070541",
@@ -14,8 +16,8 @@
     "demographics",
     "population",
     "households",
-    "boundaries",
-    "society"
+    "Boundaries",
+    "Society"
   ],
   "dc_title_s": "Nevada Tracts 2002",
   "dc_type_s": "Dataset",

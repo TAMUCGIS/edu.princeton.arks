@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/hx11xg67b",
-  "dc_creator_sm": "AND Data Solutions, B.V.",
+  "dc_creator_sm": [
+    "AND Data Solutions, B.V."
+  ],
   "dc_description_s": "Europe Water Bodies represents the major and non-major inland water for Europe.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "hx11xg67b",
@@ -17,8 +19,12 @@
   "dc_title_s": "Europe Water Bodies 1999",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/hx11xg67b/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/hx11xg67b/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/hx11xg67b\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
-  "dct_spatial_sm": "Europe",
-  "dct_temporal_sm": "1999",
+  "dct_spatial_sm": [
+    "Europe"
+  ],
+  "dct_temporal_sm": [
+    "1999"
+  ],
   "dct_issued_s": "19991101",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "36.282692 -31.220646 81.081520 65.640892",

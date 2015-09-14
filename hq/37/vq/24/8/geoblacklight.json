@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/hq37vq248",
-  "dc_creator_sm": "Civil Solutions",
+  "dc_creator_sm": [
+    "Civil Solutions"
+  ],
   "dc_description_s": "This GIS polygon feature data set was developed for Mercer County, New Jersey, USA, and contains tax parcels. The parcels were originally created using DVRPC digital orthophotgraphy at a scale of 1\"=200' and scanned taxed maps which were geo-referenced to the digital orthophotography. Several update cycles of the parcel layer have been conducted, with the most recent referencing the 2007 orthophotography from the New Jersey State office of GIS.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "hq37vq248",
@@ -19,7 +21,7 @@
     "cadastral maps",
     "ownership",
     "land use",
-    "planningCadastre"
+    "Planning and Cadastral"
   ],
   "dc_title_s": "Mercer County, New Jersey land parcels, 2009",
   "dc_type_s": "Dataset",

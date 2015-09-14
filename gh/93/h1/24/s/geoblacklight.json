@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/gh93h124s",
-  "dc_creator_sm": "Geographic Data Technology, Inc. (GDT)",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)"
+  ],
   "dc_description_s": "Florida Major Roads represents interstate, U.S., and state highways and other major thoroughfares within Florida.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "gh93h124s",
@@ -13,7 +15,7 @@
     "roads",
     "interstates",
     "cfcc",
-    "transportation"
+    "Transportation"
   ],
   "dc_title_s": "Florida Major Roads 2002",
   "dc_type_s": "Dataset",
@@ -22,7 +24,9 @@
     "United States",
     "Florida"
   ],
-  "dct_temporal_sm": "1999",
+  "dct_temporal_sm": [
+    "1999"
+  ],
   "dct_issued_s": "20020401",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "24.545914 -87.583453 31.000824 -80.033251",

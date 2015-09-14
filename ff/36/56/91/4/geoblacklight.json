@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/ff3656914",
-  "dc_creator_sm": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_creator_sm": [
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
   "dc_description_s": "World Cities represents the locations of major cities of the world.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "ff3656914",
@@ -19,7 +21,9 @@
   "dc_title_s": "World Cities 2000",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/ff3656914/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/ff3656914/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/ff3656914\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
-  "dct_spatial_sm": "World",
+  "dct_spatial_sm": [
+    "World"
+  ],
   "dct_temporal_sm": [
     "1996",
     "1993/1994",

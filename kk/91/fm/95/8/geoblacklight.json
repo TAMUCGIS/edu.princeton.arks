@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/kk91fm958",
-  "dc_creator_sm": "Globe Telecom",
+  "dc_creator_sm": [
+    "Globe Telecom"
+  ],
   "dc_description_s": "Points representing bus stations in Cairo.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "kk91fm958",
@@ -10,7 +12,7 @@
     "stations",
     "bus",
     "public",
-    "transportation"
+    "Transportation"
   ],
   "dc_title_s": "Cairo Bus Stations",
   "dc_type_s": "Dataset",

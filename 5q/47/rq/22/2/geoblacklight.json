@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/5q47rq222",
-  "dc_creator_sm": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_creator_sm": [
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
   "dc_description_s": "Indiana Block Centroid Populations represents the population of the U.S. Census block centroids for Indiana.  U.S. Census blocks are the smallest geographic entities within a county for which the Census Bureau tabulates population.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "5q47rq222",
@@ -12,7 +14,7 @@
     "census block centroids",
     "census blocks",
     "population",
-    "society"
+    "Society"
   ],
   "dc_title_s": "Indiana Block Centroid Populations 2002",
   "dc_type_s": "Dataset",
@@ -21,7 +23,9 @@
     "United States",
     "Indiana"
   ],
-  "dct_temporal_sm": "2000",
+  "dct_temporal_sm": [
+    "2000"
+  ],
   "dct_issued_s": "20020401",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "37.775221 -88.091991 41.760340 -84.789989",

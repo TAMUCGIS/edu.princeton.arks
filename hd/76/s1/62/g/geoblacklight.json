@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/hd76s162g",
-  "dc_creator_sm": "Geographic Data Technology, Inc. (GDT)",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)"
+  ],
   "dc_description_s": "District of Columbia Major Roads represents interstate, U.S., and state highways and other major thoroughfares within District of Columbia.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "hd76s162g",
@@ -13,7 +15,7 @@
     "roads",
     "interstates",
     "cfcc",
-    "transportation"
+    "Transportation"
   ],
   "dc_title_s": "District of Columbia Major Roads 2002",
   "dc_type_s": "Dataset",
@@ -22,7 +24,9 @@
     "United States",
     "District of Columbia"
   ],
-  "dct_temporal_sm": "1999",
+  "dct_temporal_sm": [
+    "1999"
+  ],
   "dct_issued_s": "20020401",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "38.793014 -77.116901 38.991510 -76.910596",

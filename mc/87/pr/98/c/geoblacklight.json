@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/mc87pr98c",
-  "dc_creator_sm": "Globe Telecom",
+  "dc_creator_sm": [
+    "Globe Telecom"
+  ],
   "dc_description_s": "Points representing cemeteries in Egypt.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "mc87pr98c",
@@ -13,12 +15,14 @@
     "graveyards",
     "landmarks",
     "points of interest",
-    "structure"
+    "Structure"
   ],
   "dc_title_s": "Egypt Cemeteries",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/mc87pr98c/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/mc87pr98c/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/mc87pr98c\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
-  "dct_spatial_sm": "Egypt",
+  "dct_spatial_sm": [
+    "Egypt"
+  ],
   "dct_issued_s": "20140428",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "23.811500 25.158379 31.802758 34.761800",

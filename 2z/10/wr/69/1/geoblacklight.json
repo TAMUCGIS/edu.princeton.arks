@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/2z10wr691",
-  "dc_creator_sm": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_creator_sm": [
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
   "dc_description_s": "U.S. States represents the fifty states and the District of Columbia of the United States.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "2z10wr691",
@@ -14,15 +16,14 @@
     "population",
     "households",
     "farm information",
-    "boundaries",
-    "society"
+    "Boundaries",
+    "Society"
   ],
   "dc_title_s": "U.S. States 2002",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/2z10wr691/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/2z10wr691/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/2z10wr691\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
   "dct_spatial_sm": [
     "United States",
-    "U.S. States",
     "States"
   ],
   "dct_temporal_sm": [

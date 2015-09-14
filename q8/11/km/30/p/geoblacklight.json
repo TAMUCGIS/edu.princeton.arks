@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/q811km30p",
-  "dc_creator_sm": "GfK MACON",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
   "dc_description_s": "This data include major rivers of United Kingdom created by GfK MACON company, Germany.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "q811km30p",
@@ -9,7 +11,7 @@
   "dc_rights_s": "Public",
   "dc_subject_sm": [
     "Rivers",
-    "inlandWaters",
+    "Inland Waters",
     "Major rivers"
   ],
   "dc_title_s": "United Kingdom Major Rivers, 2005",
@@ -19,7 +21,9 @@
     "United Kingdom",
     "UK"
   ],
-  "dct_temporal_sm": "2006",
+  "dct_temporal_sm": [
+    "2006"
+  ],
   "dct_issued_s": "2005",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "50.459072 -8.093181 58.257093 0.521011",

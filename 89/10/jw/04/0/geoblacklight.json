@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/8910jw040",
-  "dc_creator_sm": "GfK MACON",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
   "dc_description_s": "This data includes United Kingdom major industrial points created by GfK MACON company, Germany.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "8910jw040",
@@ -9,7 +11,7 @@
   "dc_rights_s": "Public",
   "dc_subject_sm": [
     "industry",
-    "economy",
+    "Economy",
     "factories"
   ],
   "dc_title_s": "United Kingdom Major Industrial Points, 2005",
@@ -19,7 +21,9 @@
     "United Kingdom",
     "UK"
   ],
-  "dct_temporal_sm": "2006",
+  "dct_temporal_sm": [
+    "2006"
+  ],
   "dct_issued_s": "2005",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "50.834167 -5.086361 60.468334 1.616333",

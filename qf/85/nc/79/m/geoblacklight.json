@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/qf85nc79m",
-  "dc_creator_sm": "Geographic Data Technology, Inc. (GDT)",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)"
+  ],
   "dc_description_s": "Arkansas Tracts represents the U.S. Census tracts and block numbering areas (BNA) of Arkansas.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "qf85nc79m",
@@ -14,8 +16,8 @@
     "demographics",
     "population",
     "households",
-    "boundaries",
-    "society"
+    "Boundaries",
+    "Society"
   ],
   "dc_title_s": "Arkansas Tracts 2002",
   "dc_type_s": "Dataset",

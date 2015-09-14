@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/4t64gp87w",
-  "dc_creator_sm": "Geographic Data Technology, Inc. (GDT)",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)"
+  ],
   "dc_description_s": "Rhode Island Major Roads represents interstate, U.S., and state highways and other major thoroughfares within Rhode Island.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "4t64gp87w",
@@ -13,7 +15,7 @@
     "roads",
     "interstates",
     "cfcc",
-    "transportation"
+    "Transportation"
   ],
   "dc_title_s": "Rhode Island Major Roads 2002",
   "dc_type_s": "Dataset",
@@ -22,7 +24,9 @@
     "United States",
     "Rhode Island"
   ],
-  "dct_temporal_sm": "1999",
+  "dct_temporal_sm": [
+    "1999"
+  ],
   "dct_issued_s": "20020401",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "41.101837 -71.907259 42.018498 -71.126246",

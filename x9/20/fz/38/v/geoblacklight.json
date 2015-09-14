@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/x920fz38v",
-  "dc_creator_sm": "ML InfoMap Pvt. Ltd.",
+  "dc_creator_sm": [
+    "ML InfoMap Pvt. Ltd."
+  ],
   "dc_description_s": "District boundary data of India, 2011.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "x920fz38v",
@@ -16,8 +18,12 @@
   "dc_title_s": "District boundary of India, 2011",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/x920fz38v/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/x920fz38v/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/x920fz38v\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
-  "dct_spatial_sm": "India",
-  "dct_temporal_sm": "2011",
+  "dct_spatial_sm": [
+    "India"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
   "dct_issued_s": "2011",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "6.755698 68.110090 37.050300 97.409100",

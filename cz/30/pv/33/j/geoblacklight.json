@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/cz30pv33j",
-  "dc_creator_sm": "City of Trenton Division of Planning",
+  "dc_creator_sm": [
+    "City of Trenton Division of Planning"
+  ],
   "dc_description_s": "This dataset contains the name and boundaries of Neighborhoods in the City of Trenton, New Jersey. There are three known gaps in this dataset: Two omissions are near the Battle Monument neighborhood, the third omission is the Pennington Prospect neighborhood. These problems will be fixed when time allows.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "cz30pv33j",
@@ -15,7 +17,9 @@
   "dc_title_s": "Trenton Neighborhoods",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/cz30pv33j\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/cz30pv33j/fgdc.xml\"}",
-  "dct_spatial_sm": "Trenton",
+  "dct_spatial_sm": [
+    "Trenton"
+  ],
   "dct_issued_s": "2004",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "40.183711 -74.819202 40.248589 -74.728687",

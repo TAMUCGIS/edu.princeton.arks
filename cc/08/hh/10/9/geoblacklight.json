@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/cc08hh109",
-  "dc_creator_sm": "Kern County Assessor's Office, Assessment Standards Division, Mapping\n          Section.",
+  "dc_creator_sm": [
+    "Kern County Assessor's Office, Assessment Standards Division, Mapping\n          Section."
+  ],
   "dc_description_s": "This feature class contains land parcel boundaries delineated for property tax\n        assessment purposes. Parcels are modeled as planimetric polygons in a seamless fabric\n        comprising the spatial extent of the County of Kern, in the State of California, as of\n        2009.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "cc08hh109",
@@ -25,7 +27,7 @@
     "value",
     "land value",
     "agriculture",
-    "planningCadastre"
+    "Planning and Cadastral"
   ],
   "dc_title_s": "Kern County, California land parcels, 2009",
   "dc_type_s": "Dataset",

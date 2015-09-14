@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/2227mr20d",
-  "dc_creator_sm": "All China Marketing Research Co., Ltd.",
+  "dc_creator_sm": [
+    "All China Marketing Research Co., Ltd."
+  ],
   "dc_description_s": "Township locations in Shanghai Municipality, China, with 2000 Census data from short form tables A1-A8 (100% counts). Includes general information, age composition, households, deaths, household registration, and housing.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "2227mr20d",
@@ -44,7 +46,7 @@
     "female",
     "deaths",
     "age",
-    "society"
+    "Society"
   ],
   "dc_title_s": "Township map of Shanghai with 2000 Census short form data",
   "dc_type_s": "Dataset",
@@ -54,7 +56,9 @@
     "Shanghai",
     "Shanghai Municipality"
   ],
-  "dct_temporal_sm": "2000",
+  "dct_temporal_sm": [
+    "2000"
+  ],
   "dct_issued_s": "20050418",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "30.711758 120.916306 31.836538 121.873622",

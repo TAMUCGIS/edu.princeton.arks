@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/2n49t3308",
-  "dc_creator_sm": "TomTom North America, Inc.",
+  "dc_creator_sm": [
+    "TomTom North America, Inc."
+  ],
   "dc_description_s": "U.S. County Boundaries represents the boundary lines of the counties of the United States.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "2n49t3308",
@@ -9,15 +11,14 @@
   "dc_subject_sm": [
     "line",
     "detail",
-    "boundaries",
-    "boundaries"
+    "Boundaries",
+    "Boundaries"
   ],
   "dc_title_s": "U.S. County Boundaries, 2013",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/2n49t3308/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/2n49t3308/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/2n49t3308\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
   "dct_spatial_sm": [
     "United States",
-    "U.S. Counties",
     "Counties",
     "Puerto Rico"
   ],

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/rv042v54c",
-  "dc_creator_sm": "Geographic Data Technology, Inc. (GDT)",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)"
+  ],
   "dc_description_s": "Arizona Tracts represents the U.S. Census tracts and block numbering areas (BNA) of Arizona.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "rv042v54c",
@@ -14,8 +16,8 @@
     "demographics",
     "population",
     "households",
-    "boundaries",
-    "society"
+    "Boundaries",
+    "Society"
   ],
   "dc_title_s": "Arizona Tracts 2002",
   "dc_type_s": "Dataset",

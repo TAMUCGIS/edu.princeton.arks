@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/n296x062d",
-  "dc_creator_sm": "Geographic Data Technology, Inc. (GDT)",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)"
+  ],
   "dc_description_s": "U.S. Metropolitan Statistical Areas represents geographic entities, defined by the United States Office of Management and Budget for use by Federal statistical agencies, based on the concept of a core area with a large population nucleus, plus adjacent communities having a high degree of economic and social integration with that core. Qualification of an Metropolitan Statistical Area (MSA) requires the presence of a city with 50,000 or more inhabitants, or the presence of an urbanized area and a total population of at least 100,000 (75,000 in New England). The county or counties containing the largest city and surrounding densely settled territory are central counties of the MSA. Additional outlying counties qualify to be included in the MSA by meeting certain other criteria of metropolitan character, such as a specified minimum population density or percentage of the population that is urban. MSAs in New England are defined in terms of cities and towns, following rules concerning commuting and population density. MSAs were first defined and effective June 30, 1983.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "n296x062d",
@@ -13,14 +15,18 @@
     "msa",
     "cities",
     "urbanized areas",
-    "economy",
-    "society"
+    "Economy",
+    "Society"
   ],
   "dc_title_s": "U.S. Metropolitan Statistical Areas 2002",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/n296x062d\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/n296x062d/fgdc.xml\"}",
-  "dct_spatial_sm": "United States",
-  "dct_temporal_sm": "2000",
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "2000"
+  ],
   "dct_issued_s": "20020401",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "17.931042 -158.280933 61.484613 -65.589851",

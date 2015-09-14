@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/1544bq66t",
-  "dc_creator_sm": "ESRI",
+  "dc_creator_sm": [
+    "ESRI"
+  ],
   "dc_description_s": "World UTM Zones represents the Universal Transverse Mercator (UTM) Zones of the world.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "1544bq66t",
@@ -12,12 +14,14 @@
     "utm",
     "universal transverse mercator",
     "zones",
-    "location"
+    "Location"
   ],
   "dc_title_s": "World UTM Zones 2008",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/1544bq66t/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/1544bq66t/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/1544bq66t\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
-  "dct_spatial_sm": "World",
+  "dct_spatial_sm": [
+    "World"
+  ],
   "dct_temporal_sm": [
     "1997",
     "1987",

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/gt54kp709",
-  "dc_creator_sm": "Geographic Data Technology, Inc. (GDT)",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)"
+  ],
   "dc_description_s": "Idaho Tracts represents the U.S. Census tracts and block numbering areas (BNA) of Idaho.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "gt54kp709",
@@ -14,8 +16,8 @@
     "demographics",
     "population",
     "households",
-    "boundaries",
-    "society"
+    "Boundaries",
+    "Society"
   ],
   "dc_title_s": "Idaho Tracts 2002",
   "dc_type_s": "Dataset",

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/44558g02n",
-  "dc_creator_sm": "Geographic Data Technology, Inc. (GDT)",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)"
+  ],
   "dc_description_s": "Alaska Rivers represents streams and rivers within Alaska.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "44558g02n",
@@ -13,7 +15,7 @@
     "rivers",
     "perennial",
     "cfcc",
-    "inlandWaters"
+    "Inland Waters"
   ],
   "dc_title_s": "Alaska Rivers 2002",
   "dc_type_s": "Dataset",
@@ -22,7 +24,9 @@
     "United States",
     "Alaska"
   ],
-  "dct_temporal_sm": "1997",
+  "dct_temporal_sm": [
+    "1997"
+  ],
   "dct_issued_s": "20020401",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "51.357320 -178.079805 71.306727 -129",

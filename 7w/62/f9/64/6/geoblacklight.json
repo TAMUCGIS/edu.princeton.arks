@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/7w62f9646",
-  "dc_creator_sm": "Geographic Data Technology, Inc. (GDT)",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)"
+  ],
   "dc_description_s": "New Jersey Major Roads represents interstate, U.S., and state highways and other major thoroughfares within New Jersey.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "7w62f9646",
@@ -13,7 +15,7 @@
     "roads",
     "interstates",
     "cfcc",
-    "transportation"
+    "Transportation"
   ],
   "dc_title_s": "New Jersey Major Roads 2002",
   "dc_type_s": "Dataset",
@@ -22,7 +24,9 @@
     "United States",
     "New Jersey"
   ],
-  "dct_temporal_sm": "1999",
+  "dct_temporal_sm": [
+    "1999"
+  ],
   "dct_issued_s": "20020401",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "38.874330 -75.555280 41.355484 -73.911823",

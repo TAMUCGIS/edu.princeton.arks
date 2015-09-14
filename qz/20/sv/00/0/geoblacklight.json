@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/qz20sv000",
-  "dc_creator_sm": "All China Marketing Research Co., Ltd.",
+  "dc_creator_sm": [
+    "All China Marketing Research Co., Ltd."
+  ],
   "dc_description_s": "China provincial trunk roads.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "qz20sv000",
@@ -9,13 +11,15 @@
   "dc_subject_sm": [
     "roads",
     "provincial roads",
-    "transportation",
+    "Transportation",
     "major roads"
   ],
   "dc_title_s": "China Provincial Roads, 2000",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/qz20sv000/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/qz20sv000/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/qz20sv000\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
-  "dct_spatial_sm": "China",
+  "dct_spatial_sm": [
+    "China"
+  ],
   "dct_temporal_sm": [
     "2005",
     "2000"

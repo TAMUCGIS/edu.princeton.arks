@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/f1881n41p",
-  "dc_creator_sm": "Esri",
+  "dc_creator_sm": [
+    "Esri"
+  ],
   "dc_description_s": "U.S. ZIP Code Areas (Five-Digit) represents five-digit ZIP Code areas used by the U.S. Postal Service to deliver mail more effectively. The first digit of a five-digit ZIP Code divides the United States into 10 large groups of states numbered from 0 in the Northeast to 9 in the far West. Within these areas, each state is divided into an average of 10 smaller geographic areas, identified by the second and third digits. These digits, in conjunction with the first digit, represent a sectional center facility or a mail processing facility area. The fourth and fifth digits identify a post office, station, branch or local delivery area.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "f1881n41p",
@@ -15,19 +17,18 @@
     "demographics",
     "post offices",
     "households",
-    "society",
-    "location",
+    "Society",
+    "Location",
     "polygon",
-    "location",
-    "society"
+    "Location",
+    "Society"
   ],
   "dc_title_s": "U.S. ZIP Code Areas (Five-Digit), 2013",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/f1881n41p\", \"http://schema.org/downloadUrl\": \"http://map.princeton.edu/items/f1881n41p/restricted/data.zip\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/f1881n41p/fgdc.xml\"}",
   "dct_spatial_sm": [
     "Puerto Rico",
-    "United States",
-    "U.S. Virgin Islands"
+    "United States"
   ],
   "dct_temporal_sm": [
     "2011",

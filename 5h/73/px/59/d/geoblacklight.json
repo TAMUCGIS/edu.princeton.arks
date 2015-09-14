@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/5h73px59d",
-  "dc_creator_sm": "GfK MACON",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
   "dc_description_s": "This map includes the municipality boundaries of Greenland (Denmark) created by GfK MACON company, Germany.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "5h73px59d",
@@ -10,7 +12,7 @@
   "dc_subject_sm": [
     "administrative units",
     "municipalities",
-    "boundaries",
+    "Boundaries",
     "municipality boundaries"
   ],
   "dc_title_s": "Greenland Municipality Boundaries, 2005",
@@ -20,7 +22,9 @@
     "Denmark",
     "Greenland"
   ],
-  "dct_temporal_sm": "2006",
+  "dct_temporal_sm": [
+    "2006"
+  ],
   "dct_issued_s": "2005",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "59.777267 -73.263465 83.627419 -11.312318",

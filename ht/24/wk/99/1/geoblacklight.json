@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/ht24wk991",
-  "dc_creator_sm": "GfK MACON",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
   "dc_description_s": "This map includes the major ice and snow fields of Greenland (Denmark) created by GfK MACON company, Germany.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "ht24wk991",
@@ -10,7 +12,7 @@
   "dc_subject_sm": [
     "ice fields",
     "snow fields",
-    "geoscientificInformation"
+    "Geoscientific Information"
   ],
   "dc_title_s": "Greenland Major Ice and Snow Fields, 2005",
   "dc_type_s": "Dataset",
@@ -19,7 +21,9 @@
     "Denmark",
     "Greenland"
   ],
-  "dct_temporal_sm": "2006",
+  "dct_temporal_sm": [
+    "2006"
+  ],
   "dct_issued_s": "2005",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "60.000000 -72.830345 83.564423 -11.312318",

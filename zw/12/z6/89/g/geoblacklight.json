@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/zw12z689g",
-  "dc_creator_sm": "GfK MACON",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
   "dc_description_s": "This map includes the district boundaries of Taiwan created by GfK MACON company, Germany.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "zw12z689g",
@@ -10,7 +12,7 @@
   "dc_subject_sm": [
     "administrative units",
     "districts",
-    "boundaries",
+    "Boundaries",
     "district boundaries"
   ],
   "dc_title_s": "Taiwan District Boundaries, 2005",
@@ -20,7 +22,9 @@
     "Taiwan",
     "China"
   ],
-  "dct_temporal_sm": "2006",
+  "dct_temporal_sm": [
+    "2006"
+  ],
   "dct_issued_s": "2005",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "21.897305 118.137919 26.396321 122.008109",

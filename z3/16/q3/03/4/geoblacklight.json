@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/z316q3034",
-  "dc_creator_sm": "Boundary Solutions, Inc.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
   "dc_description_s": "The County of Monterey Assessor's Parcel Layer is intended to be used to locate and\n        identify taxable property within Monterey County as of 2006. A combination of original\n        source data were used to create the dataset. Source data may include, but is not limited to:\n        assessor maps, parcel maps, survey maps, cities and towns maps, property deeds, County of\n        Monterey Megabyte database, satellite imagery, aerial imagery, and recorded documents. Data\n        has been updated by comparing those parcel numbers listed in the Megabyte database to those\n        that exist in the GIS layer and generating difference reports. Parcels were then researched\n        and updated accordingly. The County of Monterey does not garauntee the accuracy of this\n        data, and assumes no liability for the use of this data.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "z316q3034",
@@ -18,7 +20,7 @@
     "assessment",
     "lot line",
     "property",
-    "planningCadastre"
+    "Planning and Cadastral"
   ],
   "dc_title_s": "Monterey County, California land parcels, 2006",
   "dc_type_s": "Dataset",

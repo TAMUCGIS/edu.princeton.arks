@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/qf85nc68p",
-  "dc_creator_sm": "GfK MACON",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
   "dc_description_s": "This data include western elevations of China created by GfK MACON company, Germany.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "qf85nc68p",
@@ -14,8 +16,12 @@
   "dc_title_s": "China Western Elevation",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/qf85nc68p/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/qf85nc68p/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/qf85nc68p\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
-  "dct_spatial_sm": "China",
-  "dct_temporal_sm": "2006",
+  "dct_spatial_sm": [
+    "China"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
   "dct_issued_s": "2004",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "26.892614 73.438687 49.156745 103.059501",

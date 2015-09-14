@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/7h149r429",
-  "dc_creator_sm": "DMTI Spatial Inc.",
+  "dc_creator_sm": [
+    "DMTI Spatial Inc."
+  ],
   "dc_description_s": "Canada Highways represents the expressways and primary highways of Canada. The highways are from the National Atlas Information Service (NAIS) 1:2 million digital maps created by Natural Resources Canada for publishing of the National Atlas of Canada.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "7h149r429",
@@ -14,13 +16,17 @@
     "primary highways",
     "major multi lanes",
     "roads",
-    "transportation"
+    "Transportation"
   ],
   "dc_title_s": "Canada Highways 2002",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/7h149r429/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/7h149r429/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/7h149r429\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
-  "dct_spatial_sm": "Canada",
-  "dct_temporal_sm": "2001",
+  "dct_spatial_sm": [
+    "Canada"
+  ],
+  "dct_temporal_sm": [
+    "2001"
+  ],
   "dct_issued_s": "20020401",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "42.057625 -141.002143 68.354385 -52.712795",

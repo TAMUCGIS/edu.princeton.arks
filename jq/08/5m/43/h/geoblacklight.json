@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/jq085m43h",
-  "dc_creator_sm": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_creator_sm": [
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
   "dc_description_s": "Mexico Road Routes represents the major highway routes of Mexico.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "jq085m43h",
@@ -16,7 +18,9 @@
   "dc_title_s": "Mexico Road Routes 2000",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/jq085m43h/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/jq085m43h/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/jq085m43h\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
-  "dct_spatial_sm": "Mexico",
+  "dct_spatial_sm": [
+    "Mexico"
+  ],
   "dct_temporal_sm": [
     "1992",
     "1992",

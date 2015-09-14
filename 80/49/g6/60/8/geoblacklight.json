@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/8049g6608",
-  "dc_creator_sm": "Health Forum, L.L.C.",
+  "dc_creator_sm": [
+    "Health Forum, L.L.C."
+  ],
   "dc_description_s": "U.S. Hospitals represents the locations and selected attributes for hospitals included in the FY2005 edition of the American Hospital Association (AHA) Annual Survey Database.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "8049g6608",
@@ -15,10 +17,10 @@
     "visits",
     "beds",
     "Medicare",
-    "health",
-    "society",
-    "structure",
-    "location"
+    "Health",
+    "Society",
+    "Structure",
+    "Location"
   ],
   "dc_title_s": "U.S. Hospitals 2008",
   "dc_type_s": "Dataset",

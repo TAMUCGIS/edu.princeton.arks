@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/5999n486f",
-  "dc_creator_sm": "AND Data Solutions, B.V.",
+  "dc_creator_sm": [
+    "AND Data Solutions, B.V."
+  ],
   "dc_description_s": "Europe Roads represents the roads of Europe.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "5999n486f",
@@ -10,13 +12,17 @@
   "dc_subject_sm": [
     "line",
     "roads",
-    "transportation"
+    "Transportation"
   ],
   "dc_title_s": "Europe Roads 2000",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/5999n486f/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/5999n486f/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/5999n486f\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
-  "dct_spatial_sm": "Europe",
-  "dct_temporal_sm": "1999",
+  "dct_spatial_sm": [
+    "Europe"
+  ],
+  "dct_temporal_sm": [
+    "1999"
+  ],
   "dct_issued_s": "20001101",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "28.119100 -21.970000 71.168100 64.025600",

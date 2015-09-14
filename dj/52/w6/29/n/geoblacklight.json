@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/dj52w629n",
-  "dc_creator_sm": "GfK MACON",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
   "dc_description_s": "This map includes the environmental planning region boundaries of Germany created by GfK MACON company, Germany.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "dj52w629n",
@@ -10,14 +12,18 @@
   "dc_subject_sm": [
     "administrative units",
     "environmental planning regions",
-    "boundaries",
+    "Boundaries",
     "region boundaries"
   ],
   "dc_title_s": "Germany Environmental Planning Region Boundaries, 2006",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/dj52w629n/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/dj52w629n/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/dj52w629n\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
-  "dct_spatial_sm": "Germany",
-  "dct_temporal_sm": "2006",
+  "dct_spatial_sm": [
+    "Germany"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
   "dct_issued_s": "2006",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "47.270238 5.866256 55.056816 15.041256",

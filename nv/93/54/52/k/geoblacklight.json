@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/nv935452k",
-  "dc_creator_sm": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_creator_sm": [
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
   "dc_description_s": "World Regions represents the boundaries for the regions of the world. There are 25 commonly recognized world regions.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "nv935452k",
@@ -11,12 +13,14 @@
     "polygon",
     "regions",
     "coastlines",
-    "boundaries"
+    "Boundaries"
   ],
   "dc_title_s": "World Regions 2002",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/nv935452k/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/nv935452k/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/nv935452k\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
-  "dct_spatial_sm": "World",
+  "dct_spatial_sm": [
+    "World"
+  ],
   "dct_temporal_sm": [
     "1996",
     "1998",

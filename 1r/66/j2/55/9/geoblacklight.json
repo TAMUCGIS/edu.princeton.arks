@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/1r66j2559",
-  "dc_creator_sm": "Geographic Data Technology, Inc. (GDT)",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)"
+  ],
   "dc_description_s": "U.S. ZIP Code Areas represents five-digit ZIP Code areas used by the U.S. Postal Service to deliver mail more effectively.  The first digit of a five-digit ZIP Code divides the country into 10 large groups of states numbered from 0 in the Northeast to 9 in the far West.  Within these areas, each state is divided into an average of 10 smaller geographical areas, identified by the 2nd and 3rd digits.  These digits, in conjunction with the first digit, represent a sectional center facility or a mail processing facility area.  The 4th and 5th digits identify a post office, station, branch or local delivery area.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "1r66j2559",
@@ -18,7 +20,9 @@
   "dc_title_s": "U.S. ZIP Code Areas 2000",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/1r66j2559\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/1r66j2559/fgdc.xml\"}",
-  "dct_spatial_sm": "United States",
+  "dct_spatial_sm": [
+    "United States"
+  ],
   "dct_temporal_sm": [
     "1999",
     "1990",

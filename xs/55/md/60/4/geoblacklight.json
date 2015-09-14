@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/xs55md604",
-  "dc_creator_sm": "Geographic Data Technology, Inc. (GDT)",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)"
+  ],
   "dc_description_s": "West Virginia Tracts represents the U.S. Census tracts and block numbering areas (BNA) of West Virginia.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "xs55md604",
@@ -14,8 +16,8 @@
     "demographics",
     "population",
     "households",
-    "boundaries",
-    "society"
+    "Boundaries",
+    "Society"
   ],
   "dc_title_s": "West Virginia Tracts 2002",
   "dc_type_s": "Dataset",

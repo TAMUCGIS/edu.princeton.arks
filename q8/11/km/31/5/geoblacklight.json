@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/q811km315",
-  "dc_creator_sm": "Geographic Data Technology, Inc. (GDT)",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)"
+  ],
   "dc_description_s": "Alaska Block Groups represents the U.S. Census block groups of Alaska.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "q811km315",
@@ -13,8 +15,8 @@
     "demographics",
     "population",
     "households",
-    "boundaries",
-    "society"
+    "Boundaries",
+    "Society"
   ],
   "dc_title_s": "Alaska Block Groups 2002",
   "dc_type_s": "Dataset",

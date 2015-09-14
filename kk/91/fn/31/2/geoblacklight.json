@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/kk91fn312",
-  "dc_creator_sm": "All China Marketing Research Co., Ltd.",
+  "dc_creator_sm": [
+    "All China Marketing Research Co., Ltd."
+  ],
   "dc_description_s": "China major rivers.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "kk91fn312",
@@ -9,12 +11,14 @@
   "dc_subject_sm": [
     "Rivers",
     "Major Rivers",
-    "inlandWaters"
+    "Inland Waters"
   ],
   "dc_title_s": "China Major Rivers, 2000",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/kk91fn312/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/kk91fn312/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/kk91fn312\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
-  "dct_spatial_sm": "China",
+  "dct_spatial_sm": [
+    "China"
+  ],
   "dct_temporal_sm": [
     "2005",
     "2000"

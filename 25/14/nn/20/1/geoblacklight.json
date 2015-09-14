@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/2514nn201",
-  "dc_creator_sm": "Boundary Solutions, Inc.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
   "dc_description_s": "Land parcels in Ocean County, New Jersey, 2008. The parcel coverage was created with CADD software, then imported into ARCGIS for cleaning, editing, and additions. The coverage conversion is geodatabase for distribution.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "2514nn201",
@@ -20,7 +22,7 @@
     "buildings",
     "stories",
     "floors",
-    "planningCadastre"
+    "Planning and Cadastral"
   ],
   "dc_title_s": "Ocean County, New Jersey land parcels, 2008",
   "dc_type_s": "Dataset",

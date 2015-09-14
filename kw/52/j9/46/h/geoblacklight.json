@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/kw52j946h",
-  "dc_creator_sm": "Geographic Data Technology, Inc. (GDT)",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)"
+  ],
   "dc_description_s": "North Carolina Tracts represents the U.S. Census tracts and block numbering areas (BNA) of North Carolina.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "kw52j946h",
@@ -14,8 +16,8 @@
     "demographics",
     "population",
     "households",
-    "boundaries",
-    "society"
+    "Boundaries",
+    "Society"
   ],
   "dc_title_s": "North Carolina Tracts 2002",
   "dc_type_s": "Dataset",

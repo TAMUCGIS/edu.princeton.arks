@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/cr56n2453",
-  "dc_creator_sm": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_creator_sm": [
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
   "dc_description_s": "New Mexico Block Centroid Populations represents the population of the U.S. Census block centroids for New Mexico.  U.S. Census blocks are the smallest geographic entities within a county for which the Census Bureau tabulates population.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "cr56n2453",
@@ -12,7 +14,7 @@
     "census block centroids",
     "census blocks",
     "population",
-    "society"
+    "Society"
   ],
   "dc_title_s": "New Mexico Block Centroid Populations 2002",
   "dc_type_s": "Dataset",
@@ -21,7 +23,9 @@
     "United States",
     "New Mexico"
   ],
-  "dct_temporal_sm": "2000",
+  "dct_temporal_sm": [
+    "2000"
+  ],
   "dct_issued_s": "20020401",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "31.349988 -109.047072 37.000044 -103.003031",

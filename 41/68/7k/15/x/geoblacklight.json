@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/41687k15x",
-  "dc_creator_sm": "Geographic Data Technology, Inc. (GDT)",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)"
+  ],
   "dc_description_s": "U.S. GDT Airports represents airport boundaries and airport runways within United States. All airports have a boundary and most have at least one runway.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "41687k15x",
@@ -15,12 +17,14 @@
     "hubs",
     "control towers",
     "airport codes",
-    "transportation"
+    "Transportation"
   ],
   "dc_title_s": "U.S. GDT Airports 2002",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/41687k15x/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/41687k15x/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/41687k15x\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
-  "dct_spatial_sm": "United States",
+  "dct_spatial_sm": [
+    "United States"
+  ],
   "dct_temporal_sm": [
     "1999",
     "1994",

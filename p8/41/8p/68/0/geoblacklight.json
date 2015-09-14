@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/p8418p680",
-  "dc_creator_sm": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_creator_sm": [
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
   "dc_description_s": "Mexico Drainage represents the major drainage systems within Mexico.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "p8418p680",
@@ -13,12 +15,14 @@
     "drainage system",
     "river",
     "hydrography",
-    "inlandWaters"
+    "Inland Waters"
   ],
   "dc_title_s": "Mexico Drainage Systems 2002",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/p8418p680/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/p8418p680/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/p8418p680\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
-  "dct_spatial_sm": "Mexico",
+  "dct_spatial_sm": [
+    "Mexico"
+  ],
   "dct_temporal_sm": [
     "1992",
     "1991",

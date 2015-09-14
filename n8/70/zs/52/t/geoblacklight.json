@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/n870zs52t",
-  "dc_creator_sm": "Geographic Data Technology, Inc. (GDT)",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)"
+  ],
   "dc_description_s": "Texas Tracts represents the U.S. Census tracts and block numbering areas (BNA) of Texas.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "n870zs52t",
@@ -14,8 +16,8 @@
     "demographics",
     "population",
     "households",
-    "boundaries",
-    "society"
+    "Boundaries",
+    "Society"
   ],
   "dc_title_s": "Texas Tracts 2002",
   "dc_type_s": "Dataset",

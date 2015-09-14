@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/0z708x952",
-  "dc_creator_sm": "Boundary Solutions, Inc.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
   "dc_description_s": "Land parcels in Humboldt County, California, 2009. Humboldt County's Parcel Layer\n        Version 3.8. This dataset is the result of an ongoing effort to produce an accurate county\n        wide parcel layer. Digitizing began as far back as 1996. Includes all unincorporated areas\n        as well as cities/incorporated areas. Cities data obtained from Arcata, Eureka, and\n        Trinidad. Please note the accuracy of GIS map data varies from location to location in the\n        County. This GIS system is useful for planning purposes but should not be relied upon to\n        determine property, zoning or general plan designation boundaries or be used in any way for\n        project design. All GIS data should be verified before it is materially relied upon for\n        property or project planning.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "0z708x952",
@@ -17,7 +19,7 @@
     "parcel",
     "property",
     "ownership",
-    "planningCadastre"
+    "Planning and Cadastral"
   ],
   "dc_title_s": "Humboldt County, California land parcels, 2009",
   "dc_type_s": "Dataset",

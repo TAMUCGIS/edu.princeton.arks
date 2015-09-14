@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/k06989175",
-  "dc_creator_sm": "Boundary Solutions, Inc.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
   "dc_description_s": "Land parcels in St. Lucie, Flordia, 2009.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "k06989175",
@@ -20,16 +22,13 @@
     "buildings",
     "stories",
     "floors",
-    "planningCadastre"
+    "Planning and Cadastral"
   ],
   "dc_title_s": "St. Lucie County, Florida land parcels, 2009",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/k06989175/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/k06989175/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/k06989175\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
   "dct_spatial_sm": [
-    "St. Lucie",
-    "St. Lucie County",
-    "Florida",
-    "Port St. Lucie"
+    "Florida"
   ],
   "dct_issued_s": "20090818",
   "dct_provenance_s": "Princeton",

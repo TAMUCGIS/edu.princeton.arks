@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/jw827d226",
-  "dc_creator_sm": "National Atlas of the United States and the United States Geological Survey",
+  "dc_creator_sm": [
+    "National Atlas of the United States and the United States Geological Survey"
+  ],
   "dc_description_s": "U.S. National Atlas Public Land Survey represents the Public Land Surveys (e.g., donation lands, land grants, private and public lands) of the United States.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "jw827d226",
@@ -18,15 +20,14 @@
     "civil colonies",
     "donation land claims",
     "unsurveyed areas",
-    "planningCadastre"
+    "Planning and Cadastral"
   ],
   "dc_title_s": "U.S. National Atlas Public Land Survey 2002",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/jw827d226/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/jw827d226/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/jw827d226\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
   "dct_spatial_sm": [
     "United States",
-    "Puerto Rico",
-    "U.S. Virgin Islands"
+    "Puerto Rico"
   ],
   "dct_temporal_sm": [
     "1972–1999",

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/js956h24j",
-  "dc_creator_sm": "Geographic Data Technology, Inc. (GDT)",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)"
+  ],
   "dc_description_s": "District of Columbia Tracts represents the U.S. Census tracts and block numbering areas (BNA) of District of Columbia.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "js956h24j",
@@ -14,8 +16,8 @@
     "demographics",
     "population",
     "households",
-    "boundaries",
-    "society"
+    "Boundaries",
+    "Society"
   ],
   "dc_title_s": "District of Columbia Tracts 2002",
   "dc_type_s": "Dataset",

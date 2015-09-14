@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/9593tw867",
-  "dc_creator_sm": "Geographic Data Technology, Inc. (GDT)",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)"
+  ],
   "dc_description_s": "Indiana Rivers represents streams and rivers within Indiana.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "9593tw867",
@@ -13,7 +15,7 @@
     "rivers",
     "perennial",
     "cfcc",
-    "inlandWaters"
+    "Inland Waters"
   ],
   "dc_title_s": "Indiana Rivers 2002",
   "dc_type_s": "Dataset",
@@ -22,7 +24,9 @@
     "United States",
     "Indiana"
   ],
-  "dct_temporal_sm": "1997",
+  "dct_temporal_sm": [
+    "1997"
+  ],
   "dct_issued_s": "20020401",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "37.799375 -88.069613 41.760577 -84.802286",

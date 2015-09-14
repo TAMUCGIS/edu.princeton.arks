@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/td96k424d",
-  "dc_creator_sm": "Tuolumne County Community Development Department, GIS Division",
+  "dc_creator_sm": [
+    "Tuolumne County Community Development Department, GIS Division"
+  ],
   "dc_description_s": "Based on original Tuolumne County cadastral parcel data, which was digitized and rubbersheeted using Manatron software and assessors' record of survey maps starting in 1992, this feature class was spatially adjusted in ARCINFO Workstation using ARCEDIT in late 2002 to reflect more accurate locational data. This is the first generation of the overall spatially corrected parcel data.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "td96k424d",
@@ -17,7 +19,7 @@
     "value",
     "land value",
     "land use",
-    "planningCadastre"
+    "Planning and Cadastral"
   ],
   "dc_title_s": "Tuolumne County, California land parcels, 2008",
   "dc_type_s": "Dataset",

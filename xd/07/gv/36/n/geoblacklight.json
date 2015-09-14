@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/xd07gv36n",
-  "dc_creator_sm": "GfK MACON",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
   "dc_description_s": "This map includes the region boundaries of Belgium created by GfK MACON company, Germany.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "xd07gv36n",
@@ -10,14 +12,18 @@
   "dc_subject_sm": [
     "administrative units",
     "regions",
-    "boundaries",
+    "Boundaries",
     "region boundaries"
   ],
   "dc_title_s": "Belgium Region Boundaries, 2005",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/xd07gv36n/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/xd07gv36n/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/xd07gv36n\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
-  "dct_spatial_sm": "Belgium",
-  "dct_temporal_sm": "2006",
+  "dct_spatial_sm": [
+    "Belgium"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
   "dct_issued_s": "2005",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "49.498633 2.546041 51.506650 6.408152",

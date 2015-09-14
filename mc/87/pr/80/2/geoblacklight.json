@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/mc87pr802",
-  "dc_creator_sm": "City of New York Department of City Planning",
+  "dc_creator_sm": [
+    "City of New York Department of City Planning"
+  ],
   "dc_description_s": "LION is a single line representation of New York City streets containing address ranges and other information.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "mc87pr802",
@@ -14,7 +16,7 @@
     "Transportation",
     "Highway",
     "Railroad",
-    "transportation"
+    "Transportation"
   ],
   "dc_title_s": "New York City Central Line Street (LION) 2008",
   "dc_type_s": "Dataset",

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/8g84mn76w",
-  "dc_creator_sm": "ESRI",
+  "dc_creator_sm": [
+    "ESRI"
+  ],
   "dc_description_s": "World Drainage Systems represents the major drainage systems of the world.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "8g84mn76w",
@@ -13,12 +15,14 @@
     "drainage systems",
     "rivers",
     "hydrography",
-    "inlandWaters"
+    "Inland Waters"
   ],
   "dc_title_s": "World Drainage Systems 2008",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/8g84mn76w/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/8g84mn76w/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/8g84mn76w\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
-  "dct_spatial_sm": "World",
+  "dct_spatial_sm": [
+    "World"
+  ],
   "dct_temporal_sm": [
     "1992",
     "1991",

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/th83m0976",
-  "dc_creator_sm": "Geographic Data Technology, Inc. (GDT)",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)"
+  ],
   "dc_description_s": "Mississippi Block Groups represents the U.S. Census block groups of Mississippi.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "th83m0976",
@@ -13,8 +15,8 @@
     "demographics",
     "population",
     "households",
-    "boundaries",
-    "society"
+    "Boundaries",
+    "Society"
   ],
   "dc_title_s": "Mississippi Block Groups 2002",
   "dc_type_s": "Dataset",

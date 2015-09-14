@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/3r074w418",
-  "dc_creator_sm": "ESRI",
+  "dc_creator_sm": [
+    "ESRI"
+  ],
   "dc_description_s": "World Countries 2008 represents the boundaries for the countries of the world as they existed in January 2008.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "3r074w418",
@@ -16,13 +18,15 @@
     "international codes",
     "status",
     "population",
-    "boundaries",
-    "society"
+    "Boundaries",
+    "Society"
   ],
   "dc_title_s": "World Countries 2008",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/3r074w418/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/3r074w418/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/3r074w418\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
-  "dct_spatial_sm": "World",
+  "dct_spatial_sm": [
+    "World"
+  ],
   "dct_temporal_sm": [
     "1996",
     "1998",

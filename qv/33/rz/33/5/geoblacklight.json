@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/qv33rz335",
-  "dc_creator_sm": "National Atlas of the United States and the United States Geological Survey",
+  "dc_creator_sm": [
+    "National Atlas of the United States and the United States Geological Survey"
+  ],
   "dc_description_s": "U.S. National Atlas Federal and Indian Land Areas represents the federal and Indian owned land areas (e.g., Bureau of Indian Affairs, Department of Defense, and Tennessee Valley Authority) of the United States.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "qv33rz335",
@@ -15,7 +17,9 @@
   "dc_title_s": "U.S. National Atlas Federal and Indian Land Areas 2000",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/qv33rz335/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/qv33rz335/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/qv33rz335\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
-  "dct_spatial_sm": "United States",
+  "dct_spatial_sm": [
+    "United States"
+  ],
   "dct_temporal_sm": [
     "1972–1998",
     "1970–1995"

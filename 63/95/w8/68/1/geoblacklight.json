@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/6395w8681",
-  "dc_creator_sm": "TomTom North America, Inc.",
+  "dc_creator_sm": [
+    "TomTom North America, Inc."
+  ],
   "dc_description_s": "U.S. Counties represents the counties of the United States in the 50 states, the District of Columbia, and Puerto Rico.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "6395w8681",
@@ -13,19 +15,18 @@
     "demographics",
     "population",
     "households",
-    "farming",
-    "boundaries",
-    "society",
-    "boundaries",
-    "farming",
-    "society"
+    "Farming",
+    "Boundaries",
+    "Society",
+    "Boundaries",
+    "Farming",
+    "Society"
   ],
   "dc_title_s": "U.S. Counties, 2013",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/6395w8681/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/6395w8681/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/6395w8681\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
   "dct_spatial_sm": [
     "United States",
-    "U.S. Counties",
     "Counties",
     "Puerto Rico"
   ],

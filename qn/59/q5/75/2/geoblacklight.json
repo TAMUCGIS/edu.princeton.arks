@@ -1,12 +1,16 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/qn59q5752",
-  "dc_creator_sm": "EROS Data Center",
+  "dc_creator_sm": [
+    "EROS Data Center"
+  ],
   "dc_description_s": "The drainage basins distributed with the HYDRO1k data set suite are \nderived using the vector stream networks along with the flow direction data set. \nEach polygon in the basin data set has been tagged with a Pfafstetter code \nuniquely identifying each sub-basin. A detailed description of the coding scheme \ncan be found in Verdin. Additional attributes defining the characteristics of \neach sub-basin have been developed.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "qn59q5752",
   "dc_language_s": "English",
   "dc_rights_s": "Restricted",
-  "dc_subject_sm": "drainage basin",
+  "dc_subject_sm": [
+    "drainage basin"
+  ],
   "dc_title_s": "HYDRO 1K Elevation Derivative Database",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/qn59q5752\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/qn59q5752/fgdc.xml\"}",

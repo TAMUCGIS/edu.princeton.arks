@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/tt44pp58h",
-  "dc_creator_sm": "City of Trenton Division of Planning",
+  "dc_creator_sm": [
+    "City of Trenton Division of Planning"
+  ],
   "dc_description_s": "\nThis dataset represents Police Department Patrol Zones for the City of Trenton, New Jersey\n",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "tt44pp58h",
@@ -15,7 +17,9 @@
   "dc_title_s": "Trenton Police Patrol Zones",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/tt44pp58h/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/tt44pp58h/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/tt44pp58h\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
-  "dct_spatial_sm": "Trenton",
+  "dct_spatial_sm": [
+    "Trenton"
+  ],
   "dct_issued_s": "2008?",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "40.183711 -74.819202 40.248589 -74.728687",

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/pg15bg56z",
-  "dc_creator_sm": "Geographic Data Technology, Inc. (GDT)",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)"
+  ],
   "dc_description_s": "Iowa Tracts represents the U.S. Census tracts and block numbering areas (BNA) of Iowa.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "pg15bg56z",
@@ -14,8 +16,8 @@
     "demographics",
     "population",
     "households",
-    "boundaries",
-    "society"
+    "Boundaries",
+    "Society"
   ],
   "dc_title_s": "Iowa Tracts 2002",
   "dc_type_s": "Dataset",

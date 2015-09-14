@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/z603r016n",
-  "dc_creator_sm": "GfK MACON",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
   "dc_description_s": "This data includes Guatemala cities with population between 10 thousand and 60 thousand created by GfK MACON company, Germany.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "z603r016n",
@@ -15,8 +17,12 @@
   "dc_title_s": "Guatemala Cities With Population From 10 Thousand To 60 Thousand, 1991",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/z603r016n/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/z603r016n/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/z603r016n\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
-  "dct_spatial_sm": "Guatemala",
-  "dct_temporal_sm": "2006",
+  "dct_spatial_sm": [
+    "Guatemala"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
   "dct_issued_s": "2005",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "13.930592 -91.788261 15.725791 -88.586044",

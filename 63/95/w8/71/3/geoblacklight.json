@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/6395w8713",
-  "dc_creator_sm": "San Mateo County, Information Services Department (ISD), County GIS Lead",
+  "dc_creator_sm": [
+    "San Mateo County, Information Services Department (ISD), County GIS Lead"
+  ],
   "dc_description_s": "This data layer portrays the tax parcel boundaries in San Mateo County. Lynx\n        Technologies, Inc. compiled this data layer in 2000-2001. Lynx compiled the parcel layer\n        from County AutoCAD drawings and Fire Run maps as well as electronic data supplied by Cities\n        within the County. The final parcel layer was adjusted to best fit the County’s\n        200-scale orthophotography base. APN attribution is derived from data within the\n        Assessor’s database. Farallon Geographics converted all data from ARC/Info coverages\n        into Oracle Spatial. San Mateo County Assessor Department currently maintains the Parcel\n        layer.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "6395w8713",
@@ -18,7 +20,7 @@
     "ownership",
     "cadastral maps",
     "land value",
-    "planningCadastre"
+    "Planning and Cadastral"
   ],
   "dc_title_s": "San Mateo County, California land and water parcels, 2009",
   "dc_type_s": "Dataset",

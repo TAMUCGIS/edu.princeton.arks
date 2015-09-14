@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/3484zj680",
-  "dc_creator_sm": "Boundary Solutions, Inc.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
   "dc_description_s": "Land parcels in Multnomah County, Oregon, 2006. Tax lots, right-of-way outlines and tax account numbers as represented on county tax assessor hard copy maps. Each tax lot is a polygon with an associated tax lot number which is the \"hook\" to the county tax assessor's tabular data base. Selected items from each County Assessor's file are included. The tax lot spatial features are maintained by each county and delivered to Metro quarterly.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "3484zj680",
@@ -21,7 +23,7 @@
     "tax lots",
     "assessor",
     "cadastral",
-    "planningCadastre"
+    "Planning and Cadastral"
   ],
   "dc_title_s": "Multnomah County, Oregon land parcels, 2006",
   "dc_type_s": "Dataset",

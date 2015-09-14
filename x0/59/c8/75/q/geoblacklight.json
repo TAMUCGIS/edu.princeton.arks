@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/x059c875q",
-  "dc_creator_sm": "Geographic Data Technology, Inc. (GDT)",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)"
+  ],
   "dc_description_s": "South Dakota Tracts represents the U.S. Census tracts and block numbering areas (BNA) of South Dakota.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "x059c875q",
@@ -14,8 +16,8 @@
     "demographics",
     "population",
     "households",
-    "boundaries",
-    "society"
+    "Boundaries",
+    "Society"
   ],
   "dc_title_s": "South Dakota Tracts 2002",
   "dc_type_s": "Dataset",

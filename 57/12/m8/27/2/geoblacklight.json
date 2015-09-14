@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/5712m8272",
-  "dc_creator_sm": "National Park Service",
+  "dc_creator_sm": [
+    "National Park Service"
+  ],
   "dc_description_s": "U.S. Major Parks represents National Parks, National Forests, State and local parks and forests within United States.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "5712m8272",
@@ -13,12 +15,14 @@
     "national park or forest",
     "state park or forest",
     "local park or forest",
-    "environment"
+    "Environment"
   ],
   "dc_title_s": "U.S. Major Parks 2008",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/5712m8272/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/5712m8272/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/5712m8272\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
-  "dct_spatial_sm": "United States",
+  "dct_spatial_sm": [
+    "United States"
+  ],
   "dct_temporal_sm": [
     "1992",
     "1997"

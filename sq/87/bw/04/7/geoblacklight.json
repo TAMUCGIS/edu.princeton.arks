@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/sq87bw047",
-  "dc_creator_sm": "National Atlas of the United States and the United States Geological Survey",
+  "dc_creator_sm": [
+    "National Atlas of the United States and the United States Geological Survey"
+  ],
   "dc_description_s": "U.S. National Atlas Federal Land Lines represents the linear federally owned land features (e.g., national parkways and wild and scenic rivers) of the United States.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "sq87bw047",
@@ -14,13 +16,15 @@
     "rivers",
     "scenic rivers",
     "wild and scenic rivers",
-    "boundaries",
-    "planningCadastre"
+    "Boundaries",
+    "Planning and Cadastral"
   ],
   "dc_title_s": "U.S. National Atlas Federal Land Lines 2002",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/sq87bw047/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/sq87bw047/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/sq87bw047\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
-  "dct_spatial_sm": "United States",
+  "dct_spatial_sm": [
+    "United States"
+  ],
   "dct_temporal_sm": [
     "1972–1999",
     "1970–1995",

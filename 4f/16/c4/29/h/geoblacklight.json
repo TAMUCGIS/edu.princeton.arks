@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/4f16c429h",
-  "dc_creator_sm": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_creator_sm": [
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
   "dc_description_s": "U.S. Drainage Systems (Generalized) represents the major drainage systems within United States.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "4f16c429h",
@@ -13,12 +15,14 @@
     "drainage systems",
     "rivers",
     "hydrography",
-    "inlandWaters"
+    "Inland Waters"
   ],
   "dc_title_s": "U.S. Drainage Systems (Generalized) 2002",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/4f16c429h/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/4f16c429h/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/4f16c429h\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
-  "dct_spatial_sm": "United States",
+  "dct_spatial_sm": [
+    "United States"
+  ],
   "dct_temporal_sm": [
     "1992",
     "1991",

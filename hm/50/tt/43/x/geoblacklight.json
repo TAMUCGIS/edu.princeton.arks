@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/hm50tt43x",
-  "dc_creator_sm": "DMTI Spatial Inc.",
+  "dc_creator_sm": [
+    "DMTI Spatial Inc."
+  ],
   "dc_description_s": "Canada Municipalities represents the municipalities (townships) within Canada of types including cities, cantons, hamlets, towns/ville, villages, Indian reserves, parishes/paroisse, communities, unorganized, districts, and terre Inuite. The boundaries are digitized from CanMap®.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "hm50tt43x",
@@ -18,12 +20,14 @@
     "communities",
     "districts",
     "terre Inuite",
-    "boundaries"
+    "Boundaries"
   ],
   "dc_title_s": "Canada Municipalities 2002",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/hm50tt43x\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/hm50tt43x/fgdc.xml\"}",
-  "dct_spatial_sm": "Canada",
+  "dct_spatial_sm": [
+    "Canada"
+  ],
   "dct_temporal_sm": [
     "2000",
     "1996"

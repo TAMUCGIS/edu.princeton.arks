@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/fq977w33v",
-  "dc_creator_sm": "ESRI",
+  "dc_creator_sm": [
+    "ESRI"
+  ],
   "dc_description_s": "World Administrative Units represents the boundaries for the first-level administrative units of the world.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "fq977w33v",
@@ -17,13 +19,15 @@
     "administrative unit and international codes",
     "population",
     "English and local names",
-    "boundaries",
-    "society"
+    "Boundaries",
+    "Society"
   ],
   "dc_title_s": "World Administrative Units 2008",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/fq977w33v/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/fq977w33v/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/fq977w33v\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
-  "dct_spatial_sm": "World",
+  "dct_spatial_sm": [
+    "World"
+  ],
   "dct_temporal_sm": [
     "1996",
     "1998",

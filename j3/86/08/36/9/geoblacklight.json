@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/j38608369",
-  "dc_creator_sm": "GfK MACON",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
   "dc_description_s": "This map includes the district boundaries of Albania created by GfK MACON company, Germany.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "j38608369",
@@ -10,14 +12,18 @@
   "dc_subject_sm": [
     "administrative units",
     "districts",
-    "boundaries",
+    "Boundaries",
     "district boundaries"
   ],
   "dc_title_s": "Albania District Boundaries, 2005",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/j38608369/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/j38608369/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/j38608369\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
-  "dct_spatial_sm": "Albania",
-  "dct_temporal_sm": "2006",
+  "dct_spatial_sm": [
+    "Albania"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
   "dct_issued_s": "2005",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "39.645349 19.262757 42.665270 21.057986",

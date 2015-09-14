@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/02870x53t",
-  "dc_creator_sm": "United States Geological Survey",
+  "dc_creator_sm": [
+    "United States Geological Survey"
+  ],
   "dc_description_s": "U.S. Geographic Names Information System Golf Locale represents an automated inventory of the proper names and locations of physical and cultural geographic features located throughout the United States and its Territories.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "02870x53t",
@@ -12,7 +14,7 @@
     "golf locale",
     "place name",
     "geographic feature",
-    "society"
+    "Society"
   ],
   "dc_title_s": "U.S. Geographic Names Information System Golf Locale 2002",
   "dc_type_s": "Dataset",
@@ -21,7 +23,9 @@
     "United States",
     "Puerto Rico"
   ],
-  "dct_temporal_sm": "2000",
+  "dct_temporal_sm": [
+    "2000"
+  ],
   "dct_issued_s": "20020401",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "18.032459 -158.063919 48.982239 -66.632675",

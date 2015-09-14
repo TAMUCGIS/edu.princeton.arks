@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/st74cs02w",
-  "dc_creator_sm": "City of Trenton Division of Planning",
+  "dc_creator_sm": [
+    "City of Trenton Division of Planning"
+  ],
   "dc_description_s": "\nThis dataset contains Block boundaries based on new Block and Lot numbers used by the Tax Assessors Office as of 2005 for the City of Trenton , New Jersey\n",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "st74cs02w",
@@ -14,7 +16,9 @@
   "dc_title_s": "Trenton Tax Blocks",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/st74cs02w/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/st74cs02w/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/st74cs02w\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
-  "dct_spatial_sm": "Trenton",
+  "dct_spatial_sm": [
+    "Trenton"
+  ],
   "dct_issued_s": "2005",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "40.184245 -74.819868 40.248589 -74.728763",

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/j3860840v",
-  "dc_creator_sm": "Geographic Data Technology, Inc. (GDT)",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)"
+  ],
   "dc_description_s": "Minnesota Tracts represents the U.S. Census tracts and block numbering areas (BNA) of Minnesota.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "j3860840v",
@@ -14,8 +16,8 @@
     "demographics",
     "population",
     "households",
-    "boundaries",
-    "society"
+    "Boundaries",
+    "Society"
   ],
   "dc_title_s": "Minnesota Tracts 2002",
   "dc_type_s": "Dataset",

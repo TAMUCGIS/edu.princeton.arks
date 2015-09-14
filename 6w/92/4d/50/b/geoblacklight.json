@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/6w924d50b",
-  "dc_creator_sm": "GfK MACON",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
   "dc_description_s": "This data includes China major city areas created by GfK MACON company, Germany.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "6w924d50b",
@@ -15,8 +17,12 @@
   "dc_title_s": "China Major City Areas, 2004",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/6w924d50b/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/6w924d50b/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/6w924d50b\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
-  "dct_spatial_sm": "China",
-  "dct_temporal_sm": "2006",
+  "dct_spatial_sm": [
+    "China"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
   "dct_issued_s": "2004",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "18.217303 75.177445 53.485474 133.097580",

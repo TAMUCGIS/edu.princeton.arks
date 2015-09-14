@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/xk81jm95h",
-  "dc_creator_sm": "DMTI Spatial Inc.",
+  "dc_creator_sm": [
+    "DMTI Spatial Inc."
+  ],
   "dc_description_s": "Canada FSA Postal Centroids represents the Forward Sortation Areas (FSA) of Canada as centroids, which are identified by the first three characters of the postal code. The sequence of the three-character FSA is always Alphabetical character/Number/Alphabetical character. The centroids are calculated from the DMTI Spatial FSA boundary file, which is created from the DMTI Spatial six-character postal code point file and CanMap®. The FSA boundaries encompass the six-character postal code points starting with that FSA designation, and conform to the streets and other physical features within CanMap.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "xk81jm95h",
@@ -16,7 +18,9 @@
   "dc_title_s": "Canada FSA Postal Centroids 2000",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/xk81jm95h\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/xk81jm95h/fgdc.xml\"}",
-  "dct_spatial_sm": "Canada",
+  "dct_spatial_sm": [
+    "Canada"
+  ],
   "dct_temporal_sm": [
     "2000",
     "1996"

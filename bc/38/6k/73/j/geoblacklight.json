@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/bc386k73j",
-  "dc_creator_sm": "National Atlas of the United States and the United States Geological Survey",
+  "dc_creator_sm": [
+    "National Atlas of the United States and the United States Geological Survey"
+  ],
   "dc_description_s": "U.S. National Atlas Airports represents airports in the United States, Puerto Rico, and U.S. Virgin Islands with airport passenger enplanements of greater than or equal to 250 passengers per year.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "bc386k73j",
@@ -13,15 +15,14 @@
     "airport location identifiers (airport codes)",
     "ACAIS database",
     "total enplanements",
-    "transportation"
+    "Transportation"
   ],
   "dc_title_s": "U.S. National Atlas Airports 2002",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/bc386k73j/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/bc386k73j/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/bc386k73j\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
   "dct_spatial_sm": [
     "United States",
-    "Puerto Rico",
-    "U.S. Virgin Islands"
+    "Puerto Rico"
   ],
   "dct_temporal_sm": [
     "1999",

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/rf55z916c",
-  "dc_creator_sm": "All China Marketing Research Co., Ltd.",
+  "dc_creator_sm": [
+    "All China Marketing Research Co., Ltd."
+  ],
   "dc_description_s": "Township locations in Yunnan Province, China, with 2000 Census data from long form tables L1-L6 (9.5% counts). Includes introductory, employed population, and fertility information.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "rf55z916c",
@@ -46,10 +48,10 @@
     "technical",
     "labor",
     "female",
-    "farming",
+    "Farming",
     "age",
-    "society",
-    "economy"
+    "Society",
+    "Economy"
   ],
   "dc_title_s": "Township map of Yunnan with 2000 Census long form data (L1-L6)",
   "dc_type_s": "Dataset",
@@ -59,7 +61,9 @@
     "Yunnan",
     "Yunnan Province"
   ],
-  "dct_temporal_sm": "2000",
+  "dct_temporal_sm": [
+    "2000"
+  ],
   "dct_issued_s": "20050418",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "21.236832 97.573631 28.919423 106.074303",

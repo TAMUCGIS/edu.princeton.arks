@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/x920fz61t",
-  "dc_creator_sm": "U.S. Department of Commerce, Census Bureau",
+  "dc_creator_sm": [
+    "U.S. Department of Commerce, Census Bureau"
+  ],
   "dc_description_s": "U.S. Populated Place Areas represents populated place areas within the United States that include both incorporated places and census designated places identified by the U.S. Census Bureau.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "x920fz61t",
@@ -18,15 +20,17 @@
     "boroughs",
     "demographics",
     "housing units",
-    "boundaries",
-    "society",
-    "boundaries",
-    "society"
+    "Boundaries",
+    "Society",
+    "Boundaries",
+    "Society"
   ],
   "dc_title_s": "U.S. Populated Place Areas, 2013",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/x920fz61t/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/x920fz61t/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/x920fz61t\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
-  "dct_spatial_sm": "United States",
+  "dct_spatial_sm": [
+    "United States"
+  ],
   "dct_temporal_sm": [
     "2010",
     "2011",

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/2n49t337n",
-  "dc_creator_sm": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_creator_sm": [
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
   "dc_description_s": "Mexico States represents the states of Mexico with coastlines, international boundaries, state boundaries, and demographics.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "2n49t337n",
@@ -11,12 +13,14 @@
     "polygon",
     "states",
     "demographics",
-    "boundaries"
+    "Boundaries"
   ],
   "dc_title_s": "Mexico States 2002",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/2n49t337n/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/2n49t337n/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/2n49t337n\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
-  "dct_spatial_sm": "Mexico",
+  "dct_spatial_sm": [
+    "Mexico"
+  ],
   "dct_temporal_sm": [
     "1992",
     "1988–1992",

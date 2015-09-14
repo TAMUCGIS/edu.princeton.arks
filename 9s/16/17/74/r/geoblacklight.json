@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/9s161774r",
-  "dc_creator_sm": "Geographic Data Technology, Inc. (GDT)",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)"
+  ],
   "dc_description_s": "California Tracts represents the U.S. Census tracts and block numbering areas (BNA) of California.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "9s161774r",
@@ -14,8 +16,8 @@
     "demographics",
     "population",
     "households",
-    "boundaries",
-    "society"
+    "Boundaries",
+    "Society"
   ],
   "dc_title_s": "California Tracts 2002",
   "dc_type_s": "Dataset",

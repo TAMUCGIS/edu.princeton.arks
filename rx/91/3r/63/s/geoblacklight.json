@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/rx913r63s",
-  "dc_creator_sm": "All China Marketing Research Co., Ltd.",
+  "dc_creator_sm": [
+    "All China Marketing Research Co., Ltd."
+  ],
   "dc_description_s": "China County boundaries with 1964 Census data.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "rx913r63s",
@@ -11,13 +13,15 @@
     "Census",
     "administrative regions",
     "Demographics",
-    "boundaries",
+    "Boundaries",
     "county boundaries"
   ],
   "dc_title_s": "China County Boundaries with Census Data, 1964",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/rx913r63s/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/rx913r63s/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/rx913r63s\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
-  "dct_spatial_sm": "China",
+  "dct_spatial_sm": [
+    "China"
+  ],
   "dct_temporal_sm": [
     "2005",
     "1964"

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/hd76s149z",
-  "dc_creator_sm": "GfK MACON",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
   "dc_description_s": "This data include major dams and islands of United Kingdom created by GfK MACON company, Germany.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "hd76s149z",
@@ -9,7 +11,7 @@
   "dc_rights_s": "Public",
   "dc_subject_sm": [
     "Dams",
-    "inlandWaters",
+    "Inland Waters",
     "Islands"
   ],
   "dc_title_s": "United Kingdom Major Dams and Islands, 2005",
@@ -19,7 +21,9 @@
     "United Kingdom",
     "UK"
   ],
-  "dct_temporal_sm": "2006",
+  "dct_temporal_sm": [
+    "2006"
+  ],
   "dct_issued_s": "2005",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "49.432335 -8.130916 58.223915 1.142445",

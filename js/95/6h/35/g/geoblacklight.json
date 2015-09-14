@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/js956h35g",
-  "dc_creator_sm": "Geographic Data Technology, Inc. (GDT)",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)"
+  ],
   "dc_description_s": "Maryland Block Groups represents the U.S. Census block groups of Maryland.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "js956h35g",
@@ -13,8 +15,8 @@
     "demographics",
     "population",
     "households",
-    "boundaries",
-    "society"
+    "Boundaries",
+    "Society"
   ],
   "dc_title_s": "Maryland Block Groups 2002",
   "dc_type_s": "Dataset",

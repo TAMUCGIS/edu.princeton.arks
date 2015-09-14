@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/fx719n979",
-  "dc_creator_sm": "Butte County Association of Governments",
+  "dc_creator_sm": [
+    "Butte County Association of Governments"
+  ],
   "dc_description_s": "The parcel feature class is a polygon feature class representing the individual\n        parcels for Butte County, California, 2009, which was derived from assessor map pages in\n        digital and hardcopy formats. All new parcels are entered from assessor CAD pages registered\n        to orthorectified imagery.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "fx719n979",
@@ -33,7 +35,7 @@
     "wells",
     "septic",
     "sewer",
-    "planningCadastre"
+    "Planning and Cadastral"
   ],
   "dc_title_s": "Butte County, California land parcels, 2009",
   "dc_type_s": "Dataset",

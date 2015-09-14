@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/41687k06z",
-  "dc_creator_sm": "Geographic Data Technology, Inc. (GDT)",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)"
+  ],
   "dc_description_s": "Kansas Tracts represents the U.S. Census tracts and block numbering areas (BNA) of Kansas.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "41687k06z",
@@ -14,8 +16,8 @@
     "demographics",
     "population",
     "households",
-    "boundaries",
-    "society"
+    "Boundaries",
+    "Society"
   ],
   "dc_title_s": "Kansas Tracts 2002",
   "dc_type_s": "Dataset",

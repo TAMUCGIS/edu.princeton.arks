@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/wd375z02w",
-  "dc_creator_sm": "Geographic Data Technology, Inc. (GDT)",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)"
+  ],
   "dc_description_s": "Georgia Tracts represents the U.S. Census tracts and block numbering areas (BNA) of Georgia.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "wd375z02w",
@@ -14,8 +16,8 @@
     "demographics",
     "population",
     "households",
-    "boundaries",
-    "society"
+    "Boundaries",
+    "Society"
   ],
   "dc_title_s": "Georgia Tracts 2002",
   "dc_type_s": "Dataset",

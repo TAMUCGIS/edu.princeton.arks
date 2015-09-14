@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/47429b71h",
-  "dc_creator_sm": "Boundary Solutions, Inc.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
   "dc_description_s": "Land parcels in St. Johns, Florida, 2009.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "47429b71h",
@@ -20,15 +22,12 @@
     "buildings",
     "stories",
     "floors",
-    "planningCadastre"
+    "Planning and Cadastral"
   ],
   "dc_title_s": "St. Johns County, Florida land parcels, 2009",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/47429b71h/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/47429b71h/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/47429b71h\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
   "dct_spatial_sm": [
-    "St. Johns,",
-    "St. Johns County",
-    "St. Augustine",
     "Florida",
     "Castillo de San Marcos National Monument",
     "Guana Tolomato Matanzas National Estaurine Reasearch Reserve"

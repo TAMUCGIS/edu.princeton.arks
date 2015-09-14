@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/vq27zp80v",
-  "dc_creator_sm": "All China Marketing Research Co., Ltd.",
+  "dc_creator_sm": [
+    "All China Marketing Research Co., Ltd."
+  ],
   "dc_description_s": "China Province boundaries.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "vq27zp80v",
@@ -9,13 +11,15 @@
   "dc_subject_sm": [
     "Provinces",
     "administrative regions",
-    "boundaries",
+    "Boundaries",
     "province boundaries"
   ],
   "dc_title_s": "China Province Boundaries, 1982",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/vq27zp80v/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/vq27zp80v/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/vq27zp80v\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
-  "dct_spatial_sm": "China",
+  "dct_spatial_sm": [
+    "China"
+  ],
   "dct_temporal_sm": [
     "2005",
     "1982"

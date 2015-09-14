@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/h702q801h",
-  "dc_creator_sm": "Globe Telecom",
+  "dc_creator_sm": [
+    "Globe Telecom"
+  ],
   "dc_description_s": "Polygons representing green areas in Egypt.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "h702q801h",
@@ -18,12 +20,14 @@
     "vegetation",
     "forest",
     "green areas",
-    "imageryBaseMapsEarthCover"
+    "Imagery and Base Maps"
   ],
   "dc_title_s": "Egypt Green Areas",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/h702q801h/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/h702q801h/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/h702q801h\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
-  "dct_spatial_sm": "Egypt",
+  "dct_spatial_sm": [
+    "Egypt"
+  ],
   "dct_issued_s": "20131105",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "23.454463 25.146634 31.615877 33.478456",

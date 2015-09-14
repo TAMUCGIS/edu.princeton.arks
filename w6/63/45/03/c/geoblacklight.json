@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/w6634503c",
-  "dc_creator_sm": "GfK MACON",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
   "dc_description_s": "This map includes the district boundaries of Iceland created by GfK MACON company, Germany.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "w6634503c",
@@ -10,14 +12,18 @@
   "dc_subject_sm": [
     "administrative units",
     "districts",
-    "boundaries",
+    "Boundaries",
     "district boundaries"
   ],
   "dc_title_s": "Iceland District Boundaries, 2005",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/w6634503c/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/w6634503c/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/w6634503c\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
-  "dct_spatial_sm": "Iceland",
-  "dct_temporal_sm": "2006",
+  "dct_spatial_sm": [
+    "Iceland"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
   "dct_issued_s": "2005",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "63.286755 -24.527664 66.563774 -13.490383",

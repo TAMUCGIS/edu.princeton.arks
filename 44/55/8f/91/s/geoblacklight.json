@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/44558f91s",
-  "dc_creator_sm": "County of Lake",
+  "dc_creator_sm": [
+    "County of Lake"
+  ],
   "dc_description_s": "Land parcels in Lake County, California, 2009.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "44558f91s",
@@ -17,7 +19,7 @@
     "parcel",
     "property",
     "ownership",
-    "planningCadastre"
+    "Planning and Cadastral"
   ],
   "dc_title_s": "Lake County, California land parcels, 2009",
   "dc_type_s": "Dataset",

@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/n583xw60p",
-  "dc_creator_sm": "DMTI Spatial Inc.",
+  "dc_creator_sm": [
+    "DMTI Spatial Inc."
+  ],
   "dc_description_s": "Canada Regional Municipalities represents the regional municipalities (counties) within Canada including regional districts and municipalities, counties, communauté, regions, and districts. The boundaries are digitized from CanMap®.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "n583xw60p",
@@ -15,12 +17,14 @@
     "communauté",
     "regions",
     "districts",
-    "boundaries"
+    "Boundaries"
   ],
   "dc_title_s": "Canada Regional Municipalities 2002",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/n583xw60p/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/n583xw60p/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/n583xw60p\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
-  "dct_spatial_sm": "Canada",
+  "dct_spatial_sm": [
+    "Canada"
+  ],
   "dct_temporal_sm": [
     "2000",
     "1996"

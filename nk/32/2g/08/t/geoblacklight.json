@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/nk322g08t",
-  "dc_creator_sm": "GfK MACON",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
   "dc_description_s": "This map includes the district boundaries of Norway created by GfK MACON company, Germany.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "nk322g08t",
@@ -10,14 +12,18 @@
   "dc_subject_sm": [
     "administrative units",
     "districts",
-    "boundaries",
+    "Boundaries",
     "district boundaries"
   ],
   "dc_title_s": "Norway District Boundaries, 2005",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/nk322g08t\", \"http://schema.org/downloadUrl\": \"http://map.princeton.edu/items/nk322g08t/restricted/data.zip\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/nk322g08t/fgdc.xml\"}",
-  "dct_spatial_sm": "Norway",
-  "dct_temporal_sm": "2006",
+  "dct_spatial_sm": [
+    "Norway"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
   "dct_issued_s": "2005",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "57.958555 -9.086359 80.821188 37.066794",

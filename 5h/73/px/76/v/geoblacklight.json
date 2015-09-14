@@ -1,12 +1,16 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/5h73px76v",
-  "dc_creator_sm": "New York City Department of Information Technology and Telecommunications",
+  "dc_creator_sm": [
+    "New York City Department of Information Technology and Telecommunications"
+  ],
   "dc_description_s": "The \"Hydrography\" dataset is a polygon representation of New York City bodies of water. The data is comprised of polygon geometries with attribute information including water body name. Feature classifications include: \n\t1. Lake/Reservior,\n\t2. Pond, \n\t3. River,\n\t4. Stream wider than 8 feet,\n\t5. Wetland,\n\t6. Beach/Shoreline,\n\t7. Bay/Ocean.\n",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "5h73px76v",
   "dc_language_s": "English",
   "dc_rights_s": "Restricted",
-  "dc_subject_sm": "New York City bodies of water, Lake, Reservior, Pond, River, Stream wider than 8 feet, Wetland, Beach, Shoreline, Bay, Ocean.",
+  "dc_subject_sm": [
+
+  ],
   "dc_title_s": "New York City Hydrography 2004",
   "dc_type_s": "Dataset",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/5h73px76v\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/5h73px76v/fgdc.xml\"}",

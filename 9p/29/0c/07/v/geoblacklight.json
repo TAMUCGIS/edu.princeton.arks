@@ -1,6 +1,8 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/9p290c07v",
-  "dc_creator_sm": "Geographic Data Technology, Inc. (GDT)",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)"
+  ],
   "dc_description_s": "Illinois Rivers represents streams and rivers within Illinois.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "9p290c07v",
@@ -13,7 +15,7 @@
     "rivers",
     "perennial",
     "cfcc",
-    "inlandWaters"
+    "Inland Waters"
   ],
   "dc_title_s": "Illinois Rivers 2002",
   "dc_type_s": "Dataset",
@@ -22,7 +24,9 @@
     "United States",
     "Illinois"
   ],
-  "dct_temporal_sm": "1997",
+  "dct_temporal_sm": [
+    "1997"
+  ],
   "dct_issued_s": "20020401",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "37.068380 -91.509895 42.508176 -87.524642",
