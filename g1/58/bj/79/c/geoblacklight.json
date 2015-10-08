@@ -16,7 +16,7 @@
   ],
   "dc_title_s": "New York City Council Districts 2008",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/g158bj79c\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/g158bj79c/fgdc.xml\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/g158bj79c/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "New York",
     "New York City",
@@ -29,7 +29,6 @@
   "dct_issued_s": "July, 2008",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "40.495972 -74.257233 40.915808 -73.699214",
-  "georss_polygon_s": "40.915808 -74.257233 40.915808 -73.699214 40.495972 -73.699214 40.495972 -74.257233 40.915808 -74.257233",
   "layer_slug_s": "princeton-g158bj79c",
   "layer_id_s": "pulmap-restricted:g158bj79c",
   "layer_modified_dt": "2014-12-19T16:18:34Z",

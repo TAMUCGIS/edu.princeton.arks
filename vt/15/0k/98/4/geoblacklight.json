@@ -8,7 +8,7 @@
   "dc_identifier_s": "vt150k984",
   "dc_language_s": "English",
   "dc_publisher_s": "ML InfoMap Pvt. Ltd.",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "Transportation networks",
     "Transportation",
@@ -16,7 +16,7 @@
   ],
   "dc_title_s": "Railway data of India, 2001",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/vt150k984/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/vt150k984/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/vt150k984\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/vt150k984/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/vt150k984/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "India"
   ],
@@ -26,7 +26,6 @@
   "dct_issued_s": "2006",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "\n6.767454 \n68.196831 \n37.069954 \n97.409096",
-  "georss_polygon_s": "\n37.069954 \n68.196831 \n37.069954 \n97.409096 \n6.767454 \n97.409096 \n6.767454 \n68.196831 \n37.069954 \n68.196831",
   "layer_slug_s": "princeton-vt150k984",
   "layer_id_s": "pulmap-restricted:vt150k984",
   "layer_modified_dt": "2014-12-19T16:18:32Z",

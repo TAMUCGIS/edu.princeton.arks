@@ -8,7 +8,7 @@
   "dc_identifier_s": "kp78gh83m",
   "dc_language_s": "English",
   "dc_publisher_s": "LAND INFO Worldwide Mapping, LLC",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "Transportation networks",
     "Roads",
@@ -16,7 +16,7 @@
   ],
   "dc_title_s": "Madrid roads and streets",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/kp78gh83m/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/kp78gh83m/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/kp78gh83m\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/kp78gh83m/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/kp78gh83m/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "Madrid",
     "Spain"
@@ -24,7 +24,6 @@
   "dct_issued_s": "2006",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "40.278044 -3.828543 40.536825 -3.527997",
-  "georss_polygon_s": "40.536825 -3.828543 40.536825 -3.527997 40.278044 -3.527997 40.278044 -3.828543 40.536825 -3.828543",
   "layer_slug_s": "princeton-kp78gh83m",
   "layer_id_s": "pulmap-restricted:kp78gh83m",
   "layer_modified_dt": "2014-12-19T16:18:33Z",

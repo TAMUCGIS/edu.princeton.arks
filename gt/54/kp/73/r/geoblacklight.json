@@ -18,7 +18,7 @@
   ],
   "dc_title_s": "District of Columbia Block Centroid Populations 2002",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/gt54kp73r\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/gt54kp73r/fgdc.xml\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/gt54kp73r/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "United States",
     "District of Columbia"
@@ -29,7 +29,6 @@
   "dct_issued_s": "20020401",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "38.792763 -77.119132 38.993360 -76.910185",
-  "georss_polygon_s": "38.993360 -77.119132 38.993360 -76.910185 38.792763 -76.910185 38.792763 -77.119132 38.993360 -77.119132",
   "layer_slug_s": "princeton-gt54kp73r",
   "layer_id_s": "pulmap-restricted:gt54kp73r",
   "layer_modified_dt": "2014-12-19T16:18:34Z",

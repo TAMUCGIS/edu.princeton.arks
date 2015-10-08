@@ -8,7 +8,7 @@
   "dc_identifier_s": "1r66j258r",
   "dc_language_s": "English",
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "line",
     "streams",
@@ -19,7 +19,7 @@
   ],
   "dc_title_s": "New Jersey Rivers 2002",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/1r66j258r/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/1r66j258r/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/1r66j258r\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/1r66j258r/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/1r66j258r/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "United States",
     "New Jersey"
@@ -30,7 +30,6 @@
   "dct_issued_s": "20020401",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "38.934356 -75.549246 41.352355 -73.920350",
-  "georss_polygon_s": "41.352355 -75.549246 41.352355 -73.920350 38.934356 -73.920350 38.934356 -75.549246 41.352355 -75.549246",
   "layer_slug_s": "princeton-1r66j258r",
   "layer_id_s": "pulmap-restricted:1r66j258r",
   "layer_modified_dt": "2014-12-19T16:18:37Z",

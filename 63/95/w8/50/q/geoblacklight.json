@@ -7,7 +7,7 @@
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "6395w850q",
   "dc_language_s": "English",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "Boundaries",
     "statistical area",
@@ -18,7 +18,7 @@
   ],
   "dc_title_s": "Mexico State, Mexico Basic Geographic Statistical Areas, 2011",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/6395w850q/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/6395w850q/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/6395w850q\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/6395w850q/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/6395w850q/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "Mexico",
     "Mexico State",
@@ -29,7 +29,6 @@
   "dct_issued_s": "20110401",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "18.576286 -100.436035 20.236292 -98.625683",
-  "georss_polygon_s": "20.236292 -100.436035 20.236292 -98.625683 18.576286 -98.625683 18.576286 -100.436035 20.236292 -100.436035",
   "layer_slug_s": "princeton-6395w850q",
   "layer_id_s": "pulmap-restricted:6395w850q",
   "layer_modified_dt": "2014-12-19T16:18:36Z",

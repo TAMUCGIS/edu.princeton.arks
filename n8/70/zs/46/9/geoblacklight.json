@@ -8,7 +8,7 @@
   "dc_identifier_s": "n870zs469",
   "dc_language_s": "English",
   "dc_publisher_s": "Gfk MACON Company",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "ice fields",
     "snow fields",
@@ -16,7 +16,7 @@
   ],
   "dc_title_s": "Norway Major Ice and Snow Fields, 2005",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/n870zs469/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/n870zs469/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/n870zs469\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/n870zs469/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/n870zs469/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "Norway"
   ],
@@ -26,7 +26,6 @@
   "dct_issued_s": "2005",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "59.601028 5.571917 80.287697 37.066794",
-  "georss_polygon_s": "80.287697 5.571917 80.287697 37.066794 59.601028 37.066794 59.601028 5.571917 80.287697 5.571917",
   "layer_slug_s": "princeton-n870zs469",
   "layer_id_s": "pulmap-restricted:n870zs469",
   "layer_modified_dt": "2014-12-19T16:18:33Z",

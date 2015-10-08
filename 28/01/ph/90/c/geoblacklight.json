@@ -21,7 +21,7 @@
   ],
   "dc_title_s": "Washington ZIP Code Areas 2002",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/2801ph90c\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/2801ph90c/fgdc.xml\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/2801ph90c/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "United States",
     "Washington"
@@ -34,7 +34,6 @@
   "dct_issued_s": "20020401",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "45.555018 -124.732731 49.002472 -116.915989",
-  "georss_polygon_s": "49.002472 -124.732731 49.002472 -116.915989 45.555018 -116.915989 45.555018 -124.732731 49.002472 -124.732731",
   "layer_slug_s": "princeton-2801ph90c",
   "layer_id_s": "pulmap-restricted:2801ph90c",
   "layer_modified_dt": "2014-12-19T16:18:37Z",

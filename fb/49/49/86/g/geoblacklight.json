@@ -7,7 +7,7 @@
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "fb494986g",
   "dc_language_s": "English",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "parcels",
     "tax parcels",
@@ -20,7 +20,7 @@
   ],
   "dc_title_s": "Yavapai County, Arizona land parcels, 2002",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/fb494986g/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/fb494986g/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/fb494986g\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/fb494986g/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/fb494986g/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "Arizona",
     "Yavapai County"
@@ -28,7 +28,6 @@
   "dct_issued_s": "20020701",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "33.882469 -113.334359 35.531142 -111.460540",
-  "georss_polygon_s": "35.531142 -113.334359 35.531142 -111.460540 33.882469 -111.460540 33.882469 -113.334359 35.531142 -113.334359",
   "layer_slug_s": "princeton-fb494986g",
   "layer_id_s": "pulmap-restricted:fb494986g",
   "layer_modified_dt": "2014-12-19T16:18:34Z",

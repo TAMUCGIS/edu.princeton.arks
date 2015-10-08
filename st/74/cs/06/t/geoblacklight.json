@@ -8,14 +8,14 @@
   "dc_identifier_s": "st74cs06t",
   "dc_language_s": "English",
   "dc_publisher_s": "LeadDog Consulting, LLC",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "Cultural, society, and demographic",
     "Parks"
   ],
   "dc_title_s": "Mosul parks",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/st74cs06t/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/st74cs06t/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/st74cs06t\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/st74cs06t/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/st74cs06t/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "Mosul",
     "Iraq"
@@ -23,7 +23,6 @@
   "dct_issued_s": "2006",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "31.992164 43.083022 36.357651 44.389839",
-  "georss_polygon_s": "36.357651 43.083022 36.357651 44.389839 31.992164 44.389839 31.992164 43.083022 36.357651 43.083022",
   "layer_slug_s": "princeton-st74cs06t",
   "layer_id_s": "pulmap-restricted:st74cs06t",
   "layer_modified_dt": "2014-12-19T16:18:32Z",

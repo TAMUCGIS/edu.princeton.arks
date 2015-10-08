@@ -8,7 +8,7 @@
   "dc_identifier_s": "td96k421z",
   "dc_language_s": "English",
   "dc_publisher_s": "U.S. Geological Survey",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "Geology",
     "Geologic map",
@@ -16,7 +16,7 @@
   ],
   "dc_title_s": "Arabian Peninsula Geology, 1997",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/td96k421z/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/td96k421z/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/td96k421z\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/td96k421z/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/td96k421z/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "Arabian Peninsula",
     "Middle East",
@@ -37,7 +37,6 @@
   "dct_issued_s": "1998",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "11.3 32.3 39.3 60.5",
-  "georss_polygon_s": "39.3 32.3 39.3 60.5 11.3 60.5 11.3 32.3 39.3 32.3",
   "layer_slug_s": "princeton-td96k421z",
   "layer_id_s": "pulmap-restricted:td96k421z",
   "layer_modified_dt": "2014-12-19T16:18:32Z",

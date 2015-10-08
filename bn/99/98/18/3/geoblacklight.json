@@ -7,7 +7,7 @@
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "bn9998183",
   "dc_language_s": "English",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "roads",
     "highways",
@@ -16,7 +16,7 @@
   ],
   "dc_title_s": "Grand Forks, North Dakota roads, 2005",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/bn9998183/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/bn9998183/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/bn9998183\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/bn9998183/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/bn9998183/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "North Dakota",
     "Grand Forks"
@@ -24,7 +24,6 @@
   "dct_issued_s": "20050701",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "47.831370 -97.153365 47.992607 -97.001984",
-  "georss_polygon_s": "47.992607 -97.153365 47.992607 -97.001984 47.831370 -97.001984 47.831370 -97.153365 47.992607 -97.153365",
   "layer_slug_s": "princeton-bn9998183",
   "layer_id_s": "pulmap-restricted:bn9998183",
   "layer_modified_dt": "2014-12-19T16:18:35Z",

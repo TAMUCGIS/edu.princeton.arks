@@ -7,7 +7,7 @@
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "8623j019m",
   "dc_language_s": "English",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "oil",
     "gas",
@@ -18,14 +18,13 @@
   ],
   "dc_title_s": "Nigeria oil and gas concession blocks, 2012",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/8623j019m/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/8623j019m/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/8623j019m\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/8623j019m/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/8623j019m/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "Nigeria"
   ],
   "dct_issued_s": "20120425",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "2.666104 2.709254 13.715817 13.884114",
-  "georss_polygon_s": "13.715817 2.709254 13.715817 13.884114 2.666104 13.884114 2.666104 2.709254 13.715817 2.709254",
   "layer_slug_s": "princeton-8623j019m",
   "layer_id_s": "pulmap-restricted:8623j019m",
   "layer_modified_dt": "2014-12-19T16:18:35Z",

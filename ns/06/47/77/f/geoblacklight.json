@@ -8,7 +8,7 @@
   "dc_identifier_s": "ns064777f",
   "dc_language_s": "English",
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "point",
     "census block centroids",
@@ -18,7 +18,7 @@
   ],
   "dc_title_s": "Hawaii Block Centroid Populations 2002",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/ns064777f/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/ns064777f/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/ns064777f\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/ns064777f/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/ns064777f/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "United States",
     "Hawaii"
@@ -29,7 +29,6 @@
   "dct_issued_s": "20020401",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "18.906028 -178.337382 28.422803 -154.816693",
-  "georss_polygon_s": "28.422803 -178.337382 28.422803 -154.816693 18.906028 -154.816693 18.906028 -178.337382 28.422803 -178.337382",
   "layer_slug_s": "princeton-ns064777f",
   "layer_id_s": "pulmap-restricted:ns064777f",
   "layer_modified_dt": "2014-12-19T16:18:33Z",

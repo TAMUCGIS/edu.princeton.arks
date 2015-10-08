@@ -7,7 +7,7 @@
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "q524jq48c",
   "dc_language_s": "English",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "property maps",
     "cadastral maps",
@@ -26,7 +26,7 @@
   ],
   "dc_title_s": "Douglas County, Nebraska land parcels, 2008",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/q524jq48c/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/q524jq48c/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/q524jq48c\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/q524jq48c/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/q524jq48c/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "Nebraska",
     "Douglas",
@@ -36,7 +36,6 @@
   "dct_issued_s": "20080101",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "41.190208 -96.474181 41.393423 -95.871239",
-  "georss_polygon_s": "41.393423 -96.474181 41.393423 -95.871239 41.190208 -95.871239 41.190208 -96.474181 41.393423 -96.474181",
   "layer_slug_s": "princeton-q524jq48c",
   "layer_id_s": "pulmap-restricted:q524jq48c",
   "layer_modified_dt": "2014-12-19T16:18:33Z",

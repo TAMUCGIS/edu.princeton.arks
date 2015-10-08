@@ -7,7 +7,7 @@
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "x920fz629",
   "dc_language_s": "English",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "roads",
     "highways",
@@ -16,7 +16,7 @@
   ],
   "dc_title_s": "Monmouth County, New Jersey roads, 2009",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/x920fz629/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/x920fz629/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/x920fz629\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/x920fz629/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/x920fz629/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "New Jersey",
     "Monmouth",
@@ -25,7 +25,6 @@
   "dct_issued_s": "20091215",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "40.075368 -74.618863 40.472324 -73.971687",
-  "georss_polygon_s": "40.472324 -74.618863 40.472324 -73.971687 40.075368 -73.971687 40.075368 -74.618863 40.472324 -74.618863",
   "layer_slug_s": "princeton-x920fz629",
   "layer_id_s": "pulmap-restricted:x920fz629",
   "layer_modified_dt": "2014-12-19T16:18:31Z",

@@ -8,7 +8,7 @@
   "dc_identifier_s": "cr56n2383",
   "dc_language_s": "English",
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "line",
     "highways",
@@ -19,7 +19,7 @@
   ],
   "dc_title_s": "Tennessee Major Roads 2002",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/cr56n2383/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/cr56n2383/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/cr56n2383\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/cr56n2383/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/cr56n2383/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "United States",
     "Tennessee"
@@ -30,7 +30,6 @@
   "dct_issued_s": "20020401",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "34.982972 -90.126994 36.676192 -81.725113",
-  "georss_polygon_s": "36.676192 -90.126994 36.676192 -81.725113 34.982972 -81.725113 34.982972 -90.126994 36.676192 -90.126994",
   "layer_slug_s": "princeton-cr56n2383",
   "layer_id_s": "pulmap-restricted:cr56n2383",
   "layer_modified_dt": "2014-12-19T16:18:35Z",

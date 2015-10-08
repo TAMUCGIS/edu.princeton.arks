@@ -7,7 +7,7 @@
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "7s75dd98v",
   "dc_language_s": "English",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "roads",
     "highways",
@@ -16,7 +16,7 @@
   ],
   "dc_title_s": "Monroe County, Florida roads, 2009",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/7s75dd98v/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/7s75dd98v/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/7s75dd98v\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/7s75dd98v/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/7s75dd98v/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "Monroe",
     "Monroe County",
@@ -25,7 +25,6 @@
   "dct_issued_s": "20090812",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "24.546541 -81.807035 25.333832 -80.257507",
-  "georss_polygon_s": "25.333832 -81.807035 25.333832 -80.257507 24.546541 -80.257507 24.546541 -81.807035 25.333832 -81.807035",
   "layer_slug_s": "princeton-7s75dd98v",
   "layer_id_s": "pulmap-restricted:7s75dd98v",
   "layer_modified_dt": "2014-12-19T16:18:35Z",

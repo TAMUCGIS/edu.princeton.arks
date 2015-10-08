@@ -7,7 +7,7 @@
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "j3860864p",
   "dc_language_s": "English",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "roads",
     "highways",
@@ -16,7 +16,7 @@
   ],
   "dc_title_s": "Volusia County, Florida roads, 2009",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/j3860864p/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/j3860864p/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/j3860864p\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/j3860864p/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/j3860864p/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "Florida",
     "Volusia",
@@ -26,7 +26,6 @@
   "dct_issued_s": "20090817",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "28.612871 -81.680239 29.427068 -80.733143",
-  "georss_polygon_s": "29.427068 -81.680239 29.427068 -80.733143 28.612871 -80.733143 28.612871 -81.680239 29.427068 -81.680239",
   "layer_slug_s": "princeton-j3860864p",
   "layer_id_s": "pulmap-restricted:j3860864p",
   "layer_modified_dt": "2014-12-19T16:18:34Z",

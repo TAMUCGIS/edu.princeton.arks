@@ -7,7 +7,7 @@
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "cz30pv37g",
   "dc_language_s": "English",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "survey",
     "surveys",
@@ -27,7 +27,7 @@
   ],
   "dc_title_s": "National Sample Survey region boundaries of India, 2011",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/cz30pv37g/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/cz30pv37g/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/cz30pv37g\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/cz30pv37g/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/cz30pv37g/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "India",
     "AP Coastal Northern",
@@ -127,7 +127,6 @@
   "dct_issued_s": "20140501",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "6.755698 68.110092 37.050301 97.409103",
-  "georss_polygon_s": "37.050301 68.110092 37.050301 97.409103 6.755698 97.409103 6.755698 68.110092 37.050301 68.110092",
   "layer_slug_s": "princeton-cz30pv37g",
   "layer_id_s": "pulmap-restricted:cz30pv37g",
   "layer_modified_dt": "2014-12-19T16:18:34Z",

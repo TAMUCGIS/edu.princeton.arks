@@ -7,7 +7,7 @@
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "pz50gx80p",
   "dc_language_s": "English",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "roads",
     "highways",
@@ -16,7 +16,7 @@
   ],
   "dc_title_s": "Clark County, Nevada roads, 2008",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/pz50gx80p/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/pz50gx80p/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/pz50gx80p\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/pz50gx80p/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/pz50gx80p/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "Nevada",
     "Clark",
@@ -26,7 +26,6 @@
   "dct_issued_s": "20080918",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "35.016118 -115.895554 36.853396 -114.043134",
-  "georss_polygon_s": "36.853396 -115.895554 36.853396 -114.043134 35.016118 -114.043134 35.016118 -115.895554 36.853396 -115.895554",
   "layer_slug_s": "princeton-pz50gx80p",
   "layer_id_s": "pulmap-restricted:pz50gx80p",
   "layer_modified_dt": "2014-12-19T16:18:33Z",

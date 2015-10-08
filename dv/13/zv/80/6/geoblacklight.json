@@ -7,7 +7,7 @@
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "dv13zv806",
   "dc_language_s": "English",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "parcel",
     "parcels",
@@ -19,7 +19,7 @@
   ],
   "dc_title_s": "Plumas County, California land parcels, 2009",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/dv13zv806/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/dv13zv806/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/dv13zv806\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/dv13zv806/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/dv13zv806/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "California",
     "Plumas County"
@@ -27,7 +27,6 @@
   "dct_issued_s": "20090101",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "39.597331 -121.497757 40.449779 -120.099029",
-  "georss_polygon_s": "40.449779 -121.497757 40.449779 -120.099029 39.597331 -120.099029 39.597331 -121.497757 40.449779 -121.497757",
   "layer_slug_s": "princeton-dv13zv806",
   "layer_id_s": "pulmap-restricted:dv13zv806",
   "layer_modified_dt": "2014-12-19T16:18:34Z",

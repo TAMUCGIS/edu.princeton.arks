@@ -8,7 +8,7 @@
   "dc_identifier_s": "pv63g194t",
   "dc_language_s": "English",
   "dc_publisher_s": "Baldwin County Revenue Commission",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "parcels",
     "tax parcels",
@@ -21,7 +21,7 @@
   ],
   "dc_title_s": "Baldwin County, Alabama land parcels, 2008",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/pv63g194t/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/pv63g194t/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/pv63g194t\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/pv63g194t/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/pv63g194t/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "Baldwin County",
     "Alabama"
@@ -29,7 +29,6 @@
   "dct_issued_s": "20080313",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "30.223173 -88.035309 31.318653 -87.387928",
-  "georss_polygon_s": "31.318653 -88.035309 31.318653 -87.387928 30.223173 -87.387928 30.223173 -88.035309 31.318653 -88.035309",
   "layer_slug_s": "princeton-pv63g194t",
   "layer_id_s": "pulmap-restricted:pv63g194t",
   "layer_modified_dt": "2014-12-19T16:18:33Z",

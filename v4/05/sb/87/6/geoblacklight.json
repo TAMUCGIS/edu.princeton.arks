@@ -8,7 +8,7 @@
   "dc_identifier_s": "v405sb876",
   "dc_language_s": "English",
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "polygon",
     "census block groups",
@@ -20,7 +20,7 @@
   ],
   "dc_title_s": "Utah Block Groups 2002",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/v405sb876/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/v405sb876/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/v405sb876\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/v405sb876/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/v405sb876/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "United States",
     "Utah"
@@ -32,7 +32,6 @@
   "dct_issued_s": "20020401",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "36.997905 -114.052999 42.001618 -109.041059",
-  "georss_polygon_s": "42.001618 -114.052999 42.001618 -109.041059 36.997905 -109.041059 36.997905 -114.052999 42.001618 -114.052999",
   "layer_slug_s": "princeton-v405sb876",
   "layer_id_s": "pulmap-restricted:v405sb876",
   "layer_modified_dt": "2014-12-19T16:18:32Z",

@@ -8,7 +8,7 @@
   "dc_identifier_s": "ks65hd66s",
   "dc_language_s": "English",
   "dc_publisher_s": "Gfk MACON Company",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "Airports",
     "Transportation",
@@ -16,7 +16,7 @@
   ],
   "dc_title_s": "Hungary Major Airports, 2005",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/ks65hd66s/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/ks65hd66s/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/ks65hd66s\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/ks65hd66s/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/ks65hd66s/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "Hungary"
   ],
@@ -26,7 +26,6 @@
   "dct_issued_s": "2005",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "46.390835 17.163055 47.815556 21.615833",
-  "georss_polygon_s": "47.815556 17.163055 47.815556 21.615833 46.390835 21.615833 46.390835 17.163055 47.815556 17.163055",
   "layer_slug_s": "princeton-ks65hd66s",
   "layer_id_s": "pulmap-restricted:ks65hd66s",
   "layer_modified_dt": "2014-12-19T16:18:33Z",

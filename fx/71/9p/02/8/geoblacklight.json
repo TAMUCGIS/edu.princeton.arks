@@ -8,7 +8,7 @@
   "dc_identifier_s": "fx719p028",
   "dc_language_s": "English",
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "polygon",
     "area codes",
@@ -16,7 +16,7 @@
   ],
   "dc_title_s": "Canada Telephone Area Code Boundaries 2000",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/fx719p028/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/fx719p028/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/fx719p028\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/fx719p028/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/fx719p028/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "Canada"
   ],
@@ -26,7 +26,6 @@
   "dct_issued_s": "20001101",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "41.687971 -141.002121 83.115061 -52.619172",
-  "georss_polygon_s": "83.115061 -141.002121 83.115061 -52.619172 41.687971 -52.619172 41.687971 -141.002121 83.115061 -141.002121",
   "layer_slug_s": "princeton-fx719p028",
   "layer_id_s": "pulmap-restricted:fx719p028",
   "layer_modified_dt": "2014-12-19T16:18:34Z",

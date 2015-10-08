@@ -8,7 +8,7 @@
   "dc_identifier_s": "sj1393605",
   "dc_language_s": "English",
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "line",
     "highways",
@@ -19,7 +19,7 @@
   ],
   "dc_title_s": "South Carolina Major Roads 2002",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/sj1393605/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/sj1393605/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/sj1393605\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/sj1393605/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/sj1393605/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "United States",
     "South Carolina"
@@ -30,7 +30,6 @@
   "dct_issued_s": "20020401",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "32.103279 -83.306476 35.196616 -78.586743",
-  "georss_polygon_s": "35.196616 -83.306476 35.196616 -78.586743 32.103279 -78.586743 32.103279 -83.306476 35.196616 -83.306476",
   "layer_slug_s": "princeton-sj1393605",
   "layer_id_s": "pulmap-restricted:sj1393605",
   "layer_modified_dt": "2014-12-19T16:18:32Z",

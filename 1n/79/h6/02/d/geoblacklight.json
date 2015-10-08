@@ -21,7 +21,7 @@
   ],
   "dc_title_s": "Nebraska ZIP Code Areas 2002",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/1n79h602d\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/1n79h602d/fgdc.xml\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/1n79h602d/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "United States",
     "Nebraska"
@@ -34,7 +34,6 @@
   "dct_issued_s": "20020401",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "39.999999 -104.053360 43.001424 -95.309423",
-  "georss_polygon_s": "43.001424 -104.053360 43.001424 -95.309423 39.999999 -95.309423 39.999999 -104.053360 43.001424 -104.053360",
   "layer_slug_s": "princeton-1n79h602d",
   "layer_id_s": "pulmap-restricted:1n79h602d",
   "layer_modified_dt": "2014-12-19T16:18:37Z",

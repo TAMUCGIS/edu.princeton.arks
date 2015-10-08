@@ -7,7 +7,7 @@
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "v118rf990",
   "dc_language_s": "English",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "Administrative Units",
     "Municipalities Boundaries",
@@ -16,7 +16,7 @@
   ],
   "dc_title_s": "Chile Municipalities, 1995",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/v118rf990/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/v118rf990/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/v118rf990\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/v118rf990/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/v118rf990/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "Chile"
   ],
@@ -26,7 +26,6 @@
   "dct_issued_s": "1995",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "-37.088973 -60.878612 -23.702465 -79.297539",
-  "georss_polygon_s": "-23.702465 -60.878612 -23.702465 -79.297539 -37.088973 -79.297539 -37.088973 -60.878612 -23.702465 -60.878612",
   "layer_slug_s": "princeton-v118rf990",
   "layer_id_s": "pulmap-restricted:v118rf990",
   "layer_modified_dt": "2014-12-19T16:18:32Z",

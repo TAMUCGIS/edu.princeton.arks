@@ -8,7 +8,7 @@
   "dc_identifier_s": "k643b275q",
   "dc_language_s": "English",
   "dc_publisher_s": "Gfk MACON Company",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "Location",
     "geographic names",
@@ -16,7 +16,7 @@
   ],
   "dc_title_s": "United Kingdom Major Geographic Names, 2005",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/k643b275q/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/k643b275q/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/k643b275q\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/k643b275q/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/k643b275q/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "United Kingdom",
     "UK"
@@ -27,7 +27,6 @@
   "dct_issued_s": "2005",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "49.277246 -7.703769 60.649273 1.683750",
-  "georss_polygon_s": "60.649273 -7.703769 60.649273 1.683750 49.277246 1.683750 49.277246 -7.703769 60.649273 -7.703769",
   "layer_slug_s": "princeton-k643b275q",
   "layer_id_s": "pulmap-restricted:k643b275q",
   "layer_modified_dt": "2014-12-19T16:18:33Z",

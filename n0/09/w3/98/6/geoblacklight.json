@@ -7,7 +7,7 @@
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "n009w3986",
   "dc_language_s": "English",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "parcels",
     "tax parcels",
@@ -23,7 +23,7 @@
   ],
   "dc_title_s": "RIchmond County (Staten Island), New York land parcels, 2007",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/n009w3986/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/n009w3986/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/n009w3986\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/n009w3986/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/n009w3986/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "New York",
     "New York City",
@@ -33,7 +33,6 @@
   "dct_issued_s": "20071001",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "40.495916 -74.255757 40.648973 -74.052787",
-  "georss_polygon_s": "40.648973 -74.255757 40.648973 -74.052787 40.495916 -74.052787 40.495916 -74.255757 40.648973 -74.255757",
   "layer_slug_s": "princeton-n009w3986",
   "layer_id_s": "pulmap-restricted:n009w3986",
   "layer_modified_dt": "2014-12-19T16:18:33Z",

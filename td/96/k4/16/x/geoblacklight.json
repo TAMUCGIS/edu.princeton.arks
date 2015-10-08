@@ -7,7 +7,7 @@
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "td96k416x",
   "dc_language_s": "English",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "roads",
     "highways",
@@ -16,7 +16,7 @@
   ],
   "dc_title_s": "Walton County, Florida roads, 2009",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/td96k416x/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/td96k416x/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/td96k416x\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/td96k416x/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/td96k416x/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "Walton County",
     "Walton",
@@ -25,7 +25,6 @@
   "dct_issued_s": "20090814",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "30.271203 -86.407139 31.002711 -85.860875",
-  "georss_polygon_s": "31.002711 -86.407139 31.002711 -85.860875 30.271203 -85.860875 30.271203 -86.407139 31.002711 -86.407139",
   "layer_slug_s": "princeton-td96k416x",
   "layer_id_s": "pulmap-restricted:td96k416x",
   "layer_modified_dt": "2014-12-19T16:18:32Z",

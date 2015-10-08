@@ -21,7 +21,7 @@
   ],
   "dc_title_s": "Montana ZIP Code Areas 2002",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/j6731533g\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/j6731533g/fgdc.xml\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/j6731533g/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "United States",
     "Montana"
@@ -34,7 +34,6 @@
   "dct_issued_s": "20020401",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "44.362100 -116.049763 49.000994 -104.037627",
-  "georss_polygon_s": "49.000994 -116.049763 49.000994 -104.037627 44.362100 -104.037627 44.362100 -116.049763 49.000994 -116.049763",
   "layer_slug_s": "princeton-j6731533g",
   "layer_id_s": "pulmap-restricted:j6731533g",
   "layer_modified_dt": "2014-12-19T16:18:34Z",

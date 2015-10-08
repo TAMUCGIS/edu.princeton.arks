@@ -7,7 +7,7 @@
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "5138jg32v",
   "dc_language_s": "English",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "roads",
     "highways",
@@ -16,7 +16,7 @@
   ],
   "dc_title_s": "Philadelphia County, Pennsylvania roads, 2007",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/5138jg32v/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/5138jg32v/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/5138jg32v\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/5138jg32v/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/5138jg32v/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "Pennsylvania",
     "Philadelphia",
@@ -25,7 +25,6 @@
   "dct_issued_s": "20071107",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "39.874518 -75.281128 40.137993 -74.957522",
-  "georss_polygon_s": "40.137993 -75.281128 40.137993 -74.957522 39.874518 -74.957522 39.874518 -75.281128 40.137993 -75.281128",
   "layer_slug_s": "princeton-5138jg32v",
   "layer_id_s": "pulmap-restricted:5138jg32v",
   "layer_modified_dt": "2014-12-19T16:18:36Z",

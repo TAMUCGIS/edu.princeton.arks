@@ -7,7 +7,7 @@
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "rj430610f",
   "dc_language_s": "English",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "pipelines",
     "pipes",
@@ -21,14 +21,13 @@
   ],
   "dc_title_s": "Nigeria condensate pipelines, 2012",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/rj430610f/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/rj430610f/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/rj430610f\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/rj430610f/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/rj430610f/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "Nigeria"
   ],
   "dct_issued_s": "20120425",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "4.3007 7.14084 4.42565 7.6605",
-  "georss_polygon_s": "4.42565 7.14084 4.42565 7.6605 4.3007 7.6605 4.3007 7.14084 4.42565 7.14084",
   "layer_slug_s": "princeton-rj430610f",
   "layer_id_s": "pulmap-restricted:rj430610f",
   "layer_modified_dt": "2014-12-19T16:18:32Z",

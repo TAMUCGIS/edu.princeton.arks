@@ -8,7 +8,7 @@
   "dc_identifier_s": "c247dt81x",
   "dc_language_s": "English",
   "dc_publisher_s": "City of Trenton",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "Schools",
     "Education",
@@ -16,14 +16,13 @@
   ],
   "dc_title_s": "Trenton Schools (Points)",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/c247dt81x/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/c247dt81x/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/c247dt81x\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/c247dt81x/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/c247dt81x/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "Trenton"
   ],
   "dct_issued_s": "2004",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "40.199552 -74.792353 40.241285 -74.736259",
-  "georss_polygon_s": "40.241285 -74.792353 40.241285 -74.736259 40.199552 -74.736259 40.199552 -74.792353 40.241285 -74.792353",
   "layer_slug_s": "princeton-c247dt81x",
   "layer_id_s": "pulmap-restricted:c247dt81x",
   "layer_modified_dt": "2014-12-19T16:18:35Z",

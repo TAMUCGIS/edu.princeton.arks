@@ -8,7 +8,7 @@
   "dc_identifier_s": "c534fq465",
   "dc_language_s": "English",
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "line",
     "roads",
@@ -16,7 +16,7 @@
   ],
   "dc_title_s": "Europe Roads 1999",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/c534fq465/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/c534fq465/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/c534fq465\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/c534fq465/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/c534fq465/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "Europe"
   ],
@@ -26,7 +26,6 @@
   "dct_issued_s": "19991101",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "34.824085 -31.257690 72.000000 66.074104",
-  "georss_polygon_s": "72.000000 -31.257690 72.000000 66.074104 34.824085 66.074104 34.824085 -31.257690 72.000000 -31.257690",
   "layer_slug_s": "princeton-c534fq465",
   "layer_id_s": "pulmap-restricted:c534fq465",
   "layer_modified_dt": "2014-12-19T16:18:35Z",

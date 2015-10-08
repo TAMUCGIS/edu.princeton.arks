@@ -7,7 +7,7 @@
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "v405sb927",
   "dc_language_s": "English",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "village",
     "villages",
@@ -45,7 +45,7 @@
   ],
   "dc_title_s": "Village points in Lakshadweep, 2011",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/v405sb927/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/v405sb927/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/v405sb927\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/v405sb927/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/v405sb927/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "Lakshadweep",
     "India"
@@ -53,7 +53,6 @@
   "dct_issued_s": "20140501",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "8.271152 71.907783 12.346257 73.673309",
-  "georss_polygon_s": "12.346257 71.907783 12.346257 73.673309 8.271152 73.673309 8.271152 71.907783 12.346257 71.907783",
   "layer_slug_s": "princeton-v405sb927",
   "layer_id_s": "pulmap-restricted:v405sb927",
   "layer_modified_dt": "2014-12-19T16:18:32Z",

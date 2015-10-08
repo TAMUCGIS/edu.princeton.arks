@@ -7,7 +7,7 @@
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "sf268683w",
   "dc_language_s": "English",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "roads",
     "highways",
@@ -16,7 +16,7 @@
   ],
   "dc_title_s": "Washoe County, Nevada roads, 2006",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/sf268683w/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/sf268683w/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/sf268683w\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/sf268683w/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/sf268683w/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "Nevada",
     "Washoe",
@@ -27,7 +27,6 @@
   "dct_issued_s": "20061101",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "39.165561 -120.016943 41.997206 -119.263430",
-  "georss_polygon_s": "41.997206 -120.016943 41.997206 -119.263430 39.165561 -119.263430 39.165561 -120.016943 41.997206 -120.016943",
   "layer_slug_s": "princeton-sf268683w",
   "layer_id_s": "pulmap-restricted:sf268683w",
   "layer_modified_dt": "2014-12-19T16:18:32Z",

@@ -7,7 +7,7 @@
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "bg257g63q",
   "dc_language_s": "English",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "property maps",
     "cadastral maps",
@@ -26,7 +26,7 @@
   ],
   "dc_title_s": "Lumpkin County, Georgia land parcels, 2004",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/bg257g63q/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/bg257g63q/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/bg257g63q\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/bg257g63q/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/bg257g63q/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "Lumpkin County",
     "Lumpkin",
@@ -35,7 +35,6 @@
   "dct_issued_s": "20040407",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "34.419025 -84.192861 34.740945 -83.820967",
-  "georss_polygon_s": "34.740945 -84.192861 34.740945 -83.820967 34.419025 -83.820967 34.419025 -84.192861 34.740945 -84.192861",
   "layer_slug_s": "princeton-bg257g63q",
   "layer_id_s": "pulmap-restricted:bg257g63q",
   "layer_modified_dt": "2014-12-19T16:18:35Z",

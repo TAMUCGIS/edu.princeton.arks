@@ -8,7 +8,7 @@
   "dc_identifier_s": "dn39x2956",
   "dc_language_s": "English",
   "dc_publisher_s": "Gfk MACON Company",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "Roads",
     "Transportation",
@@ -16,7 +16,7 @@
   ],
   "dc_title_s": "Croatia Minor Roads, 2005",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/dn39x2956/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/dn39x2956/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/dn39x2956\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/dn39x2956/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/dn39x2956/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "Croatia"
   ],
@@ -26,7 +26,6 @@
   "dct_issued_s": "2005",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "41.303281 22.393153 44.196129 28.606415",
-  "georss_polygon_s": "44.196129 22.393153 44.196129 28.606415 41.303281 28.606415 41.303281 22.393153 44.196129 22.393153",
   "layer_slug_s": "princeton-dn39x2956",
   "layer_id_s": "pulmap-restricted:dn39x2956",
   "layer_modified_dt": "2014-12-19T16:18:34Z",

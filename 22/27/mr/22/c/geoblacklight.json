@@ -7,7 +7,7 @@
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "2227mr22c",
   "dc_language_s": "English",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "roads",
     "highways",
@@ -16,7 +16,7 @@
   ],
   "dc_title_s": "York County, South Carolina roads, 2007",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/2227mr22c/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/2227mr22c/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/2227mr22c\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/2227mr22c/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/2227mr22c/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "South Carolina",
     "York",
@@ -27,7 +27,6 @@
   "dct_issued_s": "20070801",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "34.816488 -81.501280 35.186290 -80.864513",
-  "georss_polygon_s": "35.186290 -81.501280 35.186290 -80.864513 34.816488 -80.864513 34.816488 -81.501280 35.186290 -81.501280",
   "layer_slug_s": "princeton-2227mr22c",
   "layer_id_s": "pulmap-restricted:2227mr22c",
   "layer_modified_dt": "2014-12-19T16:18:37Z",

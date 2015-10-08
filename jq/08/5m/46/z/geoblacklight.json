@@ -7,7 +7,7 @@
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "jq085m46z",
   "dc_language_s": "English",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "utilities",
     "pipelines",
@@ -19,14 +19,13 @@
   ],
   "dc_title_s": "Egypt Irrigation Network",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/jq085m46z/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/jq085m46z/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/jq085m46z\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/jq085m46z/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/jq085m46z/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "Egypt"
   ],
   "dct_issued_s": "20140428",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "28.643080 25.283502 31.567103 32.062242",
-  "georss_polygon_s": "31.567103 25.283502 31.567103 32.062242 28.643080 32.062242 28.643080 25.283502 31.567103 25.283502",
   "layer_slug_s": "princeton-jq085m46z",
   "layer_id_s": "pulmap-restricted:jq085m46z",
   "layer_modified_dt": "2014-12-19T16:18:33Z",

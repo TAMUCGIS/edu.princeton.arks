@@ -7,7 +7,7 @@
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "j098zc66p",
   "dc_language_s": "English",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "Location",
     "Villages",
@@ -15,7 +15,7 @@
   ],
   "dc_title_s": "Kerala Village Map",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/j098zc66p/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/j098zc66p/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/j098zc66p\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/j098zc66p/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/j098zc66p/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "India",
     "Kerala"
@@ -23,7 +23,6 @@
   "dct_issued_s": "2006",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "8.2984 74.8658 12.7528 77.3748",
-  "georss_polygon_s": "12.7528 74.8658 12.7528 77.3748 8.2984 77.3748 8.2984 74.8658 12.7528 74.8658",
   "layer_slug_s": "princeton-j098zc66p",
   "layer_id_s": "pulmap-restricted:j098zc66p",
   "layer_modified_dt": "2014-12-19T16:18:34Z",

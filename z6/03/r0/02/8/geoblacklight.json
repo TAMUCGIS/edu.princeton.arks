@@ -8,7 +8,7 @@
   "dc_identifier_s": "z603r0028",
   "dc_language_s": "English",
   "dc_publisher_s": "Gfk MACON Company",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "Rivers",
     "Inland Waters",
@@ -16,7 +16,7 @@
   ],
   "dc_title_s": "Netherlands Major Rivers, 2005",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/z603r0028/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/z603r0028/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/z603r0028\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/z603r0028/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/z603r0028/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "Netherlands"
   ],
@@ -26,7 +26,6 @@
   "dct_issued_s": "2005",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "50.759593 3.376126 53.320586 7.024623",
-  "georss_polygon_s": "53.320586 3.376126 53.320586 7.024623 50.759593 7.024623 50.759593 3.376126 53.320586 3.376126",
   "layer_slug_s": "princeton-z603r0028",
   "layer_id_s": "pulmap-restricted:z603r0028",
   "layer_modified_dt": "2014-12-19T16:18:31Z",

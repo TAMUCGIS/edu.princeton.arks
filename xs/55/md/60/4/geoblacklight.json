@@ -8,7 +8,7 @@
   "dc_identifier_s": "xs55md604",
   "dc_language_s": "English",
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "polygon",
     "census tracts",
@@ -21,7 +21,7 @@
   ],
   "dc_title_s": "West Virginia Tracts 2002",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/xs55md604/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/xs55md604/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/xs55md604\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/xs55md604/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/xs55md604/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "United States",
     "West Virginia"
@@ -34,7 +34,6 @@
   "dct_issued_s": "20020401",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "37.201483 -82.644739 40.638802 -77.718935",
-  "georss_polygon_s": "40.638802 -82.644739 40.638802 -77.718935 37.201483 -77.718935 37.201483 -82.644739 40.638802 -82.644739",
   "layer_slug_s": "princeton-xs55md604",
   "layer_id_s": "pulmap-restricted:xs55md604",
   "layer_modified_dt": "2014-12-19T16:18:31Z",

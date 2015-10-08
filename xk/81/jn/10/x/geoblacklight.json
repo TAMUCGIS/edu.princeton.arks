@@ -8,7 +8,7 @@
   "dc_identifier_s": "xk81jn10x",
   "dc_language_s": "English",
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "line",
     "highways",
@@ -19,7 +19,7 @@
   ],
   "dc_title_s": "Washington Major Roads 2002",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/xk81jn10x/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/xk81jn10x/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/xk81jn10x\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/xk81jn10x/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/xk81jn10x/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "United States",
     "Washington"
@@ -30,7 +30,6 @@
   "dct_issued_s": "20020401",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "45.559569 -124.669995 49.002487 -117.035878",
-  "georss_polygon_s": "49.002487 -124.669995 49.002487 -117.035878 45.559569 -117.035878 45.559569 -124.669995 49.002487 -124.669995",
   "layer_slug_s": "princeton-xk81jn10x",
   "layer_id_s": "pulmap-restricted:xk81jn10x",
   "layer_modified_dt": "2014-12-19T16:18:31Z",

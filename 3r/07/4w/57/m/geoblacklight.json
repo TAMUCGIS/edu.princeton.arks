@@ -8,7 +8,7 @@
   "dc_identifier_s": "3r074w57m",
   "dc_language_s": "English",
   "dc_publisher_s": "Gfk MACON Company",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "Cities",
     "Location",
@@ -16,7 +16,7 @@
   ],
   "dc_title_s": "Bangladesh Cities With Population From 100 Thousand to 500 Thousand, 1997",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/3r074w57m/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/3r074w57m/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/3r074w57m\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/3r074w57m/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/3r074w57m/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "Bangladesh"
   ],
@@ -26,7 +26,6 @@
   "dct_issued_s": "2005",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "22.829941 88.567055 25.774345 91.881081",
-  "georss_polygon_s": "25.774345 88.567055 25.774345 91.881081 22.829941 91.881081 22.829941 88.567055 25.774345 88.567055",
   "layer_slug_s": "princeton-3r074w57m",
   "layer_id_s": "pulmap-restricted:3r074w57m",
   "layer_modified_dt": "2014-12-19T16:18:36Z",

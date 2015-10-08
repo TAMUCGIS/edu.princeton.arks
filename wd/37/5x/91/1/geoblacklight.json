@@ -7,7 +7,7 @@
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "wd375x911",
   "dc_language_s": "English",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "Location",
     "Villages",
@@ -15,7 +15,7 @@
   ],
   "dc_title_s": "Sikkim Village Map",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/wd375x911/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/wd375x911/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/wd375x911\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/wd375x911/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/wd375x911/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "India",
     "Sikkim"
@@ -23,7 +23,6 @@
   "dct_issued_s": "2006",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "27.0811 88.0027 28.1301 88.9009",
-  "georss_polygon_s": "28.1301 88.0027 28.1301 88.9009 27.0811 88.9009 27.0811 88.0027 28.1301 88.0027",
   "layer_slug_s": "princeton-wd375x911",
   "layer_id_s": "pulmap-restricted:wd375x911",
   "layer_modified_dt": "2014-12-19T16:18:32Z",

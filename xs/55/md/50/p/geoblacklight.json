@@ -8,7 +8,7 @@
   "dc_identifier_s": "xs55md50p",
   "dc_language_s": "English",
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "polygon",
     "states",
@@ -16,7 +16,7 @@
   ],
   "dc_title_s": "Mexico States 2000",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/xs55md50p/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/xs55md50p/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/xs55md50p\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/xs55md50p/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/xs55md50p/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "Mexico"
   ],
@@ -28,7 +28,6 @@
   "dct_issued_s": "20001101",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "14.551460 -117.123120 32.720854 -86.735045",
-  "georss_polygon_s": "32.720854 -117.123120 32.720854 -86.735045 14.551460 -86.735045 14.551460 -117.123120 32.720854 -117.123120",
   "layer_slug_s": "princeton-xs55md50p",
   "layer_id_s": "pulmap-restricted:xs55md50p",
   "layer_modified_dt": "2014-12-19T16:18:31Z",

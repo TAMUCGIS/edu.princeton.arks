@@ -7,7 +7,7 @@
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "7p88cj31k",
   "dc_language_s": "English",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "property maps",
     "cadastral maps",
@@ -22,7 +22,7 @@
   ],
   "dc_title_s": "Morton County, North Dakota land parcels, 2009",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/7p88cj31k/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/7p88cj31k/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/7p88cj31k\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/7p88cj31k/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/7p88cj31k/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "North Dakota",
     "Morton",
@@ -31,7 +31,6 @@
   "dct_issued_s": "20090325",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "46.284427 -102.097183 46.982822 -100.545937",
-  "georss_polygon_s": "46.982822 -102.097183 46.982822 -100.545937 46.284427 -100.545937 46.284427 -102.097183 46.982822 -102.097183",
   "layer_slug_s": "princeton-7p88cj31k",
   "layer_id_s": "pulmap-restricted:7p88cj31k",
   "layer_modified_dt": "2014-12-19T16:18:35Z",

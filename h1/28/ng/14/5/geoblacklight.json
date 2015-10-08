@@ -7,7 +7,7 @@
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "h128ng145",
   "dc_language_s": "English",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "parcel",
     "parcels",
@@ -31,7 +31,7 @@
   ],
   "dc_title_s": "Douglas County, Colorado land parcels, 2006",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/h128ng145/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/h128ng145/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/h128ng145\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/h128ng145/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/h128ng145/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "Colorado",
     "Douglas County",
@@ -41,7 +41,6 @@
   "dct_issued_s": "20061001",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "39.128799 -105.329471 39.566183 -104.660165",
-  "georss_polygon_s": "39.566183 -105.329471 39.566183 -104.660165 39.128799 -104.660165 39.128799 -105.329471 39.566183 -105.329471",
   "layer_slug_s": "princeton-h128ng145",
   "layer_id_s": "pulmap-restricted:h128ng145",
   "layer_modified_dt": "2014-12-19T16:18:34Z",

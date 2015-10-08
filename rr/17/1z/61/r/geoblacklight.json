@@ -8,7 +8,7 @@
   "dc_identifier_s": "rr171z61r",
   "dc_language_s": "English",
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "line",
     "streams",
@@ -19,7 +19,7 @@
   ],
   "dc_title_s": "Massachusetts Rivers 2002",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/rr171z61r/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/rr171z61r/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/rr171z61r\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/rr171z61r/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/rr171z61r/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "United States",
     "Massachusetts"
@@ -30,7 +30,6 @@
   "dct_issued_s": "20020401",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "41.249555 -73.497456 42.886381 -69.965939",
-  "georss_polygon_s": "42.886381 -73.497456 42.886381 -69.965939 41.249555 -69.965939 41.249555 -73.497456 42.886381 -73.497456",
   "layer_slug_s": "princeton-rr171z61r",
   "layer_id_s": "pulmap-restricted:rr171z61r",
   "layer_modified_dt": "2014-12-19T16:18:32Z",

@@ -7,7 +7,7 @@
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "9593tw65v",
   "dc_language_s": "English",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "property maps",
     "cadastral maps",
@@ -26,7 +26,7 @@
   ],
   "dc_title_s": "Volusia County, Florida land parcels, 2009",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/9593tw65v/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/9593tw65v/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/9593tw65v\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/9593tw65v/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/9593tw65v/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "Florida",
     "Volusia",
@@ -36,7 +36,6 @@
   "dct_issued_s": "20090817",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "28.612874 -81.573667 29.427071 -80.733146",
-  "georss_polygon_s": "29.427071 -81.573667 29.427071 -80.733146 28.612874 -80.733146 28.612874 -81.573667 29.427071 -81.573667",
   "layer_slug_s": "princeton-9593tw65v",
   "layer_id_s": "pulmap-restricted:9593tw65v",
   "layer_modified_dt": "2014-12-19T16:18:35Z",

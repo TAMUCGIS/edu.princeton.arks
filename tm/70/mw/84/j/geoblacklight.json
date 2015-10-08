@@ -7,7 +7,7 @@
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "tm70mw84j",
   "dc_language_s": "English",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "Location",
     "Villages",
@@ -15,7 +15,7 @@
   ],
   "dc_title_s": "Himachal Pradesh Village Map",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/tm70mw84j/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/tm70mw84j/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/tm70mw84j\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/tm70mw84j/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/tm70mw84j/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "India",
     "Himachal Pradesh"
@@ -23,7 +23,6 @@
   "dct_issued_s": "2006",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "30.4071 75.6004 33.3157 78.9753",
-  "georss_polygon_s": "33.3157 75.6004 33.3157 78.9753 30.4071 78.9753 30.4071 75.6004 33.3157 75.6004",
   "layer_slug_s": "princeton-tm70mw84j",
   "layer_id_s": "pulmap-restricted:tm70mw84j",
   "layer_modified_dt": "2014-12-19T16:18:32Z",

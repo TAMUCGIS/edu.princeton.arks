@@ -7,7 +7,7 @@
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "b5644t02z",
   "dc_language_s": "English",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "states",
     "state",
@@ -26,14 +26,13 @@
   ],
   "dc_title_s": "Nigeria state boundaries",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/b5644t02z/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/b5644t02z/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/b5644t02z\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/b5644t02z/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/b5644t02z/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "Nigeria"
   ],
   "dct_issued_s": "20120425",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "4.277140 2.668430 13.892010 14.680070",
-  "georss_polygon_s": "13.892010 2.668430 13.892010 14.680070 4.277140 14.680070 4.277140 2.668430 13.892010 2.668430",
   "layer_slug_s": "princeton-b5644t02z",
   "layer_id_s": "pulmap-restricted:b5644t02z",
   "layer_modified_dt": "2014-12-19T16:18:35Z",

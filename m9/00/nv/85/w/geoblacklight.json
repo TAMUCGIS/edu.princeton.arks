@@ -7,7 +7,7 @@
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "m900nv85w",
   "dc_language_s": "English",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "parcel",
     "parcels",
@@ -20,7 +20,7 @@
   ],
   "dc_title_s": "Ventura County, California land parcels, 2009",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/m900nv85w/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/m900nv85w/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/m900nv85w\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/m900nv85w/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/m900nv85w/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "California",
     "Ventura County",
@@ -36,7 +36,6 @@
   "dct_issued_s": "20090304",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "33.128916 -119.486113 34.901176 -118.632511",
-  "georss_polygon_s": "34.901176 -119.486113 34.901176 -118.632511 33.128916 -118.632511 33.128916 -119.486113 34.901176 -119.486113",
   "layer_slug_s": "princeton-m900nv85w",
   "layer_id_s": "pulmap-restricted:m900nv85w",
   "layer_modified_dt": "2014-12-19T16:18:33Z",

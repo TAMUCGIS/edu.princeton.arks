@@ -7,7 +7,7 @@
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "hd76s156z",
   "dc_language_s": "English",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "parcels",
     "tax parcels",
@@ -21,7 +21,7 @@
   ],
   "dc_title_s": "Anchorage Borough, Alaska land parcels, 2008",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/hd76s156z/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/hd76s156z/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/hd76s156z\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/hd76s156z/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/hd76s156z/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "Alaska",
     "Anchorage",
@@ -30,7 +30,6 @@
   "dct_issued_s": "20080922",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "60.769111 -150.284610 61.483944 -148.827014",
-  "georss_polygon_s": "61.483944 -150.284610 61.483944 -148.827014 60.769111 -148.827014 60.769111 -150.284610 61.483944 -150.284610",
   "layer_slug_s": "princeton-hd76s156z",
   "layer_id_s": "pulmap-restricted:hd76s156z",
   "layer_modified_dt": "2014-12-19T16:18:34Z",

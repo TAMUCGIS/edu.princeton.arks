@@ -7,7 +7,7 @@
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "3j3333742",
   "dc_language_s": "English",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "parcel",
     "parcels",
@@ -19,7 +19,7 @@
   ],
   "dc_title_s": "San Luis Obispo County, California land parcels, 2004",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/3j3333742/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/3j3333742/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/3j3333742\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/3j3333742/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/3j3333742/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "California",
     "San Luis Obispo County"
@@ -27,7 +27,6 @@
   "dct_issued_s": "20040601",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "34.897490 -121.347753 35.795200 -119.472594",
-  "georss_polygon_s": "35.795200 -121.347753 35.795200 -119.472594 34.897490 -119.472594 34.897490 -121.347753 35.795200 -121.347753",
   "layer_slug_s": "princeton-3j3333742",
   "layer_id_s": "pulmap-restricted:3j3333742",
   "layer_modified_dt": "2014-12-19T16:18:36Z",

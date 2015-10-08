@@ -8,7 +8,7 @@
   "dc_identifier_s": "tb09j7201",
   "dc_language_s": "English",
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "polygon",
     "census tracts",
@@ -21,7 +21,7 @@
   ],
   "dc_title_s": "Virginia Tracts 2002",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/tb09j7201/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/tb09j7201/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/tb09j7201\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/tb09j7201/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/tb09j7201/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "United States",
     "Virginia"
@@ -34,7 +34,6 @@
   "dct_issued_s": "20020401",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "36.540739 -83.675413 39.466012 -75.242266",
-  "georss_polygon_s": "39.466012 -83.675413 39.466012 -75.242266 36.540739 -75.242266 36.540739 -83.675413 39.466012 -83.675413",
   "layer_slug_s": "princeton-tb09j7201",
   "layer_id_s": "pulmap-restricted:tb09j7201",
   "layer_modified_dt": "2014-12-19T16:18:32Z",

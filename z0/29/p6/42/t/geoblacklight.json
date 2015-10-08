@@ -8,7 +8,7 @@
   "dc_identifier_s": "z029p642t",
   "dc_language_s": "English",
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "line",
     "highways",
@@ -19,7 +19,7 @@
   ],
   "dc_title_s": "New Mexico Major Roads 2002",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/z029p642t/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/z029p642t/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/z029p642t\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/z029p642t/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/z029p642t/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "United States",
     "New Mexico"
@@ -30,7 +30,6 @@
   "dct_issued_s": "20020401",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "31.333360 -109.048763 37.000004 -103.002239",
-  "georss_polygon_s": "37.000004 -109.048763 37.000004 -103.002239 31.333360 -103.002239 31.333360 -109.048763 37.000004 -109.048763",
   "layer_slug_s": "princeton-z029p642t",
   "layer_id_s": "pulmap-restricted:z029p642t",
   "layer_modified_dt": "2014-12-19T16:18:31Z",

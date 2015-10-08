@@ -7,7 +7,7 @@
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "2v23vw06p",
   "dc_language_s": "English",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "parcel",
     "parcels",
@@ -21,7 +21,7 @@
   ],
   "dc_title_s": "Siskiyou County, California land parcels, 2008",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/2v23vw06p/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/2v23vw06p/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/2v23vw06p\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/2v23vw06p/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/2v23vw06p/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "California",
     "Siskiyou County"
@@ -29,7 +29,6 @@
   "dct_issued_s": "20080625",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "40.992157 -123.719217 42.009714 -121.445973",
-  "georss_polygon_s": "42.009714 -123.719217 42.009714 -121.445973 40.992157 -121.445973 40.992157 -123.719217 42.009714 -123.719217",
   "layer_slug_s": "princeton-2v23vw06p",
   "layer_id_s": "pulmap-restricted:2v23vw06p",
   "layer_modified_dt": "2014-12-19T16:18:36Z",

@@ -7,7 +7,7 @@
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "c821gm30f",
   "dc_language_s": "English",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "India",
     "village",
@@ -49,14 +49,13 @@
   ],
   "dc_title_s": "State map of India, 2011",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/c821gm30f/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/c821gm30f/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/c821gm30f\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/c821gm30f/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/c821gm30f/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "India"
   ],
   "dct_issued_s": "20140501",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "6.755698 68.110092 37.050301 97.409103",
-  "georss_polygon_s": "37.050301 68.110092 37.050301 97.409103 6.755698 97.409103 6.755698 68.110092 37.050301 68.110092",
   "layer_slug_s": "princeton-c821gm30f",
   "layer_id_s": "pulmap-restricted:c821gm30f",
   "layer_modified_dt": "2014-12-19T16:18:35Z",

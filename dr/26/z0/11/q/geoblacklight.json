@@ -7,7 +7,7 @@
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "dr26z011q",
   "dc_language_s": "English",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "Boundaries",
     "statistical area",
@@ -18,7 +18,7 @@
   ],
   "dc_title_s": "San Luis Potosi, Mexico Basic Geographic Statistical Areas, 2011",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/dr26z011q/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/dr26z011q/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/dr26z011q\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/dr26z011q/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/dr26z011q/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "Mexico",
     "San Luis Potosi",
@@ -28,7 +28,6 @@
   "dct_issued_s": "20110401",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "21.203507 -101.917733 23.892454 -98.355622",
-  "georss_polygon_s": "23.892454 -101.917733 23.892454 -98.355622 21.203507 -98.355622 21.203507 -101.917733 23.892454 -101.917733",
   "layer_slug_s": "princeton-dr26z011q",
   "layer_id_s": "pulmap-restricted:dr26z011q",
   "layer_modified_dt": "2014-12-19T16:18:34Z",

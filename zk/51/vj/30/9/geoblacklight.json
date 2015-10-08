@@ -8,14 +8,14 @@
   "dc_identifier_s": "zk51vj309",
   "dc_language_s": "English",
   "dc_publisher_s": "LeadDog Consulting, LLC",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "Administrative and political boundaries",
     "Neighborhoods"
   ],
   "dc_title_s": "Baghdad neighborhoods",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/zk51vj309/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/zk51vj309/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/zk51vj309\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/zk51vj309/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/zk51vj309/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "Baghdad",
     "Iraq"
@@ -23,7 +23,6 @@
   "dct_issued_s": "2006",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "33.179912 44.156174 33.432637 44.545259",
-  "georss_polygon_s": "33.432637 44.156174 33.432637 44.545259 33.179912 44.545259 33.179912 44.156174 33.432637 44.156174",
   "layer_slug_s": "princeton-zk51vj309",
   "layer_id_s": "pulmap-restricted:zk51vj309",
   "layer_modified_dt": "2014-12-19T16:18:31Z",

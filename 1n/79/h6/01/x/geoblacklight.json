@@ -4,7 +4,7 @@
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "1n79h601x",
   "dc_language_s": "English",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "point",
     "cities",
@@ -19,7 +19,7 @@
   ],
   "dc_title_s": "U.S. Cities, 2013",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/1n79h601x/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/1n79h601x/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/1n79h601x\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/1n79h601x/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/1n79h601x/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "United States"
   ],
@@ -30,7 +30,6 @@
   "dct_issued_s": "20130601",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "19.702482 -158.176464 64.848300 -68.783009",
-  "georss_polygon_s": "64.848300 -158.176464 64.848300 -68.783009 19.702482 -68.783009 19.702482 -158.176464 64.848300 -158.176464",
   "layer_slug_s": "princeton-1n79h601x",
   "layer_id_s": "pulmap-restricted:1n79h601x",
   "layer_modified_dt": "2014-12-19T16:18:37Z",

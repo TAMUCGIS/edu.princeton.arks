@@ -8,7 +8,7 @@
   "dc_identifier_s": "pg15bg48g",
   "dc_language_s": "English",
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "line",
     "highways",
@@ -18,7 +18,7 @@
   ],
   "dc_title_s": "U.S. Major Roads 2000",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/pg15bg48g/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/pg15bg48g/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/pg15bg48g\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/pg15bg48g/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/pg15bg48g/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "United States"
   ],
@@ -28,7 +28,6 @@
   "dct_issued_s": "20001101",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "19.058082 -166.556497 71.298881 -66.968767",
-  "georss_polygon_s": "71.298881 -166.556497 71.298881 -66.968767 19.058082 -66.968767 19.058082 -166.556497 71.298881 -166.556497",
   "layer_slug_s": "princeton-pg15bg48g",
   "layer_id_s": "pulmap-restricted:pg15bg48g",
   "layer_modified_dt": "2014-12-19T16:18:33Z",

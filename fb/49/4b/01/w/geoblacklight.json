@@ -8,7 +8,7 @@
   "dc_identifier_s": "fb494b01w",
   "dc_language_s": "English",
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "line",
     "highways",
@@ -19,7 +19,7 @@
   ],
   "dc_title_s": "Louisiana Major Roads 2002",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/fb494b01w/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/fb494b01w/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/fb494b01w\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/fb494b01w/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/fb494b01w/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "United States",
     "Louisiana"
@@ -30,7 +30,6 @@
   "dct_issued_s": "20020401",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "29.157990 -94.043067 33.019493 -89.353546",
-  "georss_polygon_s": "33.019493 -94.043067 33.019493 -89.353546 29.157990 -89.353546 29.157990 -94.043067 33.019493 -94.043067",
   "layer_slug_s": "princeton-fb494b01w",
   "layer_id_s": "pulmap-restricted:fb494b01w",
   "layer_modified_dt": "2014-12-19T16:18:34Z",

@@ -8,7 +8,7 @@
   "dc_identifier_s": "pr76f4895",
   "dc_language_s": "English",
   "dc_publisher_s": "Gfk MACON Company",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "City",
     "Location",
@@ -16,7 +16,7 @@
   ],
   "dc_title_s": "Japan Cities With Population From 30 Thousand To 100 Thousand, 1995",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/pr76f4895/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/pr76f4895/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/pr76f4895\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/pr76f4895/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/pr76f4895/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "Japan"
   ],
@@ -26,7 +26,6 @@
   "dct_issued_s": "1995",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "26.126204 127.674438 45.419647 144.278824",
-  "georss_polygon_s": "45.419647 127.674438 45.419647 144.278824 26.126204 144.278824 26.126204 127.674438 45.419647 127.674438",
   "layer_slug_s": "princeton-pr76f4895",
   "layer_id_s": "pulmap-restricted:pr76f4895",
   "layer_modified_dt": "2014-12-19T16:18:33Z",

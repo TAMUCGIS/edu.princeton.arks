@@ -7,7 +7,7 @@
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "1r66j281q",
   "dc_language_s": "English",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "roads",
     "highways",
@@ -16,7 +16,7 @@
   ],
   "dc_title_s": "Cayuga County, New York roads, 2010",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/1r66j281q/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/1r66j281q/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/1r66j281q\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/1r66j281q/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/1r66j281q/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "New York",
     "Cayuga",
@@ -26,7 +26,6 @@
   "dct_issued_s": "20100202",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "42.618463 -76.738488 43.415323 -76.261862",
-  "georss_polygon_s": "43.415323 -76.738488 43.415323 -76.261862 42.618463 -76.261862 42.618463 -76.738488 43.415323 -76.738488",
   "layer_slug_s": "princeton-1r66j281q",
   "layer_id_s": "pulmap-restricted:1r66j281q",
   "layer_modified_dt": "2014-12-19T16:18:37Z",

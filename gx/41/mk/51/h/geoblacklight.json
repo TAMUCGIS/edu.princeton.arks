@@ -8,7 +8,7 @@
   "dc_identifier_s": "gx41mk51h",
   "dc_language_s": "English",
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "line",
     "streams",
@@ -19,7 +19,7 @@
   ],
   "dc_title_s": "Connecticut Rivers 2002",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/gx41mk51h/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/gx41mk51h/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/gx41mk51h\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/gx41mk51h/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/gx41mk51h/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "United States",
     "Connecticut"
@@ -30,7 +30,6 @@
   "dct_issued_s": "20020401",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "41.007202 -73.712775 42.050514 -71.787616",
-  "georss_polygon_s": "42.050514 -73.712775 42.050514 -71.787616 41.007202 -71.787616 41.007202 -73.712775 42.050514 -73.712775",
   "layer_slug_s": "princeton-gx41mk51h",
   "layer_id_s": "pulmap-restricted:gx41mk51h",
   "layer_modified_dt": "2014-12-19T16:18:34Z",

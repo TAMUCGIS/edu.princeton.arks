@@ -7,7 +7,7 @@
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "q811km23p",
   "dc_language_s": "English",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "roads",
     "highways",
@@ -16,7 +16,7 @@
   ],
   "dc_title_s": "Westmoreland County, Pennsylvania roads, 2010",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/q811km23p/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/q811km23p/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/q811km23p\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/q811km23p/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/q811km23p/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "Pennsylvania",
     "Westmoreland",
@@ -26,7 +26,6 @@
   "dct_issued_s": "20100427",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "40.031263 -79.920726 40.685341 -78.969384",
-  "georss_polygon_s": "40.685341 -79.920726 40.685341 -78.969384 40.031263 -78.969384 40.031263 -79.920726 40.685341 -79.920726",
   "layer_slug_s": "princeton-q811km23p",
   "layer_id_s": "pulmap-restricted:q811km23p",
   "layer_modified_dt": "2014-12-19T16:18:33Z",

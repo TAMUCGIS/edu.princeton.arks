@@ -8,7 +8,7 @@
   "dc_identifier_s": "8p58pf43g",
   "dc_language_s": "English",
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "line",
     "streams",
@@ -19,7 +19,7 @@
   ],
   "dc_title_s": "Vermont Rivers 2002",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/8p58pf43g/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/8p58pf43g/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/8p58pf43g\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/8p58pf43g/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/8p58pf43g/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "United States",
     "Vermont"
@@ -30,7 +30,6 @@
   "dct_issued_s": "20020401",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "42.726996 -73.410038 45.016321 -71.464556",
-  "georss_polygon_s": "45.016321 -73.410038 45.016321 -71.464556 42.726996 -71.464556 42.726996 -73.410038 45.016321 -73.410038",
   "layer_slug_s": "princeton-8p58pf43g",
   "layer_id_s": "pulmap-restricted:8p58pf43g",
   "layer_modified_dt": "2014-12-19T16:18:35Z",

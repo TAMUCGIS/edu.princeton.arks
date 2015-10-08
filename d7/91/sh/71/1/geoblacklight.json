@@ -21,7 +21,7 @@
   ],
   "dc_title_s": "Ohio ZIP Code Areas 2002",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/d791sh711\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/d791sh711/fgdc.xml\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/d791sh711/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "United States",
     "Ohio"
@@ -34,7 +34,6 @@
   "dct_issued_s": "20020401",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "38.403143 -84.820185 41.977524 -80.518792",
-  "georss_polygon_s": "41.977524 -84.820185 41.977524 -80.518792 38.403143 -80.518792 38.403143 -84.820185 41.977524 -84.820185",
   "layer_slug_s": "princeton-d791sh711",
   "layer_id_s": "pulmap-restricted:d791sh711",
   "layer_modified_dt": "2014-12-19T16:18:34Z",

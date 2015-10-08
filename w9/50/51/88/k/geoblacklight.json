@@ -8,7 +8,7 @@
   "dc_identifier_s": "w9505188k",
   "dc_language_s": "English",
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "line",
     "streams",
@@ -19,7 +19,7 @@
   ],
   "dc_title_s": "Ohio Rivers 2002",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/w9505188k/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/w9505188k/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/w9505188k\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/w9505188k/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/w9505188k/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "United States",
     "Ohio"
@@ -30,7 +30,6 @@
   "dct_issued_s": "20020401",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "38.403730 -84.820159 41.974081 -80.518793",
-  "georss_polygon_s": "41.974081 -84.820159 41.974081 -80.518793 38.403730 -80.518793 38.403730 -84.820159 41.974081 -84.820159",
   "layer_slug_s": "princeton-w9505188k",
   "layer_id_s": "pulmap-restricted:w9505188k",
   "layer_modified_dt": "2014-12-19T16:18:32Z",

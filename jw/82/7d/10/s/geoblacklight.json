@@ -8,7 +8,7 @@
   "dc_identifier_s": "jw827d10s",
   "dc_language_s": "English",
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "point",
     "major cities",
@@ -16,7 +16,7 @@
   ],
   "dc_title_s": "Canada Cities 1999",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/jw827d10s/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/jw827d10s/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/jw827d10s\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/jw827d10s/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/jw827d10s/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "Canada"
   ],
@@ -26,7 +26,6 @@
   "dct_issued_s": "19990801",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "43.720772 -135.159897 68.269997 -52.684872",
-  "georss_polygon_s": "68.269997 -135.159897 68.269997 -52.684872 43.720772 -52.684872 43.720772 -135.159897 68.269997 -135.159897",
   "layer_slug_s": "princeton-jw827d10s",
   "layer_id_s": "pulmap-restricted:jw827d10s",
   "layer_modified_dt": "2014-12-19T16:18:33Z",

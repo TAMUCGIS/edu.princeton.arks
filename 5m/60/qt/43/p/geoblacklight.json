@@ -7,7 +7,7 @@
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "5m60qt43p",
   "dc_language_s": "English",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "parcel",
     "parcels",
@@ -21,7 +21,7 @@
   ],
   "dc_title_s": "Mobile County, Alabama land and water parcels, 2008",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/5m60qt43p/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/5m60qt43p/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/5m60qt43p\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/5m60qt43p/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/5m60qt43p/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "Alabama",
     "Mobile County",
@@ -30,7 +30,6 @@
   "dct_issued_s": "20080101",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "30.121921 -88.432533 31.173283 -87.921829",
-  "georss_polygon_s": "31.173283 -88.432533 31.173283 -87.921829 30.121921 -87.921829 30.121921 -88.432533 31.173283 -88.432533",
   "layer_slug_s": "princeton-5m60qt43p",
   "layer_id_s": "pulmap-restricted:5m60qt43p",
   "layer_modified_dt": "2014-12-19T16:18:36Z",

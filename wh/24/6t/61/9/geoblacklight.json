@@ -8,7 +8,7 @@
   "dc_identifier_s": "wh246t619",
   "dc_language_s": "English",
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "point",
     "cities",
@@ -17,7 +17,7 @@
   ],
   "dc_title_s": "Mexico Cities 2000",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/wh246t619/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/wh246t619/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/wh246t619\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/wh246t619/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/wh246t619/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "Mexico"
   ],
@@ -29,7 +29,6 @@
   "dct_issued_s": "20001101",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "16.631100 -115.294943 32.620249 -88.264435",
-  "georss_polygon_s": "32.620249 -115.294943 32.620249 -88.264435 16.631100 -88.264435 16.631100 -115.294943 32.620249 -115.294943",
   "layer_slug_s": "princeton-wh246t619",
   "layer_id_s": "pulmap-restricted:wh246t619",
   "layer_modified_dt": "2014-12-19T16:18:32Z",

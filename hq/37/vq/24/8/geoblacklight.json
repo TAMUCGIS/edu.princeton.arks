@@ -25,7 +25,7 @@
   ],
   "dc_title_s": "Mercer County, New Jersey land parcels, 2009",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/hq37vq248\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/hq37vq248/fgdc.xml\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/hq37vq248/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "New Jersey",
     "Mercer County",
@@ -45,7 +45,6 @@
   "dct_issued_s": "20090101",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "40.136771 -74.941608 40.424156 -74.481095",
-  "georss_polygon_s": "40.424156 -74.941608 40.424156 -74.481095 40.136771 -74.481095 40.136771 -74.941608 40.424156 -74.941608",
   "layer_slug_s": "princeton-hq37vq248",
   "layer_id_s": "pulmap-restricted:hq37vq248",
   "layer_modified_dt": "2014-12-19T16:18:34Z",

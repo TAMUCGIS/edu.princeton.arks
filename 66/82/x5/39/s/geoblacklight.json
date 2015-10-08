@@ -7,7 +7,7 @@
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "6682x539s",
   "dc_language_s": "English",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "parcel",
     "parcels",
@@ -21,7 +21,7 @@
   ],
   "dc_title_s": "Sonoma County, California land parcels, 2010",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/6682x539s/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/6682x539s/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/6682x539s\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/6682x539s/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/6682x539s/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "California",
     "Sonoma County",
@@ -30,7 +30,6 @@
   "dct_issued_s": "20100107",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "38.112457 -123.532891 38.852772 -122.350206",
-  "georss_polygon_s": "38.852772 -123.532891 38.852772 -122.350206 38.112457 -122.350206 38.112457 -123.532891 38.852772 -123.532891",
   "layer_slug_s": "princeton-6682x539s",
   "layer_id_s": "pulmap-restricted:6682x539s",
   "layer_modified_dt": "2014-12-19T16:18:36Z",

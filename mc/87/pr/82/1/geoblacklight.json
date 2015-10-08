@@ -7,7 +7,7 @@
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "mc87pr821",
   "dc_language_s": "English",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "property maps",
     "cadastral maps",
@@ -26,7 +26,7 @@
   ],
   "dc_title_s": "Cape May County, New Jersey land parcels, 2009",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/mc87pr821/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/mc87pr821/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/mc87pr821\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/mc87pr821/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/mc87pr821/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "New Jersey",
     "Cape May",
@@ -35,7 +35,6 @@
   "dct_issued_s": "20091120",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "38.924656 -74.972697 39.324286 -74.550911",
-  "georss_polygon_s": "39.324286 -74.972697 39.324286 -74.550911 38.924656 -74.550911 38.924656 -74.972697 39.324286 -74.972697",
   "layer_slug_s": "princeton-mc87pr821",
   "layer_id_s": "pulmap-restricted:mc87pr821",
   "layer_modified_dt": "2014-12-19T16:18:33Z",

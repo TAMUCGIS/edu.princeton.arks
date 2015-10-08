@@ -7,7 +7,7 @@
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "9g54xk39f",
   "dc_language_s": "English",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "Boundaries",
     "statistical area",
@@ -18,7 +18,7 @@
   ],
   "dc_title_s": "Guanajuato, Mexico Basic Geographic Statistical Areas, 2011",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/9g54xk39f/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/9g54xk39f/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/9g54xk39f\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/9g54xk39f/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/9g54xk39f/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "Mexico",
     "Guanajuato"
@@ -26,7 +26,6 @@
   "dct_issued_s": "20110401",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "19.953614 -102.025392 21.809158 -100.049416",
-  "georss_polygon_s": "21.809158 -102.025392 21.809158 -100.049416 19.953614 -100.049416 19.953614 -102.025392 21.809158 -102.025392",
   "layer_slug_s": "princeton-9g54xk39f",
   "layer_id_s": "pulmap-restricted:9g54xk39f",
   "layer_modified_dt": "2014-12-19T16:18:35Z",

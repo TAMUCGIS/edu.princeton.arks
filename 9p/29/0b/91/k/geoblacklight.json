@@ -7,7 +7,7 @@
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "9p290b91k",
   "dc_language_s": "English",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "stories",
     "parcels",
@@ -26,7 +26,7 @@
   ],
   "dc_title_s": "New York County (Manhattan), New York land parcels, 2007",
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/item/9p290b91k/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/9p290b91k/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/9p290b91k\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/item/9p290b91k/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/9p290b91k/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dct_spatial_sm": [
     "Manhattan",
     "New York",
@@ -36,7 +36,6 @@
   "dct_issued_s": "20070401",
   "dct_provenance_s": "Princeton",
   "georss_box_s": "40.683919 -74.047603 40.879188 -73.906737",
-  "georss_polygon_s": "40.879188 -74.047603 40.879188 -73.906737 40.683919 -73.906737 40.683919 -74.047603 40.879188 -74.047603",
   "layer_slug_s": "princeton-9p290b91k",
   "layer_id_s": "pulmap-restricted:9p290b91k",
   "layer_modified_dt": "2014-12-19T16:18:35Z",
