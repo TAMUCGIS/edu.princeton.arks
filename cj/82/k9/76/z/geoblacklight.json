@@ -1,6 +1,6 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/cj82k976z",
-  "dc_description_s": "An accurate map of North and South Carolina with their Indian frontiers, shewing in a distinct manner all the mountains, rivers, swamps, marshes, bays, creeks, harbours, sandbanks and soundings on the coasts; with the roads and Indian paths; as well as the boundary of provincial lines, the several townships and other divisions of the land in both the provinces",
+  "dc_description_s": "Relief shown pictorially.",
   "dc_format_s": "Scanned Map",
   "dc_identifier_s": "cj82k976z",
   "dc_rights_s": "Public",
@@ -9,21 +9,16 @@
   "layer_id_s": "cj82k976z",
   "layer_slug_s": "princeton-cj82k976z",
   "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:15Z",
-  "dc_title_s": "An accurate map of North and South Carolina with their Indian frontiers, shewing in a distinct manner all the mountains, rivers, swamps, marshes, bays, creeks, harbours, sandbanks and soundings on the coasts; with the roads and Indian paths; as well as the boundary of provincial lines, the several townships and other divisions of the land in both the provinces",
+  "layer_modified_dt": "2015-11-23T14:17:15Z",
+  "dc_title_s": "Europe",
   "dc_type_s": "Image",
   "dct_spatial_sm": [
-    "North Carolina",
-    "South Carolina",
-    "North Carolina",
-    "South Carolina",
-    "Sea Islands"
+    "Europe"
   ],
   "dct_temporal_sm": [
     "1820"
   ],
-  "georss_box_s": "33.752878 -84.3218689 36.5880363 -75.4001189",
-  "georss_polygon_s": "36.5880363 -84.3218689 36.5880363 -75.4001189 33.752878 -75.4001189 33.752878 -84.3218689 36.5880363 -84.3218689",
-  "solr_geom": "ENVELOPE(-84.3218689, -75.4001189, 36.5880363, 33.752878)",
+  "georss_box_s": "34.78 -9.93 71.07 51.48",
+  "solr_geom": "ENVELOPE(-9.93, 51.48, 71.07, 34.78)",
   "solr_year_i": "1820"
 }
