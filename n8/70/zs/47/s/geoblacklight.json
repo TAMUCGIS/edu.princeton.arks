@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/n870zs47s",
-  "dc_creator_sm": [
-    "Vermeule, Cornelius Clarkson"
-  ],
   "dc_description_s": "A scanned New Jersey Geological Survey Atlas Sheet shown at a scale of 1:250,000.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "n870zs47s",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New Jersey. Department of Conservation and Economic Development. Division of Planning and Development",
+  "layer_modified_dt": "2015-01-11T17:43:21Z",
+  "solr_geom": "ENVELOPE(-75.6333, -73.8333, 41.3333, 38.8333)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fn8%2F70%2Fzs%2F47%2Fs%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/n870zs47s/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/n870zs47s/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/n870zs47s",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Administrative divisions",
     "Map index",
@@ -17,20 +14,23 @@
     "Political",
     "Boundaries"
   ],
-  "dc_title_s": "County and municipality map of New Jersey : political boundaries revised to June 30, 1956 / Index to topographic maps.",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fn8%2F70%2Fzs%2F47%2Fs%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/n870zs47s/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/n870zs47s/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1963",
+  "dc_creator_sm": [
+    "Vermeule, Cornelius Clarkson"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "n870zs47s",
+  "georss_polygon_s": "41.3333 -75.6333 41.3333 -73.8333 38.8333 -73.8333 38.8333 -75.6333 41.3333 -75.6333",
+  "dc_publisher_s": "New Jersey. Department of Conservation and Economic Development. Division of Planning and Development",
+  "solr_year_i": "1963",
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "dct_issued_s": "1963",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "38.8333 -75.6333 41.3333 -73.8333",
-  "georss_polygon_s": "41.3333 -75.6333 41.3333 -73.8333 38.8333 -73.8333 38.8333 -75.6333 41.3333 -75.6333",
-  "layer_slug_s": "princeton-n870zs47s",
   "layer_id_s": "n870zs47s",
-  "layer_modified_dt": "2015-01-11T17:43:21Z",
+  "georss_box_s": "38.8333 -75.6333 41.3333 -73.8333",
+  "dc_title_s": "County and municipality map of New Jersey : political boundaries revised to June 30, 1956 / Index to topographic maps.",
+  "layer_slug_s": "princeton-n870zs47s",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(-75.6333, -73.8333, 41.3333, 38.8333)",
-  "solr_year_i": "1963"
+  "dc_language_s": "English"
 }

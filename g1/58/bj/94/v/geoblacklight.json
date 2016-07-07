@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/g158bj94v",
-  "dc_creator_sm": [
-    "Central Intelligence Agency"
-  ],
   "dc_description_s": "This is a map of Cuba at a scale of 1:1,000,000. The map was created by the United States Central Intelligence Agency.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "g158bj94v",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Central Intelligence Agency",
+  "layer_modified_dt": "2015-01-11T17:43:20Z",
+  "solr_geom": "ENVELOPE(-86, -73, 25.5, 17)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fg1%2F58%2Fbj%2F94%2Fv%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/g158bj94v/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/g158bj94v/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/g158bj94v",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
     "Railroads",
     "Airfield",
     "Political and Administrational Boundaries"
   ],
-  "dc_title_s": "Cuba, 1982",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fg1%2F58%2Fbj%2F94%2Fv%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/g158bj94v/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/g158bj94v/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1982",
+  "dc_creator_sm": [
+    "Central Intelligence Agency"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "g158bj94v",
+  "georss_polygon_s": "25.5 -86 25.5 -73 17 -73 17 -86 25.5 -86",
+  "dc_publisher_s": "Central Intelligence Agency",
+  "solr_year_i": "1982",
   "dct_spatial_sm": [
     "Cuba",
     "Caribbean",
     "Havana",
     "Guantanamo Bay"
   ],
-  "dct_issued_s": "1982",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "17 -86 25.5 -73",
-  "georss_polygon_s": "25.5 -86 25.5 -73 17 -73 17 -86 25.5 -86",
-  "layer_slug_s": "princeton-g158bj94v",
   "layer_id_s": "g158bj94v",
-  "layer_modified_dt": "2015-01-11T17:43:20Z",
+  "georss_box_s": "17 -86 25.5 -73",
+  "dc_title_s": "Cuba, 1982",
+  "layer_slug_s": "princeton-g158bj94v",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(-86, -73, 25.5, 17)",
-  "solr_year_i": "1982"
+  "dc_language_s": "English"
 }

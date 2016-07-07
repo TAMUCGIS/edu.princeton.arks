@@ -1,12 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/b5644t09b",
-  "dc_creator_sm": "Studio F.M.B Bologna",
   "dc_description_s": "This is a city map of Bologna, Italy, shown at a 1:13,500 scale. This city map was created by Studio F.M.B Bologna.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "b5644t09b",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Studio F.M.B Bologna",
+  "layer_modified_dt": "2015-01-11T18:24:50Z",
+  "solr_geom": "ENVELOPE(10.9145, 11.0690, 45.4813, 45.3753)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/b5644t09b\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/b5644t09b/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/b5644t09b",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
     "Transportation",
@@ -14,9 +13,14 @@
     "Facilities and Structures",
     "City blocks"
   ],
-  "dc_title_s": "Verona: pianta della citta",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/b5644t09b\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/b5644t09b/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1970",
+  "dc_creator_sm": "Studio F.M.B Bologna",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "b5644t09b",
+  "georss_polygon_s": "45.4813 10.9145 45.4813 11.0690 45.3753 11.0690 45.3753 10.9145 45.4813 10.9145",
+  "dc_publisher_s": "Studio F.M.B Bologna",
+  "solr_year_i": "1970",
   "dct_spatial_sm": [
     "Verona",
     "Italy",
@@ -25,14 +29,10 @@
     "Regione Veneto",
     "Veneto Region"
   ],
-  "dct_issued_s": "1970",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "45.3753 10.9145 45.4813 11.0690",
-  "georss_polygon_s": "45.4813 10.9145 45.4813 11.0690 45.3753 11.0690 45.3753 10.9145 45.4813 10.9145",
-  "layer_slug_s": "princeton-b5644t09b",
   "layer_id_s": "b5644t09b",
-  "layer_modified_dt": "2015-01-11T18:24:50Z",
+  "georss_box_s": "45.3753 10.9145 45.4813 11.0690",
+  "dc_title_s": "Verona: pianta della citta",
+  "layer_slug_s": "princeton-b5644t09b",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(10.9145, 11.0690, 45.4813, 45.3753)",
-  "solr_year_i": "1970"
+  "dc_language_s": "English"
 }

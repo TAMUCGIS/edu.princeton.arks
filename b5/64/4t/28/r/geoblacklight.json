@@ -1,21 +1,25 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/b5644t28r",
-  "dc_creator_sm": "Survey of India",
   "dc_description_s": "This is a map of the city of Hyderabad, India, shown at a 1:20,000 or 5 cm to 1 km / 3 in. to 1 mile scale. The map was created by the government-sponsored Survey of India.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "b5644t28r",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Survey of India",
+  "layer_modified_dt": "2015-01-11T18:25:20Z",
+  "solr_geom": "ENVELOPE(78.4333, 78.5500, 17.4167, 17.3500)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/b5644t28r\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/b5644t28r/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/b5644t28r",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "City plan",
     "Topography",
     "Transportation",
     "structure"
   ],
-  "dc_title_s": "Hyderabad guide map.",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/b5644t28r\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/b5644t28r/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1970",
+  "dc_creator_sm": "Survey of India",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "b5644t28r",
+  "georss_polygon_s": "17.4167 78.4333 17.4167 78.5500 17.3500 78.5500 17.3500 78.4333 17.4167 78.4333",
+  "dc_publisher_s": "Survey of India",
+  "solr_year_i": "1970",
   "dct_spatial_sm": [
     "Hyderabad",
     "Bhaganagar",
@@ -24,14 +28,10 @@
     "India",
     "MAX  G7654.H98C2.1970S9I5"
   ],
-  "dct_issued_s": "1970",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "17.3500 78.4333 17.4167 78.5500",
-  "georss_polygon_s": "17.4167 78.4333 17.4167 78.5500 17.3500 78.5500 17.3500 78.4333 17.4167 78.4333",
-  "layer_slug_s": "princeton-b5644t28r",
   "layer_id_s": "b5644t28r",
-  "layer_modified_dt": "2015-01-11T18:25:20Z",
+  "georss_box_s": "17.3500 78.4333 17.4167 78.5500",
+  "dc_title_s": "Hyderabad guide map.",
+  "layer_slug_s": "princeton-b5644t28r",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(78.4333, 78.5500, 17.4167, 17.3500)",
-  "solr_year_i": "1970"
+  "dc_language_s": "English"
 }

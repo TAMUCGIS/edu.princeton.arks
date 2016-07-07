@@ -1,12 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/zg64tn52j",
-  "dc_creator_sm": "VEB Bibliographisches Institut",
   "dc_description_s": "This is a city map of Zittau, Germany, shown at a 1:30,000 scale. This city map was created by VEB Bibliographisches Institut.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "zg64tn52j",
-  "dc_language_s": "English",
-  "dc_publisher_s": "VEB Bibliographisches Institut",
+  "layer_modified_dt": "2015-01-11T18:24:56Z",
+  "solr_geom": "ENVELOPE(14.7552, 14.8575, 50.9290, 50.8219)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/zg64tn52j\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/zg64tn52j/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/zg64tn52j",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
     "Transportation",
@@ -15,22 +14,23 @@
     "City blocks",
     "Relief"
   ],
-  "dc_title_s": "Zittau und Umgebung",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/zg64tn52j\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/zg64tn52j/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1953",
+  "dc_creator_sm": "VEB Bibliographisches Institut",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "zg64tn52j",
+  "georss_polygon_s": "50.9290 14.7552 50.9290 14.8575 50.8219 14.8575 50.8219 14.7552 50.9290 14.7552",
+  "dc_publisher_s": "VEB Bibliographisches Institut",
+  "solr_year_i": "1953",
   "dct_spatial_sm": [
     "Zittau",
     "Germany",
     "Sachsen Freistaat"
   ],
-  "dct_issued_s": "1953",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "50.8219 14.7552 50.9290 14.8575",
-  "georss_polygon_s": "50.9290 14.7552 50.9290 14.8575 50.8219 14.8575 50.8219 14.7552 50.9290 14.7552",
-  "layer_slug_s": "princeton-zg64tn52j",
   "layer_id_s": "zg64tn52j",
-  "layer_modified_dt": "2015-01-11T18:24:56Z",
+  "georss_box_s": "50.8219 14.7552 50.9290 14.8575",
+  "dc_title_s": "Zittau und Umgebung",
+  "layer_slug_s": "princeton-zg64tn52j",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(14.7552, 14.8575, 50.9290, 50.8219)",
-  "solr_year_i": "1953"
+  "dc_language_s": "English"
 }

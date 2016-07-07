@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/ms35tb37t",
-  "dc_creator_sm": [
-    "United States Geological Survey"
-  ],
   "dc_description_s": "A scanned USGS 1:62500 topographic map.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "ms35tb37t",
-  "dc_language_s": "English",
-  "dc_publisher_s": "United States Geological Survey",
+  "layer_modified_dt": "2015-01-11T17:43:37Z",
+  "solr_geom": "ENVELOPE(-75.0, -74.75, 39.25, 39.0)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fms%2F35%2Ftb%2F37%2Ft%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/ms35tb37t/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/ms35tb37t/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/ms35tb37t",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Topographic map",
     "Contour line",
@@ -17,9 +14,16 @@
     "Geoscientific Information",
     "15 Minute Quadrangle Map"
   ],
-  "dc_title_s": "New Jersey, Dennisville Sheet (1899)",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fms%2F35%2Ftb%2F37%2Ft%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/ms35tb37t/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/ms35tb37t/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1899",
+  "dc_creator_sm": [
+    "United States Geological Survey"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "ms35tb37t",
+  "georss_polygon_s": "39.25 -75.0 39.25 -74.75 39.0 -74.75 39.0 -75.0 39.25 -75.0",
+  "dc_publisher_s": "United States Geological Survey",
+  "solr_year_i": "1899",
   "dct_spatial_sm": [
     "Delaware Bay",
     "Maurice River",
@@ -29,14 +33,10 @@
     "Great Sound",
     "New Jersey"
   ],
-  "dct_issued_s": "1899",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "39.0 -75.0 39.25 -74.75",
-  "georss_polygon_s": "39.25 -75.0 39.25 -74.75 39.0 -74.75 39.0 -75.0 39.25 -75.0",
-  "layer_slug_s": "princeton-ms35tb37t",
   "layer_id_s": "ms35tb37t",
-  "layer_modified_dt": "2015-01-11T17:43:37Z",
+  "georss_box_s": "39.0 -75.0 39.25 -74.75",
+  "dc_title_s": "New Jersey, Dennisville Sheet (1899)",
+  "layer_slug_s": "princeton-ms35tb37t",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(-75.0, -74.75, 39.25, 39.0)",
-  "solr_year_i": "1899"
+  "dc_language_s": "English"
 }

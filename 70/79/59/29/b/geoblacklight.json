@@ -1,12 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/70795929b",
-  "dc_creator_sm": "unknown",
   "dc_description_s": "This is a city map of Valencia, Spain shown at a ca. 1:3,600 scale. This city map was created by an unknown author.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "70795929b",
-  "dc_language_s": "English",
-  "dc_publisher_s": "unknown",
+  "layer_modified_dt": "2015-01-11T18:25:05Z",
+  "solr_geom": "ENVELOPE(-0.5168, -0.2825, 39.5498, 39.3656)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/70795929b\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/70795929b/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/70795929b",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
     "Transportation",
@@ -15,21 +14,22 @@
     "City blocks",
     "Tourist maps"
   ],
-  "dc_title_s": "Valencia",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/70795929b\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/70795929b/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "Unknown",
+  "dc_creator_sm": "unknown",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "70795929b",
+  "georss_polygon_s": "39.5498 -0.5168 39.5498 -0.2825 39.3656 -0.2825 39.3656 -0.5168 39.5498 -0.5168",
+  "dc_publisher_s": "unknown",
   "dct_spatial_sm": [
     "Valencia",
     "Spain",
     "Comunidad Valenciana"
   ],
-  "dct_issued_s": "Unknown",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "39.3656 -0.5168 39.5498 -0.2825",
-  "georss_polygon_s": "39.5498 -0.5168 39.5498 -0.2825 39.3656 -0.2825 39.3656 -0.5168 39.5498 -0.5168",
-  "layer_slug_s": "princeton-70795929b",
   "layer_id_s": "70795929b",
-  "layer_modified_dt": "2015-01-11T18:25:05Z",
+  "georss_box_s": "39.3656 -0.5168 39.5498 -0.2825",
+  "dc_title_s": "Valencia",
+  "layer_slug_s": "princeton-70795929b",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(-0.5168, -0.2825, 39.5498, 39.3656)"
+  "dc_language_s": "English"
 }

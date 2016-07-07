@@ -1,13 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/4f16c4370",
-  "dc_creator_sm": [
-    "All China Marketing Research Co., Ltd."
-  ],
   "dc_description_s": "Township locations in Liaoning Province, China, with 2000 Census data from long form tables L1-L6 (9.5% counts). Includes introductory, employed population, and fertility information.",
-  "dc_format_s": "Shapefile",
-  "dc_identifier_s": "4f16c4370",
-  "dc_language_s": "English",
-  "dc_rights_s": "Public",
+  "layer_modified_dt": "2014-12-19T16:18:36Z",
+  "solr_geom": "ENVELOPE(118.992040, 125.685631, 43.375507, 38.789017)",
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/4f16c4370/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/4f16c4370/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/4f16c4370/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
+  "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/4f16c4370",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "laborers",
     "census",
@@ -53,25 +51,27 @@
     "Society",
     "Economy"
   ],
-  "dc_title_s": "Township map of Liaoning with 2000 Census long form data (L1-L6)",
+  "dc_format_s": "Shapefile",
+  "dct_issued_s": "20050418",
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "dc_creator_sm": [
+    "All China Marketing Research Co., Ltd."
+  ],
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/download/items/4f16c4370/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/4f16c4370/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/4f16c4370/preview.jpg\"}",
+  "dc_identifier_s": "4f16c4370",
+  "georss_polygon_s": "43.375507 118.992040 43.375507 125.685631 38.789017 125.685631 38.789017 118.992040 43.375507 118.992040",
+  "solr_year_i": "2000",
   "dct_spatial_sm": [
     "China",
     "Liaoning",
     "Liaoning Province"
   ],
-  "dct_temporal_sm": [
-    "2000"
-  ],
-  "dct_issued_s": "20050418",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "38.789017 118.992040 43.375507 125.685631",
-  "georss_polygon_s": "43.375507 118.992040 43.375507 125.685631 38.789017 125.685631 38.789017 118.992040 43.375507 118.992040",
-  "layer_slug_s": "princeton-4f16c4370",
   "layer_id_s": "pulmap-restricted:4f16c4370",
-  "layer_modified_dt": "2014-12-19T16:18:36Z",
+  "georss_box_s": "38.789017 118.992040 43.375507 125.685631",
+  "dc_title_s": "Township map of Liaoning with 2000 Census long form data (L1-L6)",
+  "layer_slug_s": "princeton-4f16c4370",
   "layer_geom_type_s": "Point",
-  "solr_geom": "ENVELOPE(118.992040, 125.685631, 43.375507, 38.789017)",
-  "solr_year_i": "2000"
+  "dc_language_s": "English"
 }

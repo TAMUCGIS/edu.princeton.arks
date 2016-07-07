@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/5425kc202",
-  "dc_creator_sm": [
-    "United States. Geological Survey"
-  ],
   "dc_description_s": "This is a scanned historical map of Jamestown Quadrangle in New York shown at a scale of 1:62,500. This map was created by the US Geological Survey.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "5425kc202",
-  "dc_language_s": "English",
-  "dc_publisher_s": "US Geological Survey",
+  "layer_modified_dt": "2015-01-11T17:42:49Z",
+  "solr_geom": "ENVELOPE(-79.25, -79, 42.25, 42)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F54%2F25%2Fkc%2F20%2F2%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/5425kc202/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/5425kc202/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/5425kc202",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "historical maps",
     "Topography",
@@ -16,9 +13,15 @@
     "Boundaries",
     "Administrative and political boundaries"
   ],
-  "dc_title_s": "New York: Jamestown Quadrangle, 1905",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F54%2F25%2Fkc%2F20%2F2%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/5425kc202/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/5425kc202/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "September 1905",
+  "dc_creator_sm": [
+    "United States. Geological Survey"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "5425kc202",
+  "georss_polygon_s": "42.25 -79.25 42.25 -79 42 -79 42 -79.25 42.25 -79.25",
+  "dc_publisher_s": "US Geological Survey",
   "dct_spatial_sm": [
     "Jamestown",
     "Cattaraugus County",
@@ -26,13 +29,10 @@
     "New York",
     "United States"
   ],
-  "dct_issued_s": "September 1905",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "42 -79.25 42.25 -79",
-  "georss_polygon_s": "42.25 -79.25 42.25 -79 42 -79 42 -79.25 42.25 -79.25",
-  "layer_slug_s": "princeton-5425kc202",
   "layer_id_s": "5425kc202",
-  "layer_modified_dt": "2015-01-11T17:42:49Z",
+  "georss_box_s": "42 -79.25 42.25 -79",
+  "dc_title_s": "New York: Jamestown Quadrangle, 1905",
+  "layer_slug_s": "princeton-5425kc202",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(-79.25, -79, 42.25, 42)"
+  "dc_language_s": "English"
 }

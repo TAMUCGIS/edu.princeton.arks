@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/np193b68v",
-  "dc_creator_sm": [
-    "United States. Geological Survey"
-  ],
   "dc_description_s": "This is a scanned historical map of the Craigsville Quadrangle in Virginia shown at a scale of 1:62,500. This map was created by the US Geological Survey.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "np193b68v",
-  "dc_language_s": "English",
-  "dc_publisher_s": "US Geological Survey",
+  "layer_modified_dt": "2015-01-11T17:42:48Z",
+  "solr_geom": "ENVELOPE(-79.5, -79.25, 38.25, 38)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fnp%2F19%2F3b%2F68%2Fv%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/np193b68v/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/np193b68v/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/np193b68v",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "historical maps",
     "Topography",
@@ -16,9 +13,16 @@
     "Boundaries",
     "Administrative and political boundaries"
   ],
-  "dc_title_s": "Virginia: Craigsville Quadrangle [1945] ",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fnp%2F19%2F3b%2F68%2Fv%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/np193b68v/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/np193b68v/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1945",
+  "dc_creator_sm": [
+    "United States. Geological Survey"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "np193b68v",
+  "georss_polygon_s": "38.25 -79.5 38.25 -79.25 38 -79.25 38 -79.5 38.25 -79.5",
+  "dc_publisher_s": "US Geological Survey",
+  "solr_year_i": "1945",
   "dct_spatial_sm": [
     "Craigsville",
     "Augusta County",
@@ -28,14 +32,10 @@
     "Virginia",
     "United States"
   ],
-  "dct_issued_s": "1945",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "38 -79.5 38.25 -79.25",
-  "georss_polygon_s": "38.25 -79.5 38.25 -79.25 38 -79.25 38 -79.5 38.25 -79.5",
-  "layer_slug_s": "princeton-np193b68v",
   "layer_id_s": "np193b68v",
-  "layer_modified_dt": "2015-01-11T17:42:48Z",
+  "georss_box_s": "38 -79.5 38.25 -79.25",
+  "dc_title_s": "Virginia: Craigsville Quadrangle [1945] ",
+  "layer_slug_s": "princeton-np193b68v",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(-79.5, -79.25, 38.25, 38)",
-  "solr_year_i": "1945"
+  "dc_language_s": "English"
 }

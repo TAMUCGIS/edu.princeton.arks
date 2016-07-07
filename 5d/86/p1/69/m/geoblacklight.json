@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/5d86p169m",
-  "dc_creator_sm": [
-    "Great Britain. Inter-service Topographical Department"
-  ],
   "dc_description_s": "This is a map of the city of Kunming, China shown at a 1:25,000 scale. This is a Russian map purchased from East View Cartographic.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "5d86p169m",
-  "dc_language_s": "English",
-  "dc_publisher_s": "East View Cartographic",
+  "layer_modified_dt": "2015-01-11T17:42:42Z",
+  "solr_geom": "ENVELOPE(102.6167, 102.800, 25.1167, 24.9667)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F5d%2F86%2Fp1%2F69%2Fm%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/5d86p169m/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/5d86p169m/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/5d86p169m",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
     "Railroads",
@@ -17,22 +14,25 @@
     "City map",
     "Facilities and Structures"
   ],
-  "dc_title_s": "Kitai provintsiia IUn'nan. Kun'min (G-48-98, 110).",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F5d%2F86%2Fp1%2F69%2Fm%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/5d86p169m/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/5d86p169m/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1975",
+  "dc_creator_sm": [
+    "Great Britain. Inter-service Topographical Department"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "5d86p169m",
+  "georss_polygon_s": "25.1167 102.6167 25.1167 102.800 24.9667 102.800 24.9667 102.6167 25.1167 102.6167",
+  "dc_publisher_s": "East View Cartographic",
+  "solr_year_i": "1975",
   "dct_spatial_sm": [
     "Kunming",
     "Yunnan",
     "China"
   ],
-  "dct_issued_s": "1975",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "24.9667 102.6167 25.1167 102.800",
-  "georss_polygon_s": "25.1167 102.6167 25.1167 102.800 24.9667 102.800 24.9667 102.6167 25.1167 102.6167",
-  "layer_slug_s": "princeton-5d86p169m",
   "layer_id_s": "5d86p169m",
-  "layer_modified_dt": "2015-01-11T17:42:42Z",
+  "georss_box_s": "24.9667 102.6167 25.1167 102.800",
+  "dc_title_s": "Kitai provintsiia IUn'nan. Kun'min (G-48-98, 110).",
+  "layer_slug_s": "princeton-5d86p169m",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(102.6167, 102.800, 25.1167, 24.9667)",
-  "solr_year_i": "1975"
+  "dc_language_s": "English"
 }

@@ -1,11 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/ws859h296",
-  "dc_creator_sm": "DigitalGlobe",
-  "dc_description_s": "QuickBird Image of Mecitözü District of Turkey.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "ws859h296",
-  "dc_language_s": "English",
+  "dc_description_s": "QuickBird Image of Mecit\u00f6z\u00fc District of Turkey.",
+  "layer_modified_dt": "2015-01-11T18:25:01Z",
+  "solr_geom": "ENVELOPE(35.226, 35.325, 40.605, 40.533)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/ws859h296\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/ws859h296/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/ws859h296",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Quickbird image",
     "imageryBaseMapsEarthCover",
@@ -13,22 +13,22 @@
     "Satellite image",
     "avkat"
   ],
-  "dc_title_s": "QuickBird Image of Mecitözü District of Turkey.",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/ws859h296\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/ws859h296/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "2000",
+  "dc_creator_sm": "DigitalGlobe",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "ws859h296",
+  "georss_polygon_s": "40.605 35.226 40.605 35.325 40.533 35.325 40.533 35.226 40.605 35.226",
+  "solr_year_i": "2000",
   "dct_spatial_sm": [
-    "Mecitözü District",
-    "Mecitözü",
+    "Mecit\u00f6z\u00fc District",
+    "Mecit\u00f6z\u00fc",
     "Turkey"
   ],
-  "dct_issued_s": "2000",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "40.533 35.226 40.605 35.325",
-  "georss_polygon_s": "40.605 35.226 40.605 35.325 40.533 35.325 40.533 35.226 40.605 35.226",
-  "layer_slug_s": "princeton-ws859h296",
   "layer_id_s": "ws859h296",
-  "layer_modified_dt": "2015-01-11T18:25:01Z",
+  "georss_box_s": "40.533 35.226 40.605 35.325",
+  "dc_title_s": "QuickBird Image of Mecit\u00f6z\u00fc District of Turkey.",
+  "layer_slug_s": "princeton-ws859h296",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(35.226, 35.325, 40.605, 40.533)",
-  "solr_year_i": "2000"
+  "dc_language_s": "English"
 }

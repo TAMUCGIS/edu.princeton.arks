@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/05741t13n",
-  "dc_creator_sm": [
-    "United States Geological Survey"
-  ],
   "dc_description_s": "A scanned USGS 1:62500 topographic map.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "05741t13n",
-  "dc_language_s": "English",
-  "dc_publisher_s": "United States Geological Survey",
+  "layer_modified_dt": "2015-01-11T17:42:34Z",
+  "solr_geom": "ENVELOPE(-74.5, -74, 41, 40.5)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F05%2F74%2F1t%2F13%2Fn%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/05741t13n/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/05741t13n/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/05741t13n",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Topographic map",
     "Contour line",
@@ -17,9 +14,16 @@
     "Geoscientific Information",
     "15 Minute Quadrangle Map"
   ],
-  "dc_title_s": "New Jersey, Passiac Quadrangle (1913)",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F05%2F74%2F1t%2F13%2Fn%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/05741t13n/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/05741t13n/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1913",
+  "dc_creator_sm": [
+    "United States Geological Survey"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "05741t13n",
+  "georss_polygon_s": "41 -74.5 41 -74 40.5 -74 40.5 -74.5 41 -74.5",
+  "dc_publisher_s": "United States Geological Survey",
+  "solr_year_i": "1913",
   "dct_spatial_sm": [
     "New Jersey",
     "Newark",
@@ -30,14 +34,10 @@
     "Wayne",
     "Hudson County"
   ],
-  "dct_issued_s": "1913",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "40.5 -74.5 41 -74",
-  "georss_polygon_s": "41 -74.5 41 -74 40.5 -74 40.5 -74.5 41 -74.5",
-  "layer_slug_s": "princeton-05741t13n",
   "layer_id_s": "05741t13n",
-  "layer_modified_dt": "2015-01-11T17:42:34Z",
+  "georss_box_s": "40.5 -74.5 41 -74",
+  "dc_title_s": "New Jersey, Passiac Quadrangle (1913)",
+  "layer_slug_s": "princeton-05741t13n",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(-74.5, -74, 41, 40.5)",
-  "solr_year_i": "1913"
+  "dc_language_s": "English"
 }

@@ -1,12 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/g445cf81k",
-  "dc_creator_sm": "Willi Koch and Horst Wille, Produktionsgenossenschaft des grafischen Handwerkes \"Phönix\"",
-  "dc_description_s": "This is a city map of Halberstadt am Harz, Germany, shown at a 1:10,000 scale. This city map was created by Willi Koch and Horst Wille for Produktionsgenossenschaft des grafischen Handwerkes \"Phönix\".",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "g445cf81k",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Produktionsgenossenschaft des grafischen Handwerkes \"Phönix\"",
+  "dc_description_s": "This is a city map of Halberstadt am Harz, Germany, shown at a 1:10,000 scale. This city map was created by Willi Koch and Horst Wille for Produktionsgenossenschaft des grafischen Handwerkes \"Ph\u00f6nix\".",
+  "layer_modified_dt": "2015-01-11T18:25:07Z",
+  "solr_geom": "ENVELOPE(10.9701, 11.1733, 51.9567, 51.8408)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/g445cf81k\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/g445cf81k/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/g445cf81k",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
     "Transportation",
@@ -14,9 +13,14 @@
     "Facilities and Structures",
     "City blocks"
   ],
-  "dc_title_s": "Phönix-Stadtübersichtsplan von Halberstadt am Harz",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/g445cf81k\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/g445cf81k/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1955",
+  "dc_creator_sm": "Willi Koch and Horst Wille, Produktionsgenossenschaft des grafischen Handwerkes \"Ph\u00f6nix\"",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "g445cf81k",
+  "georss_polygon_s": "51.9567 10.9701 51.9567 11.1733 51.8408 11.1733 51.8408 10.9701 51.9567 10.9701",
+  "dc_publisher_s": "Produktionsgenossenschaft des grafischen Handwerkes \"Ph\u00f6nix\"",
+  "solr_year_i": "1955",
   "dct_spatial_sm": [
     "Halberstadt am Harz",
     "Germany",
@@ -27,14 +31,10 @@
     "Federal Republic of Germany",
     "Sachsen-Anhalt Land"
   ],
-  "dct_issued_s": "1955",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "51.8408 10.9701 51.9567 11.1733",
-  "georss_polygon_s": "51.9567 10.9701 51.9567 11.1733 51.8408 11.1733 51.8408 10.9701 51.9567 10.9701",
-  "layer_slug_s": "princeton-g445cf81k",
   "layer_id_s": "g445cf81k",
-  "layer_modified_dt": "2015-01-11T18:25:07Z",
+  "georss_box_s": "51.8408 10.9701 51.9567 11.1733",
+  "dc_title_s": "Ph\u00f6nix-Stadt\u00fcbersichtsplan von Halberstadt am Harz",
+  "layer_slug_s": "princeton-g445cf81k",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(10.9701, 11.1733, 51.9567, 51.8408)",
-  "solr_year_i": "1955"
+  "dc_language_s": "English"
 }

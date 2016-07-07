@@ -1,13 +1,21 @@
 {
+  "layer_modified_dt": "2014-12-19T16:18:34Z",
   "uuid": "http://arks.princeton.edu/ark:/88435/g445cf90j",
+  "dc_description_s": "Polylines representing irrigation networks in Cairo.",
+  "georss_box_s": "29.723748 31.116585 30.150804 31.341328",
+  "layer_slug_s": "princeton-g445cf90j",
+  "dct_spatial_sm": [
+    "Egypt",
+    "Cairo"
+  ],
   "dc_creator_sm": [
     "Globe Telecom"
   ],
-  "dc_description_s": "Polylines representing irrigation networks in Cairo.",
-  "dc_format_s": "Shapefile",
+  "layer_id_s": "pulmap-restricted:g445cf90j",
+  "georss_polygon_s": "30.150804 31.116585 30.150804 31.341328 29.723748 31.341328 29.723748 31.116585 30.150804 31.116585",
+  "dc_type_s": "Dataset",
   "dc_identifier_s": "g445cf90j",
-  "dc_language_s": "English",
-  "dc_rights_s": "Public",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "irrigation",
     "irrigation systems",
@@ -16,20 +24,12 @@
     "line",
     "Utilities and Communication"
   ],
-  "dc_title_s": "Cairo Irrigation Network",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/download/items/g445cf90j/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/g445cf90j/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/g445cf90j/preview.jpg\"}",
-  "dct_spatial_sm": [
-    "Egypt",
-    "Cairo"
-  ],
   "dct_issued_s": "20140706",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "29.723748 31.116585 30.150804 31.341328",
-  "georss_polygon_s": "30.150804 31.116585 30.150804 31.341328 29.723748 31.341328 29.723748 31.116585 30.150804 31.116585",
-  "layer_slug_s": "princeton-g445cf90j",
-  "layer_id_s": "pulmap-restricted:g445cf90j",
-  "layer_modified_dt": "2014-12-19T16:18:34Z",
+  "dc_format_s": "Shapefile",
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/g445cf90j/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/g445cf90j/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/g445cf90j/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
+  "dc_title_s": "Cairo Irrigation Network",
   "layer_geom_type_s": "Line",
-  "solr_geom": "ENVELOPE(31.116585, 31.341328, 30.150804, 29.723748)"
+  "solr_geom": "ENVELOPE(31.116585, 31.341328, 30.150804, 29.723748)",
+  "dc_rights_s": "Restricted",
+  "dc_language_s": "English"
 }

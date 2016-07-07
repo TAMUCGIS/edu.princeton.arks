@@ -1,32 +1,32 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/w3763834k",
-  "dc_creator_sm": [
-    "Depot de la Marine"
-  ],
   "dc_description_s": "This is a map of the island of Madagascar. ",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "w3763834k",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Sanborn Map Company",
+  "layer_modified_dt": "2015-01-11T17:42:58Z",
+  "solr_geom": "ENVELOPE(51.995, 42.582, -10.221, -26.888)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fw3%2F76%2F38%2F34%2Fk%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/w3763834k/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/w3763834k/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/w3763834k",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Imagery, basemaps, and land cover",
     "Historical"
   ],
-  "dc_title_s": "Carte de l’Isle de Madagascar ",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fw3%2F76%2F38%2F34%2Fk%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/w3763834k/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/w3763834k/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1765",
+  "dc_creator_sm": [
+    "Depot de la Marine"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "w3763834k",
+  "georss_polygon_s": "-10.221 51.995 -10.221 42.582 -26.888 42.582 -26.888 51.995 -10.221 51.995",
+  "dc_publisher_s": "Sanborn Map Company",
+  "solr_year_i": "1765",
   "dct_spatial_sm": [
     "Madagascar "
   ],
-  "dct_issued_s": "1765",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "-26.888 51.995 -10.221 42.582",
-  "georss_polygon_s": "-10.221 51.995 -10.221 42.582 -26.888 42.582 -26.888 51.995 -10.221 51.995",
-  "layer_slug_s": "princeton-w3763834k",
   "layer_id_s": "w3763834k",
-  "layer_modified_dt": "2015-01-11T17:42:58Z",
+  "georss_box_s": "-26.888 51.995 -10.221 42.582",
+  "dc_title_s": "Carte de l\u2019Isle de Madagascar ",
+  "layer_slug_s": "princeton-w3763834k",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(51.995, 42.582, -10.221, -26.888)",
-  "solr_year_i": "1765"
+  "dc_language_s": "English"
 }

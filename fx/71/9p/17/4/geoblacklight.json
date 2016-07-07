@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/fx719p174",
-  "dc_creator_sm": [
-    "United States Geological Survey"
-  ],
   "dc_description_s": "A scanned USGS 1:62500 topographic map.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "fx719p174",
-  "dc_language_s": "English",
-  "dc_publisher_s": "United States Geological Survey",
+  "layer_modified_dt": "2015-01-11T17:43:31Z",
+  "solr_geom": "ENVELOPE(-74.50, -74.25, 40.25, 40.00)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ffx%2F71%2F9p%2F17%2F4%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/fx719p174/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/fx719p174/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/fx719p174",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Topographic map",
     "Contour line",
@@ -17,23 +14,26 @@
     "Geoscientific Information",
     "15 Minute Quadrangle Map"
   ],
-  "dc_title_s": "New Jersey, Cassville Quadrangle (1906)",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ffx%2F71%2F9p%2F17%2F4%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/fx719p174/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/fx719p174/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1906",
+  "dc_creator_sm": [
+    "United States Geological Survey"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "fx719p174",
+  "georss_polygon_s": "40.25 -74.50 40.25 -74.25 40.00 -74.25 40.00 -74.50 40.25 -74.50",
+  "dc_publisher_s": "United States Geological Survey",
+  "solr_year_i": "1906",
   "dct_spatial_sm": [
     "Cassville",
     "Jackson",
     "Ocean County",
     "New Jersey"
   ],
-  "dct_issued_s": "1906",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "40.00 -74.50 40.25 -74.25",
-  "georss_polygon_s": "40.25 -74.50 40.25 -74.25 40.00 -74.25 40.00 -74.50 40.25 -74.50",
-  "layer_slug_s": "princeton-fx719p174",
   "layer_id_s": "fx719p174",
-  "layer_modified_dt": "2015-01-11T17:43:31Z",
+  "georss_box_s": "40.00 -74.50 40.25 -74.25",
+  "dc_title_s": "New Jersey, Cassville Quadrangle (1906)",
+  "layer_slug_s": "princeton-fx719p174",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(-74.50, -74.25, 40.25, 40.00)",
-  "solr_year_i": "1906"
+  "dc_language_s": "English"
 }

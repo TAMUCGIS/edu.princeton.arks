@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/1j92g9231",
-  "dc_creator_sm": [
-    "United States Geological Survey"
-  ],
   "dc_description_s": "A scanned USGS 1:62500 topographic map.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "1j92g9231",
-  "dc_language_s": "English",
-  "dc_publisher_s": "United States Geological Survey",
+  "layer_modified_dt": "2015-01-11T17:43:39Z",
+  "solr_geom": "ENVELOPE(-74.25, -74.00, 40.25, 40.00)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F1j%2F92%2Fg9%2F23%2F1%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/1j92g9231/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/1j92g9231/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/1j92g9231",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Topographic map",
     "Contour line",
@@ -17,9 +14,16 @@
     "Geoscientific Information",
     "15 Minute Quadrangle Map"
   ],
-  "dc_title_s": "New Jersey, Asbury Park Sheet (1919)",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F1j%2F92%2Fg9%2F23%2F1%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/1j92g9231/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/1j92g9231/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1919",
+  "dc_creator_sm": [
+    "United States Geological Survey"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "1j92g9231",
+  "georss_polygon_s": "40.25 -74.25 40.25 -74.00 40.00 -74.00 40.00 -74.25 40.25 -74.25",
+  "dc_publisher_s": "United States Geological Survey",
+  "solr_year_i": "1919",
   "dct_spatial_sm": [
     "Ashbury Park",
     "Farmingdale",
@@ -32,14 +36,10 @@
     "Monmouth County",
     "New Jersey"
   ],
-  "dct_issued_s": "1919",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "40.00 -74.25 40.25 -74.00",
-  "georss_polygon_s": "40.25 -74.25 40.25 -74.00 40.00 -74.00 40.00 -74.25 40.25 -74.25",
-  "layer_slug_s": "princeton-1j92g9231",
   "layer_id_s": "1j92g9231",
-  "layer_modified_dt": "2015-01-11T17:43:39Z",
+  "georss_box_s": "40.00 -74.25 40.25 -74.00",
+  "dc_title_s": "New Jersey, Asbury Park Sheet (1919)",
+  "layer_slug_s": "princeton-1j92g9231",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(-74.25, -74.00, 40.25, 40.00)",
-  "solr_year_i": "1919"
+  "dc_language_s": "English"
 }

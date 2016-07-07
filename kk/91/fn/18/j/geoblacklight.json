@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/kk91fn18j",
-  "dc_creator_sm": [
-    "United States Geological Survey"
-  ],
   "dc_description_s": "A scanned USGS 1:24,000 topographic map.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "kk91fn18j",
-  "dc_language_s": "English",
-  "dc_publisher_s": "United States Geological Survey",
+  "layer_modified_dt": "2015-01-11T17:43:15Z",
+  "solr_geom": "ENVELOPE(-74.375, -74.250, 40.625, 40.250)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fkk%2F91%2Ffn%2F18%2Fj%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/kk91fn18j/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/kk91fn18j/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/kk91fn18j",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Topographic map",
     "Contour line",
@@ -16,9 +13,16 @@
     "Roads",
     "Geoscientific Information"
   ],
-  "dc_title_s": "Roselle Quadrangle, New Jersey, 7.5 Minute series (topographic) (1955)",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fkk%2F91%2Ffn%2F18%2Fj%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/kk91fn18j/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/kk91fn18j/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1955",
+  "dc_creator_sm": [
+    "United States Geological Survey"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "kk91fn18j",
+  "georss_polygon_s": "40.625 -74.375 40.625 -74.250 40.250 -74.250 40.250 -74.375 40.625 -74.375",
+  "dc_publisher_s": "United States Geological Survey",
+  "solr_year_i": "1955",
   "dct_spatial_sm": [
     "Roselle",
     "Irvington",
@@ -42,14 +46,10 @@
     "Union County",
     "New Jersey"
   ],
-  "dct_issued_s": "1955",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "40.250 -74.375 40.625 -74.250",
-  "georss_polygon_s": "40.625 -74.375 40.625 -74.250 40.250 -74.250 40.250 -74.375 40.625 -74.375",
-  "layer_slug_s": "princeton-kk91fn18j",
   "layer_id_s": "kk91fn18j",
-  "layer_modified_dt": "2015-01-11T17:43:15Z",
+  "georss_box_s": "40.250 -74.375 40.625 -74.250",
+  "dc_title_s": "Roselle Quadrangle, New Jersey, 7.5 Minute series (topographic) (1955)",
+  "layer_slug_s": "princeton-kk91fn18j",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(-74.375, -74.250, 40.625, 40.250)",
-  "solr_year_i": "1955"
+  "dc_language_s": "English"
 }

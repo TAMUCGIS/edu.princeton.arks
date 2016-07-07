@@ -1,31 +1,31 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/ns0647505",
-  "dc_creator_sm": [
-    "Central Intelligence Agency"
-  ],
   "dc_description_s": "This is a map of Southern Asia, shown at a 1:60,000,000 scale. The map was created by the Central Intelligence Agency.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "ns0647505",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Central Intelligence Agency",
+  "layer_modified_dt": "2015-01-11T17:42:40Z",
+  "solr_geom": "ENVELOPE(33, 157, 57, -30)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fns%2F06%2F47%2F50%2F5%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/ns0647505/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/ns0647505/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/ns0647505",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Administrative and Political Boundaries"
   ],
-  "dc_title_s": "Southern Asia, 1994",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fns%2F06%2F47%2F50%2F5%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/ns0647505/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/ns0647505/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "September 1994",
+  "dc_creator_sm": [
+    "Central Intelligence Agency"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "ns0647505",
+  "georss_polygon_s": "57 33 57 157 -30 157 -30 33 57 33",
+  "dc_publisher_s": "Central Intelligence Agency",
   "dct_spatial_sm": [
     "Southern Asia",
     "Asia"
   ],
-  "dct_issued_s": "September 1994",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "-30 33 57 157",
-  "georss_polygon_s": "57 33 57 157 -30 157 -30 33 57 33",
-  "layer_slug_s": "princeton-ns0647505",
   "layer_id_s": "ns0647505",
-  "layer_modified_dt": "2015-01-11T17:42:40Z",
+  "georss_box_s": "-30 33 57 157",
+  "dc_title_s": "Southern Asia, 1994",
+  "layer_slug_s": "princeton-ns0647505",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(33, 157, 57, -30)"
+  "dc_language_s": "English"
 }

@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/rr171z627",
-  "dc_creator_sm": [
-    "Central Intelligence Agency"
-  ],
   "dc_description_s": "This is a map of the Afghanistan-Pakistan border, shown at a 1:8,400,000 scale. The map was created by the Central Intelligence Agency.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "rr171z627",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Central Intelligence Agency",
+  "layer_modified_dt": "2015-01-11T17:42:29Z",
+  "solr_geom": "ENVELOPE(60, 70, 35, 25)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Frr%2F17%2F1z%2F62%2F7%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/rr171z627/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/rr171z627/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/rr171z627",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
     "Railroads",
@@ -16,21 +13,24 @@
     "Administrative and Political Boundaries",
     "Ethnic Distribution"
   ],
-  "dc_title_s": "Afghanistan-Pakistan Border",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Frr%2F17%2F1z%2F62%2F7%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/rr171z627/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/rr171z627/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "September 1988",
+  "dc_creator_sm": [
+    "Central Intelligence Agency"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "rr171z627",
+  "georss_polygon_s": "35 60 35 70 25 70 25 60 35 60",
+  "dc_publisher_s": "Central Intelligence Agency",
   "dct_spatial_sm": [
     "Afghanistan",
     "Pakistan",
     "Middle East"
   ],
-  "dct_issued_s": "September 1988",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "25 60 35 70",
-  "georss_polygon_s": "35 60 35 70 25 70 25 60 35 60",
-  "layer_slug_s": "princeton-rr171z627",
   "layer_id_s": "rr171z627",
-  "layer_modified_dt": "2015-01-11T17:42:29Z",
+  "georss_box_s": "25 60 35 70",
+  "dc_title_s": "Afghanistan-Pakistan Border",
+  "layer_slug_s": "princeton-rr171z627",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(60, 70, 35, 25)"
+  "dc_language_s": "English"
 }

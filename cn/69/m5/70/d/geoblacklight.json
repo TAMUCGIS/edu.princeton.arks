@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/cn69m570d",
-  "dc_creator_sm": [
-    "New Jersey Geological Survey"
-  ],
   "dc_description_s": "A scanned historical map of New Jersey made to accompany the Annual Report of the State Geologist shown at a scale of 1:316,800.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "cn69m570d",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Geological Survey of New Jersey",
+  "layer_modified_dt": "2015-01-11T17:43:00Z",
+  "solr_geom": "ENVELOPE(-75.5500, -73.8667, 41.3333, 40.1667)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fcn%2F69%2Fm5%2F70%2Fd%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/cn69m570d/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/cn69m570d/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/cn69m570d",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "historical maps",
     "Iron",
@@ -16,20 +13,23 @@
     "Mineral resources",
     "Geoscientific Information"
   ],
-  "dc_title_s": "New Jersey map showing location of the principal iron mines.",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fcn%2F69%2Fm5%2F70%2Fd%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/cn69m570d/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/cn69m570d/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1890",
+  "dc_creator_sm": [
+    "New Jersey Geological Survey"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "cn69m570d",
+  "georss_polygon_s": "41.3333 -75.5500 41.3333 -73.8667 40.1667 -73.8667 40.1667 -75.5500 41.3333 -75.5500",
+  "dc_publisher_s": "Geological Survey of New Jersey",
+  "solr_year_i": "1890",
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "dct_issued_s": "1890",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "40.1667 -75.5500 41.3333 -73.8667",
-  "georss_polygon_s": "41.3333 -75.5500 41.3333 -73.8667 40.1667 -73.8667 40.1667 -75.5500 41.3333 -75.5500",
-  "layer_slug_s": "princeton-cn69m570d",
   "layer_id_s": "cn69m570d",
-  "layer_modified_dt": "2015-01-11T17:43:00Z",
+  "georss_box_s": "40.1667 -75.5500 41.3333 -73.8667",
+  "dc_title_s": "New Jersey map showing location of the principal iron mines.",
+  "layer_slug_s": "princeton-cn69m570d",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(-75.5500, -73.8667, 41.3333, 40.1667)",
-  "solr_year_i": "1890"
+  "dc_language_s": "English"
 }

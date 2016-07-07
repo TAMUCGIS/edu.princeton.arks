@@ -1,13 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/8k71nj732",
-  "dc_creator_sm": [
-    "All China Marketing Research Co., Ltd."
-  ],
   "dc_description_s": "Township locations in Fujian Province, China, with 2000 Census data from long form tables L1-L6 (9.5% counts). Includes introductory, employed population, and fertility information.",
-  "dc_format_s": "Shapefile",
-  "dc_identifier_s": "8k71nj732",
-  "dc_language_s": "English",
-  "dc_rights_s": "Public",
+  "layer_modified_dt": "2014-12-19T16:18:35Z",
+  "solr_geom": "ENVELOPE(115.939881, 120.421280, 28.250688, 23.594932)",
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/8k71nj732/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/8k71nj732/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/8k71nj732/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
+  "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/8k71nj732",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "laborers",
     "census",
@@ -53,25 +51,27 @@
     "Society",
     "Economy"
   ],
-  "dc_title_s": "Township map of Fujian with 2000 Census long form data (L1-L6)",
+  "dc_format_s": "Shapefile",
+  "dct_issued_s": "20050418",
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "dc_creator_sm": [
+    "All China Marketing Research Co., Ltd."
+  ],
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/download/items/8k71nj732/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/8k71nj732/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/8k71nj732/preview.jpg\"}",
+  "dc_identifier_s": "8k71nj732",
+  "georss_polygon_s": "28.250688 115.939881 28.250688 120.421280 23.594932 120.421280 23.594932 115.939881 28.250688 115.939881",
+  "solr_year_i": "2000",
   "dct_spatial_sm": [
     "China",
     "Fujian",
     "Fujian Province"
   ],
-  "dct_temporal_sm": [
-    "2000"
-  ],
-  "dct_issued_s": "20050418",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "23.594932 115.939881 28.250688 120.421280",
-  "georss_polygon_s": "28.250688 115.939881 28.250688 120.421280 23.594932 120.421280 23.594932 115.939881 28.250688 115.939881",
-  "layer_slug_s": "princeton-8k71nj732",
   "layer_id_s": "pulmap-restricted:8k71nj732",
-  "layer_modified_dt": "2014-12-19T16:18:35Z",
+  "georss_box_s": "23.594932 115.939881 28.250688 120.421280",
+  "dc_title_s": "Township map of Fujian with 2000 Census long form data (L1-L6)",
+  "layer_slug_s": "princeton-8k71nj732",
   "layer_geom_type_s": "Point",
-  "solr_geom": "ENVELOPE(115.939881, 120.421280, 28.250688, 23.594932)",
-  "solr_year_i": "2000"
+  "dc_language_s": "English"
 }

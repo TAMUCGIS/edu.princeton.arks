@@ -1,12 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/2j62s648t",
-  "dc_creator_sm": "Robert Fargo",
   "dc_description_s": "This shape file contains points indentifying the known oil and gas refineries in Iraq. The location and nature of the refineries was complied from a variety of sources including MapSearch facilities data. The attributes of the refineries are those which were identified in the MapSearch dataset. The majority of the refineries were identified from thematic CIA maps of the Petroleum Infrastructure in Iraq.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "2j62s648t",
-  "dc_language_s": "English",
-  "dc_publisher_s": "ESOC Group",
+  "layer_modified_dt": "2015-01-11T18:24:58Z",
+  "solr_geom": "ENVELOPE(42.347517, 48.005094, 36.511212, 30.512717)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/2j62s648t\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/2j62s648t/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/2j62s648t",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Refineries",
     "Petroleum",
@@ -16,21 +15,22 @@
     "capacity",
     "Facilities and structures"
   ],
-  "dc_title_s": "Iraq Hydrocarbon Refineries",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/2j62s648t\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/2j62s648t/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "2007",
+  "dc_creator_sm": "Robert Fargo",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "2j62s648t",
+  "georss_polygon_s": "36.511212 42.347517 36.511212 48.005094 30.512717 48.005094 30.512717 42.347517 36.511212 42.347517",
+  "dc_publisher_s": "ESOC Group",
+  "solr_year_i": "2007",
   "dct_spatial_sm": [
     "Iraq",
     "Middle East"
   ],
-  "dct_issued_s": "2007",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "30.512717 42.347517 36.511212 48.005094",
-  "georss_polygon_s": "36.511212 42.347517 36.511212 48.005094 30.512717 48.005094 30.512717 42.347517 36.511212 42.347517",
-  "layer_slug_s": "princeton-2j62s648t",
   "layer_id_s": "2j62s648t",
-  "layer_modified_dt": "2015-01-11T18:24:58Z",
+  "georss_box_s": "30.512717 42.347517 36.511212 48.005094",
+  "dc_title_s": "Iraq Hydrocarbon Refineries",
+  "layer_slug_s": "princeton-2j62s648t",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(42.347517, 48.005094, 36.511212, 30.512717)",
-  "solr_year_i": "2007"
+  "dc_language_s": "English"
 }

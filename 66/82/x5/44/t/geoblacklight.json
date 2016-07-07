@@ -1,33 +1,33 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/6682x544t",
-  "dc_creator_sm": [
-    "LeadDog Consulting, LLC"
-  ],
   "dc_description_s": "Beijing Buildings",
-  "dc_format_s": "Shapefile",
-  "dc_identifier_s": "6682x544t",
-  "dc_language_s": "English",
-  "dc_publisher_s": "LeadDog Consulting, LLC",
-  "dc_rights_s": "Public",
+  "layer_modified_dt": "2014-12-19T16:18:36Z",
+  "solr_geom": "ENVELOPE(115.970141, 117.109110, 40.470096, 39.727060)",
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/6682x544t/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/6682x544t/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/6682x544t/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
+  "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/6682x544t",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Facilities and structures",
     "Buildings"
   ],
-  "dc_title_s": "Beijing Buildings",
+  "dc_format_s": "Shapefile",
+  "dct_issued_s": "2006",
+  "dc_creator_sm": [
+    "LeadDog Consulting, LLC"
+  ],
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/download/items/6682x544t/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/6682x544t/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/6682x544t/preview.jpg\"}",
+  "dc_identifier_s": "6682x544t",
+  "georss_polygon_s": "40.470096 115.970141 40.470096 117.109110 39.727060 117.109110 39.727060 115.970141 40.470096 115.970141",
+  "dc_publisher_s": "LeadDog Consulting, LLC",
+  "solr_year_i": "2006",
   "dct_spatial_sm": [
     "China",
     "Beijing"
   ],
-  "dct_issued_s": "2006",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "39.727060 115.970141 40.470096 117.109110",
-  "georss_polygon_s": "40.470096 115.970141 40.470096 117.109110 39.727060 117.109110 39.727060 115.970141 40.470096 115.970141",
-  "layer_slug_s": "princeton-6682x544t",
   "layer_id_s": "pulmap-restricted:6682x544t",
-  "layer_modified_dt": "2014-12-19T16:18:36Z",
+  "georss_box_s": "39.727060 115.970141 40.470096 117.109110",
+  "dc_title_s": "Beijing Buildings",
+  "layer_slug_s": "princeton-6682x544t",
   "layer_geom_type_s": "Point",
-  "solr_geom": "ENVELOPE(115.970141, 117.109110, 40.470096, 39.727060)",
-  "solr_year_i": "2006"
+  "dc_language_s": "English"
 }

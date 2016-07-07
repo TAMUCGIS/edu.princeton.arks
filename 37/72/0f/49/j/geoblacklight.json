@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/37720f49j",
-  "dc_creator_sm": [
-    "National Imagery and Mapping Agency."
-  ],
   "dc_description_s": "This is a map of Iraq, shown at a 1:1,250,000 scale. The map was created for use by Department of Defense by the National Imagery and Mapping Agency.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "37720f49j",
-  "dc_language_s": "English",
-  "dc_publisher_s": "National Imagery and Mapping Agency.",
+  "layer_modified_dt": "2015-01-11T17:43:39Z",
+  "solr_geom": "ENVELOPE(38.9167, 48.4167, 34.1667, 29.0833)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F37%2F72%2F0f%2F49%2Fj%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/37720f49j/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/37720f49j/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/37720f49j",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
     "Railroads",
@@ -19,20 +16,23 @@
     "Facilities and Structures",
     "Oil"
   ],
-  "dc_title_s": "Iraq.",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F37%2F72%2F0f%2F49%2Fj%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/37720f49j/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/37720f49j/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "2003",
+  "dc_creator_sm": [
+    "National Imagery and Mapping Agency."
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "37720f49j",
+  "georss_polygon_s": "34.1667 38.9167 34.1667 48.4167 29.0833 48.4167 29.0833 38.9167 34.1667 38.9167",
+  "dc_publisher_s": "National Imagery and Mapping Agency.",
+  "solr_year_i": "2003",
   "dct_spatial_sm": [
     "Iraq"
   ],
-  "dct_issued_s": "2003",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "29.0833 38.9167 34.1667 48.4167",
-  "georss_polygon_s": "34.1667 38.9167 34.1667 48.4167 29.0833 48.4167 29.0833 38.9167 34.1667 38.9167",
-  "layer_slug_s": "princeton-37720f49j",
   "layer_id_s": "37720f49j",
-  "layer_modified_dt": "2015-01-11T17:43:39Z",
+  "georss_box_s": "29.0833 38.9167 34.1667 48.4167",
+  "dc_title_s": "Iraq.",
+  "layer_slug_s": "princeton-37720f49j",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(38.9167, 48.4167, 34.1667, 29.0833)",
-  "solr_year_i": "2003"
+  "dc_language_s": "English"
 }

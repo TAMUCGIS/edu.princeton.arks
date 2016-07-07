@@ -1,12 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/1r66j2737",
-  "dc_creator_sm": "Valmistanut Helsingin kaulungen kiinteistovirastan kaupunkimittausosasto",
   "dc_description_s": "This is a city map of Helsinki, Finland, shown at a 1:10,000 scale. This city map was created by Valmistanut Helsingin kaulungen kiinteistovirastan kaupunkimittausosasto.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "1r66j2737",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Valmistanut Helsingin kaulungen kiinteistovirastan kaupunkimittausosasto",
+  "layer_modified_dt": "2015-01-11T18:24:55Z",
+  "solr_geom": "ENVELOPE(24.89, 25.03, 60.26, 60.16)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/1r66j2737\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/1r66j2737/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/1r66j2737",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
     "Transportation",
@@ -15,21 +14,22 @@
     "City blocks",
     "Tourist maps"
   ],
-  "dc_title_s": "Helsinki tourist map",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/1r66j2737\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/1r66j2737/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1968",
+  "dc_creator_sm": "Valmistanut Helsingin kaulungen kiinteistovirastan kaupunkimittausosasto",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "1r66j2737",
+  "georss_polygon_s": "60.26 24.89 60.26 25.03 60.16 25.03 60.16 24.89 60.26 24.89",
+  "dc_publisher_s": "Valmistanut Helsingin kaulungen kiinteistovirastan kaupunkimittausosasto",
+  "solr_year_i": "1968",
   "dct_spatial_sm": [
     "Helsinki",
     "Finland"
   ],
-  "dct_issued_s": "1968",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "60.16 24.89 60.26 25.03",
-  "georss_polygon_s": "60.26 24.89 60.26 25.03 60.16 25.03 60.16 24.89 60.26 24.89",
-  "layer_slug_s": "princeton-1r66j2737",
   "layer_id_s": "1r66j2737",
-  "layer_modified_dt": "2015-01-11T18:24:55Z",
+  "georss_box_s": "60.16 24.89 60.26 25.03",
+  "dc_title_s": "Helsinki tourist map",
+  "layer_slug_s": "princeton-1r66j2737",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(24.89, 25.03, 60.26, 60.16)",
-  "solr_year_i": "1968"
+  "dc_language_s": "English"
 }

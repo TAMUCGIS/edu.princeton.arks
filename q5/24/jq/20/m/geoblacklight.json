@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/q524jq20m",
-  "dc_creator_sm": [
-    "Lewis, H. G."
-  ],
   "dc_description_s": "A scanned historical map shown at a scale of 1:00062500.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "q524jq20m",
-  "dc_language_s": "English",
-  "dc_publisher_s": "U.S. Department of Agriculture. Bureau of Chemistry and Soils",
+  "layer_modified_dt": "2015-01-11T17:42:32Z",
+  "solr_geom": "ENVELOPE(-75.8667, -74.600, 45.0333, 44.1333)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fq5%2F24%2Fjq%2F20%2Fm%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/q524jq20m/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/q524jq20m/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/q524jq20m",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "historical maps",
     "Topography",
@@ -17,20 +14,23 @@
     "Administrative and political boundaries",
     "Soil map"
   ],
-  "dc_title_s": "Soil map of New Jersey. Sussex Area. ",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fq5%2F24%2Fjq%2F20%2Fm%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/q524jq20m/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/q524jq20m/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1925",
+  "dc_creator_sm": [
+    "Lewis, H. G."
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "q524jq20m",
+  "georss_polygon_s": "45.0333 -75.8667 45.0333 -74.600 44.1333 -74.600 44.1333 -75.8667 45.0333 -75.8667",
+  "dc_publisher_s": "U.S. Department of Agriculture. Bureau of Chemistry and Soils",
+  "solr_year_i": "1925",
   "dct_spatial_sm": [
     "New York"
   ],
-  "dct_issued_s": "1925",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "44.1333 -75.8667 45.0333 -74.600",
-  "georss_polygon_s": "45.0333 -75.8667 45.0333 -74.600 44.1333 -74.600 44.1333 -75.8667 45.0333 -75.8667",
-  "layer_slug_s": "princeton-q524jq20m",
   "layer_id_s": "q524jq20m",
-  "layer_modified_dt": "2015-01-11T17:42:32Z",
+  "georss_box_s": "44.1333 -75.8667 45.0333 -74.600",
+  "dc_title_s": "Soil map of New Jersey. Sussex Area. ",
+  "layer_slug_s": "princeton-q524jq20m",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(-75.8667, -74.600, 45.0333, 44.1333)",
-  "solr_year_i": "1925"
+  "dc_language_s": "English"
 }

@@ -1,12 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/xs55md47m",
-  "dc_creator_sm": "Centro Atracciones y Turismo",
   "dc_description_s": "This is a city map of San Sebastian, Spain shown at a 1:7,700 scale. This city map was created by \tCentro Atracciones y Turismo.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "xs55md47m",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Centro Atracciones y Turismo",
+  "layer_modified_dt": "2015-01-11T18:24:31Z",
+  "solr_geom": "ENVELOPE(-2.0432, -1.8445, 43.3839, 43.249)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/xs55md47m\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/xs55md47m/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/xs55md47m",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
     "Transportation",
@@ -15,22 +14,23 @@
     "City blocks",
     "Tourist maps"
   ],
-  "dc_title_s": "Plano de San Sebastian",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/xs55md47m\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/xs55md47m/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "Unknown",
+  "dc_creator_sm": "Centro Atracciones y Turismo",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "xs55md47m",
+  "georss_polygon_s": "43.3839 -2.0432 43.3839 -1.8445 43.249 -1.8445 43.249 -2.0432 43.3839 -2.0432",
+  "dc_publisher_s": "Centro Atracciones y Turismo",
   "dct_spatial_sm": [
     "San Sebastian",
     "Spain",
     "Comunidad Autonoma del Pais Vasco",
     "Euskadi"
   ],
-  "dct_issued_s": "Unknown",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "43.249 -2.0432 43.3839 -1.8445",
-  "georss_polygon_s": "43.3839 -2.0432 43.3839 -1.8445 43.249 -1.8445 43.249 -2.0432 43.3839 -2.0432",
-  "layer_slug_s": "princeton-xs55md47m",
   "layer_id_s": "xs55md47m",
-  "layer_modified_dt": "2015-01-11T18:24:31Z",
+  "georss_box_s": "43.249 -2.0432 43.3839 -1.8445",
+  "dc_title_s": "Plano de San Sebastian",
+  "layer_slug_s": "princeton-xs55md47m",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(-2.0432, -1.8445, 43.3839, 43.249)"
+  "dc_language_s": "English"
 }

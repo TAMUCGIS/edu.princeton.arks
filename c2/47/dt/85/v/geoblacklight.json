@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/c247dt85v",
-  "dc_creator_sm": [
-    "United States Geological Survey"
-  ],
   "dc_description_s": "A scanned USGS 1:24,000 topographic map.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "c247dt85v",
-  "dc_language_s": "English",
-  "dc_publisher_s": "United States Geological Survey",
+  "layer_modified_dt": "2015-01-11T17:43:39Z",
+  "solr_geom": "ENVELOPE(-74.75, -74.625, 40.375, 40.25)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fc2%2F47%2Fdt%2F85%2Fv%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/c247dt85v/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/c247dt85v/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/c247dt85v",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Topographic map",
     "Contour line",
@@ -16,9 +13,16 @@
     "Roads",
     "Geoscientific Information"
   ],
-  "dc_title_s": "Princeton Quadrangle, New Jersey, 7.5 minute series (topographic) (photorevised 1981) ",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fc2%2F47%2Fdt%2F85%2Fv%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/c247dt85v/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/c247dt85v/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1981",
+  "dc_creator_sm": [
+    "United States Geological Survey"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "c247dt85v",
+  "georss_polygon_s": "40.375 -74.75 40.375 -74.625 40.25 -74.625 40.25 -74.75 40.375 -74.75",
+  "dc_publisher_s": "United States Geological Survey",
+  "solr_year_i": "1981",
   "dct_spatial_sm": [
     "Princeton",
     "Hopewell",
@@ -27,14 +31,10 @@
     "Mercer County",
     "Ewing"
   ],
-  "dct_issued_s": "1981",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "40.25 -74.75 40.375 -74.625",
-  "georss_polygon_s": "40.375 -74.75 40.375 -74.625 40.25 -74.625 40.25 -74.75 40.375 -74.75",
-  "layer_slug_s": "princeton-c247dt85v",
   "layer_id_s": "c247dt85v",
-  "layer_modified_dt": "2015-01-11T17:43:39Z",
+  "georss_box_s": "40.25 -74.75 40.375 -74.625",
+  "dc_title_s": "Princeton Quadrangle, New Jersey, 7.5 minute series (topographic) (photorevised 1981) ",
+  "layer_slug_s": "princeton-c247dt85v",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(-74.75, -74.625, 40.375, 40.25)",
-  "solr_year_i": "1981"
+  "dc_language_s": "English"
 }

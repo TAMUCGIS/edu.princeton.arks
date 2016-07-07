@@ -1,33 +1,33 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/zc77sr69r",
-  "dc_creator_sm": [
-    "LeadDog Consulting, LLC"
-  ],
   "dc_description_s": "Shanghai hotels",
-  "dc_format_s": "Shapefile",
-  "dc_identifier_s": "zc77sr69r",
-  "dc_language_s": "English",
-  "dc_publisher_s": "LeadDog Consulting, LLC",
-  "dc_rights_s": "Public",
+  "layer_modified_dt": "2014-12-19T16:18:31Z",
+  "solr_geom": "ENVELOPE(121.012017, 121.896742, 31.627964, 30.717437)",
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/zc77sr69r/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/zc77sr69r/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/zc77sr69r/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
+  "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/zc77sr69r",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Business and economy",
     "Hotels"
   ],
-  "dc_title_s": "Shanghai hotels",
+  "dc_format_s": "Shapefile",
+  "dct_issued_s": "2006",
+  "dc_creator_sm": [
+    "LeadDog Consulting, LLC"
+  ],
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/download/items/zc77sr69r/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/zc77sr69r/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/zc77sr69r/preview.jpg\"}",
+  "dc_identifier_s": "zc77sr69r",
+  "georss_polygon_s": "31.627964 121.012017 31.627964 121.896742 30.717437 121.896742 30.717437 121.012017 31.627964 121.012017",
+  "dc_publisher_s": "LeadDog Consulting, LLC",
+  "solr_year_i": "2006",
   "dct_spatial_sm": [
     "Shanghai",
     "China"
   ],
-  "dct_issued_s": "2006",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "30.717437 121.012017 31.627964 121.896742",
-  "georss_polygon_s": "31.627964 121.012017 31.627964 121.896742 30.717437 121.896742 30.717437 121.012017 31.627964 121.012017",
-  "layer_slug_s": "princeton-zc77sr69r",
   "layer_id_s": "pulmap-restricted:zc77sr69r",
-  "layer_modified_dt": "2014-12-19T16:18:31Z",
+  "georss_box_s": "30.717437 121.012017 31.627964 121.896742",
+  "dc_title_s": "Shanghai hotels",
+  "layer_slug_s": "princeton-zc77sr69r",
   "layer_geom_type_s": "Point",
-  "solr_geom": "ENVELOPE(121.012017, 121.896742, 31.627964, 30.717437)",
-  "solr_year_i": "2006"
+  "dc_language_s": "English"
 }

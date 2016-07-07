@@ -1,35 +1,35 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/qb98mg89f",
-  "dc_creator_sm": [
-    "Princeton University Press"
-  ],
   "dc_description_s": "This a visitors guide/map of the town of Princeton, as well as the campus of Princeton Universtiy.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "qb98mg89f",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Princeton University Press",
+  "layer_modified_dt": "2015-01-11T17:42:30Z",
+  "solr_geom": "ENVELOPE(-74.939246, -74.482460, 40.424427, 40.135958)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fqb%2F98%2Fmg%2F89%2Ff%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/qb98mg89f/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/qb98mg89f/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/qb98mg89f",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Princeton University",
     "Streets",
     "Visitor guide",
     "Campus"
   ],
-  "dc_title_s": "The campus of Princeton University from the northeast. (Back Side) (1952) ",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fqb%2F98%2Fmg%2F89%2Ff%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/qb98mg89f/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/qb98mg89f/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1952",
+  "dc_creator_sm": [
+    "Princeton University Press"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "qb98mg89f",
+  "georss_polygon_s": "40.424427 -74.939246 40.424427 -74.482460 40.135958 -74.482460 40.135958 -74.939246 40.424427 -74.939246",
+  "dc_publisher_s": "Princeton University Press",
+  "solr_year_i": "1952",
   "dct_spatial_sm": [
     "Princeton",
     "Mercer county"
   ],
-  "dct_issued_s": "1952",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "40.135958 -74.939246 40.424427 -74.482460",
-  "georss_polygon_s": "40.424427 -74.939246 40.424427 -74.482460 40.135958 -74.482460 40.135958 -74.939246 40.424427 -74.939246",
-  "layer_slug_s": "princeton-qb98mg89f",
   "layer_id_s": "qb98mg89f",
-  "layer_modified_dt": "2015-01-11T17:42:30Z",
+  "georss_box_s": "40.135958 -74.939246 40.424427 -74.482460",
+  "dc_title_s": "The campus of Princeton University from the northeast. (Back Side) (1952) ",
+  "layer_slug_s": "princeton-qb98mg89f",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(-74.939246, -74.482460, 40.424427, 40.135958)",
-  "solr_year_i": "1952"
+  "dc_language_s": "English"
 }

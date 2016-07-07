@@ -1,36 +1,36 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/pk02cc27q",
-  "dc_creator_sm": [
-    "GfK MACON"
-  ],
   "dc_description_s": "This data includes Cyprus major cities created by GfK MACON company, Germany.",
-  "dc_format_s": "Shapefile",
-  "dc_identifier_s": "pk02cc27q",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Gfk MACON Company",
-  "dc_rights_s": "Public",
+  "layer_modified_dt": "2014-12-19T16:18:33Z",
+  "solr_geom": "ENVELOPE(32.369601, 34.393219, 35.597550, 34.681270)",
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/pk02cc27q/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/pk02cc27q/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/pk02cc27q/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
+  "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/pk02cc27q",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Cities",
     "Location",
     "Major Cities"
   ],
-  "dc_title_s": "Cyprus Major Cities, 2005",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/download/items/pk02cc27q/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/pk02cc27q/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/pk02cc27q/preview.jpg\"}",
-  "dct_spatial_sm": [
-    "Cyprus"
-  ],
+  "dc_format_s": "Shapefile",
+  "dct_issued_s": "2005",
   "dct_temporal_sm": [
     "2006"
   ],
-  "dct_issued_s": "2005",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "34.681270 32.369601 35.597550 34.393219",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_identifier_s": "pk02cc27q",
   "georss_polygon_s": "35.597550 32.369601 35.597550 34.393219 34.681270 34.393219 34.681270 32.369601 35.597550 32.369601",
-  "layer_slug_s": "princeton-pk02cc27q",
+  "dc_publisher_s": "Gfk MACON Company",
+  "solr_year_i": "2006",
+  "dct_spatial_sm": [
+    "Cyprus"
+  ],
   "layer_id_s": "pulmap-restricted:pk02cc27q",
-  "layer_modified_dt": "2014-12-19T16:18:33Z",
+  "georss_box_s": "34.681270 32.369601 35.597550 34.393219",
+  "dc_title_s": "Cyprus Major Cities, 2005",
+  "layer_slug_s": "princeton-pk02cc27q",
   "layer_geom_type_s": "Point",
-  "solr_geom": "ENVELOPE(32.369601, 34.393219, 35.597550, 34.681270)",
-  "solr_year_i": "2006"
+  "dc_language_s": "English"
 }

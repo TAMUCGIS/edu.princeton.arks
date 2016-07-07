@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/sf2686700",
-  "dc_creator_sm": [
-    "Central Intelligence Agency"
-  ],
   "dc_description_s": "This is a map of Africa, shown at a 1:12,500,000 scale. The map was created by the Central Intelligence Agency.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "sf2686700",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Central Intelligence Agency",
+  "layer_modified_dt": "2015-01-11T17:43:09Z",
+  "solr_geom": "ENVELOPE(-96.2701, -50.9513, 27.8075, 2.0158)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fsf%2F26%2F86%2F70%2F0%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/sf2686700/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/sf2686700/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/sf2686700",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
     "Railroads",
@@ -18,20 +15,23 @@
     "Military",
     "Facilities and Structures"
   ],
-  "dc_title_s": "Central America and the Caribbean 2002",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fsf%2F26%2F86%2F70%2F0%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/sf2686700/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/sf2686700/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "June 2002",
+  "dc_creator_sm": [
+    "Central Intelligence Agency"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "sf2686700",
+  "georss_polygon_s": "27.8075 -96.2701 27.8075 -50.9513 2.0158 -50.9513 2.0158 -96.2701 27.8075 -96.2701",
+  "dc_publisher_s": "Central Intelligence Agency",
   "dct_spatial_sm": [
     "Central America ",
     "Caribbean"
   ],
-  "dct_issued_s": "June 2002",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "2.0158 -96.2701 27.8075 -50.9513",
-  "georss_polygon_s": "27.8075 -96.2701 27.8075 -50.9513 2.0158 -50.9513 2.0158 -96.2701 27.8075 -96.2701",
-  "layer_slug_s": "princeton-sf2686700",
   "layer_id_s": "sf2686700",
-  "layer_modified_dt": "2015-01-11T17:43:09Z",
+  "georss_box_s": "2.0158 -96.2701 27.8075 -50.9513",
+  "dc_title_s": "Central America and the Caribbean 2002",
+  "layer_slug_s": "princeton-sf2686700",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(-96.2701, -50.9513, 27.8075, 2.0158)"
+  "dc_language_s": "English"
 }

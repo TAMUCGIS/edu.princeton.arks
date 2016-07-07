@@ -1,12 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/c247dt74x",
-  "dc_creator_sm": "United States Defense Mapping Agency, Hydrographic/Topographic Center",
   "dc_description_s": "This is a city map of Kalemie, Zaire, shown at a 1:12,500 scale. This city map was created by the United States Defense Mapping Agency, Hydrographic/Topographic Center.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "c247dt74x",
-  "dc_language_s": "English",
-  "dc_publisher_s": "United States Defense Mapping Agency, Hydrographic/Topographic Center",
+  "layer_modified_dt": "2015-01-11T18:25:05Z",
+  "solr_geom": "ENVELOPE(29.1686, 29.2405, -5.8769, -5.9647)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/c247dt74x\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/c247dt74x/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/c247dt74x",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
     "Transportation",
@@ -15,9 +14,14 @@
     "City blocks",
     "Topography"
   ],
-  "dc_title_s": "Zaire city graphic 1:12,500. Kalemie. Series Z901",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/c247dt74x\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/c247dt74x/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1980",
+  "dc_creator_sm": "United States Defense Mapping Agency, Hydrographic/Topographic Center",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "c247dt74x",
+  "georss_polygon_s": "-5.8769 29.1686 -5.8769 29.2405 -5.9647 29.2405 -5.9647 29.1686 -5.8769 29.1686",
+  "dc_publisher_s": "United States Defense Mapping Agency, Hydrographic/Topographic Center",
+  "solr_year_i": "1980",
   "dct_spatial_sm": [
     "Kalemie",
     "Zaire",
@@ -26,14 +30,10 @@
     "Province du Katanga",
     "Africa"
   ],
-  "dct_issued_s": "1980",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "-5.9647 29.1686 -5.8769 29.2405",
-  "georss_polygon_s": "-5.8769 29.1686 -5.8769 29.2405 -5.9647 29.2405 -5.9647 29.1686 -5.8769 29.1686",
-  "layer_slug_s": "princeton-c247dt74x",
   "layer_id_s": "c247dt74x",
-  "layer_modified_dt": "2015-01-11T18:25:05Z",
+  "georss_box_s": "-5.9647 29.1686 -5.8769 29.2405",
+  "dc_title_s": "Zaire city graphic 1:12,500. Kalemie. Series Z901",
+  "layer_slug_s": "princeton-c247dt74x",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(29.1686, 29.2405, -5.8769, -5.9647)",
-  "solr_year_i": "1980"
+  "dc_language_s": "English"
 }

@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/3j333380k",
-  "dc_creator_sm": [
-    "Army Map Service"
-  ],
   "dc_description_s": "This is a map of the city of El Ferrol, Spain, shown at a 1:10,000 scale. The map was created for use by War and Navy Department agencies during World War II.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "3j333380k",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Army Map Service",
+  "layer_modified_dt": "2015-01-11T17:42:57Z",
+  "solr_geom": "ENVELOPE(-8.2667, -8.1833, 43.500, 43.4500)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F3j%2F33%2F33%2F80%2Fk%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/3j333380k/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/3j333380k/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/3j333380k",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
     "Railroads",
@@ -19,9 +16,16 @@
     "Military",
     "Facilities and Structures"
   ],
-  "dc_title_s": "Spain 1:10,000. El Ferrol city plan. A.M.S. M981.",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F3j%2F33%2F33%2F80%2Fk%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/3j333380k/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/3j333380k/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1943",
+  "dc_creator_sm": [
+    "Army Map Service"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "3j333380k",
+  "georss_polygon_s": "43.500 -8.2667 43.500 -8.1833 43.4500 -8.1833 43.4500 -8.2667 43.500 -8.2667",
+  "dc_publisher_s": "Army Map Service",
+  "solr_year_i": "1943",
   "dct_spatial_sm": [
     "El Ferrol",
     "La Coruna",
@@ -29,14 +33,10 @@
     "El Ferrol del Caudillo",
     "Spain"
   ],
-  "dct_issued_s": "1943",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "43.4500 -8.2667 43.500 -8.1833",
-  "georss_polygon_s": "43.500 -8.2667 43.500 -8.1833 43.4500 -8.1833 43.4500 -8.2667 43.500 -8.2667",
-  "layer_slug_s": "princeton-3j333380k",
   "layer_id_s": "3j333380k",
-  "layer_modified_dt": "2015-01-11T17:42:57Z",
+  "georss_box_s": "43.4500 -8.2667 43.500 -8.1833",
+  "dc_title_s": "Spain 1:10,000. El Ferrol city plan. A.M.S. M981.",
+  "layer_slug_s": "princeton-3j333380k",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(-8.2667, -8.1833, 43.500, 43.4500)",
-  "solr_year_i": "1943"
+  "dc_language_s": "English"
 }

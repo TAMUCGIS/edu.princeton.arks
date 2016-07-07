@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/qn59q5663",
-  "dc_creator_sm": [
-    "Geological Survey of New Jersey"
-  ],
   "dc_description_s": "The historical New Jersey Geological Survey Atlas Sheets were scanned and georeferenced using ArcView 3.2a Image Analysis extension and ERDAS IMAGINE software packages. The georeferenced atlas sheets are in the New Jersey State Plane Coordinate System, NAD83.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "qn59q5663",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Geological Survey of New Jersey",
+  "layer_modified_dt": "2015-01-11T17:43:23Z",
+  "solr_geom": "ENVELOPE(-75.587306, -73.890363, 41.357564, 38.924819)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fqn%2F59%2Fq5%2F66%2F3%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/qn59q5663/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/qn59q5663/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/qn59q5663",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "historical maps",
     "maps",
@@ -21,9 +18,20 @@
     "Administrative and political boundaries",
     "Geoscientific Information"
   ],
-  "dc_title_s": "A Topographical Map of the Vicinity of Trenton, New Brunswick and Bordentown.",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fqn%2F59%2Fq5%2F66%2F3%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/qn59q5663/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/qn59q5663/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1887",
+  "dct_temporal_sm": [
+    "1887",
+    "1887"
+  ],
+  "dc_creator_sm": [
+    "Geological Survey of New Jersey"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "qn59q5663",
+  "georss_polygon_s": "41.357564 -75.587306 41.357564 -73.890363 38.924819 -73.890363 38.924819 -75.587306 41.357564 -75.587306",
+  "dc_publisher_s": "Geological Survey of New Jersey",
+  "solr_year_i": "1887",
   "dct_spatial_sm": [
     "Trenton",
     "Mercer",
@@ -34,18 +42,10 @@
     "Burlington",
     "New Jersey"
   ],
-  "dct_temporal_sm": [
-    "1887",
-    "1887"
-  ],
-  "dct_issued_s": "1887",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "38.924819 -75.587306 41.357564 -73.890363",
-  "georss_polygon_s": "41.357564 -75.587306 41.357564 -73.890363 38.924819 -73.890363 38.924819 -75.587306 41.357564 -75.587306",
-  "layer_slug_s": "princeton-qn59q5663",
   "layer_id_s": "qn59q5663",
-  "layer_modified_dt": "2015-01-11T17:43:23Z",
+  "georss_box_s": "38.924819 -75.587306 41.357564 -73.890363",
+  "dc_title_s": "A Topographical Map of the Vicinity of Trenton, New Brunswick and Bordentown.",
+  "layer_slug_s": "princeton-qn59q5663",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(-75.587306, -73.890363, 41.357564, 38.924819)",
-  "solr_year_i": "1887"
+  "dc_language_s": "English"
 }

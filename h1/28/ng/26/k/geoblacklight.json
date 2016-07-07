@@ -1,12 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/h128ng26k",
-  "dc_creator_sm": "Division du cadastre et de la cartographie",
   "dc_description_s": "This is a city map of Rabat and Sale, Morocco shown at a 1:10,000 scale. This city map was created by the Division du cadastre et de la cartographie.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "h128ng26k",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Division du cadastre et de la cartographie",
+  "layer_modified_dt": "2015-01-11T18:24:52Z",
+  "solr_geom": "ENVELOPE(-6.9485, -6.7141, 34.0962, 33.9006)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/h128ng26k\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/h128ng26k/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/h128ng26k",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
     "Transportation",
@@ -16,22 +15,23 @@
     "Land use",
     "Topography"
   ],
-  "dc_title_s": "Rabat-Sale. [al-Ribāt? wa-Salā]",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/h128ng26k\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/h128ng26k/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1972",
+  "dc_creator_sm": "Division du cadastre et de la cartographie",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "h128ng26k",
+  "georss_polygon_s": "34.0962 -6.9485 34.0962 -6.7141 33.9006 -6.7141 33.9006 -6.9485 34.0962 -6.9485",
+  "dc_publisher_s": "Division du cadastre et de la cartographie",
+  "solr_year_i": "1972",
   "dct_spatial_sm": [
     "Rabat",
     "Morocco",
     "Sale"
   ],
-  "dct_issued_s": "1972",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "33.9006 -6.9485 34.0962 -6.7141",
-  "georss_polygon_s": "34.0962 -6.9485 34.0962 -6.7141 33.9006 -6.7141 33.9006 -6.9485 34.0962 -6.9485",
-  "layer_slug_s": "princeton-h128ng26k",
   "layer_id_s": "h128ng26k",
-  "layer_modified_dt": "2015-01-11T18:24:52Z",
+  "georss_box_s": "33.9006 -6.9485 34.0962 -6.7141",
+  "dc_title_s": "Rabat-Sale. [al-Rib\u0101t? wa-Sal\u0101]",
+  "layer_slug_s": "princeton-h128ng26k",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(-6.9485, -6.7141, 34.0962, 33.9006)",
-  "solr_year_i": "1972"
+  "dc_language_s": "English"
 }

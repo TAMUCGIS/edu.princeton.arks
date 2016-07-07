@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/hx11xg64w",
-  "dc_creator_sm": [
-    "Department of Commerce, Census Bureau, Geography Division"
-  ],
   "dc_description_s": "U.S. 107th Congressional Districts represents political boundaries for the U.S. 107th Congressional Districts.",
-  "dc_format_s": "Shapefile",
-  "dc_identifier_s": "hx11xg64w",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
-  "dc_rights_s": "Public",
+  "layer_modified_dt": "2014-12-19T16:18:34Z",
+  "solr_geom": "ENVELOPE(-179.147340, 179.778470, 71.352561, 17.884813)",
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/hx11xg64w/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/hx11xg64w/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/hx11xg64w/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
+  "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/hx11xg64w",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "polygon",
     "Congressional Districts",
@@ -16,23 +13,26 @@
     "House of Representatives",
     "Society"
   ],
-  "dc_title_s": "U.S. 107th Congressional Districts 2002",
+  "dc_format_s": "Shapefile",
+  "dct_issued_s": "20020401",
+  "dct_temporal_sm": [
+    "2001\u20132003"
+  ],
+  "dc_creator_sm": [
+    "Department of Commerce, Census Bureau, Geography Division"
+  ],
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/download/items/hx11xg64w/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/hx11xg64w/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/hx11xg64w/preview.jpg\"}",
+  "dc_identifier_s": "hx11xg64w",
+  "georss_polygon_s": "71.352561 -179.147340 71.352561 179.778470 17.884813 179.778470 17.884813 -179.147340 71.352561 -179.147340",
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "dct_spatial_sm": [
     "United States",
     "Congressional Districts"
   ],
-  "dct_temporal_sm": [
-    "2001–2003"
-  ],
-  "dct_issued_s": "20020401",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "17.884813 -179.147340 71.352561 179.778470",
-  "georss_polygon_s": "71.352561 -179.147340 71.352561 179.778470 17.884813 179.778470 17.884813 -179.147340 71.352561 -179.147340",
-  "layer_slug_s": "princeton-hx11xg64w",
   "layer_id_s": "pulmap-restricted:hx11xg64w",
-  "layer_modified_dt": "2014-12-19T16:18:34Z",
+  "georss_box_s": "17.884813 -179.147340 71.352561 179.778470",
+  "dc_title_s": "U.S. 107th Congressional Districts 2002",
+  "layer_slug_s": "princeton-hx11xg64w",
   "layer_geom_type_s": "Polygon",
-  "solr_geom": "ENVELOPE(-179.147340, 179.778470, 71.352561, 17.884813)"
+  "dc_language_s": "English"
 }

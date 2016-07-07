@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/6d56zz21g",
-  "dc_creator_sm": [
-    "Geological Survey of New Jersey"
-  ],
   "dc_description_s": "The historical map of New Jersey published originally by the Geological Survey of New Jersey was scanned, georeferenced and reprojected to the New Jersey State Plane Coordinate System, NAD 83 using ERDAS IMAGINE software.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "6d56zz21g",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Geological Survey of New Jersey",
+  "layer_modified_dt": "2015-01-11T17:43:09Z",
+  "solr_geom": "ENVELOPE(-75, -74, 41, 38)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F6d%2F56%2Fzz%2F21%2Fg%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/6d56zz21g/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/6d56zz21g/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/6d56zz21g",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Geological map",
     "Geoscientific Information",
@@ -19,21 +16,24 @@
     "Relief map",
     "Physical map"
   ],
-  "dc_title_s": "New Jersey (Relief Map) ",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F6d%2F56%2Fzz%2F21%2Fg%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/6d56zz21g/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/6d56zz21g/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1888",
+  "dc_creator_sm": [
+    "Geological Survey of New Jersey"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "6d56zz21g",
+  "georss_polygon_s": "41 -75 41 -74 38 -74 38 -75 41 -75",
+  "dc_publisher_s": "Geological Survey of New Jersey",
+  "solr_year_i": "1888",
   "dct_spatial_sm": [
     "New Jersey",
     "New Jersey"
   ],
-  "dct_issued_s": "1888",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "38 -75 41 -74",
-  "georss_polygon_s": "41 -75 41 -74 38 -74 38 -75 41 -75",
-  "layer_slug_s": "princeton-6d56zz21g",
   "layer_id_s": "6d56zz21g",
-  "layer_modified_dt": "2015-01-11T17:43:09Z",
+  "georss_box_s": "38 -75 41 -74",
+  "dc_title_s": "New Jersey (Relief Map) ",
+  "layer_slug_s": "princeton-6d56zz21g",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(-75, -74, 41, 38)",
-  "solr_year_i": "1888"
+  "dc_language_s": "English"
 }

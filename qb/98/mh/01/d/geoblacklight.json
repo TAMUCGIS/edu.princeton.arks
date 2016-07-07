@@ -1,12 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/qb98mh01d",
-  "dc_creator_sm": "American Express Co.",
   "dc_description_s": "This is a city map of Florence, Italy, shown at an unknown scale. This city map was created by American Express Co.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "qb98mh01d",
-  "dc_language_s": "English",
-  "dc_publisher_s": "American Express Co.",
+  "layer_modified_dt": "2015-01-11T18:24:48Z",
+  "solr_geom": "ENVELOPE(11.1544, 11.3292, 43.8251, 43.7274)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/qb98mh01d\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/qb98mh01d/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/qb98mh01d",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
     "Transportation",
@@ -14,23 +13,24 @@
     "Facilities and Structures",
     "City blocks"
   ],
-  "dc_title_s": "Florence monumental map, ex (a visitor's map)",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/qb98mh01d\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/qb98mh01d/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1971",
+  "dc_creator_sm": "American Express Co.",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "qb98mh01d",
+  "georss_polygon_s": "43.8251 11.1544 43.8251 11.3292 43.7274 11.3292 43.7274 11.1544 43.8251 11.1544",
+  "dc_publisher_s": "American Express Co.",
+  "solr_year_i": "1971",
   "dct_spatial_sm": [
     "Florence",
     "Italy",
     "Firenze",
     "Tuscany"
   ],
-  "dct_issued_s": "1971",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "43.7274 11.1544 43.8251 11.3292",
-  "georss_polygon_s": "43.8251 11.1544 43.8251 11.3292 43.7274 11.3292 43.7274 11.1544 43.8251 11.1544",
-  "layer_slug_s": "princeton-qb98mh01d",
   "layer_id_s": "qb98mh01d",
-  "layer_modified_dt": "2015-01-11T18:24:48Z",
+  "georss_box_s": "43.7274 11.1544 43.8251 11.3292",
+  "dc_title_s": "Florence monumental map, ex (a visitor's map)",
+  "layer_slug_s": "princeton-qb98mh01d",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(11.1544, 11.3292, 43.8251, 43.7274)",
-  "solr_year_i": "1971"
+  "dc_language_s": "English"
 }

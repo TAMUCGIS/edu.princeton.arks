@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/6q182m870",
-  "dc_creator_sm": [
-    "All China Marketing Research Co., Ltd."
-  ],
   "dc_description_s": "China major railways.",
-  "dc_format_s": "Shapefile",
-  "dc_identifier_s": "6q182m870",
-  "dc_language_s": "English",
-  "dc_rights_s": "Public",
+  "layer_modified_dt": "2014-12-19T16:18:36Z",
+  "solr_geom": "ENVELOPE(84.708039, 133.122650, 52.969341, 18.222338)",
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/6q182m870/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/6q182m870/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/6q182m870/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
+  "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/6q182m870",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Railways",
     "Transportation",
     "major railways",
     "Railroads"
   ],
-  "dc_title_s": "China Major Railways, 2000",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/download/items/6q182m870/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/6q182m870/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/6q182m870/preview.jpg\"}",
-  "dct_spatial_sm": [
-    "China"
-  ],
+  "dc_format_s": "Shapefile",
+  "dct_issued_s": "2005",
   "dct_temporal_sm": [
     "2005",
     "2000"
   ],
-  "dct_issued_s": "2005",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "18.222338 84.708039 52.969341 133.122650",
+  "dc_creator_sm": [
+    "All China Marketing Research Co., Ltd."
+  ],
+  "dc_type_s": "Dataset",
+  "dc_identifier_s": "6q182m870",
   "georss_polygon_s": "52.969341 84.708039 52.969341 133.122650 18.222338 133.122650 18.222338 84.708039 52.969341 84.708039",
-  "layer_slug_s": "princeton-6q182m870",
+  "solr_year_i": "2005",
+  "dct_spatial_sm": [
+    "China"
+  ],
   "layer_id_s": "pulmap-restricted:6q182m870",
-  "layer_modified_dt": "2014-12-19T16:18:36Z",
+  "georss_box_s": "18.222338 84.708039 52.969341 133.122650",
+  "dc_title_s": "China Major Railways, 2000",
+  "layer_slug_s": "princeton-6q182m870",
   "layer_geom_type_s": "Line",
-  "solr_geom": "ENVELOPE(84.708039, 133.122650, 52.969341, 18.222338)",
-  "solr_year_i": "2005"
+  "dc_language_s": "English"
 }

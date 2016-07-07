@@ -1,13 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/x059c893n",
-  "dc_creator_sm": [
-    "All China Marketing Research Co., Ltd."
-  ],
   "dc_description_s": "Township locations in Shanxi Province, China, with 2000 Census data from long form tables L1-L6 (9.5% counts). Includes introductory, employed population, and fertility information.",
-  "dc_format_s": "Shapefile",
-  "dc_identifier_s": "x059c893n",
-  "dc_language_s": "English",
-  "dc_rights_s": "Public",
+  "layer_modified_dt": "2014-12-19T16:18:31Z",
+  "solr_geom": "ENVELOPE(110.285727, 114.426003, 40.681711, 34.628253)",
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/x059c893n/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/x059c893n/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/x059c893n/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
+  "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/x059c893n",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "laborers",
     "census",
@@ -53,25 +51,27 @@
     "Society",
     "Economy"
   ],
-  "dc_title_s": "Township map of Shanxi with 2000 Census long form data (L1-L6)",
+  "dc_format_s": "Shapefile",
+  "dct_issued_s": "20050418",
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "dc_creator_sm": [
+    "All China Marketing Research Co., Ltd."
+  ],
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/download/items/x059c893n/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/x059c893n/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/x059c893n/preview.jpg\"}",
+  "dc_identifier_s": "x059c893n",
+  "georss_polygon_s": "40.681711 110.285727 40.681711 114.426003 34.628253 114.426003 34.628253 110.285727 40.681711 110.285727",
+  "solr_year_i": "2000",
   "dct_spatial_sm": [
     "China",
     "Shanxi",
     "Shanxi Province"
   ],
-  "dct_temporal_sm": [
-    "2000"
-  ],
-  "dct_issued_s": "20050418",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "34.628253 110.285727 40.681711 114.426003",
-  "georss_polygon_s": "40.681711 110.285727 40.681711 114.426003 34.628253 114.426003 34.628253 110.285727 40.681711 110.285727",
-  "layer_slug_s": "princeton-x059c893n",
   "layer_id_s": "pulmap-restricted:x059c893n",
-  "layer_modified_dt": "2014-12-19T16:18:31Z",
+  "georss_box_s": "34.628253 110.285727 40.681711 114.426003",
+  "dc_title_s": "Township map of Shanxi with 2000 Census long form data (L1-L6)",
+  "layer_slug_s": "princeton-x059c893n",
   "layer_geom_type_s": "Point",
-  "solr_geom": "ENVELOPE(110.285727, 114.426003, 40.681711, 34.628253)",
-  "solr_year_i": "2000"
+  "dc_language_s": "English"
 }

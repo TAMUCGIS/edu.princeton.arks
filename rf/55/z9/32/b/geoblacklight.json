@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/rf55z932b",
-  "dc_creator_sm": [
-    "National Imagery and Mapping Agency"
-  ],
   "dc_description_s": "This is a map of the city of Orasje, Bosnia, shown at a 1:5,000 scale. The map was created for use by Department of Defense by the National Imagery and Mapping Agency.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "rf55z932b",
-  "dc_language_s": "English",
-  "dc_publisher_s": "National Imagery and Mapping Agency",
+  "layer_modified_dt": "2015-01-11T17:43:15Z",
+  "solr_geom": "ENVELOPE(18.6833, 18.7167, 45.0500, 45.0167)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Frf%2F55%2Fz9%2F32%2Fb%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/rf55z932b/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/rf55z932b/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/rf55z932b",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
     "Railroads",
@@ -18,21 +15,24 @@
     "Military",
     "Facilities and Structures"
   ],
-  "dc_title_s": "Bosnia and Herzegovina city graphic 1:5,000. Orasje. Series M903.",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Frf%2F55%2Fz9%2F32%2Fb%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/rf55z932b/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/rf55z932b/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1996",
+  "dc_creator_sm": [
+    "National Imagery and Mapping Agency"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "rf55z932b",
+  "georss_polygon_s": "45.0500 18.6833 45.0500 18.7167 45.0167 18.7167 45.0167 18.6833 45.0500 18.6833",
+  "dc_publisher_s": "National Imagery and Mapping Agency",
+  "solr_year_i": "1996",
   "dct_spatial_sm": [
     "Orasje",
     "Bosnia and Herzegovina"
   ],
-  "dct_issued_s": "1996",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "45.0167 18.6833 45.0500 18.7167",
-  "georss_polygon_s": "45.0500 18.6833 45.0500 18.7167 45.0167 18.7167 45.0167 18.6833 45.0500 18.6833",
-  "layer_slug_s": "princeton-rf55z932b",
   "layer_id_s": "rf55z932b",
-  "layer_modified_dt": "2015-01-11T17:43:15Z",
+  "georss_box_s": "45.0167 18.6833 45.0500 18.7167",
+  "dc_title_s": "Bosnia and Herzegovina city graphic 1:5,000. Orasje. Series M903.",
+  "layer_slug_s": "princeton-rf55z932b",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(18.6833, 18.7167, 45.0500, 45.0167)",
-  "solr_year_i": "1996"
+  "dc_language_s": "English"
 }

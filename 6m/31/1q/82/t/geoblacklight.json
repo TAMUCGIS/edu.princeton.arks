@@ -1,35 +1,35 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/6m311q82t",
-  "dc_creator_sm": [
-    "Princeton University"
-  ],
   "dc_description_s": "This is a map of the grounds of Princeton University. It has been scanned from the Princeton University Catalogue 1898-1899.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "6m311q82t",
-  "dc_language_s": "English",
+  "layer_modified_dt": "2015-01-11T17:42:52Z",
+  "solr_geom": "ENVELOPE(-74.665, -74.6396, 40.3534, 40.3338)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F6m%2F31%2F1q%2F82%2Ft%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/6m311q82t/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/6m311q82t/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/6m311q82t",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Princeton University",
     "Streets",
     "Campus"
   ],
-  "dc_title_s": "Princeton Campus Map 1898-1899",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F6m%2F31%2F1q%2F82%2Ft%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/6m311q82t/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/6m311q82t/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1899",
+  "dc_creator_sm": [
+    "Princeton University"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "6m311q82t",
+  "georss_polygon_s": "40.3534 -74.665 40.3534 -74.6396 40.3338 -74.6396 40.3338 -74.665 40.3534 -74.665",
+  "solr_year_i": "1899",
   "dct_spatial_sm": [
     "Princeton",
     "Mercer County",
     "New Jersey",
     "United States"
   ],
-  "dct_issued_s": "1899",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "40.3338 -74.665 40.3534 -74.6396",
-  "georss_polygon_s": "40.3534 -74.665 40.3534 -74.6396 40.3338 -74.6396 40.3338 -74.665 40.3534 -74.665",
-  "layer_slug_s": "princeton-6m311q82t",
   "layer_id_s": "6m311q82t",
-  "layer_modified_dt": "2015-01-11T17:42:52Z",
+  "georss_box_s": "40.3338 -74.665 40.3534 -74.6396",
+  "dc_title_s": "Princeton Campus Map 1898-1899",
+  "layer_slug_s": "princeton-6m311q82t",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(-74.665, -74.6396, 40.3534, 40.3338)",
-  "solr_year_i": "1899"
+  "dc_language_s": "English"
 }

@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/2b88qd651",
-  "dc_creator_sm": [
-    "Russia (Federation). General'nyi shtab. Voenno-topograficheskoe upravlenie"
-  ],
   "dc_description_s": "This is a map of the city of Lanzhou, China shown at a 1:10,000 scale. This is a Russian map purchased from East View Cartographic.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "2b88qd651",
-  "dc_language_s": "English",
-  "dc_publisher_s": "East View Cartographic",
+  "layer_modified_dt": "2015-01-11T17:42:43Z",
+  "solr_geom": "ENVELOPE(103.6833, 103.9500, 36.1333, 36.0167)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F2b%2F88%2Fqd%2F65%2F1%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/2b88qd651/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/2b88qd651/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/2b88qd651",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
     "Railroads",
@@ -17,9 +14,16 @@
     "City map",
     "Facilities and Structures"
   ],
-  "dc_title_s": "Kitai provintsiia Gan'su. Lan'chzhou (J-48-136). Sheet 1",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F2b%2F88%2Fqd%2F65%2F1%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/2b88qd651/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/2b88qd651/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1974",
+  "dc_creator_sm": [
+    "Russia (Federation). General'nyi shtab. Voenno-topograficheskoe upravlenie"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "2b88qd651",
+  "georss_polygon_s": "36.1333 103.6833 36.1333 103.9500 36.0167 103.9500 36.0167 103.6833 36.1333 103.6833",
+  "dc_publisher_s": "East View Cartographic",
+  "solr_year_i": "1974",
   "dct_spatial_sm": [
     "Lanzhou",
     "Lanzhou Shi",
@@ -29,14 +33,10 @@
     "Gansu Sheng",
     "China"
   ],
-  "dct_issued_s": "1974",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "36.0167 103.6833 36.1333 103.9500",
-  "georss_polygon_s": "36.1333 103.6833 36.1333 103.9500 36.0167 103.9500 36.0167 103.6833 36.1333 103.6833",
-  "layer_slug_s": "princeton-2b88qd651",
   "layer_id_s": "2b88qd651",
-  "layer_modified_dt": "2015-01-11T17:42:43Z",
+  "georss_box_s": "36.0167 103.6833 36.1333 103.9500",
+  "dc_title_s": "Kitai provintsiia Gan'su. Lan'chzhou (J-48-136). Sheet 1",
+  "layer_slug_s": "princeton-2b88qd651",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(103.6833, 103.9500, 36.1333, 36.0167)",
-  "solr_year_i": "1974"
+  "dc_language_s": "English"
 }

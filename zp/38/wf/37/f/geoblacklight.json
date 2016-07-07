@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/zp38wf37f",
-  "dc_creator_sm": [
-    "Geological Survey of New Jersey"
-  ],
   "dc_description_s": "The historical map of New Jersey published originally by the Geological Survey of New Jersey was scanned, georeferenced and reprojected to the New Jersey State Plane Coordinate System, NAD 83 using ERDAS IMAGINE software.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "zp38wf37f",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Geological Survey of New Jersey",
+  "layer_modified_dt": "2015-01-11T17:43:38Z",
+  "solr_geom": "ENVELOPE(-75, -74.566, 39.3, 38.866)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fzp%2F38%2Fwf%2F37%2Ff%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/zp38wf37f/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/zp38wf37f/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/zp38wf37f",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Geological map",
     "Geoscientific Information",
@@ -17,22 +14,25 @@
     "Geoscientific Information",
     "Boundaries"
   ],
-  "dc_title_s": "A Topographical Map of the Peninsula of Cape May with the Country Westward to Maurice River",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fzp%2F38%2Fwf%2F37%2Ff%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/zp38wf37f/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/zp38wf37f/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1886",
+  "dc_creator_sm": [
+    "Geological Survey of New Jersey"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "zp38wf37f",
+  "georss_polygon_s": "39.3 -75 39.3 -74.566 38.866 -74.566 38.866 -75 39.3 -75",
+  "dc_publisher_s": "Geological Survey of New Jersey",
+  "solr_year_i": "1886",
   "dct_spatial_sm": [
     "Cape May County",
     "Cumberland County",
     "New Jersey"
   ],
-  "dct_issued_s": "1886",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "38.866 -75 39.3 -74.566",
-  "georss_polygon_s": "39.3 -75 39.3 -74.566 38.866 -74.566 38.866 -75 39.3 -75",
-  "layer_slug_s": "princeton-zp38wf37f",
   "layer_id_s": "zp38wf37f",
-  "layer_modified_dt": "2015-01-11T17:43:38Z",
+  "georss_box_s": "38.866 -75 39.3 -74.566",
+  "dc_title_s": "A Topographical Map of the Peninsula of Cape May with the Country Westward to Maurice River",
+  "layer_slug_s": "princeton-zp38wf37f",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(-75, -74.566, 39.3, 38.866)",
-  "solr_year_i": "1886"
+  "dc_language_s": "English"
 }

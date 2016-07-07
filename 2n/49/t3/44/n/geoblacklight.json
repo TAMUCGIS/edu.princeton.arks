@@ -1,36 +1,36 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/2n49t344n",
-  "dc_creator_sm": [
-    "GfK MACON"
-  ],
   "dc_description_s": "This data includes Turkey cities with population between 20 thousand and 50 thousand created by GfK MACON company, Germany.",
-  "dc_format_s": "Shapefile",
-  "dc_identifier_s": "2n49t344n",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Gfk MACON Company",
-  "dc_rights_s": "Public",
+  "layer_modified_dt": "2014-12-19T16:18:36Z",
+  "solr_geom": "ENVELOPE(26.309577, 43.123943, 42.019566, 36.063273)",
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/2n49t344n/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/2n49t344n/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/2n49t344n/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
+  "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/2n49t344n",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "City",
     "Location",
     "Cities 20K"
   ],
-  "dc_title_s": "Turkey Cities With Population From 20 Thousand To 50 Thousand, 2005",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/download/items/2n49t344n/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/2n49t344n/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/2n49t344n/preview.jpg\"}",
-  "dct_spatial_sm": [
-    "Turkey"
-  ],
+  "dc_format_s": "Shapefile",
+  "dct_issued_s": "2005",
   "dct_temporal_sm": [
     "2006"
   ],
-  "dct_issued_s": "2005",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "36.063273 26.309577 42.019566 43.123943",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_identifier_s": "2n49t344n",
   "georss_polygon_s": "42.019566 26.309577 42.019566 43.123943 36.063273 43.123943 36.063273 26.309577 42.019566 26.309577",
-  "layer_slug_s": "princeton-2n49t344n",
+  "dc_publisher_s": "Gfk MACON Company",
+  "solr_year_i": "2006",
+  "dct_spatial_sm": [
+    "Turkey"
+  ],
   "layer_id_s": "pulmap-restricted:2n49t344n",
-  "layer_modified_dt": "2014-12-19T16:18:36Z",
+  "georss_box_s": "36.063273 26.309577 42.019566 43.123943",
+  "dc_title_s": "Turkey Cities With Population From 20 Thousand To 50 Thousand, 2005",
+  "layer_slug_s": "princeton-2n49t344n",
   "layer_geom_type_s": "Point",
-  "solr_geom": "ENVELOPE(26.309577, 43.123943, 42.019566, 36.063273)",
-  "solr_year_i": "2006"
+  "dc_language_s": "English"
 }

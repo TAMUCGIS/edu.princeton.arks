@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/pz50gx79k",
-  "dc_creator_sm": [
-    "Great Britain. Inter-service Topographical Department"
-  ],
   "dc_description_s": "This is a map of the city of Buyukcekmece, Turkey, shown at a 1:25,000 scale. The map was created for use by War and Navy Department agencies during World War II.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "pz50gx79k",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Army Map Service",
+  "layer_modified_dt": "2015-01-11T17:43:29Z",
+  "solr_geom": "ENVELOPE(28.5333, 28.700, 41.0333, 40.9500)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fpz%2F50%2Fgx%2F79%2Fk%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/pz50gx79k/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/pz50gx79k/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/pz50gx79k",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
     "Railroads",
@@ -19,22 +16,25 @@
     "Military",
     "Facilities and Structures"
   ],
-  "dc_title_s": "1:25,000 Istanbul. Sheet 38 Buyukcekmece. M.D.R. 629/9212. ",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fpz%2F50%2Fgx%2F79%2Fk%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/pz50gx79k/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/pz50gx79k/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1944",
+  "dc_creator_sm": [
+    "Great Britain. Inter-service Topographical Department"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "pz50gx79k",
+  "georss_polygon_s": "41.0333 28.5333 41.0333 28.700 40.9500 28.700 40.9500 28.5333 41.0333 28.5333",
+  "dc_publisher_s": "Army Map Service",
+  "solr_year_i": "1944",
   "dct_spatial_sm": [
     "Buyukcekmece",
     "Istanbul",
     "Turkey"
   ],
-  "dct_issued_s": "1944",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "40.9500 28.5333 41.0333 28.700",
-  "georss_polygon_s": "41.0333 28.5333 41.0333 28.700 40.9500 28.700 40.9500 28.5333 41.0333 28.5333",
-  "layer_slug_s": "princeton-pz50gx79k",
   "layer_id_s": "pz50gx79k",
-  "layer_modified_dt": "2015-01-11T17:43:29Z",
+  "georss_box_s": "40.9500 28.5333 41.0333 28.700",
+  "dc_title_s": "1:25,000 Istanbul. Sheet 38 Buyukcekmece. M.D.R. 629/9212. ",
+  "layer_slug_s": "princeton-pz50gx79k",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(28.5333, 28.700, 41.0333, 40.9500)",
-  "solr_year_i": "1944"
+  "dc_language_s": "English"
 }

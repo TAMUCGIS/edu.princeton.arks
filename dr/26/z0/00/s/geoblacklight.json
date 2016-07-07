@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/dr26z000s",
-  "dc_creator_sm": [
-    "Russia (Federation). General'nyi shtab. Voenno-topograficheskoe upravlenie"
-  ],
   "dc_description_s": "This is a map of the city of Handan, China shown at a 1:10,000 scale. This is a Russian map purchased from East View Cartographic.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "dr26z000s",
-  "dc_language_s": "English",
-  "dc_publisher_s": "East View Cartographic",
+  "layer_modified_dt": "2015-01-11T17:43:11Z",
+  "solr_geom": "ENVELOPE(114.4167, 114.5333, 36.6667, 36.5667)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fdr%2F26%2Fz0%2F00%2Fs%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/dr26z000s/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/dr26z000s/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/dr26z000s",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
     "Railroads",
@@ -17,9 +14,16 @@
     "City map",
     "Facilities and Structures"
   ],
-  "dc_title_s": "Kitai provintsiia Kebei Khan'dan' (J-50-121, 122).",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fdr%2F26%2Fz0%2F00%2Fs%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/dr26z000s/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/dr26z000s/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1978",
+  "dc_creator_sm": [
+    "Russia (Federation). General'nyi shtab. Voenno-topograficheskoe upravlenie"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "dr26z000s",
+  "georss_polygon_s": "36.6667 114.4167 36.6667 114.5333 36.5667 114.5333 36.5667 114.4167 36.6667 114.4167",
+  "dc_publisher_s": "East View Cartographic",
+  "solr_year_i": "1978",
   "dct_spatial_sm": [
     "Handan",
     "Khan'dan'",
@@ -28,14 +32,10 @@
     "Hantan",
     "China"
   ],
-  "dct_issued_s": "1978",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "36.5667 114.4167 36.6667 114.5333",
-  "georss_polygon_s": "36.6667 114.4167 36.6667 114.5333 36.5667 114.5333 36.5667 114.4167 36.6667 114.4167",
-  "layer_slug_s": "princeton-dr26z000s",
   "layer_id_s": "dr26z000s",
-  "layer_modified_dt": "2015-01-11T17:43:11Z",
+  "georss_box_s": "36.5667 114.4167 36.6667 114.5333",
+  "dc_title_s": "Kitai provintsiia Kebei Khan'dan' (J-50-121, 122).",
+  "layer_slug_s": "princeton-dr26z000s",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(114.4167, 114.5333, 36.6667, 36.5667)",
-  "solr_year_i": "1978"
+  "dc_language_s": "English"
 }

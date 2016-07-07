@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/5x21tg88g",
-  "dc_creator_sm": [
-    "Central Intelligence Agency"
-  ],
   "dc_description_s": "This is a map of Middle East, shown at a 1:21,000,000 scale. The map was created by the Central Intelligence Agency.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "5x21tg88g",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Central Intelligence Agency",
+  "layer_modified_dt": "2015-01-11T17:42:39Z",
+  "solr_geom": "ENVELOPE(25.6496, 63.6169, 45.2344, 11.7271)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F5x%2F21%2Ftg%2F88%2Fg%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/5x21tg88g/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/5x21tg88g/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/5x21tg88g",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
     "Railroads",
@@ -18,9 +15,15 @@
     "Military",
     "Facilities and Structures"
   ],
-  "dc_title_s": "Middle East 2002",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F5x%2F21%2Ftg%2F88%2Fg%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/5x21tg88g/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/5x21tg88g/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "June 2002",
+  "dc_creator_sm": [
+    "Central Intelligence Agency"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "5x21tg88g",
+  "georss_polygon_s": "45.2344 25.6496 45.2344 63.6169 11.7271 63.6169 11.7271 25.6496 45.2344 25.6496",
+  "dc_publisher_s": "Central Intelligence Agency",
   "dct_spatial_sm": [
     "Midlle East",
     "Egypt",
@@ -34,13 +37,10 @@
     "United Arab Emirates",
     "Yemen"
   ],
-  "dct_issued_s": "June 2002",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "11.7271 25.6496 45.2344 63.6169",
-  "georss_polygon_s": "45.2344 25.6496 45.2344 63.6169 11.7271 63.6169 11.7271 25.6496 45.2344 25.6496",
-  "layer_slug_s": "princeton-5x21tg88g",
   "layer_id_s": "5x21tg88g",
-  "layer_modified_dt": "2015-01-11T17:42:39Z",
+  "georss_box_s": "11.7271 25.6496 45.2344 63.6169",
+  "dc_title_s": "Middle East 2002",
+  "layer_slug_s": "princeton-5x21tg88g",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(25.6496, 63.6169, 45.2344, 11.7271)"
+  "dc_language_s": "English"
 }

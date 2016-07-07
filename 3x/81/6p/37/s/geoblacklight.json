@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/3x816p37s",
-  "dc_creator_sm": [
-    "Army Map Service"
-  ],
   "dc_description_s": "This is a map of the city of Bonifacio, France, shown at a 1:5,000 scale. The map was created for use by War and Navy Department agencies during World War II.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "3x816p37s",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Army Map Service",
+  "layer_modified_dt": "2015-01-11T17:43:38Z",
+  "solr_geom": "ENVELOPE(9.1333, 9.1667, 41.400, 41.3667)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F3x%2F81%2F6p%2F37%2Fs%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/3x816p37s/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/3x816p37s/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/3x816p37s",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
     "Railroads",
@@ -19,22 +16,25 @@
     "Military",
     "Facilities and Structures"
   ],
-  "dc_title_s": "Town plan of Bonifacio. G.S.G.S. 4381.",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F3x%2F81%2F6p%2F37%2Fs%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/3x816p37s/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/3x816p37s/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1943",
+  "dc_creator_sm": [
+    "Army Map Service"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "3x816p37s",
+  "georss_polygon_s": "41.400 9.1333 41.400 9.1667 41.3667 9.1667 41.3667 9.1333 41.400 9.1333",
+  "dc_publisher_s": "Army Map Service",
+  "solr_year_i": "1943",
   "dct_spatial_sm": [
     "Bonifacio",
     "Corsica",
     "France"
   ],
-  "dct_issued_s": "1943",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "41.3667 9.1333 41.400 9.1667",
-  "georss_polygon_s": "41.400 9.1333 41.400 9.1667 41.3667 9.1667 41.3667 9.1333 41.400 9.1333",
-  "layer_slug_s": "princeton-3x816p37s",
   "layer_id_s": "3x816p37s",
-  "layer_modified_dt": "2015-01-11T17:43:38Z",
+  "georss_box_s": "41.3667 9.1333 41.400 9.1667",
+  "dc_title_s": "Town plan of Bonifacio. G.S.G.S. 4381.",
+  "layer_slug_s": "princeton-3x816p37s",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(9.1333, 9.1667, 41.400, 41.3667)",
-  "solr_year_i": "1943"
+  "dc_language_s": "English"
 }

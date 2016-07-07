@@ -1,35 +1,35 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/vt150k927",
-  "dc_creator_sm": [
-    "Si uende presso Dom. Padoani sul ponte di Rialto all’ Insegna della Geografia"
-  ],
   "dc_description_s": "This is a map showing the sources of the Nile.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "vt150k927",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Sanborn Map Company",
+  "layer_modified_dt": "2015-01-11T17:43:24Z",
+  "solr_geom": "ENVELOPE(30, 45, 16, 7.5)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fvt%2F15%2F0k%2F92%2F7%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/vt150k927/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/vt150k927/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/vt150k927",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Inland water resources",
     "Rivers"
   ],
-  "dc_title_s": "Abissinia, doue sono le fonti del Nilo : descritta secondo le relationi de` P.P. Mendez, Almeida, Païs, Lobo, e Lodulfo / del P.M. Coronelli M.C. cosmografo dell seren",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fvt%2F15%2F0k%2F92%2F7%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/vt150k927/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/vt150k927/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1695",
+  "dc_creator_sm": [
+    "Si uende presso Dom. Padoani sul ponte di Rialto all\u2019 Insegna della Geografia"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "vt150k927",
+  "georss_polygon_s": "16 30 16 45 7.5 45 7.5 30 16 30",
+  "dc_publisher_s": "Sanborn Map Company",
+  "solr_year_i": "1695",
   "dct_spatial_sm": [
     "Africa",
     "Egypt",
     "Nile",
     "Ethiopia"
   ],
-  "dct_issued_s": "1695",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "7.5 30 16 45",
-  "georss_polygon_s": "16 30 16 45 7.5 45 7.5 30 16 30",
-  "layer_slug_s": "princeton-vt150k927",
   "layer_id_s": "vt150k927",
-  "layer_modified_dt": "2015-01-11T17:43:24Z",
+  "georss_box_s": "7.5 30 16 45",
+  "dc_title_s": "Abissinia, doue sono le fonti del Nilo : descritta secondo le relationi de` P.P. Mendez, Almeida, Pa\u00efs, Lobo, e Lodulfo / del P.M. Coronelli M.C. cosmografo dell seren",
+  "layer_slug_s": "princeton-vt150k927",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(30, 45, 16, 7.5)",
-  "solr_year_i": "1695"
+  "dc_language_s": "English"
 }

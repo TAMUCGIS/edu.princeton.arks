@@ -1,12 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/7h149r486",
-  "dc_creator_sm": "Stadtmessungsamt Stuttgart",
   "dc_description_s": "This is a city map of Stuttgart, Germany, shown at a 1:50,000 scale. This city map was created by Stadtmessungsamt Stuttgart.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "7h149r486",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Stadtmessungsamt Stuttgart",
+  "layer_modified_dt": "2015-01-11T18:24:58Z",
+  "solr_geom": "ENVELOPE(9.0376, 9.3150, 48.8665, 48.6921)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/7h149r486\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/7h149r486/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/7h149r486",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
     "Transportation",
@@ -16,22 +15,23 @@
     "Tourist maps",
     "Relief"
   ],
-  "dc_title_s": "Stuttgart",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/7h149r486\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/7h149r486/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1958",
+  "dc_creator_sm": "Stadtmessungsamt Stuttgart",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "7h149r486",
+  "georss_polygon_s": "48.8665 9.0376 48.8665 9.3150 48.6921 9.3150 48.6921 9.0376 48.8665 9.0376",
+  "dc_publisher_s": "Stadtmessungsamt Stuttgart",
+  "solr_year_i": "1958",
   "dct_spatial_sm": [
     "Stuttgart",
     "Germany",
     "Baden-Wuerttemberg Land"
   ],
-  "dct_issued_s": "1958",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "48.6921 9.0376 48.8665 9.3150",
-  "georss_polygon_s": "48.8665 9.0376 48.8665 9.3150 48.6921 9.3150 48.6921 9.0376 48.8665 9.0376",
-  "layer_slug_s": "princeton-7h149r486",
   "layer_id_s": "7h149r486",
-  "layer_modified_dt": "2015-01-11T18:24:58Z",
+  "georss_box_s": "48.6921 9.0376 48.8665 9.3150",
+  "dc_title_s": "Stuttgart",
+  "layer_slug_s": "princeton-7h149r486",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(9.0376, 9.3150, 48.8665, 48.6921)",
-  "solr_year_i": "1958"
+  "dc_language_s": "English"
 }

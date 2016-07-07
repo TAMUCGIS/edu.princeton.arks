@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/1r66j278n",
-  "dc_creator_sm": [
-    "United States Geological Survey"
-  ],
   "dc_description_s": "A scanned USGS 1:62500 topographic map.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "1r66j278n",
-  "dc_language_s": "English",
-  "dc_publisher_s": "United States Geological Survey",
+  "layer_modified_dt": "2015-01-11T17:43:19Z",
+  "solr_geom": "ENVELOPE(-74.50, -74.25, 40.5, 40.25)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F1r%2F66%2Fj2%2F78%2Fn%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/1r66j278n/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/1r66j278n/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/1r66j278n",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Topographic map",
     "Contour line",
@@ -17,9 +14,16 @@
     "Geoscientific Information",
     "15 Minute Quadrangle Map"
   ],
-  "dc_title_s": "New Jersey, New Brunswick Quadrangle (1909)",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F1r%2F66%2Fj2%2F78%2Fn%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/1r66j278n/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/1r66j278n/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1909",
+  "dc_creator_sm": [
+    "United States Geological Survey"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "1r66j278n",
+  "georss_polygon_s": "40.5 -74.50 40.5 -74.25 40.25 -74.25 40.25 -74.50 40.5 -74.50",
+  "dc_publisher_s": "United States Geological Survey",
+  "solr_year_i": "1909",
   "dct_spatial_sm": [
     "New Brunswick",
     "Freehold",
@@ -27,14 +31,10 @@
     "Mercer/Middlesex County",
     "New Jersey"
   ],
-  "dct_issued_s": "1909",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "40.25 -74.50 40.5 -74.25",
-  "georss_polygon_s": "40.5 -74.50 40.5 -74.25 40.25 -74.25 40.25 -74.50 40.5 -74.50",
-  "layer_slug_s": "princeton-1r66j278n",
   "layer_id_s": "1r66j278n",
-  "layer_modified_dt": "2015-01-11T17:43:19Z",
+  "georss_box_s": "40.25 -74.50 40.5 -74.25",
+  "dc_title_s": "New Jersey, New Brunswick Quadrangle (1909)",
+  "layer_slug_s": "princeton-1r66j278n",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(-74.50, -74.25, 40.5, 40.25)",
-  "solr_year_i": "1909"
+  "dc_language_s": "English"
 }

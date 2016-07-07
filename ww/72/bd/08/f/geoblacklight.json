@@ -1,19 +1,23 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/ww72bd08f",
-  "dc_creator_sm": "Khan, Mohd. Faiz Ali",
   "dc_description_s": "This is a plan of the city of Shahjahanabad, India, shown at a 1:9,051 scale. The map was created by India's Town Planning Organization in conjuction with the Ministry of Health.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "ww72bd08f",
-  "dc_language_s": "English",
-  "dc_publisher_s": "India. Ministry of Health",
+  "layer_modified_dt": "2015-01-11T18:24:52Z",
+  "solr_geom": "ENVELOPE(77.2167, 77.2500, 28.6667, 28.6333)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/ww72bd08f\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/ww72bd08f/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/ww72bd08f",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "City plan",
     "planningCadastre"
   ],
-  "dc_title_s": "Lay-out plan of Shahjahanabad showing Qila Mubarik, Kuchas & Galis.",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/ww72bd08f\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/ww72bd08f/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1956",
+  "dc_creator_sm": "Khan, Mohd. Faiz Ali",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "ww72bd08f",
+  "georss_polygon_s": "28.6667 77.2167 28.6667 77.2500 28.6333 77.2500 28.6333 77.2167 28.6667 77.2167",
+  "dc_publisher_s": "India. Ministry of Health",
+  "solr_year_i": "1956",
   "dct_spatial_sm": [
     "Shahjahanabad",
     "Dilli",
@@ -21,14 +25,10 @@
     "India",
     "MAX  G7654.D5.1956.T6"
   ],
-  "dct_issued_s": "1956",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "28.6333 77.2167 28.6667 77.2500",
-  "georss_polygon_s": "28.6667 77.2167 28.6667 77.2500 28.6333 77.2500 28.6333 77.2167 28.6667 77.2167",
-  "layer_slug_s": "princeton-ww72bd08f",
   "layer_id_s": "ww72bd08f",
-  "layer_modified_dt": "2015-01-11T18:24:52Z",
+  "georss_box_s": "28.6333 77.2167 28.6667 77.2500",
+  "dc_title_s": "Lay-out plan of Shahjahanabad showing Qila Mubarik, Kuchas & Galis.",
+  "layer_slug_s": "princeton-ww72bd08f",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(77.2167, 77.2500, 28.6667, 28.6333)",
-  "solr_year_i": "1956"
+  "dc_language_s": "English"
 }

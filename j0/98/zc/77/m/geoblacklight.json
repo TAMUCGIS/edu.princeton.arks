@@ -1,12 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/j098zc77m",
-  "dc_creator_sm": "VEB Landkartenverlag",
   "dc_description_s": "This is a city map of Zittau, Germany, shown at an unknown scale. This city map was created by VEB Landkartenverlag.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "j098zc77m",
-  "dc_language_s": "English",
-  "dc_publisher_s": "VEB Landkartenverlag",
+  "layer_modified_dt": "2015-01-11T18:25:06Z",
+  "solr_geom": "ENVELOPE(14.7552, 14.9053, 50.9979, 50.8219)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/j098zc77m\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/j098zc77m/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/j098zc77m",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
     "Transportation",
@@ -15,22 +14,23 @@
     "City blocks",
     "Relief"
   ],
-  "dc_title_s": "Strassenübersichtsplan Zittau mit Strassenverzeichnis",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/j098zc77m\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/j098zc77m/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1966",
+  "dc_creator_sm": "VEB Landkartenverlag",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "j098zc77m",
+  "georss_polygon_s": "50.9979 14.7552 50.9979 14.9053 50.8219 14.9053 50.8219 14.7552 50.9979 14.7552",
+  "dc_publisher_s": "VEB Landkartenverlag",
+  "solr_year_i": "1966",
   "dct_spatial_sm": [
     "Zittau",
     "Germany",
     "Sachsen Freistaat"
   ],
-  "dct_issued_s": "1966",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "50.8219 14.7552 50.9979 14.9053",
-  "georss_polygon_s": "50.9979 14.7552 50.9979 14.9053 50.8219 14.9053 50.8219 14.7552 50.9979 14.7552",
-  "layer_slug_s": "princeton-j098zc77m",
   "layer_id_s": "j098zc77m",
-  "layer_modified_dt": "2015-01-11T18:25:06Z",
+  "georss_box_s": "50.8219 14.7552 50.9979 14.9053",
+  "dc_title_s": "Strassen\u00fcbersichtsplan Zittau mit Strassenverzeichnis",
+  "layer_slug_s": "princeton-j098zc77m",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(14.7552, 14.9053, 50.9979, 50.8219)",
-  "solr_year_i": "1966"
+  "dc_language_s": "English"
 }

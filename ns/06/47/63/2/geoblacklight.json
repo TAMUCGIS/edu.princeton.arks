@@ -1,34 +1,34 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/ns0647632",
-  "dc_creator_sm": [
-    "Burghers, M."
-  ],
   "dc_description_s": "This is a scanned map of the world from the Historical Map Collection of Princeton University's Rare Books department.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "ns0647632",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Oxford University",
+  "layer_modified_dt": "2015-01-11T17:43:09Z",
+  "solr_geom": "ENVELOPE(-180, 180, 90, -90)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fns%2F06%2F47%2F63%2F2%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/ns0647632/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/ns0647632/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/ns0647632",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Maps--Early works to 1800",
     "World maps",
     "World map 1700",
     "Administrative and political boundaries"
   ],
-  "dc_title_s": "A new map of the terraqueous globe according to the ancient discoveries and most general divisions of it into continents and oceans",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fns%2F06%2F47%2F63%2F2%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/ns0647632/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/ns0647632/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1700",
+  "dc_creator_sm": [
+    "Burghers, M."
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "ns0647632",
+  "georss_polygon_s": "90 -180 90 180 -90 180 -90 -180 90 -180",
+  "dc_publisher_s": "Oxford University",
+  "solr_year_i": "1700",
   "dct_spatial_sm": [
     "World"
   ],
-  "dct_issued_s": "1700",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "-90 -180 90 180",
-  "georss_polygon_s": "90 -180 90 180 -90 180 -90 -180 90 -180",
-  "layer_slug_s": "princeton-ns0647632",
   "layer_id_s": "ns0647632",
-  "layer_modified_dt": "2015-01-11T17:43:09Z",
+  "georss_box_s": "-90 -180 90 180",
+  "dc_title_s": "A new map of the terraqueous globe according to the ancient discoveries and most general divisions of it into continents and oceans",
+  "layer_slug_s": "princeton-ns0647632",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(-180, 180, 90, -90)",
-  "solr_year_i": "1700"
+  "dc_language_s": "English"
 }

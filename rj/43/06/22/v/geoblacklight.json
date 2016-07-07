@@ -1,12 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/rj430622v",
-  "dc_creator_sm": "Gouvoussis",
   "dc_description_s": "This is a city map of Athens, Greece, shown at an unknown scale. This city map was created by Gouvoussis.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "rj430622v",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Gouvoussis",
+  "layer_modified_dt": "2015-01-11T18:25:09Z",
+  "solr_geom": "ENVELOPE(23.5979, 23.8971, 38.157, 37.8239)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/rj430622v\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/rj430622v/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/rj430622v",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
     "Transportation",
@@ -15,9 +14,14 @@
     "City blocks",
     "Tourist maps"
   ],
-  "dc_title_s": "Athinai - Athens - Athenes. Map plan",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/rj430622v\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/rj430622v/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1978",
+  "dc_creator_sm": "Gouvoussis",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "rj430622v",
+  "georss_polygon_s": "38.157 23.5979 38.157 23.8971 37.8239 23.8971 37.8239 23.5979 38.157 23.5979",
+  "dc_publisher_s": "Gouvoussis",
+  "solr_year_i": "1978",
   "dct_spatial_sm": [
     "Athens",
     "Greece",
@@ -25,14 +29,10 @@
     "Athens Prefecture",
     "Nomoarchia Athinon"
   ],
-  "dct_issued_s": "1978",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "37.8239 23.5979 38.157 23.8971",
-  "georss_polygon_s": "38.157 23.5979 38.157 23.8971 37.8239 23.8971 37.8239 23.5979 38.157 23.5979",
-  "layer_slug_s": "princeton-rj430622v",
   "layer_id_s": "rj430622v",
-  "layer_modified_dt": "2015-01-11T18:25:09Z",
+  "georss_box_s": "37.8239 23.5979 38.157 23.8971",
+  "dc_title_s": "Athinai - Athens - Athenes. Map plan",
+  "layer_slug_s": "princeton-rj430622v",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(23.5979, 23.8971, 38.157, 37.8239)",
-  "solr_year_i": "1978"
+  "dc_language_s": "English"
 }

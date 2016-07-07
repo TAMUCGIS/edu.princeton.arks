@@ -1,20 +1,24 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/th83m073c",
-  "dc_creator_sm": "Directorate of Overseas Survey",
   "dc_description_s": "Mukutan sheet is a part of 1:50,000 scale topographic Kenyan map series Y731 and its sheet number 91/4. The map is georeferenced.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "th83m073c",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Directorate of Overseas Survey for the Survey of Kenya",
+  "layer_modified_dt": "2015-01-11T18:24:31Z",
+  "solr_geom": "ENVELOPE(36.250806, 36.500805, 0.747202, 0.497242)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/th83m073c\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/th83m073c/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/th83m073c",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "imageryBaseMapsEarthCover",
     "Topographic map",
     "Contour map"
   ],
-  "dc_title_s": "Mukutan: East Africa 1:50,000 (Kenya)",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/th83m073c\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/th83m073c/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1982",
+  "dc_creator_sm": "Directorate of Overseas Survey",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "th83m073c",
+  "georss_polygon_s": "0.747202 36.250806 0.747202 36.500805 0.497242 36.500805 0.497242 36.250806 0.747202 36.250806",
+  "dc_publisher_s": "Directorate of Overseas Survey for the Survey of Kenya",
+  "solr_year_i": "1982",
   "dct_spatial_sm": [
     "Mukutan",
     "Laikipia District",
@@ -22,14 +26,10 @@
     "Rift Valley Province",
     "Kenya"
   ],
-  "dct_issued_s": "1982",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "0.497242 36.250806 0.747202 36.500805",
-  "georss_polygon_s": "0.747202 36.250806 0.747202 36.500805 0.497242 36.500805 0.497242 36.250806 0.747202 36.250806",
-  "layer_slug_s": "princeton-th83m073c",
   "layer_id_s": "th83m073c",
-  "layer_modified_dt": "2015-01-11T18:24:31Z",
+  "georss_box_s": "0.497242 36.250806 0.747202 36.500805",
+  "dc_title_s": "Mukutan: East Africa 1:50,000 (Kenya)",
+  "layer_slug_s": "princeton-th83m073c",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(36.250806, 36.500805, 0.747202, 0.497242)",
-  "solr_year_i": "1982"
+  "dc_language_s": "English"
 }

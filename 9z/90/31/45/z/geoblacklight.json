@@ -1,32 +1,32 @@
 {
+  "layer_modified_dt": "2014-12-19T16:18:35Z",
   "uuid": "http://arks.princeton.edu/ark:/88435/9z903145z",
+  "dc_description_s": "Polygons representing fenced areas in Cairo.",
+  "georss_box_s": "29.722730 30.794129 30.291034 31.781540",
+  "layer_slug_s": "princeton-9z903145z",
+  "dct_spatial_sm": [
+    "Egypt",
+    "Cairo"
+  ],
   "dc_creator_sm": [
     "Globe Telecom"
   ],
-  "dc_description_s": "Polygons representing fenced areas in Cairo.",
-  "dc_format_s": "Shapefile",
+  "layer_id_s": "pulmap-restricted:9z903145z",
+  "georss_polygon_s": "30.291034 30.794129 30.291034 31.781540 29.722730 31.781540 29.722730 30.794129 30.291034 30.794129",
+  "dc_type_s": "Dataset",
   "dc_identifier_s": "9z903145z",
-  "dc_language_s": "English",
-  "dc_rights_s": "Public",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "fences",
     "fenced areas",
     "Structure"
   ],
-  "dc_title_s": "Cairo Fenced Areas",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/download/items/9z903145z/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/9z903145z/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/9z903145z/preview.jpg\"}",
-  "dct_spatial_sm": [
-    "Egypt",
-    "Cairo"
-  ],
   "dct_issued_s": "20140706",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "29.722730 30.794129 30.291034 31.781540",
-  "georss_polygon_s": "30.291034 30.794129 30.291034 31.781540 29.722730 31.781540 29.722730 30.794129 30.291034 30.794129",
-  "layer_slug_s": "princeton-9z903145z",
-  "layer_id_s": "pulmap-restricted:9z903145z",
-  "layer_modified_dt": "2014-12-19T16:18:35Z",
+  "dc_format_s": "Shapefile",
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/9z903145z/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/9z903145z/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/9z903145z/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
+  "dc_title_s": "Cairo Fenced Areas",
   "layer_geom_type_s": "Polygon",
-  "solr_geom": "ENVELOPE(30.794129, 31.781540, 30.291034, 29.722730)"
+  "solr_geom": "ENVELOPE(30.794129, 31.781540, 30.291034, 29.722730)",
+  "dc_rights_s": "Restricted",
+  "dc_language_s": "English"
 }

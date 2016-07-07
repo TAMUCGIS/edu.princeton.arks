@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/3x816p25c",
-  "dc_creator_sm": [
-    "United States Geological Survey"
-  ],
   "dc_description_s": "A scanned USGS 1:24,000 topographic map.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "3x816p25c",
-  "dc_language_s": "English",
-  "dc_publisher_s": "United States Geological Survey",
+  "layer_modified_dt": "2015-01-11T17:43:17Z",
+  "solr_geom": "ENVELOPE(-74.750, -75.6250, 40.750, 40.6250)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F3x%2F81%2F6p%2F25%2Fc%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/3x816p25c/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/3x816p25c/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/3x816p25c",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Topographic map",
     "Contour line",
@@ -16,9 +13,16 @@
     "Roads",
     "Geoscientific Information"
   ],
-  "dc_title_s": "Gladstone Quadrangle, New Jersey, 7.5 minute series (topographic) ",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F3x%2F81%2F6p%2F25%2Fc%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/3x816p25c/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/3x816p25c/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1954",
+  "dc_creator_sm": [
+    "United States Geological Survey"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "3x816p25c",
+  "georss_polygon_s": "40.750 -74.750 40.750 -75.6250 40.6250 -75.6250 40.6250 -74.750 40.750 -74.750",
+  "dc_publisher_s": "United States Geological Survey",
+  "solr_year_i": "1954",
   "dct_spatial_sm": [
     "Gladstone",
     "Bridgewater",
@@ -28,14 +32,10 @@
     "Peapack",
     "New Jersey"
   ],
-  "dct_issued_s": "1954",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "40.6250 -74.750 40.750 -75.6250",
-  "georss_polygon_s": "40.750 -74.750 40.750 -75.6250 40.6250 -75.6250 40.6250 -74.750 40.750 -74.750",
-  "layer_slug_s": "princeton-3x816p25c",
   "layer_id_s": "3x816p25c",
-  "layer_modified_dt": "2015-01-11T17:43:17Z",
+  "georss_box_s": "40.6250 -74.750 40.750 -75.6250",
+  "dc_title_s": "Gladstone Quadrangle, New Jersey, 7.5 minute series (topographic) ",
+  "layer_slug_s": "princeton-3x816p25c",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(-74.750, -75.6250, 40.750, 40.6250)",
-  "solr_year_i": "1954"
+  "dc_language_s": "English"
 }

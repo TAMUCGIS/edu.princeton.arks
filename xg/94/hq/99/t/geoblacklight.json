@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/xg94hq99t",
-  "dc_creator_sm": [
-    "Army Map Service"
-  ],
   "dc_description_s": "This is a map of the city of Tsuruga, Japan, shown at a 1:12,500 scale. The map was created for use by War and Navy Department agencies during World War II.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "xg94hq99t",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Army Map Service",
+  "layer_modified_dt": "2015-01-11T17:42:37Z",
+  "solr_geom": "ENVELOPE(136.0333, 136.100, 35.6667, 35.6167)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fxg%2F94%2Fhq%2F99%2Ft%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/xg94hq99t/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/xg94hq99t/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/xg94hq99t",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
     "Railroads",
@@ -19,22 +16,25 @@
     "Military",
     "Facilities and Structures"
   ],
-  "dc_title_s": "Tsuruga, Fukui Prefecture, Honshu, Japan. A.M.S. L902.",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fxg%2F94%2Fhq%2F99%2Ft%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/xg94hq99t/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/xg94hq99t/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1945",
+  "dc_creator_sm": [
+    "Army Map Service"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "xg94hq99t",
+  "georss_polygon_s": "35.6667 136.0333 35.6667 136.100 35.6167 136.100 35.6167 136.0333 35.6667 136.0333",
+  "dc_publisher_s": "Army Map Service",
+  "solr_year_i": "1945",
   "dct_spatial_sm": [
     "Tsuruga",
     "Honshu",
     "Japan"
   ],
-  "dct_issued_s": "1945",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "35.6167 136.0333 35.6667 136.100",
-  "georss_polygon_s": "35.6667 136.0333 35.6667 136.100 35.6167 136.100 35.6167 136.0333 35.6667 136.0333",
-  "layer_slug_s": "princeton-xg94hq99t",
   "layer_id_s": "xg94hq99t",
-  "layer_modified_dt": "2015-01-11T17:42:37Z",
+  "georss_box_s": "35.6167 136.0333 35.6667 136.100",
+  "dc_title_s": "Tsuruga, Fukui Prefecture, Honshu, Japan. A.M.S. L902.",
+  "layer_slug_s": "princeton-xg94hq99t",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(136.0333, 136.100, 35.6667, 35.6167)",
-  "solr_year_i": "1945"
+  "dc_language_s": "English"
 }

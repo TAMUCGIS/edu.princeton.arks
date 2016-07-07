@@ -1,20 +1,24 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/cj82k890j",
-  "dc_creator_sm": "Survey of India",
   "dc_description_s": "This is a map of the city of Trivandrum, India, shown at a 1:20,000  or 200 m. to 1 cm scale. The map was created by the government-sponsored Survey of India.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "cj82k890j",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Survey of India",
+  "layer_modified_dt": "2015-01-11T18:24:57Z",
+  "solr_geom": "ENVELOPE(76.8833, 76.9333, 8.500, 8.4667)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/cj82k890j\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/cj82k890j/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/cj82k890j",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "City plan",
     "Topography",
     "elevation"
   ],
-  "dc_title_s": "Trivandrum guide map. Surveyed 1968-69.",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/cj82k890j\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/cj82k890j/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1971",
+  "dc_creator_sm": "Survey of India",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "cj82k890j",
+  "georss_polygon_s": "8.500 76.8833 8.500 76.9333 8.4667 76.9333 8.4667 76.8833 8.500 76.8833",
+  "dc_publisher_s": "Survey of India",
+  "solr_year_i": "1971",
   "dct_spatial_sm": [
     "Trivandrum",
     "Thiruvananthapuram",
@@ -22,14 +26,10 @@
     "India",
     "MAX  G7654.T7C2.1971.S9I5"
   ],
-  "dct_issued_s": "1971",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "8.4667 76.8833 8.500 76.9333",
-  "georss_polygon_s": "8.500 76.8833 8.500 76.9333 8.4667 76.9333 8.4667 76.8833 8.500 76.8833",
-  "layer_slug_s": "princeton-cj82k890j",
   "layer_id_s": "cj82k890j",
-  "layer_modified_dt": "2015-01-11T18:24:57Z",
+  "georss_box_s": "8.4667 76.8833 8.500 76.9333",
+  "dc_title_s": "Trivandrum guide map. Surveyed 1968-69.",
+  "layer_slug_s": "princeton-cj82k890j",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(76.8833, 76.9333, 8.500, 8.4667)",
-  "solr_year_i": "1971"
+  "dc_language_s": "English"
 }

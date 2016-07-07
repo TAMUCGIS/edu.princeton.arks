@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/qb98mg92h",
-  "dc_creator_sm": [
-    "United States Geological Survey"
-  ],
   "dc_description_s": "A scanned USGS 1:62500 topographic map.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "qb98mg92h",
-  "dc_language_s": "English",
-  "dc_publisher_s": "United States Geological Survey",
+  "layer_modified_dt": "2015-01-11T17:42:38Z",
+  "solr_geom": "ENVELOPE(-75, -74.5, 40, 39.5)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fqb%2F98%2Fmg%2F92%2Fh%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/qb98mg92h/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/qb98mg92h/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/qb98mg92h",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Topographic map",
     "Contour line",
@@ -17,9 +14,16 @@
     "Geoscientific Information",
     "15 Minute Quadrangle Map"
   ],
-  "dc_title_s": "New Jersey, Rancocas Quadrangle (1900)",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fqb%2F98%2Fmg%2F92%2Fh%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/qb98mg92h/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/qb98mg92h/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1900",
+  "dc_creator_sm": [
+    "United States Geological Survey"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "qb98mg92h",
+  "georss_polygon_s": "40 -75 40 -74.5 39.5 -74.5 39.5 -75 40 -75",
+  "dc_publisher_s": "United States Geological Survey",
+  "solr_year_i": "1900",
   "dct_spatial_sm": [
     "New Jersey",
     "Monroe",
@@ -28,14 +32,10 @@
     "Hamilton",
     "Warren County"
   ],
-  "dct_issued_s": "1900",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "39.5 -75 40 -74.5",
-  "georss_polygon_s": "40 -75 40 -74.5 39.5 -74.5 39.5 -75 40 -75",
-  "layer_slug_s": "princeton-qb98mg92h",
   "layer_id_s": "qb98mg92h",
-  "layer_modified_dt": "2015-01-11T17:42:38Z",
+  "georss_box_s": "39.5 -75 40 -74.5",
+  "dc_title_s": "New Jersey, Rancocas Quadrangle (1900)",
+  "layer_slug_s": "princeton-qb98mg92h",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(-75, -74.5, 40, 39.5)",
-  "solr_year_i": "1900"
+  "dc_language_s": "English"
 }

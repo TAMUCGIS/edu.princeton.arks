@@ -1,12 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/8336h351x",
-  "dc_creator_sm": "Putnik-Sibenik",
   "dc_description_s": "This is a city map of Sibenik, Croatia (former Yugoslavia) shown at a ca. 1:5,100 scale. This city map was created by Putnik-Sibenik.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "8336h351x",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Putnik-Sibenik",
+  "layer_modified_dt": "2015-01-11T18:24:57Z",
+  "solr_geom": "ENVELOPE(15.8315, 15.9431, 43.7884, 43.6944)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/8336h351x\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/8336h351x/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/8336h351x",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
     "Transportation",
@@ -14,23 +13,24 @@
     "Facilities and Structures",
     "City blocks"
   ],
-  "dc_title_s": "Sibenik plan grada",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/8336h351x\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/8336h351x/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1965",
+  "dc_creator_sm": "Putnik-Sibenik",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "8336h351x",
+  "georss_polygon_s": "43.7884 15.8315 43.7884 15.9431 43.6944 15.9431 43.6944 15.8315 43.7884 15.8315",
+  "dc_publisher_s": "Putnik-Sibenik",
+  "solr_year_i": "1965",
   "dct_spatial_sm": [
     "Sibenik",
     "Croatia",
     "Yugoslavia",
     "Sebenico"
   ],
-  "dct_issued_s": "1965",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "43.6944 15.8315 43.7884 15.9431",
-  "georss_polygon_s": "43.7884 15.8315 43.7884 15.9431 43.6944 15.9431 43.6944 15.8315 43.7884 15.8315",
-  "layer_slug_s": "princeton-8336h351x",
   "layer_id_s": "8336h351x",
-  "layer_modified_dt": "2015-01-11T18:24:57Z",
+  "georss_box_s": "43.6944 15.8315 43.7884 15.9431",
+  "dc_title_s": "Sibenik plan grada",
+  "layer_slug_s": "princeton-8336h351x",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(15.8315, 15.9431, 43.7884, 43.6944)",
-  "solr_year_i": "1965"
+  "dc_language_s": "English"
 }

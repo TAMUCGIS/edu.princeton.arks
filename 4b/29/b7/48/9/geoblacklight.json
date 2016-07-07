@@ -1,19 +1,23 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/4b29b7489",
-  "dc_creator_sm": "India Tourism Development Corporation",
   "dc_description_s": "This is a map of the city of Madras, India, shown at a 1:42,239 scale. The map was created for tourist / civilian use by India Tourism Development Corporation",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "4b29b7489",
-  "dc_language_s": "English",
-  "dc_publisher_s": "India Tourism Development Corporation",
+  "layer_modified_dt": "2015-01-11T18:24:44Z",
+  "solr_geom": "ENVELOPE(80.200, 80.300, 13.1333, 13.000)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/4b29b7489\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/4b29b7489/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/4b29b7489",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "City plan",
     "structure"
   ],
-  "dc_title_s": "Tourist map of Madras (1965)",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/4b29b7489\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/4b29b7489/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1965",
+  "dc_creator_sm": "India Tourism Development Corporation",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "4b29b7489",
+  "georss_polygon_s": "13.1333 80.200 13.1333 80.300 13.000 80.300 13.000 80.200 13.1333 80.200",
+  "dc_publisher_s": "India Tourism Development Corporation",
+  "solr_year_i": "1965",
   "dct_spatial_sm": [
     "Madras",
     "Tamizhagam",
@@ -23,14 +27,10 @@
     "India",
     "MAX  G7654.M2,1965.T6"
   ],
-  "dct_issued_s": "1965",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "13.000 80.200 13.1333 80.300",
-  "georss_polygon_s": "13.1333 80.200 13.1333 80.300 13.000 80.300 13.000 80.200 13.1333 80.200",
-  "layer_slug_s": "princeton-4b29b7489",
   "layer_id_s": "4b29b7489",
-  "layer_modified_dt": "2015-01-11T18:24:44Z",
+  "georss_box_s": "13.000 80.200 13.1333 80.300",
+  "dc_title_s": "Tourist map of Madras (1965)",
+  "layer_slug_s": "princeton-4b29b7489",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(80.200, 80.300, 13.1333, 13.000)",
-  "solr_year_i": "1965"
+  "dc_language_s": "English"
 }

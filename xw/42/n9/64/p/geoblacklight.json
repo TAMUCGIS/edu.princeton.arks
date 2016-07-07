@@ -1,19 +1,23 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/xw42n964p",
-  "dc_creator_sm": "Survey of India",
   "dc_description_s": "This is a map of the city of Udaipur, India, shown at a 1:15,840 or 4 in to 1 mi. scale. The map was created by the government-sponsored Survey of India.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "xw42n964p",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Survey of India",
+  "layer_modified_dt": "2015-01-11T18:25:21Z",
+  "solr_geom": "ENVELOPE(73.6667, 73.7333, 24.6167, 24.5500)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/xw42n964p\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/xw42n964p/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/xw42n964p",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Topography",
     "elevation"
   ],
-  "dc_title_s": "Udaipur guide map. Surveyed 1934-35.",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/xw42n964p\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/xw42n964p/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1935",
+  "dc_creator_sm": "Survey of India",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "xw42n964p",
+  "georss_polygon_s": "24.6167 73.6667 24.6167 73.7333 24.5500 73.7333 24.5500 73.6667 24.6167 73.6667",
+  "dc_publisher_s": "Survey of India",
+  "solr_year_i": "1935",
   "dct_spatial_sm": [
     "Udaipur",
     "Oodeypore",
@@ -21,14 +25,10 @@
     "India",
     "MAX  G7654.U2C2.1935.S9I5"
   ],
-  "dct_issued_s": "1935",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "24.5500 73.6667 24.6167 73.7333",
-  "georss_polygon_s": "24.6167 73.6667 24.6167 73.7333 24.5500 73.7333 24.5500 73.6667 24.6167 73.6667",
-  "layer_slug_s": "princeton-xw42n964p",
   "layer_id_s": "xw42n964p",
-  "layer_modified_dt": "2015-01-11T18:25:21Z",
+  "georss_box_s": "24.5500 73.6667 24.6167 73.7333",
+  "dc_title_s": "Udaipur guide map. Surveyed 1934-35.",
+  "layer_slug_s": "princeton-xw42n964p",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(73.6667, 73.7333, 24.6167, 24.5500)",
-  "solr_year_i": "1935"
+  "dc_language_s": "English"
 }

@@ -1,22 +1,26 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/cr56n264h",
-  "dc_creator_sm": [
-    "United States. Central Intelligence Agency"
-  ],
   "dc_description_s": "This is a map of the Berlin Region, shown at a 1:75,000.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "cr56n264h",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Germany. Generalstab des Heeres, Abteilung fuer Kriegskarten- und Vermessungswesen",
+  "layer_modified_dt": "2015-01-11T17:43:23Z",
+  "solr_geom": "ENVELOPE(12.83, 13.83, 52.67, 52.33)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fcr%2F56%2Fn2%2F64%2Fh%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/cr56n264h/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/cr56n264h/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/cr56n264h",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
     "Railways",
     "Transportation"
   ],
-  "dc_title_s": "The Berlin Region",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fcr%2F56%2Fn2%2F64%2Fh%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/cr56n264h/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/cr56n264h/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1985",
+  "dc_creator_sm": [
+    "United States. Central Intelligence Agency"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "cr56n264h",
+  "georss_polygon_s": "52.67 12.83 52.67 13.83 52.33 13.83 52.33 12.83 52.67 12.83",
+  "dc_publisher_s": "Germany. Generalstab des Heeres, Abteilung fuer Kriegskarten- und Vermessungswesen",
+  "solr_year_i": "1985",
   "dct_spatial_sm": [
     "Germany",
     "Berlin",
@@ -24,14 +28,10 @@
     "East Berlin",
     "West Berlin"
   ],
-  "dct_issued_s": "1985",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "52.33 12.83 52.67 13.83",
-  "georss_polygon_s": "52.67 12.83 52.67 13.83 52.33 13.83 52.33 12.83 52.67 12.83",
-  "layer_slug_s": "princeton-cr56n264h",
   "layer_id_s": "cr56n264h",
-  "layer_modified_dt": "2015-01-11T17:43:23Z",
+  "georss_box_s": "52.33 12.83 52.67 13.83",
+  "dc_title_s": "The Berlin Region",
+  "layer_slug_s": "princeton-cr56n264h",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(12.83, 13.83, 52.67, 52.33)",
-  "solr_year_i": "1985"
+  "dc_language_s": "English"
 }

@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/q237ht50b",
-  "dc_creator_sm": [
-    "Russia (Federation). General'nyi shtab. Voenno-topograficheskoe upravlenie"
-  ],
   "dc_description_s": "This is a map of the city of Turfan, China shown at a 1:10,000 scale. This is a Russian map purchased from East View Cartographic.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "q237ht50b",
-  "dc_language_s": "English",
-  "dc_publisher_s": "East View Cartographic",
+  "layer_modified_dt": "2015-01-11T17:42:58Z",
+  "solr_geom": "ENVELOPE(89.1167, 89.2167, 42.9667, 42.9167)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fq2%2F37%2Fht%2F50%2Fb%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/q237ht50b/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/q237ht50b/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/q237ht50b",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
     "Railroads",
@@ -17,23 +14,26 @@
     "City map",
     "Facilities and Structures"
   ],
-  "dc_title_s": "Kitai Sin'tszian-Uigurskii avtonomnyi raion. Turfan (K-45-47). ",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fq2%2F37%2Fht%2F50%2Fb%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/q237ht50b/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/q237ht50b/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1980",
+  "dc_creator_sm": [
+    "Russia (Federation). General'nyi shtab. Voenno-topograficheskoe upravlenie"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "q237ht50b",
+  "georss_polygon_s": "42.9667 89.1167 42.9667 89.2167 42.9167 89.2167 42.9167 89.1167 42.9667 89.1167",
+  "dc_publisher_s": "East View Cartographic",
+  "solr_year_i": "1980",
   "dct_spatial_sm": [
     "Turfan",
     "Xinjiang Uygur Zizhigu",
     "Turpan",
     "China"
   ],
-  "dct_issued_s": "1980",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "42.9167 89.1167 42.9667 89.2167",
-  "georss_polygon_s": "42.9667 89.1167 42.9667 89.2167 42.9167 89.2167 42.9167 89.1167 42.9667 89.1167",
-  "layer_slug_s": "princeton-q237ht50b",
   "layer_id_s": "q237ht50b",
-  "layer_modified_dt": "2015-01-11T17:42:58Z",
+  "georss_box_s": "42.9167 89.1167 42.9667 89.2167",
+  "dc_title_s": "Kitai Sin'tszian-Uigurskii avtonomnyi raion. Turfan (K-45-47). ",
+  "layer_slug_s": "princeton-q237ht50b",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(89.1167, 89.2167, 42.9667, 42.9167)",
-  "solr_year_i": "1980"
+  "dc_language_s": "English"
 }

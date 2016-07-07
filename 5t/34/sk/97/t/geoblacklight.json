@@ -1,12 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/5t34sk97t",
-  "dc_creator_sm": "Identity Development International Ltd",
   "dc_description_s": "This is a map the north half of Manhattan in New York City. \"New York (Side 2)\" is the south half",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "5t34sk97t",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Identity Development International Ltd",
+  "layer_modified_dt": "2015-01-11T18:24:32Z",
+  "solr_geom": "ENVELOPE(-73.9971, -73.9098, 40.8776, 40.7567)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/5t34sk97t\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/5t34sk97t/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/5t34sk97t",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "City map",
     "Facilities and Structures",
@@ -18,23 +17,24 @@
     "Museum",
     "Admistration"
   ],
-  "dc_title_s": "New York (Side 1)",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/5t34sk97t\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/5t34sk97t/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1993",
+  "dc_creator_sm": "Identity Development International Ltd",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "5t34sk97t",
+  "georss_polygon_s": "40.8776 -73.9971 40.8776 -73.9098 40.7567 -73.9098 40.7567 -73.9971 40.8776 -73.9971",
+  "dc_publisher_s": "Identity Development International Ltd",
+  "solr_year_i": "1993",
   "dct_spatial_sm": [
     "New York City",
     "New York",
     "NYC",
     "Manhattan"
   ],
-  "dct_issued_s": "1993",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "40.7567 -73.9971 40.8776 -73.9098",
-  "georss_polygon_s": "40.8776 -73.9971 40.8776 -73.9098 40.7567 -73.9098 40.7567 -73.9971 40.8776 -73.9971",
-  "layer_slug_s": "princeton-5t34sk97t",
   "layer_id_s": "5t34sk97t",
-  "layer_modified_dt": "2015-01-11T18:24:32Z",
+  "georss_box_s": "40.7567 -73.9971 40.8776 -73.9098",
+  "dc_title_s": "New York (Side 1)",
+  "layer_slug_s": "princeton-5t34sk97t",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(-73.9971, -73.9098, 40.8776, 40.7567)",
-  "solr_year_i": "1993"
+  "dc_language_s": "English"
 }

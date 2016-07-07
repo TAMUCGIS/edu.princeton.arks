@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/qb98mg930",
-  "dc_creator_sm": [
-    "Army Map Service"
-  ],
   "dc_description_s": "This is a map of the city of Vlone, Albania, shown at a 1:10,000. The map was created for use by War and Navy Department agencies during World War II.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "qb98mg930",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Army Map Service",
+  "layer_modified_dt": "2015-01-11T17:42:39Z",
+  "solr_geom": "ENVELOPE(19.4833, 19.500, 40.4667, 40.4500)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fqb%2F98%2Fmg%2F93%2F0%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/qb98mg930/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/qb98mg930/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/qb98mg930",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
     "Railroads",
@@ -19,22 +16,25 @@
     "Military",
     "Facilities and Structures"
   ],
-  "dc_title_s": "Albania 1:10,000. Vlone (Valona) city plan. G.S.G.S. 4415.",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fqb%2F98%2Fmg%2F93%2F0%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/qb98mg930/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/qb98mg930/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1944",
+  "dc_creator_sm": [
+    "Army Map Service"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "qb98mg930",
+  "georss_polygon_s": "40.4667 19.4833 40.4667 19.500 40.4500 19.500 40.4500 19.4833 40.4667 19.4833",
+  "dc_publisher_s": "Army Map Service",
+  "solr_year_i": "1944",
   "dct_spatial_sm": [
     "Vlore ",
     "Vlone ",
     "Albania"
   ],
-  "dct_issued_s": "1944",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "40.4500 19.4833 40.4667 19.500",
-  "georss_polygon_s": "40.4667 19.4833 40.4667 19.500 40.4500 19.500 40.4500 19.4833 40.4667 19.4833",
-  "layer_slug_s": "princeton-qb98mg930",
   "layer_id_s": "qb98mg930",
-  "layer_modified_dt": "2015-01-11T17:42:39Z",
+  "georss_box_s": "40.4500 19.4833 40.4667 19.500",
+  "dc_title_s": "Albania 1:10,000. Vlone (Valona) city plan. G.S.G.S. 4415.",
+  "layer_slug_s": "princeton-qb98mg930",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(19.4833, 19.500, 40.4667, 40.4500)",
-  "solr_year_i": "1944"
+  "dc_language_s": "English"
 }

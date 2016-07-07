@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/n870zs28c",
-  "dc_creator_sm": [
-    "Central Intelligence Agency"
-  ],
   "dc_description_s": "This is a map of Czechoslovakia with relief, shown at a 1:1,430,000 scale. Also included are maps of land use, population, resources and industries of the country. The map was created by the Central Intelligence Agency.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "n870zs28c",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Central Intelligence Agency",
+  "layer_modified_dt": "2015-01-11T17:42:42Z",
+  "solr_geom": "ENVELOPE(12, 22, 51, 47)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fn8%2F70%2Fzs%2F28%2Fc%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/n870zs28c/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/n870zs28c/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/n870zs28c",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
     "Railroads",
@@ -19,21 +16,24 @@
     "Industry",
     "Resources"
   ],
-  "dc_title_s": "Czechoslovakia. (1974/relief). ",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fn8%2F70%2Fzs%2F28%2Fc%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/n870zs28c/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/n870zs28c/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "May 1974",
+  "dc_creator_sm": [
+    "Central Intelligence Agency"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "n870zs28c",
+  "georss_polygon_s": "51 12 51 22 47 22 47 12 51 12",
+  "dc_publisher_s": "Central Intelligence Agency",
   "dct_spatial_sm": [
     "Czechoslovakia",
     "Eastern Europe",
     "Europe"
   ],
-  "dct_issued_s": "May 1974",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "47 12 51 22",
-  "georss_polygon_s": "51 12 51 22 47 22 47 12 51 12",
-  "layer_slug_s": "princeton-n870zs28c",
   "layer_id_s": "n870zs28c",
-  "layer_modified_dt": "2015-01-11T17:42:42Z",
+  "georss_box_s": "47 12 51 22",
+  "dc_title_s": "Czechoslovakia. (1974/relief). ",
+  "layer_slug_s": "princeton-n870zs28c",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(12, 22, 51, 47)"
+  "dc_language_s": "English"
 }

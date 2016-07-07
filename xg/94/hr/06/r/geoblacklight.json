@@ -1,22 +1,26 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/xg94hr06r",
-  "dc_creator_sm": [
-    "National Geographic Society"
-  ],
   "dc_description_s": "This is a map of  California with descriptive notes. It has a scale of 20.6 miles to the inch. The map was created by the National Geographic Society for The National Geographic Magazine.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "xg94hr06r",
-  "dc_language_s": "English",
-  "dc_publisher_s": "National Geographic Society",
+  "layer_modified_dt": "2015-01-11T17:42:52Z",
+  "solr_geom": "ENVELOPE(-124.3908, -114.2175, 42, 32.5468)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fxg%2F94%2Fhr%2F06%2Fr%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/xg94hr06r/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/xg94hr06r/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/xg94hr06r",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Administrative and Political Boundaries",
     "Roads",
     "Cities"
   ],
-  "dc_title_s": "A map of California with descriptive notes",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fxg%2F94%2Fhr%2F06%2Fr%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/xg94hr06r/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/xg94hr06r/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1954",
+  "dc_creator_sm": [
+    "National Geographic Society"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "xg94hr06r",
+  "georss_polygon_s": "42 -124.3908 42 -114.2175 32.5468 -114.2175 32.5468 -124.3908 42 -124.3908",
+  "dc_publisher_s": "National Geographic Society",
+  "solr_year_i": "1954",
   "dct_spatial_sm": [
     "California",
     "Yosemite Valley",
@@ -26,14 +30,10 @@
     "California",
     "Bay Area"
   ],
-  "dct_issued_s": "1954",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "32.5468 -124.3908 42 -114.2175",
-  "georss_polygon_s": "42 -124.3908 42 -114.2175 32.5468 -114.2175 32.5468 -124.3908 42 -124.3908",
-  "layer_slug_s": "princeton-xg94hr06r",
   "layer_id_s": "xg94hr06r",
-  "layer_modified_dt": "2015-01-11T17:42:52Z",
+  "georss_box_s": "32.5468 -124.3908 42 -114.2175",
+  "dc_title_s": "A map of California with descriptive notes",
+  "layer_slug_s": "princeton-xg94hr06r",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(-124.3908, -114.2175, 42, 32.5468)",
-  "solr_year_i": "1954"
+  "dc_language_s": "English"
 }

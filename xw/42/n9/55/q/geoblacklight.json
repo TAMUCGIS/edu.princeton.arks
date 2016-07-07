@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/xw42n955q",
-  "dc_creator_sm": [
-    "United States. Geological Survey"
-  ],
   "dc_description_s": "This is a scanned historical map of the Abingdon Quadrangle in Virginia shown at a scale of 1:62,500. This map was created by the US Geological Survey.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "xw42n955q",
-  "dc_language_s": "English",
-  "dc_publisher_s": "US Geological Survey",
+  "layer_modified_dt": "2015-01-11T17:43:21Z",
+  "solr_geom": "ENVELOPE(-82, -81.5, 37, 36.5)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fxw%2F42%2Fn9%2F55%2Fq%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/xw42n955q/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/xw42n955q/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/xw42n955q",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "historical maps",
     "Topography",
@@ -16,9 +13,16 @@
     "Boundaries",
     "Administrative and political boundaries"
   ],
-  "dc_title_s": "Virginia--Tennessee--North Carolina: Abingdon Quadrangle [1911]",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fxw%2F42%2Fn9%2F55%2Fq%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/xw42n955q/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/xw42n955q/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1911",
+  "dc_creator_sm": [
+    "United States. Geological Survey"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "xw42n955q",
+  "georss_polygon_s": "37 -82 37 -81.5 36.5 -81.5 36.5 -82 37 -82",
+  "dc_publisher_s": "US Geological Survey",
+  "solr_year_i": "1911",
   "dct_spatial_sm": [
     "Abingdon",
     "Grayson County",
@@ -33,14 +37,10 @@
     "North Carolina",
     "United States"
   ],
-  "dct_issued_s": "1911",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "36.5 -82 37 -81.5",
-  "georss_polygon_s": "37 -82 37 -81.5 36.5 -81.5 36.5 -82 37 -82",
-  "layer_slug_s": "princeton-xw42n955q",
   "layer_id_s": "xw42n955q",
-  "layer_modified_dt": "2015-01-11T17:43:21Z",
+  "georss_box_s": "36.5 -82 37 -81.5",
+  "dc_title_s": "Virginia--Tennessee--North Carolina: Abingdon Quadrangle [1911]",
+  "layer_slug_s": "princeton-xw42n955q",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(-82, -81.5, 37, 36.5)",
-  "solr_year_i": "1911"
+  "dc_language_s": "English"
 }

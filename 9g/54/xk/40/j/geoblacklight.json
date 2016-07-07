@@ -1,32 +1,32 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/9g54xk40j",
-  "dc_creator_sm": "Prof. Kreike, History Department, Princeton University",
   "dc_description_s": "1943 aerial photographs of area near Oshikango and Edundja. Print out of aerial photograph 7x7 inches size was scanned and then georeferenced. Six images are grouped in one image catalog.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "9g54xk40j",
-  "dc_language_s": "English",
+  "layer_modified_dt": "2015-01-11T18:25:23Z",
+  "solr_geom": "ENVELOPE(15.875044, 16.029010, -17.389708, -17.463875)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/9g54xk40j\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/9g54xk40j/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/9g54xk40j",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Aerial photograph",
     "imageryBaseMapsEarthCover"
   ],
-  "dc_title_s": "1943 aerial photographs of area near Oshikango and Edundja",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/9g54xk40j\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/9g54xk40j/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1943",
+  "dc_creator_sm": "Prof. Kreike, History Department, Princeton University",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "9g54xk40j",
+  "georss_polygon_s": "-17.389708 15.875044 -17.389708 16.029010 -17.463875 16.029010 -17.463875 15.875044 -17.389708 15.875044",
+  "solr_year_i": "1943",
   "dct_spatial_sm": [
     "Oshikango",
     "Edundja",
     "Owambo",
     "Namibia"
   ],
-  "dct_issued_s": "1943",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "-17.463875 15.875044 -17.389708 16.029010",
-  "georss_polygon_s": "-17.389708 15.875044 -17.389708 16.029010 -17.463875 16.029010 -17.463875 15.875044 -17.389708 15.875044",
-  "layer_slug_s": "princeton-9g54xk40j",
   "layer_id_s": "9g54xk40j",
-  "layer_modified_dt": "2015-01-11T18:25:23Z",
+  "georss_box_s": "-17.463875 15.875044 -17.389708 16.029010",
+  "dc_title_s": "1943 aerial photographs of area near Oshikango and Edundja",
+  "layer_slug_s": "princeton-9g54xk40j",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(15.875044, 16.029010, -17.389708, -17.463875)",
-  "solr_year_i": "1943"
+  "dc_language_s": "English"
 }

@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/fx719p14p",
-  "dc_creator_sm": [
-    "United States Geological Survey"
-  ],
   "dc_description_s": "A scanned USGS 1:24,000 topographic map.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "fx719p14p",
-  "dc_language_s": "English",
-  "dc_publisher_s": "United States Geological Survey",
+  "layer_modified_dt": "2015-01-11T17:43:25Z",
+  "solr_geom": "ENVELOPE(-74.750, -74.625, 40.000, 39.875)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ffx%2F71%2F9p%2F14%2Fp%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/fx719p14p/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/fx719p14p/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/fx719p14p",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Topographic map",
     "Contour line",
@@ -16,9 +13,16 @@
     "Roads",
     "Geoscientific Information"
   ],
-  "dc_title_s": "Pemberton Quadrangle, New Jersey, 7.5 minute series (topographic) (1957)",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ffx%2F71%2F9p%2F14%2Fp%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/fx719p14p/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/fx719p14p/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1957",
+  "dc_creator_sm": [
+    "United States Geological Survey"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "fx719p14p",
+  "georss_polygon_s": "40.000 -74.750 40.000 -74.625 39.875 -74.625 39.875 -74.750 40.000 -74.750",
+  "dc_publisher_s": "United States Geological Survey",
+  "solr_year_i": "1957",
   "dct_spatial_sm": [
     "Pemberton",
     "Eastampton",
@@ -46,14 +50,10 @@
     "Vincentown",
     "New Jersey"
   ],
-  "dct_issued_s": "1957",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "39.875 -74.750 40.000 -74.625",
-  "georss_polygon_s": "40.000 -74.750 40.000 -74.625 39.875 -74.625 39.875 -74.750 40.000 -74.750",
-  "layer_slug_s": "princeton-fx719p14p",
   "layer_id_s": "fx719p14p",
-  "layer_modified_dt": "2015-01-11T17:43:25Z",
+  "georss_box_s": "39.875 -74.750 40.000 -74.625",
+  "dc_title_s": "Pemberton Quadrangle, New Jersey, 7.5 minute series (topographic) (1957)",
+  "layer_slug_s": "princeton-fx719p14p",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(-74.750, -74.625, 40.000, 39.875)",
-  "solr_year_i": "1957"
+  "dc_language_s": "English"
 }

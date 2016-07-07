@@ -1,34 +1,34 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/g445cf83j",
-  "dc_creator_sm": [
-    "Sanson, Nicolas"
-  ],
   "dc_description_s": "This is a scanned map of the world from the Historical Map Collection of Princeton University's Rare Books department.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "g445cf83j",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Chez H. Iaillot ",
+  "layer_modified_dt": "2015-01-11T17:43:27Z",
+  "solr_geom": "ENVELOPE(-180, 180, 90, -90)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fg4%2F45%2Fcf%2F83%2Fj%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/g445cf83j/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/g445cf83j/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/g445cf83j",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Maps--Early works to 1800",
     "World maps",
     "World map 1719",
     "Administrative and political boundaries"
   ],
-  "dc_title_s": "Mappe-monde geo-hydrographique, ou, Description générale du globe terrestre et aquatique, en deux plans-hemispheres",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fg4%2F45%2Fcf%2F83%2Fj%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/g445cf83j/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/g445cf83j/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1719",
+  "dc_creator_sm": [
+    "Sanson, Nicolas"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "g445cf83j",
+  "georss_polygon_s": "90 -180 90 180 -90 180 -90 -180 90 -180",
+  "dc_publisher_s": "Chez H. Iaillot ",
+  "solr_year_i": "1719",
   "dct_spatial_sm": [
     "World"
   ],
-  "dct_issued_s": "1719",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "-90 -180 90 180",
-  "georss_polygon_s": "90 -180 90 180 -90 180 -90 -180 90 -180",
-  "layer_slug_s": "princeton-g445cf83j",
   "layer_id_s": "g445cf83j",
-  "layer_modified_dt": "2015-01-11T17:43:27Z",
+  "georss_box_s": "-90 -180 90 180",
+  "dc_title_s": "Mappe-monde geo-hydrographique, ou, Description g\u00e9n\u00e9rale du globe terrestre et aquatique, en deux plans-hemispheres",
+  "layer_slug_s": "princeton-g445cf83j",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(-180, 180, 90, -90)",
-  "solr_year_i": "1719"
+  "dc_language_s": "English"
 }

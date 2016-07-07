@@ -1,12 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/rb68xd285",
-  "dc_creator_sm": "National Imagery and Mapping Agency",
   "dc_description_s": "This is a city map of Al Mawsil (Modul), Iraq shown at a 1:40,000 scale. This city map was created by the National Imagery and Mapping Agency.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "rb68xd285",
-  "dc_language_s": "English",
-  "dc_publisher_s": "National Imagery and Mapping Agency",
+  "layer_modified_dt": "2015-01-11T18:24:34Z",
+  "solr_geom": "ENVELOPE(43.0163, 43.2867, 36.4362, 36.1603)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/rb68xd285\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/rb68xd285/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/rb68xd285",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
     "Transportation",
@@ -15,9 +14,14 @@
     "City blocks",
     "Land use"
   ],
-  "dc_title_s": "Al Mawsil (Modul), Iraq",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/rb68xd285\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/rb68xd285/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "2003",
+  "dc_creator_sm": "National Imagery and Mapping Agency",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "rb68xd285",
+  "georss_polygon_s": "36.4362 43.0163 36.4362 43.2867 36.1603 43.2867 36.1603 43.0163 36.4362 43.0163",
+  "dc_publisher_s": "National Imagery and Mapping Agency",
+  "solr_year_i": "2003",
   "dct_spatial_sm": [
     "Al Mawsil",
     "Iraq",
@@ -25,14 +29,10 @@
     "Muhafazat Ninawa",
     "Ninawa Governorate"
   ],
-  "dct_issued_s": "2003",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "36.1603 43.0163 36.4362 43.2867",
-  "georss_polygon_s": "36.4362 43.0163 36.4362 43.2867 36.1603 43.2867 36.1603 43.0163 36.4362 43.0163",
-  "layer_slug_s": "princeton-rb68xd285",
   "layer_id_s": "rb68xd285",
-  "layer_modified_dt": "2015-01-11T18:24:34Z",
+  "georss_box_s": "36.1603 43.0163 36.4362 43.2867",
+  "dc_title_s": "Al Mawsil (Modul), Iraq",
+  "layer_slug_s": "princeton-rb68xd285",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(43.0163, 43.2867, 36.4362, 36.1603)",
-  "solr_year_i": "2003"
+  "dc_language_s": "English"
 }

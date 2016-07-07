@@ -1,35 +1,35 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/76537289v",
-  "dc_creator_sm": [
-    "Central Intelligence Agency"
-  ],
   "dc_description_s": "This is a map of Austria. The map was created by the Central Intelligence Agency.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "76537289v",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Central Intelligence Agency",
+  "layer_modified_dt": "2015-01-11T17:42:57Z",
+  "solr_geom": "ENVELOPE(8.5, 17.5, 49.6667, 44.8)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F76%2F53%2F72%2F89%2Fv%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/76537289v/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/76537289v/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/76537289v",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
     "Railroads",
     "Transportation",
     "Administrative and Political Boundaries"
   ],
-  "dc_title_s": "Austria, 1999",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F76%2F53%2F72%2F89%2Fv%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/76537289v/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/76537289v/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1999",
+  "dc_creator_sm": [
+    "Central Intelligence Agency"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "76537289v",
+  "georss_polygon_s": "49.6667 8.5 49.6667 17.5 44.8 17.5 44.8 8.5 49.6667 8.5",
+  "dc_publisher_s": "Central Intelligence Agency",
+  "solr_year_i": "1999",
   "dct_spatial_sm": [
     "Austria",
     "Europe"
   ],
-  "dct_issued_s": "1999",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "44.8 8.5 49.6667 17.5",
-  "georss_polygon_s": "49.6667 8.5 49.6667 17.5 44.8 17.5 44.8 8.5 49.6667 8.5",
-  "layer_slug_s": "princeton-76537289v",
   "layer_id_s": "76537289v",
-  "layer_modified_dt": "2015-01-11T17:42:57Z",
+  "georss_box_s": "44.8 8.5 49.6667 17.5",
+  "dc_title_s": "Austria, 1999",
+  "layer_slug_s": "princeton-76537289v",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(8.5, 17.5, 49.6667, 44.8)",
-  "solr_year_i": "1999"
+  "dc_language_s": "English"
 }

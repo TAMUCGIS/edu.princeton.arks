@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/zg64tn423",
-  "dc_creator_sm": [
-    "Army Map Service"
-  ],
   "dc_description_s": "This is a map of the city of Kunsan, Korea, shown at a 1:12,500 scale. The map was created for use by War and Navy Department agencies by the Army Map Service.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "zg64tn423",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Army Map Service",
+  "layer_modified_dt": "2015-01-11T17:42:44Z",
+  "solr_geom": "ENVELOPE(126.6500, 126.7667, 36.0167, 35.9500)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fzg%2F64%2Ftn%2F42%2F3%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/zg64tn423/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/zg64tn423/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/zg64tn423",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
     "Railroads",
@@ -18,9 +15,16 @@
     "Military",
     "Facilities and Structures"
   ],
-  "dc_title_s": "Kunsan (Gunzan), Cholla-pukto (Zenra-hokudo) and Ch'unch'ong-namdo (Chusei-nando) Korea. A.M.S. L951.",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fzg%2F64%2Ftn%2F42%2F3%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/zg64tn423/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/zg64tn423/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1946",
+  "dc_creator_sm": [
+    "Army Map Service"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "zg64tn423",
+  "georss_polygon_s": "36.0167 126.6500 36.0167 126.7667 35.9500 126.7667 35.9500 126.6500 36.0167 126.6500",
+  "dc_publisher_s": "Army Map Service",
+  "solr_year_i": "1946",
   "dct_spatial_sm": [
     "Kunsan ",
     "Gunzan ",
@@ -30,14 +34,10 @@
     "Chusei-nando ",
     "South Korea"
   ],
-  "dct_issued_s": "1946",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "35.9500 126.6500 36.0167 126.7667",
-  "georss_polygon_s": "36.0167 126.6500 36.0167 126.7667 35.9500 126.7667 35.9500 126.6500 36.0167 126.6500",
-  "layer_slug_s": "princeton-zg64tn423",
   "layer_id_s": "zg64tn423",
-  "layer_modified_dt": "2015-01-11T17:42:44Z",
+  "georss_box_s": "35.9500 126.6500 36.0167 126.7667",
+  "dc_title_s": "Kunsan (Gunzan), Cholla-pukto (Zenra-hokudo) and Ch'unch'ong-namdo (Chusei-nando) Korea. A.M.S. L951.",
+  "layer_slug_s": "princeton-zg64tn423",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(126.6500, 126.7667, 36.0167, 35.9500)",
-  "solr_year_i": "1946"
+  "dc_language_s": "English"
 }

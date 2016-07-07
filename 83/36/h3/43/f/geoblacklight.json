@@ -1,12 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/8336h343f",
-  "dc_creator_sm": "Trondheim Bygningssjefkontor",
   "dc_description_s": "This is a city map of Trondheim, Norway, shown at a 1:10,000 scale. This city map was created by Trondheim Bygningssjefkontor.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "8336h343f",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Trondheim Bygningssjefkontor",
+  "layer_modified_dt": "2015-01-11T18:24:49Z",
+  "solr_geom": "ENVELOPE(10.2902, 10.5176, 63.4585, 63.3275)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/8336h343f\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/8336h343f/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/8336h343f",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
     "Transportation",
@@ -15,23 +14,24 @@
     "City blocks",
     "Relief"
   ],
-  "dc_title_s": "Bruns kart over Trondheim med byggebelte",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/8336h343f\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/8336h343f/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1940",
+  "dc_creator_sm": "Trondheim Bygningssjefkontor",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "8336h343f",
+  "georss_polygon_s": "63.4585 10.2902 63.4585 10.5176 63.3275 10.5176 63.3275 10.2902 63.4585 10.2902",
+  "dc_publisher_s": "Trondheim Bygningssjefkontor",
+  "solr_year_i": "1940",
   "dct_spatial_sm": [
     "Trondheim",
     "Norway",
     "Trondhjem",
     "Nidaros"
   ],
-  "dct_issued_s": "1940",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "63.3275 10.2902 63.4585 10.5176",
-  "georss_polygon_s": "63.4585 10.2902 63.4585 10.5176 63.3275 10.5176 63.3275 10.2902 63.4585 10.2902",
-  "layer_slug_s": "princeton-8336h343f",
   "layer_id_s": "8336h343f",
-  "layer_modified_dt": "2015-01-11T18:24:49Z",
+  "georss_box_s": "63.3275 10.2902 63.4585 10.5176",
+  "dc_title_s": "Bruns kart over Trondheim med byggebelte",
+  "layer_slug_s": "princeton-8336h343f",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(10.2902, 10.5176, 63.4585, 63.3275)",
-  "solr_year_i": "1940"
+  "dc_language_s": "English"
 }

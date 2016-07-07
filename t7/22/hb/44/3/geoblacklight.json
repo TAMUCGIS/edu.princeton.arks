@@ -1,12 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/t722hb443",
-  "dc_creator_sm": "British War Office, Geographical Section",
   "dc_description_s": "This is a city map of Watfod, England, shown at a 1:63,360 scale. This city map was created by the British War Office, Geographical Section.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "t722hb443",
-  "dc_language_s": "English",
-  "dc_publisher_s": "British War Office, Geographical Section",
+  "layer_modified_dt": "2015-01-11T18:25:00Z",
+  "solr_geom": "ENVELOPE(-0.5316, -0.2707, 51.7372, 51.6102)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/t722hb443\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/t722hb443/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/t722hb443",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
     "Transportation",
@@ -15,9 +14,14 @@
     "City blocks",
     "Topography"
   ],
-  "dc_title_s": "Ordinance Survey of England and Wales, Second War Revision 1940",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/t722hb443\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/t722hb443/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1940",
+  "dc_creator_sm": "British War Office, Geographical Section",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "t722hb443",
+  "georss_polygon_s": "51.7372 -0.5316 51.7372 -0.2707 51.6102 -0.2707 51.6102 -0.5316 51.7372 -0.5316",
+  "dc_publisher_s": "British War Office, Geographical Section",
+  "solr_year_i": "1940",
   "dct_spatial_sm": [
     "Watford",
     "England",
@@ -27,14 +31,10 @@
     "Middlesex",
     "Berkshire"
   ],
-  "dct_issued_s": "1940",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "51.6102 -0.5316 51.7372 -0.2707",
-  "georss_polygon_s": "51.7372 -0.5316 51.7372 -0.2707 51.6102 -0.2707 51.6102 -0.5316 51.7372 -0.5316",
-  "layer_slug_s": "princeton-t722hb443",
   "layer_id_s": "t722hb443",
-  "layer_modified_dt": "2015-01-11T18:25:00Z",
+  "georss_box_s": "51.6102 -0.5316 51.7372 -0.2707",
+  "dc_title_s": "Ordinance Survey of England and Wales, Second War Revision 1940",
+  "layer_slug_s": "princeton-t722hb443",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(-0.5316, -0.2707, 51.7372, 51.6102)",
-  "solr_year_i": "1940"
+  "dc_language_s": "English"
 }

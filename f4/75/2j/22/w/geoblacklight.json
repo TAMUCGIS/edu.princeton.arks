@@ -1,22 +1,26 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/f4752j22w",
-  "dc_creator_sm": [
-    "New York : Sanborn Map Company"
-  ],
   "dc_description_s": "This is a Sanborn map of Hohokus (located in Ridgewood Village), Bergen County shown at a scale of 1:600.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "f4752j22w",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Sanborn Map Company",
+  "layer_modified_dt": "2015-01-11T17:42:44Z",
+  "solr_geom": "ENVELOPE(-74.149, -74.078, 41.008, 40.955)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ff4%2F75%2F2j%2F22%2Fw%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/f4752j22w/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/f4752j22w/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/f4752j22w",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Hohokus (Sheet 4) ",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ff4%2F75%2F2j%2F22%2Fw%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/f4752j22w/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/f4752j22w/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1930",
+  "dc_creator_sm": [
+    "New York : Sanborn Map Company"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "f4752j22w",
+  "georss_polygon_s": "41.008 -74.149 41.008 -74.078 40.955 -74.078 40.955 -74.149 41.008 -74.149",
+  "dc_publisher_s": "Sanborn Map Company",
+  "solr_year_i": "1930",
   "dct_spatial_sm": [
     "Hohokus",
     "Ridgewood",
@@ -24,14 +28,10 @@
     "New Jersey",
     "United States"
   ],
-  "dct_issued_s": "1930",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "40.955 -74.149 41.008 -74.078",
-  "georss_polygon_s": "41.008 -74.149 41.008 -74.078 40.955 -74.078 40.955 -74.149 41.008 -74.149",
-  "layer_slug_s": "princeton-f4752j22w",
   "layer_id_s": "f4752j22w",
-  "layer_modified_dt": "2015-01-11T17:42:44Z",
+  "georss_box_s": "40.955 -74.149 41.008 -74.078",
+  "dc_title_s": "Hohokus (Sheet 4) ",
+  "layer_slug_s": "princeton-f4752j22w",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(-74.149, -74.078, 41.008, 40.955)",
-  "solr_year_i": "1930"
+  "dc_language_s": "English"
 }

@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/2r36tz994",
-  "dc_creator_sm": [
-    "Great Britain. War Office. General Staff. Geographical Section."
-  ],
   "dc_description_s": "This is a map of the city of Paris, France, shown at a 1:16,000 scale. The map was created for use by War and Navy Department agencies during World War II.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "2r36tz994",
-  "dc_language_s": "English",
-  "dc_publisher_s": "General Staff.  Geographical Section.",
+  "layer_modified_dt": "2015-01-11T17:42:38Z",
+  "solr_geom": "ENVELOPE(2.250, 2.433, 48.900, 48.817)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F2r%2F36%2Ftz%2F99%2F4%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/2r36tz994/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/2r36tz994/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/2r36tz994",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
     "Railroads",
@@ -19,21 +16,24 @@
     "Military",
     "Facilities and Structures"
   ],
-  "dc_title_s": "Paris",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F2r%2F36%2Ftz%2F99%2F4%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/2r36tz994/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/2r36tz994/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1944",
+  "dc_creator_sm": [
+    "Great Britain. War Office. General Staff. Geographical Section."
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "2r36tz994",
+  "georss_polygon_s": "48.900 2.250 48.900 2.433 48.817 2.433 48.817 2.250 48.900 2.250",
+  "dc_publisher_s": "General Staff.  Geographical Section.",
+  "solr_year_i": "1944",
   "dct_spatial_sm": [
     "Paris",
     "France"
   ],
-  "dct_issued_s": "1944",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "48.817 2.250 48.900 2.433",
-  "georss_polygon_s": "48.900 2.250 48.900 2.433 48.817 2.433 48.817 2.250 48.900 2.250",
-  "layer_slug_s": "princeton-2r36tz994",
   "layer_id_s": "2r36tz994",
-  "layer_modified_dt": "2015-01-11T17:42:38Z",
+  "georss_box_s": "48.817 2.250 48.900 2.433",
+  "dc_title_s": "Paris",
+  "layer_slug_s": "princeton-2r36tz994",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(2.250, 2.433, 48.900, 48.817)",
-  "solr_year_i": "1944"
+  "dc_language_s": "English"
 }

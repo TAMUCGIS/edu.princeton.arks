@@ -1,20 +1,24 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/2b88qd60m",
-  "dc_creator_sm": [
-    "Central Intelligence Agency"
-  ],
   "dc_description_s": "This is a map of the Commonwealth of Independent States - Central Asian States, shown at a 120,700,000 scale. The map was created by the United States Central Intelligence Agency.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "2b88qd60m",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Central Intelligence Agency",
+  "layer_modified_dt": "2015-01-11T17:42:32Z",
+  "solr_geom": "ENVELOPE(45, 91, 60, 34)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F2b%2F88%2Fqd%2F60%2Fm%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/2b88qd60m/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/2b88qd60m/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/2b88qd60m",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Administrational and Political Boundaries"
   ],
-  "dc_title_s": "Commonweath of Independent States, 1992",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F2b%2F88%2Fqd%2F60%2Fm%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/2b88qd60m/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/2b88qd60m/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1992",
+  "dc_creator_sm": [
+    "Central Intelligence Agency"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "2b88qd60m",
+  "georss_polygon_s": "60 45 60 91 34 91 34 45 60 45",
+  "dc_publisher_s": "Central Intelligence Agency",
+  "solr_year_i": "1992",
   "dct_spatial_sm": [
     "Commonwealth of Independent States",
     "Russia",
@@ -24,14 +28,10 @@
     "Kyrgyzstan",
     "Tajikistan"
   ],
-  "dct_issued_s": "1992",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "34 45 60 91",
-  "georss_polygon_s": "60 45 60 91 34 91 34 45 60 45",
-  "layer_slug_s": "princeton-2b88qd60m",
   "layer_id_s": "2b88qd60m",
-  "layer_modified_dt": "2015-01-11T17:42:32Z",
+  "georss_box_s": "34 45 60 91",
+  "dc_title_s": "Commonweath of Independent States, 1992",
+  "layer_slug_s": "princeton-2b88qd60m",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(45, 91, 60, 34)",
-  "solr_year_i": "1992"
+  "dc_language_s": "English"
 }

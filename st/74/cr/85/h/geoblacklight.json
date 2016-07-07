@@ -1,19 +1,23 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/st74cr85h",
-  "dc_creator_sm": "Survey of India",
   "dc_description_s": "This is a map of the cities of Mussoorie and Landour, India, shown at a 1:7,920 or 8 in. = 1 mi. scale. The map was created by the government-sponsored Survey of India.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "st74cr85h",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Survey of India",
+  "layer_modified_dt": "2015-01-11T18:24:30Z",
+  "solr_geom": "ENVELOPE(78.0333, 78.0833, 30.4667, 30.4333)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/st74cr85h\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/st74cr85h/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/st74cr85h",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Topography",
     "elevation"
   ],
-  "dc_title_s": "Guide map of Mussoorie and Landour.",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/st74cr85h\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/st74cr85h/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1946",
+  "dc_creator_sm": "Survey of India",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "st74cr85h",
+  "georss_polygon_s": "30.4667 78.0333 30.4667 78.0833 30.4333 78.0833 30.4333 78.0333 30.4667 78.0333",
+  "dc_publisher_s": "Survey of India",
+  "solr_year_i": "1946",
   "dct_spatial_sm": [
     "Mussoorie",
     "Landour",
@@ -24,14 +28,10 @@
     "India",
     "MAX  G7654.M79C2.1946.S9I5"
   ],
-  "dct_issued_s": "1946",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "30.4333 78.0333 30.4667 78.0833",
-  "georss_polygon_s": "30.4667 78.0333 30.4667 78.0833 30.4333 78.0833 30.4333 78.0333 30.4667 78.0333",
-  "layer_slug_s": "princeton-st74cr85h",
   "layer_id_s": "st74cr85h",
-  "layer_modified_dt": "2015-01-11T18:24:30Z",
+  "georss_box_s": "30.4333 78.0333 30.4667 78.0833",
+  "dc_title_s": "Guide map of Mussoorie and Landour.",
+  "layer_slug_s": "princeton-st74cr85h",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(78.0333, 78.0833, 30.4667, 30.4333)",
-  "solr_year_i": "1946"
+  "dc_language_s": "English"
 }

@@ -1,33 +1,33 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/v692t762b",
-  "dc_creator_sm": [
-    "LeadDog Consulting, LLC"
-  ],
   "dc_description_s": "Beijing Railways",
-  "dc_format_s": "Shapefile",
-  "dc_identifier_s": "v692t762b",
-  "dc_language_s": "English",
-  "dc_publisher_s": "LeadDog Consulting, LLC",
-  "dc_rights_s": "Public",
+  "layer_modified_dt": "2014-12-19T16:18:32Z",
+  "solr_geom": "ENVELOPE(115.402133, 117.249807, 40.711855, 39.343596)",
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/v692t762b/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/v692t762b/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/v692t762b/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
+  "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/v692t762b",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Transportation networks: transportation",
     "Railways"
   ],
-  "dc_title_s": "Beijing Railways",
+  "dc_format_s": "Shapefile",
+  "dct_issued_s": "2006",
+  "dc_creator_sm": [
+    "LeadDog Consulting, LLC"
+  ],
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/download/items/v692t762b/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/v692t762b/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/v692t762b/preview.jpg\"}",
+  "dc_identifier_s": "v692t762b",
+  "georss_polygon_s": "40.711855 115.402133 40.711855 117.249807 39.343596 117.249807 39.343596 115.402133 40.711855 115.402133",
+  "dc_publisher_s": "LeadDog Consulting, LLC",
+  "solr_year_i": "2006",
   "dct_spatial_sm": [
     "China",
     "Beijing"
   ],
-  "dct_issued_s": "2006",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "39.343596 115.402133 40.711855 117.249807",
-  "georss_polygon_s": "40.711855 115.402133 40.711855 117.249807 39.343596 117.249807 39.343596 115.402133 40.711855 115.402133",
-  "layer_slug_s": "princeton-v692t762b",
   "layer_id_s": "pulmap-restricted:v692t762b",
-  "layer_modified_dt": "2014-12-19T16:18:32Z",
+  "georss_box_s": "39.343596 115.402133 40.711855 117.249807",
+  "dc_title_s": "Beijing Railways",
+  "layer_slug_s": "princeton-v692t762b",
   "layer_geom_type_s": "Line",
-  "solr_geom": "ENVELOPE(115.402133, 117.249807, 40.711855, 39.343596)",
-  "solr_year_i": "2006"
+  "dc_language_s": "English"
 }

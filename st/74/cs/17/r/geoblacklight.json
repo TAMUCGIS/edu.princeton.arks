@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/st74cs17r",
-  "dc_creator_sm": [
-    "Cooke, Charles E."
-  ],
   "dc_description_s": "A scanned historical map shown at a scale of 1:62500.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "st74cs17r",
-  "dc_language_s": "English",
-  "dc_publisher_s": "United States Geological Survey",
+  "layer_modified_dt": "2015-01-11T17:43:30Z",
+  "solr_geom": "ENVELOPE(-73.250, -73.000, 44.750, 44.500)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fst%2F74%2Fcs%2F17%2Fr%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/st74cs17r/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/st74cs17r/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/st74cs17r",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "historical maps",
     "Topography",
@@ -17,20 +14,23 @@
     "Administrative and political boundaries",
     "Imagery and Base Maps"
   ],
-  "dc_title_s": "Vermont: Milton Quadrangle. [1931 reprint]",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fst%2F74%2Fcs%2F17%2Fr%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/st74cs17r/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/st74cs17r/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1931",
+  "dc_creator_sm": [
+    "Cooke, Charles E."
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "st74cs17r",
+  "georss_polygon_s": "44.750 -73.250 44.750 -73.000 44.500 -73.000 44.500 -73.250 44.750 -73.250",
+  "dc_publisher_s": "United States Geological Survey",
+  "solr_year_i": "1931",
   "dct_spatial_sm": [
     "Vermont"
   ],
-  "dct_issued_s": "1931",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "44.500 -73.250 44.750 -73.000",
-  "georss_polygon_s": "44.750 -73.250 44.750 -73.000 44.500 -73.000 44.500 -73.250 44.750 -73.250",
-  "layer_slug_s": "princeton-st74cs17r",
   "layer_id_s": "st74cs17r",
-  "layer_modified_dt": "2015-01-11T17:43:30Z",
+  "georss_box_s": "44.500 -73.250 44.750 -73.000",
+  "dc_title_s": "Vermont: Milton Quadrangle. [1931 reprint]",
+  "layer_slug_s": "princeton-st74cs17r",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(-73.250, -73.000, 44.750, 44.500)",
-  "solr_year_i": "1931"
+  "dc_language_s": "English"
 }

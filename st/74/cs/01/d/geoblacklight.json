@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/st74cs01d",
-  "dc_creator_sm": [
-    "Russia (Federation). General'nyi shtab. Voenno-topograficheskoe upravlenie"
-  ],
   "dc_description_s": "This is a map of the city of Changde, China shown at a 1:10,000 scale. This is a Russian map purchased from East View Cartographic.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "st74cs01d",
-  "dc_language_s": "English",
-  "dc_publisher_s": "East View Cartographic",
+  "layer_modified_dt": "2015-01-11T17:42:56Z",
+  "solr_geom": "ENVELOPE(111.6333, 111.7333, 29.0667, 29.000)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fst%2F74%2Fcs%2F01%2Fd%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/st74cs01d/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/st74cs01d/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/st74cs01d",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
     "Railroads",
@@ -17,23 +14,26 @@
     "City map",
     "Facilities and Structures"
   ],
-  "dc_title_s": "Kitai provintsiia Kunan'. Chande (H-49-116). ",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fst%2F74%2Fcs%2F01%2Fd%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/st74cs01d/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/st74cs01d/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1976",
+  "dc_creator_sm": [
+    "Russia (Federation). General'nyi shtab. Voenno-topograficheskoe upravlenie"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "st74cs01d",
+  "georss_polygon_s": "29.0667 111.6333 29.0667 111.7333 29.000 111.7333 29.000 111.6333 29.0667 111.6333",
+  "dc_publisher_s": "East View Cartographic",
+  "solr_year_i": "1976",
   "dct_spatial_sm": [
     "Changde",
     "Chande",
     "Hunan",
     "China"
   ],
-  "dct_issued_s": "1976",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "29.000 111.6333 29.0667 111.7333",
-  "georss_polygon_s": "29.0667 111.6333 29.0667 111.7333 29.000 111.7333 29.000 111.6333 29.0667 111.6333",
-  "layer_slug_s": "princeton-st74cs01d",
   "layer_id_s": "st74cs01d",
-  "layer_modified_dt": "2015-01-11T17:42:56Z",
+  "georss_box_s": "29.000 111.6333 29.0667 111.7333",
+  "dc_title_s": "Kitai provintsiia Kunan'. Chande (H-49-116). ",
+  "layer_slug_s": "princeton-st74cs01d",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(111.6333, 111.7333, 29.0667, 29.000)",
-  "solr_year_i": "1976"
+  "dc_language_s": "English"
 }

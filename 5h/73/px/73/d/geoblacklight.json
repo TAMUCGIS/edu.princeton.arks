@@ -1,13 +1,22 @@
 {
+  "layer_modified_dt": "2014-12-19T16:18:36Z",
   "uuid": "http://arks.princeton.edu/ark:/88435/5h73px73d",
+  "dc_description_s": "Land parcels in Montezuma County, Colorado, 2009.",
+  "georss_box_s": "37.130812 -109.045934 37.637197 -108.063715",
+  "layer_slug_s": "princeton-5h73px73d",
+  "dct_spatial_sm": [
+    "Montezuma",
+    "Montezuma County",
+    "Colorado"
+  ],
   "dc_creator_sm": [
     "Boundary Solutions, Inc."
   ],
-  "dc_description_s": "Land parcels in Montezuma County, Colorado, 2009.",
-  "dc_format_s": "Shapefile",
+  "layer_id_s": "pulmap-restricted:5h73px73d",
+  "georss_polygon_s": "37.637197 -109.045934 37.637197 -108.063715 37.130812 -108.063715 37.130812 -109.045934 37.637197 -109.045934",
+  "dc_type_s": "Dataset",
   "dc_identifier_s": "5h73px73d",
-  "dc_language_s": "English",
-  "dc_rights_s": "Public",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "property maps",
     "cadastral maps",
@@ -25,21 +34,12 @@
     "land value",
     "Planning and Cadastral"
   ],
-  "dc_title_s": "Montezuma County, Colorado land parcels, 2009",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/download/items/5h73px73d/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/5h73px73d/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/5h73px73d/preview.jpg\"}",
-  "dct_spatial_sm": [
-    "Montezuma",
-    "Montezuma County",
-    "Colorado"
-  ],
   "dct_issued_s": "20091117",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "37.130812 -109.045934 37.637197 -108.063715",
-  "georss_polygon_s": "37.637197 -109.045934 37.637197 -108.063715 37.130812 -108.063715 37.130812 -109.045934 37.637197 -109.045934",
-  "layer_slug_s": "princeton-5h73px73d",
-  "layer_id_s": "pulmap-restricted:5h73px73d",
-  "layer_modified_dt": "2014-12-19T16:18:36Z",
+  "dc_format_s": "Shapefile",
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/5h73px73d/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/5h73px73d/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/5h73px73d/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
+  "dc_title_s": "Montezuma County, Colorado land parcels, 2009",
   "layer_geom_type_s": "Polygon",
-  "solr_geom": "ENVELOPE(-109.045934, -108.063715, 37.637197, 37.130812)"
+  "solr_geom": "ENVELOPE(-109.045934, -108.063715, 37.637197, 37.130812)",
+  "dc_rights_s": "Restricted",
+  "dc_language_s": "English"
 }

@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/6t053h53b",
-  "dc_creator_sm": [
-    "United States Geological Survey"
-  ],
   "dc_description_s": "A scanned USGS 1:31,680 topographic map.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "6t053h53b",
-  "dc_language_s": "English",
-  "dc_publisher_s": "U.S.G.S.",
+  "layer_modified_dt": "2015-01-11T17:42:54Z",
+  "solr_geom": "ENVELOPE(-77.2500, -76.8667, 39.00, 38.750)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F6t%2F05%2F3h%2F53%2Fb%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/6t053h53b/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/6t053h53b/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/6t053h53b",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Topographic map",
     "Contour line",
@@ -18,9 +15,16 @@
     "Sedimentation",
     "Sedimentary Formations"
   ],
-  "dc_title_s": "Sedimentary formations of Washington, D.C., and vicinity. ",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F6t%2F05%2F3h%2F53%2Fb%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/6t053h53b/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/6t053h53b/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1947",
+  "dc_creator_sm": [
+    "United States Geological Survey"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "6t053h53b",
+  "georss_polygon_s": "39.00 -77.2500 39.00 -76.8667 38.750 -76.8667 38.750 -77.2500 39.00 -77.2500",
+  "dc_publisher_s": "U.S.G.S.",
+  "solr_year_i": "1947",
   "dct_spatial_sm": [
     "Washington Metropolitan Area",
     "Prince Georges County",
@@ -32,14 +36,10 @@
     "District of Columbia",
     "United States"
   ],
-  "dct_issued_s": "1947",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "38.750 -77.2500 39.00 -76.8667",
-  "georss_polygon_s": "39.00 -77.2500 39.00 -76.8667 38.750 -76.8667 38.750 -77.2500 39.00 -77.2500",
-  "layer_slug_s": "princeton-6t053h53b",
   "layer_id_s": "6t053h53b",
-  "layer_modified_dt": "2015-01-11T17:42:54Z",
+  "georss_box_s": "38.750 -77.2500 39.00 -76.8667",
+  "dc_title_s": "Sedimentary formations of Washington, D.C., and vicinity. ",
+  "layer_slug_s": "princeton-6t053h53b",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(-77.2500, -76.8667, 39.00, 38.750)",
-  "solr_year_i": "1947"
+  "dc_language_s": "English"
 }

@@ -1,12 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/c247dt73f",
-  "dc_creator_sm": "Amt fur Verkehrsforderung",
   "dc_description_s": "This is a city map of Hannover, Germany, shown at a 1:15,000 scale. This city map was created by Amt fur Verkehrsforderung.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "c247dt73f",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Amt fur Verkehrsforderung",
+  "layer_modified_dt": "2015-01-11T18:25:02Z",
+  "solr_geom": "ENVELOPE(9.6053, 9.9164, 52.4535, 52.3068)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/c247dt73f\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/c247dt73f/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/c247dt73f",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
     "Transportation",
@@ -15,23 +14,24 @@
     "City blocks",
     "Tourism"
   ],
-  "dc_title_s": "Hannover",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/c247dt73f\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/c247dt73f/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1964",
+  "dc_creator_sm": "Amt fur Verkehrsforderung",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "c247dt73f",
+  "georss_polygon_s": "52.4535 9.6053 52.4535 9.9164 52.3068 9.9164 52.3068 9.6053 52.4535 9.6053",
+  "dc_publisher_s": "Amt fur Verkehrsforderung",
+  "solr_year_i": "1964",
   "dct_spatial_sm": [
     "Hannover",
     "Germany",
     "Bundesrepublik Deutschland",
     "Federal Republic of Germany"
   ],
-  "dct_issued_s": "1964",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "52.3068 9.6053 52.4535 9.9164",
-  "georss_polygon_s": "52.4535 9.6053 52.4535 9.9164 52.3068 9.9164 52.3068 9.6053 52.4535 9.6053",
-  "layer_slug_s": "princeton-c247dt73f",
   "layer_id_s": "c247dt73f",
-  "layer_modified_dt": "2015-01-11T18:25:02Z",
+  "georss_box_s": "52.3068 9.6053 52.4535 9.9164",
+  "dc_title_s": "Hannover",
+  "layer_slug_s": "princeton-c247dt73f",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(9.6053, 9.9164, 52.4535, 52.3068)",
-  "solr_year_i": "1964"
+  "dc_language_s": "English"
 }

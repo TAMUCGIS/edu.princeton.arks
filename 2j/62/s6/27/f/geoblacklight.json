@@ -1,36 +1,36 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/2j62s627f",
-  "dc_creator_sm": [
-    "New York : Sanborn Map Company"
-  ],
   "dc_description_s": "This is a Sanborn map of Camden, Burlington County shown at a scale of 1:600.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "2j62s627f",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Sanborn Map Company",
+  "layer_modified_dt": "2015-01-11T17:42:26Z",
+  "solr_geom": "ENVELOPE(-75.1213, -75.1163, 39.9493, 39.9448)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F2j%2F62%2Fs6%2F27%2Ff%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/2j62s627f/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/2j62s627f/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/2j62s627f",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Camden, Burlington County (Sheet 14)",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F2j%2F62%2Fs6%2F27%2Ff%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/2j62s627f/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/2j62s627f/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1891",
+  "dc_creator_sm": [
+    "New York : Sanborn Map Company"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "2j62s627f",
+  "georss_polygon_s": "39.9493 -75.1213 39.9493 -75.1163 39.9448 -75.1163 39.9448 -75.1213 39.9493 -75.1213",
+  "dc_publisher_s": "Sanborn Map Company",
+  "solr_year_i": "1891",
   "dct_spatial_sm": [
     "Camden County",
     "Camden",
     "New Jersey",
     "United States"
   ],
-  "dct_issued_s": "1891",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "39.9448 -75.1213 39.9493 -75.1163",
-  "georss_polygon_s": "39.9493 -75.1213 39.9493 -75.1163 39.9448 -75.1163 39.9448 -75.1213 39.9493 -75.1213",
-  "layer_slug_s": "princeton-2j62s627f",
   "layer_id_s": "2j62s627f",
-  "layer_modified_dt": "2015-01-11T17:42:26Z",
+  "georss_box_s": "39.9448 -75.1213 39.9493 -75.1163",
+  "dc_title_s": "Camden, Burlington County (Sheet 14)",
+  "layer_slug_s": "princeton-2j62s627f",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(-75.1213, -75.1163, 39.9493, 39.9448)",
-  "solr_year_i": "1891"
+  "dc_language_s": "English"
 }

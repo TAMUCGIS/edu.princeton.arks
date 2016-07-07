@@ -1,12 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/05741t125",
-  "dc_creator_sm": "Studio F.M.B Bologna",
   "dc_description_s": "This is a city map of Trieste, Italy, shown at a 1:10,000 scale. This city map was created by Studio F.M.B Bologna.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "05741t125",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Studio F.M.B Bologna",
+  "layer_modified_dt": "2015-01-11T18:24:35Z",
+  "solr_geom": "ENVELOPE(13.7321, 13.8344, 45.6970, 45.6070)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/05741t125\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/05741t125/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/05741t125",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
     "Transportation",
@@ -14,9 +13,14 @@
     "Facilities and Structures",
     "City blocks"
   ],
-  "dc_title_s": "Trieste: pianta della citta",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/05741t125\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/05741t125/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1975",
+  "dc_creator_sm": "Studio F.M.B Bologna",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "05741t125",
+  "georss_polygon_s": "45.6970 13.7321 45.6970 13.8344 45.6070 13.8344 45.6070 13.7321 45.6970 13.7321",
+  "dc_publisher_s": "Studio F.M.B Bologna",
+  "solr_year_i": "1975",
   "dct_spatial_sm": [
     "Trieste",
     "Italy",
@@ -25,14 +29,10 @@
     "Province of Trieste",
     "Provincia di Trieste"
   ],
-  "dct_issued_s": "1975",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "45.6070 13.7321 45.6970 13.8344",
-  "georss_polygon_s": "45.6970 13.7321 45.6970 13.8344 45.6070 13.8344 45.6070 13.7321 45.6970 13.7321",
-  "layer_slug_s": "princeton-05741t125",
   "layer_id_s": "05741t125",
-  "layer_modified_dt": "2015-01-11T18:24:35Z",
+  "georss_box_s": "45.6070 13.7321 45.6970 13.8344",
+  "dc_title_s": "Trieste: pianta della citta",
+  "layer_slug_s": "princeton-05741t125",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(13.7321, 13.8344, 45.6970, 45.6070)",
-  "solr_year_i": "1975"
+  "dc_language_s": "English"
 }

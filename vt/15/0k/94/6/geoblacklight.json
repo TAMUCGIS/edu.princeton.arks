@@ -1,13 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/vt150k946",
-  "dc_creator_sm": [
-    "All China Marketing Research Co., Ltd."
-  ],
   "dc_description_s": "Township locations in Guizhou Province, China, with 2000 Census data from long form tables L7-L8 (9.5% counts). Includes introductory, employed population, and fertility information.",
-  "dc_format_s": "Shapefile",
-  "dc_identifier_s": "vt150k946",
-  "dc_language_s": "English",
-  "dc_rights_s": "Public",
+  "layer_modified_dt": "2014-12-19T16:18:32Z",
+  "solr_geom": "ENVELOPE(103.709671, 109.558264, 29.085976, 24.715436)",
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/vt150k946/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/vt150k946/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/vt150k946/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
+  "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/vt150k946",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "demographic",
     "births",
@@ -41,25 +39,27 @@
     "sex",
     "Society"
   ],
-  "dc_title_s": "Township map of Guizhou with 2000 Census long form data (L7-L8)",
+  "dc_format_s": "Shapefile",
+  "dct_issued_s": "20050418",
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "dc_creator_sm": [
+    "All China Marketing Research Co., Ltd."
+  ],
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/download/items/vt150k946/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/vt150k946/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/vt150k946/preview.jpg\"}",
+  "dc_identifier_s": "vt150k946",
+  "georss_polygon_s": "29.085976 103.709671 29.085976 109.558264 24.715436 109.558264 24.715436 103.709671 29.085976 103.709671",
+  "solr_year_i": "2000",
   "dct_spatial_sm": [
     "China",
     "Guizhou",
     "Guizhou Province"
   ],
-  "dct_temporal_sm": [
-    "2000"
-  ],
-  "dct_issued_s": "20050418",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "24.715436 103.709671 29.085976 109.558264",
-  "georss_polygon_s": "29.085976 103.709671 29.085976 109.558264 24.715436 109.558264 24.715436 103.709671 29.085976 103.709671",
-  "layer_slug_s": "princeton-vt150k946",
   "layer_id_s": "pulmap-restricted:vt150k946",
-  "layer_modified_dt": "2014-12-19T16:18:32Z",
+  "georss_box_s": "24.715436 103.709671 29.085976 109.558264",
+  "dc_title_s": "Township map of Guizhou with 2000 Census long form data (L7-L8)",
+  "layer_slug_s": "princeton-vt150k946",
   "layer_geom_type_s": "Point",
-  "solr_geom": "ENVELOPE(103.709671, 109.558264, 29.085976, 24.715436)",
-  "solr_year_i": "2000"
+  "dc_language_s": "English"
 }

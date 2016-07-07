@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/ws859h33r",
-  "dc_creator_sm": [
-    "Army Map Service"
-  ],
   "dc_description_s": "This is a map of the city of Karenko, Taiwan, shown at a 1:7,500 scale. The map was created for use by War and Navy Department agencies during World War II.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "ws859h33r",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Army Map Service",
+  "layer_modified_dt": "2015-01-11T17:43:24Z",
+  "solr_geom": "ENVELOPE(121.600, 121.6333, 24.0000, 23.9667)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fws%2F85%2F9h%2F33%2Fr%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/ws859h33r/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/ws859h33r/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/ws859h33r",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
     "Railroads",
@@ -19,23 +16,26 @@
     "Military",
     "Facilities and Structures"
   ],
-  "dc_title_s": "Karenko, Formosa (Taiwan), Karenko-Cho. A.M.S. L991.",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fws%2F85%2F9h%2F33%2Fr%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/ws859h33r/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/ws859h33r/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1945",
+  "dc_creator_sm": [
+    "Army Map Service"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "ws859h33r",
+  "georss_polygon_s": "24.0000 121.600 24.0000 121.6333 23.9667 121.6333 23.9667 121.600 24.0000 121.600",
+  "dc_publisher_s": "Army Map Service",
+  "solr_year_i": "1945",
   "dct_spatial_sm": [
     "Karenko ",
     "Karenko-Cho ",
     "Formosa",
     "Taiwan"
   ],
-  "dct_issued_s": "1945",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "23.9667 121.600 24.0000 121.6333",
-  "georss_polygon_s": "24.0000 121.600 24.0000 121.6333 23.9667 121.6333 23.9667 121.600 24.0000 121.600",
-  "layer_slug_s": "princeton-ws859h33r",
   "layer_id_s": "ws859h33r",
-  "layer_modified_dt": "2015-01-11T17:43:24Z",
+  "georss_box_s": "23.9667 121.600 24.0000 121.6333",
+  "dc_title_s": "Karenko, Formosa (Taiwan), Karenko-Cho. A.M.S. L991.",
+  "layer_slug_s": "princeton-ws859h33r",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(121.600, 121.6333, 24.0000, 23.9667)",
-  "solr_year_i": "1945"
+  "dc_language_s": "English"
 }

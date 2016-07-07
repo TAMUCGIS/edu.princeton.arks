@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/mp48sf38p",
-  "dc_creator_sm": [
-    "Department of the Interior"
-  ],
   "dc_description_s": "This is map of the north half or the State of California. It was made by the Deparment of the Interior. The south half is found in \"The State of California (Sheet 2)\".",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "mp48sf38p",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Department of the Interior",
+  "layer_modified_dt": "2015-01-11T17:43:12Z",
+  "solr_geom": "ENVELOPE(-124, -120, 42, 38)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fmp%2F48%2Fsf%2F38%2Fp%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/mp48sf38p/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/mp48sf38p/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/mp48sf38p",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Administrative and Political Boundaries",
     "Post Office",
@@ -19,21 +16,24 @@
     "Military Reseve",
     "Private Land Grant"
   ],
-  "dc_title_s": "The State of California (Sheet 1)",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fmp%2F48%2Fsf%2F38%2Fp%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/mp48sf38p/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/mp48sf38p/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1900",
+  "dc_creator_sm": [
+    "Department of the Interior"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "mp48sf38p",
+  "georss_polygon_s": "42 -124 42 -120 38 -120 38 -124 42 -124",
+  "dc_publisher_s": "Department of the Interior",
+  "solr_year_i": "1900",
   "dct_spatial_sm": [
     "California",
     "United States"
   ],
-  "dct_issued_s": "1900",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "38 -124 42 -120",
-  "georss_polygon_s": "42 -124 42 -120 38 -120 38 -124 42 -124",
-  "layer_slug_s": "princeton-mp48sf38p",
   "layer_id_s": "mp48sf38p",
-  "layer_modified_dt": "2015-01-11T17:43:12Z",
+  "georss_box_s": "38 -124 42 -120",
+  "dc_title_s": "The State of California (Sheet 1)",
+  "layer_slug_s": "princeton-mp48sf38p",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(-124, -120, 42, 38)",
-  "solr_year_i": "1900"
+  "dc_language_s": "English"
 }

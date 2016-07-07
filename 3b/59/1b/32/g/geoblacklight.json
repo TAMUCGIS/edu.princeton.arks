@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/3b591b32g",
-  "dc_creator_sm": [
-    "Maunsell, F. R."
-  ],
   "dc_description_s": "This is a map of the area surrounding the city of Kars, Turkey, shown at a 1:250,000 or 1.014 in. to 4 mi. scale. The map was created for use by Great Britain's War Office.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "3b591b32g",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Great Britain. War Office.",
+  "layer_modified_dt": "2015-01-11T17:43:39Z",
+  "solr_geom": "ENVELOPE(42.000, 43.500, 41.000, 40.000)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F3b%2F59%2F1b%2F32%2Fg%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/3b591b32g/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/3b591b32g/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/3b591b32g",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Relief",
     "Transportation",
@@ -17,21 +14,24 @@
     "Facilities and Structures",
     "Inland Waters"
   ],
-  "dc_title_s": "Eastern Turkey in Asia. Kars, sheet 7. Series I.D.W.O. no. 1522.",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F3b%2F59%2F1b%2F32%2Fg%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/3b591b32g/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/3b591b32g/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1920",
+  "dc_creator_sm": [
+    "Maunsell, F. R."
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "3b591b32g",
+  "georss_polygon_s": "41.000 42.000 41.000 43.500 40.000 43.500 40.000 42.000 41.000 42.000",
+  "dc_publisher_s": "Great Britain. War Office.",
+  "solr_year_i": "1920",
   "dct_spatial_sm": [
     "Kars",
     "Turkey"
   ],
-  "dct_issued_s": "1920",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "40.000 42.000 41.000 43.500",
-  "georss_polygon_s": "41.000 42.000 41.000 43.500 40.000 43.500 40.000 42.000 41.000 42.000",
-  "layer_slug_s": "princeton-3b591b32g",
   "layer_id_s": "3b591b32g",
-  "layer_modified_dt": "2015-01-11T17:43:39Z",
+  "georss_box_s": "40.000 42.000 41.000 43.500",
+  "dc_title_s": "Eastern Turkey in Asia. Kars, sheet 7. Series I.D.W.O. no. 1522.",
+  "layer_slug_s": "princeton-3b591b32g",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(42.000, 43.500, 41.000, 40.000)",
-  "solr_year_i": "1920"
+  "dc_language_s": "English"
 }

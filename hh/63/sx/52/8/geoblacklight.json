@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/hh63sx528",
-  "dc_creator_sm": [
-    "Army Map Service"
-  ],
   "dc_description_s": "This is a map of the city of Catbalogan in the Philippines, shown at a 1:5,000 scale. The map was created for use by War and Navy Department agencies during World War II.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "hh63sx528",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Army Map Service",
+  "layer_modified_dt": "2015-01-11T17:43:12Z",
+  "solr_geom": "ENVELOPE(124.8678, 124.9068, 11.7935, 11.7599)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fhh%2F63%2Fsx%2F52%2F8%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/hh63sx528/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/hh63sx528/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/hh63sx528",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
     "Railroads",
@@ -19,21 +16,24 @@
     "Military",
     "Facilities and Structures"
   ],
-  "dc_title_s": "Catbalogan, Philippine Islands, Samar Province, Samar. A.M.S. S901.",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fhh%2F63%2Fsx%2F52%2F8%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/hh63sx528/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/hh63sx528/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1944",
+  "dc_creator_sm": [
+    "Army Map Service"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "hh63sx528",
+  "georss_polygon_s": "11.7935 124.8678 11.7935 124.9068 11.7599 124.9068 11.7599 124.8678 11.7935 124.8678",
+  "dc_publisher_s": "Army Map Service",
+  "solr_year_i": "1944",
   "dct_spatial_sm": [
     "Catbalogan",
     "Philippines"
   ],
-  "dct_issued_s": "1944",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "11.7599 124.8678 11.7935 124.9068",
-  "georss_polygon_s": "11.7935 124.8678 11.7935 124.9068 11.7599 124.9068 11.7599 124.8678 11.7935 124.8678",
-  "layer_slug_s": "princeton-hh63sx528",
   "layer_id_s": "hh63sx528",
-  "layer_modified_dt": "2015-01-11T17:43:12Z",
+  "georss_box_s": "11.7599 124.8678 11.7935 124.9068",
+  "dc_title_s": "Catbalogan, Philippine Islands, Samar Province, Samar. A.M.S. S901.",
+  "layer_slug_s": "princeton-hh63sx528",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(124.8678, 124.9068, 11.7935, 11.7599)",
-  "solr_year_i": "1944"
+  "dc_language_s": "English"
 }

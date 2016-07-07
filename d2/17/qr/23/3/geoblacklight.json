@@ -1,12 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/d217qr233",
-  "dc_creator_sm": "Instituto Geografico Nacional",
   "dc_description_s": "This is a city map of Panama City, Panama shown at a 1:12,500 scale. This city map was created by the Instituto Geografico Nacional.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "d217qr233",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Instituto Geografico Nacional",
+  "layer_modified_dt": "2015-01-11T18:25:18Z",
+  "solr_geom": "ENVELOPE(-79.5939, -79.3330, 9.1255, 8.9102)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/d217qr233\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/d217qr233/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/d217qr233",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
     "Transportation",
@@ -15,9 +14,14 @@
     "City blocks",
     "Topography"
   ],
-  "dc_title_s": "Panama 1:12,500, Ciudad de Panama. Serie E962. [Mapa urbano de la ciudad de Panama]. Hoja No. 1",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/d217qr233\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/d217qr233/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1999",
+  "dc_creator_sm": "Instituto Geografico Nacional",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "d217qr233",
+  "georss_polygon_s": "9.1255 -79.5939 9.1255 -79.3330 8.9102 -79.3330 8.9102 -79.5939 9.1255 -79.5939",
+  "dc_publisher_s": "Instituto Geografico Nacional",
+  "solr_year_i": "1999",
   "dct_spatial_sm": [
     "Ciudad de Panama",
     "Panama",
@@ -26,14 +30,10 @@
     "Provincia de Panama",
     "Panama Province"
   ],
-  "dct_issued_s": "1999",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "8.9102 -79.5939 9.1255 -79.3330",
-  "georss_polygon_s": "9.1255 -79.5939 9.1255 -79.3330 8.9102 -79.3330 8.9102 -79.5939 9.1255 -79.5939",
-  "layer_slug_s": "princeton-d217qr233",
   "layer_id_s": "d217qr233",
-  "layer_modified_dt": "2015-01-11T18:25:18Z",
+  "georss_box_s": "8.9102 -79.5939 9.1255 -79.3330",
+  "dc_title_s": "Panama 1:12,500, Ciudad de Panama. Serie E962. [Mapa urbano de la ciudad de Panama]. Hoja No. 1",
+  "layer_slug_s": "princeton-d217qr233",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(-79.5939, -79.3330, 9.1255, 8.9102)",
-  "solr_year_i": "1999"
+  "dc_language_s": "English"
 }

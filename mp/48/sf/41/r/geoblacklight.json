@@ -1,36 +1,36 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/mp48sf41r",
-  "dc_creator_sm": [
-    "GfK MACON"
-  ],
   "dc_description_s": "This data includes Finland cities with population between 5 thousand and 10 thousand created by GfK MACON company, Germany.",
-  "dc_format_s": "Shapefile",
-  "dc_identifier_s": "mp48sf41r",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Gfk MACON Company",
-  "dc_rights_s": "Public",
+  "layer_modified_dt": "2014-12-19T16:18:33Z",
+  "solr_geom": "ENVELOPE(21.332509, 30.944734, 68.895114, 60.033017)",
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/mp48sf41r/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/mp48sf41r/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/mp48sf41r/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
+  "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/mp48sf41r",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "City",
     "Location",
     "Cities 5K"
   ],
-  "dc_title_s": "Finland Cities With Population From 5 Thousand To 10 Thousand, 2004",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/download/items/mp48sf41r/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/mp48sf41r/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/mp48sf41r/preview.jpg\"}",
-  "dct_spatial_sm": [
-    "Finland"
-  ],
+  "dc_format_s": "Shapefile",
+  "dct_issued_s": "2005",
   "dct_temporal_sm": [
     "2006"
   ],
-  "dct_issued_s": "2005",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "60.033017 21.332509 68.895114 30.944734",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_identifier_s": "mp48sf41r",
   "georss_polygon_s": "68.895114 21.332509 68.895114 30.944734 60.033017 30.944734 60.033017 21.332509 68.895114 21.332509",
-  "layer_slug_s": "princeton-mp48sf41r",
+  "dc_publisher_s": "Gfk MACON Company",
+  "solr_year_i": "2006",
+  "dct_spatial_sm": [
+    "Finland"
+  ],
   "layer_id_s": "pulmap-restricted:mp48sf41r",
-  "layer_modified_dt": "2014-12-19T16:18:33Z",
+  "georss_box_s": "60.033017 21.332509 68.895114 30.944734",
+  "dc_title_s": "Finland Cities With Population From 5 Thousand To 10 Thousand, 2004",
+  "layer_slug_s": "princeton-mp48sf41r",
   "layer_geom_type_s": "Point",
-  "solr_geom": "ENVELOPE(21.332509, 30.944734, 68.895114, 60.033017)",
-  "solr_year_i": "2006"
+  "dc_language_s": "English"
 }

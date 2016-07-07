@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/8g84mn997",
-  "dc_creator_sm": [
-    "General Staff.  Geographical Section."
-  ],
   "dc_description_s": "This is a map of the city of Naples, Italy, shown at a 1:10,000 scale. The map was created for use by War and Navy Department agencies during World War II.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "8g84mn997",
-  "dc_language_s": "English",
-  "dc_publisher_s": "War Office",
+  "layer_modified_dt": "2015-01-11T17:43:35Z",
+  "solr_geom": "ENVELOPE(14.233, 14.267, 40.867, 40.817)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F8g%2F84%2Fmn%2F99%2F7%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/8g84mn997/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/8g84mn997/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/8g84mn997",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
     "Railroads",
@@ -19,23 +16,26 @@
     "Military",
     "Facilities and Structures"
   ],
-  "dc_title_s": "Town plan of Naples. G.S.G.S. 4380.",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F8g%2F84%2Fmn%2F99%2F7%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/8g84mn997/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/8g84mn997/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1943",
+  "dc_creator_sm": [
+    "General Staff.  Geographical Section."
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "8g84mn997",
+  "georss_polygon_s": "40.867 14.233 40.867 14.267 40.817 14.267 40.817 14.233 40.867 14.233",
+  "dc_publisher_s": "War Office",
+  "solr_year_i": "1943",
   "dct_spatial_sm": [
     "Naples",
     "Napoli",
     "Campania Regioni",
     "Italy"
   ],
-  "dct_issued_s": "1943",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "40.817 14.233 40.867 14.267",
-  "georss_polygon_s": "40.867 14.233 40.867 14.267 40.817 14.267 40.817 14.233 40.867 14.233",
-  "layer_slug_s": "princeton-8g84mn997",
   "layer_id_s": "8g84mn997",
-  "layer_modified_dt": "2015-01-11T17:43:35Z",
+  "georss_box_s": "40.817 14.233 40.867 14.267",
+  "dc_title_s": "Town plan of Naples. G.S.G.S. 4380.",
+  "layer_slug_s": "princeton-8g84mn997",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(14.233, 14.267, 40.867, 40.817)",
-  "solr_year_i": "1943"
+  "dc_language_s": "English"
 }

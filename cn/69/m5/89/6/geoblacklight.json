@@ -1,12 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/cn69m5896",
-  "dc_creator_sm": "Istituto geografico militare",
   "dc_description_s": "This is a city map of Florence, Italy, shown at a 1:10,000 scale. This city map was created by Istituto geografico militare.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "cn69m5896",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Istituto geografico militare",
+  "layer_modified_dt": "2015-01-11T18:25:23Z",
+  "solr_geom": "ENVELOPE(11.1792, 11.3553, 43.8721, 43.6822)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/cn69m5896\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/cn69m5896/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/cn69m5896",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
     "Transportation",
@@ -15,9 +14,14 @@
     "City blocks",
     "Topography"
   ],
-  "dc_title_s": "Firenze ovest",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/cn69m5896\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/cn69m5896/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1960",
+  "dc_creator_sm": "Istituto geografico militare",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "cn69m5896",
+  "georss_polygon_s": "43.8721 11.1792 43.8721 11.3553 43.6822 11.3553 43.6822 11.1792 43.8721 11.1792",
+  "dc_publisher_s": "Istituto geografico militare",
+  "solr_year_i": "1960",
   "dct_spatial_sm": [
     "Florence",
     "Italy",
@@ -32,14 +36,10 @@
     "Provincia di Firenze",
     "Municipality of Florence"
   ],
-  "dct_issued_s": "1960",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "43.6822 11.1792 43.8721 11.3553",
-  "georss_polygon_s": "43.8721 11.1792 43.8721 11.3553 43.6822 11.3553 43.6822 11.1792 43.8721 11.1792",
-  "layer_slug_s": "princeton-cn69m5896",
   "layer_id_s": "cn69m5896",
-  "layer_modified_dt": "2015-01-11T18:25:23Z",
+  "georss_box_s": "43.6822 11.1792 43.8721 11.3553",
+  "dc_title_s": "Firenze ovest",
+  "layer_slug_s": "princeton-cn69m5896",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(11.1792, 11.3553, 43.8721, 43.6822)",
-  "solr_year_i": "1960"
+  "dc_language_s": "English"
 }

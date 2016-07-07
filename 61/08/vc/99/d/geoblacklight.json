@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/6108vc99d",
-  "dc_creator_sm": [
-    "Army Map Service"
-  ],
   "dc_description_s": "This is a map of the city of Reykjavik, Iceland, shown at a 1:5,000 scale. The map was created for use by War and Navy Department agencies during World War II.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "6108vc99d",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Army Map Service",
+  "layer_modified_dt": "2015-01-11T17:43:36Z",
+  "solr_geom": "ENVELOPE(-21.9667, -21.9167, 64.1667, 64.1333)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F61%2F08%2Fvc%2F99%2Fd%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/6108vc99d/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/6108vc99d/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/6108vc99d",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
     "Railroads",
@@ -19,21 +16,24 @@
     "Military",
     "Facilities and Structures"
   ],
-  "dc_title_s": "Iceland 1:5,000. Reykjavik city plan. A.M.S C061",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F61%2F08%2Fvc%2F99%2Fd%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/6108vc99d/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/6108vc99d/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1943",
+  "dc_creator_sm": [
+    "Army Map Service"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "6108vc99d",
+  "georss_polygon_s": "64.1667 -21.9667 64.1667 -21.9167 64.1333 -21.9167 64.1333 -21.9667 64.1667 -21.9667",
+  "dc_publisher_s": "Army Map Service",
+  "solr_year_i": "1943",
   "dct_spatial_sm": [
     "Reykjavik",
     "Iceland"
   ],
-  "dct_issued_s": "1943",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "64.1333 -21.9667 64.1667 -21.9167",
-  "georss_polygon_s": "64.1667 -21.9667 64.1667 -21.9167 64.1333 -21.9167 64.1333 -21.9667 64.1667 -21.9667",
-  "layer_slug_s": "princeton-6108vc99d",
   "layer_id_s": "6108vc99d",
-  "layer_modified_dt": "2015-01-11T17:43:36Z",
+  "georss_box_s": "64.1333 -21.9667 64.1667 -21.9167",
+  "dc_title_s": "Iceland 1:5,000. Reykjavik city plan. A.M.S C061",
+  "layer_slug_s": "princeton-6108vc99d",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(-21.9667, -21.9167, 64.1667, 64.1333)",
-  "solr_year_i": "1943"
+  "dc_language_s": "English"
 }

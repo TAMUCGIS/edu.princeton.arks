@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/hm50tt161",
-  "dc_creator_sm": [
-    "United States Geological Survey"
-  ],
   "dc_description_s": "A scanned USGS 1:24,000 topographic map.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "hm50tt161",
-  "dc_language_s": "English",
-  "dc_publisher_s": "United States Geological Survey",
+  "layer_modified_dt": "2015-01-11T17:42:30Z",
+  "solr_geom": "ENVELOPE(-74.2500, -74.1250, 40.500, 40.3750)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fhm%2F50%2Ftt%2F16%2F1%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/hm50tt161/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/hm50tt161/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/hm50tt161",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Topographic map",
     "Contour line",
@@ -16,9 +13,16 @@
     "Roads",
     "Geoscientific Information"
   ],
-  "dc_title_s": "Keyport Quadrangle, New Jersey - New York, 7.5 minute series (topographic)",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fhm%2F50%2Ftt%2F16%2F1%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/hm50tt161/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/hm50tt161/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1954",
+  "dc_creator_sm": [
+    "United States Geological Survey"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "hm50tt161",
+  "georss_polygon_s": "40.500 -74.2500 40.500 -74.1250 40.3750 -74.1250 40.3750 -74.2500 40.500 -74.2500",
+  "dc_publisher_s": "United States Geological Survey",
+  "solr_year_i": "1954",
   "dct_spatial_sm": [
     "Keyport",
     "Monmouth County",
@@ -28,14 +32,10 @@
     "Madison",
     "New Jersey"
   ],
-  "dct_issued_s": "1954",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "40.3750 -74.2500 40.500 -74.1250",
-  "georss_polygon_s": "40.500 -74.2500 40.500 -74.1250 40.3750 -74.1250 40.3750 -74.2500 40.500 -74.2500",
-  "layer_slug_s": "princeton-hm50tt161",
   "layer_id_s": "hm50tt161",
-  "layer_modified_dt": "2015-01-11T17:42:30Z",
+  "georss_box_s": "40.3750 -74.2500 40.500 -74.1250",
+  "dc_title_s": "Keyport Quadrangle, New Jersey - New York, 7.5 minute series (topographic)",
+  "layer_slug_s": "princeton-hm50tt161",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(-74.2500, -74.1250, 40.500, 40.3750)",
-  "solr_year_i": "1954"
+  "dc_language_s": "English"
 }

@@ -1,12 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/3n2040685",
-  "dc_creator_sm": "Robert Fargo",
   "dc_description_s": "This feature class contains population data for the 104 districts in Iraq. Data comes from the World Food Program for 2003, 2005 and 2007. The data for 2004 and 2006 was interpolated from the adjacent years. Data was joined to the adminastrative boundries in the fields POP_2003, POP_2005, POP_2007, POP_2004 and POP_2006.\n\nWFP data was used to scale LandScan population estimates. Statistics of the scaled LandScan data at the distirct have been added to the attribtute table outlining the mean, median, standard deviation, exponential distribution coefficient, and Gini coefficient for the raster cells in each district. R software was used to calculate the eponent and the Gini coefficient. The Scaled LandScan Stats model was used to calculate the scaled population data, the mean, median and standard deviation.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "3n2040685",
-  "dc_language_s": "English",
-  "dc_publisher_s": "ESOC Group",
+  "layer_modified_dt": "2015-01-11T18:24:53Z",
+  "solr_geom": "ENVELOPE(38.793603, 48.627752, 37.381556, 29.061208)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/3n2040685\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/3n2040685/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/3n2040685",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Population",
     "Population",
@@ -14,21 +13,22 @@
     "WFP Food Security and Vunrability",
     "Population Statistics"
   ],
-  "dc_title_s": "District Level Population & Statistics",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/3n2040685\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/3n2040685/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "2009",
+  "dc_creator_sm": "Robert Fargo",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "3n2040685",
+  "georss_polygon_s": "37.381556 38.793603 37.381556 48.627752 29.061208 48.627752 29.061208 38.793603 37.381556 38.793603",
+  "dc_publisher_s": "ESOC Group",
+  "solr_year_i": "2009",
   "dct_spatial_sm": [
     "Iraq",
     "Middle East"
   ],
-  "dct_issued_s": "2009",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "29.061208 38.793603 37.381556 48.627752",
-  "georss_polygon_s": "37.381556 38.793603 37.381556 48.627752 29.061208 48.627752 29.061208 38.793603 37.381556 38.793603",
-  "layer_slug_s": "princeton-3n2040685",
   "layer_id_s": "3n2040685",
-  "layer_modified_dt": "2015-01-11T18:24:53Z",
+  "georss_box_s": "29.061208 38.793603 37.381556 48.627752",
+  "dc_title_s": "District Level Population & Statistics",
+  "layer_slug_s": "princeton-3n2040685",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(38.793603, 48.627752, 37.381556, 29.061208)",
-  "solr_year_i": "2009"
+  "dc_language_s": "English"
 }

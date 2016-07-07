@@ -1,12 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/mg74qn60s",
-  "dc_creator_sm": "Research and Analysis, O.S.S.",
   "dc_description_s": "This is a city map of Monopoli, Italy, shown at a 1:5,100 scale. This city map was created by Research and Analysis, O.S.S.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "mg74qn60s",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Research and Analysis, O.S.S.",
+  "layer_modified_dt": "2015-01-11T18:24:44Z",
+  "solr_geom": "ENVELOPE(17.2801, 17.3180, 40.9637, 40.9363)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/mg74qn60s\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/mg74qn60s/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/mg74qn60s",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
     "Transportation",
@@ -14,9 +13,14 @@
     "Facilities and Structures",
     "City blocks"
   ],
-  "dc_title_s": "Monopoli, plan of port",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/mg74qn60s\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/mg74qn60s/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1943",
+  "dc_creator_sm": "Research and Analysis, O.S.S.",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "mg74qn60s",
+  "georss_polygon_s": "40.9637 17.2801 40.9637 17.3180 40.9363 17.3180 40.9363 17.2801 40.9637 17.2801",
+  "dc_publisher_s": "Research and Analysis, O.S.S.",
+  "solr_year_i": "1943",
   "dct_spatial_sm": [
     "Monopoli",
     "Italy",
@@ -25,14 +29,10 @@
     "Province of Bari",
     "Provincia di Bari"
   ],
-  "dct_issued_s": "1943",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "40.9363 17.2801 40.9637 17.3180",
-  "georss_polygon_s": "40.9637 17.2801 40.9637 17.3180 40.9363 17.3180 40.9363 17.2801 40.9637 17.2801",
-  "layer_slug_s": "princeton-mg74qn60s",
   "layer_id_s": "mg74qn60s",
-  "layer_modified_dt": "2015-01-11T18:24:44Z",
+  "georss_box_s": "40.9363 17.2801 40.9637 17.3180",
+  "dc_title_s": "Monopoli, plan of port",
+  "layer_slug_s": "princeton-mg74qn60s",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(17.2801, 17.3180, 40.9637, 40.9363)",
-  "solr_year_i": "1943"
+  "dc_language_s": "English"
 }

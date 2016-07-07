@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/vq27zp81b",
-  "dc_creator_sm": [
-    "United States Geological Survey"
-  ],
   "dc_description_s": "A scanned USGS 1:24,000 topographic map.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "vq27zp81b",
-  "dc_language_s": "English",
-  "dc_publisher_s": "United States Geological Survey",
+  "layer_modified_dt": "2015-01-11T17:42:23Z",
+  "solr_geom": "ENVELOPE(-75.500, -75.3750, 39.500, 39.3750)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fvq%2F27%2Fzp%2F81%2Fb%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/vq27zp81b/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/vq27zp81b/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/vq27zp81b",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Topographic map",
     "Contour line",
@@ -16,9 +13,16 @@
     "Roads",
     "Geoscientific Information"
   ],
-  "dc_title_s": "Canton Quadrangle, New Jersey - Delaware, 7.5 minute series (topographic)",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fvq%2F27%2Fzp%2F81%2Fb%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/vq27zp81b/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/vq27zp81b/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1948",
+  "dc_creator_sm": [
+    "United States Geological Survey"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "vq27zp81b",
+  "georss_polygon_s": "39.500 -75.500 39.500 -75.3750 39.3750 -75.3750 39.3750 -75.500 39.500 -75.500",
+  "dc_publisher_s": "United States Geological Survey",
+  "solr_year_i": "1948",
   "dct_spatial_sm": [
     "Canton",
     "Cumberland County",
@@ -29,14 +33,10 @@
     "Delaware Bay",
     "New Jersey"
   ],
-  "dct_issued_s": "1948",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "39.3750 -75.500 39.500 -75.3750",
-  "georss_polygon_s": "39.500 -75.500 39.500 -75.3750 39.3750 -75.3750 39.3750 -75.500 39.500 -75.500",
-  "layer_slug_s": "princeton-vq27zp81b",
   "layer_id_s": "vq27zp81b",
-  "layer_modified_dt": "2015-01-11T17:42:23Z",
+  "georss_box_s": "39.3750 -75.500 39.500 -75.3750",
+  "dc_title_s": "Canton Quadrangle, New Jersey - Delaware, 7.5 minute series (topographic)",
+  "layer_slug_s": "princeton-vq27zp81b",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(-75.500, -75.3750, 39.500, 39.3750)",
-  "solr_year_i": "1948"
+  "dc_language_s": "English"
 }

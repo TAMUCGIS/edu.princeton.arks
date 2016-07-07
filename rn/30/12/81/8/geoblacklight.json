@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/rn3012818",
-  "dc_creator_sm": [
-    "United States Geological Survey"
-  ],
   "dc_description_s": "A scanned USGS 1:24,000 topographic map.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "rn3012818",
-  "dc_language_s": "English",
-  "dc_publisher_s": "United States Geological Survey",
+  "layer_modified_dt": "2015-01-11T17:42:34Z",
+  "solr_geom": "ENVELOPE(-74.5, -74.375, 40.375, 40.25)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Frn%2F30%2F12%2F81%2F8%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/rn3012818/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/rn3012818/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/rn3012818",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Topographic map",
     "Contour line",
@@ -16,9 +13,16 @@
     "Roads",
     "Geoscientific Information"
   ],
-  "dc_title_s": "Jamesburg Quadrangle, New Jersey, 7.5 minute series (topographic) ",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Frn%2F30%2F12%2F81%2F8%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/rn3012818/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/rn3012818/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1953",
+  "dc_creator_sm": [
+    "United States Geological Survey"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "rn3012818",
+  "georss_polygon_s": "40.375 -74.5 40.375 -74.375 40.25 -74.375 40.25 -74.5 40.375 -74.5",
+  "dc_publisher_s": "United States Geological Survey",
+  "solr_year_i": "1953",
   "dct_spatial_sm": [
     "Jamesburg",
     "Monroe",
@@ -29,14 +33,10 @@
     "Manalapan",
     "New Jersey"
   ],
-  "dct_issued_s": "1953",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "40.25 -74.5 40.375 -74.375",
-  "georss_polygon_s": "40.375 -74.5 40.375 -74.375 40.25 -74.375 40.25 -74.5 40.375 -74.5",
-  "layer_slug_s": "princeton-rn3012818",
   "layer_id_s": "rn3012818",
-  "layer_modified_dt": "2015-01-11T17:42:34Z",
+  "georss_box_s": "40.25 -74.5 40.375 -74.375",
+  "dc_title_s": "Jamesburg Quadrangle, New Jersey, 7.5 minute series (topographic) ",
+  "layer_slug_s": "princeton-rn3012818",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(-74.5, -74.375, 40.375, 40.25)",
-  "solr_year_i": "1953"
+  "dc_language_s": "English"
 }
