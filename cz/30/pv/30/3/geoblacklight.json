@@ -1,33 +1,33 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/cz30pv303",
-  "dc_creator_sm": [
-    "LeadDog Consulting, LLC"
-  ],
   "dc_description_s": "Shanghai government offices and agencies",
-  "dc_format_s": "Shapefile",
-  "dc_identifier_s": "cz30pv303",
-  "dc_language_s": "English",
-  "dc_publisher_s": "LeadDog Consulting, LLC",
-  "dc_rights_s": "Public",
+  "layer_modified_dt": "2014-12-19T16:18:35Z",
+  "solr_geom": "ENVELOPE(121.103944, 121.758909, 31.632420, 30.715446)",
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/cz30pv303/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/cz30pv303/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/cz30pv303/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
+  "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/cz30pv303",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Facilities and structures: structure",
     "Government"
   ],
-  "dc_title_s": "government offices and agencies",
+  "dc_format_s": "Shapefile",
+  "dct_issued_s": "2006",
+  "dc_creator_sm": [
+    "LeadDog Consulting, LLC"
+  ],
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/download/items/cz30pv303/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/cz30pv303/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/cz30pv303/preview.jpg\"}",
+  "dc_identifier_s": "cz30pv303",
+  "georss_polygon_s": "31.632420 121.103944 31.632420 121.758909 30.715446 121.758909 30.715446 121.103944 31.632420 121.103944",
+  "dc_publisher_s": "LeadDog Consulting, LLC",
+  "solr_year_i": "2006",
   "dct_spatial_sm": [
     "Shanghai",
     "China"
   ],
-  "dct_issued_s": "2006",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "30.715446 121.103944 31.632420 121.758909",
-  "georss_polygon_s": "31.632420 121.103944 31.632420 121.758909 30.715446 121.758909 30.715446 121.103944 31.632420 121.103944",
-  "layer_slug_s": "princeton-cz30pv303",
   "layer_id_s": "pulmap-restricted:cz30pv303",
-  "layer_modified_dt": "2014-12-19T16:18:35Z",
+  "georss_box_s": "30.715446 121.103944 31.632420 121.758909",
+  "dc_title_s": "government offices and agencies",
+  "layer_slug_s": "princeton-cz30pv303",
   "layer_geom_type_s": "Point",
-  "solr_geom": "ENVELOPE(121.103944, 121.758909, 31.632420, 30.715446)",
-  "solr_year_i": "2006"
+  "dc_language_s": "English"
 }

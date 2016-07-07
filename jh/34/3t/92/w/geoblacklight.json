@@ -1,13 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/jh343t92w",
-  "dc_creator_sm": [
-    "All China Marketing Research Co., Ltd."
-  ],
   "dc_description_s": "Township locations in Qinghai Province, China, with 2000 Census data from short form tables A1-A8 (100% counts). Includes general information, age composition, households, deaths, household registration, and housing.",
-  "dc_format_s": "Shapefile",
-  "dc_identifier_s": "jh343t92w",
-  "dc_language_s": "English",
-  "dc_rights_s": "Public",
+  "layer_modified_dt": "2014-12-19T16:18:34Z",
+  "solr_geom": "ENVELOPE(90.211708, 102.942224, 38.914581, 31.902617)",
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/jh343t92w/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/jh343t92w/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/jh343t92w/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
+  "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/jh343t92w",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "census",
     "generations",
@@ -48,25 +46,27 @@
     "age",
     "Society"
   ],
-  "dc_title_s": "Township map of Qinghai with 2000 Census short form data",
+  "dc_format_s": "Shapefile",
+  "dct_issued_s": "20050418",
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "dc_creator_sm": [
+    "All China Marketing Research Co., Ltd."
+  ],
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/download/items/jh343t92w/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/jh343t92w/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/jh343t92w/preview.jpg\"}",
+  "dc_identifier_s": "jh343t92w",
+  "georss_polygon_s": "38.914581 90.211708 38.914581 102.942224 31.902617 102.942224 31.902617 90.211708 38.914581 90.211708",
+  "solr_year_i": "2000",
   "dct_spatial_sm": [
     "China",
     "Qinghai",
     "Qinghai Province"
   ],
-  "dct_temporal_sm": [
-    "2000"
-  ],
-  "dct_issued_s": "20050418",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "31.902617 90.211708 38.914581 102.942224",
-  "georss_polygon_s": "38.914581 90.211708 38.914581 102.942224 31.902617 102.942224 31.902617 90.211708 38.914581 90.211708",
-  "layer_slug_s": "princeton-jh343t92w",
   "layer_id_s": "pulmap-restricted:jh343t92w",
-  "layer_modified_dt": "2014-12-19T16:18:34Z",
+  "georss_box_s": "31.902617 90.211708 38.914581 102.942224",
+  "dc_title_s": "Township map of Qinghai with 2000 Census short form data",
+  "layer_slug_s": "princeton-jh343t92w",
   "layer_geom_type_s": "Point",
-  "solr_geom": "ENVELOPE(90.211708, 102.942224, 38.914581, 31.902617)",
-  "solr_year_i": "2000"
+  "dc_language_s": "English"
 }

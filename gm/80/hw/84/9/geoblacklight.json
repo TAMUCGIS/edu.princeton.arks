@@ -1,32 +1,32 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/gm80hw849",
-  "dc_creator_sm": [
-    "LeadDog Consulting, LLC"
-  ],
   "dc_description_s": "Basra poly water",
-  "dc_format_s": "Shapefile",
-  "dc_identifier_s": "gm80hw849",
-  "dc_language_s": "English",
-  "dc_publisher_s": "LeadDog Consulting, LLC",
-  "dc_rights_s": "Public",
+  "layer_modified_dt": "2014-12-19T16:18:34Z",
+  "solr_geom": "ENVELOPE(47.754179, 47.871066, 30.570166, 30.465418)",
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/gm80hw849/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/gm80hw849/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/gm80hw849/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
+  "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/gm80hw849",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Inland water resources"
   ],
-  "dc_title_s": "Basra poly water",
+  "dc_format_s": "Shapefile",
+  "dct_issued_s": "2006",
+  "dc_creator_sm": [
+    "LeadDog Consulting, LLC"
+  ],
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/download/items/gm80hw849/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/gm80hw849/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/gm80hw849/preview.jpg\"}",
+  "dc_identifier_s": "gm80hw849",
+  "georss_polygon_s": "30.570166 47.754179 30.570166 47.871066 30.465418 47.871066 30.465418 47.754179 30.570166 47.754179",
+  "dc_publisher_s": "LeadDog Consulting, LLC",
+  "solr_year_i": "2006",
   "dct_spatial_sm": [
     "Basra",
     "Iraq"
   ],
-  "dct_issued_s": "2006",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "30.465418 47.754179 30.570166 47.871066",
-  "georss_polygon_s": "30.570166 47.754179 30.570166 47.871066 30.465418 47.871066 30.465418 47.754179 30.570166 47.754179",
-  "layer_slug_s": "princeton-gm80hw849",
   "layer_id_s": "pulmap-restricted:gm80hw849",
-  "layer_modified_dt": "2014-12-19T16:18:34Z",
+  "georss_box_s": "30.465418 47.754179 30.570166 47.871066",
+  "dc_title_s": "Basra poly water",
+  "layer_slug_s": "princeton-gm80hw849",
   "layer_geom_type_s": "Polygon",
-  "solr_geom": "ENVELOPE(47.754179, 47.871066, 30.570166, 30.465418)",
-  "solr_year_i": "2006"
+  "dc_language_s": "English"
 }

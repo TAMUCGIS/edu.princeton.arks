@@ -1,13 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/bg257g576",
-  "dc_creator_sm": [
-    "All China Marketing Research Co., Ltd."
-  ],
   "dc_description_s": "Township locations in Jilin Province, China, with 2000 Census data from short form tables A1-A8 (100% counts). Includes general information, age composition, households, deaths, household registration, and housing.",
-  "dc_format_s": "Shapefile",
-  "dc_identifier_s": "bg257g576",
-  "dc_language_s": "English",
-  "dc_rights_s": "Public",
+  "layer_modified_dt": "2014-12-19T16:18:35Z",
+  "solr_geom": "ENVELOPE(121.840603, 131.083069, 46.273193, 40.924244)",
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/bg257g576/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/bg257g576/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/bg257g576/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
+  "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/bg257g576",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "census",
     "generations",
@@ -48,25 +46,27 @@
     "age",
     "Society"
   ],
-  "dc_title_s": "Township map of Jilin with 2000 Census short form data",
+  "dc_format_s": "Shapefile",
+  "dct_issued_s": "20050418",
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "dc_creator_sm": [
+    "All China Marketing Research Co., Ltd."
+  ],
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/download/items/bg257g576/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/bg257g576/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/bg257g576/preview.jpg\"}",
+  "dc_identifier_s": "bg257g576",
+  "georss_polygon_s": "46.273193 121.840603 46.273193 131.083069 40.924244 131.083069 40.924244 121.840603 46.273193 121.840603",
+  "solr_year_i": "2000",
   "dct_spatial_sm": [
     "China",
     "Jilin",
     "Jilin Province"
   ],
-  "dct_temporal_sm": [
-    "2000"
-  ],
-  "dct_issued_s": "20050418",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "40.924244 121.840603 46.273193 131.083069",
-  "georss_polygon_s": "46.273193 121.840603 46.273193 131.083069 40.924244 131.083069 40.924244 121.840603 46.273193 121.840603",
-  "layer_slug_s": "princeton-bg257g576",
   "layer_id_s": "pulmap-restricted:bg257g576",
-  "layer_modified_dt": "2014-12-19T16:18:35Z",
+  "georss_box_s": "40.924244 121.840603 46.273193 131.083069",
+  "dc_title_s": "Township map of Jilin with 2000 Census short form data",
+  "layer_slug_s": "princeton-bg257g576",
   "layer_geom_type_s": "Point",
-  "solr_geom": "ENVELOPE(121.840603, 131.083069, 46.273193, 40.924244)",
-  "solr_year_i": "2000"
+  "dc_language_s": "English"
 }

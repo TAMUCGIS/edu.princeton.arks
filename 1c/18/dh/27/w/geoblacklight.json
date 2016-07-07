@@ -1,32 +1,32 @@
 {
+  "layer_modified_dt": "2014-12-19T16:18:37Z",
   "uuid": "http://arks.princeton.edu/ark:/88435/1c18dh27w",
+  "dc_description_s": "Polygons representing buildings in Cairo.",
+  "georss_box_s": "29.722782 30.799213 30.282329 31.777776",
+  "layer_slug_s": "princeton-1c18dh27w",
+  "dct_spatial_sm": [
+    "Egypt",
+    "Cairo"
+  ],
   "dc_creator_sm": [
     "Globe Telecom"
   ],
-  "dc_description_s": "Polygons representing buildings in Cairo.",
-  "dc_format_s": "Shapefile",
+  "layer_id_s": "pulmap-restricted:1c18dh27w",
+  "georss_polygon_s": "30.282329 30.799213 30.282329 31.777776 29.722782 31.777776 29.722782 30.799213 30.282329 30.799213",
+  "dc_type_s": "Dataset",
   "dc_identifier_s": "1c18dh27w",
-  "dc_language_s": "English",
-  "dc_rights_s": "Public",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "buildings",
     "built areas",
     "Structure"
   ],
-  "dc_title_s": "Cairo Buildings",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/download/items/1c18dh27w/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/1c18dh27w/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/1c18dh27w/preview.jpg\"}",
-  "dct_spatial_sm": [
-    "Egypt",
-    "Cairo"
-  ],
   "dct_issued_s": "20130706",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "29.722782 30.799213 30.282329 31.777776",
-  "georss_polygon_s": "30.282329 30.799213 30.282329 31.777776 29.722782 31.777776 29.722782 30.799213 30.282329 30.799213",
-  "layer_slug_s": "princeton-1c18dh27w",
-  "layer_id_s": "pulmap-restricted:1c18dh27w",
-  "layer_modified_dt": "2014-12-19T16:18:37Z",
+  "dc_format_s": "Shapefile",
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/1c18dh27w/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/1c18dh27w/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/1c18dh27w/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
+  "dc_title_s": "Cairo Buildings",
   "layer_geom_type_s": "Polygon",
-  "solr_geom": "ENVELOPE(30.799213, 31.777776, 30.282329, 29.722782)"
+  "solr_geom": "ENVELOPE(30.799213, 31.777776, 30.282329, 29.722782)",
+  "dc_rights_s": "Restricted",
+  "dc_language_s": "English"
 }

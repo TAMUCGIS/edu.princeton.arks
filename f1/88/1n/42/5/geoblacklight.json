@@ -1,13 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/f1881n425",
-  "dc_creator_sm": [
-    "All China Marketing Research Co., Ltd."
-  ],
   "dc_description_s": "Township locations in Jiangxi Province, China, with 2000 Census data from short form tables A1-A8 (100% counts). Includes general information, age composition, households, deaths, household registration, and housing.",
-  "dc_format_s": "Shapefile",
-  "dc_identifier_s": "f1881n425",
-  "dc_language_s": "English",
-  "dc_rights_s": "Public",
+  "layer_modified_dt": "2014-12-19T16:18:34Z",
+  "solr_geom": "ENVELOPE(113.633347, 118.424209, 30.063115, 24.597017)",
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/f1881n425/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/f1881n425/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/f1881n425/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
+  "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/f1881n425",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "census",
     "generations",
@@ -48,25 +46,27 @@
     "age",
     "Society"
   ],
-  "dc_title_s": "Township map of Jiangxi with 2000 Census short form data",
+  "dc_format_s": "Shapefile",
+  "dct_issued_s": "20050418",
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "dc_creator_sm": [
+    "All China Marketing Research Co., Ltd."
+  ],
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/download/items/f1881n425/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/f1881n425/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/f1881n425/preview.jpg\"}",
+  "dc_identifier_s": "f1881n425",
+  "georss_polygon_s": "30.063115 113.633347 30.063115 118.424209 24.597017 118.424209 24.597017 113.633347 30.063115 113.633347",
+  "solr_year_i": "2000",
   "dct_spatial_sm": [
     "China",
     "Jiangxi",
     "Jiangxi Province"
   ],
-  "dct_temporal_sm": [
-    "2000"
-  ],
-  "dct_issued_s": "20050418",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "24.597017 113.633347 30.063115 118.424209",
-  "georss_polygon_s": "30.063115 113.633347 30.063115 118.424209 24.597017 118.424209 24.597017 113.633347 30.063115 113.633347",
-  "layer_slug_s": "princeton-f1881n425",
   "layer_id_s": "pulmap-restricted:f1881n425",
-  "layer_modified_dt": "2014-12-19T16:18:34Z",
+  "georss_box_s": "24.597017 113.633347 30.063115 118.424209",
+  "dc_title_s": "Township map of Jiangxi with 2000 Census short form data",
+  "layer_slug_s": "princeton-f1881n425",
   "layer_geom_type_s": "Point",
-  "solr_geom": "ENVELOPE(113.633347, 118.424209, 30.063115, 24.597017)",
-  "solr_year_i": "2000"
+  "dc_language_s": "English"
 }

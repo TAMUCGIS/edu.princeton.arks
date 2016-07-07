@@ -1,31 +1,31 @@
 {
+  "layer_modified_dt": "2014-12-19T16:18:37Z",
   "uuid": "http://arks.princeton.edu/ark:/88435/1n79h571n",
+  "dc_description_s": "Polygons representing landmarks in Egypt.",
+  "georss_box_s": "21.880781 25.075991 31.824376 37.062209",
+  "layer_slug_s": "princeton-1n79h571n",
+  "dct_spatial_sm": [
+    "Egypt"
+  ],
   "dc_creator_sm": [
     "Globe Telecom"
   ],
-  "dc_description_s": "Polygons representing landmarks in Egypt.",
-  "dc_format_s": "Shapefile",
+  "layer_id_s": "pulmap-restricted:1n79h571n",
+  "georss_polygon_s": "31.824376 25.075991 31.824376 37.062209 21.880781 37.062209 21.880781 25.075991 31.824376 25.075991",
+  "dc_type_s": "Dataset",
   "dc_identifier_s": "1n79h571n",
-  "dc_language_s": "English",
-  "dc_rights_s": "Public",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "landmarks",
     "points of interest",
     "Structure"
   ],
-  "dc_title_s": "Egypt Landmarks",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/download/items/1n79h571n/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/1n79h571n/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/1n79h571n/preview.jpg\"}",
-  "dct_spatial_sm": [
-    "Egypt"
-  ],
   "dct_issued_s": "20140428",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "21.880781 25.075991 31.824376 37.062209",
-  "georss_polygon_s": "31.824376 25.075991 31.824376 37.062209 21.880781 37.062209 21.880781 25.075991 31.824376 25.075991",
-  "layer_slug_s": "princeton-1n79h571n",
-  "layer_id_s": "pulmap-restricted:1n79h571n",
-  "layer_modified_dt": "2014-12-19T16:18:37Z",
+  "dc_format_s": "Shapefile",
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/1n79h571n/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/1n79h571n/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/1n79h571n/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
+  "dc_title_s": "Egypt Landmarks",
   "layer_geom_type_s": "Polygon",
-  "solr_geom": "ENVELOPE(25.075991, 37.062209, 31.824376, 21.880781)"
+  "solr_geom": "ENVELOPE(25.075991, 37.062209, 31.824376, 21.880781)",
+  "dc_rights_s": "Restricted",
+  "dc_language_s": "English"
 }

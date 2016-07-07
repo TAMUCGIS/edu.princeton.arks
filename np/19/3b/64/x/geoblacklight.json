@@ -1,13 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/np193b64x",
-  "dc_creator_sm": [
-    "All China Marketing Research Co., Ltd."
-  ],
   "dc_description_s": "Religious sites in China with zip map from 2004 economic census.",
-  "dc_format_s": "Shapefile",
-  "dc_identifier_s": "np193b64x",
-  "dc_language_s": "English",
-  "dc_rights_s": "Public",
+  "layer_modified_dt": "2014-12-19T16:18:33Z",
+  "solr_geom": "ENVELOPE(74.334602, 134.287269, 53.476133, 18.789057)",
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/np193b64x/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/np193b64x/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/np193b64x/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
+  "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/np193b64x",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "religion",
     "religions",
@@ -21,24 +19,26 @@
     "ownership",
     "Society"
   ],
-  "dc_title_s": "China religious sites, 2004",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/download/items/np193b64x/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/np193b64x/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/np193b64x/preview.jpg\"}",
-  "dct_spatial_sm": [
-    "China"
-  ],
+  "dc_format_s": "Shapefile",
+  "dct_issued_s": "20100331",
   "dct_temporal_sm": [
     "2000",
     "2010"
   ],
-  "dct_issued_s": "20100331",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "18.789057 74.334602 53.476133 134.287269",
+  "dc_creator_sm": [
+    "All China Marketing Research Co., Ltd."
+  ],
+  "dc_type_s": "Dataset",
+  "dc_identifier_s": "np193b64x",
   "georss_polygon_s": "53.476133 74.334602 53.476133 134.287269 18.789057 134.287269 18.789057 74.334602 53.476133 74.334602",
-  "layer_slug_s": "princeton-np193b64x",
+  "solr_year_i": "2000",
+  "dct_spatial_sm": [
+    "China"
+  ],
   "layer_id_s": "pulmap-restricted:np193b64x",
-  "layer_modified_dt": "2014-12-19T16:18:33Z",
+  "georss_box_s": "18.789057 74.334602 53.476133 134.287269",
+  "dc_title_s": "China religious sites, 2004",
+  "layer_slug_s": "princeton-np193b64x",
   "layer_geom_type_s": "Point",
-  "solr_geom": "ENVELOPE(74.334602, 134.287269, 53.476133, 18.789057)",
-  "solr_year_i": "2000"
+  "dc_language_s": "English"
 }

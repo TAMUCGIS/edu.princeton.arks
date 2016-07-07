@@ -1,32 +1,32 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/rb68xd61k",
-  "dc_creator_sm": [
-    "LeadDog Consulting, LLC"
-  ],
   "dc_description_s": "Mosul linear water",
-  "dc_format_s": "Shapefile",
-  "dc_identifier_s": "rb68xd61k",
-  "dc_language_s": "English",
-  "dc_publisher_s": "LeadDog Consulting, LLC",
-  "dc_rights_s": "Public",
+  "layer_modified_dt": "2014-12-19T16:18:32Z",
+  "solr_geom": "ENVELOPE(43.093646, 44.424534, 36.382190, 31.974927)",
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/rb68xd61k/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/rb68xd61k/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/rb68xd61k/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
+  "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/rb68xd61k",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Inland water resources"
   ],
-  "dc_title_s": "Mosul Linear Water",
+  "dc_format_s": "Shapefile",
+  "dct_issued_s": "2006",
+  "dc_creator_sm": [
+    "LeadDog Consulting, LLC"
+  ],
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/download/items/rb68xd61k/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/rb68xd61k/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/rb68xd61k/preview.jpg\"}",
+  "dc_identifier_s": "rb68xd61k",
+  "georss_polygon_s": "36.382190 43.093646 36.382190 44.424534 31.974927 44.424534 31.974927 43.093646 36.382190 43.093646",
+  "dc_publisher_s": "LeadDog Consulting, LLC",
+  "solr_year_i": "2006",
   "dct_spatial_sm": [
     "Mosul",
     "Iraq"
   ],
-  "dct_issued_s": "2006",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "31.974927 43.093646 36.382190 44.424534",
-  "georss_polygon_s": "36.382190 43.093646 36.382190 44.424534 31.974927 44.424534 31.974927 43.093646 36.382190 43.093646",
-  "layer_slug_s": "princeton-rb68xd61k",
   "layer_id_s": "pulmap-restricted:rb68xd61k",
-  "layer_modified_dt": "2014-12-19T16:18:32Z",
+  "georss_box_s": "31.974927 43.093646 36.382190 44.424534",
+  "dc_title_s": "Mosul Linear Water",
+  "layer_slug_s": "princeton-rb68xd61k",
   "layer_geom_type_s": "Line",
-  "solr_geom": "ENVELOPE(43.093646, 44.424534, 36.382190, 31.974927)",
-  "solr_year_i": "2006"
+  "dc_language_s": "English"
 }

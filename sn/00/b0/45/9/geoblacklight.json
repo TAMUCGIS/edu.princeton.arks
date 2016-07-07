@@ -1,33 +1,33 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/sn00b0459",
-  "dc_creator_sm": [
-    "LeadDog Consulting, LLC"
-  ],
   "dc_description_s": "Beijing Commerce",
-  "dc_format_s": "Shapefile",
-  "dc_identifier_s": "sn00b0459",
-  "dc_language_s": "English",
-  "dc_publisher_s": "LeadDog Consulting, LLC",
-  "dc_rights_s": "Public",
+  "layer_modified_dt": "2014-12-19T16:18:32Z",
+  "solr_geom": "ENVELOPE(115.435834, 117.128719, 40.469154, 39.679451)",
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/sn00b0459/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/sn00b0459/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/sn00b0459/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
+  "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/sn00b0459",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Business and economic",
     "Commerce"
   ],
-  "dc_title_s": "Beijing commerce",
+  "dc_format_s": "Shapefile",
+  "dct_issued_s": "2006",
+  "dc_creator_sm": [
+    "LeadDog Consulting, LLC"
+  ],
   "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/download/items/sn00b0459/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/sn00b0459/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/sn00b0459/preview.jpg\"}",
+  "dc_identifier_s": "sn00b0459",
+  "georss_polygon_s": "40.469154 115.435834 40.469154 117.128719 39.679451 117.128719 39.679451 115.435834 40.469154 115.435834",
+  "dc_publisher_s": "LeadDog Consulting, LLC",
+  "solr_year_i": "2006",
   "dct_spatial_sm": [
     "China",
     "Beijing"
   ],
-  "dct_issued_s": "2006",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "39.679451 115.435834 40.469154 117.128719",
-  "georss_polygon_s": "40.469154 115.435834 40.469154 117.128719 39.679451 117.128719 39.679451 115.435834 40.469154 115.435834",
-  "layer_slug_s": "princeton-sn00b0459",
   "layer_id_s": "pulmap-restricted:sn00b0459",
-  "layer_modified_dt": "2014-12-19T16:18:32Z",
+  "georss_box_s": "39.679451 115.435834 40.469154 117.128719",
+  "dc_title_s": "Beijing commerce",
+  "layer_slug_s": "princeton-sn00b0459",
   "layer_geom_type_s": "Point",
-  "solr_geom": "ENVELOPE(115.435834, 117.128719, 40.469154, 39.679451)",
-  "solr_year_i": "2006"
+  "dc_language_s": "English"
 }

@@ -1,13 +1,22 @@
 {
+  "layer_modified_dt": "2014-12-19T16:18:31Z",
   "uuid": "http://arks.princeton.edu/ark:/88435/zc77sr87p",
+  "dc_description_s": "Land parcels in Rio Blanco, Colorado, 2011",
+  "georss_box_s": "39.649695 -109.051659 40.226188 -107.037498",
+  "layer_slug_s": "princeton-zc77sr87p",
+  "dct_spatial_sm": [
+    "Rio Blanco",
+    "Rio Blanco County",
+    "Colorado"
+  ],
   "dc_creator_sm": [
     "Boundary Solutions, Inc."
   ],
-  "dc_description_s": "Land parcels in Rio Blanco, Colorado, 2011",
-  "dc_format_s": "Shapefile",
+  "layer_id_s": "pulmap-restricted:zc77sr87p",
+  "georss_polygon_s": "40.226188 -109.051659 40.226188 -107.037498 39.649695 -107.037498 39.649695 -109.051659 40.226188 -109.051659",
+  "dc_type_s": "Dataset",
   "dc_identifier_s": "zc77sr87p",
-  "dc_language_s": "English",
-  "dc_rights_s": "Public",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "property maps",
     "cadastral maps",
@@ -21,21 +30,12 @@
     "ownership",
     "Planning and Cadastral"
   ],
-  "dc_title_s": "Rio Blanco County, Colorado land parcels, 2011",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/download/items/zc77sr87p/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/zc77sr87p/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/zc77sr87p/preview.jpg\"}",
-  "dct_spatial_sm": [
-    "Rio Blanco",
-    "Rio Blanco County",
-    "Colorado"
-  ],
   "dct_issued_s": "20100203",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "39.649695 -109.051659 40.226188 -107.037498",
-  "georss_polygon_s": "40.226188 -109.051659 40.226188 -107.037498 39.649695 -107.037498 39.649695 -109.051659 40.226188 -109.051659",
-  "layer_slug_s": "princeton-zc77sr87p",
-  "layer_id_s": "pulmap-restricted:zc77sr87p",
-  "layer_modified_dt": "2014-12-19T16:18:31Z",
+  "dc_format_s": "Shapefile",
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/zc77sr87p/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/zc77sr87p/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/zc77sr87p/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
+  "dc_title_s": "Rio Blanco County, Colorado land parcels, 2011",
   "layer_geom_type_s": "Polygon",
-  "solr_geom": "ENVELOPE(-109.051659, -107.037498, 40.226188, 39.649695)"
+  "solr_geom": "ENVELOPE(-109.051659, -107.037498, 40.226188, 39.649695)",
+  "dc_rights_s": "Restricted",
+  "dc_language_s": "English"
 }

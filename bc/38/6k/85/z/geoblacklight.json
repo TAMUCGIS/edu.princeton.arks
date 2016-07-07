@@ -1,13 +1,21 @@
 {
+  "layer_modified_dt": "2014-12-19T16:18:35Z",
   "uuid": "http://arks.princeton.edu/ark:/88435/bc386k85z",
+  "dc_description_s": "Polylines representing metro lines in Cairo.",
+  "georss_box_s": "29.849168 31.197193 30.163696 31.338286",
+  "layer_slug_s": "princeton-bc386k85z",
+  "dct_spatial_sm": [
+    "Egypt",
+    "Cairo"
+  ],
   "dc_creator_sm": [
     "Globe Telecom"
   ],
-  "dc_description_s": "Polylines representing metro lines in Cairo.",
-  "dc_format_s": "Shapefile",
+  "layer_id_s": "pulmap-restricted:bc386k85z",
+  "georss_polygon_s": "30.163696 31.197193 30.163696 31.338286 29.849168 31.338286 29.849168 31.197193 30.163696 31.197193",
+  "dc_type_s": "Dataset",
   "dc_identifier_s": "bc386k85z",
-  "dc_language_s": "English",
-  "dc_rights_s": "Public",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "metro",
     "public",
@@ -19,20 +27,12 @@
     "line",
     "Transportation"
   ],
-  "dc_title_s": "Cairo Metro Lines",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/download/items/bc386k85z/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/bc386k85z/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/bc386k85z/preview.jpg\"}",
-  "dct_spatial_sm": [
-    "Egypt",
-    "Cairo"
-  ],
   "dct_issued_s": "20140706",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "29.849168 31.197193 30.163696 31.338286",
-  "georss_polygon_s": "30.163696 31.197193 30.163696 31.338286 29.849168 31.338286 29.849168 31.197193 30.163696 31.197193",
-  "layer_slug_s": "princeton-bc386k85z",
-  "layer_id_s": "pulmap-restricted:bc386k85z",
-  "layer_modified_dt": "2014-12-19T16:18:35Z",
+  "dc_format_s": "Shapefile",
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/bc386k85z/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/bc386k85z/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/bc386k85z/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
+  "dc_title_s": "Cairo Metro Lines",
   "layer_geom_type_s": "Line",
-  "solr_geom": "ENVELOPE(31.197193, 31.338286, 30.163696, 29.849168)"
+  "solr_geom": "ENVELOPE(31.197193, 31.338286, 30.163696, 29.849168)",
+  "dc_rights_s": "Restricted",
+  "dc_language_s": "English"
 }

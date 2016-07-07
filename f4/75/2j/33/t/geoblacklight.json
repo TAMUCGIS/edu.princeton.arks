@@ -1,13 +1,23 @@
 {
+  "layer_modified_dt": "2014-12-19T16:18:34Z",
   "uuid": "http://arks.princeton.edu/ark:/88435/f4752j33t",
+  "dc_description_s": "Land parcels in Union County, New Jersey, 2009.",
+  "georss_box_s": "40.591976 -74.463211 40.738646 -74.138845",
+  "layer_slug_s": "princeton-f4752j33t",
+  "dct_spatial_sm": [
+    "New Jersey",
+    "Union County",
+    "Union",
+    "Elizabeth"
+  ],
   "dc_creator_sm": [
     "Boundary Solutions, Inc."
   ],
-  "dc_description_s": "Land parcels in Union County, New Jersey, 2009.",
-  "dc_format_s": "Shapefile",
+  "layer_id_s": "pulmap-restricted:f4752j33t",
+  "georss_polygon_s": "40.738646 -74.463211 40.738646 -74.138845 40.591976 -74.138845 40.591976 -74.463211 40.738646 -74.463211",
+  "dc_type_s": "Dataset",
   "dc_identifier_s": "f4752j33t",
-  "dc_language_s": "English",
-  "dc_rights_s": "Public",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "property maps",
     "cadastral maps",
@@ -24,22 +34,12 @@
     "floors",
     "Planning and Cadastral"
   ],
-  "dc_title_s": "Union County, New Jersey land parcels, 2009",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geowebservices.princeton.edu/download/items/f4752j33t/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/f4752j33t/fgdc.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geowebservices.princeton.edu/geoserver/pulmap-restricted/wms\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/f4752j33t/preview.jpg\"}",
-  "dct_spatial_sm": [
-    "New Jersey",
-    "Union County",
-    "Union",
-    "Elizabeth"
-  ],
   "dct_issued_s": "20091209",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "40.591976 -74.463211 40.738646 -74.138845",
-  "georss_polygon_s": "40.738646 -74.463211 40.738646 -74.138845 40.591976 -74.138845 40.591976 -74.463211 40.738646 -74.463211",
-  "layer_slug_s": "princeton-f4752j33t",
-  "layer_id_s": "pulmap-restricted:f4752j33t",
-  "layer_modified_dt": "2014-12-19T16:18:34Z",
+  "dc_format_s": "Shapefile",
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/f4752j33t/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/f4752j33t/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/f4752j33t/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
+  "dc_title_s": "Union County, New Jersey land parcels, 2009",
   "layer_geom_type_s": "Polygon",
-  "solr_geom": "ENVELOPE(-74.463211, -74.138845, 40.738646, 40.591976)"
+  "solr_geom": "ENVELOPE(-74.463211, -74.138845, 40.738646, 40.591976)",
+  "dc_rights_s": "Restricted",
+  "dc_language_s": "English"
 }
