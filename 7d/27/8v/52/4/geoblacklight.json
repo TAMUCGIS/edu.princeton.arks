@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/7d278v524",
-  "dc_creator_sm": [
-    "Army Map Service"
-  ],
   "dc_description_s": "This is a map of the city of Okegawa, Japan, shown at a 1:12,500 scale. The map was created for use by War and Navy Department agencies during World War II.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "7d278v524",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Army Map Service",
+  "layer_modified_dt": "2015-01-11T17:42:49Z",
+  "solr_geom": "ENVELOPE(139.5333, 139.6167, 36.0167, 35.9500)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F7d%2F27%2F8v%2F52%2F4%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/7d278v524/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/7d278v524/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/7d278v524",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
     "Railroads",
@@ -19,9 +16,16 @@
     "Military",
     "Facilities and Structures"
   ],
-  "dc_title_s": "Okegawa, Saitama Prefecture, Honshu, Japan. A.M.S. L902. ",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F7d%2F27%2F8v%2F52%2F4%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/7d278v524/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/7d278v524/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1945",
+  "dc_creator_sm": [
+    "Army Map Service"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "7d278v524",
+  "georss_polygon_s": "36.0167 139.5333 36.0167 139.6167 35.9500 139.6167 35.9500 139.5333 36.0167 139.5333",
+  "dc_publisher_s": "Army Map Service",
+  "solr_year_i": "1945",
   "dct_spatial_sm": [
     "Okegawa",
     "Honshu",
@@ -30,14 +34,10 @@
     "Okegawamachi",
     "Japan"
   ],
-  "dct_issued_s": "1945",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "35.9500 139.5333 36.0167 139.6167",
-  "georss_polygon_s": "36.0167 139.5333 36.0167 139.6167 35.9500 139.6167 35.9500 139.5333 36.0167 139.5333",
-  "layer_slug_s": "princeton-7d278v524",
   "layer_id_s": "7d278v524",
-  "layer_modified_dt": "2015-01-11T17:42:49Z",
+  "georss_box_s": "35.9500 139.5333 36.0167 139.6167",
+  "dc_title_s": "Okegawa, Saitama Prefecture, Honshu, Japan. A.M.S. L902. ",
+  "layer_slug_s": "princeton-7d278v524",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(139.5333, 139.6167, 36.0167, 35.9500)",
-  "solr_year_i": "1945"
+  "dc_language_s": "English"
 }

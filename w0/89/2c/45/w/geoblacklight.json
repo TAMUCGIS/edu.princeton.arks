@@ -1,12 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/w0892c45w",
-  "dc_creator_sm": "Stadtmessungsamt Reutlingen",
   "dc_description_s": "This is a city map of Reutlingen, Germany, shown at a 1:10,000 scale. This city map was created by Stadtmessungsamt Reutlingen.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "w0892c45w",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Stadtmessungsamt Reutlingen",
+  "layer_modified_dt": "2015-01-11T18:24:46Z",
+  "solr_geom": "ENVELOPE(9.1144, 9.2531, 48.5784, 48.4123)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/w0892c45w\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/w0892c45w/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/w0892c45w",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
     "Transportation",
@@ -15,9 +14,14 @@
     "City blocks",
     "Relief"
   ],
-  "dc_title_s": "Amtlicher Plan der Stadt Reutlingen mit Stadtteil Betzingen und den Vororten Ohmenhausen und Sondelfingen",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/w0892c45w\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/w0892c45w/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1955",
+  "dc_creator_sm": "Stadtmessungsamt Reutlingen",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "w0892c45w",
+  "georss_polygon_s": "48.5784 9.1144 48.5784 9.2531 48.4123 9.2531 48.4123 9.1144 48.5784 9.1144",
+  "dc_publisher_s": "Stadtmessungsamt Reutlingen",
+  "solr_year_i": "1955",
   "dct_spatial_sm": [
     "Reutlingen",
     "Germany",
@@ -25,14 +29,10 @@
     "Federal Republic of Germany",
     "West Germany"
   ],
-  "dct_issued_s": "1955",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "48.4123 9.1144 48.5784 9.2531",
-  "georss_polygon_s": "48.5784 9.1144 48.5784 9.2531 48.4123 9.2531 48.4123 9.1144 48.5784 9.1144",
-  "layer_slug_s": "princeton-w0892c45w",
   "layer_id_s": "w0892c45w",
-  "layer_modified_dt": "2015-01-11T18:24:46Z",
+  "georss_box_s": "48.4123 9.1144 48.5784 9.2531",
+  "dc_title_s": "Amtlicher Plan der Stadt Reutlingen mit Stadtteil Betzingen und den Vororten Ohmenhausen und Sondelfingen",
+  "layer_slug_s": "princeton-w0892c45w",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(9.1144, 9.2531, 48.5784, 48.4123)",
-  "solr_year_i": "1955"
+  "dc_language_s": "English"
 }

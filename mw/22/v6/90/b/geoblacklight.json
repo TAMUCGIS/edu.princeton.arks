@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/mw22v690b",
-  "dc_creator_sm": [
-    "Army Map Service"
-  ],
   "dc_description_s": "This is a map of the city of Maubeuge, France, shown at a 1:15,000 scale. The map was created for use by War and Navy Department agencies during World War II.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "mw22v690b",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Army Map Service",
+  "layer_modified_dt": "2015-01-11T17:42:36Z",
+  "solr_geom": "ENVELOPE(2.267, 2.417, 50.067, 50.017)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fmw%2F22%2Fv6%2F90%2Fb%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/mw22v690b/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/mw22v690b/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/mw22v690b",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
     "Railroads",
@@ -20,21 +17,24 @@
     "Facilities and Structures",
     "Fort"
   ],
-  "dc_title_s": "France 1:15,000 .Maubeuge city plan.  A.M.S. M961.",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fmw%2F22%2Fv6%2F90%2Fb%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/mw22v690b/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/mw22v690b/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1943",
+  "dc_creator_sm": [
+    "Army Map Service"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "mw22v690b",
+  "georss_polygon_s": "50.067 2.267 50.067 2.417 50.017 2.417 50.017 2.267 50.067 2.267",
+  "dc_publisher_s": "Army Map Service",
+  "solr_year_i": "1943",
   "dct_spatial_sm": [
     "France",
     "Maubeuge"
   ],
-  "dct_issued_s": "1943",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "50.017 2.267 50.067 2.417",
-  "georss_polygon_s": "50.067 2.267 50.067 2.417 50.017 2.417 50.017 2.267 50.067 2.267",
-  "layer_slug_s": "princeton-mw22v690b",
   "layer_id_s": "mw22v690b",
-  "layer_modified_dt": "2015-01-11T17:42:36Z",
+  "georss_box_s": "50.017 2.267 50.067 2.417",
+  "dc_title_s": "France 1:15,000 .Maubeuge city plan.  A.M.S. M961.",
+  "layer_slug_s": "princeton-mw22v690b",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(2.267, 2.417, 50.067, 50.017)",
-  "solr_year_i": "1943"
+  "dc_language_s": "English"
 }

@@ -1,12 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/ns064766h",
-  "dc_creator_sm": "Pharus-Verlag G.m.b.H.",
   "dc_description_s": "This is a city map of Coblenz, Germany, shown at a 1:10,000 scale. This city map was created by Pharus-Verlag G.m.b.H.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "ns064766h",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Pharus-Verlag G.m.b.H.",
+  "layer_modified_dt": "2015-01-11T18:25:01Z",
+  "solr_geom": "ENVELOPE(7.4877, 7.6916, 50.4085, 50.2858)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/ns064766h\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/ns064766h/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/ns064766h",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
     "Transportation",
@@ -15,9 +14,14 @@
     "City blocks",
     "Relief"
   ],
-  "dc_title_s": "Pharus-plan Coblenz",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/ns064766h\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/ns064766h/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1920",
+  "dc_creator_sm": "Pharus-Verlag G.m.b.H.",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "ns064766h",
+  "georss_polygon_s": "50.4085 7.4877 50.4085 7.6916 50.2858 7.6916 50.2858 7.4877 50.4085 7.4877",
+  "dc_publisher_s": "Pharus-Verlag G.m.b.H.",
+  "solr_year_i": "1920",
   "dct_spatial_sm": [
     "Coblenz",
     "Germany",
@@ -27,14 +31,10 @@
     "West Germany",
     "Rheinland-Pfalz Land"
   ],
-  "dct_issued_s": "1920",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "50.2858 7.4877 50.4085 7.6916",
-  "georss_polygon_s": "50.4085 7.4877 50.4085 7.6916 50.2858 7.6916 50.2858 7.4877 50.4085 7.4877",
-  "layer_slug_s": "princeton-ns064766h",
   "layer_id_s": "ns064766h",
-  "layer_modified_dt": "2015-01-11T18:25:01Z",
+  "georss_box_s": "50.2858 7.4877 50.4085 7.6916",
+  "dc_title_s": "Pharus-plan Coblenz",
+  "layer_slug_s": "princeton-ns064766h",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(7.4877, 7.6916, 50.4085, 50.2858)",
-  "solr_year_i": "1920"
+  "dc_language_s": "English"
 }

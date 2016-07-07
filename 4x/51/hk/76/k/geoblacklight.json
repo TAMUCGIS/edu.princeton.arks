@@ -1,12 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/4x51hk76k",
-  "dc_creator_sm": "Panstwowe Przedsiebiorstwo Wydawnictw Kartograficznych",
   "dc_description_s": "This is a city map of Zielonej Gory, Poland shown at an unknown scale. This city map was created by Panstwowe Przedsiebiorstwo Wydawnictw Kartograficznych.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "4x51hk76k",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Panstwowe Przedsiebiorstwo Wydawnictw Kartograficznych",
+  "layer_modified_dt": "2015-01-11T18:25:20Z",
+  "solr_geom": "ENVELOPE(15.41, 15.56, 51.98, 51.88)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/4x51hk76k\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/4x51hk76k/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/4x51hk76k",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
     "Transportation",
@@ -14,21 +13,22 @@
     "Facilities and Structures",
     "City blocks"
   ],
-  "dc_title_s": "Plan Zielonej Góry",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/4x51hk76k\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/4x51hk76k/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1968",
+  "dc_creator_sm": "Panstwowe Przedsiebiorstwo Wydawnictw Kartograficznych",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "4x51hk76k",
+  "georss_polygon_s": "51.98 15.41 51.98 15.56 51.88 15.56 51.88 15.41 51.98 15.41",
+  "dc_publisher_s": "Panstwowe Przedsiebiorstwo Wydawnictw Kartograficznych",
+  "solr_year_i": "1968",
   "dct_spatial_sm": [
     "Zielonej Gory",
     "Poland"
   ],
-  "dct_issued_s": "1968",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "51.88 15.41 51.98 15.56",
-  "georss_polygon_s": "51.98 15.41 51.98 15.56 51.88 15.56 51.88 15.41 51.98 15.41",
-  "layer_slug_s": "princeton-4x51hk76k",
   "layer_id_s": "4x51hk76k",
-  "layer_modified_dt": "2015-01-11T18:25:20Z",
+  "georss_box_s": "51.88 15.41 51.98 15.56",
+  "dc_title_s": "Plan Zielonej G\u00f3ry",
+  "layer_slug_s": "princeton-4x51hk76k",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(15.41, 15.56, 51.98, 51.88)",
-  "solr_year_i": "1968"
+  "dc_language_s": "English"
 }

@@ -1,12 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/2n49t342p",
-  "dc_creator_sm": "Landesplanung Schleswig-Holstein",
   "dc_description_s": "This is a city map of Hamburg, Germany, shown at a 1:150,000 scale. This city map was created by Landesplanung Schleswig-Holstein, Akademie fur Raumforschung und Landesplanung, and Ministerpraesident des Landes Schleswig-Holstein.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "2n49t342p",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Landesplanung Schleswig-Holstein",
+  "layer_modified_dt": "2015-01-11T18:25:16Z",
+  "solr_geom": "ENVELOPE(9.7327, 10.2282, 53.743, 53.4077)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/2n49t342p\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/2n49t342p/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/2n49t342p",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
     "Transportation",
@@ -15,23 +14,24 @@
     "Zoning",
     "Regional planning"
   ],
-  "dc_title_s": "Bauliche Entwicklung im Hamburger Randgebiet",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/2n49t342p\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/2n49t342p/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1957",
+  "dc_creator_sm": "Landesplanung Schleswig-Holstein",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "2n49t342p",
+  "georss_polygon_s": "53.743 9.7327 53.743 10.2282 53.4077 10.2282 53.4077 9.7327 53.743 9.7327",
+  "dc_publisher_s": "Landesplanung Schleswig-Holstein",
+  "solr_year_i": "1957",
   "dct_spatial_sm": [
     "Hamburg",
     "Germany",
     "Bundesrepublik Deutschland",
     "Hamburg Land"
   ],
-  "dct_issued_s": "1957",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "53.4077 9.7327 53.743 10.2282",
-  "georss_polygon_s": "53.743 9.7327 53.743 10.2282 53.4077 10.2282 53.4077 9.7327 53.743 9.7327",
-  "layer_slug_s": "princeton-2n49t342p",
   "layer_id_s": "2n49t342p",
-  "layer_modified_dt": "2015-01-11T18:25:16Z",
+  "georss_box_s": "53.4077 9.7327 53.743 10.2282",
+  "dc_title_s": "Bauliche Entwicklung im Hamburger Randgebiet",
+  "layer_slug_s": "princeton-2n49t342p",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(9.7327, 10.2282, 53.743, 53.4077)",
-  "solr_year_i": "1957"
+  "dc_language_s": "English"
 }

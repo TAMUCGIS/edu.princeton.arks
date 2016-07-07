@@ -1,12 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/rr171z684",
-  "dc_creator_sm": "United States Defense Mapping Agency, Hydrographic/Topographic Center",
   "dc_description_s": "This is a city map of Likasi, Zaire, shown at a 1:12,500 scale. This city map was created by the United States Defense Mapping Agency, Hydrographic/Topographic Center.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "rr171z684",
-  "dc_language_s": "English",
-  "dc_publisher_s": "United States Defense Mapping Agency, Hydrographic/Topographic Center",
+  "layer_modified_dt": "2015-01-11T18:24:41Z",
+  "solr_geom": "ENVELOPE(26.6718, 26.7820, -10.9504, -11.0323)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/rr171z684\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/rr171z684/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/rr171z684",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
     "Transportation",
@@ -15,9 +14,14 @@
     "City blocks",
     "Topography"
   ],
-  "dc_title_s": "Zaire city graphic 1:12,500. Likasi. Series Z901",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/rr171z684\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/rr171z684/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1980",
+  "dc_creator_sm": "United States Defense Mapping Agency, Hydrographic/Topographic Center",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "rr171z684",
+  "georss_polygon_s": "-10.9504 26.6718 -10.9504 26.7820 -11.0323 26.7820 -11.0323 26.6718 -10.9504 26.6718",
+  "dc_publisher_s": "United States Defense Mapping Agency, Hydrographic/Topographic Center",
+  "solr_year_i": "1980",
   "dct_spatial_sm": [
     "Likasi",
     "Zaire",
@@ -26,14 +30,10 @@
     "Katanga Province",
     "Africa"
   ],
-  "dct_issued_s": "1980",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "-11.0323 26.6718 -10.9504 26.7820",
-  "georss_polygon_s": "-10.9504 26.6718 -10.9504 26.7820 -11.0323 26.7820 -11.0323 26.6718 -10.9504 26.6718",
-  "layer_slug_s": "princeton-rr171z684",
   "layer_id_s": "rr171z684",
-  "layer_modified_dt": "2015-01-11T18:24:41Z",
+  "georss_box_s": "-11.0323 26.6718 -10.9504 26.7820",
+  "dc_title_s": "Zaire city graphic 1:12,500. Likasi. Series Z901",
+  "layer_slug_s": "princeton-rr171z684",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(26.6718, 26.7820, -10.9504, -11.0323)",
-  "solr_year_i": "1980"
+  "dc_language_s": "English"
 }

@@ -1,12 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/dv13zv74p",
-  "dc_creator_sm": "Ustredni Sprava Geodezie a Kartografie",
   "dc_description_s": "This is a city map of Marianske Lazne, Czechoslovakia, shown at a 1:10,000 scale. This city map was created by Ustredni Sprava Geodezie a Kartografie.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "dv13zv74p",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Ustredni Sprava Geodezie a Kartografie",
+  "layer_modified_dt": "2015-01-11T18:24:47Z",
+  "solr_geom": "ENVELOPE(12.66, 12.73, 49.99, 49.94)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/dv13zv74p\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/dv13zv74p/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/dv13zv74p",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
     "Transportation",
@@ -15,22 +14,23 @@
     "City blocks",
     "Tourist maps"
   ],
-  "dc_title_s": "Marianske Lazne, Orientacni plan",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/dv13zv74p\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/dv13zv74p/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1960",
+  "dc_creator_sm": "Ustredni Sprava Geodezie a Kartografie",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "dv13zv74p",
+  "georss_polygon_s": "49.99 12.66 49.99 12.73 49.94 12.73 49.94 12.66 49.99 12.66",
+  "dc_publisher_s": "Ustredni Sprava Geodezie a Kartografie",
+  "solr_year_i": "1960",
   "dct_spatial_sm": [
     "Marianske Lazne",
     "Czechoslovakia",
     "Czech Republic"
   ],
-  "dct_issued_s": "1960",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "49.94 12.66 49.99 12.73",
-  "georss_polygon_s": "49.99 12.66 49.99 12.73 49.94 12.73 49.94 12.66 49.99 12.66",
-  "layer_slug_s": "princeton-dv13zv74p",
   "layer_id_s": "dv13zv74p",
-  "layer_modified_dt": "2015-01-11T18:24:47Z",
+  "georss_box_s": "49.94 12.66 49.99 12.73",
+  "dc_title_s": "Marianske Lazne, Orientacni plan",
+  "layer_slug_s": "princeton-dv13zv74p",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(12.66, 12.73, 49.99, 49.94)",
-  "solr_year_i": "1960"
+  "dc_language_s": "English"
 }

@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/mk61rj61w",
-  "dc_creator_sm": [
-    "Army Map Service"
-  ],
   "dc_description_s": "This is a map of the city of Hafnarfjordhur, Iceland, shown at a 1:5,000. The map was created for use by War and Navy Department agencies during World War II.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "mk61rj61w",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Army Map Service",
+  "layer_modified_dt": "2015-01-11T17:43:25Z",
+  "solr_geom": "ENVELOPE(-21.9667, -21.9500, 64.0833, 64.0667)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fmk%2F61%2Frj%2F61%2Fw%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/mk61rj61w/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/mk61rj61w/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/mk61rj61w",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
     "Railroads",
@@ -19,22 +16,25 @@
     "Military",
     "Facilities and Structures"
   ],
-  "dc_title_s": "Iceland 1:5,000. Hafnarfjordhur. city plan. A.M.S CO61.",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fmk%2F61%2Frj%2F61%2Fw%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/mk61rj61w/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/mk61rj61w/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1943",
+  "dc_creator_sm": [
+    "Army Map Service"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "mk61rj61w",
+  "georss_polygon_s": "64.0833 -21.9667 64.0833 -21.9500 64.0667 -21.9500 64.0667 -21.9667 64.0833 -21.9667",
+  "dc_publisher_s": "Army Map Service",
+  "solr_year_i": "1943",
   "dct_spatial_sm": [
     "Hafnarfjordhur ",
     "Halfnarfjoryur ",
     "Iceland"
   ],
-  "dct_issued_s": "1943",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "64.0667 -21.9667 64.0833 -21.9500",
-  "georss_polygon_s": "64.0833 -21.9667 64.0833 -21.9500 64.0667 -21.9500 64.0667 -21.9667 64.0833 -21.9667",
-  "layer_slug_s": "princeton-mk61rj61w",
   "layer_id_s": "mk61rj61w",
-  "layer_modified_dt": "2015-01-11T17:43:25Z",
+  "georss_box_s": "64.0667 -21.9667 64.0833 -21.9500",
+  "dc_title_s": "Iceland 1:5,000. Hafnarfjordhur. city plan. A.M.S CO61.",
+  "layer_slug_s": "princeton-mk61rj61w",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(-21.9667, -21.9500, 64.0833, 64.0667)",
-  "solr_year_i": "1943"
+  "dc_language_s": "English"
 }

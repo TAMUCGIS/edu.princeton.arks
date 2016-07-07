@@ -1,20 +1,24 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/ff3656793",
-  "dc_creator_sm": "Survey of India",
   "dc_description_s": "This is a map of the city of Simla, India, shown at a 1:10,000 scale. The map was created by the government-sponsored Survey of India.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "ff3656793",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Survey of India",
+  "layer_modified_dt": "2015-01-11T18:24:49Z",
+  "solr_geom": "ENVELOPE(77.0706, 77.2026, 31.1444, 31.0687)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/ff3656793\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/ff3656793/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/ff3656793",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "City plan",
     "Topography",
     "structure"
   ],
-  "dc_title_s": "Simla guide map (1972)",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/ff3656793\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/ff3656793/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1972",
+  "dc_creator_sm": "Survey of India",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "ff3656793",
+  "georss_polygon_s": "31.1444 77.0706 31.1444 77.2026 31.0687 77.2026 31.0687 77.0706 31.1444 77.0706",
+  "dc_publisher_s": "Survey of India",
+  "solr_year_i": "1972",
   "dct_spatial_sm": [
     "Simla",
     "Jutogh",
@@ -22,14 +26,10 @@
     "India",
     "MAX  G7654.S5C2.1972.S9I5"
   ],
-  "dct_issued_s": "1972",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "31.0687 77.0706 31.1444 77.2026",
-  "georss_polygon_s": "31.1444 77.0706 31.1444 77.2026 31.0687 77.2026 31.0687 77.0706 31.1444 77.0706",
-  "layer_slug_s": "princeton-ff3656793",
   "layer_id_s": "ff3656793",
-  "layer_modified_dt": "2015-01-11T18:24:49Z",
+  "georss_box_s": "31.0687 77.0706 31.1444 77.2026",
+  "dc_title_s": "Simla guide map (1972)",
+  "layer_slug_s": "princeton-ff3656793",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(77.0706, 77.2026, 31.1444, 31.0687)",
-  "solr_year_i": "1972"
+  "dc_language_s": "English"
 }

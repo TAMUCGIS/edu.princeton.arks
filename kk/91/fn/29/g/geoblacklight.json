@@ -1,12 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/kk91fn29g",
-  "dc_creator_sm": "Robert Fargo",
   "dc_description_s": "This shape file contains polygons indentifying the known oil and gas fields in Iraq. Information is contained which include the name of the fields, the type of hydrocarbon reserves, the estimated oil and gas reserves for the fields, the production status, the geological basin, the local terrain, the discovery basis, the discovery date, the discovery well, coordinates of a salient point in the field (often the discovery well), the reserves classification and the Barrels of Oil Equivalent (BOE) reserves of the field.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "kk91fn29g",
-  "dc_language_s": "English",
-  "dc_publisher_s": "ESOC Group",
+  "layer_modified_dt": "2015-01-11T18:25:19Z",
+  "solr_geom": "ENVELOPE(40.700306, 48.452024, 37.189711, 29.157996)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/kk91fn29g\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/kk91fn29g/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/kk91fn29g",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Oil",
     "Gas",
@@ -17,21 +16,22 @@
     "producing",
     "Geological and geophysical"
   ],
-  "dc_title_s": "Iraq Oil and Gas Fields",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/kk91fn29g\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/kk91fn29g/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "2009",
+  "dc_creator_sm": "Robert Fargo",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "kk91fn29g",
+  "georss_polygon_s": "37.189711 40.700306 37.189711 48.452024 29.157996 48.452024 29.157996 40.700306 37.189711 40.700306",
+  "dc_publisher_s": "ESOC Group",
+  "solr_year_i": "2009",
   "dct_spatial_sm": [
     "Iraq",
     "Middle East"
   ],
-  "dct_issued_s": "2009",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "29.157996 40.700306 37.189711 48.452024",
-  "georss_polygon_s": "37.189711 40.700306 37.189711 48.452024 29.157996 48.452024 29.157996 40.700306 37.189711 40.700306",
-  "layer_slug_s": "princeton-kk91fn29g",
   "layer_id_s": "kk91fn29g",
-  "layer_modified_dt": "2015-01-11T18:25:19Z",
+  "georss_box_s": "29.157996 40.700306 37.189711 48.452024",
+  "dc_title_s": "Iraq Oil and Gas Fields",
+  "layer_slug_s": "princeton-kk91fn29g",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(40.700306, 48.452024, 37.189711, 29.157996)",
-  "solr_year_i": "2009"
+  "dc_language_s": "English"
 }

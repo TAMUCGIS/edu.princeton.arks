@@ -1,12 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/5m60qt34q",
-  "dc_creator_sm": "Great Britain Ordnance Survey",
   "dc_description_s": "This is a map of Anglesey in a series of maps of England and Wales, shown at a 1:63,360 or one inch to one statute mile scale. This road map was created by the Great Britain Ordnance Survey.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "5m60qt34q",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Great Britain Ordnance Survey",
+  "layer_modified_dt": "2015-01-11T18:24:37Z",
+  "solr_geom": "ENVELOPE(-4.700, -4.0167, 53.4167, 53.0833)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/5m60qt34q\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/5m60qt34q/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/5m60qt34q",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
     "Railroads",
@@ -15,9 +14,14 @@
     "City map",
     "Facilities and Structures"
   ],
-  "dc_title_s": "Ordnance Survey of England and Wales: popular edition one-inch map. Anglesey. Sheet 41.",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/5m60qt34q\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/5m60qt34q/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1931",
+  "dc_creator_sm": "Great Britain Ordnance Survey",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "5m60qt34q",
+  "georss_polygon_s": "53.4167 -4.700 53.4167 -4.0167 53.0833 -4.0167 53.0833 -4.700 53.4167 -4.700",
+  "dc_publisher_s": "Great Britain Ordnance Survey",
+  "solr_year_i": "1931",
   "dct_spatial_sm": [
     "Anglesey ",
     "Caernavonshire ",
@@ -28,14 +32,10 @@
     "United Kingdom",
     "MAX G5741.C2.s63.O7S8 sh41"
   ],
-  "dct_issued_s": "1931",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "53.0833 -4.700 53.4167 -4.0167",
-  "georss_polygon_s": "53.4167 -4.700 53.4167 -4.0167 53.0833 -4.0167 53.0833 -4.700 53.4167 -4.700",
-  "layer_slug_s": "princeton-5m60qt34q",
   "layer_id_s": "5m60qt34q",
-  "layer_modified_dt": "2015-01-11T18:24:37Z",
+  "georss_box_s": "53.0833 -4.700 53.4167 -4.0167",
+  "dc_title_s": "Ordnance Survey of England and Wales: popular edition one-inch map. Anglesey. Sheet 41.",
+  "layer_slug_s": "princeton-5m60qt34q",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(-4.700, -4.0167, 53.4167, 53.0833)",
-  "solr_year_i": "1931"
+  "dc_language_s": "English"
 }

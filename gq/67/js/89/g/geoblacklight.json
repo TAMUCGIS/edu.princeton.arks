@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/gq67js89g",
-  "dc_creator_sm": [
-    "Army Map Service"
-  ],
   "dc_description_s": "This is a map of the city of Tsitsihar, China, shown at a 1:12,500 scale. The map was created for use by War and Navy Department agencies during World War II.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "gq67js89g",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Army Map Service",
+  "layer_modified_dt": "2015-01-11T17:43:31Z",
+  "solr_geom": "ENVELOPE(123.90, 124, 47.37, 47.28)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fgq%2F67%2Fjs%2F89%2Fg%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/gq67js89g/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/gq67js89g/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/gq67js89g",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
     "Railroads",
@@ -20,9 +17,16 @@
     "Facilities and Structures",
     "Boundaries"
   ],
-  "dc_title_s": "Tsitsihar (Lung-chiang), Lung-chiang Province, Manchuria",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fgq%2F67%2Fjs%2F89%2Fg%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/gq67js89g/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/gq67js89g/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1945",
+  "dc_creator_sm": [
+    "Army Map Service"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "gq67js89g",
+  "georss_polygon_s": "47.37 123.90 47.37 124 47.28 124 47.28 123.90 47.37 123.90",
+  "dc_publisher_s": "Army Map Service",
+  "solr_year_i": "1945",
   "dct_spatial_sm": [
     "Manchuria",
     "Lung-chiang Province",
@@ -31,14 +35,10 @@
     "Qiqhar",
     "China"
   ],
-  "dct_issued_s": "1945",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "47.28 123.90 47.37 124",
-  "georss_polygon_s": "47.37 123.90 47.37 124 47.28 124 47.28 123.90 47.37 123.90",
-  "layer_slug_s": "princeton-gq67js89g",
   "layer_id_s": "gq67js89g",
-  "layer_modified_dt": "2015-01-11T17:43:31Z",
+  "georss_box_s": "47.28 123.90 47.37 124",
+  "dc_title_s": "Tsitsihar (Lung-chiang), Lung-chiang Province, Manchuria",
+  "layer_slug_s": "princeton-gq67js89g",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(123.90, 124, 47.37, 47.28)",
-  "solr_year_i": "1945"
+  "dc_language_s": "English"
 }

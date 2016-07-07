@@ -1,12 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/gt54kp53v",
-  "dc_creator_sm": "Minsisterio de Informacion y Turismo, Direcion General de Promocion del Turismo",
   "dc_description_s": "This is a city map of Almeria, Spain shown at a ca: 1:15,000 scale. This city map was created by the Minsisterio de Informacion y Turismo, Direcion General de Promocion del Turismo.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "gt54kp53v",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Minsisterio de Informacion y Turismo, Direcion General de Promocion del Turismo",
+  "layer_modified_dt": "2015-01-11T18:24:45Z",
+  "solr_geom": "ENVELOPE(-2.4807, -2.3854, 36.8714, 36.8102)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/gt54kp53v\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/gt54kp53v/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/gt54kp53v",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
     "Transportation",
@@ -15,23 +14,24 @@
     "City blocks",
     "Tourist Maps"
   ],
-  "dc_title_s": "Almeria",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/gt54kp53v\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/gt54kp53v/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1975",
+  "dc_creator_sm": "Minsisterio de Informacion y Turismo, Direcion General de Promocion del Turismo",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "gt54kp53v",
+  "georss_polygon_s": "36.8714 -2.4807 36.8714 -2.3854 36.8102 -2.3854 36.8102 -2.4807 36.8714 -2.4807",
+  "dc_publisher_s": "Minsisterio de Informacion y Turismo, Direcion General de Promocion del Turismo",
+  "solr_year_i": "1975",
   "dct_spatial_sm": [
     "Almeria",
     "Spain",
     "Catalonia Autonomous community",
     "Comunidad Autonoma de Cataluna"
   ],
-  "dct_issued_s": "1975",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "36.8102 -2.4807 36.8714 -2.3854",
-  "georss_polygon_s": "36.8714 -2.4807 36.8714 -2.3854 36.8102 -2.3854 36.8102 -2.4807 36.8714 -2.4807",
-  "layer_slug_s": "princeton-gt54kp53v",
   "layer_id_s": "gt54kp53v",
-  "layer_modified_dt": "2015-01-11T18:24:45Z",
+  "georss_box_s": "36.8102 -2.4807 36.8714 -2.3854",
+  "dc_title_s": "Almeria",
+  "layer_slug_s": "princeton-gt54kp53v",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(-2.4807, -2.3854, 36.8714, 36.8102)",
-  "solr_year_i": "1975"
+  "dc_language_s": "English"
 }

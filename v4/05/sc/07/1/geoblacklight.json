@@ -1,35 +1,35 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/v405sc071",
-  "dc_creator_sm": [
-    "Central Intelligence Agency"
-  ],
   "dc_description_s": "This is a map of the Central African Republic, shown at a scale of 1:7,000,000. The map was created by the Central Intelligence Agency.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "v405sc071",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Central Intelligence Agency",
+  "layer_modified_dt": "2015-01-11T17:43:28Z",
+  "solr_geom": "ENVELOPE(15, 25, 13, 0)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fv4%2F05%2Fsc%2F07%2F1%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/v405sc071/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/v405sc071/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/v405sc071",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
     "Railroads",
     "Transportation",
     "Administrative and Political Boundaries"
   ],
-  "dc_title_s": "Central African Republic, 1977",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fv4%2F05%2Fsc%2F07%2F1%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/v405sc071/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/v405sc071/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "September 1977",
+  "dc_creator_sm": [
+    "Central Intelligence Agency"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "v405sc071",
+  "georss_polygon_s": "13 15 13 25 0 25 0 15 13 15",
+  "dc_publisher_s": "Central Intelligence Agency",
   "dct_spatial_sm": [
     "Central African Republic",
     "Central Africa",
     "Africa"
   ],
-  "dct_issued_s": "September 1977",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "0 15 13 25",
-  "georss_polygon_s": "13 15 13 25 0 25 0 15 13 15",
-  "layer_slug_s": "princeton-v405sc071",
   "layer_id_s": "v405sc071",
-  "layer_modified_dt": "2015-01-11T17:43:28Z",
+  "georss_box_s": "0 15 13 25",
+  "dc_title_s": "Central African Republic, 1977",
+  "layer_slug_s": "princeton-v405sc071",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(15, 25, 13, 0)"
+  "dc_language_s": "English"
 }

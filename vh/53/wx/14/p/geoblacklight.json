@@ -1,20 +1,23 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/vh53wx14p",
-  "dc_creator_sm": [
-    "Central Intelligence Agency"
-  ],
   "dc_description_s": "This is a map of Northeast Asia, shown at a 1:15,000,000 scale. The map was created by the Central Intelligence Agency.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "vh53wx14p",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Central Intelligence Agency",
+  "layer_modified_dt": "2015-01-11T17:42:24Z",
+  "solr_geom": "ENVELOPE(119, 145, 54, 20)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fvh%2F53%2Fwx%2F14%2Fp%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/vh53wx14p/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/vh53wx14p/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/vh53wx14p",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Administrative and Political Boundaries"
   ],
-  "dc_title_s": "Northeast Asia, 1992",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fvh%2F53%2Fwx%2F14%2Fp%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/vh53wx14p/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/vh53wx14p/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "January 1992",
+  "dc_creator_sm": [
+    "Central Intelligence Agency"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "vh53wx14p",
+  "georss_polygon_s": "54 119 54 145 20 145 20 119 54 119",
+  "dc_publisher_s": "Central Intelligence Agency",
   "dct_spatial_sm": [
     "Northeast Asia",
     "Korea",
@@ -23,13 +26,10 @@
     "Russia",
     "Asia"
   ],
-  "dct_issued_s": "January 1992",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "20 119 54 145",
-  "georss_polygon_s": "54 119 54 145 20 145 20 119 54 119",
-  "layer_slug_s": "princeton-vh53wx14p",
   "layer_id_s": "vh53wx14p",
-  "layer_modified_dt": "2015-01-11T17:42:24Z",
+  "georss_box_s": "20 119 54 145",
+  "dc_title_s": "Northeast Asia, 1992",
+  "layer_slug_s": "princeton-vh53wx14p",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(119, 145, 54, 20)"
+  "dc_language_s": "English"
 }

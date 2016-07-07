@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/mg74qn51t",
-  "dc_creator_sm": [
-    "Russia (Federation). General'nyi shtab. Voenno-topograficheskoe upravlenie"
-  ],
   "dc_description_s": "This is a map of the city of Boatou, China shown at a 1:25,000 scale. This is a Russian map purchased from East View Cartographic.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "mg74qn51t",
-  "dc_language_s": "English",
-  "dc_publisher_s": "East View Cartographic",
+  "layer_modified_dt": "2015-01-11T17:42:22Z",
+  "solr_geom": "ENVELOPE(109.700, 109.900, 40.7333, 40.5333)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fmg%2F74%2Fqn%2F51%2Ft%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/mg74qn51t/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/mg74qn51t/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/mg74qn51t",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
     "Railroads",
@@ -17,9 +14,16 @@
     "City map",
     "Facilities and Structures"
   ],
-  "dc_title_s": "Kitai avtonmnyi raion Vnutrenniaia Mongoliia. Baotou (K-49-112,113,125). Sheet 2",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fmg%2F74%2Fqn%2F51%2Ft%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/mg74qn51t/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/mg74qn51t/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1976",
+  "dc_creator_sm": [
+    "Russia (Federation). General'nyi shtab. Voenno-topograficheskoe upravlenie"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "mg74qn51t",
+  "georss_polygon_s": "40.7333 109.700 40.7333 109.900 40.5333 109.900 40.5333 109.700 40.7333 109.700",
+  "dc_publisher_s": "East View Cartographic",
+  "solr_year_i": "1976",
   "dct_spatial_sm": [
     "Baotou",
     "Nei Mongol Zizhiqu",
@@ -27,14 +31,10 @@
     "Mongolia",
     "China"
   ],
-  "dct_issued_s": "1976",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "40.5333 109.700 40.7333 109.900",
-  "georss_polygon_s": "40.7333 109.700 40.7333 109.900 40.5333 109.900 40.5333 109.700 40.7333 109.700",
-  "layer_slug_s": "princeton-mg74qn51t",
   "layer_id_s": "mg74qn51t",
-  "layer_modified_dt": "2015-01-11T17:42:22Z",
+  "georss_box_s": "40.5333 109.700 40.7333 109.900",
+  "dc_title_s": "Kitai avtonmnyi raion Vnutrenniaia Mongoliia. Baotou (K-49-112,113,125). Sheet 2",
+  "layer_slug_s": "princeton-mg74qn51t",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(109.700, 109.900, 40.7333, 40.5333)",
-  "solr_year_i": "1976"
+  "dc_language_s": "English"
 }

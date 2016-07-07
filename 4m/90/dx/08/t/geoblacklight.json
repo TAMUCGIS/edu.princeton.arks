@@ -1,20 +1,24 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/4m90dx08t",
-  "dc_creator_sm": "Survey of India",
   "dc_description_s": "This is a map of the city of Delhi, India, shown at a 1:10,560 or 6 in = 1 mi scale. The map was created by the government-sponsored Survey of India.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "4m90dx08t",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Survey of India",
+  "layer_modified_dt": "2015-01-11T18:24:53Z",
+  "solr_geom": "ENVELOPE(77.200, 77.2333, 28.6333, 28.600)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/4m90dx08t\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/4m90dx08t/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/4m90dx08t",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "City plan",
     "Topography",
     "elevation"
   ],
-  "dc_title_s": "Delhi contour survey. Sheet no. 13.",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/4m90dx08t\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/4m90dx08t/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1957",
+  "dc_creator_sm": "Survey of India",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "4m90dx08t",
+  "georss_polygon_s": "28.6333 77.200 28.6333 77.2333 28.600 77.2333 28.600 77.200 28.6333 77.200",
+  "dc_publisher_s": "Survey of India",
+  "solr_year_i": "1957",
   "dct_spatial_sm": [
     "Delhi",
     "New Delhi",
@@ -23,14 +27,10 @@
     "India",
     "MAX  G7654.D5C2.1957.S9I5 sh. 13"
   ],
-  "dct_issued_s": "1957",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "28.600 77.200 28.6333 77.2333",
-  "georss_polygon_s": "28.6333 77.200 28.6333 77.2333 28.600 77.2333 28.600 77.200 28.6333 77.200",
-  "layer_slug_s": "princeton-4m90dx08t",
   "layer_id_s": "4m90dx08t",
-  "layer_modified_dt": "2015-01-11T18:24:53Z",
+  "georss_box_s": "28.600 77.200 28.6333 77.2333",
+  "dc_title_s": "Delhi contour survey. Sheet no. 13.",
+  "layer_slug_s": "princeton-4m90dx08t",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(77.200, 77.2333, 28.6333, 28.600)",
-  "solr_year_i": "1957"
+  "dc_language_s": "English"
 }

@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/b2773x36m",
-  "dc_creator_sm": [
-    "Army Map Service"
-  ],
   "dc_description_s": "This is a map of the city of Lipa in the Philippines. The map was created for use by War and Navy Department agencies during World War II.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "b2773x36m",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Army Map Service",
+  "layer_modified_dt": "2015-01-11T17:43:22Z",
+  "solr_geom": "ENVELOPE(121.1667, 121.1833, 13.9667, 13.9500)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fb2%2F77%2F3x%2F36%2Fm%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/b2773x36m/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/b2773x36m/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/b2773x36m",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
     "Railroads",
@@ -19,21 +16,24 @@
     "Military",
     "Facilities and Structures"
   ],
-  "dc_title_s": "Lipa, Philippine Islands, Batangas Province. A.M.S. S901.",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fb2%2F77%2F3x%2F36%2Fm%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/b2773x36m/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/b2773x36m/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1944",
+  "dc_creator_sm": [
+    "Army Map Service"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "b2773x36m",
+  "georss_polygon_s": "13.9667 121.1667 13.9667 121.1833 13.9500 121.1833 13.9500 121.1667 13.9667 121.1667",
+  "dc_publisher_s": "Army Map Service",
+  "solr_year_i": "1944",
   "dct_spatial_sm": [
     "Lipa",
     "Philippines"
   ],
-  "dct_issued_s": "1944",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "13.9500 121.1667 13.9667 121.1833",
-  "georss_polygon_s": "13.9667 121.1667 13.9667 121.1833 13.9500 121.1833 13.9500 121.1667 13.9667 121.1667",
-  "layer_slug_s": "princeton-b2773x36m",
   "layer_id_s": "b2773x36m",
-  "layer_modified_dt": "2015-01-11T17:43:22Z",
+  "georss_box_s": "13.9500 121.1667 13.9667 121.1833",
+  "dc_title_s": "Lipa, Philippine Islands, Batangas Province. A.M.S. S901.",
+  "layer_slug_s": "princeton-b2773x36m",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(121.1667, 121.1833, 13.9667, 13.9500)",
-  "solr_year_i": "1944"
+  "dc_language_s": "English"
 }

@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/qj72p858v",
-  "dc_creator_sm": [
-    "Russia (Federation). General'nyi shtab. Voenno-topograficheskoe upravlenie"
-  ],
   "dc_description_s": "This is a map of the city of Anantsi, China shown at a 1:10,000 scale. This is a Russian map purchased from East View Cartographic.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "qj72p858v",
-  "dc_language_s": "English",
-  "dc_publisher_s": "East View Cartographic",
+  "layer_modified_dt": "2015-01-11T17:42:35Z",
+  "solr_geom": "ENVELOPE(123.7667, 123.9333, 47.1833, 47.100)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fqj%2F72%2Fp8%2F58%2Fv%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/qj72p858v/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/qj72p858v/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/qj72p858v",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
     "Railroads",
@@ -17,9 +14,16 @@
     "City map",
     "Facilities and Structures"
   ],
-  "dc_title_s": "Kitai provintsiia Kheiluntszian. An\"antsi (L-51-32). Sheet 2",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fqj%2F72%2Fp8%2F58%2Fv%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/qj72p858v/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/qj72p858v/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1975",
+  "dc_creator_sm": [
+    "Russia (Federation). General'nyi shtab. Voenno-topograficheskoe upravlenie"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "qj72p858v",
+  "georss_polygon_s": "47.1833 123.7667 47.1833 123.9333 47.100 123.9333 47.100 123.7667 47.1833 123.7667",
+  "dc_publisher_s": "East View Cartographic",
+  "solr_year_i": "1975",
   "dct_spatial_sm": [
     "Anantsi",
     "Ang'angxi ",
@@ -28,14 +32,10 @@
     "Heilongjiang Sheng ",
     "China"
   ],
-  "dct_issued_s": "1975",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "47.100 123.7667 47.1833 123.9333",
-  "georss_polygon_s": "47.1833 123.7667 47.1833 123.9333 47.100 123.9333 47.100 123.7667 47.1833 123.7667",
-  "layer_slug_s": "princeton-qj72p858v",
   "layer_id_s": "qj72p858v",
-  "layer_modified_dt": "2015-01-11T17:42:35Z",
+  "georss_box_s": "47.100 123.7667 47.1833 123.9333",
+  "dc_title_s": "Kitai provintsiia Kheiluntszian. An\"antsi (L-51-32). Sheet 2",
+  "layer_slug_s": "princeton-qj72p858v",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(123.7667, 123.9333, 47.1833, 47.100)",
-  "solr_year_i": "1975"
+  "dc_language_s": "English"
 }

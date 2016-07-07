@@ -1,12 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/vt150k95p",
-  "dc_creator_sm": "Stadte-Verlag",
   "dc_description_s": "This is a city map of Frankenthal, Germany, shown at a 1:12,000 scale. This city map was created by Stadte-Verlag: E.v. Wagner & J. Mitterhuber.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "vt150k95p",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Stadte-Verlag",
+  "layer_modified_dt": "2015-01-11T18:25:14Z",
+  "solr_geom": "ENVELOPE(8.3092, 8.4231, 49.5823, 49.4847)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/vt150k95p\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/vt150k95p/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/vt150k95p",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
     "Transportation",
@@ -16,21 +15,22 @@
     "Tourist maps",
     "Land use"
   ],
-  "dc_title_s": "Stadtplan Frankenthal",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/vt150k95p\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/vt150k95p/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "Unknown",
+  "dc_creator_sm": "Stadte-Verlag",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "vt150k95p",
+  "georss_polygon_s": "49.5823 8.3092 49.5823 8.4231 49.4847 8.4231 49.4847 8.3092 49.5823 8.3092",
+  "dc_publisher_s": "Stadte-Verlag",
   "dct_spatial_sm": [
     "Frankenthal",
     "Germany",
     "Land Rheinland-Pfalz"
   ],
-  "dct_issued_s": "Unknown",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "49.4847 8.3092 49.5823 8.4231",
-  "georss_polygon_s": "49.5823 8.3092 49.5823 8.4231 49.4847 8.4231 49.4847 8.3092 49.5823 8.3092",
-  "layer_slug_s": "princeton-vt150k95p",
   "layer_id_s": "vt150k95p",
-  "layer_modified_dt": "2015-01-11T18:25:14Z",
+  "georss_box_s": "49.4847 8.3092 49.5823 8.4231",
+  "dc_title_s": "Stadtplan Frankenthal",
+  "layer_slug_s": "princeton-vt150k95p",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(8.3092, 8.4231, 49.5823, 49.4847)"
+  "dc_language_s": "English"
 }

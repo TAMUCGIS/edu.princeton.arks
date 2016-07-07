@@ -1,12 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/f1881n30r",
-  "dc_creator_sm": "United States Office of Strategic Services, Research and Analysis Branch",
   "dc_description_s": "This is a city map of Zagreb, Croatia (former Yugoslavia) shown at an unknown scale. This city map was created by the United States Office of Strategic Services, Research and Analysis Branch.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "f1881n30r",
-  "dc_language_s": "English",
-  "dc_publisher_s": "United States Office of Strategic Services, Research and Analysis Branch",
+  "layer_modified_dt": "2015-01-11T18:24:31Z",
+  "solr_geom": "ENVELOPE(15.8208, 16.1037, 45.9406, 45.7421)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/f1881n30r\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/f1881n30r/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/f1881n30r",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
     "Transportation",
@@ -17,9 +16,14 @@
     "World War II",
     "1939-1945"
   ],
-  "dc_title_s": "Town plan of Zagreb",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/f1881n30r\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/f1881n30r/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1943",
+  "dc_creator_sm": "United States Office of Strategic Services, Research and Analysis Branch",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "f1881n30r",
+  "georss_polygon_s": "45.9406 15.8208 45.9406 16.1037 45.7421 16.1037 45.7421 15.8208 45.9406 15.8208",
+  "dc_publisher_s": "United States Office of Strategic Services, Research and Analysis Branch",
+  "solr_year_i": "1943",
   "dct_spatial_sm": [
     "Zagreb",
     "Croatia",
@@ -27,14 +31,10 @@
     "Zagrabia",
     "Andautonia"
   ],
-  "dct_issued_s": "1943",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "45.7421 15.8208 45.9406 16.1037",
-  "georss_polygon_s": "45.9406 15.8208 45.9406 16.1037 45.7421 16.1037 45.7421 15.8208 45.9406 15.8208",
-  "layer_slug_s": "princeton-f1881n30r",
   "layer_id_s": "f1881n30r",
-  "layer_modified_dt": "2015-01-11T18:24:31Z",
+  "georss_box_s": "45.7421 15.8208 45.9406 16.1037",
+  "dc_title_s": "Town plan of Zagreb",
+  "layer_slug_s": "princeton-f1881n30r",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(15.8208, 16.1037, 45.9406, 45.7421)",
-  "solr_year_i": "1943"
+  "dc_language_s": "English"
 }

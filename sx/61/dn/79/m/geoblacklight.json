@@ -1,12 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/sx61dn79m",
-  "dc_creator_sm": "Flotte Riunite",
   "dc_description_s": "This is a city map of Rome, Italy, shown at an unknown scale. This city map was created by Flotte Riunite.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "sx61dn79m",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Flotte Riunite",
+  "layer_modified_dt": "2015-01-11T18:24:43Z",
+  "solr_geom": "ENVELOPE(11.7507, 13.2937, 42.2986, 41.4362)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/sx61dn79m\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/sx61dn79m/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/sx61dn79m",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
     "Transportation",
@@ -15,9 +14,13 @@
     "City blocks",
     "Tourist maps"
   ],
-  "dc_title_s": "Roma",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/sx61dn79m\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/sx61dn79m/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "Unknown",
+  "dc_creator_sm": "Flotte Riunite",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "sx61dn79m",
+  "georss_polygon_s": "42.2986 11.7507 42.2986 13.2937 41.4362 13.2937 41.4362 11.7507 42.2986 11.7507",
+  "dc_publisher_s": "Flotte Riunite",
   "dct_spatial_sm": [
     "Rome",
     "Italy",
@@ -25,13 +28,10 @@
     "Latinium Regioni",
     "Roma Prov."
   ],
-  "dct_issued_s": "Unknown",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "41.4362 11.7507 42.2986 13.2937",
-  "georss_polygon_s": "42.2986 11.7507 42.2986 13.2937 41.4362 13.2937 41.4362 11.7507 42.2986 11.7507",
-  "layer_slug_s": "princeton-sx61dn79m",
   "layer_id_s": "sx61dn79m",
-  "layer_modified_dt": "2015-01-11T18:24:43Z",
+  "georss_box_s": "41.4362 11.7507 42.2986 13.2937",
+  "dc_title_s": "Roma",
+  "layer_slug_s": "princeton-sx61dn79m",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(11.7507, 13.2937, 42.2986, 41.4362)"
+  "dc_language_s": "English"
 }

@@ -1,12 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/2n49t3327",
-  "dc_creator_sm": "Instituto Geografico Nacional",
   "dc_description_s": "This is a city map of Tegucigalpa, Honduras shown at a 1:10,000 scale. This city map was created by the Instituto Geografico Nacional.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "2n49t3327",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Instituto Geografico Nacional",
+  "layer_modified_dt": "2015-01-11T18:25:00Z",
+  "solr_geom": "ENVELOPE(-87.2776, -87.1362, 14.1425, 14.0258)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/2n49t3327\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/2n49t3327/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/2n49t3327",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
     "Transportation",
@@ -15,23 +14,24 @@
     "City blocks",
     "Topography"
   ],
-  "dc_title_s": "Tegucigalpa escala 1:10,000: Tegucigalpa. (2/4 N.E.)",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/2n49t3327\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/2n49t3327/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1985",
+  "dc_creator_sm": "Instituto Geografico Nacional",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "2n49t3327",
+  "georss_polygon_s": "14.1425 -87.2776 14.1425 -87.1362 14.0258 -87.1362 14.0258 -87.2776 14.1425 -87.2776",
+  "dc_publisher_s": "Instituto Geografico Nacional",
+  "solr_year_i": "1985",
   "dct_spatial_sm": [
     "Tegucigalpa",
     "Honduras",
     "Tegucigalpa Distrito Central",
     "Departamento Francisco Morazan"
   ],
-  "dct_issued_s": "1985",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "14.0258 -87.2776 14.1425 -87.1362",
-  "georss_polygon_s": "14.1425 -87.2776 14.1425 -87.1362 14.0258 -87.1362 14.0258 -87.2776 14.1425 -87.2776",
-  "layer_slug_s": "princeton-2n49t3327",
   "layer_id_s": "2n49t3327",
-  "layer_modified_dt": "2015-01-11T18:25:00Z",
+  "georss_box_s": "14.0258 -87.2776 14.1425 -87.1362",
+  "dc_title_s": "Tegucigalpa escala 1:10,000: Tegucigalpa. (2/4 N.E.)",
+  "layer_slug_s": "princeton-2n49t3327",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(-87.2776, -87.1362, 14.1425, 14.0258)",
-  "solr_year_i": "1985"
+  "dc_language_s": "English"
 }

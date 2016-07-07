@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/6395w8662",
-  "dc_creator_sm": [
-    "W. & A.K. Johnston Limited. "
-  ],
   "dc_description_s": "This is a scanned map of the world from the Historical Map Collection of Princeton University's Rare Books department.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "6395w8662",
-  "dc_language_s": "English",
-  "dc_publisher_s": "W. & A. K. Johnston Ltd.",
+  "layer_modified_dt": "2015-01-11T17:43:00Z",
+  "solr_geom": "ENVELOPE(-180, 0, 90, 0)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F63%2F95%2Fw8%2F66%2F2%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/6395w8662/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/6395w8662/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/6395w8662",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "World maps 1901",
     "Ocean currents",
@@ -16,20 +13,23 @@
     "Wind",
     "Rain"
   ],
-  "dc_title_s": "Imperial chart of the world on Mercator's projection / constructed & engraved by W. & E. K. Johnston, Ltd. (Sheet 2)",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F63%2F95%2Fw8%2F66%2F2%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/6395w8662/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/6395w8662/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1901",
+  "dc_creator_sm": [
+    "W. & A.K. Johnston Limited. "
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "6395w8662",
+  "georss_polygon_s": "90 -180 90 0 0 0 0 -180 90 -180",
+  "dc_publisher_s": "W. & A. K. Johnston Ltd.",
+  "solr_year_i": "1901",
   "dct_spatial_sm": [
     "World"
   ],
-  "dct_issued_s": "1901",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "0 -180 90 0",
-  "georss_polygon_s": "90 -180 90 0 0 0 0 -180 90 -180",
-  "layer_slug_s": "princeton-6395w8662",
   "layer_id_s": "6395w8662",
-  "layer_modified_dt": "2015-01-11T17:43:00Z",
+  "georss_box_s": "0 -180 90 0",
+  "dc_title_s": "Imperial chart of the world on Mercator's projection / constructed & engraved by W. & E. K. Johnston, Ltd. (Sheet 2)",
+  "layer_slug_s": "princeton-6395w8662",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(-180, 0, 90, 0)",
-  "solr_year_i": "1901"
+  "dc_language_s": "English"
 }

@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/xk81jn12w",
-  "dc_creator_sm": [
-    "Army Map Service"
-  ],
   "dc_description_s": "This is a map of the city of Marsala, Italy, shown at a 1:8,000 scale. The map was created for use by War and Navy Department agencies during World War II.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "xk81jn12w",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Army Map Service",
+  "layer_modified_dt": "2015-01-11T17:43:37Z",
+  "solr_geom": "ENVELOPE(12.400, 12.467, 37.833, 37.767)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fxk%2F81%2Fjn%2F12%2Fw%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/xk81jn12w/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/xk81jn12w/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/xk81jn12w",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
     "Railroads",
@@ -19,9 +16,16 @@
     "Military",
     "Facilities and Structures"
   ],
-  "dc_title_s": "Marsala. G.S.G.S. 4379.",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fxk%2F81%2Fjn%2F12%2Fw%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/xk81jn12w/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/xk81jn12w/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1943",
+  "dc_creator_sm": [
+    "Army Map Service"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "xk81jn12w",
+  "georss_polygon_s": "37.833 12.400 37.833 12.467 37.767 12.467 37.767 12.400 37.833 12.400",
+  "dc_publisher_s": "Army Map Service",
+  "solr_year_i": "1943",
   "dct_spatial_sm": [
     "Marsala",
     "Sicily",
@@ -29,14 +33,10 @@
     "Lilybaeum",
     "Italy"
   ],
-  "dct_issued_s": "1943",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "37.767 12.400 37.833 12.467",
-  "georss_polygon_s": "37.833 12.400 37.833 12.467 37.767 12.467 37.767 12.400 37.833 12.400",
-  "layer_slug_s": "princeton-xk81jn12w",
   "layer_id_s": "xk81jn12w",
-  "layer_modified_dt": "2015-01-11T17:43:37Z",
+  "georss_box_s": "37.767 12.400 37.833 12.467",
+  "dc_title_s": "Marsala. G.S.G.S. 4379.",
+  "layer_slug_s": "princeton-xk81jn12w",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(12.400, 12.467, 37.833, 37.767)",
-  "solr_year_i": "1943"
+  "dc_language_s": "English"
 }

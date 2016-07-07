@@ -1,12 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/8w32r710x",
-  "dc_creator_sm": "United States Defense Mapping Agency, National Imagery and Mapping Agency",
   "dc_description_s": "This is a city map of Maputo, Mozambique, shown at a 1:12,500 scale. This city map was created by the United States Defense Mapping Agency, National Imagery and Mapping Agency.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "8w32r710x",
-  "dc_language_s": "English",
-  "dc_publisher_s": "United States Defense Mapping Agency, National Imagery and Mapping Agency",
+  "layer_modified_dt": "2015-01-11T18:24:44Z",
+  "solr_geom": "ENVELOPE(32.5235, 32.6965, -25.8091, -25.9839)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/8w32r710x\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/8w32r710x/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/8w32r710x",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
     "Transportation",
@@ -15,9 +14,14 @@
     "City blocks",
     "Topography"
   ],
-  "dc_title_s": "Mozambique city graphic 1:12,500. Maputo. Series Y961",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/8w32r710x\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/8w32r710x/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "2000",
+  "dc_creator_sm": "United States Defense Mapping Agency, National Imagery and Mapping Agency",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "8w32r710x",
+  "georss_polygon_s": "-25.8091 32.5235 -25.8091 32.6965 -25.9839 32.6965 -25.9839 32.5235 -25.8091 32.5235",
+  "dc_publisher_s": "United States Defense Mapping Agency, National Imagery and Mapping Agency",
+  "solr_year_i": "2000",
   "dct_spatial_sm": [
     "Maputo",
     "Mozambique",
@@ -26,14 +30,10 @@
     "Distrito de Maputo",
     "Africa"
   ],
-  "dct_issued_s": "2000",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "-25.9839 32.5235 -25.8091 32.6965",
-  "georss_polygon_s": "-25.8091 32.5235 -25.8091 32.6965 -25.9839 32.6965 -25.9839 32.5235 -25.8091 32.5235",
-  "layer_slug_s": "princeton-8w32r710x",
   "layer_id_s": "8w32r710x",
-  "layer_modified_dt": "2015-01-11T18:24:44Z",
+  "georss_box_s": "-25.9839 32.5235 -25.8091 32.6965",
+  "dc_title_s": "Mozambique city graphic 1:12,500. Maputo. Series Y961",
+  "layer_slug_s": "princeton-8w32r710x",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(32.5235, 32.6965, -25.8091, -25.9839)",
-  "solr_year_i": "2000"
+  "dc_language_s": "English"
 }

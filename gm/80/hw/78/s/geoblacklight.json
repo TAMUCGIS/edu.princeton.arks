@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/gm80hw78s",
-  "dc_creator_sm": [
-    "United States. Geological Survey"
-  ],
   "dc_description_s": "This is a scanned historical map of the Port Jervis Quadrangle in New York, New Jersey, and Pennsylvania shown at a scale of 1:62,500. This map was created by the US Geological Survey.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "gm80hw78s",
-  "dc_language_s": "English",
-  "dc_publisher_s": "US Geological Survey",
+  "layer_modified_dt": "2015-01-11T17:42:38Z",
+  "solr_geom": "ENVELOPE(-74.75, -74.5, 41.5, 41.25)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fgm%2F80%2Fhw%2F78%2Fs%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/gm80hw78s/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/gm80hw78s/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/gm80hw78s",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "historical maps",
     "Topography",
@@ -16,9 +13,15 @@
     "Boundaries",
     "Administrative and political boundaries"
   ],
-  "dc_title_s": "New York-New Jersey-Pennsylvania: Port Jervis Quadrangle. ",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fgm%2F80%2Fhw%2F78%2Fs%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/gm80hw78s/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/gm80hw78s/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "April 1908",
+  "dc_creator_sm": [
+    "United States. Geological Survey"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "gm80hw78s",
+  "georss_polygon_s": "41.5 -74.75 41.5 -74.5 41.25 -74.5 41.25 -74.75 41.5 -74.75",
+  "dc_publisher_s": "US Geological Survey",
   "dct_spatial_sm": [
     "Port Jervis",
     "Pike County",
@@ -30,13 +33,10 @@
     "Pennsylvania",
     "USA"
   ],
-  "dct_issued_s": "April 1908",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "41.25 -74.75 41.5 -74.5",
-  "georss_polygon_s": "41.5 -74.75 41.5 -74.5 41.25 -74.5 41.25 -74.75 41.5 -74.75",
-  "layer_slug_s": "princeton-gm80hw78s",
   "layer_id_s": "gm80hw78s",
-  "layer_modified_dt": "2015-01-11T17:42:38Z",
+  "georss_box_s": "41.25 -74.75 41.5 -74.5",
+  "dc_title_s": "New York-New Jersey-Pennsylvania: Port Jervis Quadrangle. ",
+  "layer_slug_s": "princeton-gm80hw78s",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(-74.75, -74.5, 41.5, 41.25)"
+  "dc_language_s": "English"
 }

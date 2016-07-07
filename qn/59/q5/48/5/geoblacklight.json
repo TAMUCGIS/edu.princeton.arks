@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/qn59q5485",
-  "dc_creator_sm": [
-    "Army Map Service"
-  ],
   "dc_description_s": "This is a map of the city of Deauville-Trouville, France, shown at a 1:5,800 scale. The map was created for use by War and Navy Department agencies during World War II.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "qn59q5485",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Army Map Service",
+  "layer_modified_dt": "2015-01-11T17:42:42Z",
+  "solr_geom": "ENVELOPE(0.0476, 0.1145, 49.3814, 49.335)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fqn%2F59%2Fq5%2F48%2F5%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/qn59q5485/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/qn59q5485/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/qn59q5485",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
     "Railroads",
@@ -20,9 +17,16 @@
     "Facilities and Structures",
     "Port"
   ],
-  "dc_title_s": "Deauville-Trouville. G.S.G.S. 4234.",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fqn%2F59%2Fq5%2F48%2F5%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/qn59q5485/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/qn59q5485/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1943",
+  "dc_creator_sm": [
+    "Army Map Service"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "qn59q5485",
+  "georss_polygon_s": "49.3814 0.0476 49.3814 0.1145 49.335 0.1145 49.335 0.0476 49.3814 0.0476",
+  "dc_publisher_s": "Army Map Service",
+  "solr_year_i": "1943",
   "dct_spatial_sm": [
     "Deauville-Trouville",
     "Trouville",
@@ -30,14 +34,10 @@
     "France",
     "Trouville-sur -Mer"
   ],
-  "dct_issued_s": "1943",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "49.335 0.0476 49.3814 0.1145",
-  "georss_polygon_s": "49.3814 0.0476 49.3814 0.1145 49.335 0.1145 49.335 0.0476 49.3814 0.0476",
-  "layer_slug_s": "princeton-qn59q5485",
   "layer_id_s": "qn59q5485",
-  "layer_modified_dt": "2015-01-11T17:42:42Z",
+  "georss_box_s": "49.335 0.0476 49.3814 0.1145",
+  "dc_title_s": "Deauville-Trouville. G.S.G.S. 4234.",
+  "layer_slug_s": "princeton-qn59q5485",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(0.0476, 0.1145, 49.3814, 49.335)",
-  "solr_year_i": "1943"
+  "dc_language_s": "English"
 }

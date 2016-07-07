@@ -1,12 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/pv63g178v",
-  "dc_creator_sm": "AB Stockholms Spårvägar",
-  "dc_description_s": "This is a city map of Stockholm, Sweden, shown at a 1:10,000 scale. This city map was created by AB Stockholms Spårvägar.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "pv63g178v",
-  "dc_language_s": "English",
-  "dc_publisher_s": "AB Stockholms Spårvägar",
+  "dc_description_s": "This is a city map of Stockholm, Sweden, shown at a 1:10,000 scale. This city map was created by AB Stockholms Sp\u00e5rv\u00e4gar.",
+  "layer_modified_dt": "2015-01-11T18:24:50Z",
+  "solr_geom": "ENVELOPE(17.9284, 18.1553, 59.3841, 59.2823)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/pv63g178v\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/pv63g178v/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/pv63g178v",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
     "Transportation",
@@ -15,22 +14,23 @@
     "City blocks",
     "Tourist maps"
   ],
-  "dc_title_s": "Stockholmskartan 1964 med spårvägsbolagets linjenät",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/pv63g178v\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/pv63g178v/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1964",
+  "dc_creator_sm": "AB Stockholms Sp\u00e5rv\u00e4gar",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "pv63g178v",
+  "georss_polygon_s": "59.3841 17.9284 59.3841 18.1553 59.2823 18.1553 59.2823 17.9284 59.3841 17.9284",
+  "dc_publisher_s": "AB Stockholms Sp\u00e5rv\u00e4gar",
+  "solr_year_i": "1964",
   "dct_spatial_sm": [
     "Stockholm",
     "Sweden",
     "Tukholma"
   ],
-  "dct_issued_s": "1964",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "59.2823 17.9284 59.3841 18.1553",
-  "georss_polygon_s": "59.3841 17.9284 59.3841 18.1553 59.2823 18.1553 59.2823 17.9284 59.3841 17.9284",
-  "layer_slug_s": "princeton-pv63g178v",
   "layer_id_s": "pv63g178v",
-  "layer_modified_dt": "2015-01-11T18:24:50Z",
+  "georss_box_s": "59.2823 17.9284 59.3841 18.1553",
+  "dc_title_s": "Stockholmskartan 1964 med sp\u00e5rv\u00e4gsbolagets linjen\u00e4t",
+  "layer_slug_s": "princeton-pv63g178v",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(17.9284, 18.1553, 59.3841, 59.2823)",
-  "solr_year_i": "1964"
+  "dc_language_s": "English"
 }

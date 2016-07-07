@@ -1,12 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/9880vs61j",
-  "dc_creator_sm": "Dewag-Werbung",
   "dc_description_s": "This is a city map of Eisenach, Germany, shown at a 1:10,000 scale. This city map was created by Dewag-Werbung.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "9880vs61j",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Dewag-Werbung",
+  "layer_modified_dt": "2015-01-11T18:25:00Z",
+  "solr_geom": "ENVELOPE(10.1780, 10.3888, 51.0508, 50.9333)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/9880vs61j\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/9880vs61j/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/9880vs61j",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
     "Transportation",
@@ -16,23 +15,24 @@
     "Tourist maps",
     "Road maps"
   ],
-  "dc_title_s": "Übersichtsplan von Eisenach",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/9880vs61j\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/9880vs61j/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1959",
+  "dc_creator_sm": "Dewag-Werbung",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "9880vs61j",
+  "georss_polygon_s": "51.0508 10.1780 51.0508 10.3888 50.9333 10.3888 50.9333 10.1780 51.0508 10.1780",
+  "dc_publisher_s": "Dewag-Werbung",
+  "solr_year_i": "1959",
   "dct_spatial_sm": [
     "Eisenach",
     "Germany",
     "Freistaat Thueringen",
     "Land Thueringen"
   ],
-  "dct_issued_s": "1959",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "50.9333 10.1780 51.0508 10.3888",
-  "georss_polygon_s": "51.0508 10.1780 51.0508 10.3888 50.9333 10.3888 50.9333 10.1780 51.0508 10.1780",
-  "layer_slug_s": "princeton-9880vs61j",
   "layer_id_s": "9880vs61j",
-  "layer_modified_dt": "2015-01-11T18:25:00Z",
+  "georss_box_s": "50.9333 10.1780 51.0508 10.3888",
+  "dc_title_s": "\u00dcbersichtsplan von Eisenach",
+  "layer_slug_s": "princeton-9880vs61j",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(10.1780, 10.3888, 51.0508, 50.9333)",
-  "solr_year_i": "1959"
+  "dc_language_s": "English"
 }

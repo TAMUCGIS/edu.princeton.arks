@@ -1,12 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/h128ng19k",
-  "dc_creator_sm": "Vytiskla Severografia/Krajske Nakladatelstvi Liberec",
   "dc_description_s": "This is a city map of Liberec, Czechoslovakia, shown at a 1:15,000 scale. This city map was created by Vytiskla Severografia/Krajske Nakladatelstvi Liberec.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "h128ng19k",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Vytiskla Severografia/Krajske Nakladatelstvi Liberec",
+  "layer_modified_dt": "2015-01-11T18:24:43Z",
+  "solr_geom": "ENVELOPE(14.9523, 15.1459, 50.8245, 50.7077)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/h128ng19k\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/h128ng19k/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/h128ng19k",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
     "Transportation",
@@ -15,23 +14,24 @@
     "City blocks",
     "Tourist maps"
   ],
-  "dc_title_s": "Liberec, orentacni plan",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/h128ng19k\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/h128ng19k/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1958",
+  "dc_creator_sm": "Vytiskla Severografia/Krajske Nakladatelstvi Liberec",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "h128ng19k",
+  "georss_polygon_s": "50.8245 14.9523 50.8245 15.1459 50.7077 15.1459 50.7077 14.9523 50.8245 14.9523",
+  "dc_publisher_s": "Vytiskla Severografia/Krajske Nakladatelstvi Liberec",
+  "solr_year_i": "1958",
   "dct_spatial_sm": [
     "Liberec",
     "Czechoslovakia",
     "Reichenberg",
     "Czech Republic"
   ],
-  "dct_issued_s": "1958",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "50.7077 14.9523 50.8245 15.1459",
-  "georss_polygon_s": "50.8245 14.9523 50.8245 15.1459 50.7077 15.1459 50.7077 14.9523 50.8245 14.9523",
-  "layer_slug_s": "princeton-h128ng19k",
   "layer_id_s": "h128ng19k",
-  "layer_modified_dt": "2015-01-11T18:24:43Z",
+  "georss_box_s": "50.7077 14.9523 50.8245 15.1459",
+  "dc_title_s": "Liberec, orentacni plan",
+  "layer_slug_s": "princeton-h128ng19k",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(14.9523, 15.1459, 50.8245, 50.7077)",
-  "solr_year_i": "1958"
+  "dc_language_s": "English"
 }

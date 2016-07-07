@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/nk322g10d",
-  "dc_creator_sm": [
-    "United States Geological Survey"
-  ],
   "dc_description_s": "A scanned USGS 1:24,000 topographic map.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "nk322g10d",
-  "dc_language_s": "English",
-  "dc_publisher_s": "United States Geological Survey",
+  "layer_modified_dt": "2015-01-11T17:43:39Z",
+  "solr_geom": "ENVELOPE(-74.750, -74.625, 40.500, 40.375)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fnk%2F32%2F2g%2F10%2Fd%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/nk322g10d/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/nk322g10d/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/nk322g10d",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Topographic map",
     "Contour line",
@@ -16,9 +13,15 @@
     "Roads",
     "Geoscientific Information"
   ],
-  "dc_title_s": "Rocky Hill Quadrangle, New Jersey, 7.5 Minute series (topographic) (1970)",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fnk%2F32%2F2g%2F10%2Fd%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/nk322g10d/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/nk322g10d/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1954 (photorevised 1970)",
+  "dc_creator_sm": [
+    "United States Geological Survey"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "nk322g10d",
+  "georss_polygon_s": "40.500 -74.750 40.500 -74.625 40.375 -74.625 40.375 -74.750 40.500 -74.750",
+  "dc_publisher_s": "United States Geological Survey",
   "dct_spatial_sm": [
     "Rocky Hill",
     "Hopewell",
@@ -31,13 +34,10 @@
     "Somerset County",
     "New Jersey"
   ],
-  "dct_issued_s": "1954 (photorevised 1970)",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "40.375 -74.750 40.500 -74.625",
-  "georss_polygon_s": "40.500 -74.750 40.500 -74.625 40.375 -74.625 40.375 -74.750 40.500 -74.750",
-  "layer_slug_s": "princeton-nk322g10d",
   "layer_id_s": "nk322g10d",
-  "layer_modified_dt": "2015-01-11T17:43:39Z",
+  "georss_box_s": "40.375 -74.750 40.500 -74.625",
+  "dc_title_s": "Rocky Hill Quadrangle, New Jersey, 7.5 Minute series (topographic) (1970)",
+  "layer_slug_s": "princeton-nk322g10d",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(-74.750, -74.625, 40.500, 40.375)"
+  "dc_language_s": "English"
 }

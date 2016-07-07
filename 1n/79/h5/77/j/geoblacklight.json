@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/1n79h577j",
-  "dc_creator_sm": [
-    "Army Map Service"
-  ],
   "dc_description_s": "This is a map of the city of Shoku, Taiwan, shown at a 1:6,000 scale. The map was created for use by War and Navy Department agencies during World War II.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "1n79h577j",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Army Map Service",
+  "layer_modified_dt": "2015-01-11T17:42:41Z",
+  "solr_geom": "ENVELOPE(120.5167, 120.5500, 24.100, 24.0667)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F1n%2F79%2Fh5%2F77%2Fj%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/1n79h577j/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/1n79h577j/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/1n79h577j",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
     "Railroads",
@@ -19,23 +16,26 @@
     "Military",
     "Facilities and Structures"
   ],
-  "dc_title_s": "Shoka, Formosa (Taiwan), Taichu-Shu. A.M.S. L991.",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F1n%2F79%2Fh5%2F77%2Fj%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/1n79h577j/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/1n79h577j/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1945",
+  "dc_creator_sm": [
+    "Army Map Service"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "1n79h577j",
+  "georss_polygon_s": "24.100 120.5167 24.100 120.5500 24.0667 120.5500 24.0667 120.5167 24.100 120.5167",
+  "dc_publisher_s": "Army Map Service",
+  "solr_year_i": "1945",
   "dct_spatial_sm": [
     "Shoka",
     "Formosa ",
     "Taichu-Shu",
     " Taiwan"
   ],
-  "dct_issued_s": "1945",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "24.0667 120.5167 24.100 120.5500",
-  "georss_polygon_s": "24.100 120.5167 24.100 120.5500 24.0667 120.5500 24.0667 120.5167 24.100 120.5167",
-  "layer_slug_s": "princeton-1n79h577j",
   "layer_id_s": "1n79h577j",
-  "layer_modified_dt": "2015-01-11T17:42:41Z",
+  "georss_box_s": "24.0667 120.5167 24.100 120.5500",
+  "dc_title_s": "Shoka, Formosa (Taiwan), Taichu-Shu. A.M.S. L991.",
+  "layer_slug_s": "princeton-1n79h577j",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(120.5167, 120.5500, 24.100, 24.0667)",
-  "solr_year_i": "1945"
+  "dc_language_s": "English"
 }

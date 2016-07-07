@@ -1,12 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/0r9675221",
-  "dc_creator_sm": "Cartoleria A. Testolini",
   "dc_description_s": "This is a city map of Venice and Lido, Italy, shown at an unknwon scale. This city map was created by Cartoleria A. Testolini.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "0r9675221",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Cartoleria A. Testolini",
+  "layer_modified_dt": "2015-01-11T18:24:42Z",
+  "solr_geom": "ENVELOPE(12.3018, 12.3822, 45.4493, 45.3970)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/0r9675221\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/0r9675221/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/0r9675221",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
     "Transportation",
@@ -15,9 +14,13 @@
     "City blocks",
     "Tourist maps"
   ],
-  "dc_title_s": "Carta idrografica turistica della Laguna di Venezia e del Lido",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/0r9675221\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/0r9675221/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "Unknown",
+  "dc_creator_sm": "Cartoleria A. Testolini",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "0r9675221",
+  "georss_polygon_s": "45.4493 12.3018 45.4493 12.3822 45.3970 12.3822 45.3970 12.3018 45.4493 12.3018",
+  "dc_publisher_s": "Cartoleria A. Testolini",
   "dct_spatial_sm": [
     "Venice",
     "Venezia",
@@ -28,13 +31,10 @@
     "Provincia di Venezia",
     "Lido"
   ],
-  "dct_issued_s": "Unknown",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "45.3970 12.3018 45.4493 12.3822",
-  "georss_polygon_s": "45.4493 12.3018 45.4493 12.3822 45.3970 12.3822 45.3970 12.3018 45.4493 12.3018",
-  "layer_slug_s": "princeton-0r9675221",
   "layer_id_s": "0r9675221",
-  "layer_modified_dt": "2015-01-11T18:24:42Z",
+  "georss_box_s": "45.3970 12.3018 45.4493 12.3822",
+  "dc_title_s": "Carta idrografica turistica della Laguna di Venezia e del Lido",
+  "layer_slug_s": "princeton-0r9675221",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(12.3018, 12.3822, 45.4493, 45.3970)"
+  "dc_language_s": "English"
 }

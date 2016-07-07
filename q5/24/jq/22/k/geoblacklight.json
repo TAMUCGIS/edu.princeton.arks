@@ -1,31 +1,31 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/q524jq22k",
-  "dc_creator_sm": [
-    "Central Intelligence Agency"
-  ],
   "dc_description_s": "This is a map of Central Africa, shown at a 1:12,400,000 scale. The map was created by the Central Intelligence Agency.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "q524jq22k",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Central Intelligence Agency",
+  "layer_modified_dt": "2015-01-11T17:42:38Z",
+  "solr_geom": "ENVELOPE(10, 40, 10, -10)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fq5%2F24%2Fjq%2F22%2Fk%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/q524jq22k/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/q524jq22k/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/q524jq22k",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Administrative and Political Boundaries"
   ],
-  "dc_title_s": "Central Africa, 1997",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fq5%2F24%2Fjq%2F22%2Fk%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/q524jq22k/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/q524jq22k/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "June 1997",
+  "dc_creator_sm": [
+    "Central Intelligence Agency"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "q524jq22k",
+  "georss_polygon_s": "10 10 10 40 -10 40 -10 10 10 10",
+  "dc_publisher_s": "Central Intelligence Agency",
   "dct_spatial_sm": [
     "Central Africa",
     "Africa"
   ],
-  "dct_issued_s": "June 1997",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "-10 10 10 40",
-  "georss_polygon_s": "10 10 10 40 -10 40 -10 10 10 10",
-  "layer_slug_s": "princeton-q524jq22k",
   "layer_id_s": "q524jq22k",
-  "layer_modified_dt": "2015-01-11T17:42:38Z",
+  "georss_box_s": "-10 10 10 40",
+  "dc_title_s": "Central Africa, 1997",
+  "layer_slug_s": "princeton-q524jq22k",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(10, 40, 10, -10)"
+  "dc_language_s": "English"
 }

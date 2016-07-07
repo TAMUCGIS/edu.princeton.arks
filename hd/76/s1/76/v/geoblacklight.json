@@ -1,12 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/hd76s176v",
-  "dc_creator_sm": "United States Army Map Service/Great Britain War Office, General Staff, Geographical Section",
   "dc_description_s": "This is a city map of Tarnow, Poland shown at a 1:100,000 scale. This city map was created by the United States Army Map Service and the Great Britain War Office, General Staff, Geographical Section.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "hd76s176v",
-  "dc_language_s": "English",
-  "dc_publisher_s": "United States Army Map Service/Great Britain War Office, General Staff, Geographical Section",
+  "layer_modified_dt": "2015-01-11T18:25:14Z",
+  "solr_geom": "ENVELOPE(20.8911, 21.0618, 50.0671, 49.9861)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/hd76s176v\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/hd76s176v/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/hd76s176v",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
     "Transportation",
@@ -15,22 +14,23 @@
     "City blocks",
     "Topography"
   ],
-  "dc_title_s": "Poland 1:100,000. Tarnow, sheet T-15 A.M.S. M651 (G.S.G.S. 4416)",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/hd76s176v\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/hd76s176v/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1943",
+  "dc_creator_sm": "United States Army Map Service/Great Britain War Office, General Staff, Geographical Section",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "hd76s176v",
+  "georss_polygon_s": "50.0671 20.8911 50.0671 21.0618 49.9861 21.0618 49.9861 20.8911 50.0671 20.8911",
+  "dc_publisher_s": "United States Army Map Service/Great Britain War Office, General Staff, Geographical Section",
+  "solr_year_i": "1943",
   "dct_spatial_sm": [
     "Tarnow",
     "Poland",
     "Tarnowiec"
   ],
-  "dct_issued_s": "1943",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "49.9861 20.8911 50.0671 21.0618",
-  "georss_polygon_s": "50.0671 20.8911 50.0671 21.0618 49.9861 21.0618 49.9861 20.8911 50.0671 20.8911",
-  "layer_slug_s": "princeton-hd76s176v",
   "layer_id_s": "hd76s176v",
-  "layer_modified_dt": "2015-01-11T18:25:14Z",
+  "georss_box_s": "49.9861 20.8911 50.0671 21.0618",
+  "dc_title_s": "Poland 1:100,000. Tarnow, sheet T-15 A.M.S. M651 (G.S.G.S. 4416)",
+  "layer_slug_s": "princeton-hd76s176v",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(20.8911, 21.0618, 50.0671, 49.9861)",
-  "solr_year_i": "1943"
+  "dc_language_s": "English"
 }

@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/j9602221p",
-  "dc_creator_sm": [
-    "United States. Geological Survey"
-  ],
   "dc_description_s": "This is a scanned historical map of the Covesville Quadrangle in Virginia shown at a scale of 1:62,500. This map was created by the US Geological Survey.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "j9602221p",
-  "dc_language_s": "English",
-  "dc_publisher_s": "US Geological Survey",
+  "layer_modified_dt": "2015-01-11T17:43:07Z",
+  "solr_geom": "ENVELOPE(-78.75, -78.5, 38, 37.75)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fj9%2F60%2F22%2F21%2Fp%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/j9602221p/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/j9602221p/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/j9602221p",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "historical maps",
     "Topography",
@@ -16,9 +13,16 @@
     "Boundaries",
     "Administrative and political boundaries"
   ],
-  "dc_title_s": "Virginia: Covesville Quadrangle [1929] ",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fj9%2F60%2F22%2F21%2Fp%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/j9602221p/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/j9602221p/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1929",
+  "dc_creator_sm": [
+    "United States. Geological Survey"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "j9602221p",
+  "georss_polygon_s": "38 -78.75 38 -78.5 37.75 -78.5 37.75 -78.75 38 -78.75",
+  "dc_publisher_s": "US Geological Survey",
+  "solr_year_i": "1929",
   "dct_spatial_sm": [
     "Covesville",
     "Buckingham County",
@@ -27,14 +31,10 @@
     "Virginia",
     "United States"
   ],
-  "dct_issued_s": "1929",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "37.75 -78.75 38 -78.5",
-  "georss_polygon_s": "38 -78.75 38 -78.5 37.75 -78.5 37.75 -78.75 38 -78.75",
-  "layer_slug_s": "princeton-j9602221p",
   "layer_id_s": "j9602221p",
-  "layer_modified_dt": "2015-01-11T17:43:07Z",
+  "georss_box_s": "37.75 -78.75 38 -78.5",
+  "dc_title_s": "Virginia: Covesville Quadrangle [1929] ",
+  "layer_slug_s": "princeton-j9602221p",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(-78.75, -78.5, 38, 37.75)",
-  "solr_year_i": "1929"
+  "dc_language_s": "English"
 }

@@ -1,33 +1,33 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/jm214q65m",
-  "dc_creator_sm": [
-    "Central Intelligence Agency"
-  ],
   "dc_description_s": "This is a map of Australia. The map was created by the Central Intelligence Agency.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "jm214q65m",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Central Intelligence Agency",
+  "layer_modified_dt": "2015-01-11T17:42:49Z",
+  "solr_geom": "ENVELOPE(110, 156, -12, -48)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fjm%2F21%2F4q%2F65%2Fm%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/jm214q65m/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/jm214q65m/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/jm214q65m",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
     "Railroads",
     "Transportation",
     "Administrative and Political Boundaries"
   ],
-  "dc_title_s": "Australia, 1999",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fjm%2F21%2F4q%2F65%2Fm%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/jm214q65m/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/jm214q65m/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "December 1999",
+  "dc_creator_sm": [
+    "Central Intelligence Agency"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "jm214q65m",
+  "georss_polygon_s": "-12 110 -12 156 -48 156 -48 110 -12 110",
+  "dc_publisher_s": "Central Intelligence Agency",
   "dct_spatial_sm": [
     "Australia"
   ],
-  "dct_issued_s": "December 1999",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "-48 110 -12 156",
-  "georss_polygon_s": "-12 110 -12 156 -48 156 -48 110 -12 110",
-  "layer_slug_s": "princeton-jm214q65m",
   "layer_id_s": "jm214q65m",
-  "layer_modified_dt": "2015-01-11T17:42:49Z",
+  "georss_box_s": "-48 110 -12 156",
+  "dc_title_s": "Australia, 1999",
+  "layer_slug_s": "princeton-jm214q65m",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(110, 156, -12, -48)"
+  "dc_language_s": "English"
 }

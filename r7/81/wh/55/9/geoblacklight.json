@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/r781wh559",
-  "dc_creator_sm": [
-    "Army Map Service"
-  ],
   "dc_description_s": "This is a map of the city of Noto, Italy. The map was created for use by War and Navy Department agencies during World War II.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "r781wh559",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Army Map Service",
+  "layer_modified_dt": "2015-01-11T17:42:52Z",
+  "solr_geom": "ENVELOPE(15.0333, 15.1167, 36.900, 36.8667)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fr7%2F81%2Fwh%2F55%2F9%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/r781wh559/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/r781wh559/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/r781wh559",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
     "Railroads",
@@ -19,9 +16,16 @@
     "Military",
     "Facilities and Structures"
   ],
-  "dc_title_s": "Town plan of Noto. G.S.G.S. 4379.",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fr7%2F81%2Fwh%2F55%2F9%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/r781wh559/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/r781wh559/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1943",
+  "dc_creator_sm": [
+    "Army Map Service"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "r781wh559",
+  "georss_polygon_s": "36.900 15.0333 36.900 15.1167 36.8667 15.1167 36.8667 15.0333 36.900 15.0333",
+  "dc_publisher_s": "Army Map Service",
+  "solr_year_i": "1943",
   "dct_spatial_sm": [
     "Noto",
     "Sicily",
@@ -29,14 +33,10 @@
     "Asinar",
     "Italy"
   ],
-  "dct_issued_s": "1943",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "36.8667 15.0333 36.900 15.1167",
-  "georss_polygon_s": "36.900 15.0333 36.900 15.1167 36.8667 15.1167 36.8667 15.0333 36.900 15.0333",
-  "layer_slug_s": "princeton-r781wh559",
   "layer_id_s": "r781wh559",
-  "layer_modified_dt": "2015-01-11T17:42:52Z",
+  "georss_box_s": "36.8667 15.0333 36.900 15.1167",
+  "dc_title_s": "Town plan of Noto. G.S.G.S. 4379.",
+  "layer_slug_s": "princeton-r781wh559",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(15.0333, 15.1167, 36.900, 36.8667)",
-  "solr_year_i": "1943"
+  "dc_language_s": "English"
 }

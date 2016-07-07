@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/m326m3464",
-  "dc_creator_sm": [
-    "Russia (Federation). General'nyi shtab. Voenno-topograficheskoe upravlenie"
-  ],
   "dc_description_s": "This is a map of the city of Dandong, China shown at a 1:10,000 scale. This is a Russian map purchased from East View Cartographic.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "m326m3464",
-  "dc_language_s": "English",
-  "dc_publisher_s": "East View Cartographic",
+  "layer_modified_dt": "2015-01-11T17:43:37Z",
+  "solr_geom": "ENVELOPE(124.3167, 124.4500, 40.1667, 40.0500)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fm3%2F26%2Fm3%2F46%2F4%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/m326m3464/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/m326m3464/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/m326m3464",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
     "Railroads",
@@ -17,9 +14,16 @@
     "City map",
     "Facilities and Structures"
   ],
-  "dc_title_s": "Kitai provintsiia Liaonin. Koreia provintsiia Pkhenan-Pukto. Dan'dun (An'dun) i Sinyichzhu (K-51-141). Sheet 1",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fm3%2F26%2Fm3%2F46%2F4%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/m326m3464/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/m326m3464/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1975",
+  "dc_creator_sm": [
+    "Russia (Federation). General'nyi shtab. Voenno-topograficheskoe upravlenie"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "m326m3464",
+  "georss_polygon_s": "40.1667 124.3167 40.1667 124.4500 40.0500 124.4500 40.0500 124.3167 40.1667 124.3167",
+  "dc_publisher_s": "East View Cartographic",
+  "solr_year_i": "1975",
   "dct_spatial_sm": [
     "Dandong",
     "Liaoning Sheng",
@@ -32,14 +36,10 @@
     "P'yongan-namdo",
     "China"
   ],
-  "dct_issued_s": "1975",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "40.0500 124.3167 40.1667 124.4500",
-  "georss_polygon_s": "40.1667 124.3167 40.1667 124.4500 40.0500 124.4500 40.0500 124.3167 40.1667 124.3167",
-  "layer_slug_s": "princeton-m326m3464",
   "layer_id_s": "m326m3464",
-  "layer_modified_dt": "2015-01-11T17:43:37Z",
+  "georss_box_s": "40.0500 124.3167 40.1667 124.4500",
+  "dc_title_s": "Kitai provintsiia Liaonin. Koreia provintsiia Pkhenan-Pukto. Dan'dun (An'dun) i Sinyichzhu (K-51-141). Sheet 1",
+  "layer_slug_s": "princeton-m326m3464",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(124.3167, 124.4500, 40.1667, 40.0500)",
-  "solr_year_i": "1975"
+  "dc_language_s": "English"
 }

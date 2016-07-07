@@ -1,12 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/5d86p1805",
-  "dc_creator_sm": "United States Office of Strategic Services, Research and Analysis Branch",
   "dc_description_s": "This is a city map of Ljubljana, Slovenia (former Yugoslavia) shown at an unknown scale. This city map was created by the United States Office of Strategic Services, Research and Analysis Branch.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "5d86p1805",
-  "dc_language_s": "English",
-  "dc_publisher_s": "United States Office of Strategic Services, Research and Analysis Branch",
+  "layer_modified_dt": "2015-01-11T18:24:53Z",
+  "solr_geom": "ENVELOPE(14.4187, 14.6419, 46.1408, 45.9921)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/5d86p1805\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/5d86p1805/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/5d86p1805",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
     "Transportation",
@@ -17,22 +16,23 @@
     "World War II",
     "1939-1945"
   ],
-  "dc_title_s": "Town plan of Ljubljana",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/5d86p1805\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/5d86p1805/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1943",
+  "dc_creator_sm": "United States Office of Strategic Services, Research and Analysis Branch",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "5d86p1805",
+  "georss_polygon_s": "46.1408 14.4187 46.1408 14.6419 45.9921 14.6419 45.9921 14.4187 46.1408 14.4187",
+  "dc_publisher_s": "United States Office of Strategic Services, Research and Analysis Branch",
+  "solr_year_i": "1943",
   "dct_spatial_sm": [
     "Ljubljana",
     "Slovenia",
     "Yugoslavia"
   ],
-  "dct_issued_s": "1943",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "45.9921 14.4187 46.1408 14.6419",
-  "georss_polygon_s": "46.1408 14.4187 46.1408 14.6419 45.9921 14.6419 45.9921 14.4187 46.1408 14.4187",
-  "layer_slug_s": "princeton-5d86p1805",
   "layer_id_s": "5d86p1805",
-  "layer_modified_dt": "2015-01-11T18:24:53Z",
+  "georss_box_s": "45.9921 14.4187 46.1408 14.6419",
+  "dc_title_s": "Town plan of Ljubljana",
+  "layer_slug_s": "princeton-5d86p1805",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(14.4187, 14.6419, 46.1408, 45.9921)",
-  "solr_year_i": "1943"
+  "dc_language_s": "English"
 }

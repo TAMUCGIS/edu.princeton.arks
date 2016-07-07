@@ -1,33 +1,33 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/3484zj591",
-  "dc_creator_sm": [
-    "A. & C. Black"
-  ],
   "dc_description_s": "This is a scanned map of South Africa from the Historical Map Collection of Princeton University's Rare Books department.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "3484zj591",
-  "dc_language_s": "English",
-  "dc_publisher_s": "A. & C. Black",
+  "layer_modified_dt": "2015-01-11T17:43:24Z",
+  "solr_geom": "ENVELOPE(14.983, 33.212, -21.981, -35.016)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F34%2F84%2Fzj%2F59%2F1%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/3484zj591/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/3484zj591/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/3484zj591",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "historical map"
   ],
-  "dc_title_s": "South Africa",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F34%2F84%2Fzj%2F59%2F1%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/3484zj591/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/3484zj591/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1854",
+  "dc_creator_sm": [
+    "A. & C. Black"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "3484zj591",
+  "georss_polygon_s": "-21.981 14.983 -21.981 33.212 -35.016 33.212 -35.016 14.983 -21.981 14.983",
+  "dc_publisher_s": "A. & C. Black",
+  "solr_year_i": "1854",
   "dct_spatial_sm": [
     "Africa",
     "South Africa"
   ],
-  "dct_issued_s": "1854",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "-35.016 14.983 -21.981 33.212",
-  "georss_polygon_s": "-21.981 14.983 -21.981 33.212 -35.016 33.212 -35.016 14.983 -21.981 14.983",
-  "layer_slug_s": "princeton-3484zj591",
   "layer_id_s": "3484zj591",
-  "layer_modified_dt": "2015-01-11T17:43:24Z",
+  "georss_box_s": "-35.016 14.983 -21.981 33.212",
+  "dc_title_s": "South Africa",
+  "layer_slug_s": "princeton-3484zj591",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(14.983, 33.212, -21.981, -35.016)",
-  "solr_year_i": "1854"
+  "dc_language_s": "English"
 }

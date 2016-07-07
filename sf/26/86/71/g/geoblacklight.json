@@ -1,12 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/sf268671g",
-  "dc_creator_sm": "I. G. Seix & Barral Hnos./Servicio del Plano de la Ciudad",
   "dc_description_s": "This is a city map of Barcelona, Spain shown at a 1:20,000 scale. This city map was created by I. G. Seix & Barral Hnos. for Servicio del Plano de la Ciudad.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "sf268671g",
-  "dc_language_s": "English",
-  "dc_publisher_s": "I. G. Seix & Barral Hnos./Servicio del Plano de la Ciudad",
+  "layer_modified_dt": "2015-01-11T18:24:57Z",
+  "solr_geom": "ENVELOPE(2.0472, 2.2753, 41.4733, 41.2827)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/sf268671g\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/sf268671g/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/sf268671g",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
     "Transportation",
@@ -15,23 +14,24 @@
     "City blocks",
     "Topography"
   ],
-  "dc_title_s": "Barcelona",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/sf268671g\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/sf268671g/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1945",
+  "dc_creator_sm": "I. G. Seix & Barral Hnos./Servicio del Plano de la Ciudad",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "sf268671g",
+  "georss_polygon_s": "41.4733 2.0472 41.4733 2.2753 41.2827 2.2753 41.2827 2.0472 41.4733 2.0472",
+  "dc_publisher_s": "I. G. Seix & Barral Hnos./Servicio del Plano de la Ciudad",
+  "solr_year_i": "1945",
   "dct_spatial_sm": [
     "Barcelona",
     "Spain",
     "Catalonia Autonomous community",
     "Comunidad Autonoma de Cataluna"
   ],
-  "dct_issued_s": "1945",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "41.2827 2.0472 41.4733 2.2753",
-  "georss_polygon_s": "41.4733 2.0472 41.4733 2.2753 41.2827 2.2753 41.2827 2.0472 41.4733 2.0472",
-  "layer_slug_s": "princeton-sf268671g",
   "layer_id_s": "sf268671g",
-  "layer_modified_dt": "2015-01-11T18:24:57Z",
+  "georss_box_s": "41.2827 2.0472 41.4733 2.2753",
+  "dc_title_s": "Barcelona",
+  "layer_slug_s": "princeton-sf268671g",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(2.0472, 2.2753, 41.4733, 41.2827)",
-  "solr_year_i": "1945"
+  "dc_language_s": "English"
 }

@@ -1,33 +1,33 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/td96k427v",
-  "dc_creator_sm": [
-    "Basel, Switzerland : Heinrich Petri,"
-  ],
   "dc_description_s": "This is a map of Asia, 1540.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "td96k427v",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Sanborn Map Company",
+  "layer_modified_dt": "2015-01-11T17:43:39Z",
+  "solr_geom": "ENVELOPE(52.077, -16.156, 36.282, -37.17)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ftd%2F96%2Fk4%2F27%2Fv%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/td96k427v/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/td96k427v/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/td96k427v",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Elevation",
     "Relief",
     "Historical"
   ],
-  "dc_title_s": "Tabula Asiae III",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ftd%2F96%2Fk4%2F27%2Fv%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/td96k427v/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/td96k427v/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1540",
+  "dc_creator_sm": [
+    "Basel, Switzerland : Heinrich Petri,"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "td96k427v",
+  "georss_polygon_s": "36.282 52.077 36.282 -16.156 -37.17 -16.156 -37.17 52.077 36.282 52.077",
+  "dc_publisher_s": "Sanborn Map Company",
+  "solr_year_i": "1540",
   "dct_spatial_sm": [
     "Asia"
   ],
-  "dct_issued_s": "1540",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "-37.17 52.077 36.282 -16.156",
-  "georss_polygon_s": "36.282 52.077 36.282 -16.156 -37.17 -16.156 -37.17 52.077 36.282 52.077",
-  "layer_slug_s": "princeton-td96k427v",
   "layer_id_s": "td96k427v",
-  "layer_modified_dt": "2015-01-11T17:43:39Z",
+  "georss_box_s": "-37.17 52.077 36.282 -16.156",
+  "dc_title_s": "Tabula Asiae III",
+  "layer_slug_s": "princeton-td96k427v",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(52.077, -16.156, 36.282, -37.17)",
-  "solr_year_i": "1540"
+  "dc_language_s": "English"
 }

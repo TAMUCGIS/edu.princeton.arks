@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/jq085m62x",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This is a fire insurance map of Princeton, NJ.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "jq085m62x",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Sanborn Map Company",
+  "layer_modified_dt": "2015-01-11T17:43:19Z",
+  "solr_geom": "ENVELOPE(-74.68, -74.63, 40.37, 40.33)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fjq%2F08%2F5m%2F62%2Fx%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/jq085m62x/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/jq085m62x/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/jq085m62x",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Fire Insurance Map",
     "Buidlings, Roads, Gas Stations, Electricity Lines",
@@ -16,22 +13,25 @@
     "Fire Hazards",
     "Sanborn Map"
   ],
-  "dc_title_s": "Fire Insurance Map of Princeton, New Jersey (Sheet 2) (1885)",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fjq%2F08%2F5m%2F62%2Fx%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/jq085m62x/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/jq085m62x/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1885",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "jq085m62x",
+  "georss_polygon_s": "40.37 -74.68 40.37 -74.63 40.33 -74.63 40.33 -74.68 40.37 -74.68",
+  "dc_publisher_s": "Sanborn Map Company",
+  "solr_year_i": "1885",
   "dct_spatial_sm": [
     "Princeton",
     "Mercer county",
     "New Jersey"
   ],
-  "dct_issued_s": "1885",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "40.33 -74.68 40.37 -74.63",
-  "georss_polygon_s": "40.37 -74.68 40.37 -74.63 40.33 -74.63 40.33 -74.68 40.37 -74.68",
-  "layer_slug_s": "princeton-jq085m62x",
   "layer_id_s": "jq085m62x",
-  "layer_modified_dt": "2015-01-11T17:43:19Z",
+  "georss_box_s": "40.33 -74.68 40.37 -74.63",
+  "dc_title_s": "Fire Insurance Map of Princeton, New Jersey (Sheet 2) (1885)",
+  "layer_slug_s": "princeton-jq085m62x",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(-74.68, -74.63, 40.37, 40.33)",
-  "solr_year_i": "1885"
+  "dc_language_s": "English"
 }

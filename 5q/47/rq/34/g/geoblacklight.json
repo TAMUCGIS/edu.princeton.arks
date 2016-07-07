@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/5q47rq34g",
-  "dc_creator_sm": [
-    "Army Map Service"
-  ],
   "dc_description_s": "This is a map of the city of Vichy, France, shown at a 1:4,000 scale. The map was created for use by War and Navy Department agencies during World War II.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "5q47rq34g",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Army Map Service",
+  "layer_modified_dt": "2015-01-11T17:43:10Z",
+  "solr_geom": "ENVELOPE(3.433, 3.483, 46.150, 46.117)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F5q%2F47%2Frq%2F34%2Fg%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/5q47rq34g/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/5q47rq34g/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/5q47rq34g",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
     "Railroads",
@@ -19,22 +16,25 @@
     "Military",
     "Facilities and Structures"
   ],
-  "dc_title_s": "Town plan of Vichy. G.S.G.S. 4234.",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F5q%2F47%2Frq%2F34%2Fg%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/5q47rq34g/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/5q47rq34g/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1944",
+  "dc_creator_sm": [
+    "Army Map Service"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "5q47rq34g",
+  "georss_polygon_s": "46.150 3.433 46.150 3.483 46.117 3.483 46.117 3.433 46.150 3.433",
+  "dc_publisher_s": "Army Map Service",
+  "solr_year_i": "1944",
   "dct_spatial_sm": [
     "Vichy",
     "France",
     "Allier"
   ],
-  "dct_issued_s": "1944",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "46.117 3.433 46.150 3.483",
-  "georss_polygon_s": "46.150 3.433 46.150 3.483 46.117 3.483 46.117 3.433 46.150 3.433",
-  "layer_slug_s": "princeton-5q47rq34g",
   "layer_id_s": "5q47rq34g",
-  "layer_modified_dt": "2015-01-11T17:43:10Z",
+  "georss_box_s": "46.117 3.433 46.150 3.483",
+  "dc_title_s": "Town plan of Vichy. G.S.G.S. 4234.",
+  "layer_slug_s": "princeton-5q47rq34g",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(3.433, 3.483, 46.150, 46.117)",
-  "solr_year_i": "1944"
+  "dc_language_s": "English"
 }

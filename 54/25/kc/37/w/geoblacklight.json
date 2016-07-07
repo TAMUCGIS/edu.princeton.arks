@@ -1,12 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/5425kc37w",
-  "dc_creator_sm": "unknown",
   "dc_description_s": "This is a city map of Umag, Croatia (former Yugoslavia) shown at a ca. 1:1,000 scale. This city map was created by an unknown author.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "5425kc37w",
-  "dc_language_s": "English",
-  "dc_publisher_s": "unknown",
+  "layer_modified_dt": "2015-01-11T18:25:12Z",
+  "solr_geom": "ENVELOPE(13.5085, 13.55557, 45.4484, 45.4110)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/5425kc37w\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/5425kc37w/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/5425kc37w",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
     "Transportation",
@@ -14,9 +13,14 @@
     "Facilities and Structures",
     "City blocks"
   ],
-  "dc_title_s": "Umag",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/5425kc37w\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/5425kc37w/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1970",
+  "dc_creator_sm": "unknown",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "5425kc37w",
+  "georss_polygon_s": "45.4484 13.5085 45.4484 13.55557 45.4110 13.55557 45.4110 13.5085 45.4484 13.5085",
+  "dc_publisher_s": "unknown",
+  "solr_year_i": "1970",
   "dct_spatial_sm": [
     "Umag",
     "Croatia",
@@ -24,14 +28,10 @@
     "Umago",
     "Umag Komunela"
   ],
-  "dct_issued_s": "1970",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "45.4110 13.5085 45.4484 13.55557",
-  "georss_polygon_s": "45.4484 13.5085 45.4484 13.55557 45.4110 13.55557 45.4110 13.5085 45.4484 13.5085",
-  "layer_slug_s": "princeton-5425kc37w",
   "layer_id_s": "5425kc37w",
-  "layer_modified_dt": "2015-01-11T18:25:12Z",
+  "georss_box_s": "45.4110 13.5085 45.4484 13.55557",
+  "dc_title_s": "Umag",
+  "layer_slug_s": "princeton-5425kc37w",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(13.5085, 13.55557, 45.4484, 45.4110)",
-  "solr_year_i": "1970"
+  "dc_language_s": "English"
 }

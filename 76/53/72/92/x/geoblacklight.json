@@ -1,12 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/76537292x",
-  "dc_creator_sm": "Turistasag es Alpinizmus",
   "dc_description_s": "This is a city map of Budapest, Hungary shown at a 1:20,000 scale. This city map was created by Turistasag es Alpinizmus.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "76537292x",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Turistasag es Alpinizmus",
+  "layer_modified_dt": "2015-01-11T18:24:54Z",
+  "solr_geom": "ENVELOPE(18.9266, 19.3335, 47.6131, 47.3502)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/76537292x\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/76537292x/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/76537292x",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
     "Transportation",
@@ -15,21 +14,22 @@
     "City blocks",
     "Tourist maps"
   ],
-  "dc_title_s": "Budapest",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/76537292x\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/76537292x/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1928",
+  "dc_creator_sm": "Turistasag es Alpinizmus",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "76537292x",
+  "georss_polygon_s": "47.6131 18.9266 47.6131 19.3335 47.3502 19.3335 47.3502 18.9266 47.6131 18.9266",
+  "dc_publisher_s": "Turistasag es Alpinizmus",
+  "solr_year_i": "1928",
   "dct_spatial_sm": [
     "Budapest",
     "Hungary"
   ],
-  "dct_issued_s": "1928",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "47.3502 18.9266 47.6131 19.3335",
-  "georss_polygon_s": "47.6131 18.9266 47.6131 19.3335 47.3502 19.3335 47.3502 18.9266 47.6131 18.9266",
-  "layer_slug_s": "princeton-76537292x",
   "layer_id_s": "76537292x",
-  "layer_modified_dt": "2015-01-11T18:24:54Z",
+  "georss_box_s": "47.3502 18.9266 47.6131 19.3335",
+  "dc_title_s": "Budapest",
+  "layer_slug_s": "princeton-76537292x",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(18.9266, 19.3335, 47.6131, 47.3502)",
-  "solr_year_i": "1928"
+  "dc_language_s": "English"
 }

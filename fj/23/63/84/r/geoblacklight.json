@@ -1,12 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/fj236384r",
-  "dc_creator_sm": "Edinburgh City Planning Department",
   "dc_description_s": "This is a city map of Edinburgh, Scotland, shown at a ca. 1:25,350 scale. This city map was created by the Edinburgh City Planning Department.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "fj236384r",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Edinburgh City Planning Department",
+  "layer_modified_dt": "2015-01-11T18:25:20Z",
+  "solr_geom": "ENVELOPE(-3.4522, -3.0917, 56.0022, 55.8142)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/fj236384r\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/fj236384r/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/fj236384r",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
     "Transportation",
@@ -16,22 +15,23 @@
     "City planning",
     "Zoning"
   ],
-  "dc_title_s": "City and Royal Burgh of Edinburgh Development Plan Town Map",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/fj236384r\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/fj236384r/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1974",
+  "dc_creator_sm": "Edinburgh City Planning Department",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "fj236384r",
+  "georss_polygon_s": "56.0022 -3.4522 56.0022 -3.0917 55.8142 -3.0917 55.8142 -3.4522 56.0022 -3.4522",
+  "dc_publisher_s": "Edinburgh City Planning Department",
+  "solr_year_i": "1974",
   "dct_spatial_sm": [
     "Edinburgh",
     "Scotland",
     "City of Edinburgh"
   ],
-  "dct_issued_s": "1974",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "55.8142 -3.4522 56.0022 -3.0917",
-  "georss_polygon_s": "56.0022 -3.4522 56.0022 -3.0917 55.8142 -3.0917 55.8142 -3.4522 56.0022 -3.4522",
-  "layer_slug_s": "princeton-fj236384r",
   "layer_id_s": "fj236384r",
-  "layer_modified_dt": "2015-01-11T18:25:20Z",
+  "georss_box_s": "55.8142 -3.4522 56.0022 -3.0917",
+  "dc_title_s": "City and Royal Burgh of Edinburgh Development Plan Town Map",
+  "layer_slug_s": "princeton-fj236384r",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(-3.4522, -3.0917, 56.0022, 55.8142)",
-  "solr_year_i": "1974"
+  "dc_language_s": "English"
 }

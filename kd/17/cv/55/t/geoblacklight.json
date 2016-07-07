@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/kd17cv55t",
-  "dc_creator_sm": [
-    "Stose, George W."
-  ],
   "dc_description_s": "A scanned historical map shown at a scale of 1:02500000.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "kd17cv55t",
-  "dc_language_s": "English",
-  "dc_publisher_s": "U.S.G.S.",
+  "layer_modified_dt": "2015-01-11T17:43:29Z",
+  "solr_geom": "ENVELOPE(-121.5, -96, 39, 25)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fkd%2F17%2Fcv%2F55%2Ft%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/kd17cv55t/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/kd17cv55t/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/kd17cv55t",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "historical maps",
     "Topography",
@@ -16,20 +13,23 @@
     "Boundaries",
     "Geology"
   ],
-  "dc_title_s": "Geologic map of the United States. (Sheet 3).",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fkd%2F17%2Fcv%2F55%2Ft%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/kd17cv55t/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/kd17cv55t/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1932",
+  "dc_creator_sm": [
+    "Stose, George W."
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "kd17cv55t",
+  "georss_polygon_s": "39 -121.5 39 -96 25 -96 25 -121.5 39 -121.5",
+  "dc_publisher_s": "U.S.G.S.",
+  "solr_year_i": "1932",
   "dct_spatial_sm": [
     "United States"
   ],
-  "dct_issued_s": "1932",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "25 -121.5 39 -96",
-  "georss_polygon_s": "39 -121.5 39 -96 25 -96 25 -121.5 39 -121.5",
-  "layer_slug_s": "princeton-kd17cv55t",
   "layer_id_s": "kd17cv55t",
-  "layer_modified_dt": "2015-01-11T17:43:29Z",
+  "georss_box_s": "25 -121.5 39 -96",
+  "dc_title_s": "Geologic map of the United States. (Sheet 3).",
+  "layer_slug_s": "princeton-kd17cv55t",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(-121.5, -96, 39, 25)",
-  "solr_year_i": "1932"
+  "dc_language_s": "English"
 }

@@ -1,12 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/9s161758s",
-  "dc_creator_sm": "Stadtvermessungsamt Hannover",
   "dc_description_s": "This is a city map of Hannover, Germany, shown at a 1:15,000 scale. This city map was created by Stadtvermessungsamt Hannover.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "9s161758s",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Stadtvermessungsamt Hannover",
+  "layer_modified_dt": "2015-01-11T18:24:34Z",
+  "solr_geom": "ENVELOPE(9.6053, 9.9164, 52.4535, 52.3068)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/9s161758s\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/9s161758s/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/9s161758s",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
     "Transportation",
@@ -15,23 +14,24 @@
     "City blocks",
     "Topography"
   ],
-  "dc_title_s": "Amtliche Karte der Hauptstadt Hannover",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/9s161758s\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/9s161758s/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1956",
+  "dc_creator_sm": "Stadtvermessungsamt Hannover",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "9s161758s",
+  "georss_polygon_s": "52.4535 9.6053 52.4535 9.9164 52.3068 9.9164 52.3068 9.6053 52.4535 9.6053",
+  "dc_publisher_s": "Stadtvermessungsamt Hannover",
+  "solr_year_i": "1956",
   "dct_spatial_sm": [
     "Hannover",
     "Germany",
     "Bundesrepublik Deutschland",
     "Federal Republic of Germany"
   ],
-  "dct_issued_s": "1956",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "52.3068 9.6053 52.4535 9.9164",
-  "georss_polygon_s": "52.4535 9.6053 52.4535 9.9164 52.3068 9.9164 52.3068 9.6053 52.4535 9.6053",
-  "layer_slug_s": "princeton-9s161758s",
   "layer_id_s": "9s161758s",
-  "layer_modified_dt": "2015-01-11T18:24:34Z",
+  "georss_box_s": "52.3068 9.6053 52.4535 9.9164",
+  "dc_title_s": "Amtliche Karte der Hauptstadt Hannover",
+  "layer_slug_s": "princeton-9s161758s",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(9.6053, 9.9164, 52.4535, 52.3068)",
-  "solr_year_i": "1956"
+  "dc_language_s": "English"
 }

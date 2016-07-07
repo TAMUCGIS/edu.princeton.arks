@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/pk02cc197",
-  "dc_creator_sm": [
-    "NJDEP Bureau of Tidelands Management, Trenton, NJ"
-  ],
   "dc_description_s": "1951 Mercer County Aerial Photographs that was scanned and georeferenced using ArcView 3.2a Image Analysis extension software with New Jersey State Plan Coordinate System, NAD 83.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "pk02cc197",
-  "dc_language_s": "English",
-  "dc_publisher_s": "NJDEP Bureau of Tidelands Management",
+  "layer_modified_dt": "2015-01-11T17:42:39Z",
+  "solr_geom": "ENVELOPE(-74.5833, -74.5417, 40.2250, 40.2083)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fpk%2F02%2Fcc%2F19%2F7%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/pk02cc197/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/pk02cc197/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/pk02cc197",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Aerial photograph",
     "Historical aerial photo",
@@ -16,20 +13,23 @@
     "Imagery and Base Maps",
     "Imagery and Base Maps"
   ],
-  "dc_title_s": "1951 Mercer County Aerial Photograph (289-273) ",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fpk%2F02%2Fcc%2F19%2F7%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/pk02cc197/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/pk02cc197/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "March 27, 1951",
+  "dc_creator_sm": [
+    "NJDEP Bureau of Tidelands Management, Trenton, NJ"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "pk02cc197",
+  "georss_polygon_s": "40.2250 -74.5833 40.2250 -74.5417 40.2083 -74.5417 40.2083 -74.5833 40.2250 -74.5833",
+  "dc_publisher_s": "NJDEP Bureau of Tidelands Management",
   "dct_spatial_sm": [
     "Washington",
     "Mercer county"
   ],
-  "dct_issued_s": "March 27, 1951",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "40.2083 -74.5833 40.2250 -74.5417",
-  "georss_polygon_s": "40.2250 -74.5833 40.2250 -74.5417 40.2083 -74.5417 40.2083 -74.5833 40.2250 -74.5833",
-  "layer_slug_s": "princeton-pk02cc197",
   "layer_id_s": "pk02cc197",
-  "layer_modified_dt": "2015-01-11T17:42:39Z",
+  "georss_box_s": "40.2083 -74.5833 40.2250 -74.5417",
+  "dc_title_s": "1951 Mercer County Aerial Photograph (289-273) ",
+  "layer_slug_s": "princeton-pk02cc197",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(-74.5833, -74.5417, 40.2250, 40.2083)"
+  "dc_language_s": "English"
 }

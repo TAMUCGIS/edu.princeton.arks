@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/nv9354265",
-  "dc_creator_sm": [
-    "Army Map Service"
-  ],
   "dc_description_s": "This is a map of the city of Handa, Japan, shown at a 1:12,500 scale. The map was created for use by War and Navy Department agencies during World War II.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "nv9354265",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Army Map Service",
+  "layer_modified_dt": "2015-01-11T17:42:25Z",
+  "solr_geom": "ENVELOPE(136.900, 137.00, 34.9333, 34.8667)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fnv%2F93%2F54%2F26%2F5%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/nv9354265/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/nv9354265/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/nv9354265",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
     "Railroads",
@@ -19,9 +16,16 @@
     "Military",
     "Facilities and Structures"
   ],
-  "dc_title_s": "Handa, Aichi Prefecture, Honshu, Japan. A.M.S. L902. ",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fnv%2F93%2F54%2F26%2F5%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/nv9354265/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/nv9354265/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1946",
+  "dc_creator_sm": [
+    "Army Map Service"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "nv9354265",
+  "georss_polygon_s": "34.9333 136.900 34.9333 137.00 34.8667 137.00 34.8667 136.900 34.9333 136.900",
+  "dc_publisher_s": "Army Map Service",
+  "solr_year_i": "1946",
   "dct_spatial_sm": [
     "Handa",
     "Honshu",
@@ -30,14 +34,10 @@
     "Manda",
     "Japan"
   ],
-  "dct_issued_s": "1946",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "34.8667 136.900 34.9333 137.00",
-  "georss_polygon_s": "34.9333 136.900 34.9333 137.00 34.8667 137.00 34.8667 136.900 34.9333 136.900",
-  "layer_slug_s": "princeton-nv9354265",
   "layer_id_s": "nv9354265",
-  "layer_modified_dt": "2015-01-11T17:42:25Z",
+  "georss_box_s": "34.8667 136.900 34.9333 137.00",
+  "dc_title_s": "Handa, Aichi Prefecture, Honshu, Japan. A.M.S. L902. ",
+  "layer_slug_s": "princeton-nv9354265",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(136.900, 137.00, 34.9333, 34.8667)",
-  "solr_year_i": "1946"
+  "dc_language_s": "English"
 }

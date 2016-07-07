@@ -1,34 +1,34 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/37720f43n",
-  "dc_creator_sm": [
-    "Moll, Herman"
-  ],
   "dc_description_s": "This is a scanned map of the world from the Historical Map Collection of Princeton University's Rare Books department.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "37720f43n",
-  "dc_language_s": "English",
-  "dc_publisher_s": "J. Bowles",
+  "layer_modified_dt": "2015-01-11T17:43:30Z",
+  "solr_geom": "ENVELOPE(-180, 180, 90, -90)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F37%2F72%2F0f%2F43%2Fn%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/37720f43n/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/37720f43n/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/37720f43n",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Maps--Early works to 1800",
     "World maps",
     "World map 1719",
     "Administrative and political boundaries"
   ],
-  "dc_title_s": "A new & correct map of the whole world : shewing ye situation of its principal parts",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F37%2F72%2F0f%2F43%2Fn%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/37720f43n/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/37720f43n/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1719",
+  "dc_creator_sm": [
+    "Moll, Herman"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "37720f43n",
+  "georss_polygon_s": "90 -180 90 180 -90 180 -90 -180 90 -180",
+  "dc_publisher_s": "J. Bowles",
+  "solr_year_i": "1719",
   "dct_spatial_sm": [
     "World"
   ],
-  "dct_issued_s": "1719",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "-90 -180 90 180",
-  "georss_polygon_s": "90 -180 90 180 -90 180 -90 -180 90 -180",
-  "layer_slug_s": "princeton-37720f43n",
   "layer_id_s": "37720f43n",
-  "layer_modified_dt": "2015-01-11T17:43:30Z",
+  "georss_box_s": "-90 -180 90 180",
+  "dc_title_s": "A new & correct map of the whole world : shewing ye situation of its principal parts",
+  "layer_slug_s": "princeton-37720f43n",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(-180, 180, 90, -90)",
-  "solr_year_i": "1719"
+  "dc_language_s": "English"
 }

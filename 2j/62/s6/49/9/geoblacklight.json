@@ -1,12 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/2j62s6499",
-  "dc_creator_sm": "VEB Tourist Verlag",
   "dc_description_s": "This is a city map of Leipzig, Germany, shown at a 1:15,000 scale. This city map was created by VEB Tourist Verlag.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "2j62s6499",
-  "dc_language_s": "English",
-  "dc_publisher_s": "VEB Tourist Verlag",
+  "layer_modified_dt": "2015-01-11T18:24:59Z",
+  "solr_geom": "ENVELOPE(12.2380, 12.5490, 51.4476, 51.2378)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/2j62s6499\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/2j62s6499/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/2j62s6499",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
     "Transportation",
@@ -15,9 +14,14 @@
     "City blocks",
     "Tourism"
   ],
-  "dc_title_s": "Stadtplan Leipzig",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/2j62s6499\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/2j62s6499/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1977",
+  "dc_creator_sm": "VEB Tourist Verlag",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "2j62s6499",
+  "georss_polygon_s": "51.4476 12.2380 51.4476 12.5490 51.2378 12.5490 51.2378 12.2380 51.4476 12.2380",
+  "dc_publisher_s": "VEB Tourist Verlag",
+  "solr_year_i": "1977",
   "dct_spatial_sm": [
     "Leipzig",
     "Germany",
@@ -28,14 +32,10 @@
     "German Democratic Republic",
     "Sachsen Freistaat"
   ],
-  "dct_issued_s": "1977",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "51.2378 12.2380 51.4476 12.5490",
-  "georss_polygon_s": "51.4476 12.2380 51.4476 12.5490 51.2378 12.5490 51.2378 12.2380 51.4476 12.2380",
-  "layer_slug_s": "princeton-2j62s6499",
   "layer_id_s": "2j62s6499",
-  "layer_modified_dt": "2015-01-11T18:24:59Z",
+  "georss_box_s": "51.2378 12.2380 51.4476 12.5490",
+  "dc_title_s": "Stadtplan Leipzig",
+  "layer_slug_s": "princeton-2j62s6499",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(12.2380, 12.5490, 51.4476, 51.2378)",
-  "solr_year_i": "1977"
+  "dc_language_s": "English"
 }

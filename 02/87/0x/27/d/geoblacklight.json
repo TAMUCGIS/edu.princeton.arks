@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/02870x27d",
-  "dc_creator_sm": [
-    "United States Geological Survey"
-  ],
   "dc_description_s": "A scanned USGS 1:24,000 topographic map.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "02870x27d",
-  "dc_language_s": "English",
-  "dc_publisher_s": "United States Geological Survey",
+  "layer_modified_dt": "2015-01-11T17:42:21Z",
+  "solr_geom": "ENVELOPE(-74.875, -74.750, 39.000, 38.875)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F02%2F87%2F0x%2F27%2Fd%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/02870x27d/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/02870x27d/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/02870x27d",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Topographic map",
     "Contour line",
@@ -16,9 +13,16 @@
     "Roads",
     "Geoscientific Information"
   ],
-  "dc_title_s": "Wildwood Quadrangle, New Jersey, 7.5 minute series (topographic) (1955)",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F02%2F87%2F0x%2F27%2Fd%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/02870x27d/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/02870x27d/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1955",
+  "dc_creator_sm": [
+    "United States Geological Survey"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "02870x27d",
+  "georss_polygon_s": "39.000 -74.875 39.000 -74.750 38.875 -74.750 38.875 -74.875 39.000 -74.875",
+  "dc_publisher_s": "United States Geological Survey",
+  "solr_year_i": "1955",
   "dct_spatial_sm": [
     "Wildwood",
     "Lower",
@@ -27,14 +31,10 @@
     "Cape May County",
     "New Jersey"
   ],
-  "dct_issued_s": "1955",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "38.875 -74.875 39.000 -74.750",
-  "georss_polygon_s": "39.000 -74.875 39.000 -74.750 38.875 -74.750 38.875 -74.875 39.000 -74.875",
-  "layer_slug_s": "princeton-02870x27d",
   "layer_id_s": "02870x27d",
-  "layer_modified_dt": "2015-01-11T17:42:21Z",
+  "georss_box_s": "38.875 -74.875 39.000 -74.750",
+  "dc_title_s": "Wildwood Quadrangle, New Jersey, 7.5 minute series (topographic) (1955)",
+  "layer_slug_s": "princeton-02870x27d",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(-74.875, -74.750, 39.000, 38.875)",
-  "solr_year_i": "1955"
+  "dc_language_s": "English"
 }

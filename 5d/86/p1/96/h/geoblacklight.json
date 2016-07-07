@@ -1,12 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/5d86p196h",
-  "dc_creator_sm": "United States. Office of Strategic Services. Research and Analysis Service No. 3440",
   "dc_description_s": "This is a port map of Hamburg and the secondary ports of Harburg-Wilhemsburg, Altona and Cuxhaven, Germany, shown at a ca. 1:14,925 scale. This city map was created by the United States Office of Strategic Services..",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "5d86p196h",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Office of Strategic Services",
+  "layer_modified_dt": "2015-01-11T18:25:23Z",
+  "solr_geom": "ENVELOPE(9.5296, 10.4723, 54.0861, 53.1044)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/5d86p196h\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/5d86p196h/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/5d86p196h",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
     "Transportation",
@@ -16,9 +15,14 @@
     "1939-1945",
     "City map"
   ],
-  "dc_title_s": "Port of Hamburg and the secondary ports of Harburg-Wilhemsburg, Altona and Cuxhaven",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/5d86p196h\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/5d86p196h/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1944",
+  "dc_creator_sm": "United States. Office of Strategic Services. Research and Analysis Service No. 3440",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "5d86p196h",
+  "georss_polygon_s": "54.0861 9.5296 54.0861 10.4723 53.1044 10.4723 53.1044 9.5296 54.0861 9.5296",
+  "dc_publisher_s": "Office of Strategic Services",
+  "solr_year_i": "1944",
   "dct_spatial_sm": [
     "Hamburg",
     "Germany",
@@ -31,14 +35,10 @@
     "Wilhemsburg",
     "Elbe"
   ],
-  "dct_issued_s": "1944",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "53.1044 9.5296 54.0861 10.4723",
-  "georss_polygon_s": "54.0861 9.5296 54.0861 10.4723 53.1044 10.4723 53.1044 9.5296 54.0861 9.5296",
-  "layer_slug_s": "princeton-5d86p196h",
   "layer_id_s": "5d86p196h",
-  "layer_modified_dt": "2015-01-11T18:25:23Z",
+  "georss_box_s": "53.1044 9.5296 54.0861 10.4723",
+  "dc_title_s": "Port of Hamburg and the secondary ports of Harburg-Wilhemsburg, Altona and Cuxhaven",
+  "layer_slug_s": "princeton-5d86p196h",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(9.5296, 10.4723, 54.0861, 53.1044)",
-  "solr_year_i": "1944"
+  "dc_language_s": "English"
 }

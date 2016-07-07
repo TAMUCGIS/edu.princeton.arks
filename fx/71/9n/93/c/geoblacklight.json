@@ -1,12 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/fx719n93c",
-  "dc_creator_sm": "Great Britain. War Office. General Staff. Geographical Section",
   "dc_description_s": "This is a town plan of Bochum, Germany, shown at a 1:10,000 scale. This city map was created by the Great Britain War Office, Geographical Section.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "fx719n93c",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Great Britain. War Office. General Staff. Geographical Section",
+  "layer_modified_dt": "2015-01-11T18:24:40Z",
+  "solr_geom": "ENVELOPE(7.1018, 7.3476, 51.5305, 51.4111)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/fx719n93c\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/fx719n93c/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/fx719n93c",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
     "Transportation",
@@ -16,21 +15,22 @@
     "War Office",
     "City blocks"
   ],
-  "dc_title_s": "Town plan of Bochum",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/fx719n93c\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/fx719n93c/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1945",
+  "dc_creator_sm": "Great Britain. War Office. General Staff. Geographical Section",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "fx719n93c",
+  "georss_polygon_s": "51.5305 7.1018 51.5305 7.3476 51.4111 7.3476 51.4111 7.1018 51.5305 7.1018",
+  "dc_publisher_s": "Great Britain. War Office. General Staff. Geographical Section",
+  "solr_year_i": "1945",
   "dct_spatial_sm": [
     "Bochum",
     "Germany"
   ],
-  "dct_issued_s": "1945",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "51.4111 7.1018 51.5305 7.3476",
-  "georss_polygon_s": "51.5305 7.1018 51.5305 7.3476 51.4111 7.3476 51.4111 7.1018 51.5305 7.1018",
-  "layer_slug_s": "princeton-fx719n93c",
   "layer_id_s": "fx719n93c",
-  "layer_modified_dt": "2015-01-11T18:24:40Z",
+  "georss_box_s": "51.4111 7.1018 51.5305 7.3476",
+  "dc_title_s": "Town plan of Bochum",
+  "layer_slug_s": "princeton-fx719n93c",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(7.1018, 7.3476, 51.5305, 51.4111)",
-  "solr_year_i": "1945"
+  "dc_language_s": "English"
 }

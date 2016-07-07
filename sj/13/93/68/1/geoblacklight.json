@@ -1,12 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/sj1393681",
-  "dc_creator_sm": "Artisches Institut Orell Fussli A.G.",
   "dc_description_s": "This is a city map of Zollikon, Kusnacht, Erlenbach, and Zumikon, Switzerland, shown at a 1:15,000 scale. This city map was created by Artisches Institut Orell Fussli A.G..",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "sj1393681",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Artisches Institut Orell Fussli A.G.",
+  "layer_modified_dt": "2015-01-11T18:25:20Z",
+  "solr_geom": "ENVELOPE(8.5646, 8.647, 47.3526, 47.2916)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/sj1393681\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/sj1393681/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/sj1393681",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
     "Transportation",
@@ -15,9 +14,14 @@
     "City blocks",
     "Recreation"
   ],
-  "dc_title_s": "Spaziergangerkarte: Zollikon, Kusnacht, Erlenbach, Zumikon",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/sj1393681\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/sj1393681/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1960",
+  "dc_creator_sm": "Artisches Institut Orell Fussli A.G.",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "sj1393681",
+  "georss_polygon_s": "47.3526 8.5646 47.3526 8.647 47.2916 8.647 47.2916 8.5646 47.3526 8.5646",
+  "dc_publisher_s": "Artisches Institut Orell Fussli A.G.",
+  "solr_year_i": "1960",
   "dct_spatial_sm": [
     "Zollikon",
     "Erlenbach",
@@ -28,14 +32,10 @@
     "Zollikerberg",
     "Schweizerische Eidgenossenschaft"
   ],
-  "dct_issued_s": "1960",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "47.2916 8.5646 47.3526 8.647",
-  "georss_polygon_s": "47.3526 8.5646 47.3526 8.647 47.2916 8.647 47.2916 8.5646 47.3526 8.5646",
-  "layer_slug_s": "princeton-sj1393681",
   "layer_id_s": "sj1393681",
-  "layer_modified_dt": "2015-01-11T18:25:20Z",
+  "georss_box_s": "47.2916 8.5646 47.3526 8.647",
+  "dc_title_s": "Spaziergangerkarte: Zollikon, Kusnacht, Erlenbach, Zumikon",
+  "layer_slug_s": "princeton-sj1393681",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(8.5646, 8.647, 47.3526, 47.2916)",
-  "solr_year_i": "1960"
+  "dc_language_s": "English"
 }

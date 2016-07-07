@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/qb98mg911",
-  "dc_creator_sm": [
-    "Central Intelligence Agency"
-  ],
   "dc_description_s": "This is a map of Bulgaria. with relief The map was created by the Central Intelligence Agency.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "qb98mg911",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Central Intelligence Agency",
+  "layer_modified_dt": "2015-01-11T17:42:37Z",
+  "solr_geom": "ENVELOPE(22, 30, 46, 40)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fqb%2F98%2Fmg%2F91%2F1%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/qb98mg911/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/qb98mg911/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/qb98mg911",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
     "Railroads",
     "Transportation",
     "Administrative and Political Boundaries"
   ],
-  "dc_title_s": "Bulgaria, 1994 (with relief)",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fqb%2F98%2Fmg%2F91%2F1%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/qb98mg911/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/qb98mg911/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1994",
+  "dc_creator_sm": [
+    "Central Intelligence Agency"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "qb98mg911",
+  "georss_polygon_s": "46 22 46 30 40 30 40 22 46 22",
+  "dc_publisher_s": "Central Intelligence Agency",
+  "solr_year_i": "1994",
   "dct_spatial_sm": [
     "Bulgaria",
     "Balkan Region",
     "Eastern Europe",
     "Europe"
   ],
-  "dct_issued_s": "1994",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "40 22 46 30",
-  "georss_polygon_s": "46 22 46 30 40 30 40 22 46 22",
-  "layer_slug_s": "princeton-qb98mg911",
   "layer_id_s": "qb98mg911",
-  "layer_modified_dt": "2015-01-11T17:42:37Z",
+  "georss_box_s": "40 22 46 30",
+  "dc_title_s": "Bulgaria, 1994 (with relief)",
+  "layer_slug_s": "princeton-qb98mg911",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(22, 30, 46, 40)",
-  "solr_year_i": "1994"
+  "dc_language_s": "English"
 }

@@ -1,35 +1,35 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/9019s4198",
-  "dc_creator_sm": [
-    "Central Intelligence Agency"
-  ],
   "dc_description_s": "This is a map of Iraq, shown at a 1:1,600,000 scale. The map was created by the Central Intelligence Agency.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "9019s4198",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Central Intelligence Agency",
+  "layer_modified_dt": "2015-01-11T17:43:35Z",
+  "solr_geom": "ENVELOPE(38, 48, 38, 28)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F90%2F19%2Fs4%2F19%2F8%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/9019s4198/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/9019s4198/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/9019s4198",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
     "Railroads",
     "Transportation",
     "Administrative and Political Boundaries"
   ],
-  "dc_title_s": "Iraq , 2003",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F90%2F19%2Fs4%2F19%2F8%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/9019s4198/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/9019s4198/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "January 2003",
+  "dc_creator_sm": [
+    "Central Intelligence Agency"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "9019s4198",
+  "georss_polygon_s": "38 38 38 48 28 48 28 38 38 38",
+  "dc_publisher_s": "Central Intelligence Agency",
   "dct_spatial_sm": [
     "Iraq",
     "Asia",
     "Middle East"
   ],
-  "dct_issued_s": "January 2003",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "28 38 38 48",
-  "georss_polygon_s": "38 38 38 48 28 48 28 38 38 38",
-  "layer_slug_s": "princeton-9019s4198",
   "layer_id_s": "9019s4198",
-  "layer_modified_dt": "2015-01-11T17:43:35Z",
+  "georss_box_s": "28 38 38 48",
+  "dc_title_s": "Iraq , 2003",
+  "layer_slug_s": "princeton-9019s4198",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(38, 48, 38, 28)"
+  "dc_language_s": "English"
 }

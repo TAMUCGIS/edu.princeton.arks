@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/7w62f976m",
-  "dc_creator_sm": [
-    "Vermeule, Cornelius Clarkson"
-  ],
   "dc_description_s": "A scanned historical New Jersey Geological Survey Atlas Sheet shown at a scale of 1:63,360.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "7w62f976m",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New Jersey. Department of Conservation. Division of Forestry, Geology, Parks, and Historic Sites",
+  "layer_modified_dt": "2015-01-11T17:42:57Z",
+  "solr_geom": "ENVELOPE(-74.7667, -74.3333, 40.000, 39.5333)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F7w%2F62%2Ff9%2F76%2Fm%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/7w62f976m/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/7w62f976m/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/7w62f976m",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "historical maps",
     "Topography",
@@ -18,23 +15,26 @@
     "Boundaries",
     "Administrative and political boundaries"
   ],
-  "dc_title_s": "[New Jersey.] Atlas sheet no. 32.",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F7w%2F62%2Ff9%2F76%2Fm%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/7w62f976m/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/7w62f976m/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1903",
+  "dc_creator_sm": [
+    "Vermeule, Cornelius Clarkson"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "7w62f976m",
+  "georss_polygon_s": "40.000 -74.7667 40.000 -74.3333 39.5333 -74.3333 39.5333 -74.7667 40.000 -74.7667",
+  "dc_publisher_s": "New Jersey. Department of Conservation. Division of Forestry, Geology, Parks, and Historic Sites",
+  "solr_year_i": "1903",
   "dct_spatial_sm": [
     "New Jersey",
     "Ocean",
     "Burlington",
     "Atlantic"
   ],
-  "dct_issued_s": "1903",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "39.5333 -74.7667 40.000 -74.3333",
-  "georss_polygon_s": "40.000 -74.7667 40.000 -74.3333 39.5333 -74.3333 39.5333 -74.7667 40.000 -74.7667",
-  "layer_slug_s": "princeton-7w62f976m",
   "layer_id_s": "7w62f976m",
-  "layer_modified_dt": "2015-01-11T17:42:57Z",
+  "georss_box_s": "39.5333 -74.7667 40.000 -74.3333",
+  "dc_title_s": "[New Jersey.] Atlas sheet no. 32.",
+  "layer_slug_s": "princeton-7w62f976m",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(-74.7667, -74.3333, 40.000, 39.5333)",
-  "solr_year_i": "1903"
+  "dc_language_s": "English"
 }

@@ -1,35 +1,35 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/5999n501v",
-  "dc_creator_sm": [
-    "Central Intelligence Agency"
-  ],
   "dc_description_s": "This is a map of Burma at a 1:2,000,000 scale. The map was created by the Central Intelligence Agency.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "5999n501v",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Central Intelligence Agency",
+  "layer_modified_dt": "2015-01-11T17:43:12Z",
+  "solr_geom": "ENVELOPE(94, 100, 28, 12)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F59%2F99%2Fn5%2F01%2Fv%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/5999n501v/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/5999n501v/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/5999n501v",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Administrative and Political Boundaries",
     "Division Boundary",
     "Township Boundary",
     "Capitals"
   ],
-  "dc_title_s": "Burma, 1990",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F59%2F99%2Fn5%2F01%2Fv%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/5999n501v/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/5999n501v/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "October 1990",
+  "dc_creator_sm": [
+    "Central Intelligence Agency"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "5999n501v",
+  "georss_polygon_s": "28 94 28 100 12 100 12 94 28 94",
+  "dc_publisher_s": "Central Intelligence Agency",
   "dct_spatial_sm": [
     "Burma",
     "South East Asia",
     "Asia"
   ],
-  "dct_issued_s": "October 1990",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "12 94 28 100",
-  "georss_polygon_s": "28 94 28 100 12 100 12 94 28 94",
-  "layer_slug_s": "princeton-5999n501v",
   "layer_id_s": "5999n501v",
-  "layer_modified_dt": "2015-01-11T17:43:12Z",
+  "georss_box_s": "12 94 28 100",
+  "dc_title_s": "Burma, 1990",
+  "layer_slug_s": "princeton-5999n501v",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(94, 100, 28, 12)"
+  "dc_language_s": "English"
 }

@@ -1,13 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/6w924d478",
-  "dc_creator_sm": [
-    "NJDEP Bureau of Tidelands Management, Trenton, NJ"
-  ],
   "dc_description_s": "1951 Mercer County Aerial Photographs that were scanned and georeferenced using ArcView 3.2a Image Analysis extension software with New Jersey State Plan Coordinate System, NAD 83.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "6w924d478",
-  "dc_language_s": "English",
+  "layer_modified_dt": "2015-01-11T17:43:19Z",
+  "solr_geom": "ENVELOPE(-74.939246, -74.482460, 40.424427, 40.135958)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F6w%2F92%2F4d%2F47%2F8%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/6w924d478/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/6w924d478/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/6w924d478",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Aerial photograph",
     "Historical aerial photo",
@@ -16,22 +14,24 @@
     "Imagery and Base Maps",
     "Imagery and Base Maps"
   ],
-  "dc_title_s": "1951 Mercer County Aerial Photograph (289-1006)",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F6w%2F92%2F4d%2F47%2F8%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/6w924d478/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/6w924d478/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1951",
+  "dc_creator_sm": [
+    "NJDEP Bureau of Tidelands Management, Trenton, NJ"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "6w924d478",
+  "georss_polygon_s": "40.424427 -74.939246 40.424427 -74.482460 40.135958 -74.482460 40.135958 -74.939246 40.424427 -74.939246",
+  "solr_year_i": "1951",
   "dct_spatial_sm": [
     "East Awell",
     "Hunterdon County",
     "New Jersey"
   ],
-  "dct_issued_s": "1951",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "40.135958 -74.939246 40.424427 -74.482460",
-  "georss_polygon_s": "40.424427 -74.939246 40.424427 -74.482460 40.135958 -74.482460 40.135958 -74.939246 40.424427 -74.939246",
-  "layer_slug_s": "princeton-6w924d478",
   "layer_id_s": "6w924d478",
-  "layer_modified_dt": "2015-01-11T17:43:19Z",
+  "georss_box_s": "40.135958 -74.939246 40.424427 -74.482460",
+  "dc_title_s": "1951 Mercer County Aerial Photograph (289-1006)",
+  "layer_slug_s": "princeton-6w924d478",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(-74.939246, -74.482460, 40.424427, 40.135958)",
-  "solr_year_i": "1951"
+  "dc_language_s": "English"
 }

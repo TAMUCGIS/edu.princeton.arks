@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/d504rm88d",
-  "dc_creator_sm": [
-    "United States. Geological Survey"
-  ],
   "dc_description_s": "This is a scanned historical map of the Foxburg Quadrangle in Pennsylvania shown at a scale of 1:62,500. This map was created by the US Geological Survey.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "d504rm88d",
-  "dc_language_s": "English",
-  "dc_publisher_s": "US Geological Survey",
+  "layer_modified_dt": "2015-01-11T17:42:57Z",
+  "solr_geom": "ENVELOPE(-79.75, -79.5, 41.25, 41)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fd5%2F04%2Frm%2F88%2Fd%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/d504rm88d/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/d504rm88d/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/d504rm88d",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "historical maps",
     "Topography",
@@ -16,9 +13,15 @@
     "Boundaries",
     "Administrative and political boundaries"
   ],
-  "dc_title_s": "Pennsylvania: Foxburg Quadrangle. ",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fd5%2F04%2Frm%2F88%2Fd%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/d504rm88d/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/d504rm88d/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "October 1908",
+  "dc_creator_sm": [
+    "United States. Geological Survey"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "d504rm88d",
+  "georss_polygon_s": "41.25 -79.75 41.25 -79.5 41 -79.5 41 -79.75 41.25 -79.75",
+  "dc_publisher_s": "US Geological Survey",
   "dct_spatial_sm": [
     "Foxburg",
     "Butler County",
@@ -28,13 +31,10 @@
     "Pennsylvania",
     "United States"
   ],
-  "dct_issued_s": "October 1908",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "41 -79.75 41.25 -79.5",
-  "georss_polygon_s": "41.25 -79.75 41.25 -79.5 41 -79.5 41 -79.75 41.25 -79.75",
-  "layer_slug_s": "princeton-d504rm88d",
   "layer_id_s": "d504rm88d",
-  "layer_modified_dt": "2015-01-11T17:42:57Z",
+  "georss_box_s": "41 -79.75 41.25 -79.5",
+  "dc_title_s": "Pennsylvania: Foxburg Quadrangle. ",
+  "layer_slug_s": "princeton-d504rm88d",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(-79.75, -79.5, 41.25, 41)"
+  "dc_language_s": "English"
 }

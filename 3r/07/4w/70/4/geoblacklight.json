@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/3r074w704",
-  "dc_creator_sm": [
-    "Army Map Service"
-  ],
   "dc_description_s": "This is a map of the city of Tanashi, Japan, shown at a 1:12,500 scale. The map was created for use by War and Navy Department agencies during World War II.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "3r074w704",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Army Map Service",
+  "layer_modified_dt": "2015-01-11T17:43:38Z",
+  "solr_geom": "ENVELOPE(139.4500, 139.5667, 35.7500, 35.6833)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F3r%2F07%2F4w%2F70%2F4%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/3r074w704/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/3r074w704/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/3r074w704",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
     "Railroads",
@@ -19,9 +16,16 @@
     "Military",
     "Facilities and Structures"
   ],
-  "dc_title_s": "Tanashi, Honshu, Japan. ",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F3r%2F07%2F4w%2F70%2F4%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/3r074w704/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/3r074w704/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1946",
+  "dc_creator_sm": [
+    "Army Map Service"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "3r074w704",
+  "georss_polygon_s": "35.7500 139.4500 35.7500 139.5667 35.6833 139.5667 35.6833 139.4500 35.7500 139.4500",
+  "dc_publisher_s": "Army Map Service",
+  "solr_year_i": "1946",
   "dct_spatial_sm": [
     "Tanashi",
     "Honshu",
@@ -29,14 +33,10 @@
     "Tokyo-to",
     "Japan"
   ],
-  "dct_issued_s": "1946",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "35.6833 139.4500 35.7500 139.5667",
-  "georss_polygon_s": "35.7500 139.4500 35.7500 139.5667 35.6833 139.5667 35.6833 139.4500 35.7500 139.4500",
-  "layer_slug_s": "princeton-3r074w704",
   "layer_id_s": "3r074w704",
-  "layer_modified_dt": "2015-01-11T17:43:38Z",
+  "georss_box_s": "35.6833 139.4500 35.7500 139.5667",
+  "dc_title_s": "Tanashi, Honshu, Japan. ",
+  "layer_slug_s": "princeton-3r074w704",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(139.4500, 139.5667, 35.7500, 35.6833)",
-  "solr_year_i": "1946"
+  "dc_language_s": "English"
 }

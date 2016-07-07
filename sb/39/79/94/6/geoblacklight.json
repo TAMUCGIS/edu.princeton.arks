@@ -1,12 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/sb3979946",
-  "dc_creator_sm": "Defense Survey, Ministry of Defense",
   "dc_description_s": "This is a city map of Londonderry, Ireland, shown at a 1:5,000 scale. This city map was created by the Defense Survey, Ministry of Defense.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "sb3979946",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Defense Survey, Ministry of Defense",
+  "layer_modified_dt": "2015-01-11T18:25:13Z",
+  "solr_geom": "ENVELOPE(-7.3636, -7.2738, 55.0374, 54.9783)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/sb3979946\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/sb3979946/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/sb3979946",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
     "Transportation",
@@ -14,21 +13,22 @@
     "Facilities and Structures",
     "City blocks"
   ],
-  "dc_title_s": "United Kingdom Town plans. Series M 921. Londonderry.",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/sb3979946\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/sb3979946/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1970",
+  "dc_creator_sm": "Defense Survey, Ministry of Defense",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "sb3979946",
+  "georss_polygon_s": "55.0374 -7.3636 55.0374 -7.2738 54.9783 -7.2738 54.9783 -7.3636 55.0374 -7.3636",
+  "dc_publisher_s": "Defense Survey, Ministry of Defense",
+  "solr_year_i": "1970",
   "dct_spatial_sm": [
     "Londonderry",
     "Ireland"
   ],
-  "dct_issued_s": "1970",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "54.9783 -7.3636 55.0374 -7.2738",
-  "georss_polygon_s": "55.0374 -7.3636 55.0374 -7.2738 54.9783 -7.2738 54.9783 -7.3636 55.0374 -7.3636",
-  "layer_slug_s": "princeton-sb3979946",
   "layer_id_s": "sb3979946",
-  "layer_modified_dt": "2015-01-11T18:25:13Z",
+  "georss_box_s": "54.9783 -7.3636 55.0374 -7.2738",
+  "dc_title_s": "United Kingdom Town plans. Series M 921. Londonderry.",
+  "layer_slug_s": "princeton-sb3979946",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(-7.3636, -7.2738, 55.0374, 54.9783)",
-  "solr_year_i": "1970"
+  "dc_language_s": "English"
 }

@@ -1,12 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/cz30pv40j",
-  "dc_creator_sm": "Great Britain. War Office. General Staff. Geographical Section. G.S.G.S 4480",
   "dc_description_s": "This is a city map of Koblenz, Germany, shown at a 1:7,500 scale. This city map was created by the Great Britain War Office, Geographical Section.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "cz30pv40j",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Great Britain. War Office. General Staff. Geographical Section.",
+  "layer_modified_dt": "2015-01-11T18:25:21Z",
+  "solr_geom": "ENVELOPE(7.5378, 7.6135, 50.4055, 50.3298)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/cz30pv40j\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/cz30pv40j/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/cz30pv40j",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
     "Transportation",
@@ -15,9 +14,14 @@
     "World War II",
     "1939-1945"
   ],
-  "dc_title_s": "Koblenz",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/cz30pv40j\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/cz30pv40j/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1944",
+  "dc_creator_sm": "Great Britain. War Office. General Staff. Geographical Section. G.S.G.S 4480",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "cz30pv40j",
+  "georss_polygon_s": "50.4055 7.5378 50.4055 7.6135 50.3298 7.6135 50.3298 7.5378 50.4055 7.5378",
+  "dc_publisher_s": "Great Britain. War Office. General Staff. Geographical Section.",
+  "solr_year_i": "1944",
   "dct_spatial_sm": [
     "Koblenz",
     "Germany",
@@ -27,14 +31,10 @@
     "Coblenz",
     "Rheinland-Pfalz Land"
   ],
-  "dct_issued_s": "1944",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "50.3298 7.5378 50.4055 7.6135",
-  "georss_polygon_s": "50.4055 7.5378 50.4055 7.6135 50.3298 7.6135 50.3298 7.5378 50.4055 7.5378",
-  "layer_slug_s": "princeton-cz30pv40j",
   "layer_id_s": "cz30pv40j",
-  "layer_modified_dt": "2015-01-11T18:25:21Z",
+  "georss_box_s": "50.3298 7.5378 50.4055 7.6135",
+  "dc_title_s": "Koblenz",
+  "layer_slug_s": "princeton-cz30pv40j",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(7.5378, 7.6135, 50.4055, 50.3298)",
-  "solr_year_i": "1944"
+  "dc_language_s": "English"
 }

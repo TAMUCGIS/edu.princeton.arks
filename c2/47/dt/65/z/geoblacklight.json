@@ -1,12 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/c247dt65z",
-  "dc_creator_sm": "Stadte-Verlag",
   "dc_description_s": "This is a city map of Radolfzell, Germany, shown at a 1:10,000 scale. This city map was created by Stadte-Verlag: E.v. Wagner & J. Mitterhuber.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "c247dt65z",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Stadte-Verlag",
+  "layer_modified_dt": "2015-01-11T18:24:51Z",
+  "solr_geom": "ENVELOPE(8.9071, 9.0609, 47.8136, 47.7210)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/c247dt65z\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/c247dt65z/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/c247dt65z",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
     "Transportation",
@@ -14,9 +13,14 @@
     "Facilities and Structures",
     "City blocks"
   ],
-  "dc_title_s": "Stadtplan Radolfzell",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/c247dt65z\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/c247dt65z/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1961",
+  "dc_creator_sm": "Stadte-Verlag",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "c247dt65z",
+  "georss_polygon_s": "47.8136 8.9071 47.8136 9.0609 47.7210 9.0609 47.7210 8.9071 47.8136 8.9071",
+  "dc_publisher_s": "Stadte-Verlag",
+  "solr_year_i": "1961",
   "dct_spatial_sm": [
     "Radolfzell",
     "Germany",
@@ -24,14 +28,10 @@
     "Federal Republic of Germany",
     "West Germany"
   ],
-  "dct_issued_s": "1961",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "47.7210 8.9071 47.8136 9.0609",
-  "georss_polygon_s": "47.8136 8.9071 47.8136 9.0609 47.7210 9.0609 47.7210 8.9071 47.8136 8.9071",
-  "layer_slug_s": "princeton-c247dt65z",
   "layer_id_s": "c247dt65z",
-  "layer_modified_dt": "2015-01-11T18:24:51Z",
+  "georss_box_s": "47.7210 8.9071 47.8136 9.0609",
+  "dc_title_s": "Stadtplan Radolfzell",
+  "layer_slug_s": "princeton-c247dt65z",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(8.9071, 9.0609, 47.8136, 47.7210)",
-  "solr_year_i": "1961"
+  "dc_language_s": "English"
 }

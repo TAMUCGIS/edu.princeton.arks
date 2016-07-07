@@ -1,34 +1,34 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/pz50gx764",
-  "dc_creator_sm": [
-    "Girolamo Ruscelli"
-  ],
   "dc_description_s": "This is a map of Central Asia, 1562.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "pz50gx764",
-  "dc_language_s": "English",
-  "dc_publisher_s": "apud Vincentium Valgrisium",
+  "layer_modified_dt": "2015-01-11T17:43:21Z",
+  "solr_geom": "ENVELOPE(48.5, 80, 60, 28.5)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fpz%2F50%2Fgx%2F76%2F4%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/pz50gx764/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/pz50gx764/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/pz50gx764",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Elevation",
     "Relief",
     "Historical"
   ],
-  "dc_title_s": "Tabula Asiae VII",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fpz%2F50%2Fgx%2F76%2F4%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/pz50gx764/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/pz50gx764/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1562",
+  "dc_creator_sm": [
+    "Girolamo Ruscelli"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "pz50gx764",
+  "georss_polygon_s": "60 48.5 60 80 28.5 80 28.5 48.5 60 48.5",
+  "dc_publisher_s": "apud Vincentium Valgrisium",
+  "solr_year_i": "1562",
   "dct_spatial_sm": [
     "Central Asia",
     "Asia"
   ],
-  "dct_issued_s": "1562",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "28.5 48.5 60 80",
-  "georss_polygon_s": "60 48.5 60 80 28.5 80 28.5 48.5 60 48.5",
-  "layer_slug_s": "princeton-pz50gx764",
   "layer_id_s": "pz50gx764",
-  "layer_modified_dt": "2015-01-11T17:43:21Z",
+  "georss_box_s": "28.5 48.5 60 80",
+  "dc_title_s": "Tabula Asiae VII",
+  "layer_slug_s": "princeton-pz50gx764",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(48.5, 80, 60, 28.5)",
-  "solr_year_i": "1562"
+  "dc_language_s": "English"
 }

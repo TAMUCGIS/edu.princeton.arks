@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/dj52w645m",
-  "dc_creator_sm": [
-    "United States. Geological Survey"
-  ],
   "dc_description_s": "This is a scanned historical map of the Cranberry Lake Quadrangle in New York shown at a scale of 1:62,500. This map was created by the US Geological Survey.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "dj52w645m",
-  "dc_language_s": "English",
-  "dc_publisher_s": "US Geological Survey",
+  "layer_modified_dt": "2015-01-11T17:43:39Z",
+  "solr_geom": "ENVELOPE(-75, -74.75, 44.25, 44)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fdj%2F52%2Fw6%2F45%2Fm%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/dj52w645m/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/dj52w645m/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/dj52w645m",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "historical maps",
     "Topography",
@@ -16,23 +13,26 @@
     "Boundaries",
     "Administrative and political boundaries"
   ],
-  "dc_title_s": "New York: Cranberry Lake Quadrangle",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fdj%2F52%2Fw6%2F45%2Fm%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/dj52w645m/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/dj52w645m/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1921",
+  "dc_creator_sm": [
+    "United States. Geological Survey"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "dj52w645m",
+  "georss_polygon_s": "44.25 -75 44.25 -74.75 44 -74.75 44 -75 44.25 -75",
+  "dc_publisher_s": "US Geological Survey",
+  "solr_year_i": "1921",
   "dct_spatial_sm": [
     "United States",
     "New York",
     "Cranberry Lake",
     "Adirondack"
   ],
-  "dct_issued_s": "1921",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "44 -75 44.25 -74.75",
-  "georss_polygon_s": "44.25 -75 44.25 -74.75 44 -74.75 44 -75 44.25 -75",
-  "layer_slug_s": "princeton-dj52w645m",
   "layer_id_s": "dj52w645m",
-  "layer_modified_dt": "2015-01-11T17:43:39Z",
+  "georss_box_s": "44 -75 44.25 -74.75",
+  "dc_title_s": "New York: Cranberry Lake Quadrangle",
+  "layer_slug_s": "princeton-dj52w645m",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(-75, -74.75, 44.25, 44)",
-  "solr_year_i": "1921"
+  "dc_language_s": "English"
 }

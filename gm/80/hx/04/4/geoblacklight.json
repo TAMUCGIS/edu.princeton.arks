@@ -1,21 +1,25 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/gm80hx044",
-  "dc_creator_sm": "Bombay City and Suburbs Post-War Development Committee",
   "dc_description_s": "This is a map of the city of Bombay, India, shown at a 1:31,680 or 1 in = 2 mi. scale. The map was created by India's Bombay City and Suburbs Post-War Development Committee.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "gm80hx044",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Bombay City and Suburbs Post-War Development Committee",
+  "layer_modified_dt": "2015-01-11T18:25:16Z",
+  "solr_geom": "ENVELOPE(72.750, 73.1667, 19.3334, 18.58334)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/gm80hx044\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/gm80hx044/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/gm80hx044",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "City plan",
     "Transportation",
     "Planimetric map",
     "planningCadastre"
   ],
-  "dc_title_s": "Bombay post-war development",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/gm80hx044\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/gm80hx044/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1946",
+  "dc_creator_sm": "Bombay City and Suburbs Post-War Development Committee",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "gm80hx044",
+  "georss_polygon_s": "19.3334 72.750 19.3334 73.1667 18.58334 73.1667 18.58334 72.750 19.3334 72.750",
+  "dc_publisher_s": "Bombay City and Suburbs Post-War Development Committee",
+  "solr_year_i": "1946",
   "dct_spatial_sm": [
     "Bombay",
     "Mumbai",
@@ -23,14 +27,10 @@
     "India",
     "MAX  G7654.B8C1.1946.I5 (a)"
   ],
-  "dct_issued_s": "1946",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "18.58334 72.750 19.3334 73.1667",
-  "georss_polygon_s": "19.3334 72.750 19.3334 73.1667 18.58334 73.1667 18.58334 72.750 19.3334 72.750",
-  "layer_slug_s": "princeton-gm80hx044",
   "layer_id_s": "gm80hx044",
-  "layer_modified_dt": "2015-01-11T18:25:16Z",
+  "georss_box_s": "18.58334 72.750 19.3334 73.1667",
+  "dc_title_s": "Bombay post-war development",
+  "layer_slug_s": "princeton-gm80hx044",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(72.750, 73.1667, 19.3334, 18.58334)",
-  "solr_year_i": "1946"
+  "dc_language_s": "English"
 }

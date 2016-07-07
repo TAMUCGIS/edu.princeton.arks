@@ -1,12 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/fx719n91d",
-  "dc_creator_sm": "Instituto Geografico Nacional",
   "dc_description_s": "This is a city map of La Chorrera, Panama shown at a 1:12,500 scale. This city map was created by the Instituto Geografico Nacional.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "fx719n91d",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Instituto Geografico Nacional",
+  "layer_modified_dt": "2015-01-11T18:24:39Z",
+  "solr_geom": "ENVELOPE(-79.8301, -79.7230, 8.9188, 8.8296)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/fx719n91d\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/fx719n91d/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/fx719n91d",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
     "Transportation",
@@ -15,23 +14,24 @@
     "City blocks",
     "Topography"
   ],
-  "dc_title_s": "Mapa especial 1:12,500. La Chorrera",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/fx719n91d\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/fx719n91d/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1985",
+  "dc_creator_sm": "Instituto Geografico Nacional",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "fx719n91d",
+  "georss_polygon_s": "8.9188 -79.8301 8.9188 -79.7230 8.8296 -79.7230 8.8296 -79.8301 8.9188 -79.8301",
+  "dc_publisher_s": "Instituto Geografico Nacional",
+  "solr_year_i": "1985",
   "dct_spatial_sm": [
     "La Correra",
     "Panama",
     "Provincia de Panama",
     "Panama Province"
   ],
-  "dct_issued_s": "1985",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "8.8296 -79.8301 8.9188 -79.7230",
-  "georss_polygon_s": "8.9188 -79.8301 8.9188 -79.7230 8.8296 -79.7230 8.8296 -79.8301 8.9188 -79.8301",
-  "layer_slug_s": "princeton-fx719n91d",
   "layer_id_s": "fx719n91d",
-  "layer_modified_dt": "2015-01-11T18:24:39Z",
+  "georss_box_s": "8.8296 -79.8301 8.9188 -79.7230",
+  "dc_title_s": "Mapa especial 1:12,500. La Chorrera",
+  "layer_slug_s": "princeton-fx719n91d",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(-79.8301, -79.7230, 8.9188, 8.8296)",
-  "solr_year_i": "1985"
+  "dc_language_s": "English"
 }

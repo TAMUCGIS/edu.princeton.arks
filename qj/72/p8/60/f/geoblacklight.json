@@ -1,35 +1,35 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/qj72p860f",
-  "dc_creator_sm": [
-    "Central Intelligence Agency"
-  ],
   "dc_description_s": "This is a map of Afganistan Districts. The map was created by the Central Intelligence Agency.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "qj72p860f",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Central Intelligence Agency",
+  "layer_modified_dt": "2015-01-11T17:42:39Z",
+  "solr_geom": "ENVELOPE(62, 74, 38, 30)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fqj%2F72%2Fp8%2F60%2Ff%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/qj72p860f/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/qj72p860f/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/qj72p860f",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
     "Railroads",
     "Transportation",
     "Administrative and Political Boundaries"
   ],
-  "dc_title_s": "Afghanistan districts, 2003",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fqj%2F72%2Fp8%2F60%2Ff%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/qj72p860f/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/qj72p860f/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "November 2003",
+  "dc_creator_sm": [
+    "Central Intelligence Agency"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "qj72p860f",
+  "georss_polygon_s": "38 62 38 74 30 74 30 62 38 62",
+  "dc_publisher_s": "Central Intelligence Agency",
   "dct_spatial_sm": [
     "Afganistan",
     "Central Asia",
     "Asia"
   ],
-  "dct_issued_s": "November 2003",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "30 62 38 74",
-  "georss_polygon_s": "38 62 38 74 30 74 30 62 38 62",
-  "layer_slug_s": "princeton-qj72p860f",
   "layer_id_s": "qj72p860f",
-  "layer_modified_dt": "2015-01-11T17:42:39Z",
+  "georss_box_s": "30 62 38 74",
+  "dc_title_s": "Afghanistan districts, 2003",
+  "layer_slug_s": "princeton-qj72p860f",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(62, 74, 38, 30)"
+  "dc_language_s": "English"
 }

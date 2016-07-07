@@ -1,12 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/mc87pr78g",
-  "dc_creator_sm": "Dewag-Werbung",
   "dc_description_s": "This is a city map of Gotha, Germany, shown at a 1:10,000 scale. This city map was created by Dewag-Werbung.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "mc87pr78g",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Dewag-Werbung",
+  "layer_modified_dt": "2015-01-11T18:24:49Z",
+  "solr_geom": "ENVELOPE(10.6220, 10.7813, 50.9904, 50.8928)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/mc87pr78g\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/mc87pr78g/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/mc87pr78g",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
     "Transportation",
@@ -15,9 +14,14 @@
     "City blocks",
     "Tourism"
   ],
-  "dc_title_s": "Gotha",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/mc87pr78g\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/mc87pr78g/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1960",
+  "dc_creator_sm": "Dewag-Werbung",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "mc87pr78g",
+  "georss_polygon_s": "50.9904 10.6220 50.9904 10.7813 50.8928 10.7813 50.8928 10.6220 50.9904 10.6220",
+  "dc_publisher_s": "Dewag-Werbung",
+  "solr_year_i": "1960",
   "dct_spatial_sm": [
     "Gotha",
     "Germany",
@@ -27,14 +31,10 @@
     "Federal Republic of Germany",
     "Thueringen Freistaat"
   ],
-  "dct_issued_s": "1960",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "50.8928 10.6220 50.9904 10.7813",
-  "georss_polygon_s": "50.9904 10.6220 50.9904 10.7813 50.8928 10.7813 50.8928 10.6220 50.9904 10.6220",
-  "layer_slug_s": "princeton-mc87pr78g",
   "layer_id_s": "mc87pr78g",
-  "layer_modified_dt": "2015-01-11T18:24:49Z",
+  "georss_box_s": "50.8928 10.6220 50.9904 10.7813",
+  "dc_title_s": "Gotha",
+  "layer_slug_s": "princeton-mc87pr78g",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(10.6220, 10.7813, 50.9904, 50.8928)",
-  "solr_year_i": "1960"
+  "dc_language_s": "English"
 }

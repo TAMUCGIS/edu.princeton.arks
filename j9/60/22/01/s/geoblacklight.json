@@ -1,31 +1,31 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/j9602201s",
-  "dc_creator_sm": [
-    "Central Intelligence Agency"
-  ],
   "dc_description_s": "This is a map of Southeast Asia with relief, shown at a 1:32,000,000 scale. The map was created by the Central Intelligence Agency.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "j9602201s",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Central Intelligence Agency",
+  "layer_modified_dt": "2015-01-11T17:42:18Z",
+  "solr_geom": "ENVELOPE(95, 140, 30, -20)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fj9%2F60%2F22%2F01%2Fs%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/j9602201s/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/j9602201s/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/j9602201s",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Administrative and Political Boundaries"
   ],
-  "dc_title_s": "Southeast Asia, 2001 (with relief)",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fj9%2F60%2F22%2F01%2Fs%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/j9602201s/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/j9602201s/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "April 2001",
+  "dc_creator_sm": [
+    "Central Intelligence Agency"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "j9602201s",
+  "georss_polygon_s": "30 95 30 140 -20 140 -20 95 30 95",
+  "dc_publisher_s": "Central Intelligence Agency",
   "dct_spatial_sm": [
     "Southeast Asia",
     "Asia"
   ],
-  "dct_issued_s": "April 2001",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "-20 95 30 140",
-  "georss_polygon_s": "30 95 30 140 -20 140 -20 95 30 95",
-  "layer_slug_s": "princeton-j9602201s",
   "layer_id_s": "j9602201s",
-  "layer_modified_dt": "2015-01-11T17:42:18Z",
+  "georss_box_s": "-20 95 30 140",
+  "dc_title_s": "Southeast Asia, 2001 (with relief)",
+  "layer_slug_s": "princeton-j9602201s",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(95, 140, 30, -20)"
+  "dc_language_s": "English"
 }

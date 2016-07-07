@@ -1,35 +1,35 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/qv33rz119",
-  "dc_creator_sm": [
-    "Unknown"
-  ],
   "dc_description_s": "This is a scanned map of Tunis, Tunisia from the Historical Map Collection of Princeton University's Rare Books department.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "qv33rz119",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Uknown",
+  "layer_modified_dt": "2015-01-11T17:42:39Z",
+  "solr_geom": "ENVELOPE(10.113, 10.347, 36.874, 36.757)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fqv%2F33%2Frz%2F11%2F9%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/qv33rz119/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/qv33rz119/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/qv33rz119",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Historical Maps",
     "Boundaries",
     "Illustrated Maps",
     "Ancient Maps"
   ],
-  "dc_title_s": "Pianta del forto novo de Tunisi ",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fqv%2F33%2Frz%2F11%2F9%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/qv33rz119/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/qv33rz119/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "ca.1575",
+  "dc_creator_sm": [
+    "Unknown"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "qv33rz119",
+  "georss_polygon_s": "36.874 10.113 36.874 10.347 36.757 10.347 36.757 10.113 36.874 10.113",
+  "dc_publisher_s": "Uknown",
   "dct_spatial_sm": [
     "Africa",
     "Tunis",
     "Tunisia"
   ],
-  "dct_issued_s": "ca.1575",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "36.757 10.113 36.874 10.347",
-  "georss_polygon_s": "36.874 10.113 36.874 10.347 36.757 10.347 36.757 10.113 36.874 10.113",
-  "layer_slug_s": "princeton-qv33rz119",
   "layer_id_s": "qv33rz119",
-  "layer_modified_dt": "2015-01-11T17:42:39Z",
+  "georss_box_s": "36.757 10.113 36.874 10.347",
+  "dc_title_s": "Pianta del forto novo de Tunisi ",
+  "layer_slug_s": "princeton-qv33rz119",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(10.113, 10.347, 36.874, 36.757)"
+  "dc_language_s": "English"
 }

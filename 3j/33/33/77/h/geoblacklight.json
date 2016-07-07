@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/3j333377h",
-  "dc_creator_sm": [
-    "Army Map Service"
-  ],
   "dc_description_s": "This is a map of the city of Iriga in the Philippines, shown at a 1:10,560 scale. The map was created for use by War and Navy Department agencies during World War II.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "3j333377h",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Army Map Service",
+  "layer_modified_dt": "2015-01-11T17:42:50Z",
+  "solr_geom": "ENVELOPE(123.400, 123.4167, 13.4167, 13.400)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F3j%2F33%2F33%2F77%2Fh%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/3j333377h/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/3j333377h/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/3j333377h",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
     "Railroads",
@@ -19,21 +16,24 @@
     "Military",
     "Facilities and Structures"
   ],
-  "dc_title_s": "Iriga, Philippine Islands, Camarines Sur Province. A.M.S. S901.",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F3j%2F33%2F33%2F77%2Fh%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/3j333377h/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/3j333377h/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1944",
+  "dc_creator_sm": [
+    "Army Map Service"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "3j333377h",
+  "georss_polygon_s": "13.4167 123.400 13.4167 123.4167 13.400 123.4167 13.400 123.400 13.4167 123.400",
+  "dc_publisher_s": "Army Map Service",
+  "solr_year_i": "1944",
   "dct_spatial_sm": [
     "Iriga",
     "Philippines"
   ],
-  "dct_issued_s": "1944",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "13.400 123.400 13.4167 123.4167",
-  "georss_polygon_s": "13.4167 123.400 13.4167 123.4167 13.400 123.4167 13.400 123.400 13.4167 123.400",
-  "layer_slug_s": "princeton-3j333377h",
   "layer_id_s": "3j333377h",
-  "layer_modified_dt": "2015-01-11T17:42:50Z",
+  "georss_box_s": "13.400 123.400 13.4167 123.4167",
+  "dc_title_s": "Iriga, Philippine Islands, Camarines Sur Province. A.M.S. S901.",
+  "layer_slug_s": "princeton-3j333377h",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(123.400, 123.4167, 13.4167, 13.400)",
-  "solr_year_i": "1944"
+  "dc_language_s": "English"
 }

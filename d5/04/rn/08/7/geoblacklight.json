@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/d504rn087",
-  "dc_creator_sm": [
-    "United States Geological Survey"
-  ],
   "dc_description_s": "A scanned USGS 1:62500 topographic map.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "d504rn087",
-  "dc_language_s": "English",
-  "dc_publisher_s": "United States Geological Survey",
+  "layer_modified_dt": "2015-01-11T17:43:39Z",
+  "solr_geom": "ENVELOPE(-74.5, -74.25, 41.25, 41.0)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fd5%2F04%2Frn%2F08%2F7%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/d504rn087/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/d504rn087/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/d504rn087",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Topographic map",
     "Contour line",
@@ -17,9 +14,16 @@
     "Geoscientific Information",
     "15 Minute Quadrangle Map"
   ],
-  "dc_title_s": "New Jersey, Greenwood Lake Sheet (1913)",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fd5%2F04%2Frn%2F08%2F7%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/d504rn087/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/d504rn087/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1913",
+  "dc_creator_sm": [
+    "United States Geological Survey"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "d504rn087",
+  "georss_polygon_s": "41.25 -74.5 41.25 -74.25 41.0 -74.25 41.0 -74.5 41.25 -74.5",
+  "dc_publisher_s": "United States Geological Survey",
+  "solr_year_i": "1913",
   "dct_spatial_sm": [
     "New Jersey",
     "Vernon",
@@ -30,14 +34,10 @@
     "Sussex County",
     "Orange County, NY"
   ],
-  "dct_issued_s": "1913",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "41.0 -74.5 41.25 -74.25",
-  "georss_polygon_s": "41.25 -74.5 41.25 -74.25 41.0 -74.25 41.0 -74.5 41.25 -74.5",
-  "layer_slug_s": "princeton-d504rn087",
   "layer_id_s": "d504rn087",
-  "layer_modified_dt": "2015-01-11T17:43:39Z",
+  "georss_box_s": "41.0 -74.5 41.25 -74.25",
+  "dc_title_s": "New Jersey, Greenwood Lake Sheet (1913)",
+  "layer_slug_s": "princeton-d504rn087",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(-74.5, -74.25, 41.25, 41.0)",
-  "solr_year_i": "1913"
+  "dc_language_s": "English"
 }

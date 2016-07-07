@@ -1,12 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/cj82k881k",
-  "dc_creator_sm": "TT Maps & Publications Ltd.",
   "dc_description_s": "This is a map of the city of Allahabad, India, shown at a 1:21,000 scale. The map was created by TT Maps & Publications Ltd.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "cj82k881k",
-  "dc_language_s": "English",
-  "dc_publisher_s": "TT Maps & Publications Ltd. (Formely Tamiland Printers and Traders (P) Ltd.)",
+  "layer_modified_dt": "2015-01-11T18:24:46Z",
+  "solr_geom": "ENVELOPE(81.81667, 81.88334, 25.500, 25.400)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/cj82k881k\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/cj82k881k/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/cj82k881k",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
     "Railroads",
@@ -14,23 +13,24 @@
     "City map",
     "structure"
   ],
-  "dc_title_s": "Allahabad",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/cj82k881k\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/cj82k881k/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1989",
+  "dc_creator_sm": "TT Maps & Publications Ltd.",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "cj82k881k",
+  "georss_polygon_s": "25.500 81.81667 25.500 81.88334 25.400 81.88334 25.400 81.81667 25.500 81.81667",
+  "dc_publisher_s": "TT Maps & Publications Ltd. (Formely Tamiland Printers and Traders (P) Ltd.)",
+  "solr_year_i": "1989",
   "dct_spatial_sm": [
     "Allahabad",
     "Uttar Pradesh",
     "India",
     "MAX  G7654.A6.1989.T7"
   ],
-  "dct_issued_s": "1989",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "25.400 81.81667 25.500 81.88334",
-  "georss_polygon_s": "25.500 81.81667 25.500 81.88334 25.400 81.88334 25.400 81.81667 25.500 81.81667",
-  "layer_slug_s": "princeton-cj82k881k",
   "layer_id_s": "cj82k881k",
-  "layer_modified_dt": "2015-01-11T18:24:46Z",
+  "georss_box_s": "25.400 81.81667 25.500 81.88334",
+  "dc_title_s": "Allahabad",
+  "layer_slug_s": "princeton-cj82k881k",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(81.81667, 81.88334, 25.500, 25.400)",
-  "solr_year_i": "1989"
+  "dc_language_s": "English"
 }

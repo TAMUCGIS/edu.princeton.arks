@@ -1,12 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/2514nm92q",
-  "dc_creator_sm": "Stadte-Verlag",
   "dc_description_s": "This is a city map of Geretsried, Germany, shown at a 1:12,500 scale. This city map was created by Stadte-Verlag: E.v. Wagner & J. Mitterhuber.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "2514nm92q",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Stadte-Verlag",
+  "layer_modified_dt": "2015-01-11T18:24:35Z",
+  "solr_geom": "ENVELOPE(11.4540, 11.5163, 47.8914, 47.8419)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/2514nm92q\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/2514nm92q/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/2514nm92q",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
     "Transportation",
@@ -14,9 +13,14 @@
     "Facilities and Structures",
     "City blocks"
   ],
-  "dc_title_s": "Ortsplan Geretsreid",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/2514nm92q\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/2514nm92q/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1968",
+  "dc_creator_sm": "Stadte-Verlag",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "2514nm92q",
+  "georss_polygon_s": "47.8914 11.4540 47.8914 11.5163 47.8419 11.5163 47.8419 11.4540 47.8914 11.4540",
+  "dc_publisher_s": "Stadte-Verlag",
+  "solr_year_i": "1968",
   "dct_spatial_sm": [
     "Geretsried",
     "Germany",
@@ -25,14 +29,10 @@
     "Bayern",
     "Bavaria"
   ],
-  "dct_issued_s": "1968",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "47.8419 11.4540 47.8914 11.5163",
-  "georss_polygon_s": "47.8914 11.4540 47.8914 11.5163 47.8419 11.5163 47.8419 11.4540 47.8914 11.4540",
-  "layer_slug_s": "princeton-2514nm92q",
   "layer_id_s": "2514nm92q",
-  "layer_modified_dt": "2015-01-11T18:24:35Z",
+  "georss_box_s": "47.8419 11.4540 47.8914 11.5163",
+  "dc_title_s": "Ortsplan Geretsreid",
+  "layer_slug_s": "princeton-2514nm92q",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(11.4540, 11.5163, 47.8914, 47.8419)",
-  "solr_year_i": "1968"
+  "dc_language_s": "English"
 }

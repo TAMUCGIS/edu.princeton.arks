@@ -1,12 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/73666619h",
-  "dc_creator_sm": "Aberdeen Corporation Publicity Department",
   "dc_description_s": "This is a city map of Aberdeen, Scotland, shown at an unknown scale. This city map was created by the Aberdeen Corporation Publicity Department.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "73666619h",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Aberdeen Corporation Publicity Department",
+  "layer_modified_dt": "2015-01-11T18:25:11Z",
+  "solr_geom": "ENVELOPE(-2.3594, -2.0482, 57.2351, 57.0757)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/73666619h\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/73666619h/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/73666619h",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
     "Transportation",
@@ -15,22 +14,23 @@
     "City blocks",
     "Tourist maps"
   ],
-  "dc_title_s": "Street plan of the royal burgh of Aberdeen",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/73666619h\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/73666619h/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1973",
+  "dc_creator_sm": "Aberdeen Corporation Publicity Department",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "73666619h",
+  "georss_polygon_s": "57.2351 -2.3594 57.2351 -2.0482 57.0757 -2.0482 57.0757 -2.3594 57.2351 -2.3594",
+  "dc_publisher_s": "Aberdeen Corporation Publicity Department",
+  "solr_year_i": "1973",
   "dct_spatial_sm": [
     "Aberdeen",
     "Scotland",
     "City of Aberdeen"
   ],
-  "dct_issued_s": "1973",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "57.0757 -2.3594 57.2351 -2.0482",
-  "georss_polygon_s": "57.2351 -2.3594 57.2351 -2.0482 57.0757 -2.0482 57.0757 -2.3594 57.2351 -2.3594",
-  "layer_slug_s": "princeton-73666619h",
   "layer_id_s": "73666619h",
-  "layer_modified_dt": "2015-01-11T18:25:11Z",
+  "georss_box_s": "57.0757 -2.3594 57.2351 -2.0482",
+  "dc_title_s": "Street plan of the royal burgh of Aberdeen",
+  "layer_slug_s": "princeton-73666619h",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(-2.3594, -2.0482, 57.2351, 57.0757)",
-  "solr_year_i": "1973"
+  "dc_language_s": "English"
 }

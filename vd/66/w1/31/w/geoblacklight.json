@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/vd66w131w",
-  "dc_creator_sm": [
-    "United States Geological Survey"
-  ],
   "dc_description_s": "A scanned USGS 1:62500 topographic map.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "vd66w131w",
-  "dc_language_s": "English",
-  "dc_publisher_s": "United States Geological Survey",
+  "layer_modified_dt": "2015-01-11T17:42:27Z",
+  "solr_geom": "ENVELOPE(-74.25, -74.0, 40.0, 39.75)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fvd%2F66%2Fw1%2F31%2Fw%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/vd66w131w/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/vd66w131w/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/vd66w131w",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Topographic map",
     "Contour line",
@@ -17,9 +14,16 @@
     "Geoscientific Information",
     "15 Minute Quadrangle Map"
   ],
-  "dc_title_s": "New Jersey, Barnegat Sheet (1908)",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fvd%2F66%2Fw1%2F31%2Fw%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/vd66w131w/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/vd66w131w/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1908",
+  "dc_creator_sm": [
+    "United States Geological Survey"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "vd66w131w",
+  "georss_polygon_s": "40.0 -74.25 40.0 -74.0 39.75 -74.0 39.75 -74.25 40.0 -74.25",
+  "dc_publisher_s": "United States Geological Survey",
+  "solr_year_i": "1908",
   "dct_spatial_sm": [
     "Barnegat",
     "Ocean County",
@@ -28,14 +32,10 @@
     "Flemmington",
     "New Jersey"
   ],
-  "dct_issued_s": "1908",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "39.75 -74.25 40.0 -74.0",
-  "georss_polygon_s": "40.0 -74.25 40.0 -74.0 39.75 -74.0 39.75 -74.25 40.0 -74.25",
-  "layer_slug_s": "princeton-vd66w131w",
   "layer_id_s": "vd66w131w",
-  "layer_modified_dt": "2015-01-11T17:42:27Z",
+  "georss_box_s": "39.75 -74.25 40.0 -74.0",
+  "dc_title_s": "New Jersey, Barnegat Sheet (1908)",
+  "layer_slug_s": "princeton-vd66w131w",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(-74.25, -74.0, 40.0, 39.75)",
-  "solr_year_i": "1908"
+  "dc_language_s": "English"
 }

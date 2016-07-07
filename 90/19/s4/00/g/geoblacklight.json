@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/9019s400g",
-  "dc_creator_sm": [
-    "Generalstab des Heeres"
-  ],
   "dc_description_s": "This is a map of the city of Manchester, England, shown at a 1:10,000. The map was created for use by German War and Navy Department agencies during World War II.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "9019s400g",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Germany. Generalstab des Heeres, Abteilung fuer Kriegskarten- und Vermessungswesen",
+  "layer_modified_dt": "2015-01-11T17:42:53Z",
+  "solr_geom": "ENVELOPE(-2.1633, -2.0888, 53.4222, 53.3944)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F90%2F19%2Fs4%2F00%2Fg%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/9019s400g/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/9019s400g/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/9019s400g",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
     "Railroads",
@@ -19,21 +16,24 @@
     "Military",
     "Facilities and Structures"
   ],
-  "dc_title_s": "England 1:10 000,Manchester, BB 12s. (1942)",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F90%2F19%2Fs4%2F00%2Fg%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/9019s400g/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/9019s400g/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1942",
+  "dc_creator_sm": [
+    "Generalstab des Heeres"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "9019s400g",
+  "georss_polygon_s": "53.4222 -2.1633 53.4222 -2.0888 53.3944 -2.0888 53.3944 -2.1633 53.4222 -2.1633",
+  "dc_publisher_s": "Germany. Generalstab des Heeres, Abteilung fuer Kriegskarten- und Vermessungswesen",
+  "solr_year_i": "1942",
   "dct_spatial_sm": [
     "England",
     "Manchester"
   ],
-  "dct_issued_s": "1942",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "53.3944 -2.1633 53.4222 -2.0888",
-  "georss_polygon_s": "53.4222 -2.1633 53.4222 -2.0888 53.3944 -2.0888 53.3944 -2.1633 53.4222 -2.1633",
-  "layer_slug_s": "princeton-9019s400g",
   "layer_id_s": "9019s400g",
-  "layer_modified_dt": "2015-01-11T17:42:53Z",
+  "georss_box_s": "53.3944 -2.1633 53.4222 -2.0888",
+  "dc_title_s": "England 1:10 000,Manchester, BB 12s. (1942)",
+  "layer_slug_s": "princeton-9019s400g",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(-2.1633, -2.0888, 53.4222, 53.3944)",
-  "solr_year_i": "1942"
+  "dc_language_s": "English"
 }

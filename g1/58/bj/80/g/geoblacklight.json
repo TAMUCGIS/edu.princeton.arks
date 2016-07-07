@@ -1,12 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/g158bj80g",
-  "dc_creator_sm": "Colonel Commandant E. A. Tandy, R.E.",
   "dc_description_s": "This is a map of the city of Allahabad, India, shown at a 1:15,840. The map was created by the government-sponsored Survey of India.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "g158bj80g",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Survey of India",
+  "layer_modified_dt": "2015-01-11T18:24:45Z",
+  "solr_geom": "ENVELOPE(81.800, 81.88334, 25.500, 25.41667)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/g158bj80g\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/g158bj80g/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/g158bj80g",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
     "City plan",
@@ -14,23 +13,24 @@
     "Planimetric map",
     "structure"
   ],
-  "dc_title_s": "Allahabad guide map",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/g158bj80g\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/g158bj80g/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1936",
+  "dc_creator_sm": "Colonel Commandant E. A. Tandy, R.E.",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "g158bj80g",
+  "georss_polygon_s": "25.500 81.800 25.500 81.88334 25.41667 81.88334 25.41667 81.800 25.500 81.800",
+  "dc_publisher_s": "Survey of India",
+  "solr_year_i": "1936",
   "dct_spatial_sm": [
     "Allahabad",
     "Uttar Pradesh",
     "India",
     "MAX  G7654.A6.1936.S9I5"
   ],
-  "dct_issued_s": "1936",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "25.41667 81.800 25.500 81.88334",
-  "georss_polygon_s": "25.500 81.800 25.500 81.88334 25.41667 81.88334 25.41667 81.800 25.500 81.800",
-  "layer_slug_s": "princeton-g158bj80g",
   "layer_id_s": "g158bj80g",
-  "layer_modified_dt": "2015-01-11T18:24:45Z",
+  "georss_box_s": "25.41667 81.800 25.500 81.88334",
+  "dc_title_s": "Allahabad guide map",
+  "layer_slug_s": "princeton-g158bj80g",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(81.800, 81.88334, 25.500, 25.41667)",
-  "solr_year_i": "1936"
+  "dc_language_s": "English"
 }

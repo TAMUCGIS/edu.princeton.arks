@@ -1,13 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/r207tr01g",
-  "dc_creator_sm": [
-    "United States Geological Survey"
-  ],
   "dc_description_s": "A scanned USGS 1:250,000 topographic map.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "r207tr01g",
-  "dc_language_s": "English",
+  "layer_modified_dt": "2015-01-11T17:43:27Z",
+  "solr_geom": "ENVELOPE(-122.3500, -121.0000, 40.2500, 38.0000)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fr2%2F07%2Ftr%2F01%2Fg%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/r207tr01g/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/r207tr01g/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/r207tr01g",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Topographic map",
     "Contour line",
@@ -15,22 +13,24 @@
     "Roads",
     "Geoscientific Information"
   ],
-  "dc_title_s": "Topographic map of the Sacramento Valley, California.",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fr2%2F07%2Ftr%2F01%2Fg%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/r207tr01g/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/r207tr01g/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1911",
+  "dc_creator_sm": [
+    "United States Geological Survey"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "r207tr01g",
+  "georss_polygon_s": "40.2500 -122.3500 40.2500 -121.0000 38.0000 -121.0000 38.0000 -122.3500 40.2500 -122.3500",
+  "solr_year_i": "1911",
   "dct_spatial_sm": [
     "Sacramento Valley",
     "California",
     "United States"
   ],
-  "dct_issued_s": "1911",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "38.0000 -122.3500 40.2500 -121.0000",
-  "georss_polygon_s": "40.2500 -122.3500 40.2500 -121.0000 38.0000 -121.0000 38.0000 -122.3500 40.2500 -122.3500",
-  "layer_slug_s": "princeton-r207tr01g",
   "layer_id_s": "r207tr01g",
-  "layer_modified_dt": "2015-01-11T17:43:27Z",
+  "georss_box_s": "38.0000 -122.3500 40.2500 -121.0000",
+  "dc_title_s": "Topographic map of the Sacramento Valley, California.",
+  "layer_slug_s": "princeton-r207tr01g",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(-122.3500, -121.0000, 40.2500, 38.0000)",
-  "solr_year_i": "1911"
+  "dc_language_s": "English"
 }

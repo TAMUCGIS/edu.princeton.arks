@@ -1,12 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/4f16c454f",
-  "dc_creator_sm": "United States Office of Strategic Services, Research and Analysis Branch",
   "dc_description_s": "This is a city map of the Port of Split, Croatia (former Yugoslavia) shown at a ca. 1:5,500 scale. This city map was created by the United States Office of Strategic Services, Research and Analysis Branch.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "4f16c454f",
-  "dc_language_s": "English",
-  "dc_publisher_s": "United States Office of Strategic Services, Research and Analysis Branch",
+  "layer_modified_dt": "2015-01-11T18:25:16Z",
+  "solr_geom": "ENVELOPE(16.3875, 16.5102, 43.5352, 43.4987)",
+  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/4f16c454f\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/4f16c454f/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
+  "uuid": "http://arks.princeton.edu/ark:/88435/4f16c454f",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
     "Transportation",
@@ -17,9 +16,14 @@
     "World War II",
     "1939-1945"
   ],
-  "dc_title_s": "Port of Split",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/4f16c454f\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/4f16c454f/fgdc.xml\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1944",
+  "dc_creator_sm": "United States Office of Strategic Services, Research and Analysis Branch",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "4f16c454f",
+  "georss_polygon_s": "43.5352 16.3875 43.5352 16.5102 43.4987 16.5102 43.4987 16.3875 43.5352 16.3875",
+  "dc_publisher_s": "United States Office of Strategic Services, Research and Analysis Branch",
+  "solr_year_i": "1944",
   "dct_spatial_sm": [
     "Port of Split",
     "Croatia",
@@ -27,14 +31,10 @@
     "Split",
     "Spalato"
   ],
-  "dct_issued_s": "1944",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "43.4987 16.3875 43.5352 16.5102",
-  "georss_polygon_s": "43.5352 16.3875 43.5352 16.5102 43.4987 16.5102 43.4987 16.3875 43.5352 16.3875",
-  "layer_slug_s": "princeton-4f16c454f",
   "layer_id_s": "4f16c454f",
-  "layer_modified_dt": "2015-01-11T18:25:16Z",
+  "georss_box_s": "43.4987 16.3875 43.5352 16.5102",
+  "dc_title_s": "Port of Split",
+  "layer_slug_s": "princeton-4f16c454f",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(16.3875, 16.5102, 43.5352, 43.4987)",
-  "solr_year_i": "1944"
+  "dc_language_s": "English"
 }

@@ -1,14 +1,11 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/wm117q54x",
-  "dc_creator_sm": [
-    "United States Geological Survey"
-  ],
   "dc_description_s": "A scanned USGS 1:24,000 topographic map.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "wm117q54x",
-  "dc_language_s": "English",
-  "dc_publisher_s": "United States Geological Survey",
+  "layer_modified_dt": "2015-01-11T17:42:58Z",
+  "solr_geom": "ENVELOPE(-74.8750, -74.750, 40.8750, 40.75)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fwm%2F11%2F7q%2F54%2Fx%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/wm117q54x/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/wm117q54x/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/wm117q54x",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Topographic map",
     "Contour line",
@@ -16,9 +13,16 @@
     "Roads",
     "Geoscientific Information"
   ],
-  "dc_title_s": "Hackettstown Quadrangle, New Jersey, 7.5 minute series (topographic) ",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fwm%2F11%2F7q%2F54%2Fx%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/wm117q54x/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/wm117q54x/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "1953",
+  "dc_creator_sm": [
+    "United States Geological Survey"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "wm117q54x",
+  "georss_polygon_s": "40.8750 -74.8750 40.8750 -74.750 40.75 -74.750 40.75 -74.8750 40.8750 -74.8750",
+  "dc_publisher_s": "United States Geological Survey",
+  "solr_year_i": "1953",
   "dct_spatial_sm": [
     "Hackettstown ",
     "Lebanon",
@@ -28,14 +32,10 @@
     "Independence",
     "New Jersey"
   ],
-  "dct_issued_s": "1953",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "40.75 -74.8750 40.8750 -74.750",
-  "georss_polygon_s": "40.8750 -74.8750 40.8750 -74.750 40.75 -74.750 40.75 -74.8750 40.8750 -74.8750",
-  "layer_slug_s": "princeton-wm117q54x",
   "layer_id_s": "wm117q54x",
-  "layer_modified_dt": "2015-01-11T17:42:58Z",
+  "georss_box_s": "40.75 -74.8750 40.8750 -74.750",
+  "dc_title_s": "Hackettstown Quadrangle, New Jersey, 7.5 minute series (topographic) ",
+  "layer_slug_s": "princeton-wm117q54x",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(-74.8750, -74.750, 40.8750, 40.75)",
-  "solr_year_i": "1953"
+  "dc_language_s": "English"
 }

@@ -1,31 +1,31 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/wm117q759",
-  "dc_creator_sm": [
-    "Central Intelligence Agency"
-  ],
   "dc_description_s": "This is an azimuthal equal projection map of the Arctic region, shown at a 1:39,000,000 scale. The map was created by the Central Intelligence Agency.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "wm117q759",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Central Intelligence Agency",
+  "layer_modified_dt": "2015-01-11T17:43:39Z",
+  "solr_geom": "ENVELOPE(180, 0, 90, 50)",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fwm%2F11%2F7q%2F75%2F9%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/wm117q759/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/wm117q759/preview.jpg\"}",
   "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/wm117q759",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Administrative and Political Boundaries"
   ],
-  "dc_title_s": "Arctic region, 2001",
-  "dc_type_s": "Dataset",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fwm%2F11%2F7q%2F75%2F9%2F00000001.jp2%2Finfo.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/wm117q759/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/wm117q759/preview.jpg\"}",
+  "dc_format_s": "Scanned Map",
+  "dct_issued_s": "April 2001",
+  "dc_creator_sm": [
+    "Central Intelligence Agency"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "wm117q759",
+  "georss_polygon_s": "90 180 90 0 50 0 50 180 90 180",
+  "dc_publisher_s": "Central Intelligence Agency",
   "dct_spatial_sm": [
     "Arctic region",
     "Arctic"
   ],
-  "dct_issued_s": "April 2001",
-  "dct_provenance_s": "Princeton",
-  "georss_box_s": "50 180 90 0",
-  "georss_polygon_s": "90 180 90 0 50 0 50 180 90 180",
-  "layer_slug_s": "princeton-wm117q759",
   "layer_id_s": "wm117q759",
-  "layer_modified_dt": "2015-01-11T17:43:39Z",
+  "georss_box_s": "50 180 90 0",
+  "dc_title_s": "Arctic region, 2001",
+  "layer_slug_s": "princeton-wm117q759",
   "layer_geom_type_s": "Image",
-  "solr_geom": "ENVELOPE(180, 0, 90, 50)"
+  "dc_language_s": "English"
 }
