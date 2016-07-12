@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1673",
   "uuid": "http://arks.princeton.edu/ark:/88435/05741t54x",
+  "dc_description_s": "Novissima et accuratissima totius Americ\u00e6 descriptio",
+  "georss_box_s": "18.9110642 172.4458955 71.389888 -66.9453947",
+  "layer_modified_dt": "2015-01-21T22:23:44Z",
   "dc_creator_sm": [
     "Meurs, Jacob van,"
   ],
-  "dc_description_s": "Novissima et accuratissima totius Americæ descriptio",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "05741t54x",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/05741t54x/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F05%2F74%2F1t%2F54%2Fx%2F00000001.jp2/info.json\"}",
   "layer_id_s": "05741t54x",
-  "layer_slug_s": "princeton-05741t54x",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:44Z",
-  "dc_title_s": "Novissima et accuratissima totius Americæ descriptio",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "America"
-  ],
+  "dc_identifier_s": "05741t54x",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Novissima et accuratissima totius Americ\u00e6 descriptio",
+  "layer_slug_s": "princeton-05741t54x",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/05741t54x/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/05/74/1t/54/x/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "71.389888 172.4458955 71.389888 -66.9453947 18.9110642 -66.9453947 18.9110642 172.4458955 71.389888 172.4458955",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1673"
   ],
-  "georss_box_s": "18.9110642 172.4458955 71.389888 -66.9453947",
-  "georss_polygon_s": "71.389888 172.4458955 71.389888 -66.9453947 18.9110642 -66.9453947 18.9110642 172.4458955 71.389888 172.4458955",
   "solr_geom": "ENVELOPE(172.4458955, -66.9453947, 71.389888, 18.9110642)",
-  "solr_year_i": "1673"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "America"
+  ]
 }

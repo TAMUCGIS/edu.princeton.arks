@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1874",
   "uuid": "http://arks.princeton.edu/ark:/88435/6d5700083",
+  "dc_description_s": "Jerusalem ancient & modern",
+  "georss_box_s": "31.7087672 35.0854203 31.8826765 35.2630682",
+  "layer_modified_dt": "2015-01-21T22:24:12Z",
   "dc_creator_sm": [
     "Smith, William,"
   ],
-  "dc_description_s": "Jerusalem ancient & modern",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "6d5700083",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/6d5700083/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F6d%2F57%2F00%2F08%2F3%2F00000001.jp2/info.json\"}",
   "layer_id_s": "6d5700083",
-  "layer_slug_s": "princeton-6d5700083",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:12Z",
-  "dc_title_s": "Jerusalem ancient & modern",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Jerusalem"
-  ],
+  "dc_identifier_s": "6d5700083",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Jerusalem ancient & modern",
+  "layer_slug_s": "princeton-6d5700083",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/6d5700083/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/6d/57/00/08/3/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "31.8826765 35.0854203 31.8826765 35.2630682 31.7087672 35.2630682 31.7087672 35.0854203 31.8826765 35.0854203",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1874"
   ],
-  "georss_box_s": "31.7087672 35.0854203 31.8826765 35.2630682",
-  "georss_polygon_s": "31.8826765 35.0854203 31.8826765 35.2630682 31.7087672 35.2630682 31.7087672 35.0854203 31.8826765 35.0854203",
   "solr_geom": "ENVELOPE(35.0854203, 35.2630682, 31.8826765, 31.7087672)",
-  "solr_year_i": "1874"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Jerusalem"
+  ]
 }

@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1829",
   "uuid": "http://arks.princeton.edu/ark:/88435/7h149s347",
+  "dc_description_s": "Carte de la Haute Egypte : sur la quelle sont trace\u0301es les marches des troupes commande\u0301es par Desaix pendant l'expe\u0301dition de Bonaparte en Afrique ...",
+  "georss_box_s": "21.9999975 24.706389 31.8330854 37.1153517",
+  "layer_modified_dt": "2015-01-21T22:24:15Z",
   "dc_creator_sm": [
     "Denon, Vivant,"
   ],
-  "dc_description_s": "Carte de la Haute Egypte : sur la quelle sont tracées les marches des troupes commandées par Desaix pendant l'expédition de Bonaparte en Afrique ...",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "7h149s347",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/7h149s347/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F7h%2F14%2F9s%2F34%2F7%2F00000001.jp2/info.json\"}",
   "layer_id_s": "7h149s347",
-  "layer_slug_s": "princeton-7h149s347",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:15Z",
-  "dc_title_s": "Carte de la Haute Egypte : sur la quelle sont tracées les marches des troupes commandées par Desaix pendant l'expédition de Bonaparte en Afrique ...",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Egypt"
-  ],
+  "dc_identifier_s": "7h149s347",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Carte de la Haute Egypte : sur la quelle sont trace\u0301es les marches des troupes commande\u0301es par Desaix pendant l'expe\u0301dition de Bonaparte en Afrique ...",
+  "layer_slug_s": "princeton-7h149s347",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/7h149s347/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/7h/14/9s/34/7/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "31.8330854 24.706389 31.8330854 37.1153517 21.9999975 37.1153517 21.9999975 24.706389 31.8330854 24.706389",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1829"
   ],
-  "georss_box_s": "21.9999975 24.706389 31.8330854 37.1153517",
-  "georss_polygon_s": "31.8330854 24.706389 31.8330854 37.1153517 21.9999975 37.1153517 21.9999975 24.706389 31.8330854 24.706389",
   "solr_geom": "ENVELOPE(24.706389, 37.1153517, 31.8330854, 21.9999975)",
-  "solr_year_i": "1829"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Egypt"
+  ]
 }

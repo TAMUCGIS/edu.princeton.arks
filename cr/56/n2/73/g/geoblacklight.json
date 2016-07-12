@@ -2,7 +2,7 @@
   "dc_description_s": "This a visitors guide/map of the town of Princeton, as well as the campus of Princeton Universtiy.",
   "layer_modified_dt": "2015-01-11T17:43:37Z",
   "solr_geom": "ENVELOPE(-74.939246, -74.482460, 40.424427, 40.135958)",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fcr%2F56%2Fn2%2F73%2Fg%2F00000001.jp2/info.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/cr56n273g/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/cr56n273g/preview.jpg\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/cr56n273g/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/cr/56/n2/73/g/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/cr56n273g/preview.jpg\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/cr56n273g",
   "dct_provenance_s": "Princeton",
@@ -13,7 +13,7 @@
     "Campus"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "1970",
+  "layer_slug_s": "princeton-cr56n273g",
   "dc_creator_sm": [
     "Princeton University. Division of Physical Planning; University Parking Committee"
   ],
@@ -29,7 +29,7 @@
   "layer_id_s": "cr56n273g",
   "georss_box_s": "40.135958 -74.939246 40.424427 -74.482460",
   "dc_title_s": "Princeton University (James Forrestal Campus) ",
-  "layer_slug_s": "princeton-cr56n273g",
+  "dct_issued_s": "1970",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

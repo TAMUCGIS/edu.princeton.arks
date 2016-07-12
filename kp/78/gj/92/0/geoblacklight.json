@@ -1,27 +1,27 @@
 {
+  "solr_year_i": "1820",
   "uuid": "http://arks.princeton.edu/ark:/88435/kp78gj920",
   "dc_description_s": "Spain and Portugal",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "kp78gj920",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/kp78gj920/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fkp%2F78%2Fgj%2F92%2F0%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "kp78gj920",
-  "layer_slug_s": "princeton-kp78gj920",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "36.2380667008 -9.5035614375 43.7923795 4.3277839",
   "layer_modified_dt": "2015-01-25T02:06:23Z",
-  "dc_title_s": "Spain and Portugal",
+  "layer_id_s": "kp78gj920",
   "dc_type_s": "Image",
+  "dc_identifier_s": "kp78gj920",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Spain and Portugal",
+  "layer_slug_s": "princeton-kp78gj920",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/kp78gj920/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/kp/78/gj/92/0/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "43.7923795 -9.5035614375 43.7923795 4.3277839 36.2380667008 4.3277839 36.2380667008 -9.5035614375 43.7923795 -9.5035614375",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1820"
+  ],
+  "solr_geom": "ENVELOPE(-9.5035614375, 4.3277839, 43.7923795, 36.2380667008)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Iberian Peninsula",
     "Spain",
     "Portugal"
-  ],
-  "dct_temporal_sm": [
-    "1820"
-  ],
-  "georss_box_s": "36.2380667008 -9.5035614375 43.7923795 4.3277839",
-  "georss_polygon_s": "43.7923795 -9.5035614375 43.7923795 4.3277839 36.2380667008 4.3277839 36.2380667008 -9.5035614375 43.7923795 -9.5035614375",
-  "solr_geom": "ENVELOPE(-9.5035614375, 4.3277839, 43.7923795, 36.2380667008)",
-  "solr_year_i": "1820"
+  ]
 }

@@ -1,27 +1,27 @@
 {
+  "solr_year_i": "1897",
   "uuid": "http://arks.princeton.edu/ark:/88435/1g05ff071",
   "dc_description_s": "Turquie d'Asie",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "1g05ff071",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/1g05ff071/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F1g%2F05%2Fff%2F07%2F1%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "1g05ff071",
-  "layer_slug_s": "princeton-1g05ff071",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "29.4533796 34.2676025 33.3356317 35.8950234",
   "layer_modified_dt": "2015-01-21T22:24:11Z",
-  "dc_title_s": "Turquie d'Asie",
+  "layer_id_s": "1g05ff071",
   "dc_type_s": "Image",
+  "dc_identifier_s": "1g05ff071",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Turquie d'Asie",
+  "layer_slug_s": "princeton-1g05ff071",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/1g05ff071/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/1g/05/ff/07/1/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "33.3356317 34.2676025 33.3356317 35.8950234 29.4533796 35.8950234 29.4533796 34.2676025 33.3356317 34.2676025",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1897"
+  ],
+  "solr_geom": "ENVELOPE(34.2676025, 35.8950234, 33.3356317, 29.4533796)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Israel",
     "Lebanon",
     "Syria"
-  ],
-  "dct_temporal_sm": [
-    "1897"
-  ],
-  "georss_box_s": "29.4533796 34.2676025 33.3356317 35.8950234",
-  "georss_polygon_s": "33.3356317 34.2676025 33.3356317 35.8950234 29.4533796 35.8950234 29.4533796 34.2676025 33.3356317 34.2676025",
-  "solr_geom": "ENVELOPE(34.2676025, 35.8950234, 33.3356317, 29.4533796)",
-  "solr_year_i": "1897"
+  ]
 }

@@ -2,7 +2,7 @@
   "dc_description_s": "This is a Sanborn map of Haddon Heights, Camden County, NJ, shown at a scale of 1:600.",
   "layer_modified_dt": "2015-01-11T17:43:07Z",
   "solr_geom": "ENVELOPE(-75.0687, -75.0607, 39.879, 39.8737)",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fnc%2F58%2F0p%2F25%2F1%2F00000001.jp2/info.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/nc580p251/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/nc580p251/preview.jpg\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/nc580p251/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/nc/58/0p/25/1/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/nc580p251/preview.jpg\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/nc580p251",
   "dct_provenance_s": "Princeton",
@@ -12,7 +12,7 @@
     "Sanborn"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "1927",
+  "layer_slug_s": "princeton-nc580p251",
   "dc_creator_sm": [
     "New York : Sanborn Map Company"
   ],
@@ -30,7 +30,7 @@
   "layer_id_s": "nc580p251",
   "georss_box_s": "39.8737 -75.0687 39.879 -75.0607",
   "dc_title_s": "Haddon Heights, including Mt. Ephraim, Camden County, New Jersey (Sheet 12)",
-  "layer_slug_s": "princeton-nc580p251",
+  "dct_issued_s": "1927",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

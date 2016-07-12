@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1911",
   "uuid": "http://arks.princeton.edu/ark:/88435/05741v14j",
   "dc_description_s": "Plano de Caracas, 1911",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "05741v14j",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/05741v14j/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F05%2F74%2F1v%2F14%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "05741v14j",
-  "layer_slug_s": "princeton-05741v14j",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "10.346098 -67.0746017 10.666098 -66.7546017",
   "layer_modified_dt": "2015-01-21T22:24:05Z",
-  "dc_title_s": "Plano de Caracas, 1911",
+  "layer_id_s": "05741v14j",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Caracas (Venezuela)"
-  ],
+  "dc_identifier_s": "05741v14j",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Plano de Caracas, 1911",
+  "layer_slug_s": "princeton-05741v14j",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/05741v14j/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/05/74/1v/14/j/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "10.666098 -67.0746017 10.666098 -66.7546017 10.346098 -66.7546017 10.346098 -67.0746017 10.666098 -67.0746017",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1911"
   ],
-  "georss_box_s": "10.346098 -67.0746017 10.666098 -66.7546017",
-  "georss_polygon_s": "10.666098 -67.0746017 10.666098 -66.7546017 10.346098 -66.7546017 10.346098 -67.0746017 10.666098 -67.0746017",
   "solr_geom": "ENVELOPE(-67.0746017, -66.7546017, 10.666098, 10.346098)",
-  "solr_year_i": "1911"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Caracas (Venezuela)"
+  ]
 }

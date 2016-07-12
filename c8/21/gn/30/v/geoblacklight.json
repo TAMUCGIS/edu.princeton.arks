@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1899",
   "uuid": "http://arks.princeton.edu/ark:/88435/c821gn30v",
+  "dc_description_s": "Ireland",
+  "georss_box_s": "51.3333333333 -10.5 55.8333333333 -5.16666666667",
+  "layer_modified_dt": "2015-01-19T22:37:37Z",
   "dc_creator_sm": [
     "Lane, T. O'Neill"
   ],
-  "dc_description_s": "Ireland",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "c821gn30v",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/c821gn30v/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fc8%2F21%2Fgn%2F30%2Fv%2F00000001.jp2/info.json\"}",
   "layer_id_s": "c821gn30v",
-  "layer_slug_s": "princeton-c821gn30v",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:37Z",
-  "dc_title_s": "Ireland",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Ireland"
-  ],
+  "dc_identifier_s": "c821gn30v",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Ireland",
+  "layer_slug_s": "princeton-c821gn30v",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/c821gn30v/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/c8/21/gn/30/v/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "55.8333333333 -10.5 55.8333333333 -5.16666666667 51.3333333333 -5.16666666667 51.3333333333 -10.5 55.8333333333 -10.5",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1899"
   ],
-  "georss_box_s": "51.3333333333 -10.5 55.8333333333 -5.16666666667",
-  "georss_polygon_s": "55.8333333333 -10.5 55.8333333333 -5.16666666667 51.3333333333 -5.16666666667 51.3333333333 -10.5 55.8333333333 -10.5",
   "solr_geom": "ENVELOPE(-10.5, -5.16666666667, 55.8333333333, 51.3333333333)",
-  "solr_year_i": "1899"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Ireland"
+  ]
 }

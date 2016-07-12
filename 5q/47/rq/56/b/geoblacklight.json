@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1738",
   "uuid": "http://arks.princeton.edu/ark:/88435/5q47rq56b",
   "dc_description_s": "Nuova carta del polo Artico secondo l'ultime osservazioni a Amsterdam /",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "5q47rq56b",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/5q47rq56b/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F5q%2F47%2Frq%2F56%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "5q47rq56b",
-  "layer_slug_s": "princeton-5q47rq56b",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "40.0 -180.0 90.0 180.0",
   "layer_modified_dt": "2015-01-19T22:36:42Z",
-  "dc_title_s": "Nuova carta del polo Artico secondo l'ultime osservazioni a Amsterdam /",
+  "layer_id_s": "5q47rq56b",
   "dc_type_s": "Image",
+  "dc_identifier_s": "5q47rq56b",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Nuova carta del polo Artico secondo l'ultime osservazioni a Amsterdam /",
+  "layer_slug_s": "princeton-5q47rq56b",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/5q47rq56b/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/5q/47/rq/56/b/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "90.0 -180.0 90.0 180.0 40.0 180.0 40.0 -180.0 90.0 -180.0",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1738"
+  ],
+  "solr_geom": "ENVELOPE(-180.0, 180.0, 90.0, 40.0)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Northern Hemisphere",
     "North Pole",
     "Arctic regions",
     "Arctic Ocean"
-  ],
-  "dct_temporal_sm": [
-    "1738"
-  ],
-  "georss_box_s": "40.0 -180.0 90.0 180.0",
-  "georss_polygon_s": "90.0 -180.0 90.0 180.0 40.0 180.0 40.0 -180.0 90.0 -180.0",
-  "solr_geom": "ENVELOPE(-180.0, 180.0, 90.0, 40.0)",
-  "solr_year_i": "1738"
+  ]
 }

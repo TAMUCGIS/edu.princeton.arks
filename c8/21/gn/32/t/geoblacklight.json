@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1841",
   "uuid": "http://arks.princeton.edu/ark:/88435/c821gn32t",
+  "dc_description_s": "Mouth of the Columbia River, Oregon Territory",
+  "georss_box_s": "46.1666666667 -124.166666667 46.3333333333 -123.583333333",
+  "layer_modified_dt": "2015-01-19T22:37:40Z",
   "dc_creator_sm": [
     "Wilkes, Charles,",
     "Young, J. H."
   ],
-  "dc_description_s": "Mouth of the Columbia River, Oregon Territory",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "c821gn32t",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/c821gn32t/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fc8%2F21%2Fgn%2F32%2Ft%2F00000001.jp2/info.json\"}",
   "layer_id_s": "c821gn32t",
-  "layer_slug_s": "princeton-c821gn32t",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:40Z",
-  "dc_title_s": "Mouth of the Columbia River, Oregon Territory",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Columbia River"
-  ],
+  "dc_identifier_s": "c821gn32t",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Mouth of the Columbia River, Oregon Territory",
+  "layer_slug_s": "princeton-c821gn32t",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/c821gn32t/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/c8/21/gn/32/t/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "46.3333333333 -124.166666667 46.3333333333 -123.583333333 46.1666666667 -123.583333333 46.1666666667 -124.166666667 46.3333333333 -124.166666667",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1841"
   ],
-  "georss_box_s": "46.1666666667 -124.166666667 46.3333333333 -123.583333333",
-  "georss_polygon_s": "46.3333333333 -124.166666667 46.3333333333 -123.583333333 46.1666666667 -123.583333333 46.1666666667 -124.166666667 46.3333333333 -124.166666667",
   "solr_geom": "ENVELOPE(-124.166666667, -123.583333333, 46.3333333333, 46.1666666667)",
-  "solr_year_i": "1841"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Columbia River"
+  ]
 }

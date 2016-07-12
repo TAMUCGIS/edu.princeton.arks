@@ -1,29 +1,27 @@
 {
+  "solr_year_i": "1867",
   "uuid": "http://arks.princeton.edu/ark:/88435/4b29b840v",
+  "dc_description_s": "Map of the \"Murray Hill Farm,\" \"Ogden Place Farm,\" Lawrence & Astor, Wiswall & Price, Corporation, Wm. Wright, John Taylor and other property",
+  "georss_box_s": "40.7702778 -73.9797222 40.8102778 -73.9397222",
+  "layer_modified_dt": "2015-01-21T22:24:00Z",
   "dc_creator_sm": [
     "Brown, A.",
     "Johnston, Lewis,"
   ],
-  "dc_description_s": "Map of the \"Murray Hill Farm,\" \"Ogden Place Farm,\" Lawrence & Astor, Wiswall & Price, Corporation, Wm. Wright, John Taylor and other property",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "4b29b840v",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/4b29b840v/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F4b%2F29%2Fb8%2F40%2Fv%2F00000001.jp2/info.json\"}",
   "layer_id_s": "4b29b840v",
-  "layer_slug_s": "princeton-4b29b840v",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:00Z",
-  "dc_title_s": "Map of the \"Murray Hill Farm,\" \"Ogden Place Farm,\" Lawrence & Astor, Wiswall & Price, Corporation, Wm. Wright, John Taylor and other property",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "4b29b840v",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Map of the \"Murray Hill Farm,\" \"Ogden Place Farm,\" Lawrence & Astor, Wiswall & Price, Corporation, Wm. Wright, John Taylor and other property",
+  "layer_slug_s": "princeton-4b29b840v",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/4b29b840v/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/4b/29/b8/40/v/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.8102778 -73.9797222 40.8102778 -73.9397222 40.7702778 -73.9397222 40.7702778 -73.9797222 40.8102778 -73.9797222",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1867"
   ],
-  "georss_box_s": "40.7702778 -73.9797222 40.8102778 -73.9397222",
-  "georss_polygon_s": "40.8102778 -73.9797222 40.8102778 -73.9397222 40.7702778 -73.9397222 40.7702778 -73.9797222 40.8102778 -73.9797222",
   "solr_geom": "ENVELOPE(-73.9797222, -73.9397222, 40.8102778, 40.7702778)",
-  "solr_year_i": "1867"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

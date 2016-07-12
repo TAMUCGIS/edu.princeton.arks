@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/k643b328b",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Perth Amboy",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "k643b328b",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fk6%2F43%2Fb3%2F28%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "k643b328b",
-  "layer_slug_s": "princeton-k643b328b",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:05:39Z",
+  "solr_geom": "ENVELOPE(-74.292226, -74.25028, 40.544561, 40.498903)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/k6/43/b3/28/b/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/k643b328b",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Perth Amboy, Middlesex Co., N. J. (Sheet 10)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1896"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "k643b328b",
+  "georss_polygon_s": "40.544561 -74.292226 40.544561 -74.25028 40.498903 -74.25028 40.498903 -74.292226 40.544561 -74.292226",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1896",
   "dct_spatial_sm": [
     "New Jersey",
     "Perth Amboy"
   ],
-  "dct_temporal_sm": [
-    "1896"
-  ],
+  "layer_id_s": "k643b328b",
   "georss_box_s": "40.498903 -74.292226 40.544561 -74.25028",
-  "georss_polygon_s": "40.544561 -74.292226 40.544561 -74.25028 40.498903 -74.25028 40.498903 -74.292226 40.544561 -74.292226",
-  "solr_geom": "ENVELOPE(-74.292226, -74.25028, 40.544561, 40.498903)",
-  "solr_year_i": "1896"
+  "dc_title_s": "Perth Amboy, Middlesex Co., N. J. (Sheet 10)",
+  "layer_slug_s": "princeton-k643b328b",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

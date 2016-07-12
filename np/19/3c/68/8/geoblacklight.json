@@ -1,27 +1,27 @@
 {
+  "solr_year_i": "1923",
   "uuid": "http://arks.princeton.edu/ark:/88435/np193c688",
   "dc_description_s": "Map of New Jersey showing the original counties together with the present county boundaries with date of incorporation",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "np193c688",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/np193c688/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fnp%2F19%2F3c%2F68%2F8%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "np193c688",
-  "layer_slug_s": "princeton-np193c688",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "38.7911303 -75.5633859 41.357423 -73.8939789",
   "layer_modified_dt": "2015-01-21T22:24:24Z",
-  "dc_title_s": "Map of New Jersey showing the original counties together with the present county boundaries with date of incorporation",
+  "layer_id_s": "np193c688",
   "dc_type_s": "Image",
+  "dc_identifier_s": "np193c688",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Map of New Jersey showing the original counties together with the present county boundaries with date of incorporation",
+  "layer_slug_s": "princeton-np193c688",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/np193c688/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/np/19/3c/68/8/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "41.357423 -75.5633859 41.357423 -73.8939789 38.7911303 -73.8939789 38.7911303 -75.5633859 41.357423 -75.5633859",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1923"
+  ],
+  "solr_geom": "ENVELOPE(-75.5633859, -73.8939789, 41.357423, 38.7911303)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "New Jersey",
     "New Jersey",
     "New Jersey"
-  ],
-  "dct_temporal_sm": [
-    "1923"
-  ],
-  "georss_box_s": "38.7911303 -75.5633859 41.357423 -73.8939789",
-  "georss_polygon_s": "41.357423 -75.5633859 41.357423 -73.8939789 38.7911303 -73.8939789 38.7911303 -75.5633859 41.357423 -75.5633859",
-  "solr_geom": "ENVELOPE(-75.5633859, -73.8939789, 41.357423, 38.7911303)",
-  "solr_year_i": "1923"
+  ]
 }

@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1610",
   "uuid": "http://arks.princeton.edu/ark:/88435/7d278w52j",
   "dc_description_s": "Breknoke, both shyre and towne described",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "7d278w52j",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/7d278w52j/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F7d%2F27%2F8w%2F52%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "7d278w52j",
-  "layer_slug_s": "princeton-7d278w52j",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "51.6817371591 -4.0139965584 52.1526852893 -2.8694119082",
   "layer_modified_dt": "2015-01-21T22:24:19Z",
-  "dc_title_s": "Breknoke, both shyre and towne described",
+  "layer_id_s": "7d278w52j",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Breconshire (Wales)"
-  ],
+  "dc_identifier_s": "7d278w52j",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Breknoke, both shyre and towne described",
+  "layer_slug_s": "princeton-7d278w52j",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/7d278w52j/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/7d/27/8w/52/j/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "52.1526852893 -4.0139965584 52.1526852893 -2.8694119082 51.6817371591 -2.8694119082 51.6817371591 -4.0139965584 52.1526852893 -4.0139965584",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1610"
   ],
-  "georss_box_s": "51.6817371591 -4.0139965584 52.1526852893 -2.8694119082",
-  "georss_polygon_s": "52.1526852893 -4.0139965584 52.1526852893 -2.8694119082 51.6817371591 -2.8694119082 51.6817371591 -4.0139965584 52.1526852893 -4.0139965584",
   "solr_geom": "ENVELOPE(-4.0139965584, -2.8694119082, 52.1526852893, 51.6817371591)",
-  "solr_year_i": "1610"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Breconshire (Wales)"
+  ]
 }

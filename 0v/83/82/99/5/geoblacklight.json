@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1870",
   "uuid": "http://arks.princeton.edu/ark:/88435/0v8382995",
+  "dc_description_s": "Seine",
+  "georss_box_s": "48.8155755 2.224122 48.902156 2.4697602",
+  "layer_modified_dt": "2015-01-21T22:24:00Z",
   "dc_creator_sm": [
     "Joanne, Adolphe Laurent,"
   ],
-  "dc_description_s": "Seine",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "0v8382995",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/0v8382995/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F0v%2F83%2F82%2F99%2F5%2F00000001.jp2/info.json\"}",
   "layer_id_s": "0v8382995",
-  "layer_slug_s": "princeton-0v8382995",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:00Z",
-  "dc_title_s": "Seine",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Paris (France)",
-    "Seine (France)"
-  ],
+  "dc_identifier_s": "0v8382995",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Seine",
+  "layer_slug_s": "princeton-0v8382995",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/0v8382995/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/0v/83/82/99/5/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "48.902156 2.224122 48.902156 2.4697602 48.8155755 2.4697602 48.8155755 2.224122 48.902156 2.224122",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1870"
   ],
-  "georss_box_s": "48.8155755 2.224122 48.902156 2.4697602",
-  "georss_polygon_s": "48.902156 2.224122 48.902156 2.4697602 48.8155755 2.4697602 48.8155755 2.224122 48.902156 2.224122",
   "solr_geom": "ENVELOPE(2.224122, 2.4697602, 48.902156, 48.8155755)",
-  "solr_year_i": "1870"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Paris (France)",
+    "Seine (France)"
+  ]
 }

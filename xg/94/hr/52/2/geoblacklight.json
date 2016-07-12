@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/xg94hr522",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of East Orange",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "xg94hr522",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fxg%2F94%2Fhr%2F52%2F2%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "xg94hr522",
-  "layer_slug_s": "princeton-xg94hr522",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:03:33Z",
+  "solr_geom": "ENVELOPE(-74.238349, -74.189989, 40.788123, 40.745094)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/xg/94/hr/52/2/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/xg94hr522",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Orange and East Orange, N.J. (Sheet 74).",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1895"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "xg94hr522",
+  "georss_polygon_s": "40.788123 -74.238349 40.788123 -74.189989 40.745094 -74.189989 40.745094 -74.238349 40.788123 -74.238349",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1895",
   "dct_spatial_sm": [
     "New Jersey",
     "East Orange"
   ],
-  "dct_temporal_sm": [
-    "1895"
-  ],
+  "layer_id_s": "xg94hr522",
   "georss_box_s": "40.745094 -74.238349 40.788123 -74.189989",
-  "georss_polygon_s": "40.788123 -74.238349 40.788123 -74.189989 40.745094 -74.189989 40.745094 -74.238349 40.788123 -74.238349",
-  "solr_geom": "ENVELOPE(-74.238349, -74.189989, 40.788123, 40.745094)",
-  "solr_year_i": "1895"
+  "dc_title_s": "Orange and East Orange, N.J. (Sheet 74).",
+  "layer_slug_s": "princeton-xg94hr522",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

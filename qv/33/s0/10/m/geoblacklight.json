@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1854",
   "uuid": "http://arks.princeton.edu/ark:/88435/qv33s010m",
   "dc_description_s": "Cockburn Harbour",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "qv33s010m",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/qv33s010m/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fqv%2F33%2Fs0%2F10%2Fm%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "qv33s010m",
-  "layer_slug_s": "princeton-qv33s010m",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "21.4892941 -71.537304 21.5110609 -71.5286778",
   "layer_modified_dt": "2015-01-21T22:24:09Z",
-  "dc_title_s": "Cockburn Harbour",
+  "layer_id_s": "qv33s010m",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Cockburn Harbour (Turks and Caicos Islands)"
-  ],
+  "dc_identifier_s": "qv33s010m",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Cockburn Harbour",
+  "layer_slug_s": "princeton-qv33s010m",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/qv33s010m/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/qv/33/s0/10/m/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "21.5110609 -71.537304 21.5110609 -71.5286778 21.4892941 -71.5286778 21.4892941 -71.537304 21.5110609 -71.537304",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1854"
   ],
-  "georss_box_s": "21.4892941 -71.537304 21.5110609 -71.5286778",
-  "georss_polygon_s": "21.5110609 -71.537304 21.5110609 -71.5286778 21.4892941 -71.5286778 21.4892941 -71.537304 21.5110609 -71.537304",
   "solr_geom": "ENVELOPE(-71.537304, -71.5286778, 21.5110609, 21.4892941)",
-  "solr_year_i": "1854"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Cockburn Harbour (Turks and Caicos Islands)"
+  ]
 }

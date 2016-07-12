@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1850",
   "uuid": "http://arks.princeton.edu/ark:/88435/37720g26m",
   "dc_description_s": "Map of the United States and their territories between the Mississippi and the Pacific Ocean, and part of Mexico",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "37720g26m",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/37720g26m/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F37%2F72%2F0g%2F26%2Fm%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "37720g26m",
-  "layer_slug_s": "princeton-37720g26m",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "18.0 -126.0 50.0 -86.0",
   "layer_modified_dt": "2015-01-19T22:37:42Z",
-  "dc_title_s": "Map of the United States and their territories between the Mississippi and the Pacific Ocean, and part of Mexico",
+  "layer_id_s": "37720g26m",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Mexico"
-  ],
+  "dc_identifier_s": "37720g26m",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Map of the United States and their territories between the Mississippi and the Pacific Ocean, and part of Mexico",
+  "layer_slug_s": "princeton-37720g26m",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/37720g26m/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/37/72/0g/26/m/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "50.0 -126.0 50.0 -86.0 18.0 -86.0 18.0 -126.0 50.0 -126.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1850"
   ],
-  "georss_box_s": "18.0 -126.0 50.0 -86.0",
-  "georss_polygon_s": "50.0 -126.0 50.0 -86.0 18.0 -86.0 18.0 -126.0 50.0 -126.0",
   "solr_geom": "ENVELOPE(-126.0, -86.0, 50.0, 18.0)",
-  "solr_year_i": "1850"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Mexico"
+  ]
 }

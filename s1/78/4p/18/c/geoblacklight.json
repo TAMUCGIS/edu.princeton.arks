@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1565",
   "uuid": "http://arks.princeton.edu/ark:/88435/s1784p18c",
-  "dc_description_s": "Antvverpiæ civitatis Belgicæ toto orbe cogniti et celebrati emporii simulacrum",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "s1784p18c",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/s1784p18c/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fs1%2F78%2F4p%2F18%2Fc%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "s1784p18c",
-  "layer_slug_s": "princeton-s1784p18c",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Antvverpi\u00e6 civitatis Belgic\u00e6 toto orbe cogniti et celebrati emporii simulacrum",
+  "georss_box_s": "51.1432868 4.2175769 51.3776412 4.497986",
   "layer_modified_dt": "2015-01-21T22:24:09Z",
-  "dc_title_s": "Antvverpiæ civitatis Belgicæ toto orbe cogniti et celebrati emporii simulacrum",
+  "layer_id_s": "s1784p18c",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Antwerp (Belgium)"
-  ],
+  "dc_identifier_s": "s1784p18c",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Antvverpi\u00e6 civitatis Belgic\u00e6 toto orbe cogniti et celebrati emporii simulacrum",
+  "layer_slug_s": "princeton-s1784p18c",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/s1784p18c/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/s1/78/4p/18/c/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "51.3776412 4.2175769 51.3776412 4.497986 51.1432868 4.497986 51.1432868 4.2175769 51.3776412 4.2175769",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1565"
   ],
-  "georss_box_s": "51.1432868 4.2175769 51.3776412 4.497986",
-  "georss_polygon_s": "51.3776412 4.2175769 51.3776412 4.497986 51.1432868 4.497986 51.1432868 4.2175769 51.3776412 4.2175769",
   "solr_geom": "ENVELOPE(4.2175769, 4.497986, 51.3776412, 51.1432868)",
-  "solr_year_i": "1565"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Antwerp (Belgium)"
+  ]
 }

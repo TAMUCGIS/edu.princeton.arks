@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1905",
   "uuid": "http://arks.princeton.edu/ark:/88435/dv13zw743",
   "dc_description_s": "Plan von Wernigerode",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "dv13zw743",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/dv13zw743/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fdv%2F13%2Fzw%2F74%2F3%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "dv13zw743",
-  "layer_slug_s": "princeton-dv13zw743",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "50.9378508 10.5608128 53.0416917 13.1868819",
   "layer_modified_dt": "2015-01-21T22:24:27Z",
-  "dc_title_s": "Plan von Wernigerode",
+  "layer_id_s": "dv13zw743",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Saxony-Anhalt  (Germany)",
-    "Wernigerode (Germany)"
-  ],
+  "dc_identifier_s": "dv13zw743",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Plan von Wernigerode",
+  "layer_slug_s": "princeton-dv13zw743",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/dv13zw743/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/dv/13/zw/74/3/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "53.0416917 10.5608128 53.0416917 13.1868819 50.9378508 13.1868819 50.9378508 10.5608128 53.0416917 10.5608128",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1905"
   ],
-  "georss_box_s": "50.9378508 10.5608128 53.0416917 13.1868819",
-  "georss_polygon_s": "53.0416917 10.5608128 53.0416917 13.1868819 50.9378508 13.1868819 50.9378508 10.5608128 53.0416917 10.5608128",
   "solr_geom": "ENVELOPE(10.5608128, 13.1868819, 53.0416917, 50.9378508)",
-  "solr_year_i": "1905"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Saxony-Anhalt  (Germany)",
+    "Wernigerode (Germany)"
+  ]
 }

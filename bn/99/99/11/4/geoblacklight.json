@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1833",
   "uuid": "http://arks.princeton.edu/ark:/88435/bn9999114",
-  "dc_description_s": "Nouveau plan routier de la ville de Paris, ou, Guide éxact de cette capitale, divisée en XII arrondissemens avec leurs mairies et en 48 quartiers",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "bn9999114",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/bn9999114/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fn%2F99%2F99%2F11%2F4%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "bn9999114",
-  "layer_slug_s": "princeton-bn9999114",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Nouveau plan routier de la ville de Paris, ou, Guide e\u0301xact de cette capitale, divise\u0301e en XII arrondissemens avec leurs mairies et en 48 quartiers",
+  "georss_box_s": "48.8155755 2.224122 48.902156 2.4697602",
   "layer_modified_dt": "2015-01-21T22:23:59Z",
-  "dc_title_s": "Nouveau plan routier de la ville de Paris, ou, Guide éxact de cette capitale, divisée en XII arrondissemens avec leurs mairies et en 48 quartiers",
+  "layer_id_s": "bn9999114",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Paris (France)"
-  ],
+  "dc_identifier_s": "bn9999114",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Nouveau plan routier de la ville de Paris, ou, Guide e\u0301xact de cette capitale, divise\u0301e en XII arrondissemens avec leurs mairies et en 48 quartiers",
+  "layer_slug_s": "princeton-bn9999114",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/bn9999114/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/bn/99/99/11/4/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "48.902156 2.224122 48.902156 2.4697602 48.8155755 2.4697602 48.8155755 2.224122 48.902156 2.224122",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1833"
   ],
-  "georss_box_s": "48.8155755 2.224122 48.902156 2.4697602",
-  "georss_polygon_s": "48.902156 2.224122 48.902156 2.4697602 48.8155755 2.4697602 48.8155755 2.224122 48.902156 2.224122",
   "solr_geom": "ENVELOPE(2.224122, 2.4697602, 48.902156, 48.8155755)",
-  "solr_year_i": "1833"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Paris (France)"
+  ]
 }

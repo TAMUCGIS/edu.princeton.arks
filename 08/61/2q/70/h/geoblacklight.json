@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/08612q70h",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Passaic",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "08612q70h",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F08%2F61%2F2q%2F70%2Fh%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "08612q70h",
-  "layer_slug_s": "princeton-08612q70h",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:06:49Z",
+  "solr_geom": "ENVELOPE(-74.146704, -74.106786, 40.876812, 40.834098)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/08/61/2q/70/h/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/08612q70h",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Insurance maps of Passaic, Passaic County, New Jersey (Sheet 17).",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1903"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "08612q70h",
+  "georss_polygon_s": "40.876812 -74.146704 40.876812 -74.106786 40.834098 -74.106786 40.834098 -74.146704 40.876812 -74.146704",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1903",
   "dct_spatial_sm": [
     "New Jersey",
     "Passaic"
   ],
-  "dct_temporal_sm": [
-    "1903"
-  ],
+  "layer_id_s": "08612q70h",
   "georss_box_s": "40.834098 -74.146704 40.876812 -74.106786",
-  "georss_polygon_s": "40.876812 -74.146704 40.876812 -74.106786 40.834098 -74.106786 40.834098 -74.146704 40.876812 -74.146704",
-  "solr_geom": "ENVELOPE(-74.146704, -74.106786, 40.876812, 40.834098)",
-  "solr_year_i": "1903"
+  "dc_title_s": "Insurance maps of Passaic, Passaic County, New Jersey (Sheet 17).",
+  "layer_slug_s": "princeton-08612q70h",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

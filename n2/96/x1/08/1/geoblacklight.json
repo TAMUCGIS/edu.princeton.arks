@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1700",
   "uuid": "http://arks.princeton.edu/ark:/88435/n296x1081",
   "dc_description_s": "Insula Selan vulgo Ceylon Indis",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "n296x1081",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/n296x1081/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fn2%2F96%2Fx1%2F08%2F1%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "n296x1081",
-  "layer_slug_s": "princeton-n296x1081",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "5.719 79.3741141 10.035 82.0810141",
   "layer_modified_dt": "2015-01-21T22:23:52Z",
-  "dc_title_s": "Insula Selan vulgo Ceylon Indis",
+  "layer_id_s": "n296x1081",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Sri Lanka"
-  ],
+  "dc_identifier_s": "n296x1081",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Insula Selan vulgo Ceylon Indis",
+  "layer_slug_s": "princeton-n296x1081",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/n296x1081/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/n2/96/x1/08/1/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "10.035 79.3741141 10.035 82.0810141 5.719 82.0810141 5.719 79.3741141 10.035 79.3741141",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1700"
   ],
-  "georss_box_s": "5.719 79.3741141 10.035 82.0810141",
-  "georss_polygon_s": "10.035 79.3741141 10.035 82.0810141 5.719 82.0810141 5.719 79.3741141 10.035 79.3741141",
   "solr_geom": "ENVELOPE(79.3741141, 82.0810141, 10.035, 5.719)",
-  "solr_year_i": "1700"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Sri Lanka"
+  ]
 }

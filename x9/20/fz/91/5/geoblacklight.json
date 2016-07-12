@@ -1,28 +1,26 @@
 {
+  "solr_year_i": "1909",
   "uuid": "http://arks.princeton.edu/ark:/88435/x920fz915",
+  "dc_description_s": "Map of the Borough of Princeton, Mercer Co., N. J.",
+  "georss_box_s": "40.3092744 -74.6992958 40.3892744 -74.6192958",
+  "layer_modified_dt": "2015-01-21T22:23:53Z",
   "dc_creator_sm": [
     "Ulyat, William L."
   ],
-  "dc_description_s": "Map of the Borough of Princeton, Mercer Co., N. J.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "x920fz915",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/x920fz915/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fx9%2F20%2Ffz%2F91%2F5%2F00000001.jp2/info.json\"}",
   "layer_id_s": "x920fz915",
-  "layer_slug_s": "princeton-x920fz915",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:53Z",
-  "dc_title_s": "Map of the Borough of Princeton, Mercer Co., N. J.",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "x920fz915",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Map of the Borough of Princeton, Mercer Co., N. J.",
+  "layer_slug_s": "princeton-x920fz915",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/x920fz915/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/x9/20/fz/91/5/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.3892744 -74.6992958 40.3892744 -74.6192958 40.3092744 -74.6192958 40.3092744 -74.6992958 40.3892744 -74.6992958",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1909"
   ],
-  "georss_box_s": "40.3092744 -74.6992958 40.3892744 -74.6192958",
-  "georss_polygon_s": "40.3892744 -74.6992958 40.3892744 -74.6192958 40.3092744 -74.6192958 40.3092744 -74.6992958 40.3892744 -74.6992958",
   "solr_geom": "ENVELOPE(-74.6992958, -74.6192958, 40.3892744, 40.3092744)",
-  "solr_year_i": "1909"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

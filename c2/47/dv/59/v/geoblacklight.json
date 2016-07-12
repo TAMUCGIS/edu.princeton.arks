@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1898",
   "uuid": "http://arks.princeton.edu/ark:/88435/c247dv59v",
   "dc_description_s": "Wetterstein-Gebirge",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "c247dv59v",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/c247dv59v/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fc2%2F47%2Fdv%2F59%2Fv%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "c247dv59v",
-  "layer_slug_s": "princeton-c247dv59v",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "47.2701115 9.6794747 47.8562624898 13.8396371",
   "layer_modified_dt": "2015-01-21T22:24:23Z",
-  "dc_title_s": "Wetterstein-Gebirge",
+  "layer_id_s": "c247dv59v",
   "dc_type_s": "Image",
+  "dc_identifier_s": "c247dv59v",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Wetterstein-Gebirge",
+  "layer_slug_s": "princeton-c247dv59v",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/c247dv59v/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/c2/47/dv/59/v/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "47.8562624898 9.6794747 47.8562624898 13.8396371 47.2701115 13.8396371 47.2701115 9.6794747 47.8562624898 9.6794747",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1898"
+  ],
+  "solr_geom": "ENVELOPE(9.6794747, 13.8396371, 47.8562624898, 47.2701115)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Alps, Bavarian (Germany)",
     "Garmisch-Partenkirchen (Germany)",
     "Mittenwald (Germany)",
     "Wettersteingebirge (Austria and Germany)"
-  ],
-  "dct_temporal_sm": [
-    "1898"
-  ],
-  "georss_box_s": "47.2701115 9.6794747 47.8562624898 13.8396371",
-  "georss_polygon_s": "47.8562624898 9.6794747 47.8562624898 13.8396371 47.2701115 13.8396371 47.2701115 9.6794747 47.8562624898 9.6794747",
-  "solr_geom": "ENVELOPE(9.6794747, 13.8396371, 47.8562624898, 47.2701115)",
-  "solr_year_i": "1898"
+  ]
 }

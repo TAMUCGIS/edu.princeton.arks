@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1754",
   "uuid": "http://arks.princeton.edu/ark:/88435/j9602306m",
+  "dc_description_s": "An accurate map of South America",
+  "georss_box_s": "-21.0000498 -61.0000502 -20.9999498 -60.9999502",
+  "layer_modified_dt": "2015-01-21T22:24:05Z",
   "dc_creator_sm": [
     "Gordon, Patrick,"
   ],
-  "dc_description_s": "An accurate map of South America",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "j9602306m",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/j9602306m/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F9%2F60%2F23%2F06%2Fm%2F00000001.jp2/info.json\"}",
   "layer_id_s": "j9602306m",
-  "layer_slug_s": "princeton-j9602306m",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:05Z",
-  "dc_title_s": "An accurate map of South America",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "South America"
-  ],
+  "dc_identifier_s": "j9602306m",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "An accurate map of South America",
+  "layer_slug_s": "princeton-j9602306m",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/j9602306m/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/j9/60/23/06/m/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "-20.9999498 -61.0000502 -20.9999498 -60.9999502 -21.0000498 -60.9999502 -21.0000498 -61.0000502 -20.9999498 -61.0000502",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1754"
   ],
-  "georss_box_s": "-21.0000498 -61.0000502 -20.9999498 -60.9999502",
-  "georss_polygon_s": "-20.9999498 -61.0000502 -20.9999498 -60.9999502 -21.0000498 -60.9999502 -21.0000498 -61.0000502 -20.9999498 -61.0000502",
   "solr_geom": "ENVELOPE(-61.0000502, -60.9999502, -20.9999498, -21.0000498)",
-  "solr_year_i": "1754"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "South America"
+  ]
 }

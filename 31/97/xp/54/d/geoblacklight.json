@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1780",
   "uuid": "http://arks.princeton.edu/ark:/88435/3197xp54d",
-  "dc_creator_sm": [
-    "Prévost,"
-  ],
-  "dc_description_s": "Suite de la carte de l'Inde en deçà du Gange : IIe. feuille, comprenant la Presqu' Isle de l'Inde : pour servir à l'Histoire générale des voyages",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "3197xp54d",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/3197xp54d/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F31%2F97%2Fxp%2F54%2Fd%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "3197xp54d",
-  "layer_slug_s": "princeton-3197xp54d",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Suite de la carte de l'Inde en dec\u0327a\u0300 du Gange : IIe. feuille, comprenant la Presqu' Isle de l'Inde : pour servir a\u0300 l'Histoire ge\u0301ne\u0301rale des voyages",
+  "georss_box_s": "6.5546079 68.1113787 35.6745457 97.395561",
   "layer_modified_dt": "2015-01-21T22:24:21Z",
-  "dc_title_s": "Suite de la carte de l'Inde en deçà du Gange : IIe. feuille, comprenant la Presqu' Isle de l'Inde : pour servir à l'Histoire générale des voyages",
-  "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "India",
-    "Sri Lanka"
+  "dc_creator_sm": [
+    "Pre\u0301vost,"
   ],
+  "layer_id_s": "3197xp54d",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "3197xp54d",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Suite de la carte de l'Inde en dec\u0327a\u0300 du Gange : IIe. feuille, comprenant la Presqu' Isle de l'Inde : pour servir a\u0300 l'Histoire ge\u0301ne\u0301rale des voyages",
+  "layer_slug_s": "princeton-3197xp54d",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/3197xp54d/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/31/97/xp/54/d/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "35.6745457 68.1113787 35.6745457 97.395561 6.5546079 97.395561 6.5546079 68.1113787 35.6745457 68.1113787",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1780"
   ],
-  "georss_box_s": "6.5546079 68.1113787 35.6745457 97.395561",
-  "georss_polygon_s": "35.6745457 68.1113787 35.6745457 97.395561 6.5546079 97.395561 6.5546079 68.1113787 35.6745457 68.1113787",
   "solr_geom": "ENVELOPE(68.1113787, 97.395561, 35.6745457, 6.5546079)",
-  "solr_year_i": "1780"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "India",
+    "Sri Lanka"
+  ]
 }

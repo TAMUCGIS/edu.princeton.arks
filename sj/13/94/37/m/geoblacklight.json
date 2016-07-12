@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1878",
   "uuid": "http://arks.princeton.edu/ark:/88435/sj139437m",
-  "dc_description_s": "Département de la Seine",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "sj139437m",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/sj139437m/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fsj%2F13%2F94%2F37%2Fm%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "sj139437m",
-  "layer_slug_s": "princeton-sj139437m",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "De\u0301partement de la Seine",
+  "georss_box_s": "47.4859522 0.2281 49.5225833 4.7169896",
   "layer_modified_dt": "2015-01-21T22:24:01Z",
-  "dc_title_s": "Département de la Seine",
+  "layer_id_s": "sj139437m",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Seine (France)",
-    "Paris (France)"
-  ],
+  "dc_identifier_s": "sj139437m",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "De\u0301partement de la Seine",
+  "layer_slug_s": "princeton-sj139437m",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/sj139437m/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/sj/13/94/37/m/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "49.5225833 0.2281 49.5225833 4.7169896 47.4859522 4.7169896 47.4859522 0.2281 49.5225833 0.2281",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1878"
   ],
-  "georss_box_s": "47.4859522 0.2281 49.5225833 4.7169896",
-  "georss_polygon_s": "49.5225833 0.2281 49.5225833 4.7169896 47.4859522 4.7169896 47.4859522 0.2281 49.5225833 0.2281",
   "solr_geom": "ENVELOPE(0.2281, 4.7169896, 49.5225833, 47.4859522)",
-  "solr_year_i": "1878"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Seine (France)",
+    "Paris (France)"
+  ]
 }

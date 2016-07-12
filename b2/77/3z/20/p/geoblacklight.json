@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1901",
   "uuid": "http://arks.princeton.edu/ark:/88435/b2773z20p",
   "dc_description_s": "Map of County Kildare, Province of Leinster, Ireland",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "b2773z20p",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/b2773z20p/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F2%2F77%2F3z%2F20%2Fp%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "b2773z20p",
-  "layer_slug_s": "princeton-b2773z20p",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "52.8575209 -7.1688617 53.4512373 -6.4618395",
   "layer_modified_dt": "2015-01-21T22:24:24Z",
-  "dc_title_s": "Map of County Kildare, Province of Leinster, Ireland",
+  "layer_id_s": "b2773z20p",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Kildare (Ireland : County)"
-  ],
+  "dc_identifier_s": "b2773z20p",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Map of County Kildare, Province of Leinster, Ireland",
+  "layer_slug_s": "princeton-b2773z20p",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/b2773z20p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/b2/77/3z/20/p/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "53.4512373 -7.1688617 53.4512373 -6.4618395 52.8575209 -6.4618395 52.8575209 -7.1688617 53.4512373 -7.1688617",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1901"
   ],
-  "georss_box_s": "52.8575209 -7.1688617 53.4512373 -6.4618395",
-  "georss_polygon_s": "53.4512373 -7.1688617 53.4512373 -6.4618395 52.8575209 -6.4618395 52.8575209 -7.1688617 53.4512373 -7.1688617",
   "solr_geom": "ENVELOPE(-7.1688617, -6.4618395, 53.4512373, 52.8575209)",
-  "solr_year_i": "1901"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Kildare (Ireland : County)"
+  ]
 }

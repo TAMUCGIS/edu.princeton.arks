@@ -1,32 +1,32 @@
 {
+  "solr_year_i": "1708",
   "uuid": "http://arks.princeton.edu/ark:/88435/bk128c80s",
+  "dc_description_s": "L'Amerique septentrionale : dresse\u0301e sur les observations de Mrs. de l'Academie royale des sciences & quelques autres, & sur les memoires les plus recens",
+  "georss_box_s": "5.0 -125.0 70.0 -35.0",
+  "layer_modified_dt": "2015-01-23T17:48:34Z",
   "dc_creator_sm": [
     "Schenk, Peter,",
     "Ottens, J.",
     "Ottens, R.",
     "Fox, N. B.,"
   ],
-  "dc_description_s": "L'Amerique septentrionale : dressée sur les observations de Mrs. de l'Academie royale des sciences & quelques autres, & sur les memoires les plus recens",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "bk128c80s",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/bk128c80s/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fk%2F12%2F8c%2F80%2Fs%2F00000001.jp2/info.json\"}",
   "layer_id_s": "bk128c80s",
-  "layer_slug_s": "princeton-bk128c80s",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-23T17:48:34Z",
-  "dc_title_s": "L'Amerique septentrionale : dressée sur les observations de Mrs. de l'Academie royale des sciences & quelques autres, & sur les memoires les plus recens",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "North America",
-    "Great Lakes (North America)"
-  ],
+  "dc_identifier_s": "bk128c80s",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "L'Amerique septentrionale : dresse\u0301e sur les observations de Mrs. de l'Academie royale des sciences & quelques autres, & sur les memoires les plus recens",
+  "layer_slug_s": "princeton-bk128c80s",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/bk128c80s/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/bk/12/8c/80/s/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "70.0 -125.0 70.0 -35.0 5.0 -35.0 5.0 -125.0 70.0 -125.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1708"
   ],
-  "georss_box_s": "5.0 -125.0 70.0 -35.0",
-  "georss_polygon_s": "70.0 -125.0 70.0 -35.0 5.0 -35.0 5.0 -125.0 70.0 -125.0",
   "solr_geom": "ENVELOPE(-125.0, -35.0, 70.0, 5.0)",
-  "solr_year_i": "1708"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "North America",
+    "Great Lakes (North America)"
+  ]
 }

@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/6h440v509",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Westville",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "6h440v509",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F6h%2F44%2F0v%2F50%2F9%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "6h440v509",
-  "layer_slug_s": "princeton-6h440v509",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:04:10Z",
+  "solr_geom": "ENVELOPE(-75.141891, -75.1128, 39.881931, 39.856054)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/6h/44/0v/50/9/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/6h440v509",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Westville, Gloucester County, New Jersey (Sheet 4)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1931"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "6h440v509",
+  "georss_polygon_s": "39.881931 -75.141891 39.881931 -75.1128 39.856054 -75.1128 39.856054 -75.141891 39.881931 -75.141891",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1931",
   "dct_spatial_sm": [
     "New Jersey",
     "Westville"
   ],
-  "dct_temporal_sm": [
-    "1931"
-  ],
+  "layer_id_s": "6h440v509",
   "georss_box_s": "39.856054 -75.141891 39.881931 -75.1128",
-  "georss_polygon_s": "39.881931 -75.141891 39.881931 -75.1128 39.856054 -75.1128 39.856054 -75.141891 39.881931 -75.141891",
-  "solr_geom": "ENVELOPE(-75.141891, -75.1128, 39.881931, 39.856054)",
-  "solr_year_i": "1931"
+  "dc_title_s": "Westville, Gloucester County, New Jersey (Sheet 4)",
+  "layer_slug_s": "princeton-6h440v509",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1575",
   "uuid": "http://arks.princeton.edu/ark:/88435/r781wj48q",
+  "dc_description_s": "Alhama",
+  "georss_box_s": "36.8468486 -4.1844233 37.1545989 -3.7799585",
+  "layer_modified_dt": "2015-01-21T22:24:10Z",
   "dc_creator_sm": [
     "Braun, Georg,",
     "Hogenberg, Frans,",
     "McCabe, Robert A.,"
   ],
-  "dc_description_s": "Alhama",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "r781wj48q",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/r781wj48q/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fr7%2F81%2Fwj%2F48%2Fq%2F00000001.jp2/info.json\"}",
   "layer_id_s": "r781wj48q",
-  "layer_slug_s": "princeton-r781wj48q",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:10Z",
-  "dc_title_s": "Alhama",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Alhama de Granada (Spain)"
-  ],
+  "dc_identifier_s": "r781wj48q",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Alhama",
+  "layer_slug_s": "princeton-r781wj48q",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/r781wj48q/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/r7/81/wj/48/q/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "37.1545989 -4.1844233 37.1545989 -3.7799585 36.8468486 -3.7799585 36.8468486 -4.1844233 37.1545989 -4.1844233",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1575"
   ],
-  "georss_box_s": "36.8468486 -4.1844233 37.1545989 -3.7799585",
-  "georss_polygon_s": "37.1545989 -4.1844233 37.1545989 -3.7799585 36.8468486 -3.7799585 36.8468486 -4.1844233 37.1545989 -4.1844233",
   "solr_geom": "ENVELOPE(-4.1844233, -3.7799585, 37.1545989, 36.8468486)",
-  "solr_year_i": "1575"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Alhama de Granada (Spain)"
+  ]
 }

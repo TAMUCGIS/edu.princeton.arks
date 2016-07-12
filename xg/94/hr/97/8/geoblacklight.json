@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1903",
   "uuid": "http://arks.princeton.edu/ark:/88435/xg94hr978",
+  "dc_description_s": "Territory of New Mexico",
+  "georss_box_s": "31.3333333333 -109.0 37.0 -103.0",
+  "layer_modified_dt": "2015-01-19T22:37:07Z",
   "dc_creator_sm": [
     "Bond, Frank,",
     "Helm, Charles J."
   ],
-  "dc_description_s": "Territory of New Mexico",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "xg94hr978",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/xg94hr978/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fxg%2F94%2Fhr%2F97%2F8%2F00000001.jp2/info.json\"}",
   "layer_id_s": "xg94hr978",
-  "layer_slug_s": "princeton-xg94hr978",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:07Z",
-  "dc_title_s": "Territory of New Mexico",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "New Mexico"
-  ],
+  "dc_identifier_s": "xg94hr978",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Territory of New Mexico",
+  "layer_slug_s": "princeton-xg94hr978",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/xg94hr978/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/xg/94/hr/97/8/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "37.0 -109.0 37.0 -103.0 31.3333333333 -103.0 31.3333333333 -109.0 37.0 -109.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1903"
   ],
-  "georss_box_s": "31.3333333333 -109.0 37.0 -103.0",
-  "georss_polygon_s": "37.0 -109.0 37.0 -103.0 31.3333333333 -103.0 31.3333333333 -109.0 37.0 -109.0",
   "solr_geom": "ENVELOPE(-109.0, -103.0, 37.0, 31.3333333333)",
-  "solr_year_i": "1903"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "New Mexico"
+  ]
 }

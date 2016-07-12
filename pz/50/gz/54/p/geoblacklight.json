@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1908",
   "uuid": "http://arks.princeton.edu/ark:/88435/pz50gz54p",
   "dc_description_s": "The New York Central Lines : the great central railroad system of America : more than 12000 miles of railway east of Chicago and St. Louis : an adequate through passenger train service",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "pz50gz54p",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/pz50gz54p/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fpz%2F50%2Fgz%2F54%2Fp%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "pz50gz54p",
-  "layer_slug_s": "princeton-pz50gz54p",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "37.9648979285 -80.7892842875 47.5887446096 -66.8711891",
   "layer_modified_dt": "2015-01-21T22:24:06Z",
-  "dc_title_s": "The New York Central Lines : the great central railroad system of America : more than 12000 miles of railway east of Chicago and St. Louis : an adequate through passenger train service",
+  "layer_id_s": "pz50gz54p",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Northeastern States"
-  ],
+  "dc_identifier_s": "pz50gz54p",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "The New York Central Lines : the great central railroad system of America : more than 12000 miles of railway east of Chicago and St. Louis : an adequate through passenger train service",
+  "layer_slug_s": "princeton-pz50gz54p",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/pz50gz54p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/pz/50/gz/54/p/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "47.5887446096 -80.7892842875 47.5887446096 -66.8711891 37.9648979285 -66.8711891 37.9648979285 -80.7892842875 47.5887446096 -80.7892842875",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1908"
   ],
-  "georss_box_s": "37.9648979285 -80.7892842875 47.5887446096 -66.8711891",
-  "georss_polygon_s": "47.5887446096 -80.7892842875 47.5887446096 -66.8711891 37.9648979285 -66.8711891 37.9648979285 -80.7892842875 47.5887446096 -80.7892842875",
   "solr_geom": "ENVELOPE(-80.7892842875, -66.8711891, 47.5887446096, 37.9648979285)",
-  "solr_year_i": "1908"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Northeastern States"
+  ]
 }

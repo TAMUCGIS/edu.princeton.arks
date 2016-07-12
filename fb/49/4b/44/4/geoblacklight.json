@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/fb494b444",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Swedesboro",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "fb494b444",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ffb%2F49%2F4b%2F44%2F4%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "fb494b444",
-  "layer_slug_s": "princeton-fb494b444",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:04:08Z",
+  "solr_geom": "ENVELOPE(-75.320089, -75.301528, 39.755706, 39.732229)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/fb/49/4b/44/4/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/fb494b444",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Swedesboro, Gloucester County, New Jersey (Sheet 10)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1926"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "fb494b444",
+  "georss_polygon_s": "39.755706 -75.320089 39.755706 -75.301528 39.732229 -75.301528 39.732229 -75.320089 39.755706 -75.320089",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1926",
   "dct_spatial_sm": [
     "New Jersey",
     "Swedesboro"
   ],
-  "dct_temporal_sm": [
-    "1926"
-  ],
+  "layer_id_s": "fb494b444",
   "georss_box_s": "39.732229 -75.320089 39.755706 -75.301528",
-  "georss_polygon_s": "39.755706 -75.320089 39.755706 -75.301528 39.732229 -75.301528 39.732229 -75.320089 39.755706 -75.320089",
-  "solr_geom": "ENVELOPE(-75.320089, -75.301528, 39.755706, 39.732229)",
-  "solr_year_i": "1926"
+  "dc_title_s": "Swedesboro, Gloucester County, New Jersey (Sheet 10)",
+  "layer_slug_s": "princeton-fb494b444",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

@@ -1,25 +1,23 @@
 {
+  "solr_year_i": "1909",
   "uuid": "http://arks.princeton.edu/ark:/88435/7m01bp120",
   "dc_description_s": "1730 New York, the English Colonial city",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "7m01bp120",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/7m01bp120/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F7m%2F01%2Fbp%2F12%2F0%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "7m01bp120",
-  "layer_slug_s": "princeton-7m01bp120",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "40.477399 -74.2590899 40.917577 -73.7001714",
   "layer_modified_dt": "2015-01-21T22:24:01Z",
-  "dc_title_s": "1730 New York, the English Colonial city",
+  "layer_id_s": "7m01bp120",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "7m01bp120",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "1730 New York, the English Colonial city",
+  "layer_slug_s": "princeton-7m01bp120",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/7m01bp120/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/7m/01/bp/12/0/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.917577 -74.2590899 40.917577 -73.7001714 40.477399 -73.7001714 40.477399 -74.2590899 40.917577 -74.2590899",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1909"
   ],
-  "georss_box_s": "40.477399 -74.2590899 40.917577 -73.7001714",
-  "georss_polygon_s": "40.917577 -74.2590899 40.917577 -73.7001714 40.477399 -73.7001714 40.477399 -74.2590899 40.917577 -74.2590899",
   "solr_geom": "ENVELOPE(-74.2590899, -73.7001714, 40.917577, 40.477399)",
-  "solr_year_i": "1909"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

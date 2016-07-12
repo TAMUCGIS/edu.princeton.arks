@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1910",
   "uuid": "http://arks.princeton.edu/ark:/88435/wd375z76z",
+  "dc_description_s": "Aufnahmen in der o\u0308stlichen Wu\u0308ste von Aegypten ...",
+  "georss_box_s": "27.943496 31.96187 27.983496 32.00187",
+  "layer_modified_dt": "2015-01-25T02:06:14Z",
   "dc_creator_sm": [
     "Reimer, Dietrich,"
   ],
-  "dc_description_s": "Aufnahmen in der östlichen Wüste von Aegypten ...",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "wd375z76z",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/wd375z76z/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fwd%2F37%2F5z%2F76%2Fz%2F00000001.jp2/info.json\"}",
   "layer_id_s": "wd375z76z",
-  "layer_slug_s": "princeton-wd375z76z",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:14Z",
-  "dc_title_s": "Aufnahmen in der östlichen Wüste von Aegypten ...",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Eastern Desert (Egypt)"
-  ],
+  "dc_identifier_s": "wd375z76z",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Aufnahmen in der o\u0308stlichen Wu\u0308ste von Aegypten ...",
+  "layer_slug_s": "princeton-wd375z76z",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/wd375z76z/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/wd/37/5z/76/z/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "27.983496 31.96187 27.983496 32.00187 27.943496 32.00187 27.943496 31.96187 27.983496 31.96187",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1910"
   ],
-  "georss_box_s": "27.943496 31.96187 27.983496 32.00187",
-  "georss_polygon_s": "27.983496 31.96187 27.983496 32.00187 27.943496 32.00187 27.943496 31.96187 27.983496 31.96187",
   "solr_geom": "ENVELOPE(31.96187, 32.00187, 27.983496, 27.943496)",
-  "solr_year_i": "1910"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Eastern Desert (Egypt)"
+  ]
 }

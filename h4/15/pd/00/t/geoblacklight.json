@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1821",
   "uuid": "http://arks.princeton.edu/ark:/88435/h415pd00t",
+  "dc_description_s": "United States of America",
+  "georss_box_s": "23.0 -120.0 52.0 -64.0",
+  "layer_modified_dt": "2015-01-19T22:37:13Z",
   "dc_creator_sm": [
     "Tanner, Benjamin,",
     "Lavoisne, C. V."
   ],
-  "dc_description_s": "United States of America",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "h415pd00t",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/h415pd00t/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fh4%2F15%2Fpd%2F00%2Ft%2F00000001.jp2/info.json\"}",
   "layer_id_s": "h415pd00t",
-  "layer_slug_s": "princeton-h415pd00t",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:13Z",
-  "dc_title_s": "United States of America",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "United States"
-  ],
+  "dc_identifier_s": "h415pd00t",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "United States of America",
+  "layer_slug_s": "princeton-h415pd00t",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/h415pd00t/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/h4/15/pd/00/t/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "52.0 -120.0 52.0 -64.0 23.0 -64.0 23.0 -120.0 52.0 -120.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1821"
   ],
-  "georss_box_s": "23.0 -120.0 52.0 -64.0",
-  "georss_polygon_s": "52.0 -120.0 52.0 -64.0 23.0 -64.0 23.0 -120.0 52.0 -120.0",
   "solr_geom": "ENVELOPE(-120.0, -64.0, 52.0, 23.0)",
-  "solr_year_i": "1821"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "United States"
+  ]
 }

@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1705",
   "uuid": "http://arks.princeton.edu/ark:/88435/9s1618618",
+  "dc_description_s": "Routes des postes d'Italie",
+  "georss_box_s": "35.2889616 6.6272658 47.0921462 18.7844746",
+  "layer_modified_dt": "2015-01-21T22:24:05Z",
   "dc_creator_sm": [
     "Inselin, C.,",
     "Desnos, Louis-Charles,"
   ],
-  "dc_description_s": "Routes des postes d'Italie",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "9s1618618",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/9s1618618/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F9s%2F16%2F18%2F61%2F8%2F00000001.jp2/info.json\"}",
   "layer_id_s": "9s1618618",
-  "layer_slug_s": "princeton-9s1618618",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:05Z",
-  "dc_title_s": "Routes des postes d'Italie",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Italy"
-  ],
+  "dc_identifier_s": "9s1618618",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Routes des postes d'Italie",
+  "layer_slug_s": "princeton-9s1618618",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/9s1618618/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/9s/16/18/61/8/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "47.0921462 6.6272658 47.0921462 18.7844746 35.2889616 18.7844746 35.2889616 6.6272658 47.0921462 6.6272658",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1705"
   ],
-  "georss_box_s": "35.2889616 6.6272658 47.0921462 18.7844746",
-  "georss_polygon_s": "47.0921462 6.6272658 47.0921462 18.7844746 35.2889616 18.7844746 35.2889616 6.6272658 47.0921462 6.6272658",
   "solr_geom": "ENVELOPE(6.6272658, 18.7844746, 47.0921462, 35.2889616)",
-  "solr_year_i": "1705"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Italy"
+  ]
 }

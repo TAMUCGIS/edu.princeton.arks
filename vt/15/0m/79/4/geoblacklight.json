@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1692",
   "uuid": "http://arks.princeton.edu/ark:/88435/vt150m794",
+  "dc_description_s": "Moscovia, parte occidentale",
+  "georss_box_s": "41.185353 19.6403534 81.8581221 73.70861825",
+  "layer_modified_dt": "2015-01-21T22:24:29Z",
   "dc_creator_sm": [
     "Coronelli, Vincenzo,"
   ],
-  "dc_description_s": "Moscovia, parte occidentale",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "vt150m794",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/vt150m794/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fvt%2F15%2F0m%2F79%2F4%2F00000001.jp2/info.json\"}",
   "layer_id_s": "vt150m794",
-  "layer_slug_s": "princeton-vt150m794",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:29Z",
-  "dc_title_s": "Moscovia, parte occidentale",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Russia, Western"
-  ],
+  "dc_identifier_s": "vt150m794",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Moscovia, parte occidentale",
+  "layer_slug_s": "princeton-vt150m794",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/vt150m794/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/vt/15/0m/79/4/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "81.8581221 19.6403534 81.8581221 73.70861825 41.185353 73.70861825 41.185353 19.6403534 81.8581221 19.6403534",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1692"
   ],
-  "georss_box_s": "41.185353 19.6403534 81.8581221 73.70861825",
-  "georss_polygon_s": "81.8581221 19.6403534 81.8581221 73.70861825 41.185353 73.70861825 41.185353 19.6403534 81.8581221 19.6403534",
   "solr_geom": "ENVELOPE(19.6403534, 73.70861825, 81.8581221, 41.185353)",
-  "solr_year_i": "1692"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Russia, Western"
+  ]
 }

@@ -1,29 +1,27 @@
 {
+  "solr_year_i": "1856",
   "uuid": "http://arks.princeton.edu/ark:/88435/bz60cz63d",
+  "dc_description_s": "Map of the City of New York, 1856",
+  "georss_box_s": "40.7702778 -73.9797222 40.8102778 -73.9397222",
+  "layer_modified_dt": "2015-01-21T22:23:58Z",
   "dc_creator_sm": [
     "Valentine, D. T.",
     "Fox, N. B.,"
   ],
-  "dc_description_s": "Map of the City of New York, 1856",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "bz60cz63d",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/bz60cz63d/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fz%2F60%2Fcz%2F63%2Fd%2F00000001.jp2/info.json\"}",
   "layer_id_s": "bz60cz63d",
-  "layer_slug_s": "princeton-bz60cz63d",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:58Z",
-  "dc_title_s": "Map of the City of New York, 1856",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "bz60cz63d",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Map of the City of New York, 1856",
+  "layer_slug_s": "princeton-bz60cz63d",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/bz60cz63d/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/bz/60/cz/63/d/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.8102778 -73.9797222 40.8102778 -73.9397222 40.7702778 -73.9397222 40.7702778 -73.9797222 40.8102778 -73.9797222",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1856"
   ],
-  "georss_box_s": "40.7702778 -73.9797222 40.8102778 -73.9397222",
-  "georss_polygon_s": "40.8102778 -73.9797222 40.8102778 -73.9397222 40.7702778 -73.9397222 40.7702778 -73.9797222 40.8102778 -73.9797222",
   "solr_geom": "ENVELOPE(-73.9797222, -73.9397222, 40.8102778, 40.7702778)",
-  "solr_year_i": "1856"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

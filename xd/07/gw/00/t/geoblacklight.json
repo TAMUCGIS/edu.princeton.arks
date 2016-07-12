@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1888",
   "uuid": "http://arks.princeton.edu/ark:/88435/xd07gw00t",
+  "dc_description_s": "New Jersey : from original surveys based on the triangulation of the U.S. Coast and Geodetic Survey",
+  "georss_box_s": "38.7911303 -75.5633859 41.357423 -73.8939789",
+  "layer_modified_dt": "2015-01-21T22:23:55Z",
   "dc_creator_sm": [
     "Cook, George Hammell,",
     "Vermeule, C. C."
   ],
-  "dc_description_s": "New Jersey : from original surveys based on the triangulation of the U.S. Coast and Geodetic Survey",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "xd07gw00t",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/xd07gw00t/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fxd%2F07%2Fgw%2F00%2Ft%2F00000001.jp2/info.json\"}",
   "layer_id_s": "xd07gw00t",
-  "layer_slug_s": "princeton-xd07gw00t",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:55Z",
-  "dc_title_s": "New Jersey : from original surveys based on the triangulation of the U.S. Coast and Geodetic Survey",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "New Jersey"
-  ],
+  "dc_identifier_s": "xd07gw00t",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "New Jersey : from original surveys based on the triangulation of the U.S. Coast and Geodetic Survey",
+  "layer_slug_s": "princeton-xd07gw00t",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/xd07gw00t/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/xd/07/gw/00/t/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "41.357423 -75.5633859 41.357423 -73.8939789 38.7911303 -73.8939789 38.7911303 -75.5633859 41.357423 -75.5633859",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1888"
   ],
-  "georss_box_s": "38.7911303 -75.5633859 41.357423 -73.8939789",
-  "georss_polygon_s": "41.357423 -75.5633859 41.357423 -73.8939789 38.7911303 -73.8939789 38.7911303 -75.5633859 41.357423 -75.5633859",
   "solr_geom": "ENVELOPE(-75.5633859, -73.8939789, 41.357423, 38.7911303)",
-  "solr_year_i": "1888"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "New Jersey"
+  ]
 }

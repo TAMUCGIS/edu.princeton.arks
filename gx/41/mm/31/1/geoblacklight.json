@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1763",
   "uuid": "http://arks.princeton.edu/ark:/88435/gx41mm311",
   "dc_description_s": "Carte de l'Isle de Cayenne",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "gx41mm311",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/gx41mm311/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fgx%2F41%2Fmm%2F31%2F1%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "gx41mm311",
-  "layer_slug_s": "princeton-gx41mm311",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "4.887855 -52.5937857 5.2972653 -52.2805193",
   "layer_modified_dt": "2015-01-21T22:24:07Z",
-  "dc_title_s": "Carte de l'Isle de Cayenne",
+  "layer_id_s": "gx41mm311",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Cayenne (French Guiana)"
-  ],
+  "dc_identifier_s": "gx41mm311",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Carte de l'Isle de Cayenne",
+  "layer_slug_s": "princeton-gx41mm311",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/gx41mm311/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/gx/41/mm/31/1/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "5.2972653 -52.5937857 5.2972653 -52.2805193 4.887855 -52.2805193 4.887855 -52.5937857 5.2972653 -52.5937857",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1763"
   ],
-  "georss_box_s": "4.887855 -52.5937857 5.2972653 -52.2805193",
-  "georss_polygon_s": "5.2972653 -52.5937857 5.2972653 -52.2805193 4.887855 -52.2805193 4.887855 -52.5937857 5.2972653 -52.5937857",
   "solr_geom": "ENVELOPE(-52.5937857, -52.2805193, 5.2972653, 4.887855)",
-  "solr_year_i": "1763"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Cayenne (French Guiana)"
+  ]
 }

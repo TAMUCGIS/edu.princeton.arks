@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1898",
   "uuid": "http://arks.princeton.edu/ark:/88435/2z10ws75z",
   "dc_description_s": "Bad Reichenhall",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "2z10ws75z",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/2z10ws75z/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F2z%2F10%2Fws%2F75%2Fz%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "2z10ws75z",
-  "layer_slug_s": "princeton-2z10ws75z",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "47.6809196 12.7972223 47.7722756 12.9446239",
   "layer_modified_dt": "2015-01-21T22:24:28Z",
-  "dc_title_s": "Bad Reichenhall",
+  "layer_id_s": "2z10ws75z",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Bad Reichenhall (Germany)",
-    "Bavaria (Germany)"
-  ],
+  "dc_identifier_s": "2z10ws75z",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Bad Reichenhall",
+  "layer_slug_s": "princeton-2z10ws75z",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/2z10ws75z/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/2z/10/ws/75/z/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "47.7722756 12.7972223 47.7722756 12.9446239 47.6809196 12.9446239 47.6809196 12.7972223 47.7722756 12.7972223",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1898"
   ],
-  "georss_box_s": "47.6809196 12.7972223 47.7722756 12.9446239",
-  "georss_polygon_s": "47.7722756 12.7972223 47.7722756 12.9446239 47.6809196 12.9446239 47.6809196 12.7972223 47.7722756 12.7972223",
   "solr_geom": "ENVELOPE(12.7972223, 12.9446239, 47.7722756, 47.6809196)",
-  "solr_year_i": "1898"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Bad Reichenhall (Germany)",
+    "Bavaria (Germany)"
+  ]
 }

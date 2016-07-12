@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/9019s479z",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Spring Lake",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "9019s479z",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F90%2F19%2Fs4%2F79%2Fz%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "9019s479z",
-  "layer_slug_s": "princeton-9019s479z",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:10:18Z",
+  "solr_geom": "ENVELOPE(-74.037676, -74.016764, 40.169092, 40.138337)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/90/19/s4/79/z/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/9019s479z",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Springfield Township, Union County, N.J. (Sheet 4)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1921"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "9019s479z",
+  "georss_polygon_s": "40.169092 -74.037676 40.169092 -74.016764 40.138337 -74.016764 40.138337 -74.037676 40.169092 -74.037676",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1921",
   "dct_spatial_sm": [
     "New Jersey",
     "Spring Lake"
   ],
-  "dct_temporal_sm": [
-    "1921"
-  ],
+  "layer_id_s": "9019s479z",
   "georss_box_s": "40.138337 -74.037676 40.169092 -74.016764",
-  "georss_polygon_s": "40.169092 -74.037676 40.169092 -74.016764 40.138337 -74.016764 40.138337 -74.037676 40.169092 -74.037676",
-  "solr_geom": "ENVELOPE(-74.037676, -74.016764, 40.169092, 40.138337)",
-  "solr_year_i": "1921"
+  "dc_title_s": "Springfield Township, Union County, N.J. (Sheet 4)",
+  "layer_slug_s": "princeton-9019s479z",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

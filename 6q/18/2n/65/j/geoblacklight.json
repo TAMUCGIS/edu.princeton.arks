@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1853",
   "uuid": "http://arks.princeton.edu/ark:/88435/6q182n65j",
   "dc_description_s": "Dublin and its environs",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "6q182n65j",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/6q182n65j/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F6q%2F18%2F2n%2F65%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "6q182n65j",
-  "layer_slug_s": "princeton-6q182n65j",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "53.1894299 -6.4200969 53.5094299 -6.1000969",
   "layer_modified_dt": "2015-01-21T22:24:25Z",
-  "dc_title_s": "Dublin and its environs",
+  "layer_id_s": "6q182n65j",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Dublin (Ireland)"
-  ],
+  "dc_identifier_s": "6q182n65j",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Dublin and its environs",
+  "layer_slug_s": "princeton-6q182n65j",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/6q182n65j/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/6q/18/2n/65/j/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "53.5094299 -6.4200969 53.5094299 -6.1000969 53.1894299 -6.1000969 53.1894299 -6.4200969 53.5094299 -6.4200969",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1853"
   ],
-  "georss_box_s": "53.1894299 -6.4200969 53.5094299 -6.1000969",
-  "georss_polygon_s": "53.5094299 -6.4200969 53.5094299 -6.1000969 53.1894299 -6.1000969 53.1894299 -6.4200969 53.5094299 -6.4200969",
   "solr_geom": "ENVELOPE(-6.4200969, -6.1000969, 53.5094299, 53.1894299)",
-  "solr_year_i": "1853"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Dublin (Ireland)"
+  ]
 }

@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1930",
   "uuid": "http://arks.princeton.edu/ark:/88435/st74cs77f",
   "dc_description_s": "Indian trails used in the founding of southern New England",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "st74cs77f",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/st74cs77f/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fst%2F74%2Fcs%2F77%2Ff%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "st74cs77f",
-  "layer_slug_s": "princeton-st74cs77f",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "40.950943 -73.727775 47.459686 -66.8850751",
   "layer_modified_dt": "2015-01-21T22:23:55Z",
-  "dc_title_s": "Indian trails used in the founding of southern New England",
+  "layer_id_s": "st74cs77f",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "New England"
-  ],
+  "dc_identifier_s": "st74cs77f",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Indian trails used in the founding of southern New England",
+  "layer_slug_s": "princeton-st74cs77f",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/st74cs77f/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/st/74/cs/77/f/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "47.459686 -73.727775 47.459686 -66.8850751 40.950943 -66.8850751 40.950943 -73.727775 47.459686 -73.727775",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1930"
   ],
-  "georss_box_s": "40.950943 -73.727775 47.459686 -66.8850751",
-  "georss_polygon_s": "47.459686 -73.727775 47.459686 -66.8850751 40.950943 -66.8850751 40.950943 -73.727775 47.459686 -73.727775",
   "solr_geom": "ENVELOPE(-73.727775, -66.8850751, 47.459686, 40.950943)",
-  "solr_year_i": "1930"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "New England"
+  ]
 }

@@ -1,22 +1,22 @@
 {
+  "solr_year_i": "1914",
   "uuid": "http://arks.princeton.edu/ark:/88435/x346d6006",
   "dc_description_s": "New York Journal of Commerce map of steamship routes of the world : showing tracks for full powered steam vessels, with shortest navigable distances in nautical miles, from anchorage to anchorage.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "x346d6006",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/x346d6006/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fx3%2F46%2Fd6%2F00%2F6%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "x346d6006",
-  "layer_slug_s": "princeton-x346d6006",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "38.92822 -75.55911 41.35744 -73.90233",
   "layer_modified_dt": "2015-01-25T02:06:08Z",
-  "dc_title_s": "New York Journal of Commerce map of steamship routes of the world : showing tracks for full powered steam vessels, with shortest navigable distances in nautical miles, from anchorage to anchorage.",
+  "layer_id_s": "x346d6006",
   "dc_type_s": "Image",
+  "dc_identifier_s": "x346d6006",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "New York Journal of Commerce map of steamship routes of the world : showing tracks for full powered steam vessels, with shortest navigable distances in nautical miles, from anchorage to anchorage.",
+  "layer_slug_s": "princeton-x346d6006",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/x346d6006/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/x3/46/d6/00/6/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "41.35744 -75.55911 41.35744 -73.90233 38.92822 -73.90233 38.92822 -75.55911 41.35744 -75.55911",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1914"
   ],
-  "georss_box_s": "38.92822 -75.55911 41.35744 -73.90233",
-  "georss_polygon_s": "41.35744 -75.55911 41.35744 -73.90233 38.92822 -73.90233 38.92822 -75.55911 41.35744 -75.55911",
   "solr_geom": "ENVELOPE(-75.55911, -73.90233, 41.35744, 38.92822)",
-  "solr_year_i": "1914"
+  "dc_rights_s": "Public"
 }

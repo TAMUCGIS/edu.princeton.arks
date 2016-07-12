@@ -1,28 +1,26 @@
 {
+  "solr_year_i": "1882",
   "uuid": "http://arks.princeton.edu/ark:/88435/cv43p024r",
+  "dc_description_s": "Map showing the boundaries as they existed one hundred years ago and the present maps of the Burling, Brevoort, Sailors' Snug Harbour and other estates",
+  "georss_box_s": "40.7702778 -73.9797222 40.8102778 -73.9397222",
+  "layer_modified_dt": "2015-01-21T22:24:05Z",
   "dc_creator_sm": [
     "Johnston, Lewis,"
   ],
-  "dc_description_s": "Map showing the boundaries as they existed one hundred years ago and the present maps of the Burling, Brevoort, Sailors' Snug Harbour and other estates",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "cv43p024r",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/cv43p024r/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fcv%2F43%2Fp0%2F24%2Fr%2F00000001.jp2/info.json\"}",
   "layer_id_s": "cv43p024r",
-  "layer_slug_s": "princeton-cv43p024r",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:05Z",
-  "dc_title_s": "Map showing the boundaries as they existed one hundred years ago and the present maps of the Burling, Brevoort, Sailors' Snug Harbour and other estates",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "cv43p024r",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Map showing the boundaries as they existed one hundred years ago and the present maps of the Burling, Brevoort, Sailors' Snug Harbour and other estates",
+  "layer_slug_s": "princeton-cv43p024r",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/cv43p024r/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/cv/43/p0/24/r/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.8102778 -73.9797222 40.8102778 -73.9397222 40.7702778 -73.9397222 40.7702778 -73.9797222 40.8102778 -73.9797222",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1882"
   ],
-  "georss_box_s": "40.7702778 -73.9797222 40.8102778 -73.9397222",
-  "georss_polygon_s": "40.8102778 -73.9797222 40.8102778 -73.9397222 40.7702778 -73.9397222 40.7702778 -73.9797222 40.8102778 -73.9797222",
   "solr_geom": "ENVELOPE(-73.9797222, -73.9397222, 40.8102778, 40.7702778)",
-  "solr_year_i": "1882"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

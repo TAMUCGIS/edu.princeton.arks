@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1907",
   "uuid": "http://arks.princeton.edu/ark:/88435/br86b6095",
-  "dc_description_s": "Plan von Warnemünde",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "br86b6095",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/br86b6095/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fr%2F86%2Fb6%2F09%2F5%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "br86b6095",
-  "layer_slug_s": "princeton-br86b6095",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Plan von Warnemu\u0308nde",
+  "georss_box_s": "53.1098405 10.5938299 54.8849662 14.4125172",
   "layer_modified_dt": "2015-01-21T22:24:28Z",
-  "dc_title_s": "Plan von Warnemünde",
+  "layer_id_s": "br86b6095",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Mecklenburg-Vorpommern (Germany)",
-    "Warnemünde (Rostock, Germany)"
-  ],
+  "dc_identifier_s": "br86b6095",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Plan von Warnemu\u0308nde",
+  "layer_slug_s": "princeton-br86b6095",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/br86b6095/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/br/86/b6/09/5/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "54.8849662 10.5938299 54.8849662 14.4125172 53.1098405 14.4125172 53.1098405 10.5938299 54.8849662 10.5938299",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1907"
   ],
-  "georss_box_s": "53.1098405 10.5938299 54.8849662 14.4125172",
-  "georss_polygon_s": "54.8849662 10.5938299 54.8849662 14.4125172 53.1098405 14.4125172 53.1098405 10.5938299 54.8849662 10.5938299",
   "solr_geom": "ENVELOPE(10.5938299, 14.4125172, 54.8849662, 53.1098405)",
-  "solr_year_i": "1907"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Mecklenburg-Vorpommern (Germany)",
+    "Warnemu\u0308nde (Rostock, Germany)"
+  ]
 }

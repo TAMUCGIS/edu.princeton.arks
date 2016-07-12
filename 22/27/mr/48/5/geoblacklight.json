@@ -1,31 +1,31 @@
 {
+  "solr_year_i": "1815",
   "uuid": "http://arks.princeton.edu/ark:/88435/2227mr485",
+  "dc_description_s": "Southern Africa",
+  "georss_box_s": "-34.967 11.4697 -16.9634855 33.0469",
+  "layer_modified_dt": "2015-01-21T22:23:43Z",
   "dc_creator_sm": [
     "Hebert, L.",
     "Neele, Samuel John,",
     "Pinkerton, John,"
   ],
-  "dc_description_s": "Southern Africa",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "2227mr485",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/2227mr485/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F22%2F27%2Fmr%2F48%2F5%2F00000001.jp2/info.json\"}",
   "layer_id_s": "2227mr485",
-  "layer_slug_s": "princeton-2227mr485",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:43Z",
-  "dc_title_s": "Southern Africa",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Africa, Southern",
-    "Madagascar"
-  ],
+  "dc_identifier_s": "2227mr485",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Southern Africa",
+  "layer_slug_s": "princeton-2227mr485",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/2227mr485/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/22/27/mr/48/5/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "-16.9634855 11.4697 -16.9634855 33.0469 -34.967 33.0469 -34.967 11.4697 -16.9634855 11.4697",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1815"
   ],
-  "georss_box_s": "-34.967 11.4697 -16.9634855 33.0469",
-  "georss_polygon_s": "-16.9634855 11.4697 -16.9634855 33.0469 -34.967 33.0469 -34.967 11.4697 -16.9634855 11.4697",
   "solr_geom": "ENVELOPE(11.4697, 33.0469, -16.9634855, -34.967)",
-  "solr_year_i": "1815"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Africa, Southern",
+    "Madagascar"
+  ]
 }

@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1647",
   "uuid": "http://arks.princeton.edu/ark:/88435/1n79h678f",
+  "dc_description_s": "Wiltonia, sive, Comitatus Wiltoniensis, anglis Wil Shire",
+  "georss_box_s": "50.9445859 -2.3655988 51.7031431 -1.4857261",
+  "layer_modified_dt": "2015-01-21T22:24:19Z",
   "dc_creator_sm": [
     "Haselton, Norris S.,"
   ],
-  "dc_description_s": "Wiltonia, sive, Comitatus Wiltoniensis, anglis Wil Shire",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "1n79h678f",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/1n79h678f/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F1n%2F79%2Fh6%2F78%2Ff%2F00000001.jp2/info.json\"}",
   "layer_id_s": "1n79h678f",
-  "layer_slug_s": "princeton-1n79h678f",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:19Z",
-  "dc_title_s": "Wiltonia, sive, Comitatus Wiltoniensis, anglis Wil Shire",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Wiltshire (England)"
-  ],
+  "dc_identifier_s": "1n79h678f",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Wiltonia, sive, Comitatus Wiltoniensis, anglis Wil Shire",
+  "layer_slug_s": "princeton-1n79h678f",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/1n79h678f/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/1n/79/h6/78/f/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "51.7031431 -2.3655988 51.7031431 -1.4857261 50.9445859 -1.4857261 50.9445859 -2.3655988 51.7031431 -2.3655988",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1647"
   ],
-  "georss_box_s": "50.9445859 -2.3655988 51.7031431 -1.4857261",
-  "georss_polygon_s": "51.7031431 -2.3655988 51.7031431 -1.4857261 50.9445859 -1.4857261 50.9445859 -2.3655988 51.7031431 -2.3655988",
   "solr_geom": "ENVELOPE(-2.3655988, -1.4857261, 51.7031431, 50.9445859)",
-  "solr_year_i": "1647"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Wiltshire (England)"
+  ]
 }

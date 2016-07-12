@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1918",
   "uuid": "http://arks.princeton.edu/ark:/88435/mk61rk40x",
-  "dc_description_s": "Mārdîn",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "mk61rk40x",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/mk61rk40x/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fmk%2F61%2Frk%2F40%2Fx%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "mk61rk40x",
-  "layer_slug_s": "princeton-mk61rk40x",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Ma\u0304rdi\u0302n",
+  "georss_box_s": "36.907682 39.9070778 37.739141 41.8974001",
   "layer_modified_dt": "2015-01-21T22:24:12Z",
-  "dc_title_s": "Mārdîn",
+  "layer_id_s": "mk61rk40x",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Mardin İli (Turkey)"
-  ],
+  "dc_identifier_s": "mk61rk40x",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Ma\u0304rdi\u0302n",
+  "layer_slug_s": "princeton-mk61rk40x",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/mk61rk40x/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/mk/61/rk/40/x/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "37.739141 39.9070778 37.739141 41.8974001 36.907682 41.8974001 36.907682 39.9070778 37.739141 39.9070778",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1918"
   ],
-  "georss_box_s": "36.907682 39.9070778 37.739141 41.8974001",
-  "georss_polygon_s": "37.739141 39.9070778 37.739141 41.8974001 36.907682 41.8974001 36.907682 39.9070778 37.739141 39.9070778",
   "solr_geom": "ENVELOPE(39.9070778, 41.8974001, 37.739141, 36.907682)",
-  "solr_year_i": "1918"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Mardin I\u0307li (Turkey)"
+  ]
 }

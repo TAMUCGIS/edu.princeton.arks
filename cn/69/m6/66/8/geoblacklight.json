@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1902",
   "uuid": "http://arks.princeton.edu/ark:/88435/cn69m6668",
+  "dc_description_s": "[Wu\u0308rzburg und Umgebung]",
+  "georss_box_s": "47.2701114 8.9763497 50.5647142 13.8396373",
+  "layer_modified_dt": "2015-01-21T22:24:30Z",
   "dc_creator_sm": [
     "Woerl, Leo,"
   ],
-  "dc_description_s": "[Würzburg und Umgebung]",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "cn69m6668",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/cn69m6668/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fcn%2F69%2Fm6%2F66%2F8%2F00000001.jp2/info.json\"}",
   "layer_id_s": "cn69m6668",
-  "layer_slug_s": "princeton-cn69m6668",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:30Z",
-  "dc_title_s": "[Würzburg und Umgebung]",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Bavaria (Germany)",
-    "Würzburg (Germany)"
-  ],
+  "dc_identifier_s": "cn69m6668",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "[Wu\u0308rzburg und Umgebung]",
+  "layer_slug_s": "princeton-cn69m6668",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/cn69m6668/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/cn/69/m6/66/8/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "50.5647142 8.9763497 50.5647142 13.8396373 47.2701114 13.8396373 47.2701114 8.9763497 50.5647142 8.9763497",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1902"
   ],
-  "georss_box_s": "47.2701114 8.9763497 50.5647142 13.8396373",
-  "georss_polygon_s": "50.5647142 8.9763497 50.5647142 13.8396373 47.2701114 13.8396373 47.2701114 8.9763497 50.5647142 8.9763497",
   "solr_geom": "ENVELOPE(8.9763497, 13.8396373, 50.5647142, 47.2701114)",
-  "solr_year_i": "1902"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Bavaria (Germany)",
+    "Wu\u0308rzburg (Germany)"
+  ]
 }

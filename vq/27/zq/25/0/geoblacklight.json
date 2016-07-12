@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1890",
   "uuid": "http://arks.princeton.edu/ark:/88435/vq27zq250",
   "dc_description_s": "A map of the great forest region showing the routes of the Emin Pasha relief expedition from the River Congo to the Victoria Nyanza",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "vq27zq250",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/vq27zq250/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fvq%2F27%2Fzq%2F25%2F0%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "vq27zq250",
-  "layer_slug_s": "princeton-vq27zq250",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "-18.0391039 5.5419 23.449235 31.3146115",
   "layer_modified_dt": "2015-01-21T22:23:43Z",
-  "dc_title_s": "A map of the great forest region showing the routes of the Emin Pasha relief expedition from the River Congo to the Victoria Nyanza",
+  "layer_id_s": "vq27zq250",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Africa, Central"
-  ],
+  "dc_identifier_s": "vq27zq250",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "A map of the great forest region showing the routes of the Emin Pasha relief expedition from the River Congo to the Victoria Nyanza",
+  "layer_slug_s": "princeton-vq27zq250",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/vq27zq250/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/vq/27/zq/25/0/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "23.449235 5.5419 23.449235 31.3146115 -18.0391039 31.3146115 -18.0391039 5.5419 23.449235 5.5419",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1890"
   ],
-  "georss_box_s": "-18.0391039 5.5419 23.449235 31.3146115",
-  "georss_polygon_s": "23.449235 5.5419 23.449235 31.3146115 -18.0391039 31.3146115 -18.0391039 5.5419 23.449235 5.5419",
   "solr_geom": "ENVELOPE(5.5419, 31.3146115, 23.449235, -18.0391039)",
-  "solr_year_i": "1890"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Africa, Central"
+  ]
 }

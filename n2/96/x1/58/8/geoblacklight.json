@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1864",
   "uuid": "http://arks.princeton.edu/ark:/88435/n296x1588",
+  "dc_description_s": "The Island of Sombrero",
+  "georss_box_s": "18.5811723 -63.4293939 18.5955719 -63.4215831",
+  "layer_modified_dt": "2015-01-21T22:24:09Z",
   "dc_creator_sm": [
     "Hurd, Thomas,",
     "Walker, J.,"
   ],
-  "dc_description_s": "The Island of Sombrero",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "n296x1588",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/n296x1588/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fn2%2F96%2Fx1%2F58%2F8%2F00000001.jp2/info.json\"}",
   "layer_id_s": "n296x1588",
-  "layer_slug_s": "princeton-n296x1588",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:09Z",
-  "dc_title_s": "The Island of Sombrero",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Sombrero Island (Anguilla)"
-  ],
+  "dc_identifier_s": "n296x1588",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "The Island of Sombrero",
+  "layer_slug_s": "princeton-n296x1588",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/n296x1588/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/n2/96/x1/58/8/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "18.5955719 -63.4293939 18.5955719 -63.4215831 18.5811723 -63.4215831 18.5811723 -63.4293939 18.5955719 -63.4293939",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1864"
   ],
-  "georss_box_s": "18.5811723 -63.4293939 18.5955719 -63.4215831",
-  "georss_polygon_s": "18.5955719 -63.4293939 18.5955719 -63.4215831 18.5811723 -63.4215831 18.5811723 -63.4293939 18.5955719 -63.4293939",
   "solr_geom": "ENVELOPE(-63.4293939, -63.4215831, 18.5955719, 18.5811723)",
-  "solr_year_i": "1864"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Sombrero Island (Anguilla)"
+  ]
 }

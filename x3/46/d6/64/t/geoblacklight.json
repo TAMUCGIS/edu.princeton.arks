@@ -1,31 +1,31 @@
 {
+  "solr_year_i": "1873",
   "uuid": "http://arks.princeton.edu/ark:/88435/x346d664t",
+  "dc_description_s": "Empire of Alexander the Great",
+  "georss_box_s": "20.0 15.0 55.0 85.0",
+  "layer_modified_dt": "2015-01-19T22:37:23Z",
   "dc_creator_sm": [
     "Smith, William,",
     "Jacobs, S.,",
     "Dalmont, I."
   ],
-  "dc_description_s": "Empire of Alexander the Great",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "x346d664t",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/x346d664t/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fx3%2F46%2Fd6%2F64%2Ft%2F00000001.jp2/info.json\"}",
   "layer_id_s": "x346d664t",
-  "layer_slug_s": "princeton-x346d664t",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:23Z",
-  "dc_title_s": "Empire of Alexander the Great",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Asia, Central",
-    "Middle East"
-  ],
+  "dc_identifier_s": "x346d664t",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Empire of Alexander the Great",
+  "layer_slug_s": "princeton-x346d664t",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/x346d664t/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/x3/46/d6/64/t/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "55.0 15.0 55.0 85.0 20.0 85.0 20.0 15.0 55.0 15.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1873"
   ],
-  "georss_box_s": "20.0 15.0 55.0 85.0",
-  "georss_polygon_s": "55.0 15.0 55.0 85.0 20.0 85.0 20.0 15.0 55.0 15.0",
   "solr_geom": "ENVELOPE(15.0, 85.0, 55.0, 20.0)",
-  "solr_year_i": "1873"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Asia, Central",
+    "Middle East"
+  ]
 }

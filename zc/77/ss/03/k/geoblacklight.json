@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1901",
   "uuid": "http://arks.princeton.edu/ark:/88435/zc77ss03k",
   "dc_description_s": "Map to illustrate the Near Eastern question",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "zc77ss03k",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/zc77ss03k/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fzc%2F77%2Fss%2F03%2Fk%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "zc77ss03k",
-  "layer_slug_s": "princeton-zc77ss03k",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "35.8076804 25.6212891 42.297 44.8176638",
   "layer_modified_dt": "2015-01-21T22:23:52Z",
-  "dc_title_s": "Map to illustrate the Near Eastern question",
+  "layer_id_s": "zc77ss03k",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Turkey",
-    "Balkan Peninsula"
-  ],
+  "dc_identifier_s": "zc77ss03k",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Map to illustrate the Near Eastern question",
+  "layer_slug_s": "princeton-zc77ss03k",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/zc77ss03k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/zc/77/ss/03/k/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "42.297 25.6212891 42.297 44.8176638 35.8076804 44.8176638 35.8076804 25.6212891 42.297 25.6212891",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1901"
   ],
-  "georss_box_s": "35.8076804 25.6212891 42.297 44.8176638",
-  "georss_polygon_s": "42.297 25.6212891 42.297 44.8176638 35.8076804 44.8176638 35.8076804 25.6212891 42.297 25.6212891",
   "solr_geom": "ENVELOPE(25.6212891, 44.8176638, 42.297, 35.8076804)",
-  "solr_year_i": "1901"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Turkey",
+    "Balkan Peninsula"
+  ]
 }

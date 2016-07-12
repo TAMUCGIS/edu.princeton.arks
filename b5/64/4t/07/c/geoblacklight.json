@@ -2,7 +2,7 @@
   "dc_description_s": "A scanned USGS 1:62500 topographic map.",
   "layer_modified_dt": "2015-01-11T17:42:51Z",
   "solr_geom": "ENVELOPE(-75, -74.5, 41, 40.5)",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fb5%2F64%2F4t%2F07%2Fc%2F00000001.jp2/info.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/b5644t07c/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/b5644t07c/preview.jpg\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/b5644t07c/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/b5/64/4t/07/c/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/b5644t07c/preview.jpg\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/b5644t07c",
   "dct_provenance_s": "Princeton",
@@ -15,7 +15,7 @@
     "15 Minute Quadrangle Map"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "1905",
+  "layer_slug_s": "princeton-b5644t07c",
   "dc_creator_sm": [
     "United States Geological Survey"
   ],
@@ -39,7 +39,7 @@
   "layer_id_s": "b5644t07c",
   "georss_box_s": "40.5 -75 41 -74.5",
   "dc_title_s": "New Jersey, Raritan Quadrangle (1905)",
-  "layer_slug_s": "princeton-b5644t07c",
+  "dct_issued_s": "1905",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

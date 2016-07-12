@@ -2,7 +2,7 @@
   "dc_description_s": "This is a map of the city of Bou Saada, Algeria, shown at a 1:100,000. The map was created for use by War and Navy Department agencies during World War II.",
   "layer_modified_dt": "2015-01-11T17:43:36Z",
   "solr_geom": "ENVELOPE(11.0000, 10.3000, 31.6667, 31.3333)",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fdj%2F52%2Fw6%2F43%2Fn%2F00000001.jp2/info.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/dj52w643n/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/dj52w643n/preview.jpg\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/dj52w643n/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/dj/52/w6/43/n/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/dj52w643n/preview.jpg\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/dj52w643n",
   "dct_provenance_s": "Princeton",
@@ -19,7 +19,7 @@
     "Topography"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "1941",
+  "layer_slug_s": "princeton-dj52w643n",
   "dc_creator_sm": [
     "Army Map Service"
   ],
@@ -39,7 +39,7 @@
   "layer_id_s": "dj52w643n",
   "georss_box_s": "31.3333 11.0000 31.6667 10.3000",
   "dc_title_s": "Tripoli 1:100,000. Bir Zuzam. Sheet 1769. Series Provisional G.S.G.S. 3980. ",
-  "layer_slug_s": "princeton-dj52w643n",
+  "dct_issued_s": "1941",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

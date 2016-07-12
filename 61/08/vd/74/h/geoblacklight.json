@@ -1,31 +1,31 @@
 {
+  "solr_year_i": "1607",
   "uuid": "http://arks.princeton.edu/ark:/88435/6108vd74h",
+  "dc_description_s": "Radnor : comitatus quem Silures olim incoluerunt",
+  "georss_box_s": "52.4427049 -3.2761628 52.4827049 -3.2361628",
+  "layer_modified_dt": "2015-01-21T22:24:18Z",
   "dc_creator_sm": [
     "Bishop, George,",
     "Camden, William,",
     "Kip, William,",
     "Norton, John,"
   ],
-  "dc_description_s": "Radnor : comitatus quem Silures olim incoluerunt",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "6108vd74h",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/6108vd74h/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F61%2F08%2Fvd%2F74%2Fh%2F00000001.jp2/info.json\"}",
   "layer_id_s": "6108vd74h",
-  "layer_slug_s": "princeton-6108vd74h",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:18Z",
-  "dc_title_s": "Radnor : comitatus quem Silures olim incoluerunt",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Radnorshire (Wales)"
-  ],
+  "dc_identifier_s": "6108vd74h",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Radnor : comitatus quem Silures olim incoluerunt",
+  "layer_slug_s": "princeton-6108vd74h",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/6108vd74h/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/61/08/vd/74/h/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "52.4827049 -3.2761628 52.4827049 -3.2361628 52.4427049 -3.2361628 52.4427049 -3.2761628 52.4827049 -3.2761628",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1607"
   ],
-  "georss_box_s": "52.4427049 -3.2761628 52.4827049 -3.2361628",
-  "georss_polygon_s": "52.4827049 -3.2761628 52.4827049 -3.2361628 52.4427049 -3.2361628 52.4427049 -3.2761628 52.4827049 -3.2761628",
   "solr_geom": "ENVELOPE(-3.2761628, -3.2361628, 52.4827049, 52.4427049)",
-  "solr_year_i": "1607"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Radnorshire (Wales)"
+  ]
 }

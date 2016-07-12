@@ -2,7 +2,7 @@
   "dc_description_s": "This is a map of Central America, shown at a 1:1,500,000 scale. The map was created by the Central Intelligence Agency.",
   "layer_modified_dt": "2015-01-11T17:43:19Z",
   "solr_geom": "ENVELOPE(-92, -70, 18, 8)",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fv1%2F18%2Frg%2F19%2Ft%2F00000001.jp2/info.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/v118rg19t/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/v118rg19t/preview.jpg\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/v118rg19t/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/v1/18/rg/19/t/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/v118rg19t/preview.jpg\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/v118rg19t",
   "dct_provenance_s": "Princeton",
@@ -11,7 +11,7 @@
     "Relief"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "July 1990",
+  "layer_slug_s": "princeton-v118rg19t",
   "dc_creator_sm": [
     "Central Intelligence Agency"
   ],
@@ -25,7 +25,7 @@
   "layer_id_s": "v118rg19t",
   "georss_box_s": "8 -92 18 -70",
   "dc_title_s": "Central America, 1990",
-  "layer_slug_s": "princeton-v118rg19t",
+  "dct_issued_s": "July 1990",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

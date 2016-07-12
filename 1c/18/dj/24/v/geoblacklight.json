@@ -1,31 +1,31 @@
 {
+  "solr_year_i": "1865",
   "uuid": "http://arks.princeton.edu/ark:/88435/1c18dj24v",
+  "dc_description_s": "Germanic Confederation",
+  "georss_box_s": "45.0 5.0 54.0 19.0",
+  "layer_modified_dt": "2015-01-19T22:37:22Z",
   "dc_creator_sm": [
     "Cornell, S. S.",
     "Fisher, W. H.,"
   ],
-  "dc_description_s": "Germanic Confederation",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "1c18dj24v",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/1c18dj24v/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F1c%2F18%2Fdj%2F24%2Fv%2F00000001.jp2/info.json\"}",
   "layer_id_s": "1c18dj24v",
-  "layer_slug_s": "princeton-1c18dj24v",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:22Z",
-  "dc_title_s": "Germanic Confederation",
   "dc_type_s": "Image",
+  "dc_identifier_s": "1c18dj24v",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Germanic Confederation",
+  "layer_slug_s": "princeton-1c18dj24v",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/1c18dj24v/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/1c/18/dj/24/v/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "54.0 5.0 54.0 19.0 45.0 19.0 45.0 5.0 54.0 5.0",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1865"
+  ],
+  "solr_geom": "ENVELOPE(5.0, 19.0, 54.0, 45.0)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Germany",
     "Austria",
     "Europe, Central"
-  ],
-  "dct_temporal_sm": [
-    "1865"
-  ],
-  "georss_box_s": "45.0 5.0 54.0 19.0",
-  "georss_polygon_s": "54.0 5.0 54.0 19.0 45.0 19.0 45.0 5.0 54.0 5.0",
-  "solr_geom": "ENVELOPE(5.0, 19.0, 54.0, 45.0)",
-  "solr_year_i": "1865"
+  ]
 }

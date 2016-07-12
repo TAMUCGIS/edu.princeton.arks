@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1843",
   "uuid": "http://arks.princeton.edu/ark:/88435/tt44pq40m",
+  "dc_description_s": "Pianta della Citta\u0300 di Roma con la indicazione di tutte le anticha\u0300 e nuovi abbellimenti /",
+  "georss_box_s": "41.6556417 12.2344985 42.1410285 12.8557603",
+  "layer_modified_dt": "2015-01-25T02:06:22Z",
   "dc_creator_sm": [
     "Monaldini, Venanzio."
   ],
-  "dc_description_s": "Pianta della Città di Roma con la indicazione di tutte le antichà e nuovi abbellimenti /",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "tt44pq40m",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/tt44pq40m/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ftt%2F44%2Fpq%2F40%2Fm%2F00000001.jp2/info.json\"}",
   "layer_id_s": "tt44pq40m",
-  "layer_slug_s": "princeton-tt44pq40m",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:22Z",
-  "dc_title_s": "Pianta della Città di Roma con la indicazione di tutte le antichà e nuovi abbellimenti /",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Rome (Italy)"
-  ],
+  "dc_identifier_s": "tt44pq40m",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Pianta della Citta\u0300 di Roma con la indicazione di tutte le anticha\u0300 e nuovi abbellimenti /",
+  "layer_slug_s": "princeton-tt44pq40m",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/tt44pq40m/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/tt/44/pq/40/m/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "42.1410285 12.2344985 42.1410285 12.8557603 41.6556417 12.8557603 41.6556417 12.2344985 42.1410285 12.2344985",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1843"
   ],
-  "georss_box_s": "41.6556417 12.2344985 42.1410285 12.8557603",
-  "georss_polygon_s": "42.1410285 12.2344985 42.1410285 12.8557603 41.6556417 12.8557603 41.6556417 12.2344985 42.1410285 12.2344985",
   "solr_geom": "ENVELOPE(12.2344985, 12.8557603, 42.1410285, 41.6556417)",
-  "solr_year_i": "1843"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Rome (Italy)"
+  ]
 }

@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1848",
   "uuid": "http://arks.princeton.edu/ark:/88435/8910jx09t",
   "dc_description_s": "Gulf of Mexico sheet I: coast of Yucatan and the Campeche Bank",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "8910jx09t",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/8910jx09t/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F89%2F10%2Fjx%2F09%2Ft%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "8910jx09t",
-  "layer_slug_s": "princeton-8910jx09t",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "19.7 -92.7166666667 24.1666666667 -86.0",
   "layer_modified_dt": "2015-01-19T22:37:35Z",
-  "dc_title_s": "Gulf of Mexico sheet I: coast of Yucatan and the Campeche Bank",
+  "layer_id_s": "8910jx09t",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Yucatán Peninsula"
-  ],
+  "dc_identifier_s": "8910jx09t",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Gulf of Mexico sheet I: coast of Yucatan and the Campeche Bank",
+  "layer_slug_s": "princeton-8910jx09t",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/8910jx09t/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/89/10/jx/09/t/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "24.1666666667 -92.7166666667 24.1666666667 -86.0 19.7 -86.0 19.7 -92.7166666667 24.1666666667 -92.7166666667",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1848"
   ],
-  "georss_box_s": "19.7 -92.7166666667 24.1666666667 -86.0",
-  "georss_polygon_s": "24.1666666667 -92.7166666667 24.1666666667 -86.0 19.7 -86.0 19.7 -92.7166666667 24.1666666667 -92.7166666667",
   "solr_geom": "ENVELOPE(-92.7166666667, -86.0, 24.1666666667, 19.7)",
-  "solr_year_i": "1848"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Yucata\u0301n Peninsula"
+  ]
 }

@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1891",
   "uuid": "http://arks.princeton.edu/ark:/88435/x059c978k",
   "dc_description_s": "Rand, McNally & Co.'s indexed atlas of the world map of Germany (western sheet)",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "x059c978k",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/x059c978k/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fx0%2F59%2Fc9%2F78%2Fk%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "x059c978k",
-  "layer_slug_s": "princeton-x059c978k",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "47.0 5.0 56.0 15.0",
   "layer_modified_dt": "2015-01-19T22:37:12Z",
-  "dc_title_s": "Rand, McNally & Co.'s indexed atlas of the world map of Germany (western sheet)",
+  "layer_id_s": "x059c978k",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Germany"
-  ],
+  "dc_identifier_s": "x059c978k",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Rand, McNally & Co.'s indexed atlas of the world map of Germany (western sheet)",
+  "layer_slug_s": "princeton-x059c978k",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/x059c978k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/x0/59/c9/78/k/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "56.0 5.0 56.0 15.0 47.0 15.0 47.0 5.0 56.0 5.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1891"
   ],
-  "georss_box_s": "47.0 5.0 56.0 15.0",
-  "georss_polygon_s": "56.0 5.0 56.0 15.0 47.0 15.0 47.0 5.0 56.0 5.0",
   "solr_geom": "ENVELOPE(5.0, 15.0, 56.0, 47.0)",
-  "solr_year_i": "1891"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Germany"
+  ]
 }

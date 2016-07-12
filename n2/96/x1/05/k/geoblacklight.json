@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/n296x105k",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Teaneck",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "n296x105k",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fn2%2F96%2Fx1%2F05%2Fk%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "n296x105k",
-  "layer_slug_s": "princeton-n296x105k",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:02:25Z",
+  "solr_geom": "ENVELOPE(-74.036556, -73.98739, 40.917079, 40.859899)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/n2/96/x1/05/k/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/n296x105k",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Teaneck Township (Sheet 6)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1933"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "n296x105k",
+  "georss_polygon_s": "40.917079 -74.036556 40.917079 -73.98739 40.859899 -73.98739 40.859899 -74.036556 40.917079 -74.036556",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1933",
   "dct_spatial_sm": [
     "New Jersey",
     "Teaneck"
   ],
-  "dct_temporal_sm": [
-    "1933"
-  ],
+  "layer_id_s": "n296x105k",
   "georss_box_s": "40.859899 -74.036556 40.917079 -73.98739",
-  "georss_polygon_s": "40.917079 -74.036556 40.917079 -73.98739 40.859899 -73.98739 40.859899 -74.036556 40.917079 -74.036556",
-  "solr_geom": "ENVELOPE(-74.036556, -73.98739, 40.917079, 40.859899)",
-  "solr_year_i": "1933"
+  "dc_title_s": "Teaneck Township (Sheet 6)",
+  "layer_slug_s": "princeton-n296x105k",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

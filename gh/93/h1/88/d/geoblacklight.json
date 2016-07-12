@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/gh93h188d",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Long Branch",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "gh93h188d",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fgh%2F93%2Fh1%2F88%2Fd%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "gh93h188d",
-  "layer_slug_s": "princeton-gh93h188d",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:11:50Z",
+  "solr_geom": "ENVELOPE(-74.01258, -73.975135, 40.329783, 40.260767)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/gh/93/h1/88/d/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/gh93h188d",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Long Branch (Sheet 18)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1907"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "gh93h188d",
+  "georss_polygon_s": "40.329783 -74.01258 40.329783 -73.975135 40.260767 -73.975135 40.260767 -74.01258 40.329783 -74.01258",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1907",
   "dct_spatial_sm": [
     "New Jersey",
     "Long Branch"
   ],
-  "dct_temporal_sm": [
-    "1907"
-  ],
+  "layer_id_s": "gh93h188d",
   "georss_box_s": "40.260767 -74.01258 40.329783 -73.975135",
-  "georss_polygon_s": "40.329783 -74.01258 40.329783 -73.975135 40.260767 -73.975135 40.260767 -74.01258 40.329783 -74.01258",
-  "solr_geom": "ENVELOPE(-74.01258, -73.975135, 40.329783, 40.260767)",
-  "solr_year_i": "1907"
+  "dc_title_s": "Long Branch (Sheet 18)",
+  "layer_slug_s": "princeton-gh93h188d",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

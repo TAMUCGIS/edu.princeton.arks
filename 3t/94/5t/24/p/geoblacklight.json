@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1818",
   "uuid": "http://arks.princeton.edu/ark:/88435/3t945t24p",
   "dc_description_s": "The Seven United Provinces",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "3t945t24p",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/3t945t24p/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F3t%2F94%2F5t%2F24%2Fp%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "3t945t24p",
-  "layer_slug_s": "princeton-3t945t24p",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "51.0 2.0 54.0 8.0",
   "layer_modified_dt": "2015-01-19T22:37:16Z",
-  "dc_title_s": "The Seven United Provinces",
+  "layer_id_s": "3t945t24p",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Netherlands"
-  ],
+  "dc_identifier_s": "3t945t24p",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "The Seven United Provinces",
+  "layer_slug_s": "princeton-3t945t24p",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/3t945t24p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/3t/94/5t/24/p/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "54.0 2.0 54.0 8.0 51.0 8.0 51.0 2.0 54.0 2.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1818"
   ],
-  "georss_box_s": "51.0 2.0 54.0 8.0",
-  "georss_polygon_s": "54.0 2.0 54.0 8.0 51.0 8.0 51.0 2.0 54.0 2.0",
   "solr_geom": "ENVELOPE(2.0, 8.0, 54.0, 51.0)",
-  "solr_year_i": "1818"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Netherlands"
+  ]
 }

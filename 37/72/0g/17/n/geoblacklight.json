@@ -1,26 +1,26 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/37720g17n",
+  "dc_description_s": "Amplissimae regionis Mississipi seu provinciae Ludovicianae a\u0302 R.P. Ludovico Hennepin Francisc. Miss. in America Septentrionali anno 1687 detectae, nunc Gallorum Coloniis et actionum negotiis toto orbe celeberrimae, nova tabula",
+  "georss_box_s": "28.855127 -94.0431469 33.0194557 -88.7583879",
+  "layer_modified_dt": "2015-01-21T22:24:06Z",
   "dc_creator_sm": [
     "McCabe, Robert A.,"
   ],
-  "dc_description_s": "Amplissimae regionis Mississipi seu provinciae Ludovicianae â R.P. Ludovico Hennepin Francisc. Miss. in America Septentrionali anno 1687 detectae, nunc Gallorum Coloniis et actionum negotiis toto orbe celeberrimae, nova tabula",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "37720g17n",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/37720g17n/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F37%2F72%2F0g%2F17%2Fn%2F00000001.jp2/info.json\"}",
   "layer_id_s": "37720g17n",
-  "layer_slug_s": "princeton-37720g17n",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:06Z",
-  "dc_title_s": "Amplissimae regionis Mississipi seu provinciae Ludovicianae â R.P. Ludovico Hennepin Francisc. Miss. in America Septentrionali anno 1687 detectae, nunc Gallorum Coloniis et actionum negotiis toto orbe celeberrimae, nova tabula",
   "dc_type_s": "Image",
+  "dc_identifier_s": "37720g17n",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Amplissimae regionis Mississipi seu provinciae Ludovicianae a\u0302 R.P. Ludovico Hennepin Francisc. Miss. in America Septentrionali anno 1687 detectae, nunc Gallorum Coloniis et actionum negotiis toto orbe celeberrimae, nova tabula",
+  "layer_slug_s": "princeton-37720g17n",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/37720g17n/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/37/72/0g/17/n/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "33.0194557 -94.0431469 33.0194557 -88.7583879 28.855127 -88.7583879 28.855127 -94.0431469 33.0194557 -94.0431469",
+  "layer_geom_type_s": "Image",
+  "solr_geom": "ENVELOPE(-94.0431469, -88.7583879, 33.0194557, 28.855127)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Louisiana",
     "Mississippi River Valley",
     "United States"
-  ],
-  "georss_box_s": "28.855127 -94.0431469 33.0194557 -88.7583879",
-  "georss_polygon_s": "33.0194557 -94.0431469 33.0194557 -88.7583879 28.855127 -88.7583879 28.855127 -94.0431469 33.0194557 -94.0431469",
-  "solr_geom": "ENVELOPE(-94.0431469, -88.7583879, 33.0194557, 28.855127)"
+  ]
 }

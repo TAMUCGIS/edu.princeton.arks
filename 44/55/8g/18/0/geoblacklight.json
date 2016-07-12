@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/44558g180",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Como",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "44558g180",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F44%2F55%2F8g%2F18%2F0%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "44558g180",
-  "layer_slug_s": "princeton-44558g180",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:01:54Z",
+  "solr_geom": "ENVELOPE(-74.197734, -74.117804, 40.899398, 40.819933)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/44/55/8g/18/0/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/44558g180",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Como (Sheet 15), Spring Lake & Sea Girt, Monmouth Co., New Jersey",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1905"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "44558g180",
+  "georss_polygon_s": "40.899398 -74.197734 40.899398 -74.117804 40.819933 -74.117804 40.819933 -74.197734 40.899398 -74.197734",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1905",
   "dct_spatial_sm": [
     "New Jersey",
     "Como"
   ],
-  "dct_temporal_sm": [
-    "1905"
-  ],
+  "layer_id_s": "44558g180",
   "georss_box_s": "40.819933 -74.197734 40.899398 -74.117804",
-  "georss_polygon_s": "40.899398 -74.197734 40.899398 -74.117804 40.819933 -74.117804 40.819933 -74.197734 40.899398 -74.197734",
-  "solr_geom": "ENVELOPE(-74.197734, -74.117804, 40.899398, 40.819933)",
-  "solr_year_i": "1905"
+  "dc_title_s": "Como (Sheet 15), Spring Lake & Sea Girt, Monmouth Co., New Jersey",
+  "layer_slug_s": "princeton-44558g180",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

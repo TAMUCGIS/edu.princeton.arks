@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1809",
   "uuid": "http://arks.princeton.edu/ark:/88435/00000187w",
+  "dc_description_s": "Asia Minor",
+  "georss_box_s": "35.8076804 25.6212891 42.297 44.8176638",
+  "layer_modified_dt": "2015-01-21T22:23:46Z",
   "dc_creator_sm": [
     "Lowry,"
   ],
-  "dc_description_s": "Asia Minor",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "00000187w",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/00000187w/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F00%2F00%2F01%2F87%2Fw%2F00000001.jp2/info.json\"}",
   "layer_id_s": "00000187w",
-  "layer_slug_s": "princeton-00000187w",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:46Z",
-  "dc_title_s": "Asia Minor",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Turkey"
-  ],
+  "dc_identifier_s": "00000187w",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Asia Minor",
+  "layer_slug_s": "princeton-00000187w",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/00000187w/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/00/00/01/87/w/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "42.297 25.6212891 42.297 44.8176638 35.8076804 44.8176638 35.8076804 25.6212891 42.297 25.6212891",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1809"
   ],
-  "georss_box_s": "35.8076804 25.6212891 42.297 44.8176638",
-  "georss_polygon_s": "42.297 25.6212891 42.297 44.8176638 35.8076804 44.8176638 35.8076804 25.6212891 42.297 25.6212891",
   "solr_geom": "ENVELOPE(25.6212891, 44.8176638, 42.297, 35.8076804)",
-  "solr_year_i": "1809"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Turkey"
+  ]
 }

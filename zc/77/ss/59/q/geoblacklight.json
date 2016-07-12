@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1820",
   "uuid": "http://arks.princeton.edu/ark:/88435/zc77ss59q",
-  "dc_description_s": "Carte génerale des Iles Britanniques",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "zc77ss59q",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/zc77ss59q/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fzc%2F77%2Fss%2F59%2Fq%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "zc77ss59q",
-  "layer_slug_s": "princeton-zc77ss59q",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Carte ge\u0301nerale des Iles Britanniques",
+  "georss_box_s": "48.5 -13.0 60.0 -0.5",
   "layer_modified_dt": "2015-01-19T22:37:27Z",
-  "dc_title_s": "Carte génerale des Iles Britanniques",
+  "layer_id_s": "zc77ss59q",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "British Isles"
-  ],
+  "dc_identifier_s": "zc77ss59q",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Carte ge\u0301nerale des Iles Britanniques",
+  "layer_slug_s": "princeton-zc77ss59q",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/zc77ss59q/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/zc/77/ss/59/q/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "60.0 -13.0 60.0 -0.5 48.5 -0.5 48.5 -13.0 60.0 -13.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1820"
   ],
-  "georss_box_s": "48.5 -13.0 60.0 -0.5",
-  "georss_polygon_s": "60.0 -13.0 60.0 -0.5 48.5 -0.5 48.5 -13.0 60.0 -13.0",
   "solr_geom": "ENVELOPE(-13.0, -0.5, 60.0, 48.5)",
-  "solr_year_i": "1820"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "British Isles"
+  ]
 }

@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1705",
   "uuid": "http://arks.princeton.edu/ark:/88435/2z10ws58h",
+  "dc_description_s": "Plan ge\u0301ne\u0301ral. de Versailles : son parc, son louvre, ses jardins, ses fontaines, ses bosquets et sa ville",
+  "georss_box_s": "48.7981613122 2.0698931 48.828575 2.1348182701",
+  "layer_modified_dt": "2015-01-21T22:23:58Z",
   "dc_creator_sm": [
     "Inselin, C.",
     "Fer, Nicolas de,"
   ],
-  "dc_description_s": "Plan général. de Versailles : son parc, son louvre, ses jardins, ses fontaines, ses bosquets et sa ville",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "2z10ws58h",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/2z10ws58h/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F2z%2F10%2Fws%2F58%2Fh%2F00000001.jp2/info.json\"}",
   "layer_id_s": "2z10ws58h",
-  "layer_slug_s": "princeton-2z10ws58h",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:58Z",
-  "dc_title_s": "Plan général. de Versailles : son parc, son louvre, ses jardins, ses fontaines, ses bosquets et sa ville",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Parc de Versailles (Versailles, France)",
-    "Versailles (France)"
-  ],
+  "dc_identifier_s": "2z10ws58h",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Plan ge\u0301ne\u0301ral. de Versailles : son parc, son louvre, ses jardins, ses fontaines, ses bosquets et sa ville",
+  "layer_slug_s": "princeton-2z10ws58h",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/2z10ws58h/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/2z/10/ws/58/h/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "48.828575 2.0698931 48.828575 2.1348182701 48.7981613122 2.1348182701 48.7981613122 2.0698931 48.828575 2.0698931",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1705"
   ],
-  "georss_box_s": "48.7981613122 2.0698931 48.828575 2.1348182701",
-  "georss_polygon_s": "48.828575 2.0698931 48.828575 2.1348182701 48.7981613122 2.1348182701 48.7981613122 2.0698931 48.828575 2.0698931",
   "solr_geom": "ENVELOPE(2.0698931, 2.1348182701, 48.828575, 48.7981613122)",
-  "solr_year_i": "1705"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Parc de Versailles (Versailles, France)",
+    "Versailles (France)"
+  ]
 }

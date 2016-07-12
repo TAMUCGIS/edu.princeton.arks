@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1778",
   "uuid": "http://arks.princeton.edu/ark:/88435/fn1071262",
+  "dc_description_s": "Asia : agreeable to the most approved maps and charts",
+  "georss_box_s": "-8.0 29.0 75.0 180.0",
+  "layer_modified_dt": "2015-01-19T22:36:59Z",
   "dc_creator_sm": [
     "Hogg, Alexander,",
     "Moore, John Hamilton,"
   ],
-  "dc_description_s": "Asia : agreeable to the most approved maps and charts",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "fn1071262",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/fn1071262/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ffn%2F10%2F71%2F26%2F2%2F00000001.jp2/info.json\"}",
   "layer_id_s": "fn1071262",
-  "layer_slug_s": "princeton-fn1071262",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:36:59Z",
-  "dc_title_s": "Asia : agreeable to the most approved maps and charts",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Asia"
-  ],
+  "dc_identifier_s": "fn1071262",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Asia : agreeable to the most approved maps and charts",
+  "layer_slug_s": "princeton-fn1071262",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/fn1071262/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/fn/10/71/26/2/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "75.0 29.0 75.0 180.0 -8.0 180.0 -8.0 29.0 75.0 29.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1778"
   ],
-  "georss_box_s": "-8.0 29.0 75.0 180.0",
-  "georss_polygon_s": "75.0 29.0 75.0 180.0 -8.0 180.0 -8.0 29.0 75.0 29.0",
   "solr_geom": "ENVELOPE(29.0, 180.0, 75.0, -8.0)",
-  "solr_year_i": "1778"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Asia"
+  ]
 }

@@ -1,32 +1,32 @@
 {
+  "solr_year_i": "1630",
   "uuid": "http://arks.princeton.edu/ark:/88435/08612r02r",
+  "dc_description_s": "Westmorlandia, Lancastria, Cestria, Caernarvan, Denbigh, Flint, Merionidh, Montgomery, Salopia : cum insulis Mania et Anglesey",
+  "georss_box_s": "53.1263336 -4.7004414 53.4357956 -4.0190358",
+  "layer_modified_dt": "2015-01-25T02:06:16Z",
   "dc_creator_sm": [
     "Hondius, Hendrik,",
     "Mercator, Gerhard,"
   ],
-  "dc_description_s": "Westmorlandia, Lancastria, Cestria, Caernarvan, Denbigh, Flint, Merionidh, Montgomery, Salopia : cum insulis Mania et Anglesey",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "08612r02r",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/08612r02r/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F08%2F61%2F2r%2F02%2Fr%2F00000001.jp2/info.json\"}",
   "layer_id_s": "08612r02r",
-  "layer_slug_s": "princeton-08612r02r",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:16Z",
-  "dc_title_s": "Westmorlandia, Lancastria, Cestria, Caernarvan, Denbigh, Flint, Merionidh, Montgomery, Salopia : cum insulis Mania et Anglesey",
   "dc_type_s": "Image",
+  "dc_identifier_s": "08612r02r",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Westmorlandia, Lancastria, Cestria, Caernarvan, Denbigh, Flint, Merionidh, Montgomery, Salopia : cum insulis Mania et Anglesey",
+  "layer_slug_s": "princeton-08612r02r",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/08612r02r/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/08/61/2r/02/r/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "53.4357956 -4.7004414 53.4357956 -4.0190358 53.1263336 -4.0190358 53.1263336 -4.7004414 53.4357956 -4.7004414",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1630"
+  ],
+  "solr_geom": "ENVELOPE(-4.7004414, -4.0190358, 53.4357956, 53.1263336)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Anglesey (Wales)",
     "England, North West",
     "Isle of Man",
     "Wales, North"
-  ],
-  "dct_temporal_sm": [
-    "1630"
-  ],
-  "georss_box_s": "53.1263336 -4.7004414 53.4357956 -4.0190358",
-  "georss_polygon_s": "53.4357956 -4.7004414 53.4357956 -4.0190358 53.1263336 -4.0190358 53.1263336 -4.7004414 53.4357956 -4.7004414",
-  "solr_geom": "ENVELOPE(-4.7004414, -4.0190358, 53.4357956, 53.1263336)",
-  "solr_year_i": "1630"
+  ]
 }

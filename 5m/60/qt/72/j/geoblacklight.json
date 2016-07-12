@@ -1,25 +1,23 @@
 {
+  "solr_year_i": "1903",
   "uuid": "http://arks.princeton.edu/ark:/88435/5m60qt72j",
   "dc_description_s": "Map of flooded lands in the Passaic Valley.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "5m60qt72j",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/5m60qt72j/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F5m%2F60%2Fqt%2F72%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "5m60qt72j",
-  "layer_slug_s": "princeton-5m60qt72j",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "40.73333 -74.43333 40.96667 -74.18333",
   "layer_modified_dt": "2015-01-19T22:36:35Z",
-  "dc_title_s": "Map of flooded lands in the Passaic Valley.",
+  "layer_id_s": "5m60qt72j",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "5m60qt72j",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Map of flooded lands in the Passaic Valley.",
+  "layer_slug_s": "princeton-5m60qt72j",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/5m60qt72j/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/5m/60/qt/72/j/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.96667 -74.43333 40.96667 -74.18333 40.73333 -74.18333 40.73333 -74.43333 40.96667 -74.43333",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1903"
   ],
-  "georss_box_s": "40.73333 -74.43333 40.96667 -74.18333",
-  "georss_polygon_s": "40.96667 -74.43333 40.96667 -74.18333 40.73333 -74.18333 40.73333 -74.43333 40.96667 -74.43333",
   "solr_geom": "ENVELOPE(-74.43333, -74.18333, 40.96667, 40.73333)",
-  "solr_year_i": "1903"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

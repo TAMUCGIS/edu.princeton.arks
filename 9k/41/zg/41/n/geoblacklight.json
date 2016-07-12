@@ -1,34 +1,34 @@
 {
+  "solr_year_i": "1744",
   "uuid": "http://arks.princeton.edu/ark:/88435/9k41zg41n",
+  "dc_description_s": "A complete map of the southern continent : survey'd by Capt. Abel Tasman & depicted by order of the East India Company in Halland [sic] in the Stadt House at Amsterdam",
+  "georss_box_s": "-49.8946 110.3247 4.872 -173.0645",
+  "layer_modified_dt": "2015-01-21T22:23:51Z",
   "dc_creator_sm": [
     "Tasman, Abel Janszoon,",
     "Harris, John,",
-    "Thévenot, Melchisédec,"
+    "The\u0301venot, Melchise\u0301dec,"
   ],
-  "dc_description_s": "A complete map of the southern continent : survey'd by Capt. Abel Tasman & depicted by order of the East India Company in Halland [sic] in the Stadt House at Amsterdam",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "9k41zg41n",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/9k41zg41n/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F9k%2F41%2Fzg%2F41%2Fn%2F00000001.jp2/info.json\"}",
   "layer_id_s": "9k41zg41n",
-  "layer_slug_s": "princeton-9k41zg41n",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:51Z",
-  "dc_title_s": "A complete map of the southern continent : survey'd by Capt. Abel Tasman & depicted by order of the East India Company in Halland [sic] in the Stadt House at Amsterdam",
   "dc_type_s": "Image",
+  "dc_identifier_s": "9k41zg41n",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "A complete map of the southern continent : survey'd by Capt. Abel Tasman & depicted by order of the East India Company in Halland [sic] in the Stadt House at Amsterdam",
+  "layer_slug_s": "princeton-9k41zg41n",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/9k41zg41n/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/9k/41/zg/41/n/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "4.872 110.3247 4.872 -173.0645 -49.8946 -173.0645 -49.8946 110.3247 4.872 110.3247",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1744"
+  ],
+  "solr_geom": "ENVELOPE(110.3247, -173.0645, 4.872, -49.8946)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Australasia",
     "Australia",
     "Australia",
     "New Zealand",
     "New Guinea"
-  ],
-  "dct_temporal_sm": [
-    "1744"
-  ],
-  "georss_box_s": "-49.8946 110.3247 4.872 -173.0645",
-  "georss_polygon_s": "4.872 110.3247 4.872 -173.0645 -49.8946 -173.0645 -49.8946 110.3247 4.872 110.3247",
-  "solr_geom": "ENVELOPE(110.3247, -173.0645, 4.872, -49.8946)",
-  "solr_year_i": "1744"
+  ]
 }

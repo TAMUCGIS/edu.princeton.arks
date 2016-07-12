@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1750",
   "uuid": "http://arks.princeton.edu/ark:/88435/zw12z784g",
+  "dc_description_s": "Carta geografica del Regno di Napoli",
+  "georss_box_s": "36.5923281089 11.0193727125 42.7816279529 18.6383827688",
+  "layer_modified_dt": "2015-01-25T02:06:21Z",
   "dc_creator_sm": [
     "Albrizzi, Giovanni Battista,"
   ],
-  "dc_description_s": "Carta geografica del Regno di Napoli",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "zw12z784g",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/zw12z784g/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fzw%2F12%2Fz7%2F84%2Fg%2F00000001.jp2/info.json\"}",
   "layer_id_s": "zw12z784g",
-  "layer_slug_s": "princeton-zw12z784g",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:21Z",
-  "dc_title_s": "Carta geografica del Regno di Napoli",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Naples (Kingdom)",
-    "Naples (Italy : Province)"
-  ],
+  "dc_identifier_s": "zw12z784g",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Carta geografica del Regno di Napoli",
+  "layer_slug_s": "princeton-zw12z784g",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/zw12z784g/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/zw/12/z7/84/g/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "42.7816279529 11.0193727125 42.7816279529 18.6383827688 36.5923281089 18.6383827688 36.5923281089 11.0193727125 42.7816279529 11.0193727125",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1750"
   ],
-  "georss_box_s": "36.5923281089 11.0193727125 42.7816279529 18.6383827688",
-  "georss_polygon_s": "42.7816279529 11.0193727125 42.7816279529 18.6383827688 36.5923281089 18.6383827688 36.5923281089 11.0193727125 42.7816279529 11.0193727125",
   "solr_geom": "ENVELOPE(11.0193727125, 18.6383827688, 42.7816279529, 36.5923281089)",
-  "solr_year_i": "1750"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Naples (Kingdom)",
+    "Naples (Italy : Province)"
+  ]
 }

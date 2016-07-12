@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1540",
   "uuid": "http://arks.princeton.edu/ark:/88435/ft848t09f",
+  "dc_description_s": "Gallia IIII nova tabula",
+  "georss_box_s": "-50.2187168 -178.3873748 51.268318 172.3057152",
+  "layer_modified_dt": "2015-01-25T02:06:15Z",
   "dc_creator_sm": [
     "Petri, Heinrich,",
-    "Münster, Sebastian,",
+    "Mu\u0308nster, Sebastian,",
     "Ptolemy,"
   ],
-  "dc_description_s": "Gallia IIII nova tabula",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "ft848t09f",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/ft848t09f/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fft%2F84%2F8t%2F09%2Ff%2F00000001.jp2/info.json\"}",
   "layer_id_s": "ft848t09f",
-  "layer_slug_s": "princeton-ft848t09f",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:15Z",
-  "dc_title_s": "Gallia IIII nova tabula",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "France"
-  ],
+  "dc_identifier_s": "ft848t09f",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Gallia IIII nova tabula",
+  "layer_slug_s": "princeton-ft848t09f",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/ft848t09f/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ft/84/8t/09/f/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "51.268318 -178.3873748 51.268318 172.3057152 -50.2187168 172.3057152 -50.2187168 -178.3873748 51.268318 -178.3873748",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1540"
   ],
-  "georss_box_s": "-50.2187168 -178.3873748 51.268318 172.3057152",
-  "georss_polygon_s": "51.268318 -178.3873748 51.268318 172.3057152 -50.2187168 172.3057152 -50.2187168 -178.3873748 51.268318 -178.3873748",
   "solr_geom": "ENVELOPE(-178.3873748, 172.3057152, 51.268318, -50.2187168)",
-  "solr_year_i": "1540"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "France"
+  ]
 }

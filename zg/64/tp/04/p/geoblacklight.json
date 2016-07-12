@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/zg64tp04p",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Helmetta",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "zg64tp04p",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fzg%2F64%2Ftp%2F04%2Fp%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "zg64tp04p",
-  "layer_slug_s": "princeton-zg64tp04p",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:05:31Z",
+  "solr_geom": "ENVELOPE(-74.438595, -74.409816, 40.38641, 40.366424)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/zg/64/tp/04/p/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/zg64tp04p",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Helmetta, Middlesex County, New Jersey (Sheet 1)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1910"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "zg64tp04p",
+  "georss_polygon_s": "40.38641 -74.438595 40.38641 -74.409816 40.366424 -74.409816 40.366424 -74.438595 40.38641 -74.438595",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1910",
   "dct_spatial_sm": [
     "New Jersey",
     "Helmetta"
   ],
-  "dct_temporal_sm": [
-    "1910"
-  ],
+  "layer_id_s": "zg64tp04p",
   "georss_box_s": "40.366424 -74.438595 40.38641 -74.409816",
-  "georss_polygon_s": "40.38641 -74.438595 40.38641 -74.409816 40.366424 -74.409816 40.366424 -74.438595 40.38641 -74.438595",
-  "solr_geom": "ENVELOPE(-74.438595, -74.409816, 40.38641, 40.366424)",
-  "solr_year_i": "1910"
+  "dc_title_s": "Helmetta, Middlesex County, New Jersey (Sheet 1)",
+  "layer_slug_s": "princeton-zg64tp04p",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

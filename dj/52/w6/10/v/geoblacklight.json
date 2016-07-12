@@ -2,7 +2,7 @@
   "dc_description_s": "A scanned historical New Jersey Geological Survey Atlas Sheet shown at a scale of 1:63,360.",
   "layer_modified_dt": "2015-01-11T17:42:29Z",
   "solr_geom": "ENVELOPE(-74.1500, -74.100, 40.4667, 40.4167)",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fdj%2F52%2Fw6%2F10%2Fv%2F00000001.jp2/info.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/dj52w610v/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/dj52w610v/preview.jpg\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/dj52w610v/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/dj/52/w6/10/v/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/dj52w610v/preview.jpg\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/dj52w610v",
   "dct_provenance_s": "Princeton",
@@ -17,7 +17,7 @@
     "Land Use"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "1948",
+  "layer_slug_s": "princeton-dj52w610v",
   "dc_creator_sm": [
     "New Jersey Agricultural Experiment Station"
   ],
@@ -33,7 +33,7 @@
   "layer_id_s": "dj52w610v",
   "georss_box_s": "40.4167 -74.1500 40.4667 -74.100",
   "dc_title_s": "New Jersey, Freehold Soil Conservation District, Monmouth County, physical land conditions. Sheet no. 2.",
-  "layer_slug_s": "princeton-dj52w610v",
+  "dct_issued_s": "1948",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

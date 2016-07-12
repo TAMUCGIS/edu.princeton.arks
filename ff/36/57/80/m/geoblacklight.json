@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1767",
   "uuid": "http://arks.princeton.edu/ark:/88435/ff365780m",
   "dc_description_s": "Dioecesis et Agri Tiburtini topographia nunc primum trigonometrice delineata et veteribus viis, villis, ceterisque antiquis monumentis adornata /",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "ff365780m",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/ff365780m/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fff%2F36%2F57%2F80%2Fm%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "ff365780m",
-  "layer_slug_s": "princeton-ff365780m",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "41.9434041 12.7540054 41.9684416 12.8245967",
   "layer_modified_dt": "2015-01-25T02:06:22Z",
-  "dc_title_s": "Dioecesis et Agri Tiburtini topographia nunc primum trigonometrice delineata et veteribus viis, villis, ceterisque antiquis monumentis adornata /",
+  "layer_id_s": "ff365780m",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Tivoli (Italy)"
-  ],
+  "dc_identifier_s": "ff365780m",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Dioecesis et Agri Tiburtini topographia nunc primum trigonometrice delineata et veteribus viis, villis, ceterisque antiquis monumentis adornata /",
+  "layer_slug_s": "princeton-ff365780m",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/ff365780m/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ff/36/57/80/m/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "41.9684416 12.7540054 41.9684416 12.8245967 41.9434041 12.8245967 41.9434041 12.7540054 41.9684416 12.7540054",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1767"
   ],
-  "georss_box_s": "41.9434041 12.7540054 41.9684416 12.8245967",
-  "georss_polygon_s": "41.9684416 12.7540054 41.9684416 12.8245967 41.9434041 12.8245967 41.9434041 12.7540054 41.9684416 12.7540054",
   "solr_geom": "ENVELOPE(12.7540054, 12.8245967, 41.9684416, 41.9434041)",
-  "solr_year_i": "1767"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Tivoli (Italy)"
+  ]
 }

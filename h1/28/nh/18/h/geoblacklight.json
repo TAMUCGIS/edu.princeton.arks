@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1558",
   "uuid": "http://arks.princeton.edu/ark:/88435/h128nh18h",
+  "dc_description_s": "Britanni\u00e6 insul\u00e6 qu\u00e6 nunc Angli\u00e6 et Scoti\u00e6 regna continet cum Hibernia adiacente nova descriptio",
+  "georss_box_s": "49.674 -14.0155169 61.061 2.0919117",
+  "layer_modified_dt": "2015-01-21T22:24:15Z",
   "dc_creator_sm": [
     "Re, Sebastiano di,"
   ],
-  "dc_description_s": "Britanniæ insulæ quæ nunc Angliæ et Scotiæ regna continet cum Hibernia adiacente nova descriptio",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "h128nh18h",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/h128nh18h/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fh1%2F28%2Fnh%2F18%2Fh%2F00000001.jp2/info.json\"}",
   "layer_id_s": "h128nh18h",
-  "layer_slug_s": "princeton-h128nh18h",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:15Z",
-  "dc_title_s": "Britanniæ insulæ quæ nunc Angliæ et Scotiæ regna continet cum Hibernia adiacente nova descriptio",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Great Britain",
-    "Ireland"
-  ],
+  "dc_identifier_s": "h128nh18h",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Britanni\u00e6 insul\u00e6 qu\u00e6 nunc Angli\u00e6 et Scoti\u00e6 regna continet cum Hibernia adiacente nova descriptio",
+  "layer_slug_s": "princeton-h128nh18h",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/h128nh18h/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/h1/28/nh/18/h/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "61.061 -14.0155169 61.061 2.0919117 49.674 2.0919117 49.674 -14.0155169 61.061 -14.0155169",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1558"
   ],
-  "georss_box_s": "49.674 -14.0155169 61.061 2.0919117",
-  "georss_polygon_s": "61.061 -14.0155169 61.061 2.0919117 49.674 2.0919117 49.674 -14.0155169 61.061 -14.0155169",
   "solr_geom": "ENVELOPE(-14.0155169, 2.0919117, 61.061, 49.674)",
-  "solr_year_i": "1558"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Great Britain",
+    "Ireland"
+  ]
 }

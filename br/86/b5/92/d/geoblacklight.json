@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/br86b592d",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Newark",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "br86b592d",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fr%2F86%2Fb5%2F92%2Fd%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "br86b592d",
-  "layer_slug_s": "princeton-br86b592d",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:11:13Z",
+  "solr_geom": "ENVELOPE(-74.251324, -74.112787, 40.788664, 40.674018)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/br/86/b5/92/d/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/br86b592d",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Newark, N. J., vol. III : new skeleton (Sheet 6)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1922"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "br86b592d",
+  "georss_polygon_s": "40.788664 -74.251324 40.788664 -74.112787 40.674018 -74.112787 40.674018 -74.251324 40.788664 -74.251324",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1922",
   "dct_spatial_sm": [
     "New Jersey",
     "Newark"
   ],
-  "dct_temporal_sm": [
-    "1922"
-  ],
+  "layer_id_s": "br86b592d",
   "georss_box_s": "40.674018 -74.251324 40.788664 -74.112787",
-  "georss_polygon_s": "40.788664 -74.251324 40.788664 -74.112787 40.674018 -74.112787 40.674018 -74.251324 40.788664 -74.251324",
-  "solr_geom": "ENVELOPE(-74.251324, -74.112787, 40.788664, 40.674018)",
-  "solr_year_i": "1922"
+  "dc_title_s": "Newark, N. J., vol. III : new skeleton (Sheet 6)",
+  "layer_slug_s": "princeton-br86b592d",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

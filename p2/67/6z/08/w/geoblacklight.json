@@ -1,31 +1,31 @@
 {
+  "solr_year_i": "1870",
   "uuid": "http://arks.princeton.edu/ark:/88435/p2676z08w",
+  "dc_description_s": "Silvio Valenti Tit. S. Callix Presb. S.R.E. Card. Camerario Benedicti XIV P.M. Administro Urbis ichnographiam",
+  "georss_box_s": "41.6556417 12.2344985 42.1410285 12.8557603",
+  "layer_modified_dt": "2015-01-25T02:06:22Z",
   "dc_creator_sm": [
     "Bufalini, Leonardo,",
     "Nolli, Carlo,",
     "Monaco, Francesco.",
     "Reumont, Alfred von,"
   ],
-  "dc_description_s": "Silvio Valenti Tit. S. Callix Presb. S.R.E. Card. Camerario Benedicti XIV P.M. Administro Urbis ichnographiam",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "p2676z08w",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/p2676z08w/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fp2%2F67%2F6z%2F08%2Fw%2F00000001.jp2/info.json\"}",
   "layer_id_s": "p2676z08w",
-  "layer_slug_s": "princeton-p2676z08w",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:22Z",
-  "dc_title_s": "Silvio Valenti Tit. S. Callix Presb. S.R.E. Card. Camerario Benedicti XIV P.M. Administro Urbis ichnographiam",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Rome (Italy)"
-  ],
+  "dc_identifier_s": "p2676z08w",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Silvio Valenti Tit. S. Callix Presb. S.R.E. Card. Camerario Benedicti XIV P.M. Administro Urbis ichnographiam",
+  "layer_slug_s": "princeton-p2676z08w",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/p2676z08w/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/p2/67/6z/08/w/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "42.1410285 12.2344985 42.1410285 12.8557603 41.6556417 12.8557603 41.6556417 12.2344985 42.1410285 12.2344985",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1870"
   ],
-  "georss_box_s": "41.6556417 12.2344985 42.1410285 12.8557603",
-  "georss_polygon_s": "42.1410285 12.2344985 42.1410285 12.8557603 41.6556417 12.8557603 41.6556417 12.2344985 42.1410285 12.2344985",
   "solr_geom": "ENVELOPE(12.2344985, 12.8557603, 42.1410285, 41.6556417)",
-  "solr_year_i": "1870"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Rome (Italy)"
+  ]
 }

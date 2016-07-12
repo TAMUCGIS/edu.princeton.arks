@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1905",
   "uuid": "http://arks.princeton.edu/ark:/88435/f7623g10h",
+  "dc_description_s": "Originalkarte der Insel Taiwan (Formosa)",
+  "georss_box_s": "21.75 119.25 25.6666666667 122.25",
+  "layer_modified_dt": "2015-01-19T22:37:37Z",
   "dc_creator_sm": [
     "Rein, J. J.",
     "Reintgen, P."
   ],
-  "dc_description_s": "Originalkarte der Insel Taiwan (Formosa)",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "f7623g10h",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/f7623g10h/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ff7%2F62%2F3g%2F10%2Fh%2F00000001.jp2/info.json\"}",
   "layer_id_s": "f7623g10h",
-  "layer_slug_s": "princeton-f7623g10h",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:37Z",
-  "dc_title_s": "Originalkarte der Insel Taiwan (Formosa)",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Taiwan",
-    "Taiwan"
-  ],
+  "dc_identifier_s": "f7623g10h",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Originalkarte der Insel Taiwan (Formosa)",
+  "layer_slug_s": "princeton-f7623g10h",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/f7623g10h/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/f7/62/3g/10/h/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "25.6666666667 119.25 25.6666666667 122.25 21.75 122.25 21.75 119.25 25.6666666667 119.25",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1905"
   ],
-  "georss_box_s": "21.75 119.25 25.6666666667 122.25",
-  "georss_polygon_s": "25.6666666667 119.25 25.6666666667 122.25 21.75 122.25 21.75 119.25 25.6666666667 119.25",
   "solr_geom": "ENVELOPE(119.25, 122.25, 25.6666666667, 21.75)",
-  "solr_year_i": "1905"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Taiwan",
+    "Taiwan"
+  ]
 }

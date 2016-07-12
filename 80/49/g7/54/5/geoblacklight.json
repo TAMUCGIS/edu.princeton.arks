@@ -1,31 +1,31 @@
 {
+  "solr_year_i": "1775",
   "uuid": "http://arks.princeton.edu/ark:/88435/8049g7545",
+  "dc_description_s": "A map of Pennsylvania exhibiting not only the improved parts of that Province, but also its extensive frontiers: Laid down from actual surveys and chiefly from the late map of W. Scull published in 1770; and humbly inscribed to the Honourable Thomas Penn and Richard Penn, Esquires, true and absolute proprietaries & Governors of the Province of Pennsylvania and the territories thereunto belonging",
+  "georss_box_s": "39.7197662 -80.5210832 42.5146891 -74.6895019",
+  "layer_modified_dt": "2015-01-21T22:24:16Z",
   "dc_creator_sm": [
     "Jefferys, Thomas,",
     "Scull, William,",
     "Paynter, Richard K.,"
   ],
-  "dc_description_s": "A map of Pennsylvania exhibiting not only the improved parts of that Province, but also its extensive frontiers: Laid down from actual surveys and chiefly from the late map of W. Scull published in 1770; and humbly inscribed to the Honourable Thomas Penn and Richard Penn, Esquires, true and absolute proprietaries & Governors of the Province of Pennsylvania and the territories thereunto belonging",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "8049g7545",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/8049g7545/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F80%2F49%2Fg7%2F54%2F5%2F00000001.jp2/info.json\"}",
   "layer_id_s": "8049g7545",
-  "layer_slug_s": "princeton-8049g7545",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:16Z",
-  "dc_title_s": "A map of Pennsylvania exhibiting not only the improved parts of that Province, but also its extensive frontiers: Laid down from actual surveys and chiefly from the late map of W. Scull published in 1770; and humbly inscribed to the Honourable Thomas Penn and Richard Penn, Esquires, true and absolute proprietaries & Governors of the Province of Pennsylvania and the territories thereunto belonging",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Pennsylvania",
-    "Pennsylvania"
-  ],
+  "dc_identifier_s": "8049g7545",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "A map of Pennsylvania exhibiting not only the improved parts of that Province, but also its extensive frontiers: Laid down from actual surveys and chiefly from the late map of W. Scull published in 1770; and humbly inscribed to the Honourable Thomas Penn and Richard Penn, Esquires, true and absolute proprietaries & Governors of the Province of Pennsylvania and the territories thereunto belonging",
+  "layer_slug_s": "princeton-8049g7545",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/8049g7545/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/80/49/g7/54/5/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "42.5146891 -80.5210832 42.5146891 -74.6895019 39.7197662 -74.6895019 39.7197662 -80.5210832 42.5146891 -80.5210832",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1775"
   ],
-  "georss_box_s": "39.7197662 -80.5210832 42.5146891 -74.6895019",
-  "georss_polygon_s": "42.5146891 -80.5210832 42.5146891 -74.6895019 39.7197662 -74.6895019 39.7197662 -80.5210832 42.5146891 -80.5210832",
   "solr_geom": "ENVELOPE(-80.5210832, -74.6895019, 42.5146891, 39.7197662)",
-  "solr_year_i": "1775"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Pennsylvania",
+    "Pennsylvania"
+  ]
 }

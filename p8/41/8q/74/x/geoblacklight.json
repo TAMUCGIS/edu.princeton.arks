@@ -1,5 +1,9 @@
 {
+  "solr_year_i": "1849",
   "uuid": "http://arks.princeton.edu/ark:/88435/p8418q74x",
+  "dc_description_s": "Huntington Bay",
+  "georss_box_s": "40.892098 -73.4344639 40.914256 -73.3881389",
+  "layer_modified_dt": "2015-01-21T22:24:28Z",
   "dc_creator_sm": [
     "Hassler, F. R.",
     "Blunt, Edmund,",
@@ -10,26 +14,20 @@
     "Gluck, J. B.",
     "Smith, George Girdler,"
   ],
-  "dc_description_s": "Huntington Bay",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "p8418q74x",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/p8418q74x/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fp8%2F41%2F8q%2F74%2Fx%2F00000001.jp2/info.json\"}",
   "layer_id_s": "p8418q74x",
-  "layer_slug_s": "princeton-p8418q74x",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:28Z",
-  "dc_title_s": "Huntington Bay",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "p8418q74x",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Huntington Bay",
+  "layer_slug_s": "princeton-p8418q74x",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/p8418q74x/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/p8/41/8q/74/x/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.914256 -73.4344639 40.914256 -73.3881389 40.892098 -73.3881389 40.892098 -73.4344639 40.914256 -73.4344639",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1849"
   ],
-  "georss_box_s": "40.892098 -73.4344639 40.914256 -73.3881389",
-  "georss_polygon_s": "40.914256 -73.4344639 40.914256 -73.3881389 40.892098 -73.3881389 40.892098 -73.4344639 40.914256 -73.4344639",
   "solr_geom": "ENVELOPE(-73.4344639, -73.3881389, 40.914256, 40.892098)",
-  "solr_year_i": "1849"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

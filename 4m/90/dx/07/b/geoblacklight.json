@@ -2,7 +2,7 @@
   "dc_description_s": "This is a map of the city of Treviso, Italy, shown at a 1:10,000 scale. The map was created for use by War and Navy Department agencies during World War II.",
   "layer_modified_dt": "2015-01-11T17:43:01Z",
   "solr_geom": "ENVELOPE(12.200, 12.2667, 45.700, 45.6333)",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F4m%2F90%2Fdx%2F07%2Fb%2F00000001.jp2/info.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/4m90dx07b/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/4m90dx07b/preview.jpg\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/4m90dx07b/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/4m/90/dx/07/b/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/4m90dx07b/preview.jpg\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/4m90dx07b",
   "dct_provenance_s": "Princeton",
@@ -17,7 +17,7 @@
     "Facilities and Structures"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "1943",
+  "layer_slug_s": "princeton-4m90dx07b",
   "dc_creator_sm": [
     "Army Map Service"
   ],
@@ -34,7 +34,7 @@
   "layer_id_s": "4m90dx07b",
   "georss_box_s": "45.6333 12.200 45.700 12.2667",
   "dc_title_s": "Town plan of Treviso. G.S.G.S. 4380",
-  "layer_slug_s": "princeton-4m90dx07b",
+  "dct_issued_s": "1943",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

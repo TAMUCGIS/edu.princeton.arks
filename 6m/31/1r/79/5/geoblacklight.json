@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1907",
   "uuid": "http://arks.princeton.edu/ark:/88435/6m311r795",
   "dc_description_s": "Karte der Umgebung von Hagen aus Kneebusch, Sauerland",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "6m311r795",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/6m311r795/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F6m%2F31%2F1r%2F79%2F5%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "6m311r795",
-  "layer_slug_s": "princeton-6m311r795",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "51.2645631 7.3759137 51.4185526 7.5989485",
   "layer_modified_dt": "2015-01-21T22:24:21Z",
-  "dc_title_s": "Karte der Umgebung von Hagen aus Kneebusch, Sauerland",
+  "layer_id_s": "6m311r795",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Hagen (Arnsberg, Germany)",
-    "North Rhine-Westphalia (Germany)"
-  ],
+  "dc_identifier_s": "6m311r795",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Karte der Umgebung von Hagen aus Kneebusch, Sauerland",
+  "layer_slug_s": "princeton-6m311r795",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/6m311r795/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/6m/31/1r/79/5/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "51.4185526 7.3759137 51.4185526 7.5989485 51.2645631 7.5989485 51.2645631 7.3759137 51.4185526 7.3759137",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1907"
   ],
-  "georss_box_s": "51.2645631 7.3759137 51.4185526 7.5989485",
-  "georss_polygon_s": "51.4185526 7.3759137 51.4185526 7.5989485 51.2645631 7.5989485 51.2645631 7.3759137 51.4185526 7.3759137",
   "solr_geom": "ENVELOPE(7.3759137, 7.5989485, 51.4185526, 51.2645631)",
-  "solr_year_i": "1907"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Hagen (Arnsberg, Germany)",
+    "North Rhine-Westphalia (Germany)"
+  ]
 }

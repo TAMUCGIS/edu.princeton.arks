@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1901",
   "uuid": "http://arks.princeton.edu/ark:/88435/7d278v86d",
   "dc_description_s": "Greece",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "7d278v86d",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/7d278v86d/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F7d%2F27%2F8v%2F86%2Fd%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "7d278v86d",
-  "layer_slug_s": "princeton-7d278v86d",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "34.7006096 19.2477876 41.7488862 29.7296986",
   "layer_modified_dt": "2015-01-21T22:23:45Z",
-  "dc_title_s": "Greece",
+  "layer_id_s": "7d278v86d",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Greece"
-  ],
+  "dc_identifier_s": "7d278v86d",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Greece",
+  "layer_slug_s": "princeton-7d278v86d",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/7d278v86d/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/7d/27/8v/86/d/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "41.7488862 19.2477876 41.7488862 29.7296986 34.7006096 29.7296986 34.7006096 19.2477876 41.7488862 19.2477876",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1901"
   ],
-  "georss_box_s": "34.7006096 19.2477876 41.7488862 29.7296986",
-  "georss_polygon_s": "41.7488862 19.2477876 41.7488862 29.7296986 34.7006096 29.7296986 34.7006096 19.2477876 41.7488862 19.2477876",
   "solr_geom": "ENVELOPE(19.2477876, 29.7296986, 41.7488862, 34.7006096)",
-  "solr_year_i": "1901"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Greece"
+  ]
 }

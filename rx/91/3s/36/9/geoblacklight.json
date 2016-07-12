@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1889",
   "uuid": "http://arks.princeton.edu/ark:/88435/rx913s369",
   "dc_description_s": "Map of ancient sites of Iraq",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "rx913s369",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/rx913s369/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Frx%2F91%2F3s%2F36%2F9%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "rx913s369",
-  "layer_slug_s": "princeton-rx913s369",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "29.0 40.0 38.0 49.0",
   "layer_modified_dt": "2015-01-19T22:37:18Z",
-  "dc_title_s": "Map of ancient sites of Iraq",
+  "layer_id_s": "rx913s369",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Iraq"
-  ],
+  "dc_identifier_s": "rx913s369",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Map of ancient sites of Iraq",
+  "layer_slug_s": "princeton-rx913s369",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/rx913s369/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/rx/91/3s/36/9/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "38.0 40.0 38.0 49.0 29.0 49.0 29.0 40.0 38.0 40.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1889"
   ],
-  "georss_box_s": "29.0 40.0 38.0 49.0",
-  "georss_polygon_s": "38.0 40.0 38.0 49.0 29.0 49.0 29.0 40.0 38.0 40.0",
   "solr_geom": "ENVELOPE(40.0, 49.0, 38.0, 29.0)",
-  "solr_year_i": "1889"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Iraq"
+  ]
 }

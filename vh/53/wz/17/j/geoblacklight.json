@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1671",
   "uuid": "http://arks.princeton.edu/ark:/88435/vh53wz17j",
+  "dc_description_s": "Brasilia",
+  "georss_box_s": "-33.8689055 -73.9830624 5.2834573 -28.6341163",
+  "layer_modified_dt": "2015-01-21T22:24:07Z",
   "dc_creator_sm": [
     "Meurs, Jacob van,"
   ],
-  "dc_description_s": "Brasilia",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "vh53wz17j",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/vh53wz17j/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fvh%2F53%2Fwz%2F17%2F00000001.jp2/info.json\"}",
   "layer_id_s": "vh53wz17j",
-  "layer_slug_s": "princeton-vh53wz17j",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:07Z",
-  "dc_title_s": "Brasilia",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Brazil"
-  ],
+  "dc_identifier_s": "vh53wz17j",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Brasilia",
+  "layer_slug_s": "princeton-vh53wz17j",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/vh53wz17j/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/vh/53/wz/17/j/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "5.2834573 -73.9830624 5.2834573 -28.6341163 -33.8689055 -28.6341163 -33.8689055 -73.9830624 5.2834573 -73.9830624",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1671"
   ],
-  "georss_box_s": "-33.8689055 -73.9830624 5.2834573 -28.6341163",
-  "georss_polygon_s": "5.2834573 -73.9830624 5.2834573 -28.6341163 -33.8689055 -28.6341163 -33.8689055 -73.9830624 5.2834573 -73.9830624",
   "solr_geom": "ENVELOPE(-73.9830624, -28.6341163, 5.2834573, -33.8689055)",
-  "solr_year_i": "1671"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Brazil"
+  ]
 }

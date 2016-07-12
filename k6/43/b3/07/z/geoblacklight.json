@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1715",
   "uuid": "http://arks.princeton.edu/ark:/88435/k643b307z",
+  "dc_description_s": "A new and exact map of the dominions of the King of Great Britain on ye continent of North America : containing Newfoundland, New Scotland, New England, New York, New Jersey, Pensilvania, Maryland, Virginia and Carolina",
+  "georss_box_s": "30.0 -85.0 55.0 -54.0",
+  "layer_modified_dt": "2015-01-19T22:36:53Z",
   "dc_creator_sm": [
     "King, John,",
     "Bowles, Thomas,"
   ],
-  "dc_description_s": "A new and exact map of the dominions of the King of Great Britain on ye continent of North America : containing Newfoundland, New Scotland, New England, New York, New Jersey, Pensilvania, Maryland, Virginia and Carolina",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "k643b307z",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/k643b307z/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fk6%2F43%2Fb3%2F07%2Fz%2F00000001.jp2/info.json\"}",
   "layer_id_s": "k643b307z",
-  "layer_slug_s": "princeton-k643b307z",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:36:53Z",
-  "dc_title_s": "A new and exact map of the dominions of the King of Great Britain on ye continent of North America : containing Newfoundland, New Scotland, New England, New York, New Jersey, Pensilvania, Maryland, Virginia and Carolina",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "North America"
-  ],
+  "dc_identifier_s": "k643b307z",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "A new and exact map of the dominions of the King of Great Britain on ye continent of North America : containing Newfoundland, New Scotland, New England, New York, New Jersey, Pensilvania, Maryland, Virginia and Carolina",
+  "layer_slug_s": "princeton-k643b307z",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/k643b307z/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/k6/43/b3/07/z/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "55.0 -85.0 55.0 -54.0 30.0 -54.0 30.0 -85.0 55.0 -85.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1715"
   ],
-  "georss_box_s": "30.0 -85.0 55.0 -54.0",
-  "georss_polygon_s": "55.0 -85.0 55.0 -54.0 30.0 -54.0 30.0 -85.0 55.0 -85.0",
   "solr_geom": "ENVELOPE(-85.0, -54.0, 55.0, 30.0)",
-  "solr_year_i": "1715"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "North America"
+  ]
 }

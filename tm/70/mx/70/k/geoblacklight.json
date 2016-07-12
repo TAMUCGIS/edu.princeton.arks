@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1847",
   "uuid": "http://arks.princeton.edu/ark:/88435/tm70mx70k",
   "dc_description_s": "The Downs",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "tm70mx70k",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/tm70mx70k/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ftm%2F70%2Fmx%2F70%2Fk%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "tm70mx70k",
-  "layer_slug_s": "princeton-tm70mx70k",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "24.0 -0.0 51.0 1.0",
   "layer_modified_dt": "2015-01-19T22:37:40Z",
-  "dc_title_s": "The Downs",
+  "layer_id_s": "tm70mx70k",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "England, South East"
-  ],
+  "dc_identifier_s": "tm70mx70k",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "The Downs",
+  "layer_slug_s": "princeton-tm70mx70k",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/tm70mx70k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/tm/70/mx/70/k/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "51.0 -0.0 51.0 1.0 24.0 1.0 24.0 -0.0 51.0 -0.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1847"
   ],
-  "georss_box_s": "24.0 -0.0 51.0 1.0",
-  "georss_polygon_s": "51.0 -0.0 51.0 1.0 24.0 1.0 24.0 -0.0 51.0 -0.0",
   "solr_geom": "ENVELOPE(-0.0, 1.0, 51.0, 24.0)",
-  "solr_year_i": "1847"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "England, South East"
+  ]
 }

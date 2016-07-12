@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1920",
   "uuid": "http://arks.princeton.edu/ark:/88435/7w62fb761",
   "dc_description_s": "Mons Palatinus",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "7w62fb761",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/7w62fb761/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F7w%2F62%2Ffb%2F76%2F1%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "7w62fb761",
-  "layer_slug_s": "princeton-7w62fb761",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "41.8851306197 12.4864325197 41.8878285803 12.4891304803",
   "layer_modified_dt": "2015-01-25T02:06:22Z",
-  "dc_title_s": "Mons Palatinus",
+  "layer_id_s": "7w62fb761",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Palatine Hill (Italy)",
-    "Rome (Italy)"
-  ],
+  "dc_identifier_s": "7w62fb761",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Mons Palatinus",
+  "layer_slug_s": "princeton-7w62fb761",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/7w62fb761/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/7w/62/fb/76/1/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "41.8878285803 12.4864325197 41.8878285803 12.4891304803 41.8851306197 12.4891304803 41.8851306197 12.4864325197 41.8878285803 12.4864325197",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1920"
   ],
-  "georss_box_s": "41.8851306197 12.4864325197 41.8878285803 12.4891304803",
-  "georss_polygon_s": "41.8878285803 12.4864325197 41.8878285803 12.4891304803 41.8851306197 12.4891304803 41.8851306197 12.4864325197 41.8878285803 12.4864325197",
   "solr_geom": "ENVELOPE(12.4864325197, 12.4891304803, 41.8878285803, 41.8851306197)",
-  "solr_year_i": "1920"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Palatine Hill (Italy)",
+    "Rome (Italy)"
+  ]
 }

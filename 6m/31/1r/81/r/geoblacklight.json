@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1772",
   "uuid": "http://arks.princeton.edu/ark:/88435/6m311r81r",
-  "dc_description_s": "Nuevo mapa geographico de la America septentrional, perteneciente al Virreynato de Mexico dedicado à los sabios miembros de la Academia Real de las Ciencias de Paris /",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "6m311r81r",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/6m311r81r/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F6m%2F31%2F1r%2F81%2Fr%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "6m311r81r",
-  "layer_slug_s": "princeton-6m311r81r",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Nuevo mapa geographico de la America septentrional, perteneciente al Virreynato de Mexico dedicado a\u0300 los sabios miembros de la Academia Real de las Ciencias de Paris /",
+  "georss_box_s": "14.5333037 -124.3409925 40.1334050884 -90.8853757875",
   "layer_modified_dt": "2015-01-21T22:24:24Z",
-  "dc_title_s": "Nuevo mapa geographico de la America septentrional, perteneciente al Virreynato de Mexico dedicado à los sabios miembros de la Academia Real de las Ciencias de Paris /",
+  "layer_id_s": "6m311r81r",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "New Spain",
-    "Mexico"
-  ],
+  "dc_identifier_s": "6m311r81r",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Nuevo mapa geographico de la America septentrional, perteneciente al Virreynato de Mexico dedicado a\u0300 los sabios miembros de la Academia Real de las Ciencias de Paris /",
+  "layer_slug_s": "princeton-6m311r81r",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/6m311r81r/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/6m/31/1r/81/r/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.1334050884 -124.3409925 40.1334050884 -90.8853757875 14.5333037 -90.8853757875 14.5333037 -124.3409925 40.1334050884 -124.3409925",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1772"
   ],
-  "georss_box_s": "14.5333037 -124.3409925 40.1334050884 -90.8853757875",
-  "georss_polygon_s": "40.1334050884 -124.3409925 40.1334050884 -90.8853757875 14.5333037 -90.8853757875 14.5333037 -124.3409925 40.1334050884 -124.3409925",
   "solr_geom": "ENVELOPE(-124.3409925, -90.8853757875, 40.1334050884, 14.5333037)",
-  "solr_year_i": "1772"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "New Spain",
+    "Mexico"
+  ]
 }

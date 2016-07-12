@@ -1,29 +1,27 @@
 {
+  "solr_year_i": "1902",
   "uuid": "http://arks.princeton.edu/ark:/88435/sf268758c",
+  "dc_description_s": "A topographical map of the Monmouth shore : with the interior from Metuchen to Lakewood",
+  "georss_box_s": "40.0833333333 -74.3833333333 40.5833333333 -73.9333333333",
+  "layer_modified_dt": "2015-01-19T22:37:27Z",
   "dc_creator_sm": [
-    "Kümmel, Henry Barnard,",
+    "Ku\u0308mmel, Henry Barnard,",
     "Vermeule, C. C."
   ],
-  "dc_description_s": "A topographical map of the Monmouth shore : with the interior from Metuchen to Lakewood",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "sf268758c",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/sf268758c/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fsf%2F26%2F87%2F58%2Fc%2F00000001.jp2/info.json\"}",
   "layer_id_s": "sf268758c",
-  "layer_slug_s": "princeton-sf268758c",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:27Z",
-  "dc_title_s": "A topographical map of the Monmouth shore : with the interior from Metuchen to Lakewood",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "sf268758c",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "A topographical map of the Monmouth shore : with the interior from Metuchen to Lakewood",
+  "layer_slug_s": "princeton-sf268758c",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/sf268758c/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/sf/26/87/58/c/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.5833333333 -74.3833333333 40.5833333333 -73.9333333333 40.0833333333 -73.9333333333 40.0833333333 -74.3833333333 40.5833333333 -74.3833333333",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1902"
   ],
-  "georss_box_s": "40.0833333333 -74.3833333333 40.5833333333 -73.9333333333",
-  "georss_polygon_s": "40.5833333333 -74.3833333333 40.5833333333 -73.9333333333 40.0833333333 -73.9333333333 40.0833333333 -74.3833333333 40.5833333333 -74.3833333333",
   "solr_geom": "ENVELOPE(-74.3833333333, -73.9333333333, 40.5833333333, 40.0833333333)",
-  "solr_year_i": "1902"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

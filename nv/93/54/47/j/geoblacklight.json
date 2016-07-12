@@ -2,7 +2,7 @@
   "dc_description_s": "This is a historical map of India, created around 1552.",
   "layer_modified_dt": "2015-01-11T17:43:13Z",
   "solr_geom": "ENVELOPE(44.3452, 152.0725, 76.8894, -8.3624)",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fnv%2F93%2F54%2F47%2Fj%2F00000001.jp2/info.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/nv935447j/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/nv935447j/preview.jpg\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/nv935447j/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/nv/93/54/47/j/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/nv935447j/preview.jpg\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/nv935447j",
   "dct_provenance_s": "Princeton",
@@ -12,7 +12,7 @@
     "Historical"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "1552",
+  "layer_slug_s": "princeton-nv935447j",
   "dc_creator_sm": [
     "Basiliae : Apud Henricum Petrum"
   ],
@@ -28,7 +28,7 @@
   "layer_id_s": "nv935447j",
   "georss_box_s": "-8.3624 44.3452 76.8894 152.0725",
   "dc_title_s": "India Extrema XXIIII : nova tabula",
-  "layer_slug_s": "princeton-nv935447j",
+  "dct_issued_s": "1552",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

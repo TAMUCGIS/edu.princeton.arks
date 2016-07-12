@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1915",
   "uuid": "http://arks.princeton.edu/ark:/88435/6969z3313",
+  "dc_description_s": "Generalkarte von West-Russland und den angrenzenden La\u0308ndern bis Wien und Budapest mit besonderer Beru\u0308cksichtigung der Eisenbahnen und mit Angabe der russischen Stationenen /",
+  "georss_box_s": "41.185353 19.6403534 81.8581221 73.70861825",
+  "layer_modified_dt": "2015-01-21T22:24:29Z",
   "dc_creator_sm": [
     "Peucker, Karl,"
   ],
-  "dc_description_s": "Generalkarte von West-Russland und den angrenzenden Ländern bis Wien und Budapest mit besonderer Berücksichtigung der Eisenbahnen und mit Angabe der russischen Stationenen /",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "6969z3313",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/6969z3313/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F69%2F69%2Fz3%2F31%2F3%2F00000001.jp2/info.json\"}",
   "layer_id_s": "6969z3313",
-  "layer_slug_s": "princeton-6969z3313",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:29Z",
-  "dc_title_s": "Generalkarte von West-Russland und den angrenzenden Ländern bis Wien und Budapest mit besonderer Berücksichtigung der Eisenbahnen und mit Angabe der russischen Stationenen /",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Russia, Western"
-  ],
+  "dc_identifier_s": "6969z3313",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Generalkarte von West-Russland und den angrenzenden La\u0308ndern bis Wien und Budapest mit besonderer Beru\u0308cksichtigung der Eisenbahnen und mit Angabe der russischen Stationenen /",
+  "layer_slug_s": "princeton-6969z3313",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/6969z3313/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/69/69/z3/31/3/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "81.8581221 19.6403534 81.8581221 73.70861825 41.185353 73.70861825 41.185353 19.6403534 81.8581221 19.6403534",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1915"
   ],
-  "georss_box_s": "41.185353 19.6403534 81.8581221 73.70861825",
-  "georss_polygon_s": "81.8581221 19.6403534 81.8581221 73.70861825 41.185353 73.70861825 41.185353 19.6403534 81.8581221 19.6403534",
   "solr_geom": "ENVELOPE(19.6403534, 73.70861825, 81.8581221, 41.185353)",
-  "solr_year_i": "1915"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Russia, Western"
+  ]
 }

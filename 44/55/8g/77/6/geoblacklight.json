@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1802",
   "uuid": "http://arks.princeton.edu/ark:/88435/44558g776",
-  "dc_creator_sm": [
-    "Barthélemy, J.-J."
-  ],
-  "dc_description_s": "Plan der Akademie und der umliegenden Gegend : zu der Reise der jüngern Anacharsis",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "44558g776",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/44558g776/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F44%2F55%2F8g%2F77%2F6%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "44558g776",
-  "layer_slug_s": "princeton-44558g776",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Plan der Akademie und der umliegenden Gegend : zu der Reise der ju\u0308ngern Anacharsis",
+  "georss_box_s": "37.8241493 23.5679843 38.1441493 23.8879843",
   "layer_modified_dt": "2015-01-21T22:24:12Z",
-  "dc_title_s": "Plan der Akademie und der umliegenden Gegend : zu der Reise der jüngern Anacharsis",
-  "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Athens (Greece)"
+  "dc_creator_sm": [
+    "Barthe\u0301lemy, J.-J."
   ],
+  "layer_id_s": "44558g776",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "44558g776",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Plan der Akademie und der umliegenden Gegend : zu der Reise der ju\u0308ngern Anacharsis",
+  "layer_slug_s": "princeton-44558g776",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/44558g776/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/44/55/8g/77/6/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "38.1441493 23.5679843 38.1441493 23.8879843 37.8241493 23.8879843 37.8241493 23.5679843 38.1441493 23.5679843",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1802"
   ],
-  "georss_box_s": "37.8241493 23.5679843 38.1441493 23.8879843",
-  "georss_polygon_s": "38.1441493 23.5679843 38.1441493 23.8879843 37.8241493 23.8879843 37.8241493 23.5679843 38.1441493 23.5679843",
   "solr_geom": "ENVELOPE(23.5679843, 23.8879843, 38.1441493, 37.8241493)",
-  "solr_year_i": "1802"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Athens (Greece)"
+  ]
 }

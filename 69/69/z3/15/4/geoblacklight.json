@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1714",
   "uuid": "http://arks.princeton.edu/ark:/88435/6969z3154",
-  "dc_description_s": "Septieme plan de la ville de Paris, son accroissement et ses embelissemens sous Henry IV. et Louis XIII, depuis 1589 jusques en 1643 : tiré des lettres patentes ...",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "6969z3154",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/6969z3154/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F69%2F69%2Fz3%2F15%2F4%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "6969z3154",
-  "layer_slug_s": "princeton-6969z3154",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Septieme plan de la ville de Paris, son accroissement et ses embelissemens sous Henry IV. et Louis XIII, depuis 1589 jusques en 1643 : tire\u0301 des lettres patentes ...",
+  "georss_box_s": "48.8155755 2.224122 48.902156 2.4697602",
   "layer_modified_dt": "2015-01-21T22:23:59Z",
-  "dc_title_s": "Septieme plan de la ville de Paris, son accroissement et ses embelissemens sous Henry IV. et Louis XIII, depuis 1589 jusques en 1643 : tiré des lettres patentes ...",
+  "layer_id_s": "6969z3154",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Paris (France)"
-  ],
+  "dc_identifier_s": "6969z3154",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Septieme plan de la ville de Paris, son accroissement et ses embelissemens sous Henry IV. et Louis XIII, depuis 1589 jusques en 1643 : tire\u0301 des lettres patentes ...",
+  "layer_slug_s": "princeton-6969z3154",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/6969z3154/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/69/69/z3/15/4/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "48.902156 2.224122 48.902156 2.4697602 48.8155755 2.4697602 48.8155755 2.224122 48.902156 2.224122",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1714"
   ],
-  "georss_box_s": "48.8155755 2.224122 48.902156 2.4697602",
-  "georss_polygon_s": "48.902156 2.224122 48.902156 2.4697602 48.8155755 2.4697602 48.8155755 2.224122 48.902156 2.224122",
   "solr_geom": "ENVELOPE(2.224122, 2.4697602, 48.902156, 48.8155755)",
-  "solr_year_i": "1714"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Paris (France)"
+  ]
 }

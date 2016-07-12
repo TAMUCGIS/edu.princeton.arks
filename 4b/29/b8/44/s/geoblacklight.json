@@ -1,27 +1,27 @@
 {
+  "solr_year_i": "1854",
   "uuid": "http://arks.princeton.edu/ark:/88435/4b29b844s",
   "dc_description_s": "Spain & Portugal",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "4b29b844s",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/4b29b844s/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F4b%2F29%2Fb8%2F44%2Fs%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "4b29b844s",
-  "layer_slug_s": "princeton-4b29b844s",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "36.0 -10.0 44.0 4.0",
   "layer_modified_dt": "2015-01-19T22:37:17Z",
-  "dc_title_s": "Spain & Portugal",
+  "layer_id_s": "4b29b844s",
   "dc_type_s": "Image",
+  "dc_identifier_s": "4b29b844s",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Spain & Portugal",
+  "layer_slug_s": "princeton-4b29b844s",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/4b29b844s/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/4b/29/b8/44/s/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "44.0 -10.0 44.0 4.0 36.0 4.0 36.0 -10.0 44.0 -10.0",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1854"
+  ],
+  "solr_geom": "ENVELOPE(-10.0, 4.0, 44.0, 36.0)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Iberian Peninsula",
     "Portugal",
     "Spain"
-  ],
-  "dct_temporal_sm": [
-    "1854"
-  ],
-  "georss_box_s": "36.0 -10.0 44.0 4.0",
-  "georss_polygon_s": "44.0 -10.0 44.0 4.0 36.0 4.0 36.0 -10.0 44.0 -10.0",
-  "solr_geom": "ENVELOPE(-10.0, 4.0, 44.0, 36.0)",
-  "solr_year_i": "1854"
+  ]
 }

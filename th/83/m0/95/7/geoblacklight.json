@@ -2,7 +2,7 @@
   "dc_description_s": "A scanned historical map shown at a scale of 1:62500.",
   "layer_modified_dt": "2015-01-11T17:43:13Z",
   "solr_geom": "ENVELOPE(-72.750, -72.500, 43.750, 43.500)",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fth%2F83%2Fm0%2F95%2F7%2F00000001.jp2/info.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/th83m0957/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/th83m0957/preview.jpg\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/th83m0957/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/th/83/m0/95/7/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/th83m0957/preview.jpg\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/th83m0957",
   "dct_provenance_s": "Princeton",
@@ -15,7 +15,7 @@
     "Imagery and Base Maps"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "1958",
+  "layer_slug_s": "princeton-th83m0957",
   "dc_creator_sm": [
     "Cummin, R. D."
   ],
@@ -30,7 +30,7 @@
   "layer_id_s": "th83m0957",
   "georss_box_s": "43.500 -72.750 43.750 -72.500",
   "dc_title_s": "Vermont: Woodstock Quadrangle. [1958 reprint] ",
-  "layer_slug_s": "princeton-th83m0957",
+  "dct_issued_s": "1958",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1890",
   "uuid": "http://arks.princeton.edu/ark:/88435/2n49t3543",
+  "dc_description_s": "Westliches Klein Asien",
+  "georss_box_s": "35.2846320949 25.7678146234 37.5802760244 28.4683914312",
+  "layer_modified_dt": "2015-01-21T22:23:45Z",
   "dc_creator_sm": [
     "Kiepert, Heinrich,"
   ],
-  "dc_description_s": "Westliches Klein Asien",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "2n49t3543",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/2n49t3543/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F2n%2F49%2Ft3%2F54%2F3%2F00000001.jp2/info.json\"}",
   "layer_id_s": "2n49t3543",
-  "layer_slug_s": "princeton-2n49t3543",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:45Z",
-  "dc_title_s": "Westliches Klein Asien",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Dōdekanēsos (Greece)"
-  ],
+  "dc_identifier_s": "2n49t3543",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Westliches Klein Asien",
+  "layer_slug_s": "princeton-2n49t3543",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/2n49t3543/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/2n/49/t3/54/3/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "37.5802760244 25.7678146234 37.5802760244 28.4683914312 35.2846320949 28.4683914312 35.2846320949 25.7678146234 37.5802760244 25.7678146234",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1890"
   ],
-  "georss_box_s": "35.2846320949 25.7678146234 37.5802760244 28.4683914312",
-  "georss_polygon_s": "37.5802760244 25.7678146234 37.5802760244 28.4683914312 35.2846320949 28.4683914312 35.2846320949 25.7678146234 37.5802760244 25.7678146234",
   "solr_geom": "ENVELOPE(25.7678146234, 28.4683914312, 37.5802760244, 35.2846320949)",
-  "solr_year_i": "1890"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Do\u0304dekane\u0304sos (Greece)"
+  ]
 }

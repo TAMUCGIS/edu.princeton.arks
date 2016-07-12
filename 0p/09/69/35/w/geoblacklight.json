@@ -1,29 +1,27 @@
 {
+  "solr_year_i": "1868",
   "uuid": "http://arks.princeton.edu/ark:/88435/0p096935w",
+  "dc_description_s": "Map of the upper part of the Island of Manhattan above Eighty-Sixth Street arranged to illustrate the Battle of Harlem Heights",
+  "georss_box_s": "40.7702778 -73.9797222 40.8102778 -73.9397222",
+  "layer_modified_dt": "2015-01-21T22:24:05Z",
   "dc_creator_sm": [
     "Shannon, Joseph.",
     "Fox, N. B.,"
   ],
-  "dc_description_s": "Map of the upper part of the Island of Manhattan above Eighty-Sixth Street arranged to illustrate the Battle of Harlem Heights",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "0p096935w",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/0p096935w/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F0p%2F09%2F69%2F35%2Fw%2F00000001.jp2/info.json\"}",
   "layer_id_s": "0p096935w",
-  "layer_slug_s": "princeton-0p096935w",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:05Z",
-  "dc_title_s": "Map of the upper part of the Island of Manhattan above Eighty-Sixth Street arranged to illustrate the Battle of Harlem Heights",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "0p096935w",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Map of the upper part of the Island of Manhattan above Eighty-Sixth Street arranged to illustrate the Battle of Harlem Heights",
+  "layer_slug_s": "princeton-0p096935w",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/0p096935w/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/0p/09/69/35/w/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.8102778 -73.9797222 40.8102778 -73.9397222 40.7702778 -73.9397222 40.7702778 -73.9797222 40.8102778 -73.9797222",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1868"
   ],
-  "georss_box_s": "40.7702778 -73.9797222 40.8102778 -73.9397222",
-  "georss_polygon_s": "40.8102778 -73.9797222 40.8102778 -73.9397222 40.7702778 -73.9397222 40.7702778 -73.9797222 40.8102778 -73.9797222",
   "solr_geom": "ENVELOPE(-73.9797222, -73.9397222, 40.8102778, 40.7702778)",
-  "solr_year_i": "1868"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

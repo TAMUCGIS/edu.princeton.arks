@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1838",
   "uuid": "http://arks.princeton.edu/ark:/88435/rn301385m",
-  "dc_description_s": "Carte militaire de la France : indiquant les divisions militaires et leurs chefs-lieux, les garnisons des différens corps de l'armée, tous les établissemens de l'artillerie et du génie, les places fortes, les forts, les routes militaires, les gites d'etapes avec les distances qui les séparent, les lieux de distribution de vivre &c.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "rn301385m",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/rn301385m/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Frn%2F30%2F13%2F85%2Fm%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "rn301385m",
-  "layer_slug_s": "princeton-rn301385m",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Carte militaire de la France : indiquant les divisions militaires et leurs chefs-lieux, les garnisons des diffe\u0301rens corps de l'arme\u0301e, tous les e\u0301tablissemens de l'artillerie et du ge\u0301nie, les places fortes, les forts, les routes militaires, les gites d'etapes avec les distances qui les se\u0301parent, les lieux de distribution de vivre &c.",
+  "georss_box_s": "39.6040662 6.5382074 44.7240662 11.6582074",
   "layer_modified_dt": "2015-01-21T22:24:15Z",
-  "dc_title_s": "Carte militaire de la France : indiquant les divisions militaires et leurs chefs-lieux, les garnisons des différens corps de l'armée, tous les établissemens de l'artillerie et du génie, les places fortes, les forts, les routes militaires, les gites d'etapes avec les distances qui les séparent, les lieux de distribution de vivre &c.",
+  "layer_id_s": "rn301385m",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Corsica (France)",
-    "France"
-  ],
+  "dc_identifier_s": "rn301385m",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Carte militaire de la France : indiquant les divisions militaires et leurs chefs-lieux, les garnisons des diffe\u0301rens corps de l'arme\u0301e, tous les e\u0301tablissemens de l'artillerie et du ge\u0301nie, les places fortes, les forts, les routes militaires, les gites d'etapes avec les distances qui les se\u0301parent, les lieux de distribution de vivre &c.",
+  "layer_slug_s": "princeton-rn301385m",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/rn301385m/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/rn/30/13/85/m/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "44.7240662 6.5382074 44.7240662 11.6582074 39.6040662 11.6582074 39.6040662 6.5382074 44.7240662 6.5382074",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1838"
   ],
-  "georss_box_s": "39.6040662 6.5382074 44.7240662 11.6582074",
-  "georss_polygon_s": "44.7240662 6.5382074 44.7240662 11.6582074 39.6040662 11.6582074 39.6040662 6.5382074 44.7240662 6.5382074",
   "solr_geom": "ENVELOPE(6.5382074, 11.6582074, 44.7240662, 39.6040662)",
-  "solr_year_i": "1838"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Corsica (France)",
+    "France"
+  ]
 }

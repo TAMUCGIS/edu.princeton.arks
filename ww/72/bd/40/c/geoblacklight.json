@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1984",
   "uuid": "http://arks.princeton.edu/ark:/88435/ww72bd40c",
+  "dc_description_s": "Ethiopia",
+  "georss_box_s": "3.397448 32.997734 14.8944684 47.9823797",
+  "layer_modified_dt": "2015-01-21T22:23:49Z",
   "dc_creator_sm": [
     "Scaturro, Pasquale,"
   ],
-  "dc_description_s": "Ethiopia",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "ww72bd40c",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/ww72bd40c/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fww%2F72%2Fbd%2F40%2Fc%2F00000001.jp2/info.json\"}",
   "layer_id_s": "ww72bd40c",
-  "layer_slug_s": "princeton-ww72bd40c",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:49Z",
-  "dc_title_s": "Ethiopia",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Ethiopia",
-    "Blue Nile River (Ethiopia and Sudan)"
-  ],
+  "dc_identifier_s": "ww72bd40c",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Ethiopia",
+  "layer_slug_s": "princeton-ww72bd40c",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/ww72bd40c/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ww/72/bd/40/c/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "14.8944684 32.997734 14.8944684 47.9823797 3.397448 47.9823797 3.397448 32.997734 14.8944684 32.997734",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1984"
   ],
-  "georss_box_s": "3.397448 32.997734 14.8944684 47.9823797",
-  "georss_polygon_s": "14.8944684 32.997734 14.8944684 47.9823797 3.397448 47.9823797 3.397448 32.997734 14.8944684 32.997734",
   "solr_geom": "ENVELOPE(32.997734, 47.9823797, 14.8944684, 3.397448)",
-  "solr_year_i": "1984"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Ethiopia",
+    "Blue Nile River (Ethiopia and Sudan)"
+  ]
 }

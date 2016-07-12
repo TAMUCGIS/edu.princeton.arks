@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1876",
   "uuid": "http://arks.princeton.edu/ark:/88435/np193c69r",
   "dc_description_s": "Salonik",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "np193c69r",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/np193c69r/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fnp%2F19%2F3c%2F69%2Fr%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "np193c69r",
-  "layer_slug_s": "princeton-np193c69r",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "40.4803167 22.7752716 40.8003167 23.0952716",
   "layer_modified_dt": "2015-01-21T22:24:27Z",
-  "dc_title_s": "Salonik",
+  "layer_id_s": "np193c69r",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Thessalonikē (Greece)"
-  ],
+  "dc_identifier_s": "np193c69r",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Salonik",
+  "layer_slug_s": "princeton-np193c69r",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/np193c69r/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/np/19/3c/69/r/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.8003167 22.7752716 40.8003167 23.0952716 40.4803167 23.0952716 40.4803167 22.7752716 40.8003167 22.7752716",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1876"
   ],
-  "georss_box_s": "40.4803167 22.7752716 40.8003167 23.0952716",
-  "georss_polygon_s": "40.8003167 22.7752716 40.8003167 23.0952716 40.4803167 23.0952716 40.4803167 22.7752716 40.8003167 22.7752716",
   "solr_geom": "ENVELOPE(22.7752716, 23.0952716, 40.8003167, 40.4803167)",
-  "solr_year_i": "1876"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Thessalonike\u0304 (Greece)"
+  ]
 }

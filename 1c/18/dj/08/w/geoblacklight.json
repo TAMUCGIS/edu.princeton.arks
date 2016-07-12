@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1647",
   "uuid": "http://arks.princeton.edu/ark:/88435/1c18dj08w",
+  "dc_description_s": "Nova Belgica et Anglia Nova",
+  "georss_box_s": "24.4510460732 -88.4357686625 47.7071655681 -66.959079725",
+  "layer_modified_dt": "2015-01-25T02:06:10Z",
   "dc_creator_sm": [
     "Jansson, Jan,",
     "Fox, N. B.,"
   ],
-  "dc_description_s": "Nova Belgica et Anglia Nova",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "1c18dj08w",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/1c18dj08w/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F1c%2F18%2Fdj%2F08%2Fw%2F00000001.jp2/info.json\"}",
   "layer_id_s": "1c18dj08w",
-  "layer_slug_s": "princeton-1c18dj08w",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:10Z",
-  "dc_title_s": "Nova Belgica et Anglia Nova",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Atlantic States",
-    "Maritime Provinces"
-  ],
+  "dc_identifier_s": "1c18dj08w",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Nova Belgica et Anglia Nova",
+  "layer_slug_s": "princeton-1c18dj08w",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/1c18dj08w/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/1c/18/dj/08/w/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "47.7071655681 -88.4357686625 47.7071655681 -66.959079725 24.4510460732 -66.959079725 24.4510460732 -88.4357686625 47.7071655681 -88.4357686625",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1647"
   ],
-  "georss_box_s": "24.4510460732 -88.4357686625 47.7071655681 -66.959079725",
-  "georss_polygon_s": "47.7071655681 -88.4357686625 47.7071655681 -66.959079725 24.4510460732 -66.959079725 24.4510460732 -88.4357686625 47.7071655681 -88.4357686625",
   "solr_geom": "ENVELOPE(-88.4357686625, -66.959079725, 47.7071655681, 24.4510460732)",
-  "solr_year_i": "1647"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Atlantic States",
+    "Maritime Provinces"
+  ]
 }

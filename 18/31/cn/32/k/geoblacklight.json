@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1729",
   "uuid": "http://arks.princeton.edu/ark:/88435/1831cn32k",
+  "dc_description_s": "Novi Belgii Nov\u00e6que Angli\u00e6 nec non partis Virgini\u00e6 tabula : multis in locis emendata",
+  "georss_box_s": "40.950943 -73.727775 47.459686 -66.8850751",
+  "layer_modified_dt": "2015-01-21T22:23:56Z",
   "dc_creator_sm": [
     "Schenk, Pieter,",
     "Fox, N. B.,"
   ],
-  "dc_description_s": "Novi Belgii Novæque Angliæ nec non partis Virginiæ tabula : multis in locis emendata",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "1831cn32k",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/1831cn32k/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F18%2F31%2Fcn%2F32%2Fk%2F00000001.jp2/info.json\"}",
   "layer_id_s": "1831cn32k",
-  "layer_slug_s": "princeton-1831cn32k",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:56Z",
-  "dc_title_s": "Novi Belgii Novæque Angliæ nec non partis Virginiæ tabula : multis in locis emendata",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "New England",
-    "Middle Atlantic States"
-  ],
+  "dc_identifier_s": "1831cn32k",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Novi Belgii Nov\u00e6que Angli\u00e6 nec non partis Virgini\u00e6 tabula : multis in locis emendata",
+  "layer_slug_s": "princeton-1831cn32k",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/1831cn32k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/18/31/cn/32/k/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "47.459686 -73.727775 47.459686 -66.8850751 40.950943 -66.8850751 40.950943 -73.727775 47.459686 -73.727775",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1729"
   ],
-  "georss_box_s": "40.950943 -73.727775 47.459686 -66.8850751",
-  "georss_polygon_s": "47.459686 -73.727775 47.459686 -66.8850751 40.950943 -66.8850751 40.950943 -73.727775 47.459686 -73.727775",
   "solr_geom": "ENVELOPE(-73.727775, -66.8850751, 47.459686, 40.950943)",
-  "solr_year_i": "1729"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "New England",
+    "Middle Atlantic States"
+  ]
 }

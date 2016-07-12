@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1888",
   "uuid": "http://arks.princeton.edu/ark:/88435/8g84mp70d",
   "dc_description_s": "Map of the Argentine Republic",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "8g84mp70d",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/8g84mp70d/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F8g%2F84%2Fmp%2F70%2Fd%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "8g84mp70d",
-  "layer_slug_s": "princeton-8g84mp70d",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "-56.0 -80.0 -21.0 -50.0",
   "layer_modified_dt": "2015-01-19T22:37:11Z",
-  "dc_title_s": "Map of the Argentine Republic",
+  "layer_id_s": "8g84mp70d",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Argentina",
-    "South America"
-  ],
+  "dc_identifier_s": "8g84mp70d",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Map of the Argentine Republic",
+  "layer_slug_s": "princeton-8g84mp70d",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/8g84mp70d/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/8g/84/mp/70/d/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "-21.0 -80.0 -21.0 -50.0 -56.0 -50.0 -56.0 -80.0 -21.0 -80.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1888"
   ],
-  "georss_box_s": "-56.0 -80.0 -21.0 -50.0",
-  "georss_polygon_s": "-21.0 -80.0 -21.0 -50.0 -56.0 -50.0 -56.0 -80.0 -21.0 -80.0",
   "solr_geom": "ENVELOPE(-80.0, -50.0, -21.0, -56.0)",
-  "solr_year_i": "1888"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Argentina",
+    "South America"
+  ]
 }

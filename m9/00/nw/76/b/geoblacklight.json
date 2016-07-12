@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/m900nw76b",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Oxford",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "m900nw76b",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fm9%2F00%2Fnw%2F76%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "m900nw76b",
-  "layer_slug_s": "princeton-m900nw76b",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:10:38Z",
+  "solr_geom": "ENVELOPE(-75.009616, -74.969616, 40.823155, 40.783155)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/m9/00/nw/76/b/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/m900nw76b",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Oxford, Warren County, New Jersey (Sheet 4)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1915"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "m900nw76b",
+  "georss_polygon_s": "40.823155 -75.009616 40.823155 -74.969616 40.783155 -74.969616 40.783155 -75.009616 40.823155 -75.009616",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1915",
   "dct_spatial_sm": [
     "New Jersey",
     "Oxford"
   ],
-  "dct_temporal_sm": [
-    "1915"
-  ],
+  "layer_id_s": "m900nw76b",
   "georss_box_s": "40.783155 -75.009616 40.823155 -74.969616",
-  "georss_polygon_s": "40.823155 -75.009616 40.823155 -74.969616 40.783155 -74.969616 40.783155 -75.009616 40.823155 -75.009616",
-  "solr_geom": "ENVELOPE(-75.009616, -74.969616, 40.823155, 40.783155)",
-  "solr_year_i": "1915"
+  "dc_title_s": "Oxford, Warren County, New Jersey (Sheet 4)",
+  "layer_slug_s": "princeton-m900nw76b",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

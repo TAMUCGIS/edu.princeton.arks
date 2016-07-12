@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1861",
   "uuid": "http://arks.princeton.edu/ark:/88435/12579v68k",
-  "dc_creator_sm": [
-    "Haussmann, Georges Eugène,"
-  ],
   "dc_description_s": "Plan statistique",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "12579v68k",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/12579v68k/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F12%2F57%2F9v%2F68%2Fk%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "12579v68k",
-  "layer_slug_s": "princeton-12579v68k",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "48.8155755 2.224122 48.902156 2.4697602",
   "layer_modified_dt": "2015-01-21T22:24:01Z",
-  "dc_title_s": "Plan statistique",
-  "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Paris (France)"
+  "dc_creator_sm": [
+    "Haussmann, Georges Euge\u0300ne,"
   ],
+  "layer_id_s": "12579v68k",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "12579v68k",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Plan statistique",
+  "layer_slug_s": "princeton-12579v68k",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/12579v68k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/12/57/9v/68/k/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "48.902156 2.224122 48.902156 2.4697602 48.8155755 2.4697602 48.8155755 2.224122 48.902156 2.224122",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1861"
   ],
-  "georss_box_s": "48.8155755 2.224122 48.902156 2.4697602",
-  "georss_polygon_s": "48.902156 2.224122 48.902156 2.4697602 48.8155755 2.4697602 48.8155755 2.224122 48.902156 2.224122",
   "solr_geom": "ENVELOPE(2.224122, 2.4697602, 48.902156, 48.8155755)",
-  "solr_year_i": "1861"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Paris (France)"
+  ]
 }

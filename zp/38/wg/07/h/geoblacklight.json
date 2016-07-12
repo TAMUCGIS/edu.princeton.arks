@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1819",
   "uuid": "http://arks.princeton.edu/ark:/88435/zp38wg07h",
-  "dc_creator_sm": [
-    "Pinto, L. M. Sá."
-  ],
   "dc_description_s": "Prospecto da cidade de Marianna : observada do morro de seminario ao norte deste, olhando para o poente",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "zp38wg07h",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/zp38wg07h/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fzp%2F38%2Fwg%2F07%2Fh%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "zp38wg07h",
-  "layer_slug_s": "princeton-zp38wg07h",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "-20.3874582 -43.4304512 -20.3665387 -43.3984364",
   "layer_modified_dt": "2015-01-21T22:24:08Z",
-  "dc_title_s": "Prospecto da cidade de Marianna : observada do morro de seminario ao norte deste, olhando para o poente",
-  "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Marianna (Brazil)"
+  "dc_creator_sm": [
+    "Pinto, L. M. Sa\u0301."
   ],
+  "layer_id_s": "zp38wg07h",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "zp38wg07h",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Prospecto da cidade de Marianna : observada do morro de seminario ao norte deste, olhando para o poente",
+  "layer_slug_s": "princeton-zp38wg07h",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/zp38wg07h/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/zp/38/wg/07/h/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "-20.3665387 -43.4304512 -20.3665387 -43.3984364 -20.3874582 -43.3984364 -20.3874582 -43.4304512 -20.3665387 -43.4304512",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1819"
   ],
-  "georss_box_s": "-20.3874582 -43.4304512 -20.3665387 -43.3984364",
-  "georss_polygon_s": "-20.3665387 -43.4304512 -20.3665387 -43.3984364 -20.3874582 -43.3984364 -20.3874582 -43.4304512 -20.3665387 -43.4304512",
   "solr_geom": "ENVELOPE(-43.4304512, -43.3984364, -20.3665387, -20.3874582)",
-  "solr_year_i": "1819"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Marianna (Brazil)"
+  ]
 }

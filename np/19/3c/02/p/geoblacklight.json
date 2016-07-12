@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1691",
   "uuid": "http://arks.princeton.edu/ark:/88435/np193c02p",
   "dc_description_s": "Antica, e moderna citta d'Atene",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "np193c02p",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/np193c02p/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fnp%2F19%2F3c%2F02%2Fp%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "np193c02p",
-  "layer_slug_s": "princeton-np193c02p",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "37.8241493 23.5679843 38.1441493 23.8879843",
   "layer_modified_dt": "2015-01-21T22:23:46Z",
-  "dc_title_s": "Antica, e moderna citta d'Atene",
+  "layer_id_s": "np193c02p",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Athens (Greece)"
-  ],
+  "dc_identifier_s": "np193c02p",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Antica, e moderna citta d'Atene",
+  "layer_slug_s": "princeton-np193c02p",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/np193c02p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/np/19/3c/02/p/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "38.1441493 23.5679843 38.1441493 23.8879843 37.8241493 23.8879843 37.8241493 23.5679843 38.1441493 23.5679843",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1691"
   ],
-  "georss_box_s": "37.8241493 23.5679843 38.1441493 23.8879843",
-  "georss_polygon_s": "38.1441493 23.5679843 38.1441493 23.8879843 37.8241493 23.8879843 37.8241493 23.5679843 38.1441493 23.5679843",
   "solr_geom": "ENVELOPE(23.5679843, 23.8879843, 38.1441493, 37.8241493)",
-  "solr_year_i": "1691"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Athens (Greece)"
+  ]
 }

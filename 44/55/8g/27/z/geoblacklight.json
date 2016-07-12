@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1550",
   "uuid": "http://arks.princeton.edu/ark:/88435/44558g27z",
+  "dc_description_s": "Tabula orientalis regionis, Asiae scilicet extremas complectens terras & regna",
+  "georss_box_s": "55.9999502 103.9999498 56.0000502 104.0000498",
+  "layer_modified_dt": "2015-01-25T02:06:10Z",
   "dc_creator_sm": [
     "Petri, Heinrich,",
-    "Münster, Sebastian,",
+    "Mu\u0308nster, Sebastian,",
     "McCabe, Robert A.,"
   ],
-  "dc_description_s": "Tabula orientalis regionis, Asiae scilicet extremas complectens terras & regna",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "44558g27z",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/44558g27z/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F44%2F55%2F8g%2F27%2Fz%2F00000001.jp2/info.json\"}",
   "layer_id_s": "44558g27z",
-  "layer_slug_s": "princeton-44558g27z",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:10Z",
-  "dc_title_s": "Tabula orientalis regionis, Asiae scilicet extremas complectens terras & regna",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Asia"
-  ],
+  "dc_identifier_s": "44558g27z",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Tabula orientalis regionis, Asiae scilicet extremas complectens terras & regna",
+  "layer_slug_s": "princeton-44558g27z",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/44558g27z/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/44/55/8g/27/z/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "56.0000502 103.9999498 56.0000502 104.0000498 55.9999502 104.0000498 55.9999502 103.9999498 56.0000502 103.9999498",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1550"
   ],
-  "georss_box_s": "55.9999502 103.9999498 56.0000502 104.0000498",
-  "georss_polygon_s": "56.0000502 103.9999498 56.0000502 104.0000498 55.9999502 104.0000498 55.9999502 103.9999498 56.0000502 103.9999498",
   "solr_geom": "ENVELOPE(103.9999498, 104.0000498, 56.0000502, 55.9999502)",
-  "solr_year_i": "1550"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Asia"
+  ]
 }

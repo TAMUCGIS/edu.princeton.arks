@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1901",
   "uuid": "http://arks.princeton.edu/ark:/88435/8w32r810b",
   "dc_description_s": "Germany (eastern sheet)",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "8w32r810b",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/8w32r810b/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F8w%2F32%2Fr8%2F10%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "8w32r810b",
-  "layer_slug_s": "princeton-8w32r810b",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "44.0 13.0 55.0 23.0",
   "layer_modified_dt": "2015-01-19T22:37:30Z",
-  "dc_title_s": "Germany (eastern sheet)",
+  "layer_id_s": "8w32r810b",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Germany",
-    "Germany"
-  ],
+  "dc_identifier_s": "8w32r810b",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Germany (eastern sheet)",
+  "layer_slug_s": "princeton-8w32r810b",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/8w32r810b/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/8w/32/r8/10/b/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "55.0 13.0 55.0 23.0 44.0 23.0 44.0 13.0 55.0 13.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1901"
   ],
-  "georss_box_s": "44.0 13.0 55.0 23.0",
-  "georss_polygon_s": "55.0 13.0 55.0 23.0 44.0 23.0 44.0 13.0 55.0 13.0",
   "solr_geom": "ENVELOPE(13.0, 23.0, 55.0, 44.0)",
-  "solr_year_i": "1901"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Germany",
+    "Germany"
+  ]
 }

@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1905",
   "uuid": "http://arks.princeton.edu/ark:/88435/cc08hh51k",
   "dc_description_s": "Indian Territory and Oklahoma",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "cc08hh51k",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/cc08hh51k/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fcc%2F08%2Fhh%2F51%2Fk%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "cc08hh51k",
-  "layer_slug_s": "princeton-cc08hh51k",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "33.6191955 -103.0024614 37.002133 -94.4312149",
   "layer_modified_dt": "2015-01-21T22:23:50Z",
-  "dc_title_s": "Indian Territory and Oklahoma",
+  "layer_id_s": "cc08hh51k",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Oklahoma"
-  ],
+  "dc_identifier_s": "cc08hh51k",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Indian Territory and Oklahoma",
+  "layer_slug_s": "princeton-cc08hh51k",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/cc08hh51k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/cc/08/hh/51/k/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "37.002133 -103.0024614 37.002133 -94.4312149 33.6191955 -94.4312149 33.6191955 -103.0024614 37.002133 -103.0024614",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1905"
   ],
-  "georss_box_s": "33.6191955 -103.0024614 37.002133 -94.4312149",
-  "georss_polygon_s": "37.002133 -103.0024614 37.002133 -94.4312149 33.6191955 -94.4312149 33.6191955 -103.0024614 37.002133 -103.0024614",
   "solr_geom": "ENVELOPE(-103.0024614, -94.4312149, 37.002133, 33.6191955)",
-  "solr_year_i": "1905"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Oklahoma"
+  ]
 }

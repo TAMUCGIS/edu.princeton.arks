@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/rn301326d",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Burlington",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "rn301326d",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Frn%2F30%2F13%2F26%2Fd%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "rn301326d",
-  "layer_slug_s": "princeton-rn301326d",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:02:01Z",
+  "solr_geom": "ENVELOPE(-74.879239, -74.828908, 40.09805, 40.062631)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/rn/30/13/26/d/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/rn301326d",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Insurance maps of Burlington, Burlington Co., New Jersey (Sheet 11).",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1902"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "rn301326d",
+  "georss_polygon_s": "40.09805 -74.879239 40.09805 -74.828908 40.062631 -74.828908 40.062631 -74.879239 40.09805 -74.879239",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1902",
   "dct_spatial_sm": [
     "New Jersey",
     "Burlington"
   ],
-  "dct_temporal_sm": [
-    "1902"
-  ],
+  "layer_id_s": "rn301326d",
   "georss_box_s": "40.062631 -74.879239 40.09805 -74.828908",
-  "georss_polygon_s": "40.09805 -74.879239 40.09805 -74.828908 40.062631 -74.828908 40.062631 -74.879239 40.09805 -74.879239",
-  "solr_geom": "ENVELOPE(-74.879239, -74.828908, 40.09805, 40.062631)",
-  "solr_year_i": "1902"
+  "dc_title_s": "Insurance maps of Burlington, Burlington Co., New Jersey (Sheet 11).",
+  "layer_slug_s": "princeton-rn301326d",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1880",
   "uuid": "http://arks.princeton.edu/ark:/88435/cr56n3066",
+  "dc_description_s": "Indicator map of London : with the recent improvements, 1880",
+  "georss_box_s": "51.2867602 -0.510375 51.6918741 0.3340155",
+  "layer_modified_dt": "2015-01-21T22:23:53Z",
   "dc_creator_sm": [
     "Lathrop, Francis,"
   ],
-  "dc_description_s": "Indicator map of London : with the recent improvements, 1880",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "cr56n3066",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/cr56n3066/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fcr%2F56%2Fn3%2F06%2F6%2F00000001.jp2/info.json\"}",
   "layer_id_s": "cr56n3066",
-  "layer_slug_s": "princeton-cr56n3066",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:53Z",
-  "dc_title_s": "Indicator map of London : with the recent improvements, 1880",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "London (England)"
-  ],
+  "dc_identifier_s": "cr56n3066",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Indicator map of London : with the recent improvements, 1880",
+  "layer_slug_s": "princeton-cr56n3066",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/cr56n3066/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/cr/56/n3/06/6/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "51.6918741 -0.510375 51.6918741 0.3340155 51.2867602 0.3340155 51.2867602 -0.510375 51.6918741 -0.510375",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1880"
   ],
-  "georss_box_s": "51.2867602 -0.510375 51.6918741 0.3340155",
-  "georss_polygon_s": "51.6918741 -0.510375 51.6918741 0.3340155 51.2867602 0.3340155 51.2867602 -0.510375 51.6918741 -0.510375",
   "solr_geom": "ENVELOPE(-0.510375, 0.3340155, 51.6918741, 51.2867602)",
-  "solr_year_i": "1880"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "London (England)"
+  ]
 }

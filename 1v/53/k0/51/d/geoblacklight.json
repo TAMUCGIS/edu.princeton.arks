@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1904",
   "uuid": "http://arks.princeton.edu/ark:/88435/1v53k051d",
+  "dc_description_s": "Magdeburg",
+  "georss_box_s": "52.0238362 11.5177765 52.2282553 11.7666902",
+  "layer_modified_dt": "2015-01-25T02:06:19Z",
   "dc_creator_sm": [
     "Woerl, Leo,"
   ],
-  "dc_description_s": "Magdeburg",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "1v53k051d",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/1v53k051d/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F1v%2F53%2Fk0%2F51%2Fd%2F00000001.jp2/info.json\"}",
   "layer_id_s": "1v53k051d",
-  "layer_slug_s": "princeton-1v53k051d",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:19Z",
-  "dc_title_s": "Magdeburg",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Magdeburg (Germany)",
-    "Saxony-Anhalt (Germany)"
-  ],
+  "dc_identifier_s": "1v53k051d",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Magdeburg",
+  "layer_slug_s": "princeton-1v53k051d",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/1v53k051d/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/1v/53/k0/51/d/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "52.2282553 11.5177765 52.2282553 11.7666902 52.0238362 11.7666902 52.0238362 11.5177765 52.2282553 11.5177765",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1904"
   ],
-  "georss_box_s": "52.0238362 11.5177765 52.2282553 11.7666902",
-  "georss_polygon_s": "52.2282553 11.5177765 52.2282553 11.7666902 52.0238362 11.7666902 52.0238362 11.5177765 52.2282553 11.5177765",
   "solr_geom": "ENVELOPE(11.5177765, 11.7666902, 52.2282553, 52.0238362)",
-  "solr_year_i": "1904"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Magdeburg (Germany)",
+    "Saxony-Anhalt (Germany)"
+  ]
 }

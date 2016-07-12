@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1784",
   "uuid": "http://arks.princeton.edu/ark:/88435/z890rw69d",
+  "dc_description_s": "British dominions in America : drawn from the latest and best authorities",
+  "georss_box_s": "28.5 -99.0 53.0 -51.5",
+  "layer_modified_dt": "2015-01-19T22:37:13Z",
   "dc_creator_sm": [
     "Guthrie, William,"
   ],
-  "dc_description_s": "British dominions in America : drawn from the latest and best authorities",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "z890rw69d",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/z890rw69d/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fz8%2F90%2Frw%2F69%2Fd%2F00000001.jp2/info.json\"}",
   "layer_id_s": "z890rw69d",
-  "layer_slug_s": "princeton-z890rw69d",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:13Z",
-  "dc_title_s": "British dominions in America : drawn from the latest and best authorities",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Canada"
-  ],
+  "dc_identifier_s": "z890rw69d",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "British dominions in America : drawn from the latest and best authorities",
+  "layer_slug_s": "princeton-z890rw69d",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/z890rw69d/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/z8/90/rw/69/d/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "53.0 -99.0 53.0 -51.5 28.5 -51.5 28.5 -99.0 53.0 -99.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1784"
   ],
-  "georss_box_s": "28.5 -99.0 53.0 -51.5",
-  "georss_polygon_s": "53.0 -99.0 53.0 -51.5 28.5 -51.5 28.5 -99.0 53.0 -99.0",
   "solr_geom": "ENVELOPE(-99.0, -51.5, 53.0, 28.5)",
-  "solr_year_i": "1784"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Canada"
+  ]
 }

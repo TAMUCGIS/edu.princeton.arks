@@ -1,32 +1,32 @@
 {
+  "solr_year_i": "1824",
   "uuid": "http://arks.princeton.edu/ark:/88435/3t945t31p",
+  "dc_description_s": "A general chart of South America",
+  "georss_box_s": "-65.0 -130.0 40.0 -25.0",
+  "layer_modified_dt": "2015-01-19T22:37:41Z",
   "dc_creator_sm": [
     "Walker, J.,"
   ],
-  "dc_description_s": "A general chart of South America",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "3t945t31p",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/3t945t31p/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F3t%2F94%2F5t%2F31%2Fp%2F00000001.jp2/info.json\"}",
   "layer_id_s": "3t945t31p",
-  "layer_slug_s": "princeton-3t945t31p",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:41Z",
-  "dc_title_s": "A general chart of South America",
   "dc_type_s": "Image",
+  "dc_identifier_s": "3t945t31p",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "A general chart of South America",
+  "layer_slug_s": "princeton-3t945t31p",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/3t945t31p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/3t/94/5t/31/p/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.0 -130.0 40.0 -25.0 -65.0 -25.0 -65.0 -130.0 40.0 -130.0",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1824"
+  ],
+  "solr_geom": "ENVELOPE(-130.0, -25.0, 40.0, -65.0)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Central America",
     "South America",
     "Mexico",
     "United States",
     "West Indies"
-  ],
-  "dct_temporal_sm": [
-    "1824"
-  ],
-  "georss_box_s": "-65.0 -130.0 40.0 -25.0",
-  "georss_polygon_s": "40.0 -130.0 40.0 -25.0 -65.0 -25.0 -65.0 -130.0 40.0 -130.0",
-  "solr_geom": "ENVELOPE(-130.0, -25.0, 40.0, -65.0)",
-  "solr_year_i": "1824"
+  ]
 }

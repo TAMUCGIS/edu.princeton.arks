@@ -1,5 +1,9 @@
 {
+  "solr_year_i": "1979",
   "uuid": "http://arks.princeton.edu/ark:/88435/6q182n623",
+  "dc_description_s": "Medieval England",
+  "georss_box_s": "49.674 -14.0155169 61.061 2.0919117",
+  "layer_modified_dt": "2015-01-25T02:06:15Z",
   "dc_creator_sm": [
     "Darley, Richard J.",
     "Shupe, John F.",
@@ -7,27 +11,23 @@
     "Wolf, Elizabeth.",
     "Kauhane, Harry D."
   ],
-  "dc_description_s": "Medieval England",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "6q182n623",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/6q182n623/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F6q%2F18%2F2n%2F62%2F3%2F00000001.jp2/info.json\"}",
   "layer_id_s": "6q182n623",
-  "layer_slug_s": "princeton-6q182n623",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:15Z",
-  "dc_title_s": "Medieval England",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Great Britain",
-    "British Isles"
-  ],
+  "dc_identifier_s": "6q182n623",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Medieval England",
+  "layer_slug_s": "princeton-6q182n623",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/6q182n623/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/6q/18/2n/62/3/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "61.061 -14.0155169 61.061 2.0919117 49.674 2.0919117 49.674 -14.0155169 61.061 -14.0155169",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1979"
   ],
-  "georss_box_s": "49.674 -14.0155169 61.061 2.0919117",
-  "georss_polygon_s": "61.061 -14.0155169 61.061 2.0919117 49.674 2.0919117 49.674 -14.0155169 61.061 -14.0155169",
   "solr_geom": "ENVELOPE(-14.0155169, 2.0919117, 61.061, 49.674)",
-  "solr_year_i": "1979"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Great Britain",
+    "British Isles"
+  ]
 }

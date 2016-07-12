@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1807",
   "uuid": "http://arks.princeton.edu/ark:/88435/qf85nd72n",
+  "dc_description_s": "Antietam",
+  "georss_box_s": "-14.7608357 -179.9999999 71.6048217 180",
+  "layer_modified_dt": "2015-01-21T22:24:04Z",
   "dc_creator_sm": [
     "Michler, N."
   ],
-  "dc_description_s": "Antietam",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "qf85nd72n",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/qf85nd72n/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fqf%2F85%2Fnd%2F72%2Fn%2F00000001.jp2/info.json\"}",
   "layer_id_s": "qf85nd72n",
-  "layer_slug_s": "princeton-qf85nd72n",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:04Z",
-  "dc_title_s": "Antietam",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "United States"
-  ],
+  "dc_identifier_s": "qf85nd72n",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Antietam",
+  "layer_slug_s": "princeton-qf85nd72n",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/qf85nd72n/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/qf/85/nd/72/n/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "71.6048217 -179.9999999 71.6048217 180 -14.7608357 180 -14.7608357 -179.9999999 71.6048217 -179.9999999",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1807"
   ],
-  "georss_box_s": "-14.7608357 -179.9999999 71.6048217 180",
-  "georss_polygon_s": "71.6048217 -179.9999999 71.6048217 180 -14.7608357 180 -14.7608357 -179.9999999 71.6048217 -179.9999999",
   "solr_geom": "ENVELOPE(-179.9999999, 180, 71.6048217, -14.7608357)",
-  "solr_year_i": "1807"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "United States"
+  ]
 }

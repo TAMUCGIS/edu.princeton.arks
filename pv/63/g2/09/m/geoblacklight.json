@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1747",
   "uuid": "http://arks.princeton.edu/ark:/88435/pv63g209m",
   "dc_description_s": "A new & accurate map of the North Pole, with all the countries hitherto discovered situated near or adjacent to it as well as some others more remote : drawn from the latest and best authorities and regulated by astronom[ica]l observat[io]ns /",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "pv63g209m",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/pv63g209m/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fpv%2F63%2Fg2%2F09%2Fm%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "pv63g209m",
-  "layer_slug_s": "princeton-pv63g209m",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "50.0 -180.0 90.0 180.0",
   "layer_modified_dt": "2015-01-19T22:36:45Z",
-  "dc_title_s": "A new & accurate map of the North Pole, with all the countries hitherto discovered situated near or adjacent to it as well as some others more remote : drawn from the latest and best authorities and regulated by astronom[ica]l observat[io]ns /",
+  "layer_id_s": "pv63g209m",
   "dc_type_s": "Image",
+  "dc_identifier_s": "pv63g209m",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "A new & accurate map of the North Pole, with all the countries hitherto discovered situated near or adjacent to it as well as some others more remote : drawn from the latest and best authorities and regulated by astronom[ica]l observat[io]ns /",
+  "layer_slug_s": "princeton-pv63g209m",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/pv63g209m/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/pv/63/g2/09/m/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "90.0 -180.0 90.0 180.0 50.0 180.0 50.0 -180.0 90.0 -180.0",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1747"
+  ],
+  "solr_geom": "ENVELOPE(-180.0, 180.0, 90.0, 50.0)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "North Pole",
     "Northern Hemisphere",
     "Arctic regions",
     "Northwest Passage"
-  ],
-  "dct_temporal_sm": [
-    "1747"
-  ],
-  "georss_box_s": "50.0 -180.0 90.0 180.0",
-  "georss_polygon_s": "90.0 -180.0 90.0 180.0 50.0 180.0 50.0 -180.0 90.0 -180.0",
-  "solr_geom": "ENVELOPE(-180.0, 180.0, 90.0, 50.0)",
-  "solr_year_i": "1747"
+  ]
 }

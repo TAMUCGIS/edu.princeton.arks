@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/2f75r992j",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Ramsey",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "2f75r992j",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F2f%2F75%2Fr9%2F92%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "2f75r992j",
-  "layer_slug_s": "princeton-2f75r992j",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:02:14Z",
+  "solr_geom": "ENVELOPE(-74.176283, -74.114444, 41.077908, 41.040506)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/2f/75/r9/92/j/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/2f75r992j",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Ramsey, Bergen County, New Jersey (Sheet 6)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1931"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "2f75r992j",
+  "georss_polygon_s": "41.077908 -74.176283 41.077908 -74.114444 41.040506 -74.114444 41.040506 -74.176283 41.077908 -74.176283",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1931",
   "dct_spatial_sm": [
     "New Jersey",
     "Ramsey"
   ],
-  "dct_temporal_sm": [
-    "1931"
-  ],
+  "layer_id_s": "2f75r992j",
   "georss_box_s": "41.040506 -74.176283 41.077908 -74.114444",
-  "georss_polygon_s": "41.077908 -74.176283 41.077908 -74.114444 41.040506 -74.114444 41.040506 -74.176283 41.077908 -74.176283",
-  "solr_geom": "ENVELOPE(-74.176283, -74.114444, 41.077908, 41.040506)",
-  "solr_year_i": "1931"
+  "dc_title_s": "Ramsey, Bergen County, New Jersey (Sheet 6)",
+  "layer_slug_s": "princeton-2f75r992j",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

@@ -1,31 +1,29 @@
 {
+  "solr_year_i": "1884",
   "uuid": "http://arks.princeton.edu/ark:/88435/ns064857z",
+  "dc_description_s": "A topographical map of the Central Highlands including all of Morris County west of Boonton and Sussex County south and east of Newton : from original surveys and levelings based on the triangulation of the U.S. Coast and Geodetic Survey /",
+  "georss_box_s": "40.65 -74.85 48.15 -74.4",
+  "layer_modified_dt": "2015-01-23T17:48:40Z",
   "dc_creator_sm": [
     "Cook, George Hammell,",
     "Smock, John C.",
     "Vermeule, C. C.",
     "Sinnickson, Clement Hall,"
   ],
-  "dc_description_s": "A topographical map of the Central Highlands including all of Morris County west of Boonton and Sussex County south and east of Newton : from original surveys and levelings based on the triangulation of the U.S. Coast and Geodetic Survey /",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "ns064857z",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/ns064857z/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fns%2F06%2F48%2F57%2Fz%2F00000001.jp2/info.json\"}",
   "layer_id_s": "ns064857z",
-  "layer_slug_s": "princeton-ns064857z",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-23T17:48:40Z",
-  "dc_title_s": "A topographical map of the Central Highlands including all of Morris County west of Boonton and Sussex County south and east of Newton : from original surveys and levelings based on the triangulation of the U.S. Coast and Geodetic Survey /",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "ns064857z",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "A topographical map of the Central Highlands including all of Morris County west of Boonton and Sussex County south and east of Newton : from original surveys and levelings based on the triangulation of the U.S. Coast and Geodetic Survey /",
+  "layer_slug_s": "princeton-ns064857z",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/ns064857z/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ns/06/48/57/z/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "48.15 -74.85 48.15 -74.4 40.65 -74.4 40.65 -74.85 48.15 -74.85",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1884"
   ],
-  "georss_box_s": "40.65 -74.85 48.15 -74.4",
-  "georss_polygon_s": "48.15 -74.85 48.15 -74.4 40.65 -74.4 40.65 -74.85 48.15 -74.85",
   "solr_geom": "ENVELOPE(-74.85, -74.4, 48.15, 40.65)",
-  "solr_year_i": "1884"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

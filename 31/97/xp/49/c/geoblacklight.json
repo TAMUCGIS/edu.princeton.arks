@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1783",
   "uuid": "http://arks.princeton.edu/ark:/88435/3197xp49c",
+  "dc_description_s": "Map of the United States in North America : with the British, French and Spanish dominions adjoining, according to the treaty of 1783",
+  "georss_box_s": "30.0 -90.0 50.0 -52.0",
+  "layer_modified_dt": "2015-01-19T22:37:13Z",
   "dc_creator_sm": [
     "Raynal,"
   ],
-  "dc_description_s": "Map of the United States in North America : with the British, French and Spanish dominions adjoining, according to the treaty of 1783",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "3197xp49c",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/3197xp49c/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F31%2F97%2Fxp%2F49%2Fc%2F00000001.jp2/info.json\"}",
   "layer_id_s": "3197xp49c",
-  "layer_slug_s": "princeton-3197xp49c",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:13Z",
-  "dc_title_s": "Map of the United States in North America : with the British, French and Spanish dominions adjoining, according to the treaty of 1783",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Canada",
-    "United States"
-  ],
+  "dc_identifier_s": "3197xp49c",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Map of the United States in North America : with the British, French and Spanish dominions adjoining, according to the treaty of 1783",
+  "layer_slug_s": "princeton-3197xp49c",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/3197xp49c/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/31/97/xp/49/c/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "50.0 -90.0 50.0 -52.0 30.0 -52.0 30.0 -90.0 50.0 -90.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1783"
   ],
-  "georss_box_s": "30.0 -90.0 50.0 -52.0",
-  "georss_polygon_s": "50.0 -90.0 50.0 -52.0 30.0 -52.0 30.0 -90.0 50.0 -90.0",
   "solr_geom": "ENVELOPE(-90.0, -52.0, 50.0, 30.0)",
-  "solr_year_i": "1783"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Canada",
+    "United States"
+  ]
 }

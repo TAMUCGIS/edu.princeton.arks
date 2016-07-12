@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1898",
   "uuid": "http://arks.princeton.edu/ark:/88435/hx11xh74r",
+  "dc_description_s": "Mainz und Umgegend",
+  "georss_box_s": "49.8399952 8.1110237 50.1599952 8.4310237",
+  "layer_modified_dt": "2015-01-21T22:24:22Z",
   "dc_creator_sm": [
     "Woerl, Leo,"
   ],
-  "dc_description_s": "Mainz und Umgegend",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "hx11xh74r",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/hx11xh74r/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fhx%2F11%2Fxh%2F74%2Fr%2F00000001.jp2/info.json\"}",
   "layer_id_s": "hx11xh74r",
-  "layer_slug_s": "princeton-hx11xh74r",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:22Z",
-  "dc_title_s": "Mainz und Umgegend",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Mainz (Rhineland-Palatinate, Germany)",
-    "Rhineland-Palatinate (Germany)"
-  ],
+  "dc_identifier_s": "hx11xh74r",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Mainz und Umgegend",
+  "layer_slug_s": "princeton-hx11xh74r",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/hx11xh74r/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/hx/11/xh/74/r/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "50.1599952 8.1110237 50.1599952 8.4310237 49.8399952 8.4310237 49.8399952 8.1110237 50.1599952 8.1110237",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1898"
   ],
-  "georss_box_s": "49.8399952 8.1110237 50.1599952 8.4310237",
-  "georss_polygon_s": "50.1599952 8.1110237 50.1599952 8.4310237 49.8399952 8.4310237 49.8399952 8.1110237 50.1599952 8.1110237",
   "solr_geom": "ENVELOPE(8.1110237, 8.4310237, 50.1599952, 49.8399952)",
-  "solr_year_i": "1898"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Mainz (Rhineland-Palatinate, Germany)",
+    "Rhineland-Palatinate (Germany)"
+  ]
 }

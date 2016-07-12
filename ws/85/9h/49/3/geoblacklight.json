@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1747",
   "uuid": "http://arks.princeton.edu/ark:/88435/ws859h493",
+  "dc_description_s": "A new and accurate map of Africa, from the latest and best observations",
+  "georss_box_s": "1.9999503 15.9999497 2.0000503 16.0000497",
+  "layer_modified_dt": "2015-01-21T22:23:42Z",
   "dc_creator_sm": [
     "Hinton, John,"
   ],
-  "dc_description_s": "A new and accurate map of Africa, from the latest and best observations",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "ws859h493",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/ws859h493/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fws%2F85%2F9h%2F49%2F3%2F00000001.jp2/info.json\"}",
   "layer_id_s": "ws859h493",
-  "layer_slug_s": "princeton-ws859h493",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:42Z",
-  "dc_title_s": "A new and accurate map of Africa, from the latest and best observations",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Africa"
-  ],
+  "dc_identifier_s": "ws859h493",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "A new and accurate map of Africa, from the latest and best observations",
+  "layer_slug_s": "princeton-ws859h493",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/ws859h493/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ws/85/9h/49/3/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "2.0000503 15.9999497 2.0000503 16.0000497 1.9999503 16.0000497 1.9999503 15.9999497 2.0000503 15.9999497",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1747"
   ],
-  "georss_box_s": "1.9999503 15.9999497 2.0000503 16.0000497",
-  "georss_polygon_s": "2.0000503 15.9999497 2.0000503 16.0000497 1.9999503 16.0000497 1.9999503 15.9999497 2.0000503 15.9999497",
   "solr_geom": "ENVELOPE(15.9999497, 16.0000497, 2.0000503, 1.9999503)",
-  "solr_year_i": "1747"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Africa"
+  ]
 }

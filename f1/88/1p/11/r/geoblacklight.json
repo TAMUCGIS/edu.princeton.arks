@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/f1881p11r",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Salem",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "f1881p11r",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ff1%2F88%2F1p%2F11%2Fr%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "f1881p11r",
-  "layer_slug_s": "princeton-f1881p11r",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:08:05Z",
+  "solr_geom": "ENVELOPE(-75.494969, -75.452387, 39.584022, 39.554874)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/f1/88/1p/11/r/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/f1881p11r",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Insurance maps of Salem, Salem County, New Jersey (Sheet 16).",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1909"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "f1881p11r",
+  "georss_polygon_s": "39.584022 -75.494969 39.584022 -75.452387 39.554874 -75.452387 39.554874 -75.494969 39.584022 -75.494969",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1909",
   "dct_spatial_sm": [
     "New Jersey",
     "Salem"
   ],
-  "dct_temporal_sm": [
-    "1909"
-  ],
+  "layer_id_s": "f1881p11r",
   "georss_box_s": "39.554874 -75.494969 39.584022 -75.452387",
-  "georss_polygon_s": "39.584022 -75.494969 39.584022 -75.452387 39.554874 -75.452387 39.554874 -75.494969 39.584022 -75.494969",
-  "solr_geom": "ENVELOPE(-75.494969, -75.452387, 39.584022, 39.554874)",
-  "solr_year_i": "1909"
+  "dc_title_s": "Insurance maps of Salem, Salem County, New Jersey (Sheet 16).",
+  "layer_slug_s": "princeton-f1881p11r",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1859",
   "uuid": "http://arks.princeton.edu/ark:/88435/cr56n347g",
+  "dc_description_s": "Mapa de la Repu\u0301blica de Bolivia",
+  "georss_box_s": "-22.9005473 -69.6442909 -9.6695718 -57.4529999",
+  "layer_modified_dt": "2015-01-25T02:06:16Z",
   "dc_creator_sm": [
-    "Mujía, Juan Mariano.",
+    "Muji\u0301a, Juan Mariano.",
     "Camacho, Lucio.",
     "Guyot, A."
   ],
-  "dc_description_s": "Mapa de la República de Bolivia",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "cr56n347g",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/cr56n347g/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fcr%2F56%2Fn3%2F47%2Fg%2F00000001.jp2/info.json\"}",
   "layer_id_s": "cr56n347g",
-  "layer_slug_s": "princeton-cr56n347g",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:16Z",
-  "dc_title_s": "Mapa de la República de Bolivia",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Bolivia"
-  ],
+  "dc_identifier_s": "cr56n347g",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Mapa de la Repu\u0301blica de Bolivia",
+  "layer_slug_s": "princeton-cr56n347g",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/cr56n347g/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/cr/56/n3/47/g/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "-9.6695718 -69.6442909 -9.6695718 -57.4529999 -22.9005473 -57.4529999 -22.9005473 -69.6442909 -9.6695718 -69.6442909",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1859"
   ],
-  "georss_box_s": "-22.9005473 -69.6442909 -9.6695718 -57.4529999",
-  "georss_polygon_s": "-9.6695718 -69.6442909 -9.6695718 -57.4529999 -22.9005473 -57.4529999 -22.9005473 -69.6442909 -9.6695718 -69.6442909",
   "solr_geom": "ENVELOPE(-69.6442909, -57.4529999, -9.6695718, -22.9005473)",
-  "solr_year_i": "1859"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Bolivia"
+  ]
 }

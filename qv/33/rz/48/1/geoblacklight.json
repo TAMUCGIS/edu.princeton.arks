@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1638",
   "uuid": "http://arks.princeton.edu/ark:/88435/qv33rz481",
+  "dc_description_s": "Regiones sub Polo Arctico",
+  "georss_box_s": "51.175092 157.732108 83.9999979 65.6777839",
+  "layer_modified_dt": "2015-01-21T22:23:44Z",
   "dc_creator_sm": [
     "Blaeu, Willem Janszoon,"
   ],
-  "dc_description_s": "Regiones sub Polo Arctico",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "qv33rz481",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/qv33rz481/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fqv%2F33%2Frz%2F48%2F1%2F00000001.jp2/info.json\"}",
   "layer_id_s": "qv33rz481",
-  "layer_slug_s": "princeton-qv33rz481",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:44Z",
-  "dc_title_s": "Regiones sub Polo Arctico",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Arctic regions"
-  ],
+  "dc_identifier_s": "qv33rz481",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Regiones sub Polo Arctico",
+  "layer_slug_s": "princeton-qv33rz481",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/qv33rz481/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/qv/33/rz/48/1/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "83.9999979 157.732108 83.9999979 65.6777839 51.175092 65.6777839 51.175092 157.732108 83.9999979 157.732108",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1638"
   ],
-  "georss_box_s": "51.175092 157.732108 83.9999979 65.6777839",
-  "georss_polygon_s": "83.9999979 157.732108 83.9999979 65.6777839 51.175092 65.6777839 51.175092 157.732108 83.9999979 157.732108",
   "solr_geom": "ENVELOPE(157.732108, 65.6777839, 83.9999979, 51.175092)",
-  "solr_year_i": "1638"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Arctic regions"
+  ]
 }

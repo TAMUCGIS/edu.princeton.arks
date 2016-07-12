@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1620",
   "uuid": "http://arks.princeton.edu/ark:/88435/6969z3262",
+  "dc_description_s": "Cambridge : comitatus quem olim Iceni insederunt",
+  "georss_box_s": "52.005779 -0.499896 52.7399783 0.514455",
+  "layer_modified_dt": "2015-01-21T22:24:17Z",
   "dc_creator_sm": [
     "Kip, William,",
     "Bishop, George,",
     "Norton, John,"
   ],
-  "dc_description_s": "Cambridge : comitatus quem olim Iceni insederunt",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "6969z3262",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/6969z3262/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F69%2F69%2Fz3%2F26%2F2%2F00000001.jp2/info.json\"}",
   "layer_id_s": "6969z3262",
-  "layer_slug_s": "princeton-6969z3262",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:17Z",
-  "dc_title_s": "Cambridge : comitatus quem olim Iceni insederunt",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Cambridgeshire (England)"
-  ],
+  "dc_identifier_s": "6969z3262",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Cambridge : comitatus quem olim Iceni insederunt",
+  "layer_slug_s": "princeton-6969z3262",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/6969z3262/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/69/69/z3/26/2/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "52.7399783 -0.499896 52.7399783 0.514455 52.005779 0.514455 52.005779 -0.499896 52.7399783 -0.499896",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1620"
   ],
-  "georss_box_s": "52.005779 -0.499896 52.7399783 0.514455",
-  "georss_polygon_s": "52.7399783 -0.499896 52.7399783 0.514455 52.005779 0.514455 52.005779 -0.499896 52.7399783 -0.499896",
   "solr_geom": "ENVELOPE(-0.499896, 0.514455, 52.7399783, 52.005779)",
-  "solr_year_i": "1620"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Cambridgeshire (England)"
+  ]
 }

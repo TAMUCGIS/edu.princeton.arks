@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1950",
   "uuid": "http://arks.princeton.edu/ark:/88435/44558g67r",
   "dc_description_s": "Razgrom pervogo pokhoda antanty : mart-avgust 1919 g.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "44558g67r",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/44558g67r/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F44%2F55%2F8g%2F67%2Fr%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "44558g67r",
-  "layer_slug_s": "princeton-44558g67r",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "35.0 25.0 70.0 100.0",
   "layer_modified_dt": "2015-01-23T17:48:35Z",
-  "dc_title_s": "Razgrom pervogo pokhoda antanty : mart-avgust 1919 g.",
+  "layer_id_s": "44558g67r",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Soviet Union"
-  ],
+  "dc_identifier_s": "44558g67r",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Razgrom pervogo pokhoda antanty : mart-avgust 1919 g.",
+  "layer_slug_s": "princeton-44558g67r",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/44558g67r/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/44/55/8g/67/r/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "70.0 25.0 70.0 100.0 35.0 100.0 35.0 25.0 70.0 25.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1950"
   ],
-  "georss_box_s": "35.0 25.0 70.0 100.0",
-  "georss_polygon_s": "70.0 25.0 70.0 100.0 35.0 100.0 35.0 25.0 70.0 25.0",
   "solr_geom": "ENVELOPE(25.0, 100.0, 70.0, 35.0)",
-  "solr_year_i": "1950"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Soviet Union"
+  ]
 }

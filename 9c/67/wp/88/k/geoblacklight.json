@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/9c67wp88k",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Hudson County",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "9c67wp88k",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F9c%2F67%2Fwp%2F88%2Fk%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "9c67wp88k",
-  "layer_slug_s": "princeton-9c67wp88k",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:04:32Z",
+  "solr_geom": "ENVELOPE(-74.166087, -73.991958, 40.823417, 40.643781)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/9c/67/wp/88/k/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/9c67wp88k",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Insurance maps of Hudson County, New Jersey, vol. 7: Hoboken (Title)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1891"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "9c67wp88k",
+  "georss_polygon_s": "40.823417 -74.166087 40.823417 -73.991958 40.643781 -73.991958 40.643781 -74.166087 40.823417 -74.166087",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1891",
   "dct_spatial_sm": [
     "New Jersey",
     "Hudson County"
   ],
-  "dct_temporal_sm": [
-    "1891"
-  ],
+  "layer_id_s": "9c67wp88k",
   "georss_box_s": "40.643781 -74.166087 40.823417 -73.991958",
-  "georss_polygon_s": "40.823417 -74.166087 40.823417 -73.991958 40.643781 -73.991958 40.643781 -74.166087 40.823417 -74.166087",
-  "solr_geom": "ENVELOPE(-74.166087, -73.991958, 40.823417, 40.643781)",
-  "solr_year_i": "1891"
+  "dc_title_s": "Insurance maps of Hudson County, New Jersey, vol. 7: Hoboken (Title)",
+  "layer_slug_s": "princeton-9c67wp88k",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

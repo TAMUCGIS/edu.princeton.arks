@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1850",
   "uuid": "http://arks.princeton.edu/ark:/88435/8910jx07v",
   "dc_description_s": "Chester",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "8910jx07v",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/8910jx07v/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F89%2F10%2Fjx%2F07%2Fv%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "8910jx07v",
-  "layer_slug_s": "princeton-8910jx07v",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "53.0308873 -3.0508955 53.3508873 -2.7308955",
   "layer_modified_dt": "2015-01-21T22:24:17Z",
-  "dc_title_s": "Chester",
+  "layer_id_s": "8910jx07v",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Chester (England)"
-  ],
+  "dc_identifier_s": "8910jx07v",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Chester",
+  "layer_slug_s": "princeton-8910jx07v",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/8910jx07v/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/89/10/jx/07/v/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "53.3508873 -3.0508955 53.3508873 -2.7308955 53.0308873 -2.7308955 53.0308873 -3.0508955 53.3508873 -3.0508955",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1850"
   ],
-  "georss_box_s": "53.0308873 -3.0508955 53.3508873 -2.7308955",
-  "georss_polygon_s": "53.3508873 -3.0508955 53.3508873 -2.7308955 53.0308873 -2.7308955 53.0308873 -3.0508955 53.3508873 -3.0508955",
   "solr_geom": "ENVELOPE(-3.0508955, -2.7308955, 53.3508873, 53.0308873)",
-  "solr_year_i": "1850"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Chester (England)"
+  ]
 }

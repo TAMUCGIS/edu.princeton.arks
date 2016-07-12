@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1540",
   "uuid": "http://arks.princeton.edu/ark:/88435/hq37vr058",
+  "dc_description_s": "Tabula Europae IX",
+  "georss_box_s": "41.185353 12.090589 81.8581221 69.0679636",
+  "layer_modified_dt": "2015-01-21T22:24:13Z",
   "dc_creator_sm": [
     "Petri, Heinrich,",
-    "Münster, Sebastian,",
+    "Mu\u0308nster, Sebastian,",
     "Ptolemy,"
   ],
-  "dc_description_s": "Tabula Europae IX",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "hq37vr058",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/hq37vr058/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fhq%2F37%2Fvr%2F05%2F8%2F00000001.jp2/info.json\"}",
   "layer_id_s": "hq37vr058",
-  "layer_slug_s": "princeton-hq37vr058",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:13Z",
-  "dc_title_s": "Tabula Europae IX",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Europe, Eastern"
-  ],
+  "dc_identifier_s": "hq37vr058",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Tabula Europae IX",
+  "layer_slug_s": "princeton-hq37vr058",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/hq37vr058/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/hq/37/vr/05/8/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "81.8581221 12.090589 81.8581221 69.0679636 41.185353 69.0679636 41.185353 12.090589 81.8581221 12.090589",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1540"
   ],
-  "georss_box_s": "41.185353 12.090589 81.8581221 69.0679636",
-  "georss_polygon_s": "81.8581221 12.090589 81.8581221 69.0679636 41.185353 69.0679636 41.185353 12.090589 81.8581221 12.090589",
   "solr_geom": "ENVELOPE(12.090589, 69.0679636, 81.8581221, 41.185353)",
-  "solr_year_i": "1540"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Europe, Eastern"
+  ]
 }

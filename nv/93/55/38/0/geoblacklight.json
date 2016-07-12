@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1908",
   "uuid": "http://arks.princeton.edu/ark:/88435/nv9355380",
   "dc_description_s": "[Map of East Prussia]",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "nv9355380",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/nv9355380/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fnv%2F93%2F55%2F38%2F0%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "nv9355380",
-  "layer_slug_s": "princeton-nv9355380",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "47.086538534 6.78608225 59.2157768956 28.136579625",
   "layer_modified_dt": "2015-01-21T22:24:26Z",
-  "dc_title_s": "[Map of East Prussia]",
+  "layer_id_s": "nv9355380",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Prussia, East (Poland and Russia)"
-  ],
+  "dc_identifier_s": "nv9355380",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "[Map of East Prussia]",
+  "layer_slug_s": "princeton-nv9355380",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/nv9355380/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/nv/93/55/38/0/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "59.2157768956 6.78608225 59.2157768956 28.136579625 47.086538534 28.136579625 47.086538534 6.78608225 59.2157768956 6.78608225",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1908"
   ],
-  "georss_box_s": "47.086538534 6.78608225 59.2157768956 28.136579625",
-  "georss_polygon_s": "59.2157768956 6.78608225 59.2157768956 28.136579625 47.086538534 28.136579625 47.086538534 6.78608225 59.2157768956 6.78608225",
   "solr_geom": "ENVELOPE(6.78608225, 28.136579625, 59.2157768956, 47.086538534)",
-  "solr_year_i": "1908"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Prussia, East (Poland and Russia)"
+  ]
 }

@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1726",
   "uuid": "http://arks.princeton.edu/ark:/88435/2z10ws67g",
-  "dc_creator_sm": [
-    "Valentijn, François,"
-  ],
   "dc_description_s": "De stad Bantam",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "2z10ws67g",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/2z10ws67g/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F2z%2F10%2Fws%2F67%2Fg%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "2z10ws67g",
-  "layer_slug_s": "princeton-2z10ws67g",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "-7.4565893 104.6513179 -4.9993634 106.8466516",
   "layer_modified_dt": "2015-01-21T22:24:07Z",
-  "dc_title_s": "De stad Bantam",
-  "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Banten (Jawa Barat, Indonesia)"
+  "dc_creator_sm": [
+    "Valentijn, Franc\u0327ois,"
   ],
+  "layer_id_s": "2z10ws67g",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "2z10ws67g",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "De stad Bantam",
+  "layer_slug_s": "princeton-2z10ws67g",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/2z10ws67g/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/2z/10/ws/67/g/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "-4.9993634 104.6513179 -4.9993634 106.8466516 -7.4565893 106.8466516 -7.4565893 104.6513179 -4.9993634 104.6513179",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1726"
   ],
-  "georss_box_s": "-7.4565893 104.6513179 -4.9993634 106.8466516",
-  "georss_polygon_s": "-4.9993634 104.6513179 -4.9993634 106.8466516 -7.4565893 106.8466516 -7.4565893 104.6513179 -4.9993634 104.6513179",
   "solr_geom": "ENVELOPE(104.6513179, 106.8466516, -4.9993634, -7.4565893)",
-  "solr_year_i": "1726"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Banten (Jawa Barat, Indonesia)"
+  ]
 }

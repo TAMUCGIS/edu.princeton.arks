@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1938",
   "uuid": "http://arks.princeton.edu/ark:/88435/2j62s6677",
+  "dc_description_s": "Carte geologique detaillee de la France [a 1/80 000]: Montdidier.",
+  "georss_box_s": "49.49750 1.89210 49.85720 2.78230",
+  "layer_modified_dt": "2015-01-19T22:36:36Z",
   "dc_creator_sm": [
     "Michel-Levy"
   ],
-  "dc_description_s": "Carte geologique detaillee de la France [a 1/80 000]: Montdidier.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "2j62s6677",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/2j62s6677/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F2j%2F62%2Fs6%2F67%2F7%2F00000001.jp2/info.json\"}",
   "layer_id_s": "2j62s6677",
-  "layer_slug_s": "princeton-2j62s6677",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:36:36Z",
-  "dc_title_s": "Carte geologique detaillee de la France [a 1/80 000]: Montdidier.",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "France"
-  ],
+  "dc_identifier_s": "2j62s6677",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Carte geologique detaillee de la France [a 1/80 000]: Montdidier.",
+  "layer_slug_s": "princeton-2j62s6677",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/2j62s6677/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/2j/62/s6/67/7/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "49.85720 1.89210 49.85720 2.78230 49.49750 2.78230 49.49750 1.89210 49.85720 1.89210",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1938"
   ],
-  "georss_box_s": "49.49750 1.89210 49.85720 2.78230",
-  "georss_polygon_s": "49.85720 1.89210 49.85720 2.78230 49.49750 2.78230 49.49750 1.89210 49.85720 1.89210",
   "solr_geom": "ENVELOPE(1.89210, 2.78230, 49.85720, 49.49750)",
-  "solr_year_i": "1938"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "France"
+  ]
 }

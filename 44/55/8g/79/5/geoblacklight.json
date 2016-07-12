@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1887",
   "uuid": "http://arks.princeton.edu/ark:/88435/44558g795",
-  "dc_description_s": "Karte des sächsischen Voigtlandes : unter besonderer Berücksichtungen der neuesten Eisenbahnlinien entworfen",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "44558g795",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/44558g795/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F44%2F55%2F8g%2F79%2F5%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "44558g795",
-  "layer_slug_s": "princeton-44558g795",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Karte des sa\u0308chsischen Voigtlandes : unter besonderer Beru\u0308cksichtungen der neuesten Eisenbahnlinien entworfen",
+  "georss_box_s": "50.1713247 11.872254 51.6847554 15.0419319",
   "layer_modified_dt": "2015-01-21T22:24:20Z",
-  "dc_title_s": "Karte des sächsischen Voigtlandes : unter besonderer Berücksichtungen der neuesten Eisenbahnlinien entworfen",
+  "layer_id_s": "44558g795",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Saxony (Germany)",
-    "Vogtland (Germany)"
-  ],
+  "dc_identifier_s": "44558g795",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Karte des sa\u0308chsischen Voigtlandes : unter besonderer Beru\u0308cksichtungen der neuesten Eisenbahnlinien entworfen",
+  "layer_slug_s": "princeton-44558g795",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/44558g795/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/44/55/8g/79/5/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "51.6847554 11.872254 51.6847554 15.0419319 50.1713247 15.0419319 50.1713247 11.872254 51.6847554 11.872254",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1887"
   ],
-  "georss_box_s": "50.1713247 11.872254 51.6847554 15.0419319",
-  "georss_polygon_s": "51.6847554 11.872254 51.6847554 15.0419319 50.1713247 15.0419319 50.1713247 11.872254 51.6847554 11.872254",
   "solr_geom": "ENVELOPE(11.872254, 15.0419319, 51.6847554, 50.1713247)",
-  "solr_year_i": "1887"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Saxony (Germany)",
+    "Vogtland (Germany)"
+  ]
 }

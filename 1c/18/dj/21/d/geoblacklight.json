@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1855",
   "uuid": "http://arks.princeton.edu/ark:/88435/1c18dj21d",
+  "dc_description_s": "South America : designed to accompany Cornell's High school geography",
+  "georss_box_s": "-55.0 -105.0 10.0 -5.0",
+  "layer_modified_dt": "2015-01-19T22:37:10Z",
   "dc_creator_sm": [
     "Cornell, S. S.",
     "Fisher, W. H.,"
   ],
-  "dc_description_s": "South America : designed to accompany Cornell's High school geography",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "1c18dj21d",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/1c18dj21d/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F1c%2F18%2Fdj%2F21%2Fd%2F00000001.jp2/info.json\"}",
   "layer_id_s": "1c18dj21d",
-  "layer_slug_s": "princeton-1c18dj21d",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:10Z",
-  "dc_title_s": "South America : designed to accompany Cornell's High school geography",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "South America"
-  ],
+  "dc_identifier_s": "1c18dj21d",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "South America : designed to accompany Cornell's High school geography",
+  "layer_slug_s": "princeton-1c18dj21d",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/1c18dj21d/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/1c/18/dj/21/d/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "10.0 -105.0 10.0 -5.0 -55.0 -5.0 -55.0 -105.0 10.0 -105.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1855"
   ],
-  "georss_box_s": "-55.0 -105.0 10.0 -5.0",
-  "georss_polygon_s": "10.0 -105.0 10.0 -5.0 -55.0 -5.0 -55.0 -105.0 10.0 -105.0",
   "solr_geom": "ENVELOPE(-105.0, -5.0, 10.0, -55.0)",
-  "solr_year_i": "1855"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "South America"
+  ]
 }

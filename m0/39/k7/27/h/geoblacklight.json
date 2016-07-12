@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1855",
   "uuid": "http://arks.princeton.edu/ark:/88435/m039k727h",
+  "dc_description_s": "Der warme Meeresstrom des Atlantischen und der kalte Strom des grossen Oceans in Parallele nach geograph. Lage u. Ausdehnung dargestellt",
+  "georss_box_s": "-36.0 -136.0 45.0 -22.0",
+  "layer_modified_dt": "2015-01-19T22:37:02Z",
   "dc_creator_sm": [
     "Meyer, Joseph,"
   ],
-  "dc_description_s": "Der warme Meeresstrom des Atlantischen und der kalte Strom des grossen Oceans in Parallele nach geograph. Lage u. Ausdehnung dargestellt",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "m039k727h",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/m039k727h/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fm0%2F39%2Fk7%2F27%2Fh%2F00000001.jp2/info.json\"}",
   "layer_id_s": "m039k727h",
-  "layer_slug_s": "princeton-m039k727h",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:02Z",
-  "dc_title_s": "Der warme Meeresstrom des Atlantischen und der kalte Strom des grossen Oceans in Parallele nach geograph. Lage u. Ausdehnung dargestellt",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Western Hemisphere"
-  ],
+  "dc_identifier_s": "m039k727h",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Der warme Meeresstrom des Atlantischen und der kalte Strom des grossen Oceans in Parallele nach geograph. Lage u. Ausdehnung dargestellt",
+  "layer_slug_s": "princeton-m039k727h",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/m039k727h/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/m0/39/k7/27/h/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "45.0 -136.0 45.0 -22.0 -36.0 -22.0 -36.0 -136.0 45.0 -136.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1855"
   ],
-  "georss_box_s": "-36.0 -136.0 45.0 -22.0",
-  "georss_polygon_s": "45.0 -136.0 45.0 -22.0 -36.0 -22.0 -36.0 -136.0 45.0 -136.0",
   "solr_geom": "ENVELOPE(-136.0, -22.0, 45.0, -36.0)",
-  "solr_year_i": "1855"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Western Hemisphere"
+  ]
 }

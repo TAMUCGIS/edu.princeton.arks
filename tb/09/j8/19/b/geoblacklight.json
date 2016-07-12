@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1912",
   "uuid": "http://arks.princeton.edu/ark:/88435/tb09j819b",
   "dc_description_s": "The Rand-McNally new library atlas map of Mexico",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "tb09j819b",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/tb09j819b/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ftb%2F09%2Fj8%2F19%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "tb09j819b",
-  "layer_slug_s": "princeton-tb09j819b",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "14.0 -116.0 33.0 -86.0",
   "layer_modified_dt": "2015-01-19T22:37:41Z",
-  "dc_title_s": "The Rand-McNally new library atlas map of Mexico",
+  "layer_id_s": "tb09j819b",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Mexico"
-  ],
+  "dc_identifier_s": "tb09j819b",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "The Rand-McNally new library atlas map of Mexico",
+  "layer_slug_s": "princeton-tb09j819b",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/tb09j819b/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/tb/09/j8/19/b/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "33.0 -116.0 33.0 -86.0 14.0 -86.0 14.0 -116.0 33.0 -116.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1912"
   ],
-  "georss_box_s": "14.0 -116.0 33.0 -86.0",
-  "georss_polygon_s": "33.0 -116.0 33.0 -86.0 14.0 -86.0 14.0 -116.0 33.0 -116.0",
   "solr_geom": "ENVELOPE(-116.0, -86.0, 33.0, 14.0)",
-  "solr_year_i": "1912"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Mexico"
+  ]
 }

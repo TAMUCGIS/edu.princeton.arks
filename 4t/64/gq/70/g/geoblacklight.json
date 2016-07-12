@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1901",
   "uuid": "http://arks.princeton.edu/ark:/88435/4t64gq70g",
   "dc_description_s": "Russia",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "4t64gq70g",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/4t64gq70g/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F4t%2F64%2Fgq%2F70%2Fg%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "4t64gq70g",
-  "layer_slug_s": "princeton-4t64gq70g",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "41.185353 19.6403534 81.8581221 73.70861825",
   "layer_modified_dt": "2015-01-25T02:06:19Z",
-  "dc_title_s": "Russia",
+  "layer_id_s": "4t64gq70g",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Russia, Western",
-    "Russia, Western"
-  ],
+  "dc_identifier_s": "4t64gq70g",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Russia",
+  "layer_slug_s": "princeton-4t64gq70g",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/4t64gq70g/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/4t/64/gq/70/g/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "81.8581221 19.6403534 81.8581221 73.70861825 41.185353 73.70861825 41.185353 19.6403534 81.8581221 19.6403534",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1901"
   ],
-  "georss_box_s": "41.185353 19.6403534 81.8581221 73.70861825",
-  "georss_polygon_s": "81.8581221 19.6403534 81.8581221 73.70861825 41.185353 73.70861825 41.185353 19.6403534 81.8581221 19.6403534",
   "solr_geom": "ENVELOPE(19.6403534, 73.70861825, 81.8581221, 41.185353)",
-  "solr_year_i": "1901"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Russia, Western",
+    "Russia, Western"
+  ]
 }

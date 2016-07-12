@@ -2,7 +2,7 @@
   "dc_description_s": "A scanned USGS 1:24,000 topographic map Index.",
   "layer_modified_dt": "2015-01-11T17:42:57Z",
   "solr_geom": "ENVELOPE(-75.37, -73.66, 40.84, 36.61)",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F9c%2F67%2Fwp%2F37%2Fv%2F00000001.jp2/info.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/9c67wp37v/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/9c67wp37v/preview.jpg\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/9c67wp37v/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/9c/67/wp/37/v/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/9c67wp37v/preview.jpg\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/9c67wp37v",
   "dct_provenance_s": "Princeton",
@@ -12,7 +12,7 @@
     "New Jersey 1:24,000 Map Index"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "1989",
+  "layer_slug_s": "princeton-9c67wp37v",
   "dc_creator_sm": [
     "United States Geological Survey"
   ],
@@ -26,7 +26,7 @@
   "layer_id_s": "9c67wp37v",
   "georss_box_s": "36.61 -75.37 40.84 -73.66",
   "dc_title_s": "New Jersey: 7.5-Minute Quandrangle Names",
-  "layer_slug_s": "princeton-9c67wp37v",
+  "dct_issued_s": "1989",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

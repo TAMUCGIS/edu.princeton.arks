@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/v979v5217",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Madison",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "v979v5217",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fv9%2F79%2Fv5%2F21%2F7%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "v979v5217",
-  "layer_slug_s": "princeton-v979v5217",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:06:14Z",
+  "solr_geom": "ENVELOPE(-74.444606, -74.392166, 40.777214, 40.739944)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/v9/79/v5/21/7/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/v979v5217",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Madison, Morris Co., N. J. (Index)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1901"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "v979v5217",
+  "georss_polygon_s": "40.777214 -74.444606 40.777214 -74.392166 40.739944 -74.392166 40.739944 -74.444606 40.777214 -74.444606",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1901",
   "dct_spatial_sm": [
     "New Jersey",
     "Madison"
   ],
-  "dct_temporal_sm": [
-    "1901"
-  ],
+  "layer_id_s": "v979v5217",
   "georss_box_s": "40.739944 -74.444606 40.777214 -74.392166",
-  "georss_polygon_s": "40.777214 -74.444606 40.777214 -74.392166 40.739944 -74.392166 40.739944 -74.444606 40.777214 -74.444606",
-  "solr_geom": "ENVELOPE(-74.444606, -74.392166, 40.777214, 40.739944)",
-  "solr_year_i": "1901"
+  "dc_title_s": "Madison, Morris Co., N. J. (Index)",
+  "layer_slug_s": "princeton-v979v5217",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

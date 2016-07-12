@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/5h73px958",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Burlington",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "5h73px958",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F5h%2F73%2Fpx%2F95%2F8%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "5h73px958",
-  "layer_slug_s": "princeton-5h73px958",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:02:04Z",
+  "solr_geom": "ENVELOPE(-74.879239, -74.828908, 40.09805, 40.062631)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/5h/73/px/95/8/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/5h73px958",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Burlington, Burlington County, New Jersey : including Springside (Sheet 17)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1924"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "5h73px958",
+  "georss_polygon_s": "40.09805 -74.879239 40.09805 -74.828908 40.062631 -74.828908 40.062631 -74.879239 40.09805 -74.879239",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1924",
   "dct_spatial_sm": [
     "New Jersey",
     "Burlington"
   ],
-  "dct_temporal_sm": [
-    "1924"
-  ],
+  "layer_id_s": "5h73px958",
   "georss_box_s": "40.062631 -74.879239 40.09805 -74.828908",
-  "georss_polygon_s": "40.09805 -74.879239 40.09805 -74.828908 40.062631 -74.828908 40.062631 -74.879239 40.09805 -74.879239",
-  "solr_geom": "ENVELOPE(-74.879239, -74.828908, 40.09805, 40.062631)",
-  "solr_year_i": "1924"
+  "dc_title_s": "Burlington, Burlington County, New Jersey : including Springside (Sheet 17)",
+  "layer_slug_s": "princeton-5h73px958",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

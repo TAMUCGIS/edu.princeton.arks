@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1784",
   "uuid": "http://arks.princeton.edu/ark:/88435/rf55zb248",
-  "dc_description_s": "Mapa geográfico del Reyno de Galicia, contiene las provincias de Santiago, Coruña, Betanzos, Lugo, Mondoñedo, Orense y Tuy dedicado al excelentisimo Señor Don Joseph Moñino, conde de Florida-Blanca ... /",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "rf55zb248",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/rf55zb248/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Frf%2F55%2Fzb%2F24%2F8%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "rf55zb248",
-  "layer_slug_s": "princeton-rf55zb248",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Mapa geogra\u0301fico del Reyno de Galicia, contiene las provincias de Santiago, Corun\u0303a, Betanzos, Lugo, Mondon\u0303edo, Orense y Tuy dedicado al excelentisimo Sen\u0303or Don Joseph Mon\u0303ino, conde de Florida-Blanca ... /",
+  "georss_box_s": "41.8074776 -9.3015029 43.7923795 -6.7339532",
   "layer_modified_dt": "2015-01-25T02:06:20Z",
-  "dc_title_s": "Mapa geográfico del Reyno de Galicia, contiene las provincias de Santiago, Coruña, Betanzos, Lugo, Mondoñedo, Orense y Tuy dedicado al excelentisimo Señor Don Joseph Moñino, conde de Florida-Blanca ... /",
+  "layer_id_s": "rf55zb248",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Galicia (Spain)"
-  ],
+  "dc_identifier_s": "rf55zb248",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Mapa geogra\u0301fico del Reyno de Galicia, contiene las provincias de Santiago, Corun\u0303a, Betanzos, Lugo, Mondon\u0303edo, Orense y Tuy dedicado al excelentisimo Sen\u0303or Don Joseph Mon\u0303ino, conde de Florida-Blanca ... /",
+  "layer_slug_s": "princeton-rf55zb248",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/rf55zb248/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/rf/55/zb/24/8/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "43.7923795 -9.3015029 43.7923795 -6.7339532 41.8074776 -6.7339532 41.8074776 -9.3015029 43.7923795 -9.3015029",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1784"
   ],
-  "georss_box_s": "41.8074776 -9.3015029 43.7923795 -6.7339532",
-  "georss_polygon_s": "43.7923795 -9.3015029 43.7923795 -6.7339532 41.8074776 -6.7339532 41.8074776 -9.3015029 43.7923795 -9.3015029",
   "solr_geom": "ENVELOPE(-9.3015029, -6.7339532, 43.7923795, 41.8074776)",
-  "solr_year_i": "1784"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Galicia (Spain)"
+  ]
 }

@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/m900nw32m",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Burlington",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "m900nw32m",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fm9%2F00%2Fnw%2F32%2Fm%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "m900nw32m",
-  "layer_slug_s": "princeton-m900nw32m",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:02:08Z",
+  "solr_geom": "ENVELOPE(-74.879239, -74.828908, 40.09805, 40.062631)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/m9/00/nw/32/m/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/m900nw32m",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Moorestown, Burlington County, New Jersey: including Lenola (Sheet 17).",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1929"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "m900nw32m",
+  "georss_polygon_s": "40.09805 -74.879239 40.09805 -74.828908 40.062631 -74.828908 40.062631 -74.879239 40.09805 -74.879239",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1929",
   "dct_spatial_sm": [
     "New Jersey",
     "Burlington"
   ],
-  "dct_temporal_sm": [
-    "1929"
-  ],
+  "layer_id_s": "m900nw32m",
   "georss_box_s": "40.062631 -74.879239 40.09805 -74.828908",
-  "georss_polygon_s": "40.09805 -74.879239 40.09805 -74.828908 40.062631 -74.828908 40.062631 -74.879239 40.09805 -74.879239",
-  "solr_geom": "ENVELOPE(-74.879239, -74.828908, 40.09805, 40.062631)",
-  "solr_year_i": "1929"
+  "dc_title_s": "Moorestown, Burlington County, New Jersey: including Lenola (Sheet 17).",
+  "layer_slug_s": "princeton-m900nw32m",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

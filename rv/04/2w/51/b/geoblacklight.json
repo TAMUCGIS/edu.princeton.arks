@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1750",
   "uuid": "http://arks.princeton.edu/ark:/88435/rv042w51b",
-  "dc_description_s": "Amérique Méridionale",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "rv042w51b",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/rv042w51b/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Frv%2F04%2F2w%2F51%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "rv042w51b",
-  "layer_slug_s": "princeton-rv042w51b",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Ame\u0301rique Me\u0301ridionale",
+  "georss_box_s": "-21.0000498 -61.0000502 -20.9999498 -60.9999502",
   "layer_modified_dt": "2015-01-21T22:24:05Z",
-  "dc_title_s": "Amérique Méridionale",
+  "layer_id_s": "rv042w51b",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "South America"
-  ],
+  "dc_identifier_s": "rv042w51b",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Ame\u0301rique Me\u0301ridionale",
+  "layer_slug_s": "princeton-rv042w51b",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/rv042w51b/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/rv/04/2w/51/b/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "-20.9999498 -61.0000502 -20.9999498 -60.9999502 -21.0000498 -60.9999502 -21.0000498 -61.0000502 -20.9999498 -61.0000502",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1750"
   ],
-  "georss_box_s": "-21.0000498 -61.0000502 -20.9999498 -60.9999502",
-  "georss_polygon_s": "-20.9999498 -61.0000502 -20.9999498 -60.9999502 -21.0000498 -60.9999502 -21.0000498 -61.0000502 -20.9999498 -61.0000502",
   "solr_geom": "ENVELOPE(-61.0000502, -60.9999502, -20.9999498, -21.0000498)",
-  "solr_year_i": "1750"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "South America"
+  ]
 }

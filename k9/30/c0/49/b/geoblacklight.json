@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1838",
   "uuid": "http://arks.princeton.edu/ark:/88435/k930c049b",
+  "dc_description_s": "West Indies",
+  "georss_box_s": "7.00000 -87.00000 28.00000 -57.00000",
+  "layer_modified_dt": "2015-01-19T22:37:15Z",
   "dc_creator_sm": [
     "Bradford, T. G.",
     "Cooper, John C.,"
   ],
-  "dc_description_s": "West Indies",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "k930c049b",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/k930c049b/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fk9%2F30%2Fc0%2F49%2F00000001.jp2/info.json\"}",
   "layer_id_s": "k930c049b",
-  "layer_slug_s": "princeton-k930c049b",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:15Z",
-  "dc_title_s": "West Indies",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Caribbean Area",
-    "West Indies"
-  ],
+  "dc_identifier_s": "k930c049b",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "West Indies",
+  "layer_slug_s": "princeton-k930c049b",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/k930c049b/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/k9/30/c0/49/b/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "28.00000 -87.00000 28.00000 -57.00000 7.00000 -57.00000 7.00000 -87.00000 28.00000 -87.00000",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1838"
   ],
-  "georss_box_s": "7.00000 -87.00000 28.00000 -57.00000",
-  "georss_polygon_s": "28.00000 -87.00000 28.00000 -57.00000 7.00000 -57.00000 7.00000 -87.00000 28.00000 -87.00000",
   "solr_geom": "ENVELOPE(-87.00000, -57.00000, 28.00000, 7.00000)",
-  "solr_year_i": "1838"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Caribbean Area",
+    "West Indies"
+  ]
 }

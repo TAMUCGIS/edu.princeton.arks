@@ -2,7 +2,7 @@
   "dc_description_s": "This is a map of the city of Jolo in the Philippines. The map was created for use by War and Navy Department agencies during World War II.",
   "layer_modified_dt": "2015-01-11T17:42:47Z",
   "solr_geom": "ENVELOPE(120.9950, 121.0047, 6.0585, 6.0521)",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F47%2F42%2F9b%2F63%2F1%2F00000001.jp2/info.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/47429b631/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/47429b631/preview.jpg\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/47429b631/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/47/42/9b/63/1/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/47429b631/preview.jpg\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/47429b631",
   "dct_provenance_s": "Princeton",
@@ -17,7 +17,7 @@
     "Facilities and Structures"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "1944",
+  "layer_slug_s": "princeton-47429b631",
   "dc_creator_sm": [
     "Army Map Service"
   ],
@@ -33,7 +33,7 @@
   "layer_id_s": "47429b631",
   "georss_box_s": "6.0521 120.9950 6.0585 121.0047",
   "dc_title_s": "Jolo, Philippine Islands, Sulu Province. A.M.S. S901.",
-  "layer_slug_s": "princeton-47429b631",
+  "dct_issued_s": "1944",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

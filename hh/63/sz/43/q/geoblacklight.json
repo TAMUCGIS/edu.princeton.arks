@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1715",
   "uuid": "http://arks.princeton.edu/ark:/88435/hh63sz43q",
-  "dc_description_s": "Das Land Kamtzadalie, sonst Jedso mit der Lamskisch od[er] Pensinskischen See, wie folche durch verschiedene Reisen der Russischen Cosacken und Zobel-fangern über Wasser und Land bestrichen und angemerkt worden.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "hh63sz43q",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/hh63sz43q/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fhh%2F63%2Fsz%2F43%2Fq%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "hh63sz43q",
-  "layer_slug_s": "princeton-hh63sz43q",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Das Land Kamtzadalie, sonst Jedso mit der Lamskisch od[er] Pensinskischen See, wie folche durch verschiedene Reisen der Russischen Cosacken und Zobel-fangern u\u0308ber Wasser und Land bestrichen und angemerkt worden.",
+  "georss_box_s": "55.5939766 158.0854143 55.5940766 158.0855143",
   "layer_modified_dt": "2015-01-21T22:24:28Z",
-  "dc_title_s": "Das Land Kamtzadalie, sonst Jedso mit der Lamskisch od[er] Pensinskischen See, wie folche durch verschiedene Reisen der Russischen Cosacken und Zobel-fangern über Wasser und Land bestrichen und angemerkt worden.",
+  "layer_id_s": "hh63sz43q",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Kamchatka Peninsula (Russia)"
-  ],
+  "dc_identifier_s": "hh63sz43q",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Das Land Kamtzadalie, sonst Jedso mit der Lamskisch od[er] Pensinskischen See, wie folche durch verschiedene Reisen der Russischen Cosacken und Zobel-fangern u\u0308ber Wasser und Land bestrichen und angemerkt worden.",
+  "layer_slug_s": "princeton-hh63sz43q",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/hh63sz43q/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/hh/63/sz/43/q/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "55.5940766 158.0854143 55.5940766 158.0855143 55.5939766 158.0855143 55.5939766 158.0854143 55.5940766 158.0854143",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1715"
   ],
-  "georss_box_s": "55.5939766 158.0854143 55.5940766 158.0855143",
-  "georss_polygon_s": "55.5940766 158.0854143 55.5940766 158.0855143 55.5939766 158.0855143 55.5939766 158.0854143 55.5940766 158.0854143",
   "solr_geom": "ENVELOPE(158.0854143, 158.0855143, 55.5940766, 55.5939766)",
-  "solr_year_i": "1715"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Kamchatka Peninsula (Russia)"
+  ]
 }

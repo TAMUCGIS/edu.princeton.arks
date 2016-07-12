@@ -1,31 +1,31 @@
 {
+  "solr_year_i": "1620",
   "uuid": "http://arks.princeton.edu/ark:/88435/c534fr434",
+  "dc_description_s": "Caermardi\u0304 : comitatus in quo Dimet\u00e6 olim habitarunt",
+  "georss_box_s": "51.6449541 -4.721562 52.1421061 -3.6471251",
+  "layer_modified_dt": "2015-01-21T22:24:19Z",
   "dc_creator_sm": [
     "Bishop, George,",
     "Kip, William,",
     "Morris, William A.,",
     "Norton, John,"
   ],
-  "dc_description_s": "Caermardī : comitatus in quo Dimetæ olim habitarunt",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "c534fr434",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/c534fr434/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fc5%2F34%2Ffr%2F43%2F4%2F00000001.jp2/info.json\"}",
   "layer_id_s": "c534fr434",
-  "layer_slug_s": "princeton-c534fr434",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:19Z",
-  "dc_title_s": "Caermardī : comitatus in quo Dimetæ olim habitarunt",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Carmarthenshire (Wales)"
-  ],
+  "dc_identifier_s": "c534fr434",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Caermardi\u0304 : comitatus in quo Dimet\u00e6 olim habitarunt",
+  "layer_slug_s": "princeton-c534fr434",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/c534fr434/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/c5/34/fr/43/4/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "52.1421061 -4.721562 52.1421061 -3.6471251 51.6449541 -3.6471251 51.6449541 -4.721562 52.1421061 -4.721562",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1620"
   ],
-  "georss_box_s": "51.6449541 -4.721562 52.1421061 -3.6471251",
-  "georss_polygon_s": "52.1421061 -4.721562 52.1421061 -3.6471251 51.6449541 -3.6471251 51.6449541 -4.721562 52.1421061 -4.721562",
   "solr_geom": "ENVELOPE(-4.721562, -3.6471251, 52.1421061, 51.6449541)",
-  "solr_year_i": "1620"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Carmarthenshire (Wales)"
+  ]
 }

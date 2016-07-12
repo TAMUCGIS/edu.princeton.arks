@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1912",
   "uuid": "http://arks.princeton.edu/ark:/88435/dz010s57m",
   "dc_description_s": "The Rand-McNally new library atlas map of Japan",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "dz010s57m",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/dz010s57m/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fdz%2F01%2F0s%2F57%2Fm%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "dz010s57m",
-  "layer_slug_s": "princeton-dz010s57m",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "22.0 120.0 52.0 157.0",
   "layer_modified_dt": "2015-01-23T17:48:38Z",
-  "dc_title_s": "The Rand-McNally new library atlas map of Japan",
+  "layer_id_s": "dz010s57m",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Japan"
-  ],
+  "dc_identifier_s": "dz010s57m",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "The Rand-McNally new library atlas map of Japan",
+  "layer_slug_s": "princeton-dz010s57m",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/dz010s57m/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/dz/01/0s/57/m/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "52.0 120.0 52.0 157.0 22.0 157.0 22.0 120.0 52.0 120.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1912"
   ],
-  "georss_box_s": "22.0 120.0 52.0 157.0",
-  "georss_polygon_s": "52.0 120.0 52.0 157.0 22.0 157.0 22.0 120.0 52.0 120.0",
   "solr_geom": "ENVELOPE(120.0, 157.0, 52.0, 22.0)",
-  "solr_year_i": "1912"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Japan"
+  ]
 }

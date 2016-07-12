@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1610",
   "uuid": "http://arks.princeton.edu/ark:/88435/7h149s35q",
+  "dc_description_s": "Barkshire described",
+  "georss_box_s": "51.328963 -1.588088 51.5778253 -0.4900443",
+  "layer_modified_dt": "2015-01-21T22:24:19Z",
   "dc_creator_sm": [
     "Humble, George,",
     "Sudbury, John."
   ],
-  "dc_description_s": "Barkshire described",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "7h149s35q",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/7h149s35q/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F7h%2F14%2F9s%2F35%2Fq%2F00000001.jp2/info.json\"}",
   "layer_id_s": "7h149s35q",
-  "layer_slug_s": "princeton-7h149s35q",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:19Z",
-  "dc_title_s": "Barkshire described",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Berkshire (England)"
-  ],
+  "dc_identifier_s": "7h149s35q",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Barkshire described",
+  "layer_slug_s": "princeton-7h149s35q",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/7h149s35q/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/7h/14/9s/35/q/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "51.5778253 -1.588088 51.5778253 -0.4900443 51.328963 -0.4900443 51.328963 -1.588088 51.5778253 -1.588088",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1610"
   ],
-  "georss_box_s": "51.328963 -1.588088 51.5778253 -0.4900443",
-  "georss_polygon_s": "51.5778253 -1.588088 51.5778253 -0.4900443 51.328963 -0.4900443 51.328963 -1.588088 51.5778253 -1.588088",
   "solr_geom": "ENVELOPE(-1.588088, -0.4900443, 51.5778253, 51.328963)",
-  "solr_year_i": "1610"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Berkshire (England)"
+  ]
 }

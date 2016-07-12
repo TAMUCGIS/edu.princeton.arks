@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1900",
   "uuid": "http://arks.princeton.edu/ark:/88435/sq87bx15k",
   "dc_description_s": "Carta dell' Italia settentrionale",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "sq87bx15k",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/sq87bx15k/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fsq%2F87%2Fbx%2F15%2Fk%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "sq87bx15k",
-  "layer_slug_s": "princeton-sq87bx15k",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "42.6792426623 6.6267201 47.092 18.5205015",
   "layer_modified_dt": "2015-01-25T02:06:22Z",
-  "dc_title_s": "Carta dell' Italia settentrionale",
+  "layer_id_s": "sq87bx15k",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Italy, Northern"
-  ],
+  "dc_identifier_s": "sq87bx15k",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Carta dell' Italia settentrionale",
+  "layer_slug_s": "princeton-sq87bx15k",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/sq87bx15k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/sq/87/bx/15/k/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "47.092 6.6267201 47.092 18.5205015 42.6792426623 18.5205015 42.6792426623 6.6267201 47.092 6.6267201",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1900"
   ],
-  "georss_box_s": "42.6792426623 6.6267201 47.092 18.5205015",
-  "georss_polygon_s": "47.092 6.6267201 47.092 18.5205015 42.6792426623 18.5205015 42.6792426623 6.6267201 47.092 6.6267201",
   "solr_geom": "ENVELOPE(6.6267201, 18.5205015, 47.092, 42.6792426623)",
-  "solr_year_i": "1900"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Italy, Northern"
+  ]
 }

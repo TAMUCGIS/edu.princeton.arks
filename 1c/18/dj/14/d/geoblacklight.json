@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1743",
   "uuid": "http://arks.princeton.edu/ark:/88435/1c18dj14d",
+  "dc_description_s": "A new map of the most considerable plantations of the English in America",
+  "georss_box_s": "38.0020724983 -80.6300211 45.4767372853 -73.1174139",
+  "layer_modified_dt": "2015-01-21T22:23:57Z",
   "dc_creator_sm": [
     "Nicholls, Sutton."
   ],
-  "dc_description_s": "A new map of the most considerable plantations of the English in America",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "1c18dj14d",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/1c18dj14d/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F1c%2F18%2Fdj%2F14%2Fd%2F00000001.jp2/info.json\"}",
   "layer_id_s": "1c18dj14d",
-  "layer_slug_s": "princeton-1c18dj14d",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:57Z",
-  "dc_title_s": "A new map of the most considerable plantations of the English in America",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Middle Atlantic States",
-    "New England"
-  ],
+  "dc_identifier_s": "1c18dj14d",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "A new map of the most considerable plantations of the English in America",
+  "layer_slug_s": "princeton-1c18dj14d",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/1c18dj14d/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/1c/18/dj/14/d/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "45.4767372853 -80.6300211 45.4767372853 -73.1174139 38.0020724983 -73.1174139 38.0020724983 -80.6300211 45.4767372853 -80.6300211",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1743"
   ],
-  "georss_box_s": "38.0020724983 -80.6300211 45.4767372853 -73.1174139",
-  "georss_polygon_s": "45.4767372853 -80.6300211 45.4767372853 -73.1174139 38.0020724983 -73.1174139 38.0020724983 -80.6300211 45.4767372853 -80.6300211",
   "solr_geom": "ENVELOPE(-80.6300211, -73.1174139, 45.4767372853, 38.0020724983)",
-  "solr_year_i": "1743"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Middle Atlantic States",
+    "New England"
+  ]
 }

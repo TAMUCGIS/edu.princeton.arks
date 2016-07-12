@@ -1,30 +1,28 @@
 {
+  "solr_year_i": "1856",
   "uuid": "http://arks.princeton.edu/ark:/88435/fb494b83f",
+  "dc_description_s": "Plan of Fort Green, and line of intrenchments, from the Wallabout to Gowanus Creek : with a topographical sketch of the country",
+  "georss_box_s": "40.477399 -74.2590899 40.917577 -73.7001714",
+  "layer_modified_dt": "2015-01-21T22:24:01Z",
   "dc_creator_sm": [
     "Hayward, George,",
     "Valentine, D. T.",
     "Fox, N. B.,"
   ],
-  "dc_description_s": "Plan of Fort Green, and line of intrenchments, from the Wallabout to Gowanus Creek : with a topographical sketch of the country",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "fb494b83f",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/fb494b83f/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ffb%2F49%2F4b%2F83%2Ff%2F00000001.jp2/info.json\"}",
   "layer_id_s": "fb494b83f",
-  "layer_slug_s": "princeton-fb494b83f",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:01Z",
-  "dc_title_s": "Plan of Fort Green, and line of intrenchments, from the Wallabout to Gowanus Creek : with a topographical sketch of the country",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "fb494b83f",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Plan of Fort Green, and line of intrenchments, from the Wallabout to Gowanus Creek : with a topographical sketch of the country",
+  "layer_slug_s": "princeton-fb494b83f",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/fb494b83f/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/fb/49/4b/83/f/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.917577 -74.2590899 40.917577 -73.7001714 40.477399 -73.7001714 40.477399 -74.2590899 40.917577 -74.2590899",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1856"
   ],
-  "georss_box_s": "40.477399 -74.2590899 40.917577 -73.7001714",
-  "georss_polygon_s": "40.917577 -74.2590899 40.917577 -73.7001714 40.477399 -73.7001714 40.477399 -74.2590899 40.917577 -74.2590899",
   "solr_geom": "ENVELOPE(-74.2590899, -73.7001714, 40.917577, 40.477399)",
-  "solr_year_i": "1856"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

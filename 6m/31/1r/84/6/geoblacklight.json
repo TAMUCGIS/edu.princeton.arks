@@ -1,27 +1,27 @@
 {
+  "solr_year_i": "1735",
   "uuid": "http://arks.princeton.edu/ark:/88435/6m311r846",
-  "dc_description_s": "Cursus Padi per Longobardiam a fonte usque ad ostia cum fluminibus, quæ in illum se exonerant et adjacentibus ducatibus ac principatibus quos interluit et qui confines sunt, tribus combinandis tabellis",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "6m311r846",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/6m311r846/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F6m%2F31%2F1r%2F84%2F6%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "6m311r846",
-  "layer_slug_s": "princeton-6m311r846",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Cursus Padi per Longobardiam a fonte usque ad ostia cum fluminibus, qu\u00e6 in illum se exonerant et adjacentibus ducatibus ac principatibus quos interluit et qui confines sunt, tribus combinandis tabellis",
+  "georss_box_s": "35.2889616 6.6272658 47.0921462 18.7844746",
   "layer_modified_dt": "2015-01-21T22:24:29Z",
-  "dc_title_s": "Cursus Padi per Longobardiam a fonte usque ad ostia cum fluminibus, quæ in illum se exonerant et adjacentibus ducatibus ac principatibus quos interluit et qui confines sunt, tribus combinandis tabellis",
+  "layer_id_s": "6m311r846",
   "dc_type_s": "Image",
+  "dc_identifier_s": "6m311r846",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Cursus Padi per Longobardiam a fonte usque ad ostia cum fluminibus, qu\u00e6 in illum se exonerant et adjacentibus ducatibus ac principatibus quos interluit et qui confines sunt, tribus combinandis tabellis",
+  "layer_slug_s": "princeton-6m311r846",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/6m311r846/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/6m/31/1r/84/6/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "47.0921462 6.6272658 47.0921462 18.7844746 35.2889616 18.7844746 35.2889616 6.6272658 47.0921462 6.6272658",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1735"
+  ],
+  "solr_geom": "ENVELOPE(6.6272658, 18.7844746, 47.0921462, 35.2889616)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Italy",
     "Lombardy (Italy)",
     "Po River (Italy)"
-  ],
-  "dct_temporal_sm": [
-    "1735"
-  ],
-  "georss_box_s": "35.2889616 6.6272658 47.0921462 18.7844746",
-  "georss_polygon_s": "47.0921462 6.6272658 47.0921462 18.7844746 35.2889616 18.7844746 35.2889616 6.6272658 47.0921462 6.6272658",
-  "solr_geom": "ENVELOPE(6.6272658, 18.7844746, 47.0921462, 35.2889616)",
-  "solr_year_i": "1735"
+  ]
 }

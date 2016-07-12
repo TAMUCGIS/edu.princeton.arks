@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1895",
   "uuid": "http://arks.princeton.edu/ark:/88435/rn301390n",
+  "dc_description_s": "Karte von Epirus und West-Thessalien",
+  "georss_box_s": "38.9444953 20.0086771 40.3766028 21.4299492",
+  "layer_modified_dt": "2015-01-21T22:24:26Z",
   "dc_creator_sm": [
     "Keller, C. L.,",
     "Philippson, Alfred,"
   ],
-  "dc_description_s": "Karte von Epirus und West-Thessalien",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "rn301390n",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/rn301390n/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Frn%2F30%2F13%2F90%2Fn%2F00000001.jp2/info.json\"}",
   "layer_id_s": "rn301390n",
-  "layer_slug_s": "princeton-rn301390n",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:26Z",
-  "dc_title_s": "Karte von Epirus und West-Thessalien",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Epirus (Greece and Albania)",
-    "Thessaly (Greece)"
-  ],
+  "dc_identifier_s": "rn301390n",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Karte von Epirus und West-Thessalien",
+  "layer_slug_s": "princeton-rn301390n",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/rn301390n/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/rn/30/13/90/n/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.3766028 20.0086771 40.3766028 21.4299492 38.9444953 21.4299492 38.9444953 20.0086771 40.3766028 20.0086771",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1895"
   ],
-  "georss_box_s": "38.9444953 20.0086771 40.3766028 21.4299492",
-  "georss_polygon_s": "40.3766028 20.0086771 40.3766028 21.4299492 38.9444953 21.4299492 38.9444953 20.0086771 40.3766028 20.0086771",
   "solr_geom": "ENVELOPE(20.0086771, 21.4299492, 40.3766028, 38.9444953)",
-  "solr_year_i": "1895"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Epirus (Greece and Albania)",
+    "Thessaly (Greece)"
+  ]
 }

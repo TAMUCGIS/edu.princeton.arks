@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1823",
   "uuid": "http://arks.princeton.edu/ark:/88435/ks65hf685",
+  "dc_description_s": "Map of Pennsylvania and New Jersey",
+  "georss_box_s": "38.3333333333 -82.1666666667 43.1666666667 -73.8333333333",
+  "layer_modified_dt": "2015-01-19T22:37:23Z",
   "dc_creator_sm": [
     "Tanner, Henry Schenck,"
   ],
-  "dc_description_s": "Map of Pennsylvania and New Jersey",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "ks65hf685",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/ks65hf685/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fks%2F65%2Fhf%2F68%2F5%2F00000001.jp2/info.json\"}",
   "layer_id_s": "ks65hf685",
-  "layer_slug_s": "princeton-ks65hf685",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:23Z",
-  "dc_title_s": "Map of Pennsylvania and New Jersey",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Pennsylvania",
-    "New Jersey"
-  ],
+  "dc_identifier_s": "ks65hf685",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Map of Pennsylvania and New Jersey",
+  "layer_slug_s": "princeton-ks65hf685",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/ks65hf685/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ks/65/hf/68/5/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "43.1666666667 -82.1666666667 43.1666666667 -73.8333333333 38.3333333333 -73.8333333333 38.3333333333 -82.1666666667 43.1666666667 -82.1666666667",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1823"
   ],
-  "georss_box_s": "38.3333333333 -82.1666666667 43.1666666667 -73.8333333333",
-  "georss_polygon_s": "43.1666666667 -82.1666666667 43.1666666667 -73.8333333333 38.3333333333 -73.8333333333 38.3333333333 -82.1666666667 43.1666666667 -82.1666666667",
   "solr_geom": "ENVELOPE(-82.1666666667, -73.8333333333, 43.1666666667, 38.3333333333)",
-  "solr_year_i": "1823"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Pennsylvania",
+    "New Jersey"
+  ]
 }

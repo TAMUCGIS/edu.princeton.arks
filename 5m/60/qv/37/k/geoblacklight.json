@@ -1,27 +1,27 @@
 {
+  "solr_year_i": "1892",
   "uuid": "http://arks.princeton.edu/ark:/88435/5m60qv37k",
   "dc_description_s": "Rand, McNally & Co.'s indexed atlas of the world map of Palestine",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "5m60qv37k",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/5m60qv37k/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F5m%2F60%2Fqv%2F37%2Fk%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "5m60qv37k",
-  "layer_slug_s": "princeton-5m60qv37k",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "31.2 34.3833333333 35.0 38.0",
   "layer_modified_dt": "2015-01-19T22:37:23Z",
-  "dc_title_s": "Rand, McNally & Co.'s indexed atlas of the world map of Palestine",
+  "layer_id_s": "5m60qv37k",
   "dc_type_s": "Image",
+  "dc_identifier_s": "5m60qv37k",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Rand, McNally & Co.'s indexed atlas of the world map of Palestine",
+  "layer_slug_s": "princeton-5m60qv37k",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/5m60qv37k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/5m/60/qv/37/k/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "35.0 34.3833333333 35.0 38.0 31.2 38.0 31.2 34.3833333333 35.0 34.3833333333",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1892"
+  ],
+  "solr_geom": "ENVELOPE(34.3833333333, 38.0, 35.0, 31.2)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Jerusalem",
     "Israel",
     "Middle East"
-  ],
-  "dct_temporal_sm": [
-    "1892"
-  ],
-  "georss_box_s": "31.2 34.3833333333 35.0 38.0",
-  "georss_polygon_s": "35.0 34.3833333333 35.0 38.0 31.2 38.0 31.2 34.3833333333 35.0 34.3833333333",
-  "solr_geom": "ENVELOPE(34.3833333333, 38.0, 35.0, 31.2)",
-  "solr_year_i": "1892"
+  ]
 }

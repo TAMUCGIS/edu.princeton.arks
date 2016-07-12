@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1850",
   "uuid": "http://arks.princeton.edu/ark:/88435/3x816q06c",
   "dc_description_s": "Montevideo Bay",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "3x816q06c",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/3x816q06c/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F3x%2F81%2F6q%2F06%2Fc%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "3x816q06c",
-  "layer_slug_s": "princeton-3x816q06c",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "-34.9380559 -56.4313996 -34.7018525 -56.0225005",
   "layer_modified_dt": "2015-01-21T22:24:05Z",
-  "dc_title_s": "Montevideo Bay",
+  "layer_id_s": "3x816q06c",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Montevideo (Uruguay)"
-  ],
+  "dc_identifier_s": "3x816q06c",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Montevideo Bay",
+  "layer_slug_s": "princeton-3x816q06c",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/3x816q06c/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/3x/81/6q/06/c/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "-34.7018525 -56.4313996 -34.7018525 -56.0225005 -34.9380559 -56.0225005 -34.9380559 -56.4313996 -34.7018525 -56.4313996",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1850"
   ],
-  "georss_box_s": "-34.9380559 -56.4313996 -34.7018525 -56.0225005",
-  "georss_polygon_s": "-34.7018525 -56.4313996 -34.7018525 -56.0225005 -34.9380559 -56.0225005 -34.9380559 -56.4313996 -34.7018525 -56.4313996",
   "solr_geom": "ENVELOPE(-56.4313996, -56.0225005, -34.7018525, -34.9380559)",
-  "solr_year_i": "1850"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Montevideo (Uruguay)"
+  ]
 }

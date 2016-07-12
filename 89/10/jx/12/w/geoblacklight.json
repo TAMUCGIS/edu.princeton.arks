@@ -1,27 +1,27 @@
 {
+  "solr_year_i": "1941",
   "uuid": "http://arks.princeton.edu/ark:/88435/8910jx12w",
   "dc_description_s": "East Indies",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "8910jx12w",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/8910jx12w/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F89%2F10%2Fjx%2F12%2Fw%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "8910jx12w",
-  "layer_slug_s": "princeton-8910jx12w",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "-11.2085668 94.7717124 6.2744496 141.0194444",
   "layer_modified_dt": "2015-01-25T02:06:23Z",
-  "dc_title_s": "East Indies",
+  "layer_id_s": "8910jx12w",
   "dc_type_s": "Image",
+  "dc_identifier_s": "8910jx12w",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "East Indies",
+  "layer_slug_s": "princeton-8910jx12w",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/8910jx12w/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/89/10/jx/12/w/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "6.2744496 94.7717124 6.2744496 141.0194444 -11.2085668 141.0194444 -11.2085668 94.7717124 6.2744496 94.7717124",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1941"
+  ],
+  "solr_geom": "ENVELOPE(94.7717124, 141.0194444, 6.2744496, -11.2085668)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Indonesia",
     "Malay Archipelago",
     "Philippines"
-  ],
-  "dct_temporal_sm": [
-    "1941"
-  ],
-  "georss_box_s": "-11.2085668 94.7717124 6.2744496 141.0194444",
-  "georss_polygon_s": "6.2744496 94.7717124 6.2744496 141.0194444 -11.2085668 141.0194444 -11.2085668 94.7717124 6.2744496 94.7717124",
-  "solr_geom": "ENVELOPE(94.7717124, 141.0194444, 6.2744496, -11.2085668)",
-  "solr_year_i": "1941"
+  ]
 }

@@ -1,29 +1,27 @@
 {
+  "solr_year_i": "1890",
   "uuid": "http://arks.princeton.edu/ark:/88435/t722hc291",
+  "dc_description_s": "A topographical map of the southwestern Highlands : with the southwest portion of Kittatinny Valley",
+  "georss_box_s": "40.0 -75.0 41.0 -74.0",
+  "layer_modified_dt": "2015-01-19T22:37:28Z",
   "dc_creator_sm": [
     "Cook, George Hammell,",
     "Vermeule, C. C."
   ],
-  "dc_description_s": "A topographical map of the southwestern Highlands : with the southwest portion of Kittatinny Valley",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "t722hc291",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/t722hc291/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ft7%2F22%2Fhc%2F29%2F1%2F00000001.jp2/info.json\"}",
   "layer_id_s": "t722hc291",
-  "layer_slug_s": "princeton-t722hc291",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:28Z",
-  "dc_title_s": "A topographical map of the southwestern Highlands : with the southwest portion of Kittatinny Valley",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "t722hc291",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "A topographical map of the southwestern Highlands : with the southwest portion of Kittatinny Valley",
+  "layer_slug_s": "princeton-t722hc291",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/t722hc291/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/t7/22/hc/29/1/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "41.0 -75.0 41.0 -74.0 40.0 -74.0 40.0 -75.0 41.0 -75.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1890"
   ],
-  "georss_box_s": "40.0 -75.0 41.0 -74.0",
-  "georss_polygon_s": "41.0 -75.0 41.0 -74.0 40.0 -74.0 40.0 -75.0 41.0 -75.0",
   "solr_geom": "ENVELOPE(-75.0, -74.0, 41.0, 40.0)",
-  "solr_year_i": "1890"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

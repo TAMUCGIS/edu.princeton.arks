@@ -1,32 +1,32 @@
 {
+  "solr_year_i": "1868",
   "uuid": "http://arks.princeton.edu/ark:/88435/8p58pg41x",
+  "dc_description_s": "Map of a part of the Isthmus of Darien to accompany the paper by M. Lucien de Puydt /",
+  "georss_box_s": "7.83333 -78.17500 8.83333 -76.59444",
+  "layer_modified_dt": "2015-01-19T22:37:23Z",
   "dc_creator_sm": [
     "De  Puydt, M. Lucien.",
     "Weller, Edward,"
   ],
-  "dc_description_s": "Map of a part of the Isthmus of Darien to accompany the paper by M. Lucien de Puydt /",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "8p58pg41x",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/8p58pg41x/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F8p%2F58%2Fpg%2F41%2Fx%2F00000001.jp2/info.json\"}",
   "layer_id_s": "8p58pg41x",
-  "layer_slug_s": "princeton-8p58pg41x",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:23Z",
-  "dc_title_s": "Map of a part of the Isthmus of Darien to accompany the paper by M. Lucien de Puydt /",
   "dc_type_s": "Image",
+  "dc_identifier_s": "8p58pg41x",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Map of a part of the Isthmus of Darien to accompany the paper by M. Lucien de Puydt /",
+  "layer_slug_s": "princeton-8p58pg41x",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/8p58pg41x/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/8p/58/pg/41/x/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "8.83333 -78.17500 8.83333 -76.59444 7.83333 -76.59444 7.83333 -78.17500 8.83333 -78.17500",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1868"
+  ],
+  "solr_geom": "ENVELOPE(-78.17500, -76.59444, 8.83333, 7.83333)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Panama, Isthmus of (Panama)",
     "Darien (Panama and Colombia)",
     "Panama Canal (Panama)",
     "Darien (Panama : Province)"
-  ],
-  "dct_temporal_sm": [
-    "1868"
-  ],
-  "georss_box_s": "7.83333 -78.17500 8.83333 -76.59444",
-  "georss_polygon_s": "8.83333 -78.17500 8.83333 -76.59444 7.83333 -76.59444 7.83333 -78.17500 8.83333 -78.17500",
-  "solr_geom": "ENVELOPE(-78.17500, -76.59444, 8.83333, 7.83333)",
-  "solr_year_i": "1868"
+  ]
 }

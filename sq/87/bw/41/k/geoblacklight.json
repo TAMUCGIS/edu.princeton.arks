@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1945",
   "uuid": "http://arks.princeton.edu/ark:/88435/sq87bw41k",
   "dc_description_s": "Index to administrative units for Omuta.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "sq87bw41k",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/sq87bw41k/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fsq%2F87%2Fbw%2F41%2Fk%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "sq87bw41k",
-  "layer_slug_s": "princeton-sq87bw41k",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "32.98333 130.40000 33.05000 130.48333",
   "layer_modified_dt": "2015-01-19T22:36:33Z",
-  "dc_title_s": "Index to administrative units for Omuta.",
+  "layer_id_s": "sq87bw41k",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Japan"
-  ],
+  "dc_identifier_s": "sq87bw41k",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Index to administrative units for Omuta.",
+  "layer_slug_s": "princeton-sq87bw41k",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/sq87bw41k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/sq/87/bw/41/k/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "33.05000 130.40000 33.05000 130.48333 32.98333 130.48333 32.98333 130.40000 33.05000 130.40000",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1945"
   ],
-  "georss_box_s": "32.98333 130.40000 33.05000 130.48333",
-  "georss_polygon_s": "33.05000 130.40000 33.05000 130.48333 32.98333 130.48333 32.98333 130.40000 33.05000 130.40000",
   "solr_geom": "ENVELOPE(130.40000, 130.48333, 33.05000, 32.98333)",
-  "solr_year_i": "1945"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Japan"
+  ]
 }

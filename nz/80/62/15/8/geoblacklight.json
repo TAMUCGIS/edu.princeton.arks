@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1867",
   "uuid": "http://arks.princeton.edu/ark:/88435/nz8062158",
+  "dc_description_s": "Map of the Delta of the Indus to accompany the paper by Col. C. W. Tremenheere, C.B. R.E. /",
+  "georss_box_s": "23.50000 66.50000 25.47222 68.50000",
+  "layer_modified_dt": "2015-01-19T22:37:22Z",
   "dc_creator_sm": [
     "Weller, Edward,"
   ],
-  "dc_description_s": "Map of the Delta of the Indus to accompany the paper by Col. C. W. Tremenheere, C.B. R.E. /",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "nz8062158",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/nz8062158/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fnz%2F80%2F62%2F15%2F8%2F00000001.jp2/info.json\"}",
   "layer_id_s": "nz8062158",
-  "layer_slug_s": "princeton-nz8062158",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:22Z",
-  "dc_title_s": "Map of the Delta of the Indus to accompany the paper by Col. C. W. Tremenheere, C.B. R.E. /",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Sindh (Pakistan)"
-  ],
+  "dc_identifier_s": "nz8062158",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Map of the Delta of the Indus to accompany the paper by Col. C. W. Tremenheere, C.B. R.E. /",
+  "layer_slug_s": "princeton-nz8062158",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/nz8062158/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/nz/80/62/15/8/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "25.47222 66.50000 25.47222 68.50000 23.50000 68.50000 23.50000 66.50000 25.47222 66.50000",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1867"
   ],
-  "georss_box_s": "23.50000 66.50000 25.47222 68.50000",
-  "georss_polygon_s": "25.47222 66.50000 25.47222 68.50000 23.50000 68.50000 23.50000 66.50000 25.47222 66.50000",
   "solr_geom": "ENVELOPE(66.50000, 68.50000, 25.47222, 23.50000)",
-  "solr_year_i": "1867"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Sindh (Pakistan)"
+  ]
 }

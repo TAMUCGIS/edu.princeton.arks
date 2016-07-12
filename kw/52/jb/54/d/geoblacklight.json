@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1847",
   "uuid": "http://arks.princeton.edu/ark:/88435/kw52jb54d",
   "dc_description_s": "France",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "kw52jb54d",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/kw52jb54d/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fkw%2F52%2Fjb%2F54%2Fd%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "kw52jb54d",
-  "layer_slug_s": "princeton-kw52jb54d",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "41.1666666667 -7.0 50.8333333333 10.6666666667",
   "layer_modified_dt": "2015-01-19T22:37:25Z",
-  "dc_title_s": "France",
+  "layer_id_s": "kw52jb54d",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Corsica (France)",
-    "France"
-  ],
+  "dc_identifier_s": "kw52jb54d",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "France",
+  "layer_slug_s": "princeton-kw52jb54d",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/kw52jb54d/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/kw/52/jb/54/d/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "50.8333333333 -7.0 50.8333333333 10.6666666667 41.1666666667 10.6666666667 41.1666666667 -7.0 50.8333333333 -7.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1847"
   ],
-  "georss_box_s": "41.1666666667 -7.0 50.8333333333 10.6666666667",
-  "georss_polygon_s": "50.8333333333 -7.0 50.8333333333 10.6666666667 41.1666666667 10.6666666667 41.1666666667 -7.0 50.8333333333 -7.0",
   "solr_geom": "ENVELOPE(-7.0, 10.6666666667, 50.8333333333, 41.1666666667)",
-  "solr_year_i": "1847"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Corsica (France)",
+    "France"
+  ]
 }

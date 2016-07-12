@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1680",
   "uuid": "http://arks.princeton.edu/ark:/88435/tm70mx54m",
   "dc_description_s": "Insula Candia : ejusque fortificatio",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "tm70mx54m",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/tm70mx54m/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ftm%2F70%2Fmx%2F54%2Fm%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "tm70mx54m",
-  "layer_slug_s": "princeton-tm70mx54m",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "34.8009319 23.4739911 35.6956944 26.3524769",
   "layer_modified_dt": "2015-01-21T22:23:57Z",
-  "dc_title_s": "Insula Candia : ejusque fortificatio",
+  "layer_id_s": "tm70mx54m",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Crete (Greece)"
-  ],
+  "dc_identifier_s": "tm70mx54m",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Insula Candia : ejusque fortificatio",
+  "layer_slug_s": "princeton-tm70mx54m",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/tm70mx54m/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/tm/70/mx/54/m/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "35.6956944 23.4739911 35.6956944 26.3524769 34.8009319 26.3524769 34.8009319 23.4739911 35.6956944 23.4739911",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1680"
   ],
-  "georss_box_s": "34.8009319 23.4739911 35.6956944 26.3524769",
-  "georss_polygon_s": "35.6956944 23.4739911 35.6956944 26.3524769 34.8009319 26.3524769 34.8009319 23.4739911 35.6956944 23.4739911",
   "solr_geom": "ENVELOPE(23.4739911, 26.3524769, 35.6956944, 34.8009319)",
-  "solr_year_i": "1680"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Crete (Greece)"
+  ]
 }

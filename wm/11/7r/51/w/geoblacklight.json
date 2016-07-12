@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1903",
   "uuid": "http://arks.princeton.edu/ark:/88435/wm117r51w",
+  "dc_description_s": "Dessau",
+  "georss_box_s": "51.7911104 12.2029261 51.8711104 12.2829261",
+  "layer_modified_dt": "2015-01-21T22:24:28Z",
   "dc_creator_sm": [
     "Woerl, Leo,"
   ],
-  "dc_description_s": "Dessau",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "wm117r51w",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/wm117r51w/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fwm%2F11%2F7r%2F51%2Fw%2F00000001.jp2/info.json\"}",
   "layer_id_s": "wm117r51w",
-  "layer_slug_s": "princeton-wm117r51w",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:28Z",
-  "dc_title_s": "Dessau",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Dessau (Germany)",
-    "Saxony-Anhalt (Germany)"
-  ],
+  "dc_identifier_s": "wm117r51w",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Dessau",
+  "layer_slug_s": "princeton-wm117r51w",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/wm117r51w/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/wm/11/7r/51/w/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "51.8711104 12.2029261 51.8711104 12.2829261 51.7911104 12.2829261 51.7911104 12.2029261 51.8711104 12.2029261",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1903"
   ],
-  "georss_box_s": "51.7911104 12.2029261 51.8711104 12.2829261",
-  "georss_polygon_s": "51.8711104 12.2029261 51.8711104 12.2829261 51.7911104 12.2829261 51.7911104 12.2029261 51.8711104 12.2029261",
   "solr_geom": "ENVELOPE(12.2029261, 12.2829261, 51.8711104, 51.7911104)",
-  "solr_year_i": "1903"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Dessau (Germany)",
+    "Saxony-Anhalt (Germany)"
+  ]
 }

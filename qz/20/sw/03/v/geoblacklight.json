@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1892",
   "uuid": "http://arks.princeton.edu/ark:/88435/qz20sw03v",
+  "dc_description_s": "Ulm",
+  "georss_box_s": "47.5324787 7.5117461 49.7913277 10.4955731",
+  "layer_modified_dt": "2015-01-21T22:24:30Z",
   "dc_creator_sm": [
     "Woerl, Leo,"
   ],
-  "dc_description_s": "Ulm",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "qz20sw03v",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/qz20sw03v/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fqz%2F20%2Fsw%2F03%2Fv%2F00000001.jp2/info.json\"}",
   "layer_id_s": "qz20sw03v",
-  "layer_slug_s": "princeton-qz20sw03v",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:30Z",
-  "dc_title_s": "Ulm",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Baden-Württemberg (Germany)",
-    "Ulm (Germany)"
-  ],
+  "dc_identifier_s": "qz20sw03v",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Ulm",
+  "layer_slug_s": "princeton-qz20sw03v",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/qz20sw03v/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/qz/20/sw/03/v/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "49.7913277 7.5117461 49.7913277 10.4955731 47.5324787 10.4955731 47.5324787 7.5117461 49.7913277 7.5117461",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1892"
   ],
-  "georss_box_s": "47.5324787 7.5117461 49.7913277 10.4955731",
-  "georss_polygon_s": "49.7913277 7.5117461 49.7913277 10.4955731 47.5324787 10.4955731 47.5324787 7.5117461 49.7913277 7.5117461",
   "solr_geom": "ENVELOPE(7.5117461, 10.4955731, 49.7913277, 47.5324787)",
-  "solr_year_i": "1892"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Baden-Wu\u0308rttemberg (Germany)",
+    "Ulm (Germany)"
+  ]
 }

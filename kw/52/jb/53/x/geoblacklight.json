@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1902",
   "uuid": "http://arks.princeton.edu/ark:/88435/kw52jb53x",
   "dc_description_s": "Egpyt",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "kw52jb53x",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/kw52jb53x/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fkw%2F52%2Fjb%2F53%2Fx%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "kw52jb53x",
-  "layer_slug_s": "princeton-kw52jb53x",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "21.9999975 24.706389 31.8330854 37.1153517",
   "layer_modified_dt": "2015-01-21T22:24:11Z",
-  "dc_title_s": "Egpyt",
+  "layer_id_s": "kw52jb53x",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Egypt",
-    "Nile River Delata (Egypt)"
-  ],
+  "dc_identifier_s": "kw52jb53x",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Egpyt",
+  "layer_slug_s": "princeton-kw52jb53x",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/kw52jb53x/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/kw/52/jb/53/x/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "31.8330854 24.706389 31.8330854 37.1153517 21.9999975 37.1153517 21.9999975 24.706389 31.8330854 24.706389",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1902"
   ],
-  "georss_box_s": "21.9999975 24.706389 31.8330854 37.1153517",
-  "georss_polygon_s": "31.8330854 24.706389 31.8330854 37.1153517 21.9999975 37.1153517 21.9999975 24.706389 31.8330854 24.706389",
   "solr_geom": "ENVELOPE(24.706389, 37.1153517, 31.8330854, 21.9999975)",
-  "solr_year_i": "1902"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Egypt",
+    "Nile River Delata (Egypt)"
+  ]
 }

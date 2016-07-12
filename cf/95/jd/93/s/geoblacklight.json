@@ -1,31 +1,31 @@
 {
+  "solr_year_i": "1732",
   "uuid": "http://arks.princeton.edu/ark:/88435/cf95jd93s",
+  "dc_description_s": "Florida : called by ye French Louisiana &c.",
+  "georss_box_s": "24.396308 -87.6348959 31.000968 -79.9743059",
+  "layer_modified_dt": "2015-01-21T22:24:13Z",
   "dc_creator_sm": [
     "Bowles, John,",
     "Bowles, Thomas,",
     "Moll, Herman,"
   ],
-  "dc_description_s": "Florida : called by ye French Louisiana &c.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "cf95jd93s",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/cf95jd93s/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fcf%2F95%2Fjd%2F93%2Fs%2F00000001.jp2/info.json\"}",
   "layer_id_s": "cf95jd93s",
-  "layer_slug_s": "princeton-cf95jd93s",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:13Z",
-  "dc_title_s": "Florida : called by ye French Louisiana &c.",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Florida",
-    "Southern States"
-  ],
+  "dc_identifier_s": "cf95jd93s",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Florida : called by ye French Louisiana &c.",
+  "layer_slug_s": "princeton-cf95jd93s",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/cf95jd93s/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/cf/95/jd/93/s/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "31.000968 -87.6348959 31.000968 -79.9743059 24.396308 -79.9743059 24.396308 -87.6348959 31.000968 -87.6348959",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1732"
   ],
-  "georss_box_s": "24.396308 -87.6348959 31.000968 -79.9743059",
-  "georss_polygon_s": "31.000968 -87.6348959 31.000968 -79.9743059 24.396308 -79.9743059 24.396308 -87.6348959 31.000968 -87.6348959",
   "solr_geom": "ENVELOPE(-87.6348959, -79.9743059, 31.000968, 24.396308)",
-  "solr_year_i": "1732"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Florida",
+    "Southern States"
+  ]
 }

@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/w3763862z",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Asbury Park",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "w3763862z",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fw3%2F76%2F38%2F62%2Fz%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "w3763862z",
-  "layer_slug_s": "princeton-w3763862z",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:01:46Z",
+  "solr_geom": "ENVELOPE(-74.027256, -73.994681, 40.231222, 40.213125)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/w3/76/38/62/z/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/w3763862z",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Asbury Park and West Asbury Park (Sheet 43)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1905"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "w3763862z",
+  "georss_polygon_s": "40.231222 -74.027256 40.231222 -73.994681 40.213125 -73.994681 40.213125 -74.027256 40.231222 -74.027256",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1905",
   "dct_spatial_sm": [
     "New Jersey",
     "Asbury Park"
   ],
-  "dct_temporal_sm": [
-    "1905"
-  ],
+  "layer_id_s": "w3763862z",
   "georss_box_s": "40.213125 -74.027256 40.231222 -73.994681",
-  "georss_polygon_s": "40.231222 -74.027256 40.231222 -73.994681 40.213125 -73.994681 40.213125 -74.027256 40.231222 -74.027256",
-  "solr_geom": "ENVELOPE(-74.027256, -73.994681, 40.231222, 40.213125)",
-  "solr_year_i": "1905"
+  "dc_title_s": "Asbury Park and West Asbury Park (Sheet 43)",
+  "layer_slug_s": "princeton-w3763862z",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

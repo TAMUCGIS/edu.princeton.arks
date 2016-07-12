@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1890",
   "uuid": "http://arks.princeton.edu/ark:/88435/0v838305m",
+  "dc_description_s": "Palestine : from the surveys conducted for the Committee of the Palestine Exploration Fund and other sources",
+  "georss_box_s": "29.4533796 34.2676025 33.3356317 35.8950234",
+  "layer_modified_dt": "2015-01-25T02:06:15Z",
   "dc_creator_sm": [
     "Wilson, Charles William,",
     "Conder, C. R."
   ],
-  "dc_description_s": "Palestine : from the surveys conducted for the Committee of the Palestine Exploration Fund and other sources",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "0v838305m",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/0v838305m/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F0v%2F83%2F83%2F05%2Fm%2F00000001.jp2/info.json\"}",
   "layer_id_s": "0v838305m",
-  "layer_slug_s": "princeton-0v838305m",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:15Z",
-  "dc_title_s": "Palestine : from the surveys conducted for the Committee of the Palestine Exploration Fund and other sources",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Palestine"
-  ],
+  "dc_identifier_s": "0v838305m",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Palestine : from the surveys conducted for the Committee of the Palestine Exploration Fund and other sources",
+  "layer_slug_s": "princeton-0v838305m",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/0v838305m/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/0v/83/83/05/m/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "33.3356317 34.2676025 33.3356317 35.8950234 29.4533796 35.8950234 29.4533796 34.2676025 33.3356317 34.2676025",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1890"
   ],
-  "georss_box_s": "29.4533796 34.2676025 33.3356317 35.8950234",
-  "georss_polygon_s": "33.3356317 34.2676025 33.3356317 35.8950234 29.4533796 35.8950234 29.4533796 34.2676025 33.3356317 34.2676025",
   "solr_geom": "ENVELOPE(34.2676025, 35.8950234, 33.3356317, 29.4533796)",
-  "solr_year_i": "1890"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Palestine"
+  ]
 }

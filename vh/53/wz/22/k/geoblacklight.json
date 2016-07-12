@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1778",
   "uuid": "http://arks.princeton.edu/ark:/88435/vh53wz22k",
-  "dc_description_s": "Mapa general del Reyno de Portugal : comprehende sus provincias, corregimientos, oidorias, proveedurias, concejos, cotos, &c. Dedicado al ilustrisimo Señor Don Pedro Rodriguez Campomanes, caballero de la distinguida orden de Carlos III. Del consejo y camara de S.M., director de la Real Academia de la Historia &c.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "vh53wz22k",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/vh53wz22k/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fvh%2F53%2Fwz%2F22%2Fk%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "vh53wz22k",
-  "layer_slug_s": "princeton-vh53wz22k",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Mapa general del Reyno de Portugal : comprehende sus provincias, corregimientos, oidorias, proveedurias, concejos, cotos, &c. Dedicado al ilustrisimo Sen\u0303or Don Pedro Rodriguez Campomanes, caballero de la distinguida orden de Carlos III. Del consejo y camara de S.M., director de la Real Academia de la Historia &c.",
+  "georss_box_s": "37.5 7.66666666667 42.1666666667 10.8333333333",
   "layer_modified_dt": "2015-01-23T17:48:37Z",
-  "dc_title_s": "Mapa general del Reyno de Portugal : comprehende sus provincias, corregimientos, oidorias, proveedurias, concejos, cotos, &c. Dedicado al ilustrisimo Señor Don Pedro Rodriguez Campomanes, caballero de la distinguida orden de Carlos III. Del consejo y camara de S.M., director de la Real Academia de la Historia &c.",
+  "layer_id_s": "vh53wz22k",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Portugal"
-  ],
+  "dc_identifier_s": "vh53wz22k",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Mapa general del Reyno de Portugal : comprehende sus provincias, corregimientos, oidorias, proveedurias, concejos, cotos, &c. Dedicado al ilustrisimo Sen\u0303or Don Pedro Rodriguez Campomanes, caballero de la distinguida orden de Carlos III. Del consejo y camara de S.M., director de la Real Academia de la Historia &c.",
+  "layer_slug_s": "princeton-vh53wz22k",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/vh53wz22k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/vh/53/wz/22/k/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "42.1666666667 7.66666666667 42.1666666667 10.8333333333 37.5 10.8333333333 37.5 7.66666666667 42.1666666667 7.66666666667",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1778"
   ],
-  "georss_box_s": "37.5 7.66666666667 42.1666666667 10.8333333333",
-  "georss_polygon_s": "42.1666666667 7.66666666667 42.1666666667 10.8333333333 37.5 10.8333333333 37.5 7.66666666667 42.1666666667 7.66666666667",
   "solr_geom": "ENVELOPE(7.66666666667, 10.8333333333, 42.1666666667, 37.5)",
-  "solr_year_i": "1778"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Portugal"
+  ]
 }

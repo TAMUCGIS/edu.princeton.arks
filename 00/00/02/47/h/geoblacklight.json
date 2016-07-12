@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1663",
   "uuid": "http://arks.princeton.edu/ark:/88435/00000247h",
+  "dc_description_s": "Nova \u00c6gypti tabula",
+  "georss_box_s": "21.9999975 24.706389 31.8330854 37.1153517",
+  "layer_modified_dt": "2015-01-21T22:24:12Z",
   "dc_creator_sm": [
     "Blaeu, Joan,"
   ],
-  "dc_description_s": "Nova Ægypti tabula",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "00000247h",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/00000247h/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F00%2F00%2F02%2F47%2Fh%2F00000001.jp2/info.json\"}",
   "layer_id_s": "00000247h",
-  "layer_slug_s": "princeton-00000247h",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:12Z",
-  "dc_title_s": "Nova Ægypti tabula",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Egypt"
-  ],
+  "dc_identifier_s": "00000247h",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Nova \u00c6gypti tabula",
+  "layer_slug_s": "princeton-00000247h",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/00000247h/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/00/00/02/47/h/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "31.8330854 24.706389 31.8330854 37.1153517 21.9999975 37.1153517 21.9999975 24.706389 31.8330854 24.706389",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1663"
   ],
-  "georss_box_s": "21.9999975 24.706389 31.8330854 37.1153517",
-  "georss_polygon_s": "31.8330854 24.706389 31.8330854 37.1153517 21.9999975 37.1153517 21.9999975 24.706389 31.8330854 24.706389",
   "solr_geom": "ENVELOPE(24.706389, 37.1153517, 31.8330854, 21.9999975)",
-  "solr_year_i": "1663"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Egypt"
+  ]
 }

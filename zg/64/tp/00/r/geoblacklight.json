@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1888",
   "uuid": "http://arks.princeton.edu/ark:/88435/zg64tp00r",
   "dc_description_s": "Railroad and county map of Dakota",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "zg64tp00r",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/zg64tp00r/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fzg%2F64%2Ftp%2F00%2Fr%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "zg64tp00r",
-  "layer_slug_s": "princeton-zg64tp00r",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "45.9350359 -104.0492649 49.0004918 -96.5543974",
   "layer_modified_dt": "2015-01-21T22:23:54Z",
-  "dc_title_s": "Railroad and county map of Dakota",
+  "layer_id_s": "zg64tp00r",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "North Dakota",
-    "South Dakota"
-  ],
+  "dc_identifier_s": "zg64tp00r",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Railroad and county map of Dakota",
+  "layer_slug_s": "princeton-zg64tp00r",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/zg64tp00r/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/zg/64/tp/00/r/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "49.0004918 -104.0492649 49.0004918 -96.5543974 45.9350359 -96.5543974 45.9350359 -104.0492649 49.0004918 -104.0492649",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1888"
   ],
-  "georss_box_s": "45.9350359 -104.0492649 49.0004918 -96.5543974",
-  "georss_polygon_s": "49.0004918 -104.0492649 49.0004918 -96.5543974 45.9350359 -96.5543974 45.9350359 -104.0492649 49.0004918 -104.0492649",
   "solr_geom": "ENVELOPE(-104.0492649, -96.5543974, 49.0004918, 45.9350359)",
-  "solr_year_i": "1888"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "North Dakota",
+    "South Dakota"
+  ]
 }

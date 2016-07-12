@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1895",
   "uuid": "http://arks.princeton.edu/ark:/88435/2z10ws69f",
+  "dc_description_s": "Carte de la partie centrale du Kurdistan",
+  "georss_box_s": "35.430909 44.390333 35.470909 44.430333",
+  "layer_modified_dt": "2015-01-21T22:24:11Z",
   "dc_creator_sm": [
     "Leroux, Ernest,",
     "Morgan, J. de"
   ],
-  "dc_description_s": "Carte de la partie centrale du Kurdistan",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "2z10ws69f",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/2z10ws69f/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F2z%2F10%2Fws%2F69%2Ff%2F00000001.jp2/info.json\"}",
   "layer_id_s": "2z10ws69f",
-  "layer_slug_s": "princeton-2z10ws69f",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:11Z",
-  "dc_title_s": "Carte de la partie centrale du Kurdistan",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Kurdistān (Iran : Province)"
-  ],
+  "dc_identifier_s": "2z10ws69f",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Carte de la partie centrale du Kurdistan",
+  "layer_slug_s": "princeton-2z10ws69f",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/2z10ws69f/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/2z/10/ws/69/f/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "35.470909 44.390333 35.470909 44.430333 35.430909 44.430333 35.430909 44.390333 35.470909 44.390333",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1895"
   ],
-  "georss_box_s": "35.430909 44.390333 35.470909 44.430333",
-  "georss_polygon_s": "35.470909 44.390333 35.470909 44.430333 35.430909 44.430333 35.430909 44.390333 35.470909 44.390333",
   "solr_geom": "ENVELOPE(44.390333, 44.430333, 35.470909, 35.430909)",
-  "solr_year_i": "1895"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Kurdista\u0304n (Iran : Province)"
+  ]
 }

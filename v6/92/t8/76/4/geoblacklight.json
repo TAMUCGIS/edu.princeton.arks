@@ -1,31 +1,31 @@
 {
+  "solr_year_i": "1701",
   "uuid": "http://arks.princeton.edu/ark:/88435/v692t8764",
+  "dc_description_s": "L'Espagne dresse\u0301e sur la description qui en e\u0301te\u0301 faite par Rodrigo Mendez Sylva et sur plusieurs relations et cartes manuscrites ou imprime\u0301es de ce royaume : rectifie\u0301es par les observations de Mrs. de l'Academie des Sciences & autres astronomes /",
+  "georss_box_s": "34.0 -10.0 45.0 5.0",
+  "layer_modified_dt": "2015-01-23T17:48:41Z",
   "dc_creator_sm": [
     "Simonneau, Charles,",
-    "Méndez Silva, Rodrigo,"
+    "Me\u0301ndez Silva, Rodrigo,"
   ],
-  "dc_description_s": "L'Espagne dressée sur la description qui en été faite par Rodrigo Mendez Sylva et sur plusieurs relations et cartes manuscrites ou imprimées de ce royaume : rectifiées par les observations de Mrs. de l'Academie des Sciences & autres astronomes /",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "v692t8764",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/v692t8764/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fv6%2F92%2Ft8%2F76%2F4%2F00000001.jp2/info.json\"}",
   "layer_id_s": "v692t8764",
-  "layer_slug_s": "princeton-v692t8764",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-23T17:48:41Z",
-  "dc_title_s": "L'Espagne dressée sur la description qui en été faite par Rodrigo Mendez Sylva et sur plusieurs relations et cartes manuscrites ou imprimées de ce royaume : rectifiées par les observations de Mrs. de l'Academie des Sciences & autres astronomes /",
   "dc_type_s": "Image",
+  "dc_identifier_s": "v692t8764",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "L'Espagne dresse\u0301e sur la description qui en e\u0301te\u0301 faite par Rodrigo Mendez Sylva et sur plusieurs relations et cartes manuscrites ou imprime\u0301es de ce royaume : rectifie\u0301es par les observations de Mrs. de l'Academie des Sciences & autres astronomes /",
+  "layer_slug_s": "princeton-v692t8764",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/v692t8764/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/v6/92/t8/76/4/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "45.0 -10.0 45.0 5.0 34.0 5.0 34.0 -10.0 45.0 -10.0",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1701"
+  ],
+  "solr_geom": "ENVELOPE(-10.0, 5.0, 45.0, 34.0)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Iberian Peninsula",
     "Spain",
     "Portugal"
-  ],
-  "dct_temporal_sm": [
-    "1701"
-  ],
-  "georss_box_s": "34.0 -10.0 45.0 5.0",
-  "georss_polygon_s": "45.0 -10.0 45.0 5.0 34.0 5.0 34.0 -10.0 45.0 -10.0",
-  "solr_geom": "ENVELOPE(-10.0, 5.0, 45.0, 34.0)",
-  "solr_year_i": "1701"
+  ]
 }

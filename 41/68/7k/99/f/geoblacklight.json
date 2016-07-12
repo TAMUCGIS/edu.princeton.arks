@@ -1,34 +1,34 @@
 {
+  "solr_year_i": "1637",
   "uuid": "http://arks.princeton.edu/ark:/88435/41687k99f",
+  "dc_description_s": "Romani Imperii qua occidens est descriptio geographica",
+  "georss_box_s": "3.4889804 -17.4573 37.5359 38.6938",
+  "layer_modified_dt": "2015-01-25T02:06:19Z",
   "dc_creator_sm": [
     "Tavernier, Melchior,",
     "Mariette, Pierre,",
     "Sanson, Nicolas,"
   ],
-  "dc_description_s": "Romani Imperii qua occidens est descriptio geographica",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "41687k99f",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/41687k99f/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F41%2F68%2F7k%2F99%2Ff%2F00000001.jp2/info.json\"}",
   "layer_id_s": "41687k99f",
-  "layer_slug_s": "princeton-41687k99f",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:19Z",
-  "dc_title_s": "Romani Imperii qua occidens est descriptio geographica",
   "dc_type_s": "Image",
+  "dc_identifier_s": "41687k99f",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Romani Imperii qua occidens est descriptio geographica",
+  "layer_slug_s": "princeton-41687k99f",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/41687k99f/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/41/68/7k/99/f/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "37.5359 -17.4573 37.5359 38.6938 3.4889804 38.6938 3.4889804 -17.4573 37.5359 -17.4573",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1637"
+  ],
+  "solr_geom": "ENVELOPE(-17.4573, 38.6938, 37.5359, 3.4889804)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Africa, North",
     "Europe",
     "Middle East",
     "Rome",
     "Rome"
-  ],
-  "dct_temporal_sm": [
-    "1637"
-  ],
-  "georss_box_s": "3.4889804 -17.4573 37.5359 38.6938",
-  "georss_polygon_s": "37.5359 -17.4573 37.5359 38.6938 3.4889804 38.6938 3.4889804 -17.4573 37.5359 -17.4573",
-  "solr_geom": "ENVELOPE(-17.4573, 38.6938, 37.5359, 3.4889804)",
-  "solr_year_i": "1637"
+  ]
 }

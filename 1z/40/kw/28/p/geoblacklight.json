@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1805",
   "uuid": "http://arks.princeton.edu/ark:/88435/1z40kw28p",
+  "dc_description_s": "Spherical chart of part of the coast of Peru, from the parallel of 7\u2070 to 21\u2070 45' south latitude : surveyed and drawn by order of the king of Spain in the year 1790",
+  "georss_box_s": "-22.0 -74.0 -6.0 -63.0",
+  "layer_modified_dt": "2015-01-19T22:37:11Z",
   "dc_creator_sm": [
     "Faden, William,",
     "Foot, T."
   ],
-  "dc_description_s": "Spherical chart of part of the coast of Peru, from the parallel of 7⁰ to 21⁰ 45' south latitude : surveyed and drawn by order of the king of Spain in the year 1790",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "1z40kw28p",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/1z40kw28p/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F1z%2F40%2Fkw%2F28%2Fp%2F00000001.jp2/info.json\"}",
   "layer_id_s": "1z40kw28p",
-  "layer_slug_s": "princeton-1z40kw28p",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:11Z",
-  "dc_title_s": "Spherical chart of part of the coast of Peru, from the parallel of 7⁰ to 21⁰ 45' south latitude : surveyed and drawn by order of the king of Spain in the year 1790",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Pacific Coast (Peru)",
-    "Peru"
-  ],
+  "dc_identifier_s": "1z40kw28p",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Spherical chart of part of the coast of Peru, from the parallel of 7\u2070 to 21\u2070 45' south latitude : surveyed and drawn by order of the king of Spain in the year 1790",
+  "layer_slug_s": "princeton-1z40kw28p",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/1z40kw28p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/1z/40/kw/28/p/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "-6.0 -74.0 -6.0 -63.0 -22.0 -63.0 -22.0 -74.0 -6.0 -74.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1805"
   ],
-  "georss_box_s": "-22.0 -74.0 -6.0 -63.0",
-  "georss_polygon_s": "-6.0 -74.0 -6.0 -63.0 -22.0 -63.0 -22.0 -74.0 -6.0 -74.0",
   "solr_geom": "ENVELOPE(-74.0, -63.0, -6.0, -22.0)",
-  "solr_year_i": "1805"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Pacific Coast (Peru)",
+    "Peru"
+  ]
 }

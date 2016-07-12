@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1903",
   "uuid": "http://arks.princeton.edu/ark:/88435/n009w476r",
+  "dc_description_s": "Northern Syria : from observations and preliminary map made by Robert Garrett",
+  "georss_box_s": "36.0 36.5 36.3 36.7",
+  "layer_modified_dt": "2015-01-19T22:37:18Z",
   "dc_creator_sm": [
     "Garrett, Robert,"
   ],
-  "dc_description_s": "Northern Syria : from observations and preliminary map made by Robert Garrett",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "n009w476r",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/n009w476r/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fn0%2F09%2Fw4%2F76%2Fr%2F00000001.jp2/info.json\"}",
   "layer_id_s": "n009w476r",
-  "layer_slug_s": "princeton-n009w476r",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:18Z",
-  "dc_title_s": "Northern Syria : from observations and preliminary map made by Robert Garrett",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Syria"
-  ],
+  "dc_identifier_s": "n009w476r",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Northern Syria : from observations and preliminary map made by Robert Garrett",
+  "layer_slug_s": "princeton-n009w476r",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/n009w476r/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/n0/09/w4/76/r/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "36.3 36.5 36.3 36.7 36.0 36.7 36.0 36.5 36.3 36.5",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1903"
   ],
-  "georss_box_s": "36.0 36.5 36.3 36.7",
-  "georss_polygon_s": "36.3 36.5 36.3 36.7 36.0 36.7 36.0 36.5 36.3 36.5",
   "solr_geom": "ENVELOPE(36.5, 36.7, 36.3, 36.0)",
-  "solr_year_i": "1903"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Syria"
+  ]
 }

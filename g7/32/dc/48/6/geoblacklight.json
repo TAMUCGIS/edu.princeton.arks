@@ -1,31 +1,31 @@
 {
+  "solr_year_i": "1810",
   "uuid": "http://arks.princeton.edu/ark:/88435/g732dc486",
+  "dc_description_s": "Germany north of the Mayn",
+  "georss_box_s": "49.8333333333 6.0 54.3333333333 15.6666666667",
+  "layer_modified_dt": "2015-01-19T22:37:29Z",
   "dc_creator_sm": [
     "Hebert, L.",
     "Neele, Samuel John,",
     "Pinkerton, John,"
   ],
-  "dc_description_s": "Germany north of the Mayn",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "g732dc486",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/g732dc486/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fg7%2F32%2Fdc%2F48%2F6%2F00000001.jp2/info.json\"}",
   "layer_id_s": "g732dc486",
-  "layer_slug_s": "princeton-g732dc486",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:29Z",
-  "dc_title_s": "Germany north of the Mayn",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Germany, Northern",
-    "Poland"
-  ],
+  "dc_identifier_s": "g732dc486",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Germany north of the Mayn",
+  "layer_slug_s": "princeton-g732dc486",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/g732dc486/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/g7/32/dc/48/6/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "54.3333333333 6.0 54.3333333333 15.6666666667 49.8333333333 15.6666666667 49.8333333333 6.0 54.3333333333 6.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1810"
   ],
-  "georss_box_s": "49.8333333333 6.0 54.3333333333 15.6666666667",
-  "georss_polygon_s": "54.3333333333 6.0 54.3333333333 15.6666666667 49.8333333333 15.6666666667 49.8333333333 6.0 54.3333333333 6.0",
   "solr_geom": "ENVELOPE(6.0, 15.6666666667, 54.3333333333, 49.8333333333)",
-  "solr_year_i": "1810"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Germany, Northern",
+    "Poland"
+  ]
 }

@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1605",
   "uuid": "http://arks.princeton.edu/ark:/88435/ww72bd449",
+  "dc_description_s": "Asiae XI. tab.",
+  "georss_box_s": "6.5546079 68.1113787 35.6745457 97.395561",
+  "layer_modified_dt": "2015-01-21T22:23:52Z",
   "dc_creator_sm": [
     "Ptolemy,",
     "McCabe, Robert A.,"
   ],
-  "dc_description_s": "Asiae XI. tab.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "ww72bd449",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/ww72bd449/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fww%2F72%2Fbd%2F44%2F9%2F00000001.jp2/info.json\"}",
   "layer_id_s": "ww72bd449",
-  "layer_slug_s": "princeton-ww72bd449",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:52Z",
-  "dc_title_s": "Asiae XI. tab.",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "India",
-    "Southeast Asia"
-  ],
+  "dc_identifier_s": "ww72bd449",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Asiae XI. tab.",
+  "layer_slug_s": "princeton-ww72bd449",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/ww72bd449/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ww/72/bd/44/9/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "35.6745457 68.1113787 35.6745457 97.395561 6.5546079 97.395561 6.5546079 68.1113787 35.6745457 68.1113787",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1605"
   ],
-  "georss_box_s": "6.5546079 68.1113787 35.6745457 97.395561",
-  "georss_polygon_s": "35.6745457 68.1113787 35.6745457 97.395561 6.5546079 97.395561 6.5546079 68.1113787 35.6745457 68.1113787",
   "solr_geom": "ENVELOPE(68.1113787, 97.395561, 35.6745457, 6.5546079)",
-  "solr_year_i": "1605"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "India",
+    "Southeast Asia"
+  ]
 }

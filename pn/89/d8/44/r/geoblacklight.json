@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1894",
   "uuid": "http://arks.princeton.edu/ark:/88435/pn89d844r",
   "dc_description_s": "Asiae Minoris antiquae : tabula in usum scholarum descripta",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "pn89d844r",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/pn89d844r/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fpn%2F89%2Fd8%2F44%2Fr%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "pn89d844r",
-  "layer_slug_s": "princeton-pn89d844r",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "35.8076804 25.6212891 42.297 44.8176638",
   "layer_modified_dt": "2015-01-25T02:06:09Z",
-  "dc_title_s": "Asiae Minoris antiquae : tabula in usum scholarum descripta",
+  "layer_id_s": "pn89d844r",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Turkey"
-  ],
+  "dc_identifier_s": "pn89d844r",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Asiae Minoris antiquae : tabula in usum scholarum descripta",
+  "layer_slug_s": "princeton-pn89d844r",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/pn89d844r/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/pn/89/d8/44/r/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "42.297 25.6212891 42.297 44.8176638 35.8076804 44.8176638 35.8076804 25.6212891 42.297 25.6212891",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1894"
   ],
-  "georss_box_s": "35.8076804 25.6212891 42.297 44.8176638",
-  "georss_polygon_s": "42.297 25.6212891 42.297 44.8176638 35.8076804 44.8176638 35.8076804 25.6212891 42.297 25.6212891",
   "solr_geom": "ENVELOPE(25.6212891, 44.8176638, 42.297, 35.8076804)",
-  "solr_year_i": "1894"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Turkey"
+  ]
 }

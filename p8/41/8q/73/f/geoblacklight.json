@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1881",
   "uuid": "http://arks.princeton.edu/ark:/88435/p8418q73f",
-  "dc_description_s": "Carte de l'Asie orientale : comprenant l'Empire Chinois, le Japon, les états de l'Indo-Chine et le grand archipel d'Asie ou Malaisie",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "p8418q73f",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/p8418q73f/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fp8%2F41%2F8q%2F73%2Ff%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "p8418q73f",
-  "layer_slug_s": "princeton-p8418q73f",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Carte de l'Asie orientale : comprenant l'Empire Chinois, le Japon, les e\u0301tats de l'Indo-Chine et le grand archipel d'Asie ou Malaisie",
+  "georss_box_s": "3.966232 73.4997347 53.5608154 134.7754563",
   "layer_modified_dt": "2015-01-21T22:24:26Z",
-  "dc_title_s": "Carte de l'Asie orientale : comprenant l'Empire Chinois, le Japon, les états de l'Indo-Chine et le grand archipel d'Asie ou Malaisie",
+  "layer_id_s": "p8418q73f",
   "dc_type_s": "Image",
+  "dc_identifier_s": "p8418q73f",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Carte de l'Asie orientale : comprenant l'Empire Chinois, le Japon, les e\u0301tats de l'Indo-Chine et le grand archipel d'Asie ou Malaisie",
+  "layer_slug_s": "princeton-p8418q73f",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/p8418q73f/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/p8/41/8q/73/f/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "53.5608154 73.4997347 53.5608154 134.7754563 3.966232 134.7754563 3.966232 73.4997347 53.5608154 73.4997347",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1881"
+  ],
+  "solr_geom": "ENVELOPE(73.4997347, 134.7754563, 53.5608154, 3.966232)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "China",
     "Indochina",
     "Japan",
     "Malaysia"
-  ],
-  "dct_temporal_sm": [
-    "1881"
-  ],
-  "georss_box_s": "3.966232 73.4997347 53.5608154 134.7754563",
-  "georss_polygon_s": "53.5608154 73.4997347 53.5608154 134.7754563 3.966232 134.7754563 3.966232 73.4997347 53.5608154 73.4997347",
-  "solr_geom": "ENVELOPE(73.4997347, 134.7754563, 53.5608154, 3.966232)",
-  "solr_year_i": "1881"
+  ]
 }

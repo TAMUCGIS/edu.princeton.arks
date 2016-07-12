@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1932",
   "uuid": "http://arks.princeton.edu/ark:/88435/hh63sx725",
+  "dc_description_s": "Carte geologique detaillee de la France [a 1/80 000]: Metz.",
+  "georss_box_s": "49.10050 5.42870 49.46000 6.31060",
+  "layer_modified_dt": "2015-01-19T22:36:37Z",
   "dc_creator_sm": [
     "De-Launay, Louis"
   ],
-  "dc_description_s": "Carte geologique detaillee de la France [a 1/80 000]: Metz.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "hh63sx725",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/hh63sx725/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fhh%2F63%2Fsx%2F72%2F5%2F00000001.jp2/info.json\"}",
   "layer_id_s": "hh63sx725",
-  "layer_slug_s": "princeton-hh63sx725",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:36:37Z",
-  "dc_title_s": "Carte geologique detaillee de la France [a 1/80 000]: Metz.",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "France"
-  ],
+  "dc_identifier_s": "hh63sx725",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Carte geologique detaillee de la France [a 1/80 000]: Metz.",
+  "layer_slug_s": "princeton-hh63sx725",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/hh63sx725/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/hh/63/sx/72/5/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "49.46000 5.42870 49.46000 6.31060 49.10050 6.31060 49.10050 5.42870 49.46000 5.42870",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1932"
   ],
-  "georss_box_s": "49.10050 5.42870 49.46000 6.31060",
-  "georss_polygon_s": "49.46000 5.42870 49.46000 6.31060 49.10050 6.31060 49.10050 5.42870 49.46000 5.42870",
   "solr_geom": "ENVELOPE(5.42870, 6.31060, 49.46000, 49.10050)",
-  "solr_year_i": "1932"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "France"
+  ]
 }

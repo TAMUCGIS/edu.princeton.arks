@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/m039k687s",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Millburn",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "m039k687s",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fm0%2F39%2Fk6%2F87%2Fs%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "m039k687s",
-  "layer_slug_s": "princeton-m039k687s",
-  "layer_geom_type_s": "Raster",
   "layer_modified_dt": "2015-01-23T16:29:12Z",
+  "solr_geom": "ENVELOPE(-74.3725599, -74.28549, 40.7608679, 40.7133)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/m0/39/k6/87/s/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/m039k687s",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Millburn Township (Sheet 69).",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1912"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "m039k687s",
+  "georss_polygon_s": "40.7608679 -74.3725599 40.7608679 -74.28549 40.7133 -74.28549 40.7133 -74.3725599 40.7608679 -74.3725599",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1912",
   "dct_spatial_sm": [
     "New Jersey",
     "Millburn"
   ],
-  "dct_temporal_sm": [
-    "1912"
-  ],
+  "layer_id_s": "m039k687s",
   "georss_box_s": "40.7133 -74.3725599 40.7608679 -74.28549",
-  "georss_polygon_s": "40.7608679 -74.3725599 40.7608679 -74.28549 40.7133 -74.28549 40.7133 -74.3725599 40.7608679 -74.3725599",
-  "solr_geom": "ENVELOPE(-74.3725599, -74.28549, 40.7608679, 40.7133)",
-  "solr_year_i": "1912"
+  "dc_title_s": "Millburn Township (Sheet 69).",
+  "layer_slug_s": "princeton-m039k687s",
+  "layer_geom_type_s": "Raster",
+  "dc_language_s": "English"
 }

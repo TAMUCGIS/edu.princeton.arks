@@ -1,25 +1,23 @@
 {
+  "solr_year_i": "1914",
   "uuid": "http://arks.princeton.edu/ark:/88435/fq977x25s",
   "dc_description_s": "New map of Asbury Park, Ocean Grove : including Bradley Beach, Deal, Wanamassa, Interlaken, Allenhurst and vicinity",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "fq977x25s",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/fq977x25s/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ffq%2F97%2F7x%2F25%2Fs%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "fq977x25s",
-  "layer_slug_s": "princeton-fq977x25s",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "40.213125 -74.0272559 40.231222 -73.9946809",
   "layer_modified_dt": "2015-01-21T22:24:16Z",
-  "dc_title_s": "New map of Asbury Park, Ocean Grove : including Bradley Beach, Deal, Wanamassa, Interlaken, Allenhurst and vicinity",
+  "layer_id_s": "fq977x25s",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "fq977x25s",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "New map of Asbury Park, Ocean Grove : including Bradley Beach, Deal, Wanamassa, Interlaken, Allenhurst and vicinity",
+  "layer_slug_s": "princeton-fq977x25s",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/fq977x25s/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/fq/97/7x/25/s/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.231222 -74.0272559 40.231222 -73.9946809 40.213125 -73.9946809 40.213125 -74.0272559 40.231222 -74.0272559",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1914"
   ],
-  "georss_box_s": "40.213125 -74.0272559 40.231222 -73.9946809",
-  "georss_polygon_s": "40.231222 -74.0272559 40.231222 -73.9946809 40.213125 -73.9946809 40.213125 -74.0272559 40.231222 -74.0272559",
   "solr_geom": "ENVELOPE(-74.0272559, -73.9946809, 40.231222, 40.213125)",
-  "solr_year_i": "1914"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

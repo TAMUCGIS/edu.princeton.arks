@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1787",
   "uuid": "http://arks.princeton.edu/ark:/88435/xs55mf44k",
-  "dc_description_s": "Nouveau plan des environs de Paris d'après les nouvelles observations de MM. de l'Académie royale des sciences",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "xs55mf44k",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/xs55mf44k/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fxs%2F55%2Fmf%2F44%2Fk%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "xs55mf44k",
-  "layer_slug_s": "princeton-xs55mf44k",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Nouveau plan des environs de Paris d'apre\u0300s les nouvelles observations de MM. de l'Acade\u0301mie royale des sciences",
+  "georss_box_s": "48.8155755 2.224122 48.902156 2.4697602",
   "layer_modified_dt": "2015-01-21T22:23:59Z",
-  "dc_title_s": "Nouveau plan des environs de Paris d'après les nouvelles observations de MM. de l'Académie royale des sciences",
+  "layer_id_s": "xs55mf44k",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Paris (France)"
-  ],
+  "dc_identifier_s": "xs55mf44k",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Nouveau plan des environs de Paris d'apre\u0300s les nouvelles observations de MM. de l'Acade\u0301mie royale des sciences",
+  "layer_slug_s": "princeton-xs55mf44k",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/xs55mf44k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/xs/55/mf/44/k/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "48.902156 2.224122 48.902156 2.4697602 48.8155755 2.4697602 48.8155755 2.224122 48.902156 2.224122",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1787"
   ],
-  "georss_box_s": "48.8155755 2.224122 48.902156 2.4697602",
-  "georss_polygon_s": "48.902156 2.224122 48.902156 2.4697602 48.8155755 2.4697602 48.8155755 2.224122 48.902156 2.224122",
   "solr_geom": "ENVELOPE(2.224122, 2.4697602, 48.902156, 48.8155755)",
-  "solr_year_i": "1787"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Paris (France)"
+  ]
 }

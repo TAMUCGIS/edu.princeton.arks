@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/5q47rq86p",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of South Amboy",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "5q47rq86p",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F5q%2F47%2Frq%2F86%2Fp%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "5q47rq86p",
-  "layer_slug_s": "princeton-5q47rq86p",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:05:48Z",
+  "solr_geom": "ENVELOPE(-74.297673, -74.268088, 40.496252, 40.470172)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/5q/47/rq/86/p/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/5q47rq86p",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "South Amboy, Middlesex County, New Jersey (Sheet 6)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1908"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "5q47rq86p",
+  "georss_polygon_s": "40.496252 -74.297673 40.496252 -74.268088 40.470172 -74.268088 40.470172 -74.297673 40.496252 -74.297673",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1908",
   "dct_spatial_sm": [
     "New Jersey",
     "South Amboy"
   ],
-  "dct_temporal_sm": [
-    "1908"
-  ],
+  "layer_id_s": "5q47rq86p",
   "georss_box_s": "40.470172 -74.297673 40.496252 -74.268088",
-  "georss_polygon_s": "40.496252 -74.297673 40.496252 -74.268088 40.470172 -74.268088 40.470172 -74.297673 40.496252 -74.297673",
-  "solr_geom": "ENVELOPE(-74.297673, -74.268088, 40.496252, 40.470172)",
-  "solr_year_i": "1908"
+  "dc_title_s": "South Amboy, Middlesex County, New Jersey (Sheet 6)",
+  "layer_slug_s": "princeton-5q47rq86p",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

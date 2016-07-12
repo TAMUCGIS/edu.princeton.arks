@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1901",
   "uuid": "http://arks.princeton.edu/ark:/88435/n009w4809",
   "dc_description_s": "County Down, Province of Ulster, Ireland",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "n009w4809",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/n009w4809/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fn0%2F09%2Fw4%2F80%2F9%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "n009w4809",
-  "layer_slug_s": "princeton-n009w4809",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "53.3176805 -7.2875362 53.3304224 -7.2453493",
   "layer_modified_dt": "2015-01-21T22:24:24Z",
-  "dc_title_s": "County Down, Province of Ulster, Ireland",
+  "layer_id_s": "n009w4809",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Down (Northern Ireland : County)"
-  ],
+  "dc_identifier_s": "n009w4809",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "County Down, Province of Ulster, Ireland",
+  "layer_slug_s": "princeton-n009w4809",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/n009w4809/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/n0/09/w4/80/9/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "53.3304224 -7.2875362 53.3304224 -7.2453493 53.3176805 -7.2453493 53.3176805 -7.2875362 53.3304224 -7.2875362",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1901"
   ],
-  "georss_box_s": "53.3176805 -7.2875362 53.3304224 -7.2453493",
-  "georss_polygon_s": "53.3304224 -7.2875362 53.3304224 -7.2453493 53.3176805 -7.2453493 53.3176805 -7.2875362 53.3304224 -7.2875362",
   "solr_geom": "ENVELOPE(-7.2875362, -7.2453493, 53.3304224, 53.3176805)",
-  "solr_year_i": "1901"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Down (Northern Ireland : County)"
+  ]
 }

@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/5h73px91b",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Little Silver",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "5h73px91b",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F5h%2F73%2Fpx%2F91%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "5h73px91b",
-  "layer_slug_s": "princeton-5h73px91b",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:01:50Z",
+  "solr_geom": "ENVELOPE(-74.063703, -74.002658, 40.352242, 40.320494)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/5h/73/px/91/b/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/5h73px91b",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Little Silver (Sheet 1)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1907"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "5h73px91b",
+  "georss_polygon_s": "40.352242 -74.063703 40.352242 -74.002658 40.320494 -74.002658 40.320494 -74.063703 40.352242 -74.063703",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1907",
   "dct_spatial_sm": [
     "New Jersey",
     "Little Silver"
   ],
-  "dct_temporal_sm": [
-    "1907"
-  ],
+  "layer_id_s": "5h73px91b",
   "georss_box_s": "40.320494 -74.063703 40.352242 -74.002658",
-  "georss_polygon_s": "40.352242 -74.063703 40.352242 -74.002658 40.320494 -74.002658 40.320494 -74.063703 40.352242 -74.063703",
-  "solr_geom": "ENVELOPE(-74.063703, -74.002658, 40.352242, 40.320494)",
-  "solr_year_i": "1907"
+  "dc_title_s": "Little Silver (Sheet 1)",
+  "layer_slug_s": "princeton-5h73px91b",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

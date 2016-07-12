@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1911",
   "uuid": "http://arks.princeton.edu/ark:/88435/8336h436v",
+  "dc_description_s": "Carte pour cyclistes & automobiles de la Belgique, section est",
+  "georss_box_s": "49.4969821 2.3889137 51.5516667 6.4080405",
+  "layer_modified_dt": "2015-01-21T22:24:10Z",
   "dc_creator_sm": [
     "Taride, A."
   ],
-  "dc_description_s": "Carte pour cyclistes & automobiles de la Belgique, section est",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "8336h436v",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/8336h436v/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F83%2F36%2Fh4%2F36%2Fv%2F00000001.jp2/info.json\"}",
   "layer_id_s": "8336h436v",
-  "layer_slug_s": "princeton-8336h436v",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:10Z",
-  "dc_title_s": "Carte pour cyclistes & automobiles de la Belgique, section est",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Belgium"
-  ],
+  "dc_identifier_s": "8336h436v",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Carte pour cyclistes & automobiles de la Belgique, section est",
+  "layer_slug_s": "princeton-8336h436v",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/8336h436v/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/83/36/h4/36/v/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "51.5516667 2.3889137 51.5516667 6.4080405 49.4969821 6.4080405 49.4969821 2.3889137 51.5516667 2.3889137",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1911"
   ],
-  "georss_box_s": "49.4969821 2.3889137 51.5516667 6.4080405",
-  "georss_polygon_s": "51.5516667 2.3889137 51.5516667 6.4080405 49.4969821 6.4080405 49.4969821 2.3889137 51.5516667 2.3889137",
   "solr_geom": "ENVELOPE(2.3889137, 6.4080405, 51.5516667, 49.4969821)",
-  "solr_year_i": "1911"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Belgium"
+  ]
 }

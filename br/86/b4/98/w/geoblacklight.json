@@ -2,7 +2,7 @@
   "dc_description_s": "This is a map of the city of Bari, Italy, shown at a 1:10,000 scale. The map was created for use by War and Navy Department agencies during World War II.",
   "layer_modified_dt": "2015-01-11T17:42:27Z",
   "solr_geom": "ENVELOPE(16.850, 16.900, 41.150, 41.100)",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fbr%2F86%2Fb4%2F98%2Fw%2F00000001.jp2/info.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/br86b498w/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/br86b498w/preview.jpg\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/br86b498w/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/br/86/b4/98/w/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/br86b498w/preview.jpg\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/br86b498w",
   "dct_provenance_s": "Princeton",
@@ -18,7 +18,7 @@
     "Port"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "1942",
+  "layer_slug_s": "princeton-br86b498w",
   "dc_creator_sm": [
     "Army Map Service"
   ],
@@ -36,7 +36,7 @@
   "layer_id_s": "br86b498w",
   "georss_box_s": "41.100 16.850 41.150 16.900",
   "dc_title_s": "Town plan of Bari. G.S.G.S. no. 4380.",
-  "layer_slug_s": "princeton-br86b498w",
+  "dct_issued_s": "1942",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1914",
   "uuid": "http://arks.princeton.edu/ark:/88435/8g84mp73v",
   "dc_description_s": "Chart of the different entrances on the Dutch coast to Rotterdam",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "8g84mp73v",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/8g84mp73v/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F8g%2F84%2Fmp%2F73%2Fv%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "8g84mp73v",
-  "layer_slug_s": "princeton-8g84mp73v",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "51.8616672 4.3793095 51.9942815 4.6018083",
   "layer_modified_dt": "2015-01-21T22:24:11Z",
-  "dc_title_s": "Chart of the different entrances on the Dutch coast to Rotterdam",
+  "layer_id_s": "8g84mp73v",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Rotterdam (Netherlands)"
-  ],
+  "dc_identifier_s": "8g84mp73v",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Chart of the different entrances on the Dutch coast to Rotterdam",
+  "layer_slug_s": "princeton-8g84mp73v",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/8g84mp73v/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/8g/84/mp/73/v/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "51.9942815 4.3793095 51.9942815 4.6018083 51.8616672 4.6018083 51.8616672 4.3793095 51.9942815 4.3793095",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1914"
   ],
-  "georss_box_s": "51.8616672 4.3793095 51.9942815 4.6018083",
-  "georss_polygon_s": "51.9942815 4.3793095 51.9942815 4.6018083 51.8616672 4.6018083 51.8616672 4.3793095 51.9942815 4.3793095",
   "solr_geom": "ENVELOPE(4.3793095, 4.6018083, 51.9942815, 51.8616672)",
-  "solr_year_i": "1914"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Rotterdam (Netherlands)"
+  ]
 }

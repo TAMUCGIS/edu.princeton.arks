@@ -1,30 +1,28 @@
 {
+  "solr_year_i": "1875",
   "uuid": "http://arks.princeton.edu/ark:/88435/w3763858d",
+  "dc_description_s": "Map of the clay district of Middlesex Co.: showing location of beds of stoneware clay, kaolin and fire clay.",
+  "georss_box_s": "40.33333 -74.66667 40.61667 -74.16667",
+  "layer_modified_dt": "2015-01-19T22:36:35Z",
   "dc_creator_sm": [
     "Barton, Jackson M.",
     "Cook, George Hammell",
     "Smock, John Conover"
   ],
-  "dc_description_s": "Map of the clay district of Middlesex Co.: showing location of beds of stoneware clay, kaolin and fire clay.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "w3763858d",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/w3763858d/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fw3%2F76%2F38%2F58%2Fd%2F00000001.jp2/info.json\"}",
   "layer_id_s": "w3763858d",
-  "layer_slug_s": "princeton-w3763858d",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:36:35Z",
-  "dc_title_s": "Map of the clay district of Middlesex Co.: showing location of beds of stoneware clay, kaolin and fire clay.",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "w3763858d",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Map of the clay district of Middlesex Co.: showing location of beds of stoneware clay, kaolin and fire clay.",
+  "layer_slug_s": "princeton-w3763858d",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/w3763858d/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/w3/76/38/58/d/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.61667 -74.66667 40.61667 -74.16667 40.33333 -74.16667 40.33333 -74.66667 40.61667 -74.66667",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1875"
   ],
-  "georss_box_s": "40.33333 -74.66667 40.61667 -74.16667",
-  "georss_polygon_s": "40.61667 -74.66667 40.61667 -74.16667 40.33333 -74.16667 40.33333 -74.66667 40.61667 -74.66667",
   "solr_geom": "ENVELOPE(-74.66667, -74.16667, 40.61667, 40.33333)",
-  "solr_year_i": "1875"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

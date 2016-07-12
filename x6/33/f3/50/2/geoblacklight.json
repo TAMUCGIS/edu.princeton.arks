@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1855",
   "uuid": "http://arks.princeton.edu/ark:/88435/x633f3502",
-  "dc_creator_sm": [
-    "Lanée,"
-  ],
-  "dc_description_s": "Carte hydrographique de la partie septentrionale de la Haute Egypte : où sont indiqués les travaux d'arrosage exécutés et à exécuter d'après les ordres de son altesse Méhémet-Ali, vice-roi d'Égypte",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "x633f3502",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/x633f3502/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fx6%2F33%2Ff3%2F50%2F2%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "x633f3502",
-  "layer_slug_s": "princeton-x633f3502",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Carte hydrographique de la partie septentrionale de la Haute Egypte : ou\u0300 sont indique\u0301s les travaux d'arrosage exe\u0301cute\u0301s et a\u0300 exe\u0301cuter d'apre\u0300s les ordres de son altesse Me\u0301he\u0301met-Ali, vice-roi d'E\u0301gypte",
+  "georss_box_s": "21.9999975 24.706389 31.8330854 37.1153517",
   "layer_modified_dt": "2015-01-21T22:24:11Z",
-  "dc_title_s": "Carte hydrographique de la partie septentrionale de la Haute Egypte : où sont indiqués les travaux d'arrosage exécutés et à exécuter d'après les ordres de son altesse Méhémet-Ali, vice-roi d'Égypte",
-  "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Egypt",
-    "Nile River"
+  "dc_creator_sm": [
+    "Lane\u0301e,"
   ],
+  "layer_id_s": "x633f3502",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "x633f3502",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Carte hydrographique de la partie septentrionale de la Haute Egypte : ou\u0300 sont indique\u0301s les travaux d'arrosage exe\u0301cute\u0301s et a\u0300 exe\u0301cuter d'apre\u0300s les ordres de son altesse Me\u0301he\u0301met-Ali, vice-roi d'E\u0301gypte",
+  "layer_slug_s": "princeton-x633f3502",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/x633f3502/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/x6/33/f3/50/2/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "31.8330854 24.706389 31.8330854 37.1153517 21.9999975 37.1153517 21.9999975 24.706389 31.8330854 24.706389",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1855"
   ],
-  "georss_box_s": "21.9999975 24.706389 31.8330854 37.1153517",
-  "georss_polygon_s": "31.8330854 24.706389 31.8330854 37.1153517 21.9999975 37.1153517 21.9999975 24.706389 31.8330854 24.706389",
   "solr_geom": "ENVELOPE(24.706389, 37.1153517, 31.8330854, 21.9999975)",
-  "solr_year_i": "1855"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Egypt",
+    "Nile River"
+  ]
 }

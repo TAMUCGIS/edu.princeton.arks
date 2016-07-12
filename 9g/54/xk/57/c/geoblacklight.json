@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/9g54xk57c",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Wyckoff Township",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "9g54xk57c",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F9g%2F54%2Fxk%2F57%2Fc%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "9g54xk57c",
-  "layer_slug_s": "princeton-9g54xk57c",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:02:27Z",
+  "solr_geom": "ENVELOPE(-74.191843, -74.137536, 41.02585, 40.971137)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/9g/54/xk/57/c/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/9g54xk57c",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Wyckoff Township, Bergen County, New Jersey (Sheet 1).",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1932"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "9g54xk57c",
+  "georss_polygon_s": "41.02585 -74.191843 41.02585 -74.137536 40.971137 -74.137536 40.971137 -74.191843 41.02585 -74.191843",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1932",
   "dct_spatial_sm": [
     "New Jersey",
     "Wyckoff Township"
   ],
-  "dct_temporal_sm": [
-    "1932"
-  ],
+  "layer_id_s": "9g54xk57c",
   "georss_box_s": "40.971137 -74.191843 41.02585 -74.137536",
-  "georss_polygon_s": "41.02585 -74.191843 41.02585 -74.137536 40.971137 -74.137536 40.971137 -74.191843 41.02585 -74.191843",
-  "solr_geom": "ENVELOPE(-74.191843, -74.137536, 41.02585, 40.971137)",
-  "solr_year_i": "1932"
+  "dc_title_s": "Wyckoff Township, Bergen County, New Jersey (Sheet 1).",
+  "layer_slug_s": "princeton-9g54xk57c",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

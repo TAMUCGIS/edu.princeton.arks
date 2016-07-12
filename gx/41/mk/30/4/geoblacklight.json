@@ -2,7 +2,7 @@
   "dc_description_s": "This is a map of Czechoslovakia. The map was created by the Central Intelligence Agency.",
   "layer_modified_dt": "2015-01-11T17:42:37Z",
   "solr_geom": "ENVELOPE(12, 19, 52, 47)",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fgx%2F41%2Fmk%2F30%2F4%2F00000001.jp2/info.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/gx41mk304/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/gx41mk304/preview.jpg\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/gx41mk304/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/gx/41/mk/30/4/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/gx41mk304/preview.jpg\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/gx41mk304",
   "dct_provenance_s": "Princeton",
@@ -13,7 +13,7 @@
     "Administrative and Political Boundaries"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "March 1985",
+  "layer_slug_s": "princeton-gx41mk304",
   "dc_creator_sm": [
     "Central Intelligence Agency"
   ],
@@ -29,7 +29,7 @@
   "layer_id_s": "gx41mk304",
   "georss_box_s": "47 12 52 19",
   "dc_title_s": "Czechoslovakia. (1985). ",
-  "layer_slug_s": "princeton-gx41mk304",
+  "dct_issued_s": "March 1985",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

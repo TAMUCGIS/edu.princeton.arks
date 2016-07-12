@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1690",
   "uuid": "http://arks.princeton.edu/ark:/88435/08612q899",
-  "dc_description_s": "Novi Belgii, Novæque Angliæ nec non Pennsylvaniæ et partis Virginiæ tabula /",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "08612q899",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/08612q899/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F08%2F61%2F2q%2F89%2F9%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "08612q899",
-  "layer_slug_s": "princeton-08612q899",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Novi Belgii, Nov\u00e6que Angli\u00e6 nec non Pennsylvani\u00e6 et partis Virgini\u00e6 tabula /",
+  "georss_box_s": "40.950943 -73.727775 47.459686 -66.8850751",
   "layer_modified_dt": "2015-01-25T02:06:11Z",
-  "dc_title_s": "Novi Belgii, Novæque Angliæ nec non Pennsylvaniæ et partis Virginiæ tabula /",
+  "layer_id_s": "08612q899",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "New England",
-    "Middle Atlantic States"
-  ],
+  "dc_identifier_s": "08612q899",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Novi Belgii, Nov\u00e6que Angli\u00e6 nec non Pennsylvani\u00e6 et partis Virgini\u00e6 tabula /",
+  "layer_slug_s": "princeton-08612q899",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/08612q899/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/08/61/2q/89/9/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "47.459686 -73.727775 47.459686 -66.8850751 40.950943 -66.8850751 40.950943 -73.727775 47.459686 -73.727775",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1690"
   ],
-  "georss_box_s": "40.950943 -73.727775 47.459686 -66.8850751",
-  "georss_polygon_s": "47.459686 -73.727775 47.459686 -66.8850751 40.950943 -66.8850751 40.950943 -73.727775 47.459686 -73.727775",
   "solr_geom": "ENVELOPE(-73.727775, -66.8850751, 47.459686, 40.950943)",
-  "solr_year_i": "1690"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "New England",
+    "Middle Atlantic States"
+  ]
 }

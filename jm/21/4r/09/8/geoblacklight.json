@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/jm214r098",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Millville",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "jm214r098",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fm%2F21%2F4r%2F09%2F8%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "jm214r098",
-  "layer_slug_s": "princeton-jm214r098",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:02:47Z",
+  "solr_geom": "ENVELOPE(-75.14901, -74.950823, 39.44701, 39.332481)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/jm/21/4r/09/8/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/jm214r098",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Millville, New Jersey (Sheet 5)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1886"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "jm214r098",
+  "georss_polygon_s": "39.44701 -75.14901 39.44701 -74.950823 39.332481 -74.950823 39.332481 -75.14901 39.44701 -75.14901",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1886",
   "dct_spatial_sm": [
     "New Jersey",
     "Millville"
   ],
-  "dct_temporal_sm": [
-    "1886"
-  ],
+  "layer_id_s": "jm214r098",
   "georss_box_s": "39.332481 -75.14901 39.44701 -74.950823",
-  "georss_polygon_s": "39.44701 -75.14901 39.44701 -74.950823 39.332481 -74.950823 39.332481 -75.14901 39.44701 -75.14901",
-  "solr_geom": "ENVELOPE(-75.14901, -74.950823, 39.44701, 39.332481)",
-  "solr_year_i": "1886"
+  "dc_title_s": "Millville, New Jersey (Sheet 5)",
+  "layer_slug_s": "princeton-jm214r098",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

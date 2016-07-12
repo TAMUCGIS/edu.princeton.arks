@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1900",
   "uuid": "http://arks.princeton.edu/ark:/88435/qn59q6492",
   "dc_description_s": "[Buckinghamshire]",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "qn59q6492",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/qn59q6492/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fqn%2F59%2Fq6%2F49%2F2%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "qn59q6492",
-  "layer_slug_s": "princeton-qn59q6492",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "51.4854689 -1.1406963 52.0815218 -0.4766155",
   "layer_modified_dt": "2015-01-21T22:24:21Z",
-  "dc_title_s": "[Buckinghamshire]",
+  "layer_id_s": "qn59q6492",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Buckinghamshire (England)"
-  ],
+  "dc_identifier_s": "qn59q6492",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "[Buckinghamshire]",
+  "layer_slug_s": "princeton-qn59q6492",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/qn59q6492/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/qn/59/q6/49/2/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "52.0815218 -1.1406963 52.0815218 -0.4766155 51.4854689 -0.4766155 51.4854689 -1.1406963 52.0815218 -1.1406963",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1900"
   ],
-  "georss_box_s": "51.4854689 -1.1406963 52.0815218 -0.4766155",
-  "georss_polygon_s": "52.0815218 -1.1406963 52.0815218 -0.4766155 51.4854689 -0.4766155 51.4854689 -1.1406963 52.0815218 -1.1406963",
   "solr_geom": "ENVELOPE(-1.1406963, -0.4766155, 52.0815218, 51.4854689)",
-  "solr_year_i": "1900"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Buckinghamshire (England)"
+  ]
 }

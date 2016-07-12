@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1892",
   "uuid": "http://arks.princeton.edu/ark:/88435/gq67jt71k",
   "dc_description_s": "Sangerhausen",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "gq67jt71k",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/gq67jt71k/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fgq%2F67%2Fjt%2F71%2Fk%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "gq67jt71k",
-  "layer_slug_s": "princeton-gq67jt71k",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "51.4143535 11.0710041 51.5986401 11.3870626",
   "layer_modified_dt": "2015-01-21T22:24:29Z",
-  "dc_title_s": "Sangerhausen",
+  "layer_id_s": "gq67jt71k",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Sangerhausen (Germany)",
-    "Saxony-Anhalt (Germany)"
-  ],
+  "dc_identifier_s": "gq67jt71k",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Sangerhausen",
+  "layer_slug_s": "princeton-gq67jt71k",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/gq67jt71k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/gq/67/jt/71/k/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "51.5986401 11.0710041 51.5986401 11.3870626 51.4143535 11.3870626 51.4143535 11.0710041 51.5986401 11.0710041",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1892"
   ],
-  "georss_box_s": "51.4143535 11.0710041 51.5986401 11.3870626",
-  "georss_polygon_s": "51.5986401 11.0710041 51.5986401 11.3870626 51.4143535 11.3870626 51.4143535 11.0710041 51.5986401 11.0710041",
   "solr_geom": "ENVELOPE(11.0710041, 11.3870626, 51.5986401, 51.4143535)",
-  "solr_year_i": "1892"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Sangerhausen (Germany)",
+    "Saxony-Anhalt (Germany)"
+  ]
 }

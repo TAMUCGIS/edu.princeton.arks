@@ -2,7 +2,7 @@
   "dc_description_s": "This is a map of Afghanistan, Pakistan, and parts of Iran and India, 1562.",
   "layer_modified_dt": "2015-01-11T17:43:27Z",
   "solr_geom": "ENVELOPE(56.9782, 72.421, 37.7596, 24.0284)",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F6m%2F31%2F1q%2F99%2Fn%2F00000001.jp2/info.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/6m311q99n/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/6m311q99n/preview.jpg\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/6m311q99n/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/6m/31/1q/99/n/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/6m311q99n/preview.jpg\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/6m311q99n",
   "dct_provenance_s": "Princeton",
@@ -12,7 +12,7 @@
     "Historical"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "1562",
+  "layer_slug_s": "princeton-6m311q99n",
   "dc_creator_sm": [
     "Girolamo Ruscelli"
   ],
@@ -31,7 +31,7 @@
   "layer_id_s": "6m311q99n",
   "georss_box_s": "24.0284 56.9782 37.7596 72.421",
   "dc_title_s": "Tabula Asiae IX",
-  "layer_slug_s": "princeton-6m311q99n",
+  "dct_issued_s": "1562",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

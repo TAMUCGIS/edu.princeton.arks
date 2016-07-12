@@ -1,31 +1,31 @@
 {
+  "solr_year_i": "1895",
   "uuid": "http://arks.princeton.edu/ark:/88435/9593tx61b",
+  "dc_description_s": "A map of the state of Pennsylvania",
+  "georss_box_s": "39.7197662 -80.5210832 42.5146891 -74.6895019",
+  "layer_modified_dt": "2015-01-21T22:24:16Z",
   "dc_creator_sm": [
     "Phillips, James",
     "Ellenaker, J. Watson,"
   ],
-  "dc_description_s": "A map of the state of Pennsylvania",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "9593tx61b",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/9593tx61b/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F95%2F93%2Ftx%2F61%2F00000001.jp2/info.json\"}",
   "layer_id_s": "9593tx61b",
-  "layer_slug_s": "princeton-9593tx61b",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:16Z",
-  "dc_title_s": "A map of the state of Pennsylvania",
   "dc_type_s": "Image",
+  "dc_identifier_s": "9593tx61b",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "A map of the state of Pennsylvania",
+  "layer_slug_s": "princeton-9593tx61b",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/9593tx61b/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/95/93/tx/61/b/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "42.5146891 -80.5210832 42.5146891 -74.6895019 39.7197662 -74.6895019 39.7197662 -80.5210832 42.5146891 -80.5210832",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1895"
+  ],
+  "solr_geom": "ENVELOPE(-80.5210832, -74.6895019, 42.5146891, 39.7197662)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Pennsylvania",
     "Pennsylvania",
     "Pennsylvania"
-  ],
-  "dct_temporal_sm": [
-    "1895"
-  ],
-  "georss_box_s": "39.7197662 -80.5210832 42.5146891 -74.6895019",
-  "georss_polygon_s": "42.5146891 -80.5210832 42.5146891 -74.6895019 39.7197662 -74.6895019 39.7197662 -80.5210832 42.5146891 -80.5210832",
-  "solr_geom": "ENVELOPE(-80.5210832, -74.6895019, 42.5146891, 39.7197662)",
-  "solr_year_i": "1895"
+  ]
 }

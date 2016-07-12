@@ -1,30 +1,28 @@
 {
+  "solr_year_i": "1867",
   "uuid": "http://arks.princeton.edu/ark:/88435/9880vt49x",
+  "dc_description_s": "Map of zinc mines, Sussex County",
+  "georss_box_s": "40.899055 -74.9917892 41.357423 -74.3658969",
+  "layer_modified_dt": "2015-01-21T22:24:23Z",
   "dc_creator_sm": [
     "Cook, George Hammell,",
     "Hopkins, Griffith Morgan,",
     "Smock, John C."
   ],
-  "dc_description_s": "Map of zinc mines, Sussex County",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "9880vt49x",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/9880vt49x/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F98%2F80%2Fvt%2F49%2Fx%2F00000001.jp2/info.json\"}",
   "layer_id_s": "9880vt49x",
-  "layer_slug_s": "princeton-9880vt49x",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:23Z",
-  "dc_title_s": "Map of zinc mines, Sussex County",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "9880vt49x",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Map of zinc mines, Sussex County",
+  "layer_slug_s": "princeton-9880vt49x",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/9880vt49x/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/98/80/vt/49/x/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "41.357423 -74.9917892 41.357423 -74.3658969 40.899055 -74.3658969 40.899055 -74.9917892 41.357423 -74.9917892",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1867"
   ],
-  "georss_box_s": "40.899055 -74.9917892 41.357423 -74.3658969",
-  "georss_polygon_s": "41.357423 -74.9917892 41.357423 -74.3658969 40.899055 -74.3658969 40.899055 -74.9917892 41.357423 -74.9917892",
   "solr_geom": "ENVELOPE(-74.9917892, -74.3658969, 41.357423, 40.899055)",
-  "solr_year_i": "1867"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

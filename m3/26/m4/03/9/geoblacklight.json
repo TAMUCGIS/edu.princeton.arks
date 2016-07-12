@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/m326m4039",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Linden",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "m326m4039",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fm3%2F26%2Fm4%2F03%2F9%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "m326m4039",
-  "layer_slug_s": "princeton-m326m4039",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:10:05Z",
+  "solr_geom": "ENVELOPE(-74.290699, -74.201209, 40.654927, 40.593847)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/m3/26/m4/03/9/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/m326m4039",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Linden, Union Co., New Jersey (Overview)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1920"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "m326m4039",
+  "georss_polygon_s": "40.654927 -74.290699 40.654927 -74.201209 40.593847 -74.201209 40.593847 -74.290699 40.654927 -74.290699",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1920",
   "dct_spatial_sm": [
     "New Jersey",
     "Linden"
   ],
-  "dct_temporal_sm": [
-    "1920"
-  ],
+  "layer_id_s": "m326m4039",
   "georss_box_s": "40.593847 -74.290699 40.654927 -74.201209",
-  "georss_polygon_s": "40.654927 -74.290699 40.654927 -74.201209 40.593847 -74.201209 40.593847 -74.290699 40.654927 -74.290699",
-  "solr_geom": "ENVELOPE(-74.290699, -74.201209, 40.654927, 40.593847)",
-  "solr_year_i": "1920"
+  "dc_title_s": "Linden, Union Co., New Jersey (Overview)",
+  "layer_slug_s": "princeton-m326m4039",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

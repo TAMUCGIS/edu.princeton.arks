@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1863",
   "uuid": "http://arks.princeton.edu/ark:/88435/bg257g913",
   "dc_description_s": "Map of public surveys in Colorado territory : to accompany a report of the Surveyor General /",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "bg257g913",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/bg257g913/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fg%2F25%2F7g%2F91%2F3%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "bg257g913",
-  "layer_slug_s": "princeton-bg257g913",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "36.992426 -109.060256 41.00236 -102.0415849",
   "layer_modified_dt": "2015-01-21T22:23:46Z",
-  "dc_title_s": "Map of public surveys in Colorado territory : to accompany a report of the Surveyor General /",
+  "layer_id_s": "bg257g913",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Colorado"
-  ],
+  "dc_identifier_s": "bg257g913",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Map of public surveys in Colorado territory : to accompany a report of the Surveyor General /",
+  "layer_slug_s": "princeton-bg257g913",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/bg257g913/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/bg/25/7g/91/3/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "41.00236 -109.060256 41.00236 -102.0415849 36.992426 -102.0415849 36.992426 -109.060256 41.00236 -109.060256",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1863"
   ],
-  "georss_box_s": "36.992426 -109.060256 41.00236 -102.0415849",
-  "georss_polygon_s": "41.00236 -109.060256 41.00236 -102.0415849 36.992426 -102.0415849 36.992426 -109.060256 41.00236 -109.060256",
   "solr_geom": "ENVELOPE(-109.060256, -102.0415849, 41.00236, 36.992426)",
-  "solr_year_i": "1863"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Colorado"
+  ]
 }

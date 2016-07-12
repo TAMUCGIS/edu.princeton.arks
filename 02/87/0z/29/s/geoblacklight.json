@@ -1,29 +1,27 @@
 {
+  "solr_year_i": "1862",
   "uuid": "http://arks.princeton.edu/ark:/88435/02870z29s",
+  "dc_description_s": "Old New York, \"The Bouwery\" : from the map presented to the N.Y. Historical Society by Benj. Robert Winthrop Esq.",
+  "georss_box_s": "40.7223842 -73.9933218 40.7242313 -73.9926443",
+  "layer_modified_dt": "2015-01-21T22:24:01Z",
   "dc_creator_sm": [
     "Valentine, D. T.",
     "Fox, N. B.,"
   ],
-  "dc_description_s": "Old New York, \"The Bouwery\" : from the map presented to the N.Y. Historical Society by Benj. Robert Winthrop Esq.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "02870z29s",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/02870z29s/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F02%2F87%2F0z%2F29%2Fs%2F00000001.jp2/info.json\"}",
   "layer_id_s": "02870z29s",
-  "layer_slug_s": "princeton-02870z29s",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:01Z",
-  "dc_title_s": "Old New York, \"The Bouwery\" : from the map presented to the N.Y. Historical Society by Benj. Robert Winthrop Esq.",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "02870z29s",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Old New York, \"The Bouwery\" : from the map presented to the N.Y. Historical Society by Benj. Robert Winthrop Esq.",
+  "layer_slug_s": "princeton-02870z29s",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/02870z29s/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/02/87/0z/29/s/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.7242313 -73.9933218 40.7242313 -73.9926443 40.7223842 -73.9926443 40.7223842 -73.9933218 40.7242313 -73.9933218",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1862"
   ],
-  "georss_box_s": "40.7223842 -73.9933218 40.7242313 -73.9926443",
-  "georss_polygon_s": "40.7242313 -73.9933218 40.7242313 -73.9926443 40.7223842 -73.9926443 40.7223842 -73.9933218 40.7242313 -73.9933218",
   "solr_geom": "ENVELOPE(-73.9933218, -73.9926443, 40.7242313, 40.7223842)",
-  "solr_year_i": "1862"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

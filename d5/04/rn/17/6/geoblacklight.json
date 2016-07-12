@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1899",
   "uuid": "http://arks.princeton.edu/ark:/88435/d504rn176",
-  "dc_description_s": "Politisch-militärische Karte von Süd-Afrika : zur Veranschaulichung der Kämpfe zwischen Buren und Engländern bis zur Gegenwart",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "d504rn176",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/d504rn176/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fd5%2F04%2Frn%2F17%2F6%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "d504rn176",
-  "layer_slug_s": "princeton-d504rn176",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Politisch-milita\u0308rische Karte von Su\u0308d-Afrika : zur Veranschaulichung der Ka\u0308mpfe zwischen Buren und Engla\u0308ndern bis zur Gegenwart",
+  "georss_box_s": "-34.967 11.4697 -16.9634855 33.0469",
   "layer_modified_dt": "2015-01-21T22:23:45Z",
-  "dc_title_s": "Politisch-militärische Karte von Süd-Afrika : zur Veranschaulichung der Kämpfe zwischen Buren und Engländern bis zur Gegenwart",
+  "layer_id_s": "d504rn176",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Africa, Southern"
-  ],
+  "dc_identifier_s": "d504rn176",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Politisch-milita\u0308rische Karte von Su\u0308d-Afrika : zur Veranschaulichung der Ka\u0308mpfe zwischen Buren und Engla\u0308ndern bis zur Gegenwart",
+  "layer_slug_s": "princeton-d504rn176",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/d504rn176/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/d5/04/rn/17/6/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "-16.9634855 11.4697 -16.9634855 33.0469 -34.967 33.0469 -34.967 11.4697 -16.9634855 11.4697",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1899"
   ],
-  "georss_box_s": "-34.967 11.4697 -16.9634855 33.0469",
-  "georss_polygon_s": "-16.9634855 11.4697 -16.9634855 33.0469 -34.967 33.0469 -34.967 11.4697 -16.9634855 11.4697",
   "solr_geom": "ENVELOPE(11.4697, 33.0469, -16.9634855, -34.967)",
-  "solr_year_i": "1899"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Africa, Southern"
+  ]
 }

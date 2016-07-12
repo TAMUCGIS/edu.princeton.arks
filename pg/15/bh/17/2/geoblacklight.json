@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/pg15bh172",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Trenton",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "pg15bh172",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fpg%2F15%2Fbh%2F17%2F2%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "pg15bh172",
-  "layer_slug_s": "princeton-pg15bh172",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:09:21Z",
+  "solr_geom": "ENVELOPE(-74.819582, -74.728904, 40.248298, 40.183834)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/pg/15/bh/17/2/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/pg15bh172",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Insurance maps of Trenton, New Jersey, volume two (Sheet 270).",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1927"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "pg15bh172",
+  "georss_polygon_s": "40.248298 -74.819582 40.248298 -74.728904 40.183834 -74.728904 40.183834 -74.819582 40.248298 -74.819582",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1927",
   "dct_spatial_sm": [
     "New Jersey",
     "Trenton"
   ],
-  "dct_temporal_sm": [
-    "1927"
-  ],
+  "layer_id_s": "pg15bh172",
   "georss_box_s": "40.183834 -74.819582 40.248298 -74.728904",
-  "georss_polygon_s": "40.248298 -74.819582 40.248298 -74.728904 40.183834 -74.728904 40.183834 -74.819582 40.248298 -74.819582",
-  "solr_geom": "ENVELOPE(-74.819582, -74.728904, 40.248298, 40.183834)",
-  "solr_year_i": "1927"
+  "dc_title_s": "Insurance maps of Trenton, New Jersey, volume two (Sheet 270).",
+  "layer_slug_s": "princeton-pg15bh172",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

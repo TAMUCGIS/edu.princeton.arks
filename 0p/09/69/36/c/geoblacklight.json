@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1827",
   "uuid": "http://arks.princeton.edu/ark:/88435/0p096936c",
   "dc_description_s": "The Bermuda Islands : reduced from a survey made between the years 1783 & 97",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "0p096936c",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/0p096936c/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F0p%2F09%2F69%2F36%2Fc%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "0p096936c",
-  "layer_slug_s": "princeton-0p096936c",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "32.2859665 -64.8493807 32.2860665 -64.8492807",
   "layer_modified_dt": "2015-01-21T22:24:08Z",
-  "dc_title_s": "The Bermuda Islands : reduced from a survey made between the years 1783 & 97",
+  "layer_id_s": "0p096936c",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Bermuda Islands"
-  ],
+  "dc_identifier_s": "0p096936c",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "The Bermuda Islands : reduced from a survey made between the years 1783 & 97",
+  "layer_slug_s": "princeton-0p096936c",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/0p096936c/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/0p/09/69/36/c/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "32.2860665 -64.8493807 32.2860665 -64.8492807 32.2859665 -64.8492807 32.2859665 -64.8493807 32.2860665 -64.8493807",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1827"
   ],
-  "georss_box_s": "32.2859665 -64.8493807 32.2860665 -64.8492807",
-  "georss_polygon_s": "32.2860665 -64.8493807 32.2860665 -64.8492807 32.2859665 -64.8492807 32.2859665 -64.8493807 32.2860665 -64.8493807",
   "solr_geom": "ENVELOPE(-64.8493807, -64.8492807, 32.2860665, 32.2859665)",
-  "solr_year_i": "1827"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Bermuda Islands"
+  ]
 }

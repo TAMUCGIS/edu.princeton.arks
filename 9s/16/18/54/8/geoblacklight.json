@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1839",
   "uuid": "http://arks.princeton.edu/ark:/88435/9s1618548",
+  "dc_description_s": "Map of New Jersey and Pennsylvania exhibiting the post offices, post roads, canals, railroads, & c.",
+  "georss_box_s": "38.7911303 -75.5633859 41.357423 -73.8939789",
+  "layer_modified_dt": "2015-01-21T22:23:57Z",
   "dc_creator_sm": [
     "Fox, N. B.,"
   ],
-  "dc_description_s": "Map of New Jersey and Pennsylvania exhibiting the post offices, post roads, canals, railroads, & c.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "9s1618548",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/9s1618548/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F9s%2F16%2F18%2F54%2F8%2F00000001.jp2/info.json\"}",
   "layer_id_s": "9s1618548",
-  "layer_slug_s": "princeton-9s1618548",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:57Z",
-  "dc_title_s": "Map of New Jersey and Pennsylvania exhibiting the post offices, post roads, canals, railroads, & c.",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "New Jersey",
-    "Pennsylvania"
-  ],
+  "dc_identifier_s": "9s1618548",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Map of New Jersey and Pennsylvania exhibiting the post offices, post roads, canals, railroads, & c.",
+  "layer_slug_s": "princeton-9s1618548",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/9s1618548/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/9s/16/18/54/8/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "41.357423 -75.5633859 41.357423 -73.8939789 38.7911303 -73.8939789 38.7911303 -75.5633859 41.357423 -75.5633859",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1839"
   ],
-  "georss_box_s": "38.7911303 -75.5633859 41.357423 -73.8939789",
-  "georss_polygon_s": "41.357423 -75.5633859 41.357423 -73.8939789 38.7911303 -73.8939789 38.7911303 -75.5633859 41.357423 -75.5633859",
   "solr_geom": "ENVELOPE(-75.5633859, -73.8939789, 41.357423, 38.7911303)",
-  "solr_year_i": "1839"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "New Jersey",
+    "Pennsylvania"
+  ]
 }

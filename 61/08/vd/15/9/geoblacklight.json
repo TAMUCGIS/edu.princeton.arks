@@ -1,20 +1,27 @@
 {
+  "solr_year_i": "1878",
   "uuid": "http://arks.princeton.edu/ark:/88435/6108vd159",
+  "dc_description_s": "Map of Turkey in Europe, illustrating the Berlin Congress Treaty, July, 1878",
+  "georss_box_s": "35.8076804 25.6212891 42.297 44.8176638",
+  "layer_modified_dt": "2015-01-21T22:23:49Z",
   "dc_creator_sm": [
     "Mitchell, S. Augustus"
   ],
-  "dc_description_s": "Map of Turkey in Europe, illustrating the Berlin Congress Treaty, July, 1878",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "6108vd159",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/6108vd159/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F61%2F08%2Fvd%2F15%2F9%2F00000001.jp2/info.json\"}",
   "layer_id_s": "6108vd159",
-  "layer_slug_s": "princeton-6108vd159",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:49Z",
-  "dc_title_s": "Map of Turkey in Europe, illustrating the Berlin Congress Treaty, July, 1878",
   "dc_type_s": "Image",
+  "dc_identifier_s": "6108vd159",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Map of Turkey in Europe, illustrating the Berlin Congress Treaty, July, 1878",
+  "layer_slug_s": "princeton-6108vd159",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/6108vd159/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/61/08/vd/15/9/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "42.297 25.6212891 42.297 44.8176638 35.8076804 44.8176638 35.8076804 25.6212891 42.297 25.6212891",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1878"
+  ],
+  "solr_geom": "ENVELOPE(25.6212891, 44.8176638, 42.297, 35.8076804)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Turkey",
     "Turkey",
@@ -22,12 +29,5 @@
     "Balkan Peninsula",
     "Armenia",
     "Armenia"
-  ],
-  "dct_temporal_sm": [
-    "1878"
-  ],
-  "georss_box_s": "35.8076804 25.6212891 42.297 44.8176638",
-  "georss_polygon_s": "42.297 25.6212891 42.297 44.8176638 35.8076804 44.8176638 35.8076804 25.6212891 42.297 25.6212891",
-  "solr_geom": "ENVELOPE(25.6212891, 44.8176638, 42.297, 35.8076804)",
-  "solr_year_i": "1878"
+  ]
 }

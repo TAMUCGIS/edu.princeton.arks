@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/mw22v781s",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Trenton",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "mw22v781s",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fmw%2F22%2Fv7%2F81%2Fs%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "mw22v781s",
-  "layer_slug_s": "princeton-mw22v781s",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:11:18Z",
+  "solr_geom": "ENVELOPE(-74.819582, -74.728904, 40.248298, 40.183834)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/mw/22/v7/81/s/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/mw22v781s",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Trenton, N. J., vol. II : skeleton (Sheet 118)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1908"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "mw22v781s",
+  "georss_polygon_s": "40.248298 -74.819582 40.248298 -74.728904 40.183834 -74.728904 40.183834 -74.819582 40.248298 -74.819582",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1908",
   "dct_spatial_sm": [
     "New Jersey",
     "Trenton"
   ],
-  "dct_temporal_sm": [
-    "1908"
-  ],
+  "layer_id_s": "mw22v781s",
   "georss_box_s": "40.183834 -74.819582 40.248298 -74.728904",
-  "georss_polygon_s": "40.248298 -74.819582 40.248298 -74.728904 40.183834 -74.728904 40.183834 -74.819582 40.248298 -74.819582",
-  "solr_geom": "ENVELOPE(-74.819582, -74.728904, 40.248298, 40.183834)",
-  "solr_year_i": "1908"
+  "dc_title_s": "Trenton, N. J., vol. II : skeleton (Sheet 118)",
+  "layer_slug_s": "princeton-mw22v781s",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

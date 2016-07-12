@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1783",
   "uuid": "http://arks.princeton.edu/ark:/88435/dj52w6552",
+  "dc_description_s": "The islands in the \u00c6g\u00e6an Sea",
+  "georss_box_s": "34.7006096 19.2477876 41.7488862 29.7296986",
+  "layer_modified_dt": "2015-01-21T22:23:46Z",
   "dc_creator_sm": [
     "Neele, Samuel John,",
     "Stackhouse, Thomas,"
   ],
-  "dc_description_s": "The islands in the Ægæan Sea",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "dj52w6552",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/dj52w6552/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fdj%2F52%2Fw6%2F55%2F2%2F00000001.jp2/info.json\"}",
   "layer_id_s": "dj52w6552",
-  "layer_slug_s": "princeton-dj52w6552",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:46Z",
-  "dc_title_s": "The islands in the Ægæan Sea",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Greece"
-  ],
+  "dc_identifier_s": "dj52w6552",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "The islands in the \u00c6g\u00e6an Sea",
+  "layer_slug_s": "princeton-dj52w6552",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/dj52w6552/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/dj/52/w6/55/2/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "41.7488862 19.2477876 41.7488862 29.7296986 34.7006096 29.7296986 34.7006096 19.2477876 41.7488862 19.2477876",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1783"
   ],
-  "georss_box_s": "34.7006096 19.2477876 41.7488862 29.7296986",
-  "georss_polygon_s": "41.7488862 19.2477876 41.7488862 29.7296986 34.7006096 29.7296986 34.7006096 19.2477876 41.7488862 19.2477876",
   "solr_geom": "ENVELOPE(19.2477876, 29.7296986, 41.7488862, 34.7006096)",
-  "solr_year_i": "1783"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Greece"
+  ]
 }

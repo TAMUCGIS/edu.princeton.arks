@@ -1,32 +1,32 @@
 {
+  "solr_year_i": "1861",
   "uuid": "http://arks.princeton.edu/ark:/88435/8c97ks87m",
+  "dc_description_s": "South America, west coast, sheet XVIII : Peru and Ecuador, Port Payta to Ayangui Pt.",
+  "georss_box_s": "-5.1 -81.3333333333 -1.9 -79.5666666667",
+  "layer_modified_dt": "2015-01-19T22:37:12Z",
   "dc_creator_sm": [
     "Kellett, Henry,"
   ],
-  "dc_description_s": "South America, west coast, sheet XVIII : Peru and Ecuador, Port Payta to Ayangui Pt.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "8c97ks87m",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/8c97ks87m/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F8c%2F97%2Fks%2F87%2Fm%2F00000001.jp2/info.json\"}",
   "layer_id_s": "8c97ks87m",
-  "layer_slug_s": "princeton-8c97ks87m",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:12Z",
-  "dc_title_s": "South America, west coast, sheet XVIII : Peru and Ecuador, Port Payta to Ayangui Pt.",
   "dc_type_s": "Image",
+  "dc_identifier_s": "8c97ks87m",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "South America, west coast, sheet XVIII : Peru and Ecuador, Port Payta to Ayangui Pt.",
+  "layer_slug_s": "princeton-8c97ks87m",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/8c97ks87m/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/8c/97/ks/87/m/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "-1.9 -81.3333333333 -1.9 -79.5666666667 -5.1 -79.5666666667 -5.1 -81.3333333333 -1.9 -81.3333333333",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1861"
+  ],
+  "solr_geom": "ENVELOPE(-81.3333333333, -79.5666666667, -1.9, -5.1)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Pacific Coast (Ecuador)",
     "Pacific Coast (Peru)",
     "Guayas (Ecuador : Province)",
     "El Oro (Ecuador)",
     "Ecuador"
-  ],
-  "dct_temporal_sm": [
-    "1861"
-  ],
-  "georss_box_s": "-5.1 -81.3333333333 -1.9 -79.5666666667",
-  "georss_polygon_s": "-1.9 -81.3333333333 -1.9 -79.5666666667 -5.1 -79.5666666667 -5.1 -81.3333333333 -1.9 -81.3333333333",
-  "solr_geom": "ENVELOPE(-81.3333333333, -79.5666666667, -1.9, -5.1)",
-  "solr_year_i": "1861"
+  ]
 }

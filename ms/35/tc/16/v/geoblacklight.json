@@ -1,31 +1,31 @@
 {
+  "solr_year_i": "1633",
   "uuid": "http://arks.princeton.edu/ark:/88435/ms35tc16v",
+  "dc_description_s": "Montisferrati Ducatus",
+  "georss_box_s": "44.8773148 8.5540221 44.9397498 8.6404936",
+  "layer_modified_dt": "2015-01-25T02:06:20Z",
   "dc_creator_sm": [
     "Mercator, Gerhard,",
     "Chalmers, William S.,"
   ],
-  "dc_description_s": "Montisferrati Ducatus",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "ms35tc16v",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/ms35tc16v/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fms%2F35%2Ftc%2F16%2Fv%2F00000001.jp2/info.json\"}",
   "layer_id_s": "ms35tc16v",
-  "layer_slug_s": "princeton-ms35tc16v",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:20Z",
-  "dc_title_s": "Montisferrati Ducatus",
   "dc_type_s": "Image",
+  "dc_identifier_s": "ms35tc16v",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Montisferrati Ducatus",
+  "layer_slug_s": "princeton-ms35tc16v",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/ms35tc16v/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ms/35/tc/16/v/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "44.9397498 8.5540221 44.9397498 8.6404936 44.8773148 8.6404936 44.8773148 8.5540221 44.9397498 8.5540221",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1633"
+  ],
+  "solr_geom": "ENVELOPE(8.5540221, 8.6404936, 44.9397498, 44.8773148)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Alessandria (Italy : Province)",
     "Monferrato (Italy)",
     "Piedmont (Italy)"
-  ],
-  "dct_temporal_sm": [
-    "1633"
-  ],
-  "georss_box_s": "44.8773148 8.5540221 44.9397498 8.6404936",
-  "georss_polygon_s": "44.9397498 8.5540221 44.9397498 8.6404936 44.8773148 8.6404936 44.8773148 8.5540221 44.9397498 8.5540221",
-  "solr_geom": "ENVELOPE(8.5540221, 8.6404936, 44.9397498, 44.8773148)",
-  "solr_year_i": "1633"
+  ]
 }

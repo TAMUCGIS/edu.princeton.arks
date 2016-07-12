@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1663",
   "uuid": "http://arks.princeton.edu/ark:/88435/cj82k983z",
+  "dc_description_s": "Territorio di Cremona",
+  "georss_box_s": "45.1245891 9.9863304 45.1569568 10.0588677",
+  "layer_modified_dt": "2015-01-25T02:06:19Z",
   "dc_creator_sm": [
     "Blaeu, Joan,"
   ],
-  "dc_description_s": "Territorio di Cremona",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "cj82k983z",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/cj82k983z/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fcj%2F82%2Fk9%2F83%2Fz%2F00000001.jp2/info.json\"}",
   "layer_id_s": "cj82k983z",
-  "layer_slug_s": "princeton-cj82k983z",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:19Z",
-  "dc_title_s": "Territorio di Cremona",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Cremona (Italy : Province)"
-  ],
+  "dc_identifier_s": "cj82k983z",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Territorio di Cremona",
+  "layer_slug_s": "princeton-cj82k983z",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/cj82k983z/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/cj/82/k9/83/z/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "45.1569568 9.9863304 45.1569568 10.0588677 45.1245891 10.0588677 45.1245891 9.9863304 45.1569568 9.9863304",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1663"
   ],
-  "georss_box_s": "45.1245891 9.9863304 45.1569568 10.0588677",
-  "georss_polygon_s": "45.1569568 9.9863304 45.1569568 10.0588677 45.1245891 10.0588677 45.1245891 9.9863304 45.1569568 9.9863304",
   "solr_geom": "ENVELOPE(9.9863304, 10.0588677, 45.1569568, 45.1245891)",
-  "solr_year_i": "1663"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Cremona (Italy : Province)"
+  ]
 }

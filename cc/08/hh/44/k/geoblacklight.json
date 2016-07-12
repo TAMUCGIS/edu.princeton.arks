@@ -1,32 +1,32 @@
 {
+  "solr_year_i": "1572",
   "uuid": "http://arks.princeton.edu/ark:/88435/cc08hh44k",
+  "dc_description_s": "Tunes, oppidum barbarie & regia sedes : anno 1535. cum a\u0300 Carolo V. Imp. expugnaretur /",
+  "georss_box_s": "36.6401077 10.0247938 36.9601077 10.3447938",
+  "layer_modified_dt": "2015-01-21T22:23:43Z",
   "dc_creator_sm": [
     "Braun, Georg,",
     "Hogenberg, Frans,",
     "McCabe, Robert A.,"
   ],
-  "dc_description_s": "Tunes, oppidum barbarie & regia sedes : anno 1535. cum à Carolo V. Imp. expugnaretur /",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "cc08hh44k",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/cc08hh44k/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fcc%2F08%2Fhh%2F44%2Fk%2F00000001.jp2/info.json\"}",
   "layer_id_s": "cc08hh44k",
-  "layer_slug_s": "princeton-cc08hh44k",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:43Z",
-  "dc_title_s": "Tunes, oppidum barbarie & regia sedes : anno 1535. cum à Carolo V. Imp. expugnaretur /",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Tunis (Tunisia)",
-    "Mahdīyah (Tunisia)",
-    "Peñón de Vélez de la Gomera (Spain)"
-  ],
+  "dc_identifier_s": "cc08hh44k",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Tunes, oppidum barbarie & regia sedes : anno 1535. cum a\u0300 Carolo V. Imp. expugnaretur /",
+  "layer_slug_s": "princeton-cc08hh44k",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/cc08hh44k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/cc/08/hh/44/k/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "36.9601077 10.0247938 36.9601077 10.3447938 36.6401077 10.3447938 36.6401077 10.0247938 36.9601077 10.0247938",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1572"
   ],
-  "georss_box_s": "36.6401077 10.0247938 36.9601077 10.3447938",
-  "georss_polygon_s": "36.9601077 10.0247938 36.9601077 10.3447938 36.6401077 10.3447938 36.6401077 10.0247938 36.9601077 10.0247938",
   "solr_geom": "ENVELOPE(10.0247938, 10.3447938, 36.9601077, 36.6401077)",
-  "solr_year_i": "1572"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Tunis (Tunisia)",
+    "Mahdi\u0304yah (Tunisia)",
+    "Pen\u0303o\u0301n de Ve\u0301lez de la Gomera (Spain)"
+  ]
 }

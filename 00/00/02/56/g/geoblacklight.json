@@ -1,27 +1,27 @@
 {
+  "solr_year_i": "1802",
   "uuid": "http://arks.princeton.edu/ark:/88435/00000256g",
-  "dc_description_s": "Mapa general de España, dividido en sus actuales provincias, islas adyacentes, y reyno de Portugal compuesto con lo mejor que hay impreso, manuscrito, noticias de sus naturales, y sujeto á las observaciones astronómicas /",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "00000256g",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/00000256g/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F00%2F00%2F02%2F56%2Fg%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "00000256g",
-  "layer_slug_s": "princeton-00000256g",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Mapa general de Espan\u0303a, dividido en sus actuales provincias, islas adyacentes, y reyno de Portugal compuesto con lo mejor que hay impreso, manuscrito, noticias de sus naturales, y sujeto a\u0301 las observaciones astrono\u0301micas /",
+  "georss_box_s": "36.2380667008 -9.5035614375 43.7923795 4.3277839",
   "layer_modified_dt": "2015-01-25T02:06:23Z",
-  "dc_title_s": "Mapa general de España, dividido en sus actuales provincias, islas adyacentes, y reyno de Portugal compuesto con lo mejor que hay impreso, manuscrito, noticias de sus naturales, y sujeto á las observaciones astronómicas /",
+  "layer_id_s": "00000256g",
   "dc_type_s": "Image",
+  "dc_identifier_s": "00000256g",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Mapa general de Espan\u0303a, dividido en sus actuales provincias, islas adyacentes, y reyno de Portugal compuesto con lo mejor que hay impreso, manuscrito, noticias de sus naturales, y sujeto a\u0301 las observaciones astrono\u0301micas /",
+  "layer_slug_s": "princeton-00000256g",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/00000256g/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/00/00/02/56/g/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "43.7923795 -9.5035614375 43.7923795 4.3277839 36.2380667008 4.3277839 36.2380667008 -9.5035614375 43.7923795 -9.5035614375",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1802"
+  ],
+  "solr_geom": "ENVELOPE(-9.5035614375, 4.3277839, 43.7923795, 36.2380667008)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Iberian Peninsula",
     "Portugal",
     "Spain"
-  ],
-  "dct_temporal_sm": [
-    "1802"
-  ],
-  "georss_box_s": "36.2380667008 -9.5035614375 43.7923795 4.3277839",
-  "georss_polygon_s": "43.7923795 -9.5035614375 43.7923795 4.3277839 36.2380667008 4.3277839 36.2380667008 -9.5035614375 43.7923795 -9.5035614375",
-  "solr_geom": "ENVELOPE(-9.5035614375, 4.3277839, 43.7923795, 36.2380667008)",
-  "solr_year_i": "1802"
+  ]
 }

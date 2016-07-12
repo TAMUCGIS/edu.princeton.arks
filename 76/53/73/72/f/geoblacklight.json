@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1758",
   "uuid": "http://arks.princeton.edu/ark:/88435/76537372f",
-  "dc_description_s": "L'Empire d'Allemagne divisé par cercles et en ses différens etats, avec les pays limitrophes : où l'on a distingué les places fortes et les ports, avec les routes des postes",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "76537372f",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/76537372f/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F76%2F53%2F73%2F72%2Ff%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "76537372f",
-  "layer_slug_s": "princeton-76537372f",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "L'Empire d'Allemagne divise\u0301 par cercles et en ses diffe\u0301rens etats, avec les pays limitrophes : ou\u0300 l'on a distingue\u0301 les places fortes et les ports, avec les routes des postes",
+  "georss_box_s": "43.1232537253 3.844858125 55.058347 20.13955245",
   "layer_modified_dt": "2015-01-21T22:23:58Z",
-  "dc_title_s": "L'Empire d'Allemagne divisé par cercles et en ses différens etats, avec les pays limitrophes : où l'on a distingué les places fortes et les ports, avec les routes des postes",
+  "layer_id_s": "76537372f",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Holy Roman Empire",
-    "Germany"
-  ],
+  "dc_identifier_s": "76537372f",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "L'Empire d'Allemagne divise\u0301 par cercles et en ses diffe\u0301rens etats, avec les pays limitrophes : ou\u0300 l'on a distingue\u0301 les places fortes et les ports, avec les routes des postes",
+  "layer_slug_s": "princeton-76537372f",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/76537372f/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/76/53/73/72/f/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "55.058347 3.844858125 55.058347 20.13955245 43.1232537253 20.13955245 43.1232537253 3.844858125 55.058347 3.844858125",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1758"
   ],
-  "georss_box_s": "43.1232537253 3.844858125 55.058347 20.13955245",
-  "georss_polygon_s": "55.058347 3.844858125 55.058347 20.13955245 43.1232537253 20.13955245 43.1232537253 3.844858125 55.058347 3.844858125",
   "solr_geom": "ENVELOPE(3.844858125, 20.13955245, 55.058347, 43.1232537253)",
-  "solr_year_i": "1758"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Holy Roman Empire",
+    "Germany"
+  ]
 }

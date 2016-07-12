@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1963",
   "uuid": "http://arks.princeton.edu/ark:/88435/p8418q02t",
+  "dc_description_s": "Carte geologique detaillee de la France [a 1/80 000]: Barneville.",
+  "georss_box_s": "49.07570 -2.51710 49.43490 -1.63620",
+  "layer_modified_dt": "2015-01-19T22:36:37Z",
   "dc_creator_sm": [
     "Goguel, Jean",
     "Dore, M. F.",
     "Graindor, M. M.-J."
   ],
-  "dc_description_s": "Carte geologique detaillee de la France [a 1/80 000]: Barneville.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "p8418q02t",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/p8418q02t/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fp8%2F41%2F8q%2F02%2Ft%2F00000001.jp2/info.json\"}",
   "layer_id_s": "p8418q02t",
-  "layer_slug_s": "princeton-p8418q02t",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:36:37Z",
-  "dc_title_s": "Carte geologique detaillee de la France [a 1/80 000]: Barneville.",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "France"
-  ],
+  "dc_identifier_s": "p8418q02t",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Carte geologique detaillee de la France [a 1/80 000]: Barneville.",
+  "layer_slug_s": "princeton-p8418q02t",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/p8418q02t/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/p8/41/8q/02/t/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "49.43490 -2.51710 49.43490 -1.63620 49.07570 -1.63620 49.07570 -2.51710 49.43490 -2.51710",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1963"
   ],
-  "georss_box_s": "49.07570 -2.51710 49.43490 -1.63620",
-  "georss_polygon_s": "49.43490 -2.51710 49.43490 -1.63620 49.07570 -1.63620 49.07570 -2.51710 49.43490 -2.51710",
   "solr_geom": "ENVELOPE(-2.51710, -1.63620, 49.43490, 49.07570)",
-  "solr_year_i": "1963"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "France"
+  ]
 }

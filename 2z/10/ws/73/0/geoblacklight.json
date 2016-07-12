@@ -1,35 +1,33 @@
 {
+  "solr_year_i": "1849",
   "uuid": "http://arks.princeton.edu/ark:/88435/2z10ws730",
+  "dc_description_s": "Patapsco River and the approaches",
+  "georss_box_s": "39.2139612 -76.6970355 39.2190368 -76.6939205",
+  "layer_modified_dt": "2015-01-21T22:24:25Z",
   "dc_creator_sm": [
     "Bache, A. D.",
     "Ferguson, James,",
     "Gerdes, F. H.",
     "Cutts, R. D.",
     "Bache, G. M.",
-    "Glück, Jno. B.",
+    "Glu\u0308ck, Jno. B.",
     "Wainwright, Richard,",
     "Wise, G. D."
   ],
-  "dc_description_s": "Patapsco River and the approaches",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "2z10ws730",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/2z10ws730/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F2z%2F10%2Fws%2F73%2F0%2F00000001.jp2/info.json\"}",
   "layer_id_s": "2z10ws730",
-  "layer_slug_s": "princeton-2z10ws730",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:25Z",
-  "dc_title_s": "Patapsco River and the approaches",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "2z10ws730",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Patapsco River and the approaches",
+  "layer_slug_s": "princeton-2z10ws730",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/2z10ws730/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/2z/10/ws/73/0/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "39.2190368 -76.6970355 39.2190368 -76.6939205 39.2139612 -76.6939205 39.2139612 -76.6970355 39.2190368 -76.6970355",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1849"
   ],
-  "georss_box_s": "39.2139612 -76.6970355 39.2190368 -76.6939205",
-  "georss_polygon_s": "39.2190368 -76.6970355 39.2190368 -76.6939205 39.2139612 -76.6939205 39.2139612 -76.6970355 39.2190368 -76.6970355",
   "solr_geom": "ENVELOPE(-76.6970355, -76.6939205, 39.2190368, 39.2139612)",
-  "solr_year_i": "1849"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

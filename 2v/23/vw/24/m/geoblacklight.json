@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1958",
   "uuid": "http://arks.princeton.edu/ark:/88435/2v23vw24m",
+  "dc_description_s": "A classical map of Asia Minor : being a partial revision by permission of Messrs. John Murray of J.G.C. Anderson's Map of Asia Minor",
+  "georss_box_s": "35.8076804 25.6212891 42.297 44.8176638",
+  "layer_modified_dt": "2015-01-21T22:23:46Z",
   "dc_creator_sm": [
     "Bean, George Ewart.",
     "Anderson, J. G. C."
   ],
-  "dc_description_s": "A classical map of Asia Minor : being a partial revision by permission of Messrs. John Murray of J.G.C. Anderson's Map of Asia Minor",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "2v23vw24m",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/2v23vw24m/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F2v%2F23%2Fvw%2F24%2Fm%2F00000001.jp2/info.json\"}",
   "layer_id_s": "2v23vw24m",
-  "layer_slug_s": "princeton-2v23vw24m",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:46Z",
-  "dc_title_s": "A classical map of Asia Minor : being a partial revision by permission of Messrs. John Murray of J.G.C. Anderson's Map of Asia Minor",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Turkey"
-  ],
+  "dc_identifier_s": "2v23vw24m",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "A classical map of Asia Minor : being a partial revision by permission of Messrs. John Murray of J.G.C. Anderson's Map of Asia Minor",
+  "layer_slug_s": "princeton-2v23vw24m",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/2v23vw24m/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/2v/23/vw/24/m/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "42.297 25.6212891 42.297 44.8176638 35.8076804 44.8176638 35.8076804 25.6212891 42.297 25.6212891",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1958"
   ],
-  "georss_box_s": "35.8076804 25.6212891 42.297 44.8176638",
-  "georss_polygon_s": "42.297 25.6212891 42.297 44.8176638 35.8076804 44.8176638 35.8076804 25.6212891 42.297 25.6212891",
   "solr_geom": "ENVELOPE(25.6212891, 44.8176638, 42.297, 35.8076804)",
-  "solr_year_i": "1958"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Turkey"
+  ]
 }

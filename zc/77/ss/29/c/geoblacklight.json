@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1602",
   "uuid": "http://arks.princeton.edu/ark:/88435/zc77ss29c",
+  "dc_description_s": "Fretum Magellanicum",
+  "georss_box_s": "-53.8921832366 -71.1141873125 -52.4567060817 -70.0247137781",
+  "layer_modified_dt": "2015-01-25T02:06:10Z",
   "dc_creator_sm": [
     "Keere, Pieter van den,",
     "Bertius, Petrus,"
   ],
-  "dc_description_s": "Fretum Magellanicum",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "zc77ss29c",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/zc77ss29c/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fzc%2F77%2Fss%2F29%2Fc%2F00000001.jp2/info.json\"}",
   "layer_id_s": "zc77ss29c",
-  "layer_slug_s": "princeton-zc77ss29c",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:10Z",
-  "dc_title_s": "Fretum Magellanicum",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Magellan, Strait of (Chile and Argentina)",
-    "Tierra del Fuego (Argentina and Chile)"
-  ],
+  "dc_identifier_s": "zc77ss29c",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Fretum Magellanicum",
+  "layer_slug_s": "princeton-zc77ss29c",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/zc77ss29c/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/zc/77/ss/29/c/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "-52.4567060817 -71.1141873125 -52.4567060817 -70.0247137781 -53.8921832366 -70.0247137781 -53.8921832366 -71.1141873125 -52.4567060817 -71.1141873125",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1602"
   ],
-  "georss_box_s": "-53.8921832366 -71.1141873125 -52.4567060817 -70.0247137781",
-  "georss_polygon_s": "-52.4567060817 -71.1141873125 -52.4567060817 -70.0247137781 -53.8921832366 -70.0247137781 -53.8921832366 -71.1141873125 -52.4567060817 -71.1141873125",
   "solr_geom": "ENVELOPE(-71.1141873125, -70.0247137781, -52.4567060817, -53.8921832366)",
-  "solr_year_i": "1602"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Magellan, Strait of (Chile and Argentina)",
+    "Tierra del Fuego (Argentina and Chile)"
+  ]
 }

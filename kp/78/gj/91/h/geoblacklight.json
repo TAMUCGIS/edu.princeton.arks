@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1929",
   "uuid": "http://arks.princeton.edu/ark:/88435/kp78gj91h",
   "dc_description_s": "Russia in Europe",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "kp78gj91h",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/kp78gj91h/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fkp%2F78%2Fgj%2F91%2Fh%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "kp78gj91h",
-  "layer_slug_s": "princeton-kp78gj91h",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "29.0 8.0 72.0 78.0",
   "layer_modified_dt": "2015-01-19T22:37:41Z",
-  "dc_title_s": "Russia in Europe",
+  "layer_id_s": "kp78gj91h",
   "dc_type_s": "Image",
+  "dc_identifier_s": "kp78gj91h",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Russia in Europe",
+  "layer_slug_s": "princeton-kp78gj91h",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/kp78gj91h/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/kp/78/gj/91/h/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "72.0 8.0 72.0 78.0 29.0 78.0 29.0 8.0 72.0 8.0",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1929"
+  ],
+  "solr_geom": "ENVELOPE(8.0, 78.0, 72.0, 29.0)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Europe, Eastern",
     "Europe, Eastern",
     "Baghdad Region (Iraq)",
     "Saint Petersburg (Russia)"
-  ],
-  "dct_temporal_sm": [
-    "1929"
-  ],
-  "georss_box_s": "29.0 8.0 72.0 78.0",
-  "georss_polygon_s": "72.0 8.0 72.0 78.0 29.0 78.0 29.0 8.0 72.0 8.0",
-  "solr_geom": "ENVELOPE(8.0, 78.0, 72.0, 29.0)",
-  "solr_year_i": "1929"
+  ]
 }

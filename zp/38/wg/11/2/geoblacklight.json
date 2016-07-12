@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1805",
   "uuid": "http://arks.princeton.edu/ark:/88435/zp38wg112",
+  "dc_description_s": "A map of Norfolk : from the best authorities",
+  "georss_box_s": "52.3553666 0.1535553 52.9916398 1.7457818",
+  "layer_modified_dt": "2015-01-21T22:24:17Z",
   "dc_creator_sm": [
     "Morris, William H.,",
     "Stockdale, John,"
   ],
-  "dc_description_s": "A map of Norfolk : from the best authorities",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "zp38wg112",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/zp38wg112/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fzp%2F38%2Fwg%2F11%2F2%2F00000001.jp2/info.json\"}",
   "layer_id_s": "zp38wg112",
-  "layer_slug_s": "princeton-zp38wg112",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:17Z",
-  "dc_title_s": "A map of Norfolk : from the best authorities",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Norfolk (England)"
-  ],
+  "dc_identifier_s": "zp38wg112",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "A map of Norfolk : from the best authorities",
+  "layer_slug_s": "princeton-zp38wg112",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/zp38wg112/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/zp/38/wg/11/2/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "52.9916398 0.1535553 52.9916398 1.7457818 52.3553666 1.7457818 52.3553666 0.1535553 52.9916398 0.1535553",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1805"
   ],
-  "georss_box_s": "52.3553666 0.1535553 52.9916398 1.7457818",
-  "georss_polygon_s": "52.9916398 0.1535553 52.9916398 1.7457818 52.3553666 1.7457818 52.3553666 0.1535553 52.9916398 0.1535553",
   "solr_geom": "ENVELOPE(0.1535553, 1.7457818, 52.9916398, 52.3553666)",
-  "solr_year_i": "1805"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Norfolk (England)"
+  ]
 }

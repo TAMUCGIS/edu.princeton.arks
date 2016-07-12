@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/rn301361s",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Deckertown",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "rn301361s",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Frn%2F30%2F13%2F61%2Fs%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "rn301361s",
-  "layer_slug_s": "princeton-rn301361s",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:08:18Z",
+  "solr_geom": "ENVELOPE(-74.6165459, -74.5985659, 41.216327, 41.202844)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/rn/30/13/61/s/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/rn301361s",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Deckertown, Sussex Co., N. J. (Sheet 3).",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1890"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "rn301361s",
+  "georss_polygon_s": "41.216327 -74.6165459 41.216327 -74.5985659 41.202844 -74.5985659 41.202844 -74.6165459 41.216327 -74.6165459",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1890",
   "dct_spatial_sm": [
     "New Jersey",
     "Deckertown"
   ],
-  "dct_temporal_sm": [
-    "1890"
-  ],
+  "layer_id_s": "rn301361s",
   "georss_box_s": "41.202844 -74.6165459 41.216327 -74.5985659",
-  "georss_polygon_s": "41.216327 -74.6165459 41.216327 -74.5985659 41.202844 -74.5985659 41.202844 -74.6165459 41.216327 -74.6165459",
-  "solr_geom": "ENVELOPE(-74.6165459, -74.5985659, 41.216327, 41.202844)",
-  "solr_year_i": "1890"
+  "dc_title_s": "Deckertown, Sussex Co., N. J. (Sheet 3).",
+  "layer_slug_s": "princeton-rn301361s",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1540",
   "uuid": "http://arks.princeton.edu/ark:/88435/8910jx05w",
+  "dc_description_s": "Tabula Europae X",
+  "georss_box_s": "34.7006096 19.2477876 41.7488862 29.7296986",
+  "layer_modified_dt": "2015-01-21T22:24:13Z",
   "dc_creator_sm": [
     "Petri, Heinrich,",
-    "Münster, Sebastian,",
+    "Mu\u0308nster, Sebastian,",
     "Ptolemy,"
   ],
-  "dc_description_s": "Tabula Europae X",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "8910jx05w",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/8910jx05w/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F89%2F10%2Fjx%2F05%2Fw%2F00000001.jp2/info.json\"}",
   "layer_id_s": "8910jx05w",
-  "layer_slug_s": "princeton-8910jx05w",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:13Z",
-  "dc_title_s": "Tabula Europae X",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Greece"
-  ],
+  "dc_identifier_s": "8910jx05w",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Tabula Europae X",
+  "layer_slug_s": "princeton-8910jx05w",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/8910jx05w/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/89/10/jx/05/w/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "41.7488862 19.2477876 41.7488862 29.7296986 34.7006096 29.7296986 34.7006096 19.2477876 41.7488862 19.2477876",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1540"
   ],
-  "georss_box_s": "34.7006096 19.2477876 41.7488862 29.7296986",
-  "georss_polygon_s": "41.7488862 19.2477876 41.7488862 29.7296986 34.7006096 29.7296986 34.7006096 19.2477876 41.7488862 19.2477876",
   "solr_geom": "ENVELOPE(19.2477876, 29.7296986, 41.7488862, 34.7006096)",
-  "solr_year_i": "1540"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Greece"
+  ]
 }

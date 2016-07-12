@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1889",
   "uuid": "http://arks.princeton.edu/ark:/88435/js956j26x",
   "dc_description_s": "Venezuela, Colombia, Equador, Peru & Bolivia (north section)",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "js956j26x",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/js956j26x/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fs%2F95%2F6j%2F26%2Fx%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "js956j26x",
-  "layer_slug_s": "princeton-js956j26x",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "-4.2316871 -82.0000001 16.1219145 -66.8511906",
   "layer_modified_dt": "2015-01-21T22:24:06Z",
-  "dc_title_s": "Venezuela, Colombia, Equador, Peru & Bolivia (north section)",
+  "layer_id_s": "js956j26x",
   "dc_type_s": "Image",
+  "dc_identifier_s": "js956j26x",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Venezuela, Colombia, Equador, Peru & Bolivia (north section)",
+  "layer_slug_s": "princeton-js956j26x",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/js956j26x/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/js/95/6j/26/x/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "16.1219145 -82.0000001 16.1219145 -66.8511906 -4.2316871 -66.8511906 -4.2316871 -82.0000001 16.1219145 -82.0000001",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1889"
+  ],
+  "solr_geom": "ENVELOPE(-82.0000001, -66.8511906, 16.1219145, -4.2316871)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Colombia",
     "Ecuador",
     "Peru",
     "Venezuela"
-  ],
-  "dct_temporal_sm": [
-    "1889"
-  ],
-  "georss_box_s": "-4.2316871 -82.0000001 16.1219145 -66.8511906",
-  "georss_polygon_s": "16.1219145 -82.0000001 16.1219145 -66.8511906 -4.2316871 -66.8511906 -4.2316871 -82.0000001 16.1219145 -82.0000001",
-  "solr_geom": "ENVELOPE(-82.0000001, -66.8511906, 16.1219145, -4.2316871)",
-  "solr_year_i": "1889"
+  ]
 }

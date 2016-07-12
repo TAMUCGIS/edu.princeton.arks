@@ -1,17 +1,24 @@
 {
+  "solr_year_i": "1876",
   "uuid": "http://arks.princeton.edu/ark:/88435/qn59q588z",
-  "dc_description_s": "Special-Karte der Europäischen Türkey",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "qn59q588z",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/qn59q588z/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fqn%2F59%2Fq5%2F88%2Fz%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "qn59q588z",
-  "layer_slug_s": "princeton-qn59q588z",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Special-Karte der Europa\u0308ischen Tu\u0308rkey",
+  "georss_box_s": "39.6448625 19.1246095 42.6611669 21.0574335",
   "layer_modified_dt": "2015-01-21T22:23:47Z",
-  "dc_title_s": "Special-Karte der Europäischen Türkey",
+  "layer_id_s": "qn59q588z",
   "dc_type_s": "Image",
+  "dc_identifier_s": "qn59q588z",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Special-Karte der Europa\u0308ischen Tu\u0308rkey",
+  "layer_slug_s": "princeton-qn59q588z",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/qn59q588z/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/qn/59/q5/88/z/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "42.6611669 19.1246095 42.6611669 21.0574335 39.6448625 21.0574335 39.6448625 19.1246095 42.6611669 19.1246095",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1876"
+  ],
+  "solr_geom": "ENVELOPE(19.1246095, 21.0574335, 42.6611669, 39.6448625)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Albania",
     "Balkan Peninsula",
@@ -22,12 +29,5 @@
     "Macedonia (Greece)",
     "Serbia",
     "Turkey"
-  ],
-  "dct_temporal_sm": [
-    "1876"
-  ],
-  "georss_box_s": "39.6448625 19.1246095 42.6611669 21.0574335",
-  "georss_polygon_s": "42.6611669 19.1246095 42.6611669 21.0574335 39.6448625 21.0574335 39.6448625 19.1246095 42.6611669 19.1246095",
-  "solr_geom": "ENVELOPE(19.1246095, 21.0574335, 42.6611669, 39.6448625)",
-  "solr_year_i": "1876"
+  ]
 }

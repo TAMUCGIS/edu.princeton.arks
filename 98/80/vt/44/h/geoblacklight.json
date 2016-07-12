@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1832",
   "uuid": "http://arks.princeton.edu/ark:/88435/9880vt44h",
   "dc_description_s": "Green Island harbour, in the northwest angle of Jamaica",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "9880vt44h",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/9880vt44h/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F98%2F80%2Fvt%2F44%2Fh%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "9880vt44h",
-  "layer_slug_s": "princeton-9880vt44h",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "54.460335 -5.6164969 54.463358 -5.6119739",
   "layer_modified_dt": "2015-01-21T22:24:08Z",
-  "dc_title_s": "Green Island harbour, in the northwest angle of Jamaica",
+  "layer_id_s": "9880vt44h",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Green Island (Jamaica)"
-  ],
+  "dc_identifier_s": "9880vt44h",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Green Island harbour, in the northwest angle of Jamaica",
+  "layer_slug_s": "princeton-9880vt44h",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/9880vt44h/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/98/80/vt/44/h/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "54.463358 -5.6164969 54.463358 -5.6119739 54.460335 -5.6119739 54.460335 -5.6164969 54.463358 -5.6164969",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1832"
   ],
-  "georss_box_s": "54.460335 -5.6164969 54.463358 -5.6119739",
-  "georss_polygon_s": "54.463358 -5.6164969 54.463358 -5.6119739 54.460335 -5.6119739 54.460335 -5.6164969 54.463358 -5.6164969",
   "solr_geom": "ENVELOPE(-5.6164969, -5.6119739, 54.463358, 54.460335)",
-  "solr_year_i": "1832"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Green Island (Jamaica)"
+  ]
 }

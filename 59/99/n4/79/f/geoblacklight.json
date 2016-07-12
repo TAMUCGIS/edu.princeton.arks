@@ -2,7 +2,7 @@
   "dc_description_s": "This is a Sandborn map of Hightstown, Mercer County, New Jersey, shown at a scale of 1:600. It is sheet 7 in a set of 8.",
   "layer_modified_dt": "2015-01-11T17:42:17Z",
   "solr_geom": "ENVELOPE(-74.75, -74.6, 40.25, 40.15)",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F59%2F99%2Fn4%2F79%2Ff%2F00000001.jp2/info.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/5999n479f/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/5999n479f/preview.jpg\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/5999n479f/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/59/99/n4/79/f/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/5999n479f/preview.jpg\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/5999n479f",
   "dct_provenance_s": "Princeton",
@@ -11,7 +11,7 @@
     "Fire Insurance"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "June 1916",
+  "layer_slug_s": "princeton-5999n479f",
   "dc_creator_sm": [
     "New York : Sanborn Map Company"
   ],
@@ -28,7 +28,7 @@
   "layer_id_s": "5999n479f",
   "georss_box_s": "40.15 -74.75 40.25 -74.6",
   "dc_title_s": "Hightstown (Sheet 7), Mercer County, New Jersey [1916]",
-  "layer_slug_s": "princeton-5999n479f",
+  "dct_issued_s": "June 1916",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

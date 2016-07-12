@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1598",
   "uuid": "http://arks.princeton.edu/ark:/88435/nk322g80j",
+  "dc_description_s": "Ac\u0327ores Insulae",
+  "georss_box_s": "35.7248176 -31.5575302 39.9267353 -24.5325184",
+  "layer_modified_dt": "2015-01-21T22:24:10Z",
   "dc_creator_sm": [
     "Ortelius, Abraham,"
   ],
-  "dc_description_s": "Açores Insulae",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "nk322g80j",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/nk322g80j/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fnk%2F32%2F2g%2F80%2F00000001.jp2/info.json\"}",
   "layer_id_s": "nk322g80j",
-  "layer_slug_s": "princeton-nk322g80j",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:10Z",
-  "dc_title_s": "Açores Insulae",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Azores"
-  ],
+  "dc_identifier_s": "nk322g80j",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Ac\u0327ores Insulae",
+  "layer_slug_s": "princeton-nk322g80j",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/nk322g80j/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/nk/32/2g/80/j/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "39.9267353 -31.5575302 39.9267353 -24.5325184 35.7248176 -24.5325184 35.7248176 -31.5575302 39.9267353 -31.5575302",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1598"
   ],
-  "georss_box_s": "35.7248176 -31.5575302 39.9267353 -24.5325184",
-  "georss_polygon_s": "39.9267353 -31.5575302 39.9267353 -24.5325184 35.7248176 -24.5325184 35.7248176 -31.5575302 39.9267353 -31.5575302",
   "solr_geom": "ENVELOPE(-31.5575302, -24.5325184, 39.9267353, 35.7248176)",
-  "solr_year_i": "1598"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Azores"
+  ]
 }

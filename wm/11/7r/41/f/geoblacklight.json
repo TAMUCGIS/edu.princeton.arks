@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1685",
   "uuid": "http://arks.princeton.edu/ark:/88435/wm117r41f",
+  "dc_description_s": "Candie",
+  "georss_box_s": "35.2917566 25.1076767 35.3522762 25.1624648",
+  "layer_modified_dt": "2015-01-21T22:24:03Z",
   "dc_creator_sm": [
     "Manesson-Mallet, Allain,",
     "Zunner, Johann David,"
   ],
-  "dc_description_s": "Candie",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "wm117r41f",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/wm117r41f/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fwm%2F11%2F7r%2F41%2Ff%2F00000001.jp2/info.json\"}",
   "layer_id_s": "wm117r41f",
-  "layer_slug_s": "princeton-wm117r41f",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:03Z",
-  "dc_title_s": "Candie",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Hērakleion (Greece)",
-    "Crete (Greece)"
-  ],
+  "dc_identifier_s": "wm117r41f",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Candie",
+  "layer_slug_s": "princeton-wm117r41f",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/wm117r41f/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/wm/11/7r/41/f/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "35.3522762 25.1076767 35.3522762 25.1624648 35.2917566 25.1624648 35.2917566 25.1076767 35.3522762 25.1076767",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1685"
   ],
-  "georss_box_s": "35.2917566 25.1076767 35.3522762 25.1624648",
-  "georss_polygon_s": "35.3522762 25.1076767 35.3522762 25.1624648 35.2917566 25.1624648 35.2917566 25.1076767 35.3522762 25.1076767",
   "solr_geom": "ENVELOPE(25.1076767, 25.1624648, 35.3522762, 35.2917566)",
-  "solr_year_i": "1685"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "He\u0304rakleion (Greece)",
+    "Crete (Greece)"
+  ]
 }

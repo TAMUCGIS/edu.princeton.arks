@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/dz010s297",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Manville",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "dz010s297",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fdz%2F01%2F0s%2F29%2F7%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "dz010s297",
-  "layer_slug_s": "princeton-dz010s297",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:08:12Z",
+  "solr_geom": "ENVELOPE(-74.608914, -74.566073, 40.557713, 40.526691)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/dz/01/0s/29/7/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/dz010s297",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Manville, Somerset County, New Jersey (Sheet 2).",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1928"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "dz010s297",
+  "georss_polygon_s": "40.557713 -74.608914 40.557713 -74.566073 40.526691 -74.566073 40.526691 -74.608914 40.557713 -74.608914",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1928",
   "dct_spatial_sm": [
     "New Jersey",
     "Manville"
   ],
-  "dct_temporal_sm": [
-    "1928"
-  ],
+  "layer_id_s": "dz010s297",
   "georss_box_s": "40.526691 -74.608914 40.557713 -74.566073",
-  "georss_polygon_s": "40.557713 -74.608914 40.557713 -74.566073 40.526691 -74.566073 40.526691 -74.608914 40.557713 -74.608914",
-  "solr_geom": "ENVELOPE(-74.608914, -74.566073, 40.557713, 40.526691)",
-  "solr_year_i": "1928"
+  "dc_title_s": "Manville, Somerset County, New Jersey (Sheet 2).",
+  "layer_slug_s": "princeton-dz010s297",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/ht24wm60r",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Bloomingdale",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "ht24wm60r",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fht%2F24%2Fwm%2F60%2Fr%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "ht24wm60r",
-  "layer_slug_s": "princeton-ht24wm60r",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:06:44Z",
+  "solr_geom": "ENVELOPE(-74.363116, -74.300322, 41.068396, 40.998442)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ht/24/wm/60/r/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/ht24wm60r",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Bloomingdale, Passaic County, New Jersey (Sheet 3).",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1928"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "ht24wm60r",
+  "georss_polygon_s": "41.068396 -74.363116 41.068396 -74.300322 40.998442 -74.300322 40.998442 -74.363116 41.068396 -74.363116",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1928",
   "dct_spatial_sm": [
     "New Jersey",
     "Bloomingdale"
   ],
-  "dct_temporal_sm": [
-    "1928"
-  ],
+  "layer_id_s": "ht24wm60r",
   "georss_box_s": "40.998442 -74.363116 41.068396 -74.300322",
-  "georss_polygon_s": "41.068396 -74.363116 41.068396 -74.300322 40.998442 -74.300322 40.998442 -74.363116 41.068396 -74.363116",
-  "solr_geom": "ENVELOPE(-74.363116, -74.300322, 41.068396, 40.998442)",
-  "solr_year_i": "1928"
+  "dc_title_s": "Bloomingdale, Passaic County, New Jersey (Sheet 3).",
+  "layer_slug_s": "princeton-ht24wm60r",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

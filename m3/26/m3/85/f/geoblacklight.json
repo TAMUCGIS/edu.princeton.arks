@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/m326m385f",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Woodbridge",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "m326m385f",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fm3%2F26%2Fm3%2F85%2Ff%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "m326m385f",
-  "layer_slug_s": "princeton-m326m385f",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:05:58Z",
+  "solr_geom": "ENVELOPE(-74.324591, -74.244591, 40.597605, 40.517604)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/m3/26/m3/85/f/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/m326m385f",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Insurance maps of Woodbridge Township, Middlesex County, New Jersey: including villages of Woodbridge, Fords, Hopelawn, Avenel, Colonia, Iselin, Sewaren, and Port Reading (Sheet 17)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1924"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "m326m385f",
+  "georss_polygon_s": "40.597605 -74.324591 40.597605 -74.244591 40.517604 -74.244591 40.517604 -74.324591 40.597605 -74.324591",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1924",
   "dct_spatial_sm": [
     "New Jersey",
     "Woodbridge"
   ],
-  "dct_temporal_sm": [
-    "1924"
-  ],
+  "layer_id_s": "m326m385f",
   "georss_box_s": "40.517604 -74.324591 40.597605 -74.244591",
-  "georss_polygon_s": "40.597605 -74.324591 40.597605 -74.244591 40.517604 -74.244591 40.517604 -74.324591 40.597605 -74.324591",
-  "solr_geom": "ENVELOPE(-74.324591, -74.244591, 40.597605, 40.517604)",
-  "solr_year_i": "1924"
+  "dc_title_s": "Insurance maps of Woodbridge Township, Middlesex County, New Jersey: including villages of Woodbridge, Fords, Hopelawn, Avenel, Colonia, Iselin, Sewaren, and Port Reading (Sheet 17)",
+  "layer_slug_s": "princeton-m326m385f",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

@@ -1,22 +1,22 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/g158bk74c",
-  "dc_description_s": "Carte des variations de la boussole et des vents généraux que l'on trouve dans les mers les plus frequentées",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "g158bk74c",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/g158bk74c/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fg1%2F58%2Fbk%2F74%2Fc%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "g158bk74c",
-  "layer_slug_s": "princeton-g158bk74c",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Carte des variations de la boussole et des vents ge\u0301ne\u0301raux que l'on trouve dans les mers les plus frequente\u0301es",
+  "georss_box_s": "9.9999501 -25.0000501 10.0000501 -24.9999501",
   "layer_modified_dt": "2015-01-21T22:24:07Z",
-  "dc_title_s": "Carte des variations de la boussole et des vents généraux que l'on trouve dans les mers les plus frequentées",
+  "layer_id_s": "g158bk74c",
   "dc_type_s": "Image",
+  "dc_identifier_s": "g158bk74c",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Carte des variations de la boussole et des vents ge\u0301ne\u0301raux que l'on trouve dans les mers les plus frequente\u0301es",
+  "layer_slug_s": "princeton-g158bk74c",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/g158bk74c/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/g1/58/bk/74/c/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "10.0000501 -25.0000501 10.0000501 -24.9999501 9.9999501 -24.9999501 9.9999501 -25.0000501 10.0000501 -25.0000501",
+  "layer_geom_type_s": "Image",
+  "solr_geom": "ENVELOPE(-25.0000501, -24.9999501, 10.0000501, 9.9999501)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Atlantic Ocean",
     "Indian Ocean"
-  ],
-  "georss_box_s": "9.9999501 -25.0000501 10.0000501 -24.9999501",
-  "georss_polygon_s": "10.0000501 -25.0000501 10.0000501 -24.9999501 9.9999501 -24.9999501 9.9999501 -25.0000501 10.0000501 -25.0000501",
-  "solr_geom": "ENVELOPE(-25.0000501, -24.9999501, 10.0000501, 9.9999501)"
+  ]
 }

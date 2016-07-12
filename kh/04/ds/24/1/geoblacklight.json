@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1903",
   "uuid": "http://arks.princeton.edu/ark:/88435/kh04ds241",
-  "dc_description_s": "Topographikos pinax tēs nēsou Chiou",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "kh04ds241",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/kh04ds241/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fkh%2F04%2Fds%2F24%2F1%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "kh04ds241",
-  "layer_slug_s": "princeton-kh04ds241",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Topographikos pinax te\u0304s ne\u0304sou Chiou",
+  "georss_box_s": "38.147265 25.8311257 38.6049808 26.1629165",
   "layer_modified_dt": "2015-01-25T02:06:23Z",
-  "dc_title_s": "Topographikos pinax tēs nēsou Chiou",
+  "layer_id_s": "kh04ds241",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Chios Island (Greece)"
-  ],
+  "dc_identifier_s": "kh04ds241",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Topographikos pinax te\u0304s ne\u0304sou Chiou",
+  "layer_slug_s": "princeton-kh04ds241",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/kh04ds241/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/kh/04/ds/24/1/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "38.6049808 25.8311257 38.6049808 26.1629165 38.147265 26.1629165 38.147265 25.8311257 38.6049808 25.8311257",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1903"
   ],
-  "georss_box_s": "38.147265 25.8311257 38.6049808 26.1629165",
-  "georss_polygon_s": "38.6049808 25.8311257 38.6049808 26.1629165 38.147265 26.1629165 38.147265 25.8311257 38.6049808 25.8311257",
   "solr_geom": "ENVELOPE(25.8311257, 26.1629165, 38.6049808, 38.147265)",
-  "solr_year_i": "1903"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Chios Island (Greece)"
+  ]
 }

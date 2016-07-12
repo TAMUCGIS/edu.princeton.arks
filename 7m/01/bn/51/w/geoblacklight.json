@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1881",
   "uuid": "http://arks.princeton.edu/ark:/88435/7m01bn51w",
   "dc_description_s": "Map of Zululand",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "7m01bn51w",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/7m01bn51w/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F7m%2F01%2Fbn%2F51%2Fw%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "7m01bn51w",
-  "layer_slug_s": "princeton-7m01bn51w",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "52.1739254 -3.0567418 52.1773006 -3.0548353",
   "layer_modified_dt": "2015-01-21T22:23:43Z",
-  "dc_title_s": "Map of Zululand",
+  "layer_id_s": "7m01bn51w",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Zululand (South Africa)"
-  ],
+  "dc_identifier_s": "7m01bn51w",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Map of Zululand",
+  "layer_slug_s": "princeton-7m01bn51w",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/7m01bn51w/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/7m/01/bn/51/w/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "52.1773006 -3.0567418 52.1773006 -3.0548353 52.1739254 -3.0548353 52.1739254 -3.0567418 52.1773006 -3.0567418",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1881"
   ],
-  "georss_box_s": "52.1739254 -3.0567418 52.1773006 -3.0548353",
-  "georss_polygon_s": "52.1773006 -3.0567418 52.1773006 -3.0548353 52.1739254 -3.0548353 52.1739254 -3.0567418 52.1773006 -3.0567418",
   "solr_geom": "ENVELOPE(-3.0567418, -3.0548353, 52.1773006, 52.1739254)",
-  "solr_year_i": "1881"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Zululand (South Africa)"
+  ]
 }

@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1920",
   "uuid": "http://arks.princeton.edu/ark:/88435/1j92g9992",
   "dc_description_s": "Province of Ho-nan",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "1j92g9992",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/1j92g9992/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F1j%2F92%2Fg9%2F99%2F2%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "1j92g9992",
-  "layer_slug_s": "princeton-1j92g9992",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "31.4400001 111.4399999 36.5600001 116.5599999",
   "layer_modified_dt": "2015-01-21T22:24:23Z",
-  "dc_title_s": "Province of Ho-nan",
+  "layer_id_s": "1j92g9992",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Henan Sheng (China)"
-  ],
+  "dc_identifier_s": "1j92g9992",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Province of Ho-nan",
+  "layer_slug_s": "princeton-1j92g9992",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/1j92g9992/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/1j/92/g9/99/2/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "36.5600001 111.4399999 36.5600001 116.5599999 31.4400001 116.5599999 31.4400001 111.4399999 36.5600001 111.4399999",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1920"
   ],
-  "georss_box_s": "31.4400001 111.4399999 36.5600001 116.5599999",
-  "georss_polygon_s": "36.5600001 111.4399999 36.5600001 116.5599999 31.4400001 116.5599999 31.4400001 111.4399999 36.5600001 111.4399999",
   "solr_geom": "ENVELOPE(111.4399999, 116.5599999, 36.5600001, 31.4400001)",
-  "solr_year_i": "1920"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Henan Sheng (China)"
+  ]
 }

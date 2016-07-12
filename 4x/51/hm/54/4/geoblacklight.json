@@ -1,5 +1,9 @@
 {
+  "solr_year_i": "1676",
   "uuid": "http://arks.princeton.edu/ark:/88435/4x51hm544",
+  "dc_description_s": "A map of Russia",
+  "georss_box_s": "41.1858711 -179.9999999 82.0586232 180",
+  "layer_modified_dt": "2015-01-25T02:06:19Z",
   "dc_creator_sm": [
     "Lamb, Francis,",
     "Bassett, Thomas",
@@ -7,30 +11,26 @@
     "Speed, John,",
     "McCabe, Robert A.,"
   ],
-  "dc_description_s": "A map of Russia",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "4x51hm544",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/4x51hm544/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F4x%2F51%2Fhm%2F54%2F4%2F00000001.jp2/info.json\"}",
   "layer_id_s": "4x51hm544",
-  "layer_slug_s": "princeton-4x51hm544",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:19Z",
-  "dc_title_s": "A map of Russia",
   "dc_type_s": "Image",
+  "dc_identifier_s": "4x51hm544",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "A map of Russia",
+  "layer_slug_s": "princeton-4x51hm544",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/4x51hm544/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/4x/51/hm/54/4/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "82.0586232 -179.9999999 82.0586232 180 41.1858711 180 41.1858711 -179.9999999 82.0586232 -179.9999999",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1676"
+  ],
+  "solr_geom": "ENVELOPE(-179.9999999, 180, 82.0586232, 41.1858711)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Russia",
     "Moscow (Russia)",
     "Ukraine",
     "Russia",
     "Ukraine"
-  ],
-  "dct_temporal_sm": [
-    "1676"
-  ],
-  "georss_box_s": "41.1858711 -179.9999999 82.0586232 180",
-  "georss_polygon_s": "82.0586232 -179.9999999 82.0586232 180 41.1858711 180 41.1858711 -179.9999999 82.0586232 -179.9999999",
-  "solr_geom": "ENVELOPE(-179.9999999, 180, 82.0586232, 41.1858711)",
-  "solr_year_i": "1676"
+  ]
 }

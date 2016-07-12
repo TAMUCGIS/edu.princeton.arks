@@ -1,21 +1,21 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/pz50gz555",
-  "dc_description_s": "Politikos chartēs tēs Hellados",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "pz50gz555",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/pz50gz555/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fpz%2F50%2Fgz%2F55%2F5%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "pz50gz555",
-  "layer_slug_s": "princeton-pz50gz555",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Politikos charte\u0304s te\u0304s Hellados",
+  "georss_box_s": "34.7006096 19.2477876 41.7488862 29.7296986",
   "layer_modified_dt": "2015-01-21T22:24:11Z",
-  "dc_title_s": "Politikos chartēs tēs Hellados",
+  "layer_id_s": "pz50gz555",
   "dc_type_s": "Image",
+  "dc_identifier_s": "pz50gz555",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Politikos charte\u0304s te\u0304s Hellados",
+  "layer_slug_s": "princeton-pz50gz555",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/pz50gz555/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/pz/50/gz/55/5/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "41.7488862 19.2477876 41.7488862 29.7296986 34.7006096 29.7296986 34.7006096 19.2477876 41.7488862 19.2477876",
+  "layer_geom_type_s": "Image",
+  "solr_geom": "ENVELOPE(19.2477876, 29.7296986, 41.7488862, 34.7006096)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Greece"
-  ],
-  "georss_box_s": "34.7006096 19.2477876 41.7488862 29.7296986",
-  "georss_polygon_s": "41.7488862 19.2477876 41.7488862 29.7296986 34.7006096 29.7296986 34.7006096 19.2477876 41.7488862 19.2477876",
-  "solr_geom": "ENVELOPE(19.2477876, 29.7296986, 41.7488862, 34.7006096)"
+  ]
 }

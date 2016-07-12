@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1855",
   "uuid": "http://arks.princeton.edu/ark:/88435/0g354h290",
+  "dc_description_s": "Cary's new plan of London and its vicinity",
+  "georss_box_s": "51.2867602 -0.510375 51.6918741 0.3340155",
+  "layer_modified_dt": "2015-01-21T22:23:54Z",
   "dc_creator_sm": [
     "Cruchley, G. F.,"
   ],
-  "dc_description_s": "Cary's new plan of London and its vicinity",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "0g354h290",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/0g354h290/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F0g%2F35%2F4h%2F29%2F0%2F00000001.jp2/info.json\"}",
   "layer_id_s": "0g354h290",
-  "layer_slug_s": "princeton-0g354h290",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:54Z",
-  "dc_title_s": "Cary's new plan of London and its vicinity",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "London (England)"
-  ],
+  "dc_identifier_s": "0g354h290",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Cary's new plan of London and its vicinity",
+  "layer_slug_s": "princeton-0g354h290",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/0g354h290/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/0g/35/4h/29/0/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "51.6918741 -0.510375 51.6918741 0.3340155 51.2867602 0.3340155 51.2867602 -0.510375 51.6918741 -0.510375",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1855"
   ],
-  "georss_box_s": "51.2867602 -0.510375 51.6918741 0.3340155",
-  "georss_polygon_s": "51.6918741 -0.510375 51.6918741 0.3340155 51.2867602 0.3340155 51.2867602 -0.510375 51.6918741 -0.510375",
   "solr_geom": "ENVELOPE(-0.510375, 0.3340155, 51.6918741, 51.2867602)",
-  "solr_year_i": "1855"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "London (England)"
+  ]
 }

@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1911",
   "uuid": "http://arks.princeton.edu/ark:/88435/4t64gq00b",
   "dc_description_s": "Kaapstad en omgeving omstreeks 1800",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "4t64gq00b",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/4t64gq00b/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F4t%2F64%2Fgq%2F00%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "4t64gq00b",
-  "layer_slug_s": "princeton-4t64gq00b",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "-34.0889049 18.2572485 -33.7689049 18.5772485",
   "layer_modified_dt": "2015-01-21T22:23:43Z",
-  "dc_title_s": "Kaapstad en omgeving omstreeks 1800",
+  "layer_id_s": "4t64gq00b",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Cape Town (South Africa)"
-  ],
+  "dc_identifier_s": "4t64gq00b",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Kaapstad en omgeving omstreeks 1800",
+  "layer_slug_s": "princeton-4t64gq00b",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/4t64gq00b/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/4t/64/gq/00/b/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "-33.7689049 18.2572485 -33.7689049 18.5772485 -34.0889049 18.5772485 -34.0889049 18.2572485 -33.7689049 18.2572485",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1911"
   ],
-  "georss_box_s": "-34.0889049 18.2572485 -33.7689049 18.5772485",
-  "georss_polygon_s": "-33.7689049 18.2572485 -33.7689049 18.5772485 -34.0889049 18.5772485 -34.0889049 18.2572485 -33.7689049 18.2572485",
   "solr_geom": "ENVELOPE(18.2572485, 18.5772485, -33.7689049, -34.0889049)",
-  "solr_year_i": "1911"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Cape Town (South Africa)"
+  ]
 }

@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1540",
   "uuid": "http://arks.princeton.edu/ark:/88435/pk02cd217",
+  "dc_description_s": "Lacus Constan. XX tab. nova",
+  "georss_box_s": "47.4780337 8.8585624 47.8174495 9.7538525",
+  "layer_modified_dt": "2015-01-21T22:24:13Z",
   "dc_creator_sm": [
     "Petri, Heinrich,",
-    "Münster, Sebastian,",
+    "Mu\u0308nster, Sebastian,",
     "Ptolemy,"
   ],
-  "dc_description_s": "Lacus Constan. XX tab. nova",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "pk02cd217",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/pk02cd217/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fpk%2F02%2Fcd%2F21%2F7%2F00000001.jp2/info.json\"}",
   "layer_id_s": "pk02cd217",
-  "layer_slug_s": "princeton-pk02cd217",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:13Z",
-  "dc_title_s": "Lacus Constan. XX tab. nova",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Constance, Lake"
-  ],
+  "dc_identifier_s": "pk02cd217",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Lacus Constan. XX tab. nova",
+  "layer_slug_s": "princeton-pk02cd217",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/pk02cd217/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/pk/02/cd/21/7/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "47.8174495 8.8585624 47.8174495 9.7538525 47.4780337 9.7538525 47.4780337 8.8585624 47.8174495 8.8585624",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1540"
   ],
-  "georss_box_s": "47.4780337 8.8585624 47.8174495 9.7538525",
-  "georss_polygon_s": "47.8174495 8.8585624 47.8174495 9.7538525 47.4780337 9.7538525 47.4780337 8.8585624 47.8174495 8.8585624",
   "solr_geom": "ENVELOPE(8.8585624, 9.7538525, 47.8174495, 47.4780337)",
-  "solr_year_i": "1540"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Constance, Lake"
+  ]
 }

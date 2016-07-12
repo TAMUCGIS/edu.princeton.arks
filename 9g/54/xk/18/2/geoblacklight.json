@@ -2,7 +2,7 @@
   "dc_description_s": "A scanned USGS 1:62500 topographic map.",
   "layer_modified_dt": "2015-01-11T17:42:51Z",
   "solr_geom": "ENVELOPE(-75.0, -74.75, 39.75, 39.5)",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F9g%2F54%2Fxk%2F18%2F2%2F00000001.jp2/info.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/9g54xk182/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/9g54xk182/preview.jpg\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/9g54xk182/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/9g/54/xk/18/2/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/9g54xk182/preview.jpg\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/9g54xk182",
   "dct_provenance_s": "Princeton",
@@ -15,7 +15,7 @@
     "15 Minute Quadrangle Map"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "1903",
+  "layer_slug_s": "princeton-9g54xk182",
   "dc_creator_sm": [
     "United States Geological Survey"
   ],
@@ -33,7 +33,7 @@
   "layer_id_s": "9g54xk182",
   "georss_box_s": "39.5 -75.0 39.75 -74.75",
   "dc_title_s": "New Jersey, Hammanton Sheet (1903)",
-  "layer_slug_s": "princeton-9g54xk182",
+  "dct_issued_s": "1903",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

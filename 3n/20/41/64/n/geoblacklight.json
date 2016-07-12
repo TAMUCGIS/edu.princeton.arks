@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1876",
   "uuid": "http://arks.princeton.edu/ark:/88435/3n204164n",
+  "dc_description_s": "Mapa de Rno. de Leon y del Principado de Asturias con las nuevas divisiones",
+  "georss_box_s": "42.8825428 -7.1824889 43.6665323 -4.5105944",
+  "layer_modified_dt": "2015-01-25T02:06:23Z",
   "dc_creator_sm": [
     "Vuillemin, A.",
     "Andriveau-Goujon, E."
   ],
-  "dc_description_s": "Mapa de Rno. de Leon y del Principado de Asturias con las nuevas divisiones",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "3n204164n",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/3n204164n/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F3n%2F20%2F41%2F64%2Fn%2F00000001.jp2/info.json\"}",
   "layer_id_s": "3n204164n",
-  "layer_slug_s": "princeton-3n204164n",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:23Z",
-  "dc_title_s": "Mapa de Rno. de Leon y del Principado de Asturias con las nuevas divisiones",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Asturias (Spain)",
-    "León (Spain : Province)"
-  ],
+  "dc_identifier_s": "3n204164n",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Mapa de Rno. de Leon y del Principado de Asturias con las nuevas divisiones",
+  "layer_slug_s": "princeton-3n204164n",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/3n204164n/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/3n/20/41/64/n/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "43.6665323 -7.1824889 43.6665323 -4.5105944 42.8825428 -4.5105944 42.8825428 -7.1824889 43.6665323 -7.1824889",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1876"
   ],
-  "georss_box_s": "42.8825428 -7.1824889 43.6665323 -4.5105944",
-  "georss_polygon_s": "43.6665323 -7.1824889 43.6665323 -4.5105944 42.8825428 -4.5105944 42.8825428 -7.1824889 43.6665323 -7.1824889",
   "solr_geom": "ENVELOPE(-7.1824889, -4.5105944, 43.6665323, 42.8825428)",
-  "solr_year_i": "1876"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Asturias (Spain)",
+    "Leo\u0301n (Spain : Province)"
+  ]
 }

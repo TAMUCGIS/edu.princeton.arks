@@ -1,31 +1,29 @@
 {
+  "solr_year_i": "1778",
   "uuid": "http://arks.princeton.edu/ark:/88435/kp78gj79g",
+  "dc_description_s": "This plan of the City of New York (within the palisades which were erected in the year 1745) was made for the purpose of shewing the progress and extent of the Great Fire which happened in the year 1776, the number of houses that was consumed, and also the Fire of 1778",
+  "georss_box_s": "40.7702778 -73.9797222 40.8102778 -73.9397222",
+  "layer_modified_dt": "2015-01-21T22:24:02Z",
   "dc_creator_sm": [
     "Valentine, D. T.",
     "Grim, David.",
     "Hayward, George,",
     "Fox, N. B.,"
   ],
-  "dc_description_s": "This plan of the City of New York (within the palisades which were erected in the year 1745) was made for the purpose of shewing the progress and extent of the Great Fire which happened in the year 1776, the number of houses that was consumed, and also the Fire of 1778",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "kp78gj79g",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/kp78gj79g/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fkp%2F78%2Fgj%2F79%2Fg%2F00000001.jp2/info.json\"}",
   "layer_id_s": "kp78gj79g",
-  "layer_slug_s": "princeton-kp78gj79g",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:02Z",
-  "dc_title_s": "This plan of the City of New York (within the palisades which were erected in the year 1745) was made for the purpose of shewing the progress and extent of the Great Fire which happened in the year 1776, the number of houses that was consumed, and also the Fire of 1778",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "kp78gj79g",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "This plan of the City of New York (within the palisades which were erected in the year 1745) was made for the purpose of shewing the progress and extent of the Great Fire which happened in the year 1776, the number of houses that was consumed, and also the Fire of 1778",
+  "layer_slug_s": "princeton-kp78gj79g",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/kp78gj79g/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/kp/78/gj/79/g/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.8102778 -73.9797222 40.8102778 -73.9397222 40.7702778 -73.9397222 40.7702778 -73.9797222 40.8102778 -73.9797222",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1778"
   ],
-  "georss_box_s": "40.7702778 -73.9797222 40.8102778 -73.9397222",
-  "georss_polygon_s": "40.8102778 -73.9797222 40.8102778 -73.9397222 40.7702778 -73.9397222 40.7702778 -73.9797222 40.8102778 -73.9797222",
   "solr_geom": "ENVELOPE(-73.9797222, -73.9397222, 40.8102778, 40.7702778)",
-  "solr_year_i": "1778"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

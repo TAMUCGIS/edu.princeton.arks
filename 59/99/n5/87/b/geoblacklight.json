@@ -1,5 +1,9 @@
 {
+  "solr_year_i": "1695",
   "uuid": "http://arks.princeton.edu/ark:/88435/5999n587b",
+  "dc_description_s": "Northampton Shire",
+  "georss_box_s": "51.9772678 -1.3323599 52.6436008 -0.3415929",
+  "layer_modified_dt": "2015-01-21T22:24:17Z",
   "dc_creator_sm": [
     "Camden, William,",
     "Churchill, Awnsham,",
@@ -7,26 +11,22 @@
     "Morris, William A.,",
     "Swall, Abel,"
   ],
-  "dc_description_s": "Northampton Shire",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "5999n587b",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/5999n587b/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F59%2F99%2Fn5%2F87%2F00000001.jp2/info.json\"}",
   "layer_id_s": "5999n587b",
-  "layer_slug_s": "princeton-5999n587b",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:17Z",
-  "dc_title_s": "Northampton Shire",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Northamptonshire (England)"
-  ],
+  "dc_identifier_s": "5999n587b",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Northampton Shire",
+  "layer_slug_s": "princeton-5999n587b",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/5999n587b/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/59/99/n5/87/b/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "52.6436008 -1.3323599 52.6436008 -0.3415929 51.9772678 -0.3415929 51.9772678 -1.3323599 52.6436008 -1.3323599",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1695"
   ],
-  "georss_box_s": "51.9772678 -1.3323599 52.6436008 -0.3415929",
-  "georss_polygon_s": "52.6436008 -1.3323599 52.6436008 -0.3415929 51.9772678 -0.3415929 51.9772678 -1.3323599 52.6436008 -1.3323599",
   "solr_geom": "ENVELOPE(-1.3323599, -0.3415929, 52.6436008, 51.9772678)",
-  "solr_year_i": "1695"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Northamptonshire (England)"
+  ]
 }

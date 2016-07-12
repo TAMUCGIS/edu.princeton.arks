@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1776",
   "uuid": "http://arks.princeton.edu/ark:/88435/xs55mf60j",
+  "dc_description_s": "A topographical map of Hudsons River : with the channels depth of water, rocks, shoals &c. and the country adjacent, from Sandy-Hook, New York and bay to Fort Edward, also the communication with Canada by Lake George and Lake Champlain, as high as Fort Chambly on Sorel River",
+  "georss_box_s": "43.5825015 -73.4609047 45.1605857 -73.0760801",
+  "layer_modified_dt": "2015-01-25T02:06:19Z",
   "dc_creator_sm": [
     "Faden, William,",
     "Fox, N. B.,"
   ],
-  "dc_description_s": "A topographical map of Hudsons River : with the channels depth of water, rocks, shoals &c. and the country adjacent, from Sandy-Hook, New York and bay to Fort Edward, also the communication with Canada by Lake George and Lake Champlain, as high as Fort Chambly on Sorel River",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "xs55mf60j",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/xs55mf60j/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fxs%2F55%2Fmf%2F60%2F00000001.jp2/info.json\"}",
   "layer_id_s": "xs55mf60j",
-  "layer_slug_s": "princeton-xs55mf60j",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:19Z",
-  "dc_title_s": "A topographical map of Hudsons River : with the channels depth of water, rocks, shoals &c. and the country adjacent, from Sandy-Hook, New York and bay to Fort Edward, also the communication with Canada by Lake George and Lake Champlain, as high as Fort Chambly on Sorel River",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Champlain, Lake"
-  ],
+  "dc_identifier_s": "xs55mf60j",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "A topographical map of Hudsons River : with the channels depth of water, rocks, shoals &c. and the country adjacent, from Sandy-Hook, New York and bay to Fort Edward, also the communication with Canada by Lake George and Lake Champlain, as high as Fort Chambly on Sorel River",
+  "layer_slug_s": "princeton-xs55mf60j",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/xs55mf60j/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/xs/55/mf/60/j/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "45.1605857 -73.4609047 45.1605857 -73.0760801 43.5825015 -73.0760801 43.5825015 -73.4609047 45.1605857 -73.4609047",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1776"
   ],
-  "georss_box_s": "43.5825015 -73.4609047 45.1605857 -73.0760801",
-  "georss_polygon_s": "45.1605857 -73.4609047 45.1605857 -73.0760801 43.5825015 -73.0760801 43.5825015 -73.4609047 45.1605857 -73.4609047",
   "solr_geom": "ENVELOPE(-73.4609047, -73.0760801, 45.1605857, 43.5825015)",
-  "solr_year_i": "1776"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Champlain, Lake"
+  ]
 }

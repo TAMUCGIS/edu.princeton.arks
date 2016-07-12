@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1856",
   "uuid": "http://arks.princeton.edu/ark:/88435/h128nh171",
+  "dc_description_s": "Southern division of the United States : designed to accompany Cornell's High school geography",
+  "georss_box_s": "24.5248244719 -106.6456461 39.7493368813 -74.2160467125",
+  "layer_modified_dt": "2015-01-21T22:24:13Z",
   "dc_creator_sm": [
     "Wells, J.",
     "Cornell, S. S.",
     "Fisher, W. H.,"
   ],
-  "dc_description_s": "Southern division of the United States : designed to accompany Cornell's High school geography",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "h128nh171",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/h128nh171/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fh1%2F28%2Fnh%2F17%2F1%2F00000001.jp2/info.json\"}",
   "layer_id_s": "h128nh171",
-  "layer_slug_s": "princeton-h128nh171",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:13Z",
-  "dc_title_s": "Southern division of the United States : designed to accompany Cornell's High school geography",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Southern States"
-  ],
+  "dc_identifier_s": "h128nh171",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Southern division of the United States : designed to accompany Cornell's High school geography",
+  "layer_slug_s": "princeton-h128nh171",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/h128nh171/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/h1/28/nh/17/1/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "39.7493368813 -106.6456461 39.7493368813 -74.2160467125 24.5248244719 -74.2160467125 24.5248244719 -106.6456461 39.7493368813 -106.6456461",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1856"
   ],
-  "georss_box_s": "24.5248244719 -106.6456461 39.7493368813 -74.2160467125",
-  "georss_polygon_s": "39.7493368813 -106.6456461 39.7493368813 -74.2160467125 24.5248244719 -74.2160467125 24.5248244719 -106.6456461 39.7493368813 -106.6456461",
   "solr_geom": "ENVELOPE(-106.6456461, -74.2160467125, 39.7493368813, 24.5248244719)",
-  "solr_year_i": "1856"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Southern States"
+  ]
 }

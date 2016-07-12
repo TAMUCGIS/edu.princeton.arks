@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1919",
   "uuid": "http://arks.princeton.edu/ark:/88435/fq977x287",
   "dc_description_s": "Rand McNally standard map of Italy",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "fq977x287",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/fq977x287/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ffq%2F97%2F7x%2F28%2F7%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "fq977x287",
-  "layer_slug_s": "princeton-fq977x287",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "35.2889616 6.6272658 47.0921462 18.7844746",
   "layer_modified_dt": "2015-01-25T02:06:18Z",
-  "dc_title_s": "Rand McNally standard map of Italy",
+  "layer_id_s": "fq977x287",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Italy"
-  ],
+  "dc_identifier_s": "fq977x287",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Rand McNally standard map of Italy",
+  "layer_slug_s": "princeton-fq977x287",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/fq977x287/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/fq/97/7x/28/7/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "47.0921462 6.6272658 47.0921462 18.7844746 35.2889616 18.7844746 35.2889616 6.6272658 47.0921462 6.6272658",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1919"
   ],
-  "georss_box_s": "35.2889616 6.6272658 47.0921462 18.7844746",
-  "georss_polygon_s": "47.0921462 6.6272658 47.0921462 18.7844746 35.2889616 18.7844746 35.2889616 6.6272658 47.0921462 6.6272658",
   "solr_geom": "ENVELOPE(6.6272658, 18.7844746, 47.0921462, 35.2889616)",
-  "solr_year_i": "1919"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Italy"
+  ]
 }

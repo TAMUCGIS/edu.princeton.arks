@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/xg94hr83w",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Elizabeth",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "xg94hr83w",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fxg%2F94%2Fhr%2F83%2Fw%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "xg94hr83w",
-  "layer_slug_s": "princeton-xg94hr83w",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:09:38Z",
+  "solr_geom": "ENVELOPE(-74.254216, -74.138869, 40.690428, 40.634165)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/xg/94/hr/83/w/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/xg94hr83w",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Insurance maps of Elizabeth, Union County, New Jersey (Sheet 5).",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1903"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "xg94hr83w",
+  "georss_polygon_s": "40.690428 -74.254216 40.690428 -74.138869 40.634165 -74.138869 40.634165 -74.254216 40.690428 -74.254216",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1903",
   "dct_spatial_sm": [
     "New Jersey",
     "Elizabeth"
   ],
-  "dct_temporal_sm": [
-    "1903"
-  ],
+  "layer_id_s": "xg94hr83w",
   "georss_box_s": "40.634165 -74.254216 40.690428 -74.138869",
-  "georss_polygon_s": "40.690428 -74.254216 40.690428 -74.138869 40.634165 -74.138869 40.634165 -74.254216 40.690428 -74.254216",
-  "solr_geom": "ENVELOPE(-74.254216, -74.138869, 40.690428, 40.634165)",
-  "solr_year_i": "1903"
+  "dc_title_s": "Insurance maps of Elizabeth, Union County, New Jersey (Sheet 5).",
+  "layer_slug_s": "princeton-xg94hr83w",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

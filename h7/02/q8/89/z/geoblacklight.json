@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1901",
   "uuid": "http://arks.princeton.edu/ark:/88435/h702q889z",
   "dc_description_s": "County Dublin, Province of Leinster, Ireland",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "h702q889z",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/h702q889z/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fh7%2F02%2Fq8%2F89%2Fz%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "h702q889z",
-  "layer_slug_s": "princeton-h702q889z",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "53.1894299 -6.4200969 53.5094299 -6.1000969",
   "layer_modified_dt": "2015-01-21T22:24:24Z",
-  "dc_title_s": "County Dublin, Province of Leinster, Ireland",
+  "layer_id_s": "h702q889z",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Dublin (Ireland : County)"
-  ],
+  "dc_identifier_s": "h702q889z",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "County Dublin, Province of Leinster, Ireland",
+  "layer_slug_s": "princeton-h702q889z",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/h702q889z/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/h7/02/q8/89/z/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "53.5094299 -6.4200969 53.5094299 -6.1000969 53.1894299 -6.1000969 53.1894299 -6.4200969 53.5094299 -6.4200969",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1901"
   ],
-  "georss_box_s": "53.1894299 -6.4200969 53.5094299 -6.1000969",
-  "georss_polygon_s": "53.5094299 -6.4200969 53.5094299 -6.1000969 53.1894299 -6.1000969 53.1894299 -6.4200969 53.5094299 -6.4200969",
   "solr_geom": "ENVELOPE(-6.4200969, -6.1000969, 53.5094299, 53.1894299)",
-  "solr_year_i": "1901"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Dublin (Ireland : County)"
+  ]
 }

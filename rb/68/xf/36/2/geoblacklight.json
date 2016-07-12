@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1825",
   "uuid": "http://arks.princeton.edu/ark:/88435/rb68xf362",
+  "dc_description_s": "Mexico and internal provinces Prepared from Humboldt's map & other documents /",
+  "georss_box_s": "15.0 -115.0 41.0 -86.0",
+  "layer_modified_dt": "2015-01-19T22:37:35Z",
   "dc_creator_sm": [
     "Cooper, John C.,"
   ],
-  "dc_description_s": "Mexico and internal provinces Prepared from Humboldt's map & other documents /",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "rb68xf362",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/rb68xf362/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Frb%2F68%2Fxf%2F36%2F2%2F00000001.jp2/info.json\"}",
   "layer_id_s": "rb68xf362",
-  "layer_slug_s": "princeton-rb68xf362",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:35Z",
-  "dc_title_s": "Mexico and internal provinces Prepared from Humboldt's map & other documents /",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Mexico",
-    "Southwestern States"
-  ],
+  "dc_identifier_s": "rb68xf362",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Mexico and internal provinces Prepared from Humboldt's map & other documents /",
+  "layer_slug_s": "princeton-rb68xf362",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/rb68xf362/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/rb/68/xf/36/2/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "41.0 -115.0 41.0 -86.0 15.0 -86.0 15.0 -115.0 41.0 -115.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1825"
   ],
-  "georss_box_s": "15.0 -115.0 41.0 -86.0",
-  "georss_polygon_s": "41.0 -115.0 41.0 -86.0 15.0 -86.0 15.0 -115.0 41.0 -115.0",
   "solr_geom": "ENVELOPE(-115.0, -86.0, 41.0, 15.0)",
-  "solr_year_i": "1825"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Mexico",
+    "Southwestern States"
+  ]
 }

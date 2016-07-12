@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1856",
   "uuid": "http://arks.princeton.edu/ark:/88435/g158bk75v",
   "dc_description_s": "The Electric and International Telegraph Company's map of the telegraph lines of Europe, 1856",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "g158bk75v",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/g158bk75v/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fg1%2F58%2Fbk%2F75%2Fv%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "g158bk75v",
-  "layer_slug_s": "princeton-g158bk75v",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "50.9999503 9.9999497 51.0000503 10.0000497",
   "layer_modified_dt": "2015-01-21T22:24:10Z",
-  "dc_title_s": "The Electric and International Telegraph Company's map of the telegraph lines of Europe, 1856",
+  "layer_id_s": "g158bk75v",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Europe"
-  ],
+  "dc_identifier_s": "g158bk75v",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "The Electric and International Telegraph Company's map of the telegraph lines of Europe, 1856",
+  "layer_slug_s": "princeton-g158bk75v",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/g158bk75v/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/g1/58/bk/75/v/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "51.0000503 9.9999497 51.0000503 10.0000497 50.9999503 10.0000497 50.9999503 9.9999497 51.0000503 9.9999497",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1856"
   ],
-  "georss_box_s": "50.9999503 9.9999497 51.0000503 10.0000497",
-  "georss_polygon_s": "51.0000503 9.9999497 51.0000503 10.0000497 50.9999503 10.0000497 50.9999503 9.9999497 51.0000503 9.9999497",
   "solr_geom": "ENVELOPE(9.9999497, 10.0000497, 51.0000503, 50.9999503)",
-  "solr_year_i": "1856"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Europe"
+  ]
 }

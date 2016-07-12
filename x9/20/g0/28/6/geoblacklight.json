@@ -1,29 +1,27 @@
 {
+  "solr_year_i": "1778",
   "uuid": "http://arks.princeton.edu/ark:/88435/x920g0286",
+  "dc_description_s": "Carte de l'entre\u0301e de la rivie\u0300re d'Hudson, de\u0301puis Sandy-Hook jusques a\u0300 New-York, avec les bancs, sondes, marques de navigation &c.",
+  "georss_box_s": "40.6039828 -74.1994751 44.0924797 -73.5725963",
+  "layer_modified_dt": "2015-01-21T22:24:01Z",
   "dc_creator_sm": [
     "Sartine, Antoine de,",
     "Fox, N. B.,"
   ],
-  "dc_description_s": "Carte de l'entrée de la rivière d'Hudson, dépuis Sandy-Hook jusques à New-York, avec les bancs, sondes, marques de navigation &c.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "x920g0286",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/x920g0286/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fx9%2F20%2Fg0%2F28%2F6%2F00000001.jp2/info.json\"}",
   "layer_id_s": "x920g0286",
-  "layer_slug_s": "princeton-x920g0286",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:01Z",
-  "dc_title_s": "Carte de l'entrée de la rivière d'Hudson, dépuis Sandy-Hook jusques à New-York, avec les bancs, sondes, marques de navigation &c.",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "x920g0286",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Carte de l'entre\u0301e de la rivie\u0300re d'Hudson, de\u0301puis Sandy-Hook jusques a\u0300 New-York, avec les bancs, sondes, marques de navigation &c.",
+  "layer_slug_s": "princeton-x920g0286",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/x920g0286/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/x9/20/g0/28/6/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "44.0924797 -74.1994751 44.0924797 -73.5725963 40.6039828 -73.5725963 40.6039828 -74.1994751 44.0924797 -74.1994751",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1778"
   ],
-  "georss_box_s": "40.6039828 -74.1994751 44.0924797 -73.5725963",
-  "georss_polygon_s": "44.0924797 -74.1994751 44.0924797 -73.5725963 40.6039828 -73.5725963 40.6039828 -74.1994751 44.0924797 -74.1994751",
   "solr_geom": "ENVELOPE(-74.1994751, -73.5725963, 44.0924797, 40.6039828)",
-  "solr_year_i": "1778"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

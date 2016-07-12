@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/fn107127j",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Westfield",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "fn107127j",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ffn%2F10%2F71%2F27%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "fn107127j",
-  "layer_slug_s": "princeton-fn107127j",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:10:31Z",
+  "solr_geom": "ENVELOPE(-74.379359, -74.313192, 40.682192, 40.6244)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/fn/10/71/27/j/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/fn107127j",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Insurance maps of Westfield, Union Co., New Jersey : including Garwood (Sheet 24)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1921"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "fn107127j",
+  "georss_polygon_s": "40.682192 -74.379359 40.682192 -74.313192 40.6244 -74.313192 40.6244 -74.379359 40.682192 -74.379359",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1921",
   "dct_spatial_sm": [
     "New Jersey",
     "Westfield"
   ],
-  "dct_temporal_sm": [
-    "1921"
-  ],
+  "layer_id_s": "fn107127j",
   "georss_box_s": "40.6244 -74.379359 40.682192 -74.313192",
-  "georss_polygon_s": "40.682192 -74.379359 40.682192 -74.313192 40.6244 -74.313192 40.6244 -74.379359 40.682192 -74.379359",
-  "solr_geom": "ENVELOPE(-74.379359, -74.313192, 40.682192, 40.6244)",
-  "solr_year_i": "1921"
+  "dc_title_s": "Insurance maps of Westfield, Union Co., New Jersey : including Garwood (Sheet 24)",
+  "layer_slug_s": "princeton-fn107127j",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

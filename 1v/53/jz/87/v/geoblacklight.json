@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1892",
   "uuid": "http://arks.princeton.edu/ark:/88435/1v53jz87v",
   "dc_description_s": "Rand, McNally & Co.'s indexed atlas of the world map of Turkey in Asia (Asia Minor)",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "1v53jz87v",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/1v53jz87v/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F1v%2F53%2Fjz%2F87%2Fv%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "1v53jz87v",
-  "layer_slug_s": "princeton-1v53jz87v",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "35.8076804 25.6212891 42.297 44.8176638",
   "layer_modified_dt": "2015-01-21T22:23:48Z",
-  "dc_title_s": "Rand, McNally & Co.'s indexed atlas of the world map of Turkey in Asia (Asia Minor)",
+  "layer_id_s": "1v53jz87v",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Turkey",
-    "Middle East"
-  ],
+  "dc_identifier_s": "1v53jz87v",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Rand, McNally & Co.'s indexed atlas of the world map of Turkey in Asia (Asia Minor)",
+  "layer_slug_s": "princeton-1v53jz87v",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/1v53jz87v/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/1v/53/jz/87/v/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "42.297 25.6212891 42.297 44.8176638 35.8076804 44.8176638 35.8076804 25.6212891 42.297 25.6212891",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1892"
   ],
-  "georss_box_s": "35.8076804 25.6212891 42.297 44.8176638",
-  "georss_polygon_s": "42.297 25.6212891 42.297 44.8176638 35.8076804 44.8176638 35.8076804 25.6212891 42.297 25.6212891",
   "solr_geom": "ENVELOPE(25.6212891, 44.8176638, 42.297, 35.8076804)",
-  "solr_year_i": "1892"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Turkey",
+    "Middle East"
+  ]
 }

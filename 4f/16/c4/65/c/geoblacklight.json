@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1913",
   "uuid": "http://arks.princeton.edu/ark:/88435/4f16c465c",
   "dc_description_s": "[Lake Tana area]",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "4f16c465c",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/4f16c465c/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F4f%2F16%2Fc4%2F65%2Fc%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "4f16c465c",
-  "layer_slug_s": "princeton-4f16c465c",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "11.596369 36.9947734 12.3059559 37.6214437",
   "layer_modified_dt": "2015-01-21T22:23:42Z",
-  "dc_title_s": "[Lake Tana area]",
+  "layer_id_s": "4f16c465c",
   "dc_type_s": "Image",
+  "dc_identifier_s": "4f16c465c",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "[Lake Tana area]",
+  "layer_slug_s": "princeton-4f16c465c",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/4f16c465c/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/4f/16/c4/65/c/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "12.3059559 36.9947734 12.3059559 37.6214437 11.596369 37.6214437 11.596369 36.9947734 12.3059559 36.9947734",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1913"
+  ],
+  "solr_geom": "ENVELOPE(36.9947734, 37.6214437, 12.3059559, 11.596369)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Tana, Lake (Ethiopia)",
     "Ethiopia",
     "Eritrea",
     "Somalia"
-  ],
-  "dct_temporal_sm": [
-    "1913"
-  ],
-  "georss_box_s": "11.596369 36.9947734 12.3059559 37.6214437",
-  "georss_polygon_s": "12.3059559 36.9947734 12.3059559 37.6214437 11.596369 37.6214437 11.596369 36.9947734 12.3059559 36.9947734",
-  "solr_geom": "ENVELOPE(36.9947734, 37.6214437, 12.3059559, 11.596369)",
-  "solr_year_i": "1913"
+  ]
 }

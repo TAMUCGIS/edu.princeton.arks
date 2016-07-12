@@ -1,21 +1,21 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/h702q8851",
   "dc_description_s": "Panorama d'Europa",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "h702q8851",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/h702q8851/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fh7%2F02%2Fq8%2F85%2F1%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "h702q8851",
-  "layer_slug_s": "princeton-h702q8851",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "50.9999503 9.9999497 51.0000503 10.0000497",
   "layer_modified_dt": "2015-01-21T22:24:13Z",
-  "dc_title_s": "Panorama d'Europa",
+  "layer_id_s": "h702q8851",
   "dc_type_s": "Image",
+  "dc_identifier_s": "h702q8851",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Panorama d'Europa",
+  "layer_slug_s": "princeton-h702q8851",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/h702q8851/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/h7/02/q8/85/1/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "51.0000503 9.9999497 51.0000503 10.0000497 50.9999503 10.0000497 50.9999503 9.9999497 51.0000503 9.9999497",
+  "layer_geom_type_s": "Image",
+  "solr_geom": "ENVELOPE(9.9999497, 10.0000497, 51.0000503, 50.9999503)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Europe"
-  ],
-  "georss_box_s": "50.9999503 9.9999497 51.0000503 10.0000497",
-  "georss_polygon_s": "51.0000503 9.9999497 51.0000503 10.0000497 50.9999503 10.0000497 50.9999503 9.9999497 51.0000503 9.9999497",
-  "solr_geom": "ENVELOPE(9.9999497, 10.0000497, 51.0000503, 50.9999503)"
+  ]
 }

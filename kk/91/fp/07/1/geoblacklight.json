@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1901",
   "uuid": "http://arks.princeton.edu/ark:/88435/kk91fp071",
   "dc_description_s": "Kings County, Province of Leinster, Ireland",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "kk91fp071",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/kk91fp071/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fkk%2F91%2Ffp%2F07%2F1%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "kk91fp071",
-  "layer_slug_s": "princeton-kk91fp071",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "51.5102832 -0.3273925 51.5104658 -0.3271306",
   "layer_modified_dt": "2015-01-21T22:24:24Z",
-  "dc_title_s": "Kings County, Province of Leinster, Ireland",
+  "layer_id_s": "kk91fp071",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Offaly (Ireland)"
-  ],
+  "dc_identifier_s": "kk91fp071",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Kings County, Province of Leinster, Ireland",
+  "layer_slug_s": "princeton-kk91fp071",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/kk91fp071/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/kk/91/fp/07/1/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "51.5104658 -0.3273925 51.5104658 -0.3271306 51.5102832 -0.3271306 51.5102832 -0.3273925 51.5104658 -0.3273925",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1901"
   ],
-  "georss_box_s": "51.5102832 -0.3273925 51.5104658 -0.3271306",
-  "georss_polygon_s": "51.5104658 -0.3273925 51.5104658 -0.3271306 51.5102832 -0.3271306 51.5102832 -0.3273925 51.5104658 -0.3273925",
   "solr_geom": "ENVELOPE(-0.3273925, -0.3271306, 51.5104658, 51.5102832)",
-  "solr_year_i": "1901"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Offaly (Ireland)"
+  ]
 }

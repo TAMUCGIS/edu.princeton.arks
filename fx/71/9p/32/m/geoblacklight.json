@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1874",
   "uuid": "http://arks.princeton.edu/ark:/88435/fx719p32m",
+  "dc_description_s": "Asia Minor",
+  "georss_box_s": "35.8076804 25.6212891 42.297 44.8176638",
+  "layer_modified_dt": "2015-01-21T22:23:47Z",
   "dc_creator_sm": [
     "Smith, William,",
     "Weller, Edward,"
   ],
-  "dc_description_s": "Asia Minor",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "fx719p32m",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/fx719p32m/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ffx%2F71%2F9p%2F32%2Fm%2F00000001.jp2/info.json\"}",
   "layer_id_s": "fx719p32m",
-  "layer_slug_s": "princeton-fx719p32m",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:47Z",
-  "dc_title_s": "Asia Minor",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Turkey",
-    "Middle East"
-  ],
+  "dc_identifier_s": "fx719p32m",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Asia Minor",
+  "layer_slug_s": "princeton-fx719p32m",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/fx719p32m/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/fx/71/9p/32/m/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "42.297 25.6212891 42.297 44.8176638 35.8076804 44.8176638 35.8076804 25.6212891 42.297 25.6212891",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1874"
   ],
-  "georss_box_s": "35.8076804 25.6212891 42.297 44.8176638",
-  "georss_polygon_s": "42.297 25.6212891 42.297 44.8176638 35.8076804 44.8176638 35.8076804 25.6212891 42.297 25.6212891",
   "solr_geom": "ENVELOPE(25.6212891, 44.8176638, 42.297, 35.8076804)",
-  "solr_year_i": "1874"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Turkey",
+    "Middle East"
+  ]
 }

@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1843",
   "uuid": "http://arks.princeton.edu/ark:/88435/fn107139z",
+  "dc_description_s": "New York ; City of New York, 1843",
+  "georss_box_s": "40.4913686 -79.7621438 45.015865 -71.8562643",
+  "layer_modified_dt": "2015-01-25T02:06:11Z",
   "dc_creator_sm": [
     "Breese, Samuel,"
   ],
-  "dc_description_s": "New York ; City of New York, 1843",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "fn107139z",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/fn107139z/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ffn%2F10%2F71%2F39%2Fz%2F00000001.jp2/info.json\"}",
   "layer_id_s": "fn107139z",
-  "layer_slug_s": "princeton-fn107139z",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:11Z",
-  "dc_title_s": "New York ; City of New York, 1843",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "New York (State)",
-    "New York (State)"
-  ],
+  "dc_identifier_s": "fn107139z",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "New York ; City of New York, 1843",
+  "layer_slug_s": "princeton-fn107139z",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/fn107139z/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/fn/10/71/39/z/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "45.015865 -79.7621438 45.015865 -71.8562643 40.4913686 -71.8562643 40.4913686 -79.7621438 45.015865 -79.7621438",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1843"
   ],
-  "georss_box_s": "40.4913686 -79.7621438 45.015865 -71.8562643",
-  "georss_polygon_s": "45.015865 -79.7621438 45.015865 -71.8562643 40.4913686 -71.8562643 40.4913686 -79.7621438 45.015865 -79.7621438",
   "solr_geom": "ENVELOPE(-79.7621438, -71.8562643, 45.015865, 40.4913686)",
-  "solr_year_i": "1843"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "New York (State)",
+    "New York (State)"
+  ]
 }

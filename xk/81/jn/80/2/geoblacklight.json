@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1748",
   "uuid": "http://arks.princeton.edu/ark:/88435/xk81jn802",
+  "dc_description_s": "A prospect of the city of Genoa",
+  "georss_box_s": "44.3784709 8.6657195 44.5198419 9.0955805",
+  "layer_modified_dt": "2015-01-21T22:24:00Z",
   "dc_creator_sm": [
     "Harris, John,"
   ],
-  "dc_description_s": "A prospect of the city of Genoa",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "xk81jn802",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/xk81jn802/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fxk%2F81%2Fjn%2F80%2F2%2F00000001.jp2/info.json\"}",
   "layer_id_s": "xk81jn802",
-  "layer_slug_s": "princeton-xk81jn802",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:00Z",
-  "dc_title_s": "A prospect of the city of Genoa",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Genoa (Italy)"
-  ],
+  "dc_identifier_s": "xk81jn802",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "A prospect of the city of Genoa",
+  "layer_slug_s": "princeton-xk81jn802",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/xk81jn802/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/xk/81/jn/80/2/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "44.5198419 8.6657195 44.5198419 9.0955805 44.3784709 9.0955805 44.3784709 8.6657195 44.5198419 8.6657195",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1748"
   ],
-  "georss_box_s": "44.3784709 8.6657195 44.5198419 9.0955805",
-  "georss_polygon_s": "44.5198419 8.6657195 44.5198419 9.0955805 44.3784709 9.0955805 44.3784709 8.6657195 44.5198419 8.6657195",
   "solr_geom": "ENVELOPE(8.6657195, 9.0955805, 44.5198419, 44.3784709)",
-  "solr_year_i": "1748"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Genoa (Italy)"
+  ]
 }

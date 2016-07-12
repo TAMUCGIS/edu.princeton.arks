@@ -2,7 +2,7 @@
   "dc_description_s": "This is a Sanborn map of Keyport, Monmouth County, New Jersey, shown at a scale of 1:600.",
   "layer_modified_dt": "2015-01-11T17:43:38Z",
   "solr_geom": "ENVELOPE(-74.219, -74.183, 40.448, 40.423)",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fcz%2F30%2Fpv%2F41%2F1%2F00000001.jp2/info.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/cz30pv411/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/cz30pv411/preview.jpg\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/cz30pv411/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/cz/30/pv/41/1/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/cz30pv411/preview.jpg\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/cz30pv411",
   "dct_provenance_s": "Princeton",
@@ -12,7 +12,7 @@
     "Sanborn"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "1896",
+  "layer_slug_s": "princeton-cz30pv411",
   "dc_creator_sm": [
     "New York : Sanborn Map Company"
   ],
@@ -30,7 +30,7 @@
   "layer_id_s": "cz30pv411",
   "georss_box_s": "40.423 -74.219 40.448 -74.183",
   "dc_title_s": "Keyport (Sheet 5), Monmouth Co., N.J.",
-  "layer_slug_s": "princeton-cz30pv411",
+  "dct_issued_s": "1896",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

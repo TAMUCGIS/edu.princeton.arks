@@ -1,21 +1,28 @@
 {
+  "solr_year_i": "1636",
   "uuid": "http://arks.princeton.edu/ark:/88435/44558g808",
+  "dc_description_s": "Plans of the principal towns, forts and harbours in Ireland",
+  "georss_box_s": "53.3846463 -7.9805485 53.4646463 -7.9005485",
+  "layer_modified_dt": "2015-01-21T22:24:23Z",
   "dc_creator_sm": [
     "Tindal, N.",
     "Rapin de Thoyras,"
   ],
-  "dc_description_s": "Plans of the principal towns, forts and harbours in Ireland",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "44558g808",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/44558g808/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F44%2F55%2F8g%2F80%2F8%2F00000001.jp2/info.json\"}",
   "layer_id_s": "44558g808",
-  "layer_slug_s": "princeton-44558g808",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:23Z",
-  "dc_title_s": "Plans of the principal towns, forts and harbours in Ireland",
   "dc_type_s": "Image",
+  "dc_identifier_s": "44558g808",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Plans of the principal towns, forts and harbours in Ireland",
+  "layer_slug_s": "princeton-44558g808",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/44558g808/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/44/55/8g/80/8/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "53.4646463 -7.9805485 53.4646463 -7.9005485 53.3846463 -7.9005485 53.3846463 -7.9805485 53.4646463 -7.9805485",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1636"
+  ],
+  "solr_geom": "ENVELOPE(-7.9805485, -7.9005485, 53.4646463, 53.3846463)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Athlone (Ireland)",
     "Belfast (Northern Ireland)",
@@ -33,12 +40,5 @@
     "Kinsale (Ireland)",
     "Limerick (Limerick, Ireland)",
     "Waterford (Ireland)"
-  ],
-  "dct_temporal_sm": [
-    "1636"
-  ],
-  "georss_box_s": "53.3846463 -7.9805485 53.4646463 -7.9005485",
-  "georss_polygon_s": "53.4646463 -7.9805485 53.4646463 -7.9005485 53.3846463 -7.9005485 53.3846463 -7.9805485 53.4646463 -7.9805485",
-  "solr_geom": "ENVELOPE(-7.9805485, -7.9005485, 53.4646463, 53.3846463)",
-  "solr_year_i": "1636"
+  ]
 }

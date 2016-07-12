@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1650",
   "uuid": "http://arks.princeton.edu/ark:/88435/j098zd606",
   "dc_description_s": "Shropshyre described : the sittuation of Shrowesbury shewed with the armes of thos Earles, and other memorable things observed",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "j098zd606",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/j098zd606/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F0%2F98%2Fzd%2F60%2F6%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "j098zd606",
-  "layer_slug_s": "princeton-j098zd606",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "52.6679067 -2.7939829 52.7479067 -2.7139829",
   "layer_modified_dt": "2015-01-21T22:24:19Z",
-  "dc_title_s": "Shropshyre described : the sittuation of Shrowesbury shewed with the armes of thos Earles, and other memorable things observed",
+  "layer_id_s": "j098zd606",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Shrewsbury (England)",
-    "Shropshire (England)"
-  ],
+  "dc_identifier_s": "j098zd606",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Shropshyre described : the sittuation of Shrowesbury shewed with the armes of thos Earles, and other memorable things observed",
+  "layer_slug_s": "princeton-j098zd606",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/j098zd606/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/j0/98/zd/60/6/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "52.7479067 -2.7939829 52.7479067 -2.7139829 52.6679067 -2.7139829 52.6679067 -2.7939829 52.7479067 -2.7939829",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1650"
   ],
-  "georss_box_s": "52.6679067 -2.7939829 52.7479067 -2.7139829",
-  "georss_polygon_s": "52.7479067 -2.7939829 52.7479067 -2.7139829 52.6679067 -2.7139829 52.6679067 -2.7939829 52.7479067 -2.7939829",
   "solr_geom": "ENVELOPE(-2.7939829, -2.7139829, 52.7479067, 52.6679067)",
-  "solr_year_i": "1650"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Shrewsbury (England)",
+    "Shropshire (England)"
+  ]
 }

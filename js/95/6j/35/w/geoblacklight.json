@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1895",
   "uuid": "http://arks.princeton.edu/ark:/88435/js956j35w",
-  "dc_description_s": "Leipzig : mit sämtl. angeschlossenen Vororten",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "js956j35w",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/js956j35w/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fs%2F95%2F6j%2F35%2Fw%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "js956j35w",
-  "layer_slug_s": "princeton-js956j35w",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Leipzig : mit sa\u0308mtl. angeschlossenen Vororten",
+  "georss_box_s": "51.1791827 12.2210549 51.4991827 12.5410549",
   "layer_modified_dt": "2015-01-25T02:06:19Z",
-  "dc_title_s": "Leipzig : mit sämtl. angeschlossenen Vororten",
+  "layer_id_s": "js956j35w",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Leipzig (Germany)"
-  ],
+  "dc_identifier_s": "js956j35w",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Leipzig : mit sa\u0308mtl. angeschlossenen Vororten",
+  "layer_slug_s": "princeton-js956j35w",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/js956j35w/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/js/95/6j/35/w/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "51.4991827 12.2210549 51.4991827 12.5410549 51.1791827 12.5410549 51.1791827 12.2210549 51.4991827 12.2210549",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1895"
   ],
-  "georss_box_s": "51.1791827 12.2210549 51.4991827 12.5410549",
-  "georss_polygon_s": "51.4991827 12.2210549 51.4991827 12.5410549 51.1791827 12.5410549 51.1791827 12.2210549 51.4991827 12.2210549",
   "solr_geom": "ENVELOPE(12.2210549, 12.5410549, 51.4991827, 51.1791827)",
-  "solr_year_i": "1895"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Leipzig (Germany)"
+  ]
 }

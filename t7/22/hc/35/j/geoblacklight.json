@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1697",
   "uuid": "http://arks.princeton.edu/ark:/88435/t722hc35j",
+  "dc_description_s": "Epirus hodie Canina cum Maris Ionii Insulis Coreyra seu Corfu Cephalenia seu Cefalogna etc.",
+  "georss_box_s": "38.9444953 20.0086771 40.3766028 21.4299492",
+  "layer_modified_dt": "2015-01-25T02:06:23Z",
   "dc_creator_sm": [
     "Heckel, Johann Friedrich,",
     "Wolters, Joannes,"
   ],
-  "dc_description_s": "Epirus hodie Canina cum Maris Ionii Insulis Coreyra seu Corfu Cephalenia seu Cefalogna etc.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "t722hc35j",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/t722hc35j/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ft7%2F22%2Fhc%2F35%2F00000001.jp2/info.json\"}",
   "layer_id_s": "t722hc35j",
-  "layer_slug_s": "princeton-t722hc35j",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:23Z",
-  "dc_title_s": "Epirus hodie Canina cum Maris Ionii Insulis Coreyra seu Corfu Cephalenia seu Cefalogna etc.",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Epirus (Greece)"
-  ],
+  "dc_identifier_s": "t722hc35j",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Epirus hodie Canina cum Maris Ionii Insulis Coreyra seu Corfu Cephalenia seu Cefalogna etc.",
+  "layer_slug_s": "princeton-t722hc35j",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/t722hc35j/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/t7/22/hc/35/j/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.3766028 20.0086771 40.3766028 21.4299492 38.9444953 21.4299492 38.9444953 20.0086771 40.3766028 20.0086771",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1697"
   ],
-  "georss_box_s": "38.9444953 20.0086771 40.3766028 21.4299492",
-  "georss_polygon_s": "40.3766028 20.0086771 40.3766028 21.4299492 38.9444953 21.4299492 38.9444953 20.0086771 40.3766028 20.0086771",
   "solr_geom": "ENVELOPE(20.0086771, 21.4299492, 40.3766028, 38.9444953)",
-  "solr_year_i": "1697"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Epirus (Greece)"
+  ]
 }

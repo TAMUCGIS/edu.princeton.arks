@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1576",
   "uuid": "http://arks.princeton.edu/ark:/88435/tb09j808d",
+  "dc_description_s": "Metellino",
+  "georss_box_s": "38.8874811 25.8142123 39.5274811 26.4542123",
+  "layer_modified_dt": "2015-01-21T22:23:59Z",
   "dc_creator_sm": [
     "Porro, Girolamo,",
     "Porcacchi, Thomaso,"
   ],
-  "dc_description_s": "Metellino",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "tb09j808d",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/tb09j808d/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ftb%2F09%2Fj8%2F08%2Fd%2F00000001.jp2/info.json\"}",
   "layer_id_s": "tb09j808d",
-  "layer_slug_s": "princeton-tb09j808d",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:59Z",
-  "dc_title_s": "Metellino",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Lesbos Island (Greece)",
-    "Greece"
-  ],
+  "dc_identifier_s": "tb09j808d",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Metellino",
+  "layer_slug_s": "princeton-tb09j808d",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/tb09j808d/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/tb/09/j8/08/d/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "39.5274811 25.8142123 39.5274811 26.4542123 38.8874811 26.4542123 38.8874811 25.8142123 39.5274811 25.8142123",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1576"
   ],
-  "georss_box_s": "38.8874811 25.8142123 39.5274811 26.4542123",
-  "georss_polygon_s": "39.5274811 25.8142123 39.5274811 26.4542123 38.8874811 26.4542123 38.8874811 25.8142123 39.5274811 25.8142123",
   "solr_geom": "ENVELOPE(25.8142123, 26.4542123, 39.5274811, 38.8874811)",
-  "solr_year_i": "1576"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Lesbos Island (Greece)",
+    "Greece"
+  ]
 }

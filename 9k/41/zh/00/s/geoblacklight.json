@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1855",
   "uuid": "http://arks.princeton.edu/ark:/88435/9k41zh00s",
+  "dc_description_s": "Colton's Germany : no. 2",
+  "georss_box_s": "51.0 6.0 55.0 14.0",
+  "layer_modified_dt": "2015-01-23T17:48:37Z",
   "dc_creator_sm": [
     "Colton, G. Woolworth"
   ],
-  "dc_description_s": "Colton's Germany : no. 2",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "9k41zh00s",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/9k41zh00s/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F9k%2F41%2Fzh%2F00%2Fs%2F00000001.jp2/info.json\"}",
   "layer_id_s": "9k41zh00s",
-  "layer_slug_s": "princeton-9k41zh00s",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-23T17:48:37Z",
-  "dc_title_s": "Colton's Germany : no. 2",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Germany, Northern"
-  ],
+  "dc_identifier_s": "9k41zh00s",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Colton's Germany : no. 2",
+  "layer_slug_s": "princeton-9k41zh00s",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/9k41zh00s/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/9k/41/zh/00/s/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "55.0 6.0 55.0 14.0 51.0 14.0 51.0 6.0 55.0 6.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1855"
   ],
-  "georss_box_s": "51.0 6.0 55.0 14.0",
-  "georss_polygon_s": "55.0 6.0 55.0 14.0 51.0 14.0 51.0 6.0 55.0 6.0",
   "solr_geom": "ENVELOPE(6.0, 14.0, 55.0, 51.0)",
-  "solr_year_i": "1855"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Germany, Northern"
+  ]
 }

@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1584",
   "uuid": "http://arks.princeton.edu/ark:/88435/pg15bh350",
+  "dc_description_s": "Valenti\u00e6 regni, olim Contestanorum si Ptolemaeo, Edetanorum si Plinio credimus typus",
+  "georss_box_s": "37.8437887 -1.5289447 40.7886312 0.7121715",
+  "layer_modified_dt": "2015-01-21T22:24:10Z",
   "dc_creator_sm": [
     "Ortelius, Abraham,",
     "McCabe, Robert A.,"
   ],
-  "dc_description_s": "Valentiæ regni, olim Contestanorum si Ptolemaeo, Edetanorum si Plinio credimus typus",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "pg15bh350",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/pg15bh350/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fpg%2F15%2Fbh%2F35%2F0%2F00000001.jp2/info.json\"}",
   "layer_id_s": "pg15bh350",
-  "layer_slug_s": "princeton-pg15bh350",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:10Z",
-  "dc_title_s": "Valentiæ regni, olim Contestanorum si Ptolemaeo, Edetanorum si Plinio credimus typus",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Valencia (Spain)"
-  ],
+  "dc_identifier_s": "pg15bh350",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Valenti\u00e6 regni, olim Contestanorum si Ptolemaeo, Edetanorum si Plinio credimus typus",
+  "layer_slug_s": "princeton-pg15bh350",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/pg15bh350/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/pg/15/bh/35/0/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.7886312 -1.5289447 40.7886312 0.7121715 37.8437887 0.7121715 37.8437887 -1.5289447 40.7886312 -1.5289447",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1584"
   ],
-  "georss_box_s": "37.8437887 -1.5289447 40.7886312 0.7121715",
-  "georss_polygon_s": "40.7886312 -1.5289447 40.7886312 0.7121715 37.8437887 0.7121715 37.8437887 -1.5289447 40.7886312 -1.5289447",
   "solr_geom": "ENVELOPE(-1.5289447, 0.7121715, 40.7886312, 37.8437887)",
-  "solr_year_i": "1584"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Valencia (Spain)"
+  ]
 }

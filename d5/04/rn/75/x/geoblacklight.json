@@ -1,31 +1,31 @@
 {
+  "solr_year_i": "1865",
   "uuid": "http://arks.princeton.edu/ark:/88435/d504rn75x",
+  "dc_description_s": "Plan ge\u0301ome\u0301tral de Paris et de ses agrandissments : a\u0300 l'e\u0301chelle de un millime\u0300tre pour 10 me\u0300tres (1/10.000)",
+  "georss_box_s": "48.8155755 2.224122 48.902156 2.4697602",
+  "layer_modified_dt": "2015-01-21T22:24:02Z",
   "dc_creator_sm": [
     "Piat, A.",
     "Rousset, P.",
     "Potiquet, Alfred.",
     "Antoine, Louis."
   ],
-  "dc_description_s": "Plan géométral de Paris et de ses agrandissments : à l'échelle de un millimètre pour 10 mètres (1/10.000)",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "d504rn75x",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/d504rn75x/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fd5%2F04%2Frn%2F75%2Fx%2F00000001.jp2/info.json\"}",
   "layer_id_s": "d504rn75x",
-  "layer_slug_s": "princeton-d504rn75x",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:02Z",
-  "dc_title_s": "Plan géométral de Paris et de ses agrandissments : à l'échelle de un millimètre pour 10 mètres (1/10.000)",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Paris (France)"
-  ],
+  "dc_identifier_s": "d504rn75x",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Plan ge\u0301ome\u0301tral de Paris et de ses agrandissments : a\u0300 l'e\u0301chelle de un millime\u0300tre pour 10 me\u0300tres (1/10.000)",
+  "layer_slug_s": "princeton-d504rn75x",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/d504rn75x/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/d5/04/rn/75/x/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "48.902156 2.224122 48.902156 2.4697602 48.8155755 2.4697602 48.8155755 2.224122 48.902156 2.224122",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1865"
   ],
-  "georss_box_s": "48.8155755 2.224122 48.902156 2.4697602",
-  "georss_polygon_s": "48.902156 2.224122 48.902156 2.4697602 48.8155755 2.4697602 48.8155755 2.224122 48.902156 2.224122",
   "solr_geom": "ENVELOPE(2.224122, 2.4697602, 48.902156, 48.8155755)",
-  "solr_year_i": "1865"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Paris (France)"
+  ]
 }

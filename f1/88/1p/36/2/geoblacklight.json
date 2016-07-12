@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1815",
   "uuid": "http://arks.princeton.edu/ark:/88435/f1881p362",
+  "dc_description_s": "Morant Bay, Jamaica, and the coast from Belvidere Point to Fisherman's Bay",
+  "georss_box_s": "17.8440339 -76.4544634 17.9240339 -76.3744634",
+  "layer_modified_dt": "2015-01-21T22:24:08Z",
   "dc_creator_sm": [
     "Hurd, Thomas,",
     "Walker, J.,"
   ],
-  "dc_description_s": "Morant Bay, Jamaica, and the coast from Belvidere Point to Fisherman's Bay",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "f1881p362",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/f1881p362/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ff1%2F88%2F1p%2F36%2F2%2F00000001.jp2/info.json\"}",
   "layer_id_s": "f1881p362",
-  "layer_slug_s": "princeton-f1881p362",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:08Z",
-  "dc_title_s": "Morant Bay, Jamaica, and the coast from Belvidere Point to Fisherman's Bay",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Morant Bay (Jamaica)"
-  ],
+  "dc_identifier_s": "f1881p362",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Morant Bay, Jamaica, and the coast from Belvidere Point to Fisherman's Bay",
+  "layer_slug_s": "princeton-f1881p362",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/f1881p362/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/f1/88/1p/36/2/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "17.9240339 -76.4544634 17.9240339 -76.3744634 17.8440339 -76.3744634 17.8440339 -76.4544634 17.9240339 -76.4544634",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1815"
   ],
-  "georss_box_s": "17.8440339 -76.4544634 17.9240339 -76.3744634",
-  "georss_polygon_s": "17.9240339 -76.4544634 17.9240339 -76.3744634 17.8440339 -76.3744634 17.8440339 -76.4544634 17.9240339 -76.4544634",
   "solr_geom": "ENVELOPE(-76.4544634, -76.3744634, 17.9240339, 17.8440339)",
-  "solr_year_i": "1815"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Morant Bay (Jamaica)"
+  ]
 }

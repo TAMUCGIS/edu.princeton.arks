@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1895",
   "uuid": "http://arks.princeton.edu/ark:/88435/zk51vk29m",
-  "dc_description_s": "Orientierungs Kärtchen f. Ruhla u. Umgebung",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "zk51vk29m",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/zk51vk29m/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fzk%2F51%2Fvk%2F29%2Fm%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "zk51vk29m",
-  "layer_slug_s": "princeton-zk51vk29m",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Orientierungs Ka\u0308rtchen f. Ruhla u. Umgebung",
+  "georss_box_s": "50.8623246 10.3245775 50.93292 10.4367062",
   "layer_modified_dt": "2015-01-21T22:24:26Z",
-  "dc_title_s": "Orientierungs Kärtchen f. Ruhla u. Umgebung",
+  "layer_id_s": "zk51vk29m",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Ruhla (Germany)",
-    "Thuringia (Germany)"
-  ],
+  "dc_identifier_s": "zk51vk29m",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Orientierungs Ka\u0308rtchen f. Ruhla u. Umgebung",
+  "layer_slug_s": "princeton-zk51vk29m",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/zk51vk29m/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/zk/51/vk/29/m/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "50.93292 10.3245775 50.93292 10.4367062 50.8623246 10.4367062 50.8623246 10.3245775 50.93292 10.3245775",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1895"
   ],
-  "georss_box_s": "50.8623246 10.3245775 50.93292 10.4367062",
-  "georss_polygon_s": "50.93292 10.3245775 50.93292 10.4367062 50.8623246 10.4367062 50.8623246 10.3245775 50.93292 10.3245775",
   "solr_geom": "ENVELOPE(10.3245775, 10.4367062, 50.93292, 50.8623246)",
-  "solr_year_i": "1895"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Ruhla (Germany)",
+    "Thuringia (Germany)"
+  ]
 }

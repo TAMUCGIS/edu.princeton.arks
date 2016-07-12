@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1623",
   "uuid": "http://arks.princeton.edu/ark:/88435/kh04ds14k",
+  "dc_description_s": "Regni Valenti\u00e6 typus",
+  "georss_box_s": "37.8437887 -1.5289447 40.7886312 0.7121715",
+  "layer_modified_dt": "2015-01-21T22:24:10Z",
   "dc_creator_sm": [
     "Hondius, Hendrik,",
     "Mercator, Gerhard,",
     "McCabe, Robert A.,"
   ],
-  "dc_description_s": "Regni Valentiæ typus",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "kh04ds14k",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/kh04ds14k/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fkh%2F04%2Fds%2F14%2Fk%2F00000001.jp2/info.json\"}",
   "layer_id_s": "kh04ds14k",
-  "layer_slug_s": "princeton-kh04ds14k",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:10Z",
-  "dc_title_s": "Regni Valentiæ typus",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Valencia (Spain)"
-  ],
+  "dc_identifier_s": "kh04ds14k",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Regni Valenti\u00e6 typus",
+  "layer_slug_s": "princeton-kh04ds14k",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/kh04ds14k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/kh/04/ds/14/k/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.7886312 -1.5289447 40.7886312 0.7121715 37.8437887 0.7121715 37.8437887 -1.5289447 40.7886312 -1.5289447",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1623"
   ],
-  "georss_box_s": "37.8437887 -1.5289447 40.7886312 0.7121715",
-  "georss_polygon_s": "40.7886312 -1.5289447 40.7886312 0.7121715 37.8437887 0.7121715 37.8437887 -1.5289447 40.7886312 -1.5289447",
   "solr_geom": "ENVELOPE(-1.5289447, 0.7121715, 40.7886312, 37.8437887)",
-  "solr_year_i": "1623"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Valencia (Spain)"
+  ]
 }

@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/6969z277c",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of West Orange",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "6969z277c",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F69%2F69%2Fz2%2F77%2Fc%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "6969z277c",
-  "layer_slug_s": "princeton-6969z277c",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:03:43Z",
+  "solr_geom": "ENVELOPE(-74.305049, -74.22089, 40.826557, 40.757392)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/69/69/z2/77/c/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/6969z277c",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Orange and West Orange, N.J. (Sheet 61).",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1895"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "6969z277c",
+  "georss_polygon_s": "40.826557 -74.305049 40.826557 -74.22089 40.757392 -74.22089 40.757392 -74.305049 40.826557 -74.305049",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1895",
   "dct_spatial_sm": [
     "New Jersey",
     "West Orange"
   ],
-  "dct_temporal_sm": [
-    "1895"
-  ],
+  "layer_id_s": "6969z277c",
   "georss_box_s": "40.757392 -74.305049 40.826557 -74.22089",
-  "georss_polygon_s": "40.826557 -74.305049 40.826557 -74.22089 40.757392 -74.22089 40.757392 -74.305049 40.826557 -74.305049",
-  "solr_geom": "ENVELOPE(-74.305049, -74.22089, 40.826557, 40.757392)",
-  "solr_year_i": "1895"
+  "dc_title_s": "Orange and West Orange, N.J. (Sheet 61).",
+  "layer_slug_s": "princeton-6969z277c",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

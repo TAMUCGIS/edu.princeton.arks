@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1805",
   "uuid": "http://arks.princeton.edu/ark:/88435/9c67wp892",
+  "dc_description_s": "Nautical map : intended for the use of colonial undertakings on the w. coast of Africa from lat. 5\u207030' to lat. 14\u2070 north",
+  "georss_box_s": "4.1821 -17.688 25.000012 15.999034",
+  "layer_modified_dt": "2015-01-21T22:23:53Z",
   "dc_creator_sm": [
     "Beaver, Philip,",
-    "Wadström, Carl Bernhard,"
+    "Wadstro\u0308m, Carl Bernhard,"
   ],
-  "dc_description_s": "Nautical map : intended for the use of colonial undertakings on the w. coast of Africa from lat. 5⁰30' to lat. 14⁰ north",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "9c67wp892",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/9c67wp892/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F9c%2F67%2Fwp%2F89%2F2%2F00000001.jp2/info.json\"}",
   "layer_id_s": "9c67wp892",
-  "layer_slug_s": "princeton-9c67wp892",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:53Z",
-  "dc_title_s": "Nautical map : intended for the use of colonial undertakings on the w. coast of Africa from lat. 5⁰30' to lat. 14⁰ north",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Africa, West",
-    "Africa, West"
-  ],
+  "dc_identifier_s": "9c67wp892",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Nautical map : intended for the use of colonial undertakings on the w. coast of Africa from lat. 5\u207030' to lat. 14\u2070 north",
+  "layer_slug_s": "princeton-9c67wp892",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/9c67wp892/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/9c/67/wp/89/2/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "25.000012 -17.688 25.000012 15.999034 4.1821 15.999034 4.1821 -17.688 25.000012 -17.688",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1805"
   ],
-  "georss_box_s": "4.1821 -17.688 25.000012 15.999034",
-  "georss_polygon_s": "25.000012 -17.688 25.000012 15.999034 4.1821 15.999034 4.1821 -17.688 25.000012 -17.688",
   "solr_geom": "ENVELOPE(-17.688, 15.999034, 25.000012, 4.1821)",
-  "solr_year_i": "1805"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Africa, West",
+    "Africa, West"
+  ]
 }

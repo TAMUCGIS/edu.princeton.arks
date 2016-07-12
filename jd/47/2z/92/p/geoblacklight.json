@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1862",
   "uuid": "http://arks.princeton.edu/ark:/88435/jd472z92p",
-  "dc_creator_sm": [
-    "Randon, Jacques Louis César Alexandre,"
-  ],
-  "dc_description_s": "Carte du Liban d'après les reconnaissances de la brigade topographique du corps expéditionnaire de Syrie en 1860-1861",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "jd472z92p",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/jd472z92p/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fd%2F47%2F2z%2F92%2Fp%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "jd472z92p",
-  "layer_slug_s": "princeton-jd472z92p",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Carte du Liban d'apre\u0300s les reconnaissances de la brigade topographique du corps expe\u0301ditionnaire de Syrie en 1860-1861",
+  "georss_box_s": "33.0479858 34.8757968 34.6923543 36.625",
   "layer_modified_dt": "2015-01-21T22:24:11Z",
-  "dc_title_s": "Carte du Liban d'après les reconnaissances de la brigade topographique du corps expéditionnaire de Syrie en 1860-1861",
-  "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Lebanon"
+  "dc_creator_sm": [
+    "Randon, Jacques Louis Ce\u0301sar Alexandre,"
   ],
+  "layer_id_s": "jd472z92p",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "jd472z92p",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Carte du Liban d'apre\u0300s les reconnaissances de la brigade topographique du corps expe\u0301ditionnaire de Syrie en 1860-1861",
+  "layer_slug_s": "princeton-jd472z92p",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/jd472z92p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/jd/47/2z/92/p/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "34.6923543 34.8757968 34.6923543 36.625 33.0479858 36.625 33.0479858 34.8757968 34.6923543 34.8757968",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1862"
   ],
-  "georss_box_s": "33.0479858 34.8757968 34.6923543 36.625",
-  "georss_polygon_s": "34.6923543 34.8757968 34.6923543 36.625 33.0479858 36.625 33.0479858 34.8757968 34.6923543 34.8757968",
   "solr_geom": "ENVELOPE(34.8757968, 36.625, 34.6923543, 33.0479858)",
-  "solr_year_i": "1862"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Lebanon"
+  ]
 }

@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1636",
   "uuid": "http://arks.princeton.edu/ark:/88435/n870zt35s",
+  "dc_description_s": "Tartaria",
+  "georss_box_s": "3.966232 73.4997347 53.5608154 134.7754563",
+  "layer_modified_dt": "2015-01-25T02:06:19Z",
   "dc_creator_sm": [
     "Mercator, Gerhard,"
   ],
-  "dc_description_s": "Tartaria",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "n870zt35s",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/n870zt35s/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fn8%2F70%2Fzt%2F35%2Fs%2F00000001.jp2/info.json\"}",
   "layer_id_s": "n870zt35s",
-  "layer_slug_s": "princeton-n870zt35s",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:19Z",
-  "dc_title_s": "Tartaria",
   "dc_type_s": "Image",
+  "dc_identifier_s": "n870zt35s",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Tartaria",
+  "layer_slug_s": "princeton-n870zt35s",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/n870zt35s/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/n8/70/zt/35/s/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "53.5608154 73.4997347 53.5608154 134.7754563 3.966232 134.7754563 3.966232 73.4997347 53.5608154 73.4997347",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1636"
+  ],
+  "solr_geom": "ENVELOPE(73.4997347, 134.7754563, 53.5608154, 3.966232)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "China",
     "Pacific Coast (America)",
     "Siberia (Russia)"
-  ],
-  "dct_temporal_sm": [
-    "1636"
-  ],
-  "georss_box_s": "3.966232 73.4997347 53.5608154 134.7754563",
-  "georss_polygon_s": "53.5608154 73.4997347 53.5608154 134.7754563 3.966232 134.7754563 3.966232 73.4997347 53.5608154 73.4997347",
-  "solr_geom": "ENVELOPE(73.4997347, 134.7754563, 53.5608154, 3.966232)",
-  "solr_year_i": "1636"
+  ]
 }

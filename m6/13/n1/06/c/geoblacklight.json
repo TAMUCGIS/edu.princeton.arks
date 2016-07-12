@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1880",
   "uuid": "http://arks.princeton.edu/ark:/88435/m613n106c",
   "dc_description_s": "Island of Guernsey, 1880",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "m613n106c",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/m613n106c/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fm6%2F13%2Fn1%2F06%2Fc%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "m613n106c",
-  "layer_slug_s": "princeton-m613n106c",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "49.4155331 -2.6751702 49.5090776 -2.5018139",
   "layer_modified_dt": "2015-01-21T22:24:16Z",
-  "dc_title_s": "Island of Guernsey, 1880",
+  "layer_id_s": "m613n106c",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Guernsey (Channel Islands)"
-  ],
+  "dc_identifier_s": "m613n106c",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Island of Guernsey, 1880",
+  "layer_slug_s": "princeton-m613n106c",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/m613n106c/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/m6/13/n1/06/c/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "49.5090776 -2.6751702 49.5090776 -2.5018139 49.4155331 -2.5018139 49.4155331 -2.6751702 49.5090776 -2.6751702",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1880"
   ],
-  "georss_box_s": "49.4155331 -2.6751702 49.5090776 -2.5018139",
-  "georss_polygon_s": "49.5090776 -2.6751702 49.5090776 -2.5018139 49.4155331 -2.5018139 49.4155331 -2.6751702 49.5090776 -2.6751702",
   "solr_geom": "ENVELOPE(-2.6751702, -2.5018139, 49.5090776, 49.4155331)",
-  "solr_year_i": "1880"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Guernsey (Channel Islands)"
+  ]
 }

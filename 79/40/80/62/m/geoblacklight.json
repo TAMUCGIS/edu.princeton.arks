@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1732",
   "uuid": "http://arks.princeton.edu/ark:/88435/79408062m",
   "dc_description_s": "A new and exact map of the United Provinces, or Netherlands &c. : according to the newest and most exact observations",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "79408062m",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/79408062m/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F79%2F40%2F80%2F62%2Fm%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "79408062m",
-  "layer_slug_s": "princeton-79408062m",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "11.825 -68.6255318 53.7253321 7.2274985",
   "layer_modified_dt": "2015-01-21T22:24:10Z",
-  "dc_title_s": "A new and exact map of the United Provinces, or Netherlands &c. : according to the newest and most exact observations",
+  "layer_id_s": "79408062m",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Netherlands"
-  ],
+  "dc_identifier_s": "79408062m",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "A new and exact map of the United Provinces, or Netherlands &c. : according to the newest and most exact observations",
+  "layer_slug_s": "princeton-79408062m",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/79408062m/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/79/40/80/62/m/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "53.7253321 -68.6255318 53.7253321 7.2274985 11.825 7.2274985 11.825 -68.6255318 53.7253321 -68.6255318",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1732"
   ],
-  "georss_box_s": "11.825 -68.6255318 53.7253321 7.2274985",
-  "georss_polygon_s": "53.7253321 -68.6255318 53.7253321 7.2274985 11.825 7.2274985 11.825 -68.6255318 53.7253321 -68.6255318",
   "solr_geom": "ENVELOPE(-68.6255318, 7.2274985, 53.7253321, 11.825)",
-  "solr_year_i": "1732"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Netherlands"
+  ]
 }

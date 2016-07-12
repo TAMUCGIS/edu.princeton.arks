@@ -1,5 +1,9 @@
 {
+  "solr_year_i": "1695",
   "uuid": "http://arks.princeton.edu/ark:/88435/s4655k072",
+  "dc_description_s": "Leicester Shire",
+  "georss_box_s": "52.392171 -1.5971173 52.9776545 -0.664111",
+  "layer_modified_dt": "2015-01-21T22:24:17Z",
   "dc_creator_sm": [
     "Camden, William,",
     "Churchill, Awnsham,",
@@ -7,26 +11,22 @@
     "Morris, William A.,",
     "Swall, Abel,"
   ],
-  "dc_description_s": "Leicester Shire",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "s4655k072",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/s4655k072/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fs4%2F65%2F5k%2F07%2F2%2F00000001.jp2/info.json\"}",
   "layer_id_s": "s4655k072",
-  "layer_slug_s": "princeton-s4655k072",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:17Z",
-  "dc_title_s": "Leicester Shire",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Leicestershire (England)"
-  ],
+  "dc_identifier_s": "s4655k072",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Leicester Shire",
+  "layer_slug_s": "princeton-s4655k072",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/s4655k072/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/s4/65/5k/07/2/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "52.9776545 -1.5971173 52.9776545 -0.664111 52.392171 -0.664111 52.392171 -1.5971173 52.9776545 -1.5971173",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1695"
   ],
-  "georss_box_s": "52.392171 -1.5971173 52.9776545 -0.664111",
-  "georss_polygon_s": "52.9776545 -1.5971173 52.9776545 -0.664111 52.392171 -0.664111 52.392171 -1.5971173 52.9776545 -1.5971173",
   "solr_geom": "ENVELOPE(-1.5971173, -0.664111, 52.9776545, 52.392171)",
-  "solr_year_i": "1695"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Leicestershire (England)"
+  ]
 }

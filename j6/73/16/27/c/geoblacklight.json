@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1901",
   "uuid": "http://arks.princeton.edu/ark:/88435/j6731627c",
   "dc_description_s": "County Antrim, Province of Ulster, Ireland",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "j6731627c",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/j6731627c/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F6%2F73%2F16%2F27%2Fc%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "j6731627c",
-  "layer_slug_s": "princeton-j6731627c",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "54.675139 -6.2592038 54.755139 -6.1792038",
   "layer_modified_dt": "2015-01-21T22:24:24Z",
-  "dc_title_s": "County Antrim, Province of Ulster, Ireland",
+  "layer_id_s": "j6731627c",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Antrim (Northern Ireland : County)"
-  ],
+  "dc_identifier_s": "j6731627c",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "County Antrim, Province of Ulster, Ireland",
+  "layer_slug_s": "princeton-j6731627c",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/j6731627c/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/j6/73/16/27/c/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "54.755139 -6.2592038 54.755139 -6.1792038 54.675139 -6.1792038 54.675139 -6.2592038 54.755139 -6.2592038",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1901"
   ],
-  "georss_box_s": "54.675139 -6.2592038 54.755139 -6.1792038",
-  "georss_polygon_s": "54.755139 -6.2592038 54.755139 -6.1792038 54.675139 -6.1792038 54.675139 -6.2592038 54.755139 -6.2592038",
   "solr_geom": "ENVELOPE(-6.2592038, -6.1792038, 54.755139, 54.675139)",
-  "solr_year_i": "1901"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Antrim (Northern Ireland : County)"
+  ]
 }

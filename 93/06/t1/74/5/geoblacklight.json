@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1705",
   "uuid": "http://arks.princeton.edu/ark:/88435/9306t1745",
+  "dc_description_s": "Plan de Pondichery a la co\u0302te de Coromandel : occupe\u0301 par la Compagnie Royale des Indes Orientales",
+  "georss_box_s": "10.8111054 79.5987316 12.0509816 80.2259883",
+  "layer_modified_dt": "2015-01-21T22:24:06Z",
   "dc_creator_sm": [
     "Coquart, A."
   ],
-  "dc_description_s": "Plan de Pondichery a la côte de Coromandel : occupé par la Compagnie Royale des Indes Orientales",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "9306t1745",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/9306t1745/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F93%2F06%2Ft1%2F74%2F5%2F00000001.jp2/info.json\"}",
   "layer_id_s": "9306t1745",
-  "layer_slug_s": "princeton-9306t1745",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:06Z",
-  "dc_title_s": "Plan de Pondichery a la côte de Coromandel : occupé par la Compagnie Royale des Indes Orientales",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Pondicherry (India)"
-  ],
+  "dc_identifier_s": "9306t1745",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Plan de Pondichery a la co\u0302te de Coromandel : occupe\u0301 par la Compagnie Royale des Indes Orientales",
+  "layer_slug_s": "princeton-9306t1745",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/9306t1745/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/93/06/t1/74/5/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "12.0509816 79.5987316 12.0509816 80.2259883 10.8111054 80.2259883 10.8111054 79.5987316 12.0509816 79.5987316",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1705"
   ],
-  "georss_box_s": "10.8111054 79.5987316 12.0509816 80.2259883",
-  "georss_polygon_s": "12.0509816 79.5987316 12.0509816 80.2259883 10.8111054 80.2259883 10.8111054 79.5987316 12.0509816 79.5987316",
   "solr_geom": "ENVELOPE(79.5987316, 80.2259883, 12.0509816, 10.8111054)",
-  "solr_year_i": "1705"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Pondicherry (India)"
+  ]
 }

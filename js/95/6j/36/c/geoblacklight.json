@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1663",
   "uuid": "http://arks.princeton.edu/ark:/88435/js956j36c",
+  "dc_description_s": "Territorio di Bologna",
+  "georss_box_s": "44.0622557 10.8066008 44.8056876 11.841408",
+  "layer_modified_dt": "2015-01-25T02:06:20Z",
   "dc_creator_sm": [
     "Blaeu, Joan,"
   ],
-  "dc_description_s": "Territorio di Bologna",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "js956j36c",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/js956j36c/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fs%2F95%2F6j%2F36%2Fc%2F00000001.jp2/info.json\"}",
   "layer_id_s": "js956j36c",
-  "layer_slug_s": "princeton-js956j36c",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:20Z",
-  "dc_title_s": "Territorio di Bologna",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Bologna (Italy : Province)"
-  ],
+  "dc_identifier_s": "js956j36c",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Territorio di Bologna",
+  "layer_slug_s": "princeton-js956j36c",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/js956j36c/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/js/95/6j/36/c/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "44.8056876 10.8066008 44.8056876 11.841408 44.0622557 11.841408 44.0622557 10.8066008 44.8056876 10.8066008",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1663"
   ],
-  "georss_box_s": "44.0622557 10.8066008 44.8056876 11.841408",
-  "georss_polygon_s": "44.8056876 10.8066008 44.8056876 11.841408 44.0622557 11.841408 44.0622557 10.8066008 44.8056876 10.8066008",
   "solr_geom": "ENVELOPE(10.8066008, 11.841408, 44.8056876, 44.0622557)",
-  "solr_year_i": "1663"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Bologna (Italy : Province)"
+  ]
 }

@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/0p096881s",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of North Plainfield",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "0p096881s",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F0p%2F09%2F68%2F81%2Fs%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "0p096881s",
-  "layer_slug_s": "princeton-0p096881s",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:02:14Z",
+  "solr_geom": "ENVELOPE(-74.465242, -74.413737, 40.641576, 40.602216)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/0p/09/68/81/s/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/0p096881s",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "North Plainfield (Sheet 9)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1910"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "0p096881s",
+  "georss_polygon_s": "40.641576 -74.465242 40.641576 -74.413737 40.602216 -74.413737 40.602216 -74.465242 40.641576 -74.465242",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1910",
   "dct_spatial_sm": [
     "New Jersey",
     "North Plainfield"
   ],
-  "dct_temporal_sm": [
-    "1910"
-  ],
+  "layer_id_s": "0p096881s",
   "georss_box_s": "40.602216 -74.465242 40.641576 -74.413737",
-  "georss_polygon_s": "40.641576 -74.465242 40.641576 -74.413737 40.602216 -74.413737 40.602216 -74.465242 40.641576 -74.465242",
-  "solr_geom": "ENVELOPE(-74.465242, -74.413737, 40.641576, 40.602216)",
-  "solr_year_i": "1910"
+  "dc_title_s": "North Plainfield (Sheet 9)",
+  "layer_slug_s": "princeton-0p096881s",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

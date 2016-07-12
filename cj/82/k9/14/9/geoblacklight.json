@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/cj82k9149",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Lebanon",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "cj82k9149",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fcj%2F82%2Fk9%2F14%2F9%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "cj82k9149",
-  "layer_slug_s": "princeton-cj82k9149",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:01:43Z",
+  "solr_geom": "ENVELOPE(-74.848013, -74.821217, 40.649903, 40.634905)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/cj/82/k9/14/9/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/cj82k9149",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Lebanon (Index), Hunterdon County, New Jersey",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1930"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "cj82k9149",
+  "georss_polygon_s": "40.649903 -74.848013 40.649903 -74.821217 40.634905 -74.821217 40.634905 -74.848013 40.649903 -74.848013",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1930",
   "dct_spatial_sm": [
     "New Jersey",
     "Lebanon"
   ],
-  "dct_temporal_sm": [
-    "1930"
-  ],
+  "layer_id_s": "cj82k9149",
   "georss_box_s": "40.634905 -74.848013 40.649903 -74.821217",
-  "georss_polygon_s": "40.649903 -74.848013 40.649903 -74.821217 40.634905 -74.821217 40.634905 -74.848013 40.649903 -74.848013",
-  "solr_geom": "ENVELOPE(-74.848013, -74.821217, 40.649903, 40.634905)",
-  "solr_year_i": "1930"
+  "dc_title_s": "Lebanon (Index), Hunterdon County, New Jersey",
+  "layer_slug_s": "princeton-cj82k9149",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

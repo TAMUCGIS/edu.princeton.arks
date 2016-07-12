@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1860",
   "uuid": "http://arks.princeton.edu/ark:/88435/n296x157s",
+  "dc_description_s": "Johnson's Venezuela, New Granada, Ecuador, Peru & Bolivia, Chile and Guiana",
+  "georss_box_s": "-26.0 -82.0 13.0 -5.0",
+  "layer_modified_dt": "2015-01-19T22:37:10Z",
   "dc_creator_sm": [
     "Colton, J. H."
   ],
-  "dc_description_s": "Johnson's Venezuela, New Granada, Ecuador, Peru & Bolivia, Chile and Guiana",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "n296x157s",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/n296x157s/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fn2%2F96%2Fx1%2F57%2Fs%2F00000001.jp2/info.json\"}",
   "layer_id_s": "n296x157s",
-  "layer_slug_s": "princeton-n296x157s",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:10Z",
-  "dc_title_s": "Johnson's Venezuela, New Granada, Ecuador, Peru & Bolivia, Chile and Guiana",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "South America"
-  ],
+  "dc_identifier_s": "n296x157s",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Johnson's Venezuela, New Granada, Ecuador, Peru & Bolivia, Chile and Guiana",
+  "layer_slug_s": "princeton-n296x157s",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/n296x157s/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/n2/96/x1/57/s/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "13.0 -82.0 13.0 -5.0 -26.0 -5.0 -26.0 -82.0 13.0 -82.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1860"
   ],
-  "georss_box_s": "-26.0 -82.0 13.0 -5.0",
-  "georss_polygon_s": "13.0 -82.0 13.0 -5.0 -26.0 -5.0 -26.0 -82.0 13.0 -82.0",
   "solr_geom": "ENVELOPE(-82.0, -5.0, 13.0, -26.0)",
-  "solr_year_i": "1860"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "South America"
+  ]
 }

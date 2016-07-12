@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1610",
   "uuid": "http://arks.princeton.edu/ark:/88435/k0698999q",
+  "dc_description_s": "Rutlandshire, with Oukham and Stanford, her bordering neighbour newely described",
+  "georss_box_s": "52.5247864 -0.8217615 52.7598184 -0.4283755",
+  "layer_modified_dt": "2015-01-25T02:06:16Z",
   "dc_creator_sm": [
     "Humble, George,",
     "Sudbury, John."
   ],
-  "dc_description_s": "Rutlandshire, with Oukham and Stanford, her bordering neighbour newely described",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "k0698999q",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/k0698999q/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fk0%2F69%2F89%2F99%2Fq%2F00000001.jp2/info.json\"}",
   "layer_id_s": "k0698999q",
-  "layer_slug_s": "princeton-k0698999q",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:16Z",
-  "dc_title_s": "Rutlandshire, with Oukham and Stanford, her bordering neighbour newely described",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Rutland (England)"
-  ],
+  "dc_identifier_s": "k0698999q",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Rutlandshire, with Oukham and Stanford, her bordering neighbour newely described",
+  "layer_slug_s": "princeton-k0698999q",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/k0698999q/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/k0/69/89/99/q/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "52.7598184 -0.8217615 52.7598184 -0.4283755 52.5247864 -0.4283755 52.5247864 -0.8217615 52.7598184 -0.8217615",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1610"
   ],
-  "georss_box_s": "52.5247864 -0.8217615 52.7598184 -0.4283755",
-  "georss_polygon_s": "52.7598184 -0.8217615 52.7598184 -0.4283755 52.5247864 -0.4283755 52.5247864 -0.8217615 52.7598184 -0.8217615",
   "solr_geom": "ENVELOPE(-0.8217615, -0.4283755, 52.7598184, 52.5247864)",
-  "solr_year_i": "1610"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Rutland (England)"
+  ]
 }

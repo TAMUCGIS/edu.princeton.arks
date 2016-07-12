@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1576",
   "uuid": "http://arks.princeton.edu/ark:/88435/8910jx00g",
+  "dc_description_s": "Corfu",
+  "georss_box_s": "39.3603116 19.6286537 39.8222353 20.1224732",
+  "layer_modified_dt": "2015-01-21T22:23:59Z",
   "dc_creator_sm": [
     "Porro, Girolamo,",
     "Porcacchi, Thomaso,"
   ],
-  "dc_description_s": "Corfu",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "8910jx00g",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/8910jx00g/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F89%2F10%2Fjx%2F00%2Fg%2F00000001.jp2/info.json\"}",
   "layer_id_s": "8910jx00g",
-  "layer_slug_s": "princeton-8910jx00g",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:59Z",
-  "dc_title_s": "Corfu",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Corfu Island (Greece)"
-  ],
+  "dc_identifier_s": "8910jx00g",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Corfu",
+  "layer_slug_s": "princeton-8910jx00g",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/8910jx00g/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/89/10/jx/00/g/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "39.8222353 19.6286537 39.8222353 20.1224732 39.3603116 20.1224732 39.3603116 19.6286537 39.8222353 19.6286537",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1576"
   ],
-  "georss_box_s": "39.3603116 19.6286537 39.8222353 20.1224732",
-  "georss_polygon_s": "39.8222353 19.6286537 39.8222353 20.1224732 39.3603116 20.1224732 39.3603116 19.6286537 39.8222353 19.6286537",
   "solr_geom": "ENVELOPE(19.6286537, 20.1224732, 39.8222353, 39.3603116)",
-  "solr_year_i": "1576"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Corfu Island (Greece)"
+  ]
 }

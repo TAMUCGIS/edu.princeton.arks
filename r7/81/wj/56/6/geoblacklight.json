@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1850",
   "uuid": "http://arks.princeton.edu/ark:/88435/r781wj566",
+  "dc_description_s": "A map of New Jersey, with part of the adjoining states",
+  "georss_box_s": "38.7911303 -75.5633859 41.357423 -73.8939789",
+  "layer_modified_dt": "2015-01-25T02:06:23Z",
   "dc_creator_sm": [
     "Hornor, Robert Emley,",
     "Yeager, E."
   ],
-  "dc_description_s": "A map of New Jersey, with part of the adjoining states",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "r781wj566",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/r781wj566/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fr7%2F81%2Fwj%2F56%2F6%2F00000001.jp2/info.json\"}",
   "layer_id_s": "r781wj566",
-  "layer_slug_s": "princeton-r781wj566",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:23Z",
-  "dc_title_s": "A map of New Jersey, with part of the adjoining states",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "New Jersey"
-  ],
+  "dc_identifier_s": "r781wj566",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "A map of New Jersey, with part of the adjoining states",
+  "layer_slug_s": "princeton-r781wj566",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/r781wj566/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/r7/81/wj/56/6/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "41.357423 -75.5633859 41.357423 -73.8939789 38.7911303 -73.8939789 38.7911303 -75.5633859 41.357423 -75.5633859",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1850"
   ],
-  "georss_box_s": "38.7911303 -75.5633859 41.357423 -73.8939789",
-  "georss_polygon_s": "41.357423 -75.5633859 41.357423 -73.8939789 38.7911303 -73.8939789 38.7911303 -75.5633859 41.357423 -75.5633859",
   "solr_geom": "ENVELOPE(-75.5633859, -73.8939789, 41.357423, 38.7911303)",
-  "solr_year_i": "1850"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "New Jersey"
+  ]
 }

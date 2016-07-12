@@ -2,7 +2,7 @@
   "dc_description_s": "A scanned USGS 1:62500 topographic map.",
   "layer_modified_dt": "2015-01-11T17:42:37Z",
   "solr_geom": "ENVELOPE(-75.0, -74.75, 41.0, 40.75)",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fhd%2F76%2Fs1%2F51%2Fj%2F00000001.jp2/info.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/hd76s151j/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/hd76s151j/preview.jpg\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/hd76s151j/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/hd/76/s1/51/j/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/hd76s151j/preview.jpg\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/hd76s151j",
   "dct_provenance_s": "Princeton",
@@ -15,7 +15,7 @@
     "15 Minute Quadrangle Map"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "1916",
+  "layer_slug_s": "princeton-hd76s151j",
   "dc_creator_sm": [
     "United States Geological Survey"
   ],
@@ -39,7 +39,7 @@
   "layer_id_s": "hd76s151j",
   "georss_box_s": "40.75 -75.0 41.0 -74.75",
   "dc_title_s": "New Jersey, Hackettstown Quadrangle (1916)",
-  "layer_slug_s": "princeton-hd76s151j",
+  "dct_issued_s": "1916",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

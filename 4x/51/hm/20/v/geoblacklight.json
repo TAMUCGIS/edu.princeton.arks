@@ -1,32 +1,32 @@
 {
+  "solr_year_i": "1775",
   "uuid": "http://arks.princeton.edu/ark:/88435/4x51hm20v",
+  "dc_description_s": "Carte des co\u0302tes occidentales de France et d'une partie de celles d'Espagne, d'Angleterre, et d'Irlande : avec les sondes qu'on trouve au large de ses co\u0302tes",
+  "georss_box_s": "-50.2187168 -178.3873748 51.268318 172.3057152",
+  "layer_modified_dt": "2015-01-21T22:23:55Z",
   "dc_creator_sm": [
     "Haye, G. de la,",
     "Dicquemare,"
   ],
-  "dc_description_s": "Carte des côtes occidentales de France et d'une partie de celles d'Espagne, d'Angleterre, et d'Irlande : avec les sondes qu'on trouve au large de ses côtes",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "4x51hm20v",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/4x51hm20v/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F4x%2F51%2Fhm%2F20%2Fv%2F00000001.jp2/info.json\"}",
   "layer_id_s": "4x51hm20v",
-  "layer_slug_s": "princeton-4x51hm20v",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:55Z",
-  "dc_title_s": "Carte des côtes occidentales de France et d'une partie de celles d'Espagne, d'Angleterre, et d'Irlande : avec les sondes qu'on trouve au large de ses côtes",
   "dc_type_s": "Image",
+  "dc_identifier_s": "4x51hm20v",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Carte des co\u0302tes occidentales de France et d'une partie de celles d'Espagne, d'Angleterre, et d'Irlande : avec les sondes qu'on trouve au large de ses co\u0302tes",
+  "layer_slug_s": "princeton-4x51hm20v",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/4x51hm20v/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/4x/51/hm/20/v/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "51.268318 -178.3873748 51.268318 172.3057152 -50.2187168 172.3057152 -50.2187168 -178.3873748 51.268318 -178.3873748",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1775"
+  ],
+  "solr_geom": "ENVELOPE(-178.3873748, 172.3057152, 51.268318, -50.2187168)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "France",
     "Spain",
     "England",
     "Ireland"
-  ],
-  "dct_temporal_sm": [
-    "1775"
-  ],
-  "georss_box_s": "-50.2187168 -178.3873748 51.268318 172.3057152",
-  "georss_polygon_s": "51.268318 -178.3873748 51.268318 172.3057152 -50.2187168 172.3057152 -50.2187168 -178.3873748 51.268318 -178.3873748",
-  "solr_geom": "ENVELOPE(-178.3873748, 172.3057152, 51.268318, -50.2187168)",
-  "solr_year_i": "1775"
+  ]
 }

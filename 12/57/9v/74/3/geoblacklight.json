@@ -1,31 +1,31 @@
 {
+  "solr_year_i": "1707",
   "uuid": "http://arks.princeton.edu/ark:/88435/12579v743",
+  "dc_description_s": "Carte de la Grece : dresse\u0301e sur un grand nombre de memoires anciens et nouveaux, sur ceux de Mrs. Wheler et Tournefort, sur les observations astronomiques de Mr. Vernon du P. Feuille\u0301e minime &c.",
+  "georss_box_s": "34.0 34.0 43.0 52.0",
+  "layer_modified_dt": "2015-01-19T22:37:27Z",
   "dc_creator_sm": [
     "Wheler, George,",
     "Tournefort, Joseph Pitton de,"
   ],
-  "dc_description_s": "Carte de la Grece : dressée sur un grand nombre de memoires anciens et nouveaux, sur ceux de Mrs. Wheler et Tournefort, sur les observations astronomiques de Mr. Vernon du P. Feuillée minime &c.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "12579v743",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/12579v743/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F12%2F57%2F9v%2F74%2F3%2F00000001.jp2/info.json\"}",
   "layer_id_s": "12579v743",
-  "layer_slug_s": "princeton-12579v743",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:27Z",
-  "dc_title_s": "Carte de la Grece : dressée sur un grand nombre de memoires anciens et nouveaux, sur ceux de Mrs. Wheler et Tournefort, sur les observations astronomiques de Mr. Vernon du P. Feuillée minime &c.",
   "dc_type_s": "Image",
+  "dc_identifier_s": "12579v743",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Carte de la Grece : dresse\u0301e sur un grand nombre de memoires anciens et nouveaux, sur ceux de Mrs. Wheler et Tournefort, sur les observations astronomiques de Mr. Vernon du P. Feuille\u0301e minime &c.",
+  "layer_slug_s": "princeton-12579v743",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/12579v743/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/12/57/9v/74/3/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "43.0 34.0 43.0 52.0 34.0 52.0 34.0 34.0 43.0 34.0",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1707"
+  ],
+  "solr_geom": "ENVELOPE(34.0, 52.0, 43.0, 34.0)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Aegean Sea",
     "Greece",
     "Turkey"
-  ],
-  "dct_temporal_sm": [
-    "1707"
-  ],
-  "georss_box_s": "34.0 34.0 43.0 52.0",
-  "georss_polygon_s": "43.0 34.0 43.0 52.0 34.0 52.0 34.0 34.0 43.0 34.0",
-  "solr_geom": "ENVELOPE(34.0, 52.0, 43.0, 34.0)",
-  "solr_year_i": "1707"
+  ]
 }

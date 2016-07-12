@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1561",
   "uuid": "http://arks.princeton.edu/ark:/88435/9s1618022",
+  "dc_description_s": "Africa nuova tavola",
+  "georss_box_s": "-18.0391039 5.5419 23.449235 31.3146115",
+  "layer_modified_dt": "2015-01-21T22:23:46Z",
   "dc_creator_sm": [
     "Ptolemy,"
   ],
-  "dc_description_s": "Africa nuova tavola",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "9s1618022",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/9s1618022/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F9s%2F16%2F18%2F02%2F2%2F00000001.jp2/info.json\"}",
   "layer_id_s": "9s1618022",
-  "layer_slug_s": "princeton-9s1618022",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:46Z",
-  "dc_title_s": "Africa nuova tavola",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Africa, Central",
-    "Africa, Southern"
-  ],
+  "dc_identifier_s": "9s1618022",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Africa nuova tavola",
+  "layer_slug_s": "princeton-9s1618022",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/9s1618022/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/9s/16/18/02/2/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "23.449235 5.5419 23.449235 31.3146115 -18.0391039 31.3146115 -18.0391039 5.5419 23.449235 5.5419",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1561"
   ],
-  "georss_box_s": "-18.0391039 5.5419 23.449235 31.3146115",
-  "georss_polygon_s": "23.449235 5.5419 23.449235 31.3146115 -18.0391039 31.3146115 -18.0391039 5.5419 23.449235 5.5419",
   "solr_geom": "ENVELOPE(5.5419, 31.3146115, 23.449235, -18.0391039)",
-  "solr_year_i": "1561"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Africa, Central",
+    "Africa, Southern"
+  ]
 }

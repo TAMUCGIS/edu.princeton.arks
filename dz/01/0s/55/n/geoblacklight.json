@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1728",
   "uuid": "http://arks.princeton.edu/ark:/88435/dz010s55n",
   "dc_description_s": "Bavariae circulus et electorat[us] in suas quasque ditiones tam cum adjacentibus quam insertis regionibus accuratissime divisus",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "dz010s55n",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/dz010s55n/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fdz%2F01%2F0s%2F55%2Fn%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "dz010s55n",
-  "layer_slug_s": "princeton-dz010s55n",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "47.2701114 8.9763497 50.5647142 13.8396373",
   "layer_modified_dt": "2015-01-21T22:24:19Z",
-  "dc_title_s": "Bavariae circulus et electorat[us] in suas quasque ditiones tam cum adjacentibus quam insertis regionibus accuratissime divisus",
+  "layer_id_s": "dz010s55n",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Bavaria (Germany)"
-  ],
+  "dc_identifier_s": "dz010s55n",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Bavariae circulus et electorat[us] in suas quasque ditiones tam cum adjacentibus quam insertis regionibus accuratissime divisus",
+  "layer_slug_s": "princeton-dz010s55n",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/dz010s55n/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/dz/01/0s/55/n/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "50.5647142 8.9763497 50.5647142 13.8396373 47.2701114 13.8396373 47.2701114 8.9763497 50.5647142 8.9763497",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1728"
   ],
-  "georss_box_s": "47.2701114 8.9763497 50.5647142 13.8396373",
-  "georss_polygon_s": "50.5647142 8.9763497 50.5647142 13.8396373 47.2701114 13.8396373 47.2701114 8.9763497 50.5647142 8.9763497",
   "solr_geom": "ENVELOPE(8.9763497, 13.8396373, 50.5647142, 47.2701114)",
-  "solr_year_i": "1728"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Bavaria (Germany)"
+  ]
 }

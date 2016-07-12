@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1610",
   "uuid": "http://arks.princeton.edu/ark:/88435/cr56n349f",
+  "dc_description_s": "Denbigh shire",
+  "georss_box_s": "52.8619561 -3.6019609 53.357335 -3.0902935",
+  "layer_modified_dt": "2015-01-25T02:06:17Z",
   "dc_creator_sm": [
     "Hondius, Jodocus,",
     "Humble, George,",
     "Sudbury, John"
   ],
-  "dc_description_s": "Denbigh shire",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "cr56n349f",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/cr56n349f/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fcr%2F56%2Fn3%2F49%2Ff%2F00000001.jp2/info.json\"}",
   "layer_id_s": "cr56n349f",
-  "layer_slug_s": "princeton-cr56n349f",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:17Z",
-  "dc_title_s": "Denbigh shire",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Denbighshire (Wales)"
-  ],
+  "dc_identifier_s": "cr56n349f",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Denbigh shire",
+  "layer_slug_s": "princeton-cr56n349f",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/cr56n349f/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/cr/56/n3/49/f/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "53.357335 -3.6019609 53.357335 -3.0902935 52.8619561 -3.0902935 52.8619561 -3.6019609 53.357335 -3.6019609",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1610"
   ],
-  "georss_box_s": "52.8619561 -3.6019609 53.357335 -3.0902935",
-  "georss_polygon_s": "53.357335 -3.6019609 53.357335 -3.0902935 52.8619561 -3.0902935 52.8619561 -3.6019609 53.357335 -3.6019609",
   "solr_geom": "ENVELOPE(-3.6019609, -3.0902935, 53.357335, 52.8619561)",
-  "solr_year_i": "1610"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Denbighshire (Wales)"
+  ]
 }

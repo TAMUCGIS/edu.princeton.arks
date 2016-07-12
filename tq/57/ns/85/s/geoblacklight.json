@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1914",
   "uuid": "http://arks.princeton.edu/ark:/88435/tq57ns85s",
+  "dc_description_s": "West Africa showing the British possessions",
+  "georss_box_s": "1.0 -20.0 23.0 16.0",
+  "layer_modified_dt": "2015-01-19T22:36:41Z",
   "dc_creator_sm": [
     "Gibbons, Mila,"
   ],
-  "dc_description_s": "West Africa showing the British possessions",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "tq57ns85s",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/tq57ns85s/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ftq%2F57%2Fns%2F85%2Fs%2F00000001.jp2/info.json\"}",
   "layer_id_s": "tq57ns85s",
-  "layer_slug_s": "princeton-tq57ns85s",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:36:41Z",
-  "dc_title_s": "West Africa showing the British possessions",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Africa, West",
-    "Great Britain"
-  ],
+  "dc_identifier_s": "tq57ns85s",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "West Africa showing the British possessions",
+  "layer_slug_s": "princeton-tq57ns85s",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/tq57ns85s/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/tq/57/ns/85/s/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "23.0 -20.0 23.0 16.0 1.0 16.0 1.0 -20.0 23.0 -20.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1914"
   ],
-  "georss_box_s": "1.0 -20.0 23.0 16.0",
-  "georss_polygon_s": "23.0 -20.0 23.0 16.0 1.0 16.0 1.0 -20.0 23.0 -20.0",
   "solr_geom": "ENVELOPE(-20.0, 16.0, 23.0, 1.0)",
-  "solr_year_i": "1914"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Africa, West",
+    "Great Britain"
+  ]
 }

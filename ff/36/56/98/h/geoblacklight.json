@@ -2,7 +2,7 @@
   "dc_description_s": "This is a scanned historical map of the Waynesburg Quadrangle in Pennsylvania shown at a scale of 1:62,500. This map was created by the US Geological Survey.",
   "layer_modified_dt": "2015-01-11T17:43:36Z",
   "solr_geom": "ENVELOPE(-80.25, -80, 40, 39.75)",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fff%2F36%2F56%2F98%2Fh%2F00000001.jp2/info.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/ff365698h/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/ff365698h/preview.jpg\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/ff365698h/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ff/36/56/98/h/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/ff365698h/preview.jpg\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/ff365698h",
   "dct_provenance_s": "Princeton",
@@ -14,7 +14,7 @@
     "Administrative and political boundaries"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "February 1904",
+  "layer_slug_s": "princeton-ff365698h",
   "dc_creator_sm": [
     "United States. Geological Survey"
   ],
@@ -32,7 +32,7 @@
   "layer_id_s": "ff365698h",
   "georss_box_s": "39.75 -80.25 40 -80",
   "dc_title_s": "Pennsylvania: Waynesburg Quadrangle, 1904",
-  "layer_slug_s": "princeton-ff365698h",
+  "dct_issued_s": "February 1904",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

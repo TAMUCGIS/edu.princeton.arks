@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/cn69m604m",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Ridgefield",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "cn69m604m",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fcn%2F69%2Fm6%2F04%2Fm%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "cn69m604m",
-  "layer_slug_s": "princeton-cn69m604m",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:02:16Z",
+  "solr_geom": "ENVELOPE(-74.034094, -73.988883, 40.847125, 40.812821)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/cn/69/m6/04/m/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/cn69m604m",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Insurance Maps of Ridgefield Park and Little Ferry, Bergen County, New Jersey (Sheet 15)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1909"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "cn69m604m",
+  "georss_polygon_s": "40.847125 -74.034094 40.847125 -73.988883 40.812821 -73.988883 40.812821 -74.034094 40.847125 -74.034094",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1909",
   "dct_spatial_sm": [
     "New Jersey",
     "Ridgefield"
   ],
-  "dct_temporal_sm": [
-    "1909"
-  ],
+  "layer_id_s": "cn69m604m",
   "georss_box_s": "40.812821 -74.034094 40.847125 -73.988883",
-  "georss_polygon_s": "40.847125 -74.034094 40.847125 -73.988883 40.812821 -73.988883 40.812821 -74.034094 40.847125 -74.034094",
-  "solr_geom": "ENVELOPE(-74.034094, -73.988883, 40.847125, 40.812821)",
-  "solr_year_i": "1909"
+  "dc_title_s": "Insurance Maps of Ridgefield Park and Little Ferry, Bergen County, New Jersey (Sheet 15)",
+  "layer_slug_s": "princeton-cn69m604m",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

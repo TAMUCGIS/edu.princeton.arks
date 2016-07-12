@@ -2,7 +2,7 @@
   "dc_description_s": "The historical map of New Jersey published originally by the Geological Survey of New Jersey was scanned, georeferenced and reprojected to the New Jersey State Plane Coordinate System, NAD 83 using ERDAS IMAGINE software.",
   "layer_modified_dt": "2015-01-11T17:42:34Z",
   "solr_geom": "ENVELOPE(-74.866, -74.433, 40.133, 39.666)",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Frb%2F68%2Fxd%2F29%2Fn%2F00000001.jp2/info.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/rb68xd29n/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/rb68xd29n/preview.jpg\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/rb68xd29n/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/rb/68/xd/29/n/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/rb68xd29n/preview.jpg\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/rb68xd29n",
   "dct_provenance_s": "Princeton",
@@ -15,7 +15,7 @@
     "Boundaries"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "1887",
+  "layer_slug_s": "princeton-rb68xd29n",
   "dc_creator_sm": [
     "Geological Survey of New Jersey"
   ],
@@ -35,7 +35,7 @@
   "layer_id_s": "rb68xd29n",
   "georss_box_s": "39.666 -74.866 40.133 -74.433",
   "dc_title_s": "A topographical Map of the Vicinity of Mount Holly from Bordentown Southward to Winslow and Woodmansle",
-  "layer_slug_s": "princeton-rb68xd29n",
+  "dct_issued_s": "1887",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

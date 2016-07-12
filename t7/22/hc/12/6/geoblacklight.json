@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/t722hc126",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Rahway",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "t722hc126",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ft7%2F22%2Fhc%2F12%2F6%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "t722hc126",
-  "layer_slug_s": "princeton-t722hc126",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:10:09Z",
+  "solr_geom": "ENVELOPE(-74.305326, -74.255608, 40.62753, 40.591903)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/t7/22/hc/12/6/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/t722hc126",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Rahway, New Jersey (Sheet 4)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1886"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "t722hc126",
+  "georss_polygon_s": "40.62753 -74.305326 40.62753 -74.255608 40.591903 -74.255608 40.591903 -74.305326 40.62753 -74.305326",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1886",
   "dct_spatial_sm": [
     "New Jersey",
     "Rahway"
   ],
-  "dct_temporal_sm": [
-    "1886"
-  ],
+  "layer_id_s": "t722hc126",
   "georss_box_s": "40.591903 -74.305326 40.62753 -74.255608",
-  "georss_polygon_s": "40.62753 -74.305326 40.62753 -74.255608 40.591903 -74.255608 40.591903 -74.305326 40.62753 -74.305326",
-  "solr_geom": "ENVELOPE(-74.305326, -74.255608, 40.62753, 40.591903)",
-  "solr_year_i": "1886"
+  "dc_title_s": "Rahway, New Jersey (Sheet 4)",
+  "layer_slug_s": "princeton-t722hc126",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

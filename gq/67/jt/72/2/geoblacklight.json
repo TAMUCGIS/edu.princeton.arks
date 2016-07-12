@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1750",
   "uuid": "http://arks.princeton.edu/ark:/88435/gq67jt722",
+  "dc_description_s": "Carta topografica del territorio Pistoiese",
+  "georss_box_s": "43.8804611 10.8661614 44.0101074 10.9946041",
+  "layer_modified_dt": "2015-01-25T02:06:21Z",
   "dc_creator_sm": [
     "Bracati, Francesco."
   ],
-  "dc_description_s": "Carta topografica del territorio Pistoiese",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "gq67jt722",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/gq67jt722/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fgq%2F67%2Fjt%2F72%2F2%2F00000001.jp2/info.json\"}",
   "layer_id_s": "gq67jt722",
-  "layer_slug_s": "princeton-gq67jt722",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:21Z",
-  "dc_title_s": "Carta topografica del territorio Pistoiese",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Pistoia (Italy : Province)"
-  ],
+  "dc_identifier_s": "gq67jt722",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Carta topografica del territorio Pistoiese",
+  "layer_slug_s": "princeton-gq67jt722",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/gq67jt722/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/gq/67/jt/72/2/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "44.0101074 10.8661614 44.0101074 10.9946041 43.8804611 10.9946041 43.8804611 10.8661614 44.0101074 10.8661614",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1750"
   ],
-  "georss_box_s": "43.8804611 10.8661614 44.0101074 10.9946041",
-  "georss_polygon_s": "44.0101074 10.8661614 44.0101074 10.9946041 43.8804611 10.9946041 43.8804611 10.8661614 44.0101074 10.8661614",
   "solr_geom": "ENVELOPE(10.8661614, 10.9946041, 44.0101074, 43.8804611)",
-  "solr_year_i": "1750"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Pistoia (Italy : Province)"
+  ]
 }

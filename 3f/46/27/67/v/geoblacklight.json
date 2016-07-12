@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/3f462767v",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Stanhope",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "3f462767v",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F3f%2F46%2F27%2F67%2Fv%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "3f462767v",
-  "layer_slug_s": "princeton-3f462767v",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:08:21Z",
+  "solr_geom": "ENVELOPE(-74.720272, -74.683246, 40.926068, 40.899141)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/3f/46/27/67/v/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/3f462767v",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Stanhope, N. J. (Sheet 1).",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1886"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "3f462767v",
+  "georss_polygon_s": "40.926068 -74.720272 40.926068 -74.683246 40.899141 -74.683246 40.899141 -74.720272 40.926068 -74.720272",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1886",
   "dct_spatial_sm": [
     "New Jersey",
     "Stanhope"
   ],
-  "dct_temporal_sm": [
-    "1886"
-  ],
+  "layer_id_s": "3f462767v",
   "georss_box_s": "40.899141 -74.720272 40.926068 -74.683246",
-  "georss_polygon_s": "40.926068 -74.720272 40.926068 -74.683246 40.899141 -74.683246 40.899141 -74.720272 40.926068 -74.720272",
-  "solr_geom": "ENVELOPE(-74.720272, -74.683246, 40.926068, 40.899141)",
-  "solr_year_i": "1886"
+  "dc_title_s": "Stanhope, N. J. (Sheet 1).",
+  "layer_slug_s": "princeton-3f462767v",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1952",
   "uuid": "http://arks.princeton.edu/ark:/88435/736666321",
+  "dc_description_s": "Carte geologique detaillee de la France [a 1/80 000]: Sarrebourg.",
+  "georss_box_s": "48.71630 6.28190 49.07570 7.15640",
+  "layer_modified_dt": "2015-01-19T22:36:37Z",
   "dc_creator_sm": [
     "Raguin, E."
   ],
-  "dc_description_s": "Carte geologique detaillee de la France [a 1/80 000]: Sarrebourg.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "736666321",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/736666321/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F73%2F66%2F66%2F32%2F1%2F00000001.jp2/info.json\"}",
   "layer_id_s": "736666321",
-  "layer_slug_s": "princeton-736666321",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:36:37Z",
-  "dc_title_s": "Carte geologique detaillee de la France [a 1/80 000]: Sarrebourg.",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "France"
-  ],
+  "dc_identifier_s": "736666321",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Carte geologique detaillee de la France [a 1/80 000]: Sarrebourg.",
+  "layer_slug_s": "princeton-736666321",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/736666321/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/73/66/66/32/1/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "49.07570 6.28190 49.07570 7.15640 48.71630 7.15640 48.71630 6.28190 49.07570 6.28190",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1952"
   ],
-  "georss_box_s": "48.71630 6.28190 49.07570 7.15640",
-  "georss_polygon_s": "49.07570 6.28190 49.07570 7.15640 48.71630 7.15640 48.71630 6.28190 49.07570 6.28190",
   "solr_geom": "ENVELOPE(6.28190, 7.15640, 49.07570, 48.71630)",
-  "solr_year_i": "1952"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "France"
+  ]
 }

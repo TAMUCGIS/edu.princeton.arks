@@ -1,5 +1,9 @@
 {
+  "solr_year_i": "1848",
   "uuid": "http://arks.princeton.edu/ark:/88435/6d570014m",
+  "dc_description_s": "Map of Delaware Bay and River",
+  "georss_box_s": "38.5333333333 -75.6666666667 40.2333333333 -74.7",
+  "layer_modified_dt": "2015-01-23T17:48:39Z",
   "dc_creator_sm": [
     "Hassler, F. R.",
     "Bache, A. D.",
@@ -10,26 +14,22 @@
     "Dankworth, Frederick,",
     "Lawson, Oscar A.,"
   ],
-  "dc_description_s": "Map of Delaware Bay and River",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "6d570014m",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/6d570014m/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F6d%2F57%2F00%2F14%2Fm%2F00000001.jp2/info.json\"}",
   "layer_id_s": "6d570014m",
-  "layer_slug_s": "princeton-6d570014m",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-23T17:48:39Z",
-  "dc_title_s": "Map of Delaware Bay and River",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Delaware River Estuary"
-  ],
+  "dc_identifier_s": "6d570014m",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Map of Delaware Bay and River",
+  "layer_slug_s": "princeton-6d570014m",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/6d570014m/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/6d/57/00/14/m/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.2333333333 -75.6666666667 40.2333333333 -74.7 38.5333333333 -74.7 38.5333333333 -75.6666666667 40.2333333333 -75.6666666667",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1848"
   ],
-  "georss_box_s": "38.5333333333 -75.6666666667 40.2333333333 -74.7",
-  "georss_polygon_s": "40.2333333333 -75.6666666667 40.2333333333 -74.7 38.5333333333 -74.7 38.5333333333 -75.6666666667 40.2333333333 -75.6666666667",
   "solr_geom": "ENVELOPE(-75.6666666667, -74.7, 40.2333333333, 38.5333333333)",
-  "solr_year_i": "1848"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Delaware River Estuary"
+  ]
 }

@@ -1,32 +1,32 @@
 {
+  "solr_year_i": "1867",
   "uuid": "http://arks.princeton.edu/ark:/88435/dj52w713q",
+  "dc_description_s": "Map of Brazil, Bolivia, Paraguay, and Uruguay",
+  "georss_box_s": "-37.0 -73.0 5.0 -32.0",
+  "layer_modified_dt": "2015-01-19T22:37:10Z",
   "dc_creator_sm": [
     "Mitchell, S. Augustus"
   ],
-  "dc_description_s": "Map of Brazil, Bolivia, Paraguay, and Uruguay",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "dj52w713q",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/dj52w713q/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fdj%2F52%2Fw7%2F13%2Fq%2F00000001.jp2/info.json\"}",
   "layer_id_s": "dj52w713q",
-  "layer_slug_s": "princeton-dj52w713q",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:10Z",
-  "dc_title_s": "Map of Brazil, Bolivia, Paraguay, and Uruguay",
   "dc_type_s": "Image",
+  "dc_identifier_s": "dj52w713q",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Map of Brazil, Bolivia, Paraguay, and Uruguay",
+  "layer_slug_s": "princeton-dj52w713q",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/dj52w713q/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/dj/52/w7/13/q/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "5.0 -73.0 5.0 -32.0 -37.0 -32.0 -37.0 -73.0 5.0 -73.0",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1867"
+  ],
+  "solr_geom": "ENVELOPE(-73.0, -32.0, 5.0, -37.0)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Bolivia",
     "Brazil",
     "Chile",
     "Paraguay",
     "Uruguay"
-  ],
-  "dct_temporal_sm": [
-    "1867"
-  ],
-  "georss_box_s": "-37.0 -73.0 5.0 -32.0",
-  "georss_polygon_s": "5.0 -73.0 5.0 -32.0 -37.0 -32.0 -37.0 -73.0 5.0 -73.0",
-  "solr_geom": "ENVELOPE(-73.0, -32.0, 5.0, -37.0)",
-  "solr_year_i": "1867"
+  ]
 }

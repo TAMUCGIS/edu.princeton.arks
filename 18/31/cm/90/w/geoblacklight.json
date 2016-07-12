@@ -1,31 +1,31 @@
 {
+  "solr_year_i": "1773",
   "uuid": "http://arks.princeton.edu/ark:/88435/1831cm90w",
+  "dc_description_s": "Carte des costes de Perse, Guzarat et Malabar : tire\u0301e de la carte franc\u0326oise de l'Ocean Oriental, publie\u0301e en 1740, par ordre de Mgr. le comte de Maurepas /",
+  "georss_box_s": "-0.9074934 72.3554187 7.3106246 73.9700962",
+  "layer_modified_dt": "2015-01-21T22:23:52Z",
   "dc_creator_sm": [
     "Schley, Jacobus van der,"
   ],
-  "dc_description_s": "Carte des costes de Perse, Guzarat et Malabar : tirée de la carte franc̦oise de l'Ocean Oriental, publiée en 1740, par ordre de Mgr. le comte de Maurepas /",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "1831cm90w",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/1831cm90w/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F18%2F31%2Fcm%2F90%2Fw%2F00000001.jp2/info.json\"}",
   "layer_id_s": "1831cm90w",
-  "layer_slug_s": "princeton-1831cm90w",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:52Z",
-  "dc_title_s": "Carte des costes de Perse, Guzarat et Malabar : tirée de la carte franc̦oise de l'Ocean Oriental, publiée en 1740, par ordre de Mgr. le comte de Maurepas /",
   "dc_type_s": "Image",
+  "dc_identifier_s": "1831cm90w",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Carte des costes de Perse, Guzarat et Malabar : tire\u0301e de la carte franc\u0326oise de l'Ocean Oriental, publie\u0301e en 1740, par ordre de Mgr. le comte de Maurepas /",
+  "layer_slug_s": "princeton-1831cm90w",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/1831cm90w/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/18/31/cm/90/w/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "7.3106246 72.3554187 7.3106246 73.9700962 -0.9074934 73.9700962 -0.9074934 72.3554187 7.3106246 72.3554187",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1773"
+  ],
+  "solr_geom": "ENVELOPE(72.3554187, 73.9700962, 7.3106246, -0.9074934)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Maldives",
     "Lakshadweep (India)",
     "Iran",
     "India"
-  ],
-  "dct_temporal_sm": [
-    "1773"
-  ],
-  "georss_box_s": "-0.9074934 72.3554187 7.3106246 73.9700962",
-  "georss_polygon_s": "7.3106246 72.3554187 7.3106246 73.9700962 -0.9074934 73.9700962 -0.9074934 72.3554187 7.3106246 72.3554187",
-  "solr_geom": "ENVELOPE(72.3554187, 73.9700962, 7.3106246, -0.9074934)",
-  "solr_year_i": "1773"
+  ]
 }

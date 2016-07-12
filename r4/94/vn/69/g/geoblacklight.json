@@ -1,31 +1,31 @@
 {
+  "solr_year_i": "1756",
   "uuid": "http://arks.princeton.edu/ark:/88435/r494vn69g",
+  "dc_description_s": "Carte de l'Italie dans laquelle sont tracee\u0301s les routes des postes",
+  "georss_box_s": "35.2889616 6.6272658 47.0921462 18.7844746",
+  "layer_modified_dt": "2015-01-21T22:24:25Z",
   "dc_creator_sm": [
     "Robert de Vaugondy, Didier,",
     "Haussard, Elisabeth,",
     "McCabe, Robert A.,",
     "Robert de Vaugondy, Gilles, 1688-1766."
   ],
-  "dc_description_s": "Carte de l'Italie dans laquelle sont traceés les routes des postes",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "r494vn69g",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/r494vn69g/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fr4%2F94%2Fvn%2F69%2Fg%2F00000001.jp2/info.json\"}",
   "layer_id_s": "r494vn69g",
-  "layer_slug_s": "princeton-r494vn69g",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:25Z",
-  "dc_title_s": "Carte de l'Italie dans laquelle sont traceés les routes des postes",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Italy"
-  ],
+  "dc_identifier_s": "r494vn69g",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Carte de l'Italie dans laquelle sont tracee\u0301s les routes des postes",
+  "layer_slug_s": "princeton-r494vn69g",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/r494vn69g/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/r4/94/vn/69/g/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "47.0921462 6.6272658 47.0921462 18.7844746 35.2889616 18.7844746 35.2889616 6.6272658 47.0921462 6.6272658",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1756"
   ],
-  "georss_box_s": "35.2889616 6.6272658 47.0921462 18.7844746",
-  "georss_polygon_s": "47.0921462 6.6272658 47.0921462 18.7844746 35.2889616 18.7844746 35.2889616 6.6272658 47.0921462 6.6272658",
   "solr_geom": "ENVELOPE(6.6272658, 18.7844746, 47.0921462, 35.2889616)",
-  "solr_year_i": "1756"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Italy"
+  ]
 }

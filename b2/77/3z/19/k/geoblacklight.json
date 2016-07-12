@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1910",
   "uuid": "http://arks.princeton.edu/ark:/88435/b2773z19k",
-  "dc_description_s": "[Lake Müritz region]",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "b2773z19k",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/b2773z19k/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F2%2F77%2F3z%2F19%2Fk%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "b2773z19k",
-  "layer_slug_s": "princeton-b2773z19k",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "[Lake Mu\u0308ritz region]",
+  "georss_box_s": "53.1098405 10.5938299 54.8849662 14.4125172",
   "layer_modified_dt": "2015-01-21T22:24:23Z",
-  "dc_title_s": "[Lake Müritz region]",
+  "layer_id_s": "b2773z19k",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Mecklenburg-Vorpommern (Germany)",
-    "Müritz, Lake (Germany)"
-  ],
+  "dc_identifier_s": "b2773z19k",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "[Lake Mu\u0308ritz region]",
+  "layer_slug_s": "princeton-b2773z19k",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/b2773z19k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/b2/77/3z/19/k/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "54.8849662 10.5938299 54.8849662 14.4125172 53.1098405 14.4125172 53.1098405 10.5938299 54.8849662 10.5938299",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1910"
   ],
-  "georss_box_s": "53.1098405 10.5938299 54.8849662 14.4125172",
-  "georss_polygon_s": "54.8849662 10.5938299 54.8849662 14.4125172 53.1098405 14.4125172 53.1098405 10.5938299 54.8849662 10.5938299",
   "solr_geom": "ENVELOPE(10.5938299, 14.4125172, 54.8849662, 53.1098405)",
-  "solr_year_i": "1910"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Mecklenburg-Vorpommern (Germany)",
+    "Mu\u0308ritz, Lake (Germany)"
+  ]
 }

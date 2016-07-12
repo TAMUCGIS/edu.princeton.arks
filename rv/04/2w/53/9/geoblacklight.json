@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1829",
   "uuid": "http://arks.princeton.edu/ark:/88435/rv042w539",
+  "dc_description_s": "Carta fisica e politica dell' Europa",
+  "georss_box_s": "50.9999503 9.9999497 51.0000503 10.0000497",
+  "layer_modified_dt": "2015-01-21T22:24:12Z",
   "dc_creator_sm": [
     "Bordiga, Giovanni Battista,",
     "Vallardi, Giuseppe,",
     "Vallardi, Pietro,"
   ],
-  "dc_description_s": "Carta fisica e politica dell' Europa",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "rv042w539",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/rv042w539/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Frv%2F04%2F2w%2F53%2F9%2F00000001.jp2/info.json\"}",
   "layer_id_s": "rv042w539",
-  "layer_slug_s": "princeton-rv042w539",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:12Z",
-  "dc_title_s": "Carta fisica e politica dell' Europa",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Europe"
-  ],
+  "dc_identifier_s": "rv042w539",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Carta fisica e politica dell' Europa",
+  "layer_slug_s": "princeton-rv042w539",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/rv042w539/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/rv/04/2w/53/9/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "51.0000503 9.9999497 51.0000503 10.0000497 50.9999503 10.0000497 50.9999503 9.9999497 51.0000503 9.9999497",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1829"
   ],
-  "georss_box_s": "50.9999503 9.9999497 51.0000503 10.0000497",
-  "georss_polygon_s": "51.0000503 9.9999497 51.0000503 10.0000497 50.9999503 10.0000497 50.9999503 9.9999497 51.0000503 9.9999497",
   "solr_geom": "ENVELOPE(9.9999497, 10.0000497, 51.0000503, 50.9999503)",
-  "solr_year_i": "1829"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Europe"
+  ]
 }

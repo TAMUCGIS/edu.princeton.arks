@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1903",
   "uuid": "http://arks.princeton.edu/ark:/88435/st74cs89v",
+  "dc_description_s": "Territory of Arizona",
+  "georss_box_s": "31.332177 -114.8183583 37.00426 -109.0452",
+  "layer_modified_dt": "2015-01-21T22:24:02Z",
   "dc_creator_sm": [
     "Bond, Frank,",
     "O'Hare, Daniel."
   ],
-  "dc_description_s": "Territory of Arizona",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "st74cs89v",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/st74cs89v/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fst%2F74%2Fcs%2F89%2Fv%2F00000001.jp2/info.json\"}",
   "layer_id_s": "st74cs89v",
-  "layer_slug_s": "princeton-st74cs89v",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:02Z",
-  "dc_title_s": "Territory of Arizona",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Arizona"
-  ],
+  "dc_identifier_s": "st74cs89v",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Territory of Arizona",
+  "layer_slug_s": "princeton-st74cs89v",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/st74cs89v/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/st/74/cs/89/v/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "37.00426 -114.8183583 37.00426 -109.0452 31.332177 -109.0452 31.332177 -114.8183583 37.00426 -114.8183583",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1903"
   ],
-  "georss_box_s": "31.332177 -114.8183583 37.00426 -109.0452",
-  "georss_polygon_s": "37.00426 -114.8183583 37.00426 -109.0452 31.332177 -109.0452 31.332177 -114.8183583 37.00426 -114.8183583",
   "solr_geom": "ENVELOPE(-114.8183583, -109.0452, 37.00426, 31.332177)",
-  "solr_year_i": "1903"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Arizona"
+  ]
 }

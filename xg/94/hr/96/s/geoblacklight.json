@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1928",
   "uuid": "http://arks.princeton.edu/ark:/88435/xg94hr96s",
   "dc_description_s": "[Map of Thessalonica]",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "xg94hr96s",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/xg94hr96s/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fxg%2F94%2Fhr%2F96%2Fs%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "xg94hr96s",
-  "layer_slug_s": "princeton-xg94hr96s",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "40.4803167 22.7752716 40.8003167 23.0952716",
   "layer_modified_dt": "2015-01-21T22:24:01Z",
-  "dc_title_s": "[Map of Thessalonica]",
+  "layer_id_s": "xg94hr96s",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Thessalonikē (Greece)"
-  ],
+  "dc_identifier_s": "xg94hr96s",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "[Map of Thessalonica]",
+  "layer_slug_s": "princeton-xg94hr96s",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/xg94hr96s/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/xg/94/hr/96/s/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.8003167 22.7752716 40.8003167 23.0952716 40.4803167 23.0952716 40.4803167 22.7752716 40.8003167 22.7752716",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1928"
   ],
-  "georss_box_s": "40.4803167 22.7752716 40.8003167 23.0952716",
-  "georss_polygon_s": "40.8003167 22.7752716 40.8003167 23.0952716 40.4803167 23.0952716 40.4803167 22.7752716 40.8003167 22.7752716",
   "solr_geom": "ENVELOPE(22.7752716, 23.0952716, 40.8003167, 40.4803167)",
-  "solr_year_i": "1928"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Thessalonike\u0304 (Greece)"
+  ]
 }

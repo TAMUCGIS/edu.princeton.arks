@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1576",
   "uuid": "http://arks.princeton.edu/ark:/88435/js956j23g",
+  "dc_description_s": "Nicsia",
+  "georss_box_s": "36.9162617 25.33292 37.203594 25.6064953",
+  "layer_modified_dt": "2015-01-21T22:23:59Z",
   "dc_creator_sm": [
     "Porro, Girolamo,",
     "Porcacchi, Thomaso,"
   ],
-  "dc_description_s": "Nicsia",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "js956j23g",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/js956j23g/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fs%2F95%2F6j%2F23%2Fg%2F00000001.jp2/info.json\"}",
   "layer_id_s": "js956j23g",
-  "layer_slug_s": "princeton-js956j23g",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:59Z",
-  "dc_title_s": "Nicsia",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Naxos Island (Greece)"
-  ],
+  "dc_identifier_s": "js956j23g",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Nicsia",
+  "layer_slug_s": "princeton-js956j23g",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/js956j23g/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/js/95/6j/23/g/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "37.203594 25.33292 37.203594 25.6064953 36.9162617 25.6064953 36.9162617 25.33292 37.203594 25.33292",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1576"
   ],
-  "georss_box_s": "36.9162617 25.33292 37.203594 25.6064953",
-  "georss_polygon_s": "37.203594 25.33292 37.203594 25.6064953 36.9162617 25.6064953 36.9162617 25.33292 37.203594 25.33292",
   "solr_geom": "ENVELOPE(25.33292, 25.6064953, 37.203594, 36.9162617)",
-  "solr_year_i": "1576"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Naxos Island (Greece)"
+  ]
 }

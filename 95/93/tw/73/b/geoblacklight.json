@@ -2,7 +2,7 @@
   "dc_description_s": "A scanned USGS 1:750,000 topographic map.",
   "layer_modified_dt": "2015-01-11T17:43:09Z",
   "solr_geom": "ENVELOPE(-122.00, -119.00, 40.500, 37.500)",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F95%2F93%2Ftw%2F73%2Fb%2F00000001.jp2/info.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/9593tw73b/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/9593tw73b/preview.jpg\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/9593tw73b/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/95/93/tw/73/b/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/9593tw73b/preview.jpg\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/9593tw73b",
   "dct_provenance_s": "Princeton",
@@ -14,7 +14,7 @@
     "Geoscientific Information"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "1935",
+  "layer_slug_s": "princeton-9593tw73b",
   "dc_creator_sm": [
     "United States Geological Survey"
   ],
@@ -31,7 +31,7 @@
   "layer_id_s": "9593tw73b",
   "georss_box_s": "37.500 -122.00 40.500 -119.00",
   "dc_title_s": "Map of the northern part of the Sierra Nevada, California and Nevada, geology compiled from folios of Geologic atlas of the United States. ",
-  "layer_slug_s": "princeton-9593tw73b",
+  "dct_issued_s": "1935",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

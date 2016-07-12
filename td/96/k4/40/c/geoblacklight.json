@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1827",
   "uuid": "http://arks.princeton.edu/ark:/88435/td96k440c",
+  "dc_description_s": "Partie des E\u0301tats-Unis",
+  "georss_box_s": "42.4919436 -92.8881139 47.3025 -86.2495479",
+  "layer_modified_dt": "2015-01-21T22:23:47Z",
   "dc_creator_sm": [
     "Vandermaelen, Philippe,"
   ],
-  "dc_description_s": "Partie des États-Unis",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "td96k440c",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/td96k440c/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ftd%2F96%2Fk4%2F40%2Fc%2F00000001.jp2/info.json\"}",
   "layer_id_s": "td96k440c",
-  "layer_slug_s": "princeton-td96k440c",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:47Z",
-  "dc_title_s": "Partie des États-Unis",
   "dc_type_s": "Image",
+  "dc_identifier_s": "td96k440c",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Partie des E\u0301tats-Unis",
+  "layer_slug_s": "princeton-td96k440c",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/td96k440c/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/td/96/k4/40/c/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "47.3025 -92.8881139 47.3025 -86.2495479 42.4919436 -86.2495479 42.4919436 -92.8881139 47.3025 -92.8881139",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1827"
+  ],
+  "solr_geom": "ENVELOPE(-92.8881139, -86.2495479, 47.3025, 42.4919436)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Wisconsin",
     "Minnesota",
     "Iowa"
-  ],
-  "dct_temporal_sm": [
-    "1827"
-  ],
-  "georss_box_s": "42.4919436 -92.8881139 47.3025 -86.2495479",
-  "georss_polygon_s": "47.3025 -92.8881139 47.3025 -86.2495479 42.4919436 -86.2495479 42.4919436 -92.8881139 47.3025 -92.8881139",
-  "solr_geom": "ENVELOPE(-92.8881139, -86.2495479, 47.3025, 42.4919436)",
-  "solr_year_i": "1827"
+  ]
 }

@@ -2,7 +2,7 @@
   "dc_description_s": "This is a scanned map of Ancona, Italy, from the Historical Map Collection of Princeton University's Rare Books department.",
   "layer_modified_dt": "2015-01-11T17:42:47Z",
   "solr_geom": "ENVELOPE(13.48, 13.54, 43.636, 43.6)",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fkd%2F17%2Fcv%2F35%2Fx%2F00000001.jp2/info.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/kd17cv35x/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/kd17cv35x/preview.jpg\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/kd17cv35x/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/kd/17/cv/35/x/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/kd17cv35x/preview.jpg\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/kd17cv35x",
   "dct_provenance_s": "Princeton",
@@ -13,7 +13,7 @@
     "Nautical Charts"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "1764",
+  "layer_slug_s": "princeton-kd17cv35x",
   "dc_creator_sm": [
     "Bellin, Jacques Nicolas"
   ],
@@ -30,7 +30,7 @@
   "layer_id_s": "kd17cv35x",
   "georss_box_s": "43.6 13.48 43.636 13.54",
   "dc_title_s": "Carte des ville et citadelle d'Ancone ",
-  "layer_slug_s": "princeton-kd17cv35x",
+  "dct_issued_s": "1764",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

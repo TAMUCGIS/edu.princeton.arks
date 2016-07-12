@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1840",
   "uuid": "http://arks.princeton.edu/ark:/88435/v405sc89k",
+  "dc_description_s": "Republic of Mexico and Texas",
+  "georss_box_s": "14.0 -125.0 42.0 -85.0",
+  "layer_modified_dt": "2015-01-19T22:37:35Z",
   "dc_creator_sm": [
     "Stockley,"
   ],
-  "dc_description_s": "Republic of Mexico and Texas",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "v405sc89k",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/v405sc89k/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fv4%2F05%2Fsc%2F89%2Fk%2F00000001.jp2/info.json\"}",
   "layer_id_s": "v405sc89k",
-  "layer_slug_s": "princeton-v405sc89k",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:35Z",
-  "dc_title_s": "Republic of Mexico and Texas",
   "dc_type_s": "Image",
+  "dc_identifier_s": "v405sc89k",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Republic of Mexico and Texas",
+  "layer_slug_s": "princeton-v405sc89k",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/v405sc89k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/v4/05/sc/89/k/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "42.0 -125.0 42.0 -85.0 14.0 -85.0 14.0 -125.0 42.0 -125.0",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1840"
+  ],
+  "solr_geom": "ENVELOPE(-125.0, -85.0, 42.0, 14.0)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Central America",
     "Mexico",
     "Southwestern States"
-  ],
-  "dct_temporal_sm": [
-    "1840"
-  ],
-  "georss_box_s": "14.0 -125.0 42.0 -85.0",
-  "georss_polygon_s": "42.0 -125.0 42.0 -85.0 14.0 -85.0 14.0 -125.0 42.0 -125.0",
-  "solr_geom": "ENVELOPE(-125.0, -85.0, 42.0, 14.0)",
-  "solr_year_i": "1840"
+  ]
 }

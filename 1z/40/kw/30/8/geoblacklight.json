@@ -1,32 +1,32 @@
 {
+  "solr_year_i": "1856",
   "uuid": "http://arks.princeton.edu/ark:/88435/1z40kw308",
-  "dc_creator_sm": [
-    "Schwaerzlé, J.,",
-    "Lanée,"
-  ],
-  "dc_description_s": "Carte hydrographique de la Basse Égypte et d'une partie de l'Isthme de Suez : où sont indiqués les travaux exécutés ou à exécuter d'après les ordres de son altesse Mehémet-Ali, vice-roi d'Egypte ; avec le projet de communication directe des deux mers au travers de l'Isthme",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "1z40kw308",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/1z40kw308/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F1z%2F40%2Fkw%2F30%2F8%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "1z40kw308",
-  "layer_slug_s": "princeton-1z40kw308",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Carte hydrographique de la Basse E\u0301gypte et d'une partie de l'Isthme de Suez : ou\u0300 sont indique\u0301s les travaux exe\u0301cute\u0301s ou a\u0300 exe\u0301cuter d'apre\u0300s les ordres de son altesse Mehe\u0301met-Ali, vice-roi d'Egypte ; avec le projet de communication directe des deux mers au travers de l'Isthme",
+  "georss_box_s": "21.9999975 24.706389 31.8330854 37.1153517",
   "layer_modified_dt": "2015-01-21T22:24:11Z",
-  "dc_title_s": "Carte hydrographique de la Basse Égypte et d'une partie de l'Isthme de Suez : où sont indiqués les travaux exécutés ou à exécuter d'après les ordres de son altesse Mehémet-Ali, vice-roi d'Egypte ; avec le projet de communication directe des deux mers au travers de l'Isthme",
+  "dc_creator_sm": [
+    "Schwaerzle\u0301, J.,",
+    "Lane\u0301e,"
+  ],
+  "layer_id_s": "1z40kw308",
   "dc_type_s": "Image",
+  "dc_identifier_s": "1z40kw308",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Carte hydrographique de la Basse E\u0301gypte et d'une partie de l'Isthme de Suez : ou\u0300 sont indique\u0301s les travaux exe\u0301cute\u0301s ou a\u0300 exe\u0301cuter d'apre\u0300s les ordres de son altesse Mehe\u0301met-Ali, vice-roi d'Egypte ; avec le projet de communication directe des deux mers au travers de l'Isthme",
+  "layer_slug_s": "princeton-1z40kw308",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/1z40kw308/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/1z/40/kw/30/8/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "31.8330854 24.706389 31.8330854 37.1153517 21.9999975 37.1153517 21.9999975 24.706389 31.8330854 24.706389",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1856"
+  ],
+  "solr_geom": "ENVELOPE(24.706389, 37.1153517, 31.8330854, 21.9999975)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Egypt",
     "Nile River Delta (Egypt)",
     "Suez, Isthmus of (Egypt)",
     "Suez Canal (Egypt)"
-  ],
-  "dct_temporal_sm": [
-    "1856"
-  ],
-  "georss_box_s": "21.9999975 24.706389 31.8330854 37.1153517",
-  "georss_polygon_s": "31.8330854 24.706389 31.8330854 37.1153517 21.9999975 37.1153517 21.9999975 24.706389 31.8330854 24.706389",
-  "solr_geom": "ENVELOPE(24.706389, 37.1153517, 31.8330854, 21.9999975)",
-  "solr_year_i": "1856"
+  ]
 }

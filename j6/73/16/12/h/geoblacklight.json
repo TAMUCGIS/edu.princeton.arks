@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/j6731612h",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Jersey City",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "j6731612h",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F6%2F73%2F16%2F12%2Fh%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "j6731612h",
-  "layer_slug_s": "princeton-j6731612h",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:11:16Z",
+  "solr_geom": "ENVELOPE(-74.117057, -74.026614, 40.768867, 40.66689)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/j6/73/16/12/h/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/j6731612h",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "[Jersey City] : skeleton (Sheet 43)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1911"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "j6731612h",
+  "georss_polygon_s": "40.768867 -74.117057 40.768867 -74.026614 40.66689 -74.026614 40.66689 -74.117057 40.768867 -74.117057",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1911",
   "dct_spatial_sm": [
     "New Jersey",
     "Jersey City"
   ],
-  "dct_temporal_sm": [
-    "1911"
-  ],
+  "layer_id_s": "j6731612h",
   "georss_box_s": "40.66689 -74.117057 40.768867 -74.026614",
-  "georss_polygon_s": "40.768867 -74.117057 40.768867 -74.026614 40.66689 -74.026614 40.66689 -74.117057 40.768867 -74.117057",
-  "solr_geom": "ENVELOPE(-74.117057, -74.026614, 40.768867, 40.66689)",
-  "solr_year_i": "1911"
+  "dc_title_s": "[Jersey City] : skeleton (Sheet 43)",
+  "layer_slug_s": "princeton-j6731612h",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

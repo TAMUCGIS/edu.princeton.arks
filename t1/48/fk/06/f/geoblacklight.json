@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/t148fk06f",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Woodbine",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "t148fk06f",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ft1%2F48%2Ffk%2F06%2Ff%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "t148fk06f",
-  "layer_slug_s": "princeton-t148fk06f",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:02:35Z",
+  "solr_geom": "ENVELOPE(-74.848383, -74.766362, 39.256833, 39.203307)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/t1/48/fk/06/f/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/t148fk06f",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Woodbine, Cape May County, New Jersey (Sheet 2).",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1912"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "t148fk06f",
+  "georss_polygon_s": "39.256833 -74.848383 39.256833 -74.766362 39.203307 -74.766362 39.203307 -74.848383 39.256833 -74.848383",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1912",
   "dct_spatial_sm": [
     "New Jersey",
     "Woodbine"
   ],
-  "dct_temporal_sm": [
-    "1912"
-  ],
+  "layer_id_s": "t148fk06f",
   "georss_box_s": "39.203307 -74.848383 39.256833 -74.766362",
-  "georss_polygon_s": "39.256833 -74.848383 39.256833 -74.766362 39.203307 -74.766362 39.203307 -74.848383 39.256833 -74.848383",
-  "solr_geom": "ENVELOPE(-74.848383, -74.766362, 39.256833, 39.203307)",
-  "solr_year_i": "1912"
+  "dc_title_s": "Woodbine, Cape May County, New Jersey (Sheet 2).",
+  "layer_slug_s": "princeton-t148fk06f",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

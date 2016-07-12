@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1872",
   "uuid": "http://arks.princeton.edu/ark:/88435/8s45qb68d",
+  "dc_description_s": "Peloponnesus",
+  "georss_box_s": "36.2864096 19.2477876 40.0018586 23.454616",
+  "layer_modified_dt": "2015-01-21T22:23:49Z",
   "dc_creator_sm": [
     "Smith, William,",
     "Jacobs, S.",
     "Dalmont, I."
   ],
-  "dc_description_s": "Peloponnesus",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "8s45qb68d",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/8s45qb68d/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F8s%2F45%2Fqb%2F68%2Fd%2F00000001.jp2/info.json\"}",
   "layer_id_s": "8s45qb68d",
-  "layer_slug_s": "princeton-8s45qb68d",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:49Z",
-  "dc_title_s": "Peloponnesus",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Peloponnesus (Greece : Peninsula)"
-  ],
+  "dc_identifier_s": "8s45qb68d",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Peloponnesus",
+  "layer_slug_s": "princeton-8s45qb68d",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/8s45qb68d/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/8s/45/qb/68/d/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.0018586 19.2477876 40.0018586 23.454616 36.2864096 23.454616 36.2864096 19.2477876 40.0018586 19.2477876",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1872"
   ],
-  "georss_box_s": "36.2864096 19.2477876 40.0018586 23.454616",
-  "georss_polygon_s": "40.0018586 19.2477876 40.0018586 23.454616 36.2864096 23.454616 36.2864096 19.2477876 40.0018586 19.2477876",
   "solr_geom": "ENVELOPE(19.2477876, 23.454616, 40.0018586, 36.2864096)",
-  "solr_year_i": "1872"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Peloponnesus (Greece : Peninsula)"
+  ]
 }

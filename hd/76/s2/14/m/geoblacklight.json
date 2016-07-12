@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1869",
   "uuid": "http://arks.princeton.edu/ark:/88435/hd76s214m",
+  "dc_description_s": "London in the reign of Queen Elizabeth",
+  "georss_box_s": "51.2867602 -0.510375 51.6918741 0.3340155",
+  "layer_modified_dt": "2015-01-21T22:23:53Z",
   "dc_creator_sm": [
     "Weller, Edward,"
   ],
-  "dc_description_s": "London in the reign of Queen Elizabeth",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "hd76s214m",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/hd76s214m/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fhd%2F76%2Fs2%2F14%2Fm%2F00000001.jp2/info.json\"}",
   "layer_id_s": "hd76s214m",
-  "layer_slug_s": "princeton-hd76s214m",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:53Z",
-  "dc_title_s": "London in the reign of Queen Elizabeth",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "London (England)",
-    "London (England)"
-  ],
+  "dc_identifier_s": "hd76s214m",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "London in the reign of Queen Elizabeth",
+  "layer_slug_s": "princeton-hd76s214m",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/hd76s214m/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/hd/76/s2/14/m/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "51.6918741 -0.510375 51.6918741 0.3340155 51.2867602 0.3340155 51.2867602 -0.510375 51.6918741 -0.510375",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1869"
   ],
-  "georss_box_s": "51.2867602 -0.510375 51.6918741 0.3340155",
-  "georss_polygon_s": "51.6918741 -0.510375 51.6918741 0.3340155 51.2867602 0.3340155 51.2867602 -0.510375 51.6918741 -0.510375",
   "solr_geom": "ENVELOPE(-0.510375, 0.3340155, 51.6918741, 51.2867602)",
-  "solr_year_i": "1869"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "London (England)",
+    "London (England)"
+  ]
 }

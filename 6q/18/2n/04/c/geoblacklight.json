@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1774",
   "uuid": "http://arks.princeton.edu/ark:/88435/6q182n04c",
+  "dc_description_s": "North America, as divided amongst the European powers",
+  "georss_box_s": "50.9999502 -109.0000502 51.0000502 -108.9999502",
+  "layer_modified_dt": "2015-01-21T22:23:51Z",
   "dc_creator_sm": [
     "Sayer, Robert,",
     "McCabe, Robert A.,"
   ],
-  "dc_description_s": "North America, as divided amongst the European powers",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "6q182n04c",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/6q182n04c/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F6q%2F18%2F2n%2F04%2Fc%2F00000001.jp2/info.json\"}",
   "layer_id_s": "6q182n04c",
-  "layer_slug_s": "princeton-6q182n04c",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:51Z",
-  "dc_title_s": "North America, as divided amongst the European powers",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "North America"
-  ],
+  "dc_identifier_s": "6q182n04c",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "North America, as divided amongst the European powers",
+  "layer_slug_s": "princeton-6q182n04c",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/6q182n04c/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/6q/18/2n/04/c/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "51.0000502 -109.0000502 51.0000502 -108.9999502 50.9999502 -108.9999502 50.9999502 -109.0000502 51.0000502 -109.0000502",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1774"
   ],
-  "georss_box_s": "50.9999502 -109.0000502 51.0000502 -108.9999502",
-  "georss_polygon_s": "51.0000502 -109.0000502 51.0000502 -108.9999502 50.9999502 -108.9999502 50.9999502 -109.0000502 51.0000502 -109.0000502",
   "solr_geom": "ENVELOPE(-109.0000502, -108.9999502, 51.0000502, 50.9999502)",
-  "solr_year_i": "1774"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "North America"
+  ]
 }

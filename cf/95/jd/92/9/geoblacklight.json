@@ -1,24 +1,22 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/cf95jd929",
+  "dc_description_s": "Map of Bergen County, New Jersey : with a portion of Passaic Co.",
+  "georss_box_s": "40.7666666667 -74.2666666667 41.1166666667 -73.9",
+  "layer_modified_dt": "2015-01-23T17:48:36Z",
   "dc_creator_sm": [
     "Mueller, A. H."
   ],
-  "dc_description_s": "Map of Bergen County, New Jersey : with a portion of Passaic Co.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "cf95jd929",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/cf95jd929/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fcf%2F95%2Fjd%2F92%2F9%2F00000001.jp2/info.json\"}",
   "layer_id_s": "cf95jd929",
-  "layer_slug_s": "princeton-cf95jd929",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-23T17:48:36Z",
-  "dc_title_s": "Map of Bergen County, New Jersey : with a portion of Passaic Co.",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
-  "georss_box_s": "40.7666666667 -74.2666666667 41.1166666667 -73.9",
+  "dc_identifier_s": "cf95jd929",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Map of Bergen County, New Jersey : with a portion of Passaic Co.",
+  "layer_slug_s": "princeton-cf95jd929",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/cf95jd929/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/cf/95/jd/92/9/00000001.jp2/info.json\"}",
   "georss_polygon_s": "41.1166666667 -74.2666666667 41.1166666667 -73.9 40.7666666667 -73.9 40.7666666667 -74.2666666667 41.1166666667 -74.2666666667",
-  "solr_geom": "ENVELOPE(-74.2666666667, -73.9, 41.1166666667, 40.7666666667)"
+  "layer_geom_type_s": "Image",
+  "solr_geom": "ENVELOPE(-74.2666666667, -73.9, 41.1166666667, 40.7666666667)",
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

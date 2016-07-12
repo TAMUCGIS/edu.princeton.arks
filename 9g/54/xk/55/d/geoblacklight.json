@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1778",
   "uuid": "http://arks.princeton.edu/ark:/88435/9g54xk55d",
+  "dc_description_s": "Carte re\u0301duite des co\u0302tes orientales de l'Ame\u0301rique septentrionale : contenant partie du Nouveau Jersey, la Pen-sylvanie, le Mary-land, la Virginie, la Caroline septentrionale, la Caroline me\u0301ridionale et la Georgie : assujettie aux observations les plus re\u0301centes et aux cartes de de\u0301tail les plus estime\u0301es",
+  "georss_box_s": "30.25 -92.0 40.0 -74.0",
+  "layer_modified_dt": "2015-01-19T22:36:55Z",
   "dc_creator_sm": [
     "Sartine, Antoine de,",
     "Petit,"
   ],
-  "dc_description_s": "Carte réduite des côtes orientales de l'Amérique septentrionale : contenant partie du Nouveau Jersey, la Pen-sylvanie, le Mary-land, la Virginie, la Caroline septentrionale, la Caroline méridionale et la Georgie : assujettie aux observations les plus récentes et aux cartes de détail les plus estimées",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "9g54xk55d",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/9g54xk55d/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F9g%2F54%2Fxk%2F55%2Fd%2F00000001.jp2/info.json\"}",
   "layer_id_s": "9g54xk55d",
-  "layer_slug_s": "princeton-9g54xk55d",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:36:55Z",
-  "dc_title_s": "Carte réduite des côtes orientales de l'Amérique septentrionale : contenant partie du Nouveau Jersey, la Pen-sylvanie, le Mary-land, la Virginie, la Caroline septentrionale, la Caroline méridionale et la Georgie : assujettie aux observations les plus récentes et aux cartes de détail les plus estimées",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Middle Atlantic States",
-    "South Atlantic States"
-  ],
+  "dc_identifier_s": "9g54xk55d",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Carte re\u0301duite des co\u0302tes orientales de l'Ame\u0301rique septentrionale : contenant partie du Nouveau Jersey, la Pen-sylvanie, le Mary-land, la Virginie, la Caroline septentrionale, la Caroline me\u0301ridionale et la Georgie : assujettie aux observations les plus re\u0301centes et aux cartes de de\u0301tail les plus estime\u0301es",
+  "layer_slug_s": "princeton-9g54xk55d",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/9g54xk55d/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/9g/54/xk/55/d/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.0 -92.0 40.0 -74.0 30.25 -74.0 30.25 -92.0 40.0 -92.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1778"
   ],
-  "georss_box_s": "30.25 -92.0 40.0 -74.0",
-  "georss_polygon_s": "40.0 -92.0 40.0 -74.0 30.25 -74.0 30.25 -92.0 40.0 -92.0",
   "solr_geom": "ENVELOPE(-92.0, -74.0, 40.0, 30.25)",
-  "solr_year_i": "1778"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Middle Atlantic States",
+    "South Atlantic States"
+  ]
 }

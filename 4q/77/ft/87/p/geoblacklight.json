@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1906",
   "uuid": "http://arks.princeton.edu/ark:/88435/4q77ft87p",
+  "dc_description_s": "Strategical map of part of Korea and Manchuria",
+  "georss_box_s": "32.0 121.0 46.0 133.0",
+  "layer_modified_dt": "2015-01-19T22:37:37Z",
   "dc_creator_sm": [
     "Hoopes, Charles L."
   ],
-  "dc_description_s": "Strategical map of part of Korea and Manchuria",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "4q77ft87p",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/4q77ft87p/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F4q%2F77%2Fft%2F87%2Fp%2F00000001.jp2/info.json\"}",
   "layer_id_s": "4q77ft87p",
-  "layer_slug_s": "princeton-4q77ft87p",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:37Z",
-  "dc_title_s": "Strategical map of part of Korea and Manchuria",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Korea",
-    "Manchuria (China)"
-  ],
+  "dc_identifier_s": "4q77ft87p",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Strategical map of part of Korea and Manchuria",
+  "layer_slug_s": "princeton-4q77ft87p",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/4q77ft87p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/4q/77/ft/87/p/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "46.0 121.0 46.0 133.0 32.0 133.0 32.0 121.0 46.0 121.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1906"
   ],
-  "georss_box_s": "32.0 121.0 46.0 133.0",
-  "georss_polygon_s": "46.0 121.0 46.0 133.0 32.0 133.0 32.0 121.0 46.0 121.0",
   "solr_geom": "ENVELOPE(121.0, 133.0, 46.0, 32.0)",
-  "solr_year_i": "1906"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Korea",
+    "Manchuria (China)"
+  ]
 }

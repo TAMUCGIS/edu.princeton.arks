@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1917",
   "uuid": "http://arks.princeton.edu/ark:/88435/6395w955j",
-  "dc_description_s": "Kirmānschâh",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "6395w955j",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/6395w955j/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F63%2F95%2Fw9%2F55%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "6395w955j",
-  "layer_slug_s": "princeton-6395w955j",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Kirma\u0304nscha\u0302h",
+  "georss_box_s": "34.275207 46.9978679 34.3993322 47.1938789",
   "layer_modified_dt": "2015-01-21T22:24:11Z",
-  "dc_title_s": "Kirmānschâh",
+  "layer_id_s": "6395w955j",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Kirmānshāh (Kirmānshāhān, Iran)"
-  ],
+  "dc_identifier_s": "6395w955j",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Kirma\u0304nscha\u0302h",
+  "layer_slug_s": "princeton-6395w955j",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/6395w955j/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/63/95/w9/55/j/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "34.3993322 46.9978679 34.3993322 47.1938789 34.275207 47.1938789 34.275207 46.9978679 34.3993322 46.9978679",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1917"
   ],
-  "georss_box_s": "34.275207 46.9978679 34.3993322 47.1938789",
-  "georss_polygon_s": "34.3993322 46.9978679 34.3993322 47.1938789 34.275207 47.1938789 34.275207 46.9978679 34.3993322 46.9978679",
   "solr_geom": "ENVELOPE(46.9978679, 47.1938789, 34.3993322, 34.275207)",
-  "solr_year_i": "1917"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Kirma\u0304nsha\u0304h (Kirma\u0304nsha\u0304ha\u0304n, Iran)"
+  ]
 }

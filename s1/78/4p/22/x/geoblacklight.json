@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1893",
   "uuid": "http://arks.princeton.edu/ark:/88435/s1784p22x",
+  "dc_description_s": "Neue Handkarte von Pala\u0308stina im Massstabe von 1:700 000 : nebst alphabetischem Namen-Verzeichnis und Quellen-Nachweis /",
+  "georss_box_s": "29.4533796 34.2676025 33.3356317 35.8950234",
+  "layer_modified_dt": "2015-01-25T02:06:16Z",
   "dc_creator_sm": [
     "Guthe, Hermann."
   ],
-  "dc_description_s": "Neue Handkarte von Palästina im Massstabe von 1:700 000 : nebst alphabetischem Namen-Verzeichnis und Quellen-Nachweis /",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "s1784p22x",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/s1784p22x/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fs1%2F78%2F4p%2F22%2Fx%2F00000001.jp2/info.json\"}",
   "layer_id_s": "s1784p22x",
-  "layer_slug_s": "princeton-s1784p22x",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:16Z",
-  "dc_title_s": "Neue Handkarte von Palästina im Massstabe von 1:700 000 : nebst alphabetischem Namen-Verzeichnis und Quellen-Nachweis /",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Palestine"
-  ],
+  "dc_identifier_s": "s1784p22x",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Neue Handkarte von Pala\u0308stina im Massstabe von 1:700 000 : nebst alphabetischem Namen-Verzeichnis und Quellen-Nachweis /",
+  "layer_slug_s": "princeton-s1784p22x",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/s1784p22x/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/s1/78/4p/22/x/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "33.3356317 34.2676025 33.3356317 35.8950234 29.4533796 35.8950234 29.4533796 34.2676025 33.3356317 34.2676025",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1893"
   ],
-  "georss_box_s": "29.4533796 34.2676025 33.3356317 35.8950234",
-  "georss_polygon_s": "33.3356317 34.2676025 33.3356317 35.8950234 29.4533796 35.8950234 29.4533796 34.2676025 33.3356317 34.2676025",
   "solr_geom": "ENVELOPE(34.2676025, 35.8950234, 33.3356317, 29.4533796)",
-  "solr_year_i": "1893"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Palestine"
+  ]
 }

@@ -1,5 +1,9 @@
 {
+  "solr_year_i": "1695",
   "uuid": "http://arks.princeton.edu/ark:/88435/jm214r632",
+  "dc_description_s": "Shrop Shire",
+  "georss_box_s": "52.3062639 -3.2358284 52.9984111 -2.2335399",
+  "layer_modified_dt": "2015-01-21T22:24:17Z",
   "dc_creator_sm": [
     "Churchill, Awnsham,",
     "Churchill, John,",
@@ -7,26 +11,22 @@
     "Camden, William,",
     "Morris, William A.,"
   ],
-  "dc_description_s": "Shrop Shire",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "jm214r632",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/jm214r632/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fm%2F21%2F4r%2F63%2F2%2F00000001.jp2/info.json\"}",
   "layer_id_s": "jm214r632",
-  "layer_slug_s": "princeton-jm214r632",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:17Z",
-  "dc_title_s": "Shrop Shire",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Shropshire (England)"
-  ],
+  "dc_identifier_s": "jm214r632",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Shrop Shire",
+  "layer_slug_s": "princeton-jm214r632",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/jm214r632/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/jm/21/4r/63/2/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "52.9984111 -3.2358284 52.9984111 -2.2335399 52.3062639 -2.2335399 52.3062639 -3.2358284 52.9984111 -3.2358284",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1695"
   ],
-  "georss_box_s": "52.3062639 -3.2358284 52.9984111 -2.2335399",
-  "georss_polygon_s": "52.9984111 -3.2358284 52.9984111 -2.2335399 52.3062639 -2.2335399 52.3062639 -3.2358284 52.9984111 -3.2358284",
   "solr_geom": "ENVELOPE(-3.2358284, -2.2335399, 52.9984111, 52.3062639)",
-  "solr_year_i": "1695"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Shropshire (England)"
+  ]
 }

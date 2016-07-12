@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1866",
   "uuid": "http://arks.princeton.edu/ark:/88435/g445cg613",
   "dc_description_s": "Europe : wall-atlas",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "g445cg613",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/g445cg613/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fg4%2F45%2Fcg%2F61%2F3%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "g445cg613",
-  "layer_slug_s": "princeton-g445cg613",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "25.0 -30.0 75.0 80.0",
   "layer_modified_dt": "2015-01-19T22:37:23Z",
-  "dc_title_s": "Europe : wall-atlas",
+  "layer_id_s": "g445cg613",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Europe"
-  ],
+  "dc_identifier_s": "g445cg613",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Europe : wall-atlas",
+  "layer_slug_s": "princeton-g445cg613",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/g445cg613/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/g4/45/cg/61/3/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "75.0 -30.0 75.0 80.0 25.0 80.0 25.0 -30.0 75.0 -30.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1866"
   ],
-  "georss_box_s": "25.0 -30.0 75.0 80.0",
-  "georss_polygon_s": "75.0 -30.0 75.0 80.0 25.0 80.0 25.0 -30.0 75.0 -30.0",
   "solr_geom": "ENVELOPE(-30.0, 80.0, 75.0, 25.0)",
-  "solr_year_i": "1866"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Europe"
+  ]
 }

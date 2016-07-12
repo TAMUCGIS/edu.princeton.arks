@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1917",
   "uuid": "http://arks.princeton.edu/ark:/88435/pk02cd20r",
-  "dc_description_s": "Dêr es-Sôr",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "pk02cd20r",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/pk02cd20r/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fpk%2F02%2Fcd%2F20%2Fr%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "pk02cd20r",
-  "layer_slug_s": "princeton-pk02cd20r",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "De\u0302r es-So\u0302r",
+  "georss_box_s": "35.48 38.98 35.52 39.02",
   "layer_modified_dt": "2015-01-21T22:24:12Z",
-  "dc_title_s": "Dêr es-Sôr",
+  "layer_id_s": "pk02cd20r",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Dayr al-Zawr (Syria : Province)"
-  ],
+  "dc_identifier_s": "pk02cd20r",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "De\u0302r es-So\u0302r",
+  "layer_slug_s": "princeton-pk02cd20r",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/pk02cd20r/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/pk/02/cd/20/r/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "35.52 38.98 35.52 39.02 35.48 39.02 35.48 38.98 35.52 38.98",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1917"
   ],
-  "georss_box_s": "35.48 38.98 35.52 39.02",
-  "georss_polygon_s": "35.52 38.98 35.52 39.02 35.48 39.02 35.48 38.98 35.52 38.98",
   "solr_geom": "ENVELOPE(38.98, 39.02, 35.52, 35.48)",
-  "solr_year_i": "1917"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Dayr al-Zawr (Syria : Province)"
+  ]
 }

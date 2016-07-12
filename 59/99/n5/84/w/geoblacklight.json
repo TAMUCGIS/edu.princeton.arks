@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1705",
   "uuid": "http://arks.princeton.edu/ark:/88435/5999n584w",
+  "dc_description_s": "Cadis son port, sa rade, et ses environs",
+  "georss_box_s": "36.4436702 -6.3175067 36.5455042 -6.2256634",
+  "layer_modified_dt": "2015-01-21T22:24:06Z",
   "dc_creator_sm": [
     "Fer, Nicolas de,"
   ],
-  "dc_description_s": "Cadis son port, sa rade, et ses environs",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "5999n584w",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/5999n584w/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F59%2F99%2Fn5%2F84%2Fw%2F00000001.jp2/info.json\"}",
   "layer_id_s": "5999n584w",
-  "layer_slug_s": "princeton-5999n584w",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:06Z",
-  "dc_title_s": "Cadis son port, sa rade, et ses environs",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Cádiz (Spain)",
-    "Cádiz (Spain : Province)"
-  ],
+  "dc_identifier_s": "5999n584w",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Cadis son port, sa rade, et ses environs",
+  "layer_slug_s": "princeton-5999n584w",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/5999n584w/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/59/99/n5/84/w/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "36.5455042 -6.3175067 36.5455042 -6.2256634 36.4436702 -6.2256634 36.4436702 -6.3175067 36.5455042 -6.3175067",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1705"
   ],
-  "georss_box_s": "36.4436702 -6.3175067 36.5455042 -6.2256634",
-  "georss_polygon_s": "36.5455042 -6.3175067 36.5455042 -6.2256634 36.4436702 -6.2256634 36.4436702 -6.3175067 36.5455042 -6.3175067",
   "solr_geom": "ENVELOPE(-6.3175067, -6.2256634, 36.5455042, 36.4436702)",
-  "solr_year_i": "1705"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Ca\u0301diz (Spain)",
+    "Ca\u0301diz (Spain : Province)"
+  ]
 }

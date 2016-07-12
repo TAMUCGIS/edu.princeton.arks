@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1743",
   "uuid": "http://arks.princeton.edu/ark:/88435/jh343v81c",
+  "dc_description_s": "L'Italie et ses isles circonvoisines, Sicile, Sardaigne, Corse &c. exactement divise\u0301e en leurs etats, royaumes, republiques, &c. /",
+  "georss_box_s": "35.2889616 6.6272658 47.0921462 18.7844746",
+  "layer_modified_dt": "2015-01-21T22:24:25Z",
   "dc_creator_sm": [
     "Haye, G. de la,",
     "Robert de Vaugondy, Gilles,"
   ],
-  "dc_description_s": "L'Italie et ses isles circonvoisines, Sicile, Sardaigne, Corse &c. exactement divisée en leurs etats, royaumes, republiques, &c. /",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "jh343v81c",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/jh343v81c/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fh%2F34%2F3v%2F81%2Fc%2F00000001.jp2/info.json\"}",
   "layer_id_s": "jh343v81c",
-  "layer_slug_s": "princeton-jh343v81c",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:25Z",
-  "dc_title_s": "L'Italie et ses isles circonvoisines, Sicile, Sardaigne, Corse &c. exactement divisée en leurs etats, royaumes, republiques, &c. /",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Italy"
-  ],
+  "dc_identifier_s": "jh343v81c",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "L'Italie et ses isles circonvoisines, Sicile, Sardaigne, Corse &c. exactement divise\u0301e en leurs etats, royaumes, republiques, &c. /",
+  "layer_slug_s": "princeton-jh343v81c",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/jh343v81c/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/jh/34/3v/81/c/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "47.0921462 6.6272658 47.0921462 18.7844746 35.2889616 18.7844746 35.2889616 6.6272658 47.0921462 6.6272658",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1743"
   ],
-  "georss_box_s": "35.2889616 6.6272658 47.0921462 18.7844746",
-  "georss_polygon_s": "47.0921462 6.6272658 47.0921462 18.7844746 35.2889616 18.7844746 35.2889616 6.6272658 47.0921462 6.6272658",
   "solr_geom": "ENVELOPE(6.6272658, 18.7844746, 47.0921462, 35.2889616)",
-  "solr_year_i": "1743"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Italy"
+  ]
 }

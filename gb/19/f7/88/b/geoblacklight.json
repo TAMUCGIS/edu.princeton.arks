@@ -1,25 +1,23 @@
 {
+  "solr_year_i": "1901",
   "uuid": "http://arks.princeton.edu/ark:/88435/gb19f788b",
   "dc_description_s": "The Leadville Mining District",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "gb19f788b",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/gb19f788b/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fgb%2F19%2Ff7%2F88%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "gb19f788b",
-  "layer_slug_s": "princeton-gb19f788b",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "39.237301 -106.3075369 39.2559831 -106.2795819",
   "layer_modified_dt": "2015-01-21T22:23:54Z",
-  "dc_title_s": "The Leadville Mining District",
+  "layer_id_s": "gb19f788b",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "gb19f788b",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "The Leadville Mining District",
+  "layer_slug_s": "princeton-gb19f788b",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/gb19f788b/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/gb/19/f7/88/b/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "39.2559831 -106.3075369 39.2559831 -106.2795819 39.237301 -106.2795819 39.237301 -106.3075369 39.2559831 -106.3075369",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1901"
   ],
-  "georss_box_s": "39.237301 -106.3075369 39.2559831 -106.2795819",
-  "georss_polygon_s": "39.2559831 -106.3075369 39.2559831 -106.2795819 39.237301 -106.2795819 39.237301 -106.3075369 39.2559831 -106.3075369",
   "solr_geom": "ENVELOPE(-106.3075369, -106.2795819, 39.2559831, 39.237301)",
-  "solr_year_i": "1901"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

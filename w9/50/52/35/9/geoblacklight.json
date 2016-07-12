@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1902",
   "uuid": "http://arks.princeton.edu/ark:/88435/w95052359",
+  "dc_description_s": "Karte von Kleinasien meist nach noch nicht oder in kleinstem Massstabe vero\u0308ffentlichen Aufnahmen",
+  "georss_box_s": "35.8076804 25.6212891 42.297 44.8176638",
+  "layer_modified_dt": "2015-01-25T02:06:09Z",
   "dc_creator_sm": [
     "Clarke, Dumont,"
   ],
-  "dc_description_s": "Karte von Kleinasien meist nach noch nicht oder in kleinstem Massstabe veröffentlichen Aufnahmen",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "w95052359",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/w95052359/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fw9%2F50%2F52%2F35%2F9%2F00000001.jp2/info.json\"}",
   "layer_id_s": "w95052359",
-  "layer_slug_s": "princeton-w95052359",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:09Z",
-  "dc_title_s": "Karte von Kleinasien meist nach noch nicht oder in kleinstem Massstabe veröffentlichen Aufnahmen",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Turkey"
-  ],
+  "dc_identifier_s": "w95052359",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Karte von Kleinasien meist nach noch nicht oder in kleinstem Massstabe vero\u0308ffentlichen Aufnahmen",
+  "layer_slug_s": "princeton-w95052359",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/w95052359/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/w9/50/52/35/9/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "42.297 25.6212891 42.297 44.8176638 35.8076804 44.8176638 35.8076804 25.6212891 42.297 25.6212891",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1902"
   ],
-  "georss_box_s": "35.8076804 25.6212891 42.297 44.8176638",
-  "georss_polygon_s": "42.297 25.6212891 42.297 44.8176638 35.8076804 44.8176638 35.8076804 25.6212891 42.297 25.6212891",
   "solr_geom": "ENVELOPE(25.6212891, 44.8176638, 42.297, 35.8076804)",
-  "solr_year_i": "1902"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Turkey"
+  ]
 }

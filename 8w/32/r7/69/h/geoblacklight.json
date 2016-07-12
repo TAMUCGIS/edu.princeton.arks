@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/8w32r769h",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Weehawken",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "8w32r769h",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F8w%2F32%2Fr7%2F69%2Fh%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "8w32r769h",
-  "layer_slug_s": "princeton-8w32r769h",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:05:07Z",
+  "solr_geom": "ENVELOPE(-74.032699, -74.001327, 40.780685, 40.756601)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/8w/32/r7/69/h/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/8w32r769h",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Weehawken (Sheet 65)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1910"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "8w32r769h",
+  "georss_polygon_s": "40.780685 -74.032699 40.780685 -74.001327 40.756601 -74.001327 40.756601 -74.032699 40.780685 -74.032699",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1910",
   "dct_spatial_sm": [
     "New Jersey",
     "Weehawken"
   ],
-  "dct_temporal_sm": [
-    "1910"
-  ],
+  "layer_id_s": "8w32r769h",
   "georss_box_s": "40.756601 -74.032699 40.780685 -74.001327",
-  "georss_polygon_s": "40.780685 -74.032699 40.780685 -74.001327 40.756601 -74.001327 40.756601 -74.032699 40.780685 -74.032699",
-  "solr_geom": "ENVELOPE(-74.032699, -74.001327, 40.780685, 40.756601)",
-  "solr_year_i": "1910"
+  "dc_title_s": "Weehawken (Sheet 65)",
+  "layer_slug_s": "princeton-8w32r769h",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

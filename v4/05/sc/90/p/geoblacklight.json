@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1792",
   "uuid": "http://arks.princeton.edu/ark:/88435/v405sc90p",
+  "dc_description_s": "China : from D'Anville",
+  "georss_box_s": "18.0 93.0 45.0 130.0",
+  "layer_modified_dt": "2015-01-19T22:37:37Z",
   "dc_creator_sm": [
     "Anville, Jean Baptiste Bourguignon d',",
     "Fantova, Hanna,"
   ],
-  "dc_description_s": "China : from D'Anville",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "v405sc90p",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/v405sc90p/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fv4%2F05%2Fsc%2F90%2Fp%2F00000001.jp2/info.json\"}",
   "layer_id_s": "v405sc90p",
-  "layer_slug_s": "princeton-v405sc90p",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:37Z",
-  "dc_title_s": "China : from D'Anville",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "China",
-    "Korea"
-  ],
+  "dc_identifier_s": "v405sc90p",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "China : from D'Anville",
+  "layer_slug_s": "princeton-v405sc90p",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/v405sc90p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/v4/05/sc/90/p/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "45.0 93.0 45.0 130.0 18.0 130.0 18.0 93.0 45.0 93.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1792"
   ],
-  "georss_box_s": "18.0 93.0 45.0 130.0",
-  "georss_polygon_s": "45.0 93.0 45.0 130.0 18.0 130.0 18.0 93.0 45.0 93.0",
   "solr_geom": "ENVELOPE(93.0, 130.0, 45.0, 18.0)",
-  "solr_year_i": "1792"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "China",
+    "Korea"
+  ]
 }

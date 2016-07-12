@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1666",
   "uuid": "http://arks.princeton.edu/ark:/88435/4b29b8477",
+  "dc_description_s": "Paskaerte van de Zuy\u0308dt en Noordt Revier in Nieu Nederlant : streckende van Cabo Hinloopen tot Rechkewach",
+  "georss_box_s": "38.7911303 -75.5633859 41.357423 -73.8939789",
+  "layer_modified_dt": "2015-01-25T02:06:16Z",
   "dc_creator_sm": [
     "Goos, Pieter,"
   ],
-  "dc_description_s": "Paskaerte van de Zuÿdt en Noordt Revier in Nieu Nederlant : streckende van Cabo Hinloopen tot Rechkewach",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "4b29b8477",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/4b29b8477/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F4b%2F29%2Fb8%2F47%2F7%2F00000001.jp2/info.json\"}",
   "layer_id_s": "4b29b8477",
-  "layer_slug_s": "princeton-4b29b8477",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:16Z",
-  "dc_title_s": "Paskaerte van de Zuÿdt en Noordt Revier in Nieu Nederlant : streckende van Cabo Hinloopen tot Rechkewach",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "New Jersey"
-  ],
+  "dc_identifier_s": "4b29b8477",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Paskaerte van de Zuy\u0308dt en Noordt Revier in Nieu Nederlant : streckende van Cabo Hinloopen tot Rechkewach",
+  "layer_slug_s": "princeton-4b29b8477",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/4b29b8477/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/4b/29/b8/47/7/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "41.357423 -75.5633859 41.357423 -73.8939789 38.7911303 -73.8939789 38.7911303 -75.5633859 41.357423 -75.5633859",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1666"
   ],
-  "georss_box_s": "38.7911303 -75.5633859 41.357423 -73.8939789",
-  "georss_polygon_s": "41.357423 -75.5633859 41.357423 -73.8939789 38.7911303 -73.8939789 38.7911303 -75.5633859 41.357423 -75.5633859",
   "solr_geom": "ENVELOPE(-75.5633859, -73.8939789, 41.357423, 38.7911303)",
-  "solr_year_i": "1666"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "New Jersey"
+  ]
 }

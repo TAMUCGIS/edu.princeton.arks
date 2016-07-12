@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1855",
   "uuid": "http://arks.princeton.edu/ark:/88435/08612r037",
   "dc_description_s": "Map of the native town of Bombay : completed to 1855",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "08612r037",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/08612r037/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F08%2F61%2F2r%2F03%2F7%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "08612r037",
-  "layer_slug_s": "princeton-08612r037",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "18.7923804 72.6727112 19.1123804 72.9927112",
   "layer_modified_dt": "2015-01-21T22:24:20Z",
-  "dc_title_s": "Map of the native town of Bombay : completed to 1855",
+  "layer_id_s": "08612r037",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Mumbai (India)"
-  ],
+  "dc_identifier_s": "08612r037",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Map of the native town of Bombay : completed to 1855",
+  "layer_slug_s": "princeton-08612r037",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/08612r037/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/08/61/2r/03/7/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "19.1123804 72.6727112 19.1123804 72.9927112 18.7923804 72.9927112 18.7923804 72.6727112 19.1123804 72.6727112",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1855"
   ],
-  "georss_box_s": "18.7923804 72.6727112 19.1123804 72.9927112",
-  "georss_polygon_s": "19.1123804 72.6727112 19.1123804 72.9927112 18.7923804 72.9927112 18.7923804 72.6727112 19.1123804 72.6727112",
   "solr_geom": "ENVELOPE(72.6727112, 72.9927112, 19.1123804, 18.7923804)",
-  "solr_year_i": "1855"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Mumbai (India)"
+  ]
 }

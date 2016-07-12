@@ -2,7 +2,7 @@
   "dc_description_s": "This is a map of the city of Zhengzhou, China shown at a 1:10,000 scale. This is a Russian map purchased from East View Cartographic.",
   "layer_modified_dt": "2015-01-11T17:43:39Z",
   "solr_geom": "ENVELOPE(113.5667, 113.7500, 34.8333, 34.7167)",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F9w%2F03%2F24%2F78%2F9%2F00000001.jp2/info.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/9w0324789/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/9w0324789/preview.jpg\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/9w0324789/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/9w/03/24/78/9/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/9w0324789/preview.jpg\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/9w0324789",
   "dct_provenance_s": "Princeton",
@@ -15,7 +15,7 @@
     "Facilities and Structures"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "1976",
+  "layer_slug_s": "princeton-9w0324789",
   "dc_creator_sm": [
     "Russia (Federation). General'nyi shtab. Voenno-topograficheskoe upravlenie"
   ],
@@ -34,7 +34,7 @@
   "layer_id_s": "9w0324789",
   "georss_box_s": "34.7167 113.5667 34.8333 113.7500",
   "dc_title_s": "Kitai provintsiia Khenan'. Chzhenchzhou (I-49-48). Sheet 1 ",
-  "layer_slug_s": "princeton-9w0324789",
+  "dct_issued_s": "1976",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

@@ -1,25 +1,23 @@
 {
+  "solr_year_i": "1899",
   "uuid": "http://arks.princeton.edu/ark:/88435/8p58pg43w",
   "dc_description_s": "New York entrance : America's Cup races",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "8p58pg43w",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/8p58pg43w/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F8p%2F58%2Fpg%2F43%2Fw%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "8p58pg43w",
-  "layer_slug_s": "princeton-8p58pg43w",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "40.3837099138 -74.3030352125 40.7926856614 -73.698898809",
   "layer_modified_dt": "2015-01-25T02:06:16Z",
-  "dc_title_s": "New York entrance : America's Cup races",
+  "layer_id_s": "8p58pg43w",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "8p58pg43w",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "New York entrance : America's Cup races",
+  "layer_slug_s": "princeton-8p58pg43w",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/8p58pg43w/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/8p/58/pg/43/w/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.7926856614 -74.3030352125 40.7926856614 -73.698898809 40.3837099138 -73.698898809 40.3837099138 -74.3030352125 40.7926856614 -74.3030352125",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1899"
   ],
-  "georss_box_s": "40.3837099138 -74.3030352125 40.7926856614 -73.698898809",
-  "georss_polygon_s": "40.7926856614 -74.3030352125 40.7926856614 -73.698898809 40.3837099138 -73.698898809 40.3837099138 -74.3030352125 40.7926856614 -74.3030352125",
   "solr_geom": "ENVELOPE(-74.3030352125, -73.698898809, 40.7926856614, 40.3837099138)",
-  "solr_year_i": "1899"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

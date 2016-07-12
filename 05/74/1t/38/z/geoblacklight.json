@@ -2,7 +2,7 @@
   "dc_description_s": "This is a Sanborn map of Norwood, Bergen County shown at a scale of 1:600.",
   "layer_modified_dt": "2015-01-11T17:43:27Z",
   "solr_geom": "ENVELOPE(-73.971, -73.925, 41.012, 40.977)",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F05%2F74%2F1t%2F38%2Fz%2F00000001.jp2/info.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/05741t38z/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/05741t38z/preview.jpg\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/05741t38z/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/05/74/1t/38/z/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/05741t38z/preview.jpg\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/05741t38z",
   "dct_provenance_s": "Princeton",
@@ -12,7 +12,7 @@
     "Sanborn"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "1926",
+  "layer_slug_s": "princeton-05741t38z",
   "dc_creator_sm": [
     "New York : Sanborn Map Company"
   ],
@@ -30,7 +30,7 @@
   "layer_id_s": "05741t38z",
   "georss_box_s": "40.977 -73.971 41.012 -73.925",
   "dc_title_s": "Norwood, Bergen County, New Jersey (Sheet 4) ",
-  "layer_slug_s": "princeton-05741t38z",
+  "dct_issued_s": "1926",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1793",
   "uuid": "http://arks.princeton.edu/ark:/88435/hm50tv21g",
+  "dc_description_s": "Glocestershire",
+  "georss_box_s": "51.5775306 -2.6875371 52.1125797 -1.6152019",
+  "layer_modified_dt": "2015-01-21T22:24:17Z",
   "dc_creator_sm": [
     "Cary, John,"
   ],
-  "dc_description_s": "Glocestershire",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "hm50tv21g",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/hm50tv21g/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fhm%2F50%2Ftv%2F21%2Fg%2F00000001.jp2/info.json\"}",
   "layer_id_s": "hm50tv21g",
-  "layer_slug_s": "princeton-hm50tv21g",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:17Z",
-  "dc_title_s": "Glocestershire",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Gloucestershire (England)"
-  ],
+  "dc_identifier_s": "hm50tv21g",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Glocestershire",
+  "layer_slug_s": "princeton-hm50tv21g",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/hm50tv21g/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/hm/50/tv/21/g/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "52.1125797 -2.6875371 52.1125797 -1.6152019 51.5775306 -1.6152019 51.5775306 -2.6875371 52.1125797 -2.6875371",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1793"
   ],
-  "georss_box_s": "51.5775306 -2.6875371 52.1125797 -1.6152019",
-  "georss_polygon_s": "52.1125797 -2.6875371 52.1125797 -1.6152019 51.5775306 -1.6152019 51.5775306 -2.6875371 52.1125797 -2.6875371",
   "solr_geom": "ENVELOPE(-2.6875371, -1.6152019, 52.1125797, 51.5775306)",
-  "solr_year_i": "1793"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Gloucestershire (England)"
+  ]
 }

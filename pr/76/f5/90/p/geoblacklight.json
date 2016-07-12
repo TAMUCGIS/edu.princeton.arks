@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1855",
   "uuid": "http://arks.princeton.edu/ark:/88435/pr76f590p",
+  "dc_description_s": "Colton's Germany : no. 1 : the eastern provinces of Prussia and Saxony",
+  "georss_box_s": "50.0 10.0 56.0 23.0",
+  "layer_modified_dt": "2015-01-19T22:37:31Z",
   "dc_creator_sm": [
     "Colton, G. Woolworth"
   ],
-  "dc_description_s": "Colton's Germany : no. 1 : the eastern provinces of Prussia and Saxony",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "pr76f590p",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/pr76f590p/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fpr%2F76%2Ff5%2F90%2Fp%2F00000001.jp2/info.json\"}",
   "layer_id_s": "pr76f590p",
-  "layer_slug_s": "princeton-pr76f590p",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:31Z",
-  "dc_title_s": "Colton's Germany : no. 1 : the eastern provinces of Prussia and Saxony",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Prussia (Germany)"
-  ],
+  "dc_identifier_s": "pr76f590p",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Colton's Germany : no. 1 : the eastern provinces of Prussia and Saxony",
+  "layer_slug_s": "princeton-pr76f590p",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/pr76f590p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/pr/76/f5/90/p/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "56.0 10.0 56.0 23.0 50.0 23.0 50.0 10.0 56.0 10.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1855"
   ],
-  "georss_box_s": "50.0 10.0 56.0 23.0",
-  "georss_polygon_s": "56.0 10.0 56.0 23.0 50.0 23.0 50.0 10.0 56.0 10.0",
   "solr_geom": "ENVELOPE(10.0, 23.0, 56.0, 50.0)",
-  "solr_year_i": "1855"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Prussia (Germany)"
+  ]
 }

@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/7p88cj57c",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Woodbury",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "7p88cj57c",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F7p%2F88%2Fcj%2F57%2Fc%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "7p88cj57c",
-  "layer_slug_s": "princeton-7p88cj57c",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:04:14Z",
+  "solr_geom": "ENVELOPE(-75.170823, -75.135095, 39.855007, 39.824056)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/7p/88/cj/57/c/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/7p88cj57c",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Insurance Maps of Woodbury, Gloucester County, New Jersey: including Woodbury Heights, Colonial Manor, Woodbury Park and parts of Deptford Township and West Deptford Township (Sheet 16)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1929"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "7p88cj57c",
+  "georss_polygon_s": "39.855007 -75.170823 39.855007 -75.135095 39.824056 -75.135095 39.824056 -75.170823 39.855007 -75.170823",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1929",
   "dct_spatial_sm": [
     "New Jersey",
     "Woodbury"
   ],
-  "dct_temporal_sm": [
-    "1929"
-  ],
+  "layer_id_s": "7p88cj57c",
   "georss_box_s": "39.824056 -75.170823 39.855007 -75.135095",
-  "georss_polygon_s": "39.855007 -75.170823 39.855007 -75.135095 39.824056 -75.135095 39.824056 -75.170823 39.855007 -75.170823",
-  "solr_geom": "ENVELOPE(-75.170823, -75.135095, 39.855007, 39.824056)",
-  "solr_year_i": "1929"
+  "dc_title_s": "Insurance Maps of Woodbury, Gloucester County, New Jersey: including Woodbury Heights, Colonial Manor, Woodbury Park and parts of Deptford Township and West Deptford Township (Sheet 16)",
+  "layer_slug_s": "princeton-7p88cj57c",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

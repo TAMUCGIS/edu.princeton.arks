@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1776",
   "uuid": "http://arks.princeton.edu/ark:/88435/hq37vq52n",
+  "dc_description_s": "Nuove scoperte fatte nel 1765, 67, e 69 nel Mare del Sud",
+  "georss_box_s": "-54.8337658 110.9510339 20.6584862 -124.5410156",
+  "layer_modified_dt": "2015-01-21T22:23:52Z",
   "dc_creator_sm": [
     "Zatta, Antonio,",
     "Zuliani, Giuliano,",
     "Pasquali, G. V."
   ],
-  "dc_description_s": "Nuove scoperte fatte nel 1765, 67, e 69 nel Mare del Sud",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "hq37vq52n",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/hq37vq52n/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fhq%2F37%2Fvq%2F52%2Fn%2F00000001.jp2/info.json\"}",
   "layer_id_s": "hq37vq52n",
-  "layer_slug_s": "princeton-hq37vq52n",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:52Z",
-  "dc_title_s": "Nuove scoperte fatte nel 1765, 67, e 69 nel Mare del Sud",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Oceania"
-  ],
+  "dc_identifier_s": "hq37vq52n",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Nuove scoperte fatte nel 1765, 67, e 69 nel Mare del Sud",
+  "layer_slug_s": "princeton-hq37vq52n",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/hq37vq52n/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/hq/37/vq/52/n/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "20.6584862 110.9510339 20.6584862 -124.5410156 -54.8337658 -124.5410156 -54.8337658 110.9510339 20.6584862 110.9510339",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1776"
   ],
-  "georss_box_s": "-54.8337658 110.9510339 20.6584862 -124.5410156",
-  "georss_polygon_s": "20.6584862 110.9510339 20.6584862 -124.5410156 -54.8337658 -124.5410156 -54.8337658 110.9510339 20.6584862 110.9510339",
   "solr_geom": "ENVELOPE(110.9510339, -124.5410156, 20.6584862, -54.8337658)",
-  "solr_year_i": "1776"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Oceania"
+  ]
 }

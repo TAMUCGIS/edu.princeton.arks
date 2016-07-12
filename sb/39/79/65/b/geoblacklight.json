@@ -2,7 +2,7 @@
   "dc_description_s": "This is a historical map of the Eastern Mediterranean and the Middle East from Cyprus to Babylonia, created around 1540.",
   "layer_modified_dt": "2015-01-11T17:42:21Z",
   "solr_geom": "ENVELOPE(32.1685, 51.8802, 40.5666, 26.6896)",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fsb%2F39%2F79%2F65%2Fb%2F00000001.jp2/info.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/sb397965b/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/sb397965b/preview.jpg\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/sb397965b/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/sb/39/79/65/b/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/sb397965b/preview.jpg\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/sb397965b",
   "dct_provenance_s": "Princeton",
@@ -12,7 +12,7 @@
     "Historical"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "1540",
+  "layer_slug_s": "princeton-sb397965b",
   "dc_creator_sm": [
     "Sebastian M\u00fcnster"
   ],
@@ -30,7 +30,7 @@
   "layer_id_s": "sb397965b",
   "georss_box_s": "26.6896 32.1685 40.5666 51.8802",
   "dc_title_s": "Tabula Asiae IIII",
-  "layer_slug_s": "princeton-sb397965b",
+  "dct_issued_s": "1540",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

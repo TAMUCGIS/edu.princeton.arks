@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/jq085n123",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Madison",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "jq085n123",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fq%2F08%2F5n%2F12%2F3%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "jq085n123",
-  "layer_slug_s": "princeton-jq085n123",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:06:21Z",
+  "solr_geom": "ENVELOPE(-74.444606, -74.392166, 40.777214, 40.739944)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/jq/08/5n/12/3/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/jq085n123",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Madison, Morris County, New Jersey (Sheet 25)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1931"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "jq085n123",
+  "georss_polygon_s": "40.777214 -74.444606 40.777214 -74.392166 40.739944 -74.392166 40.739944 -74.444606 40.777214 -74.444606",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1931",
   "dct_spatial_sm": [
     "New Jersey",
     "Madison"
   ],
-  "dct_temporal_sm": [
-    "1931"
-  ],
+  "layer_id_s": "jq085n123",
   "georss_box_s": "40.739944 -74.444606 40.777214 -74.392166",
-  "georss_polygon_s": "40.777214 -74.444606 40.777214 -74.392166 40.739944 -74.392166 40.739944 -74.444606 40.777214 -74.444606",
-  "solr_geom": "ENVELOPE(-74.444606, -74.392166, 40.777214, 40.739944)",
-  "solr_year_i": "1931"
+  "dc_title_s": "Madison, Morris County, New Jersey (Sheet 25)",
+  "layer_slug_s": "princeton-jq085n123",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

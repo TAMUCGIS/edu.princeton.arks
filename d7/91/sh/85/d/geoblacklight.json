@@ -2,7 +2,7 @@
   "dc_description_s": "This is an insurance map of Camden, New Jersey shown at a scale of 1:600.",
   "layer_modified_dt": "2015-01-11T17:43:23Z",
   "solr_geom": "ENVELOPE(-75.105, -74.723, 39.999, 39.606)",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fd7%2F91%2Fsh%2F85%2Fd%2F00000001.jp2/info.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/d791sh85d/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/d791sh85d/preview.jpg\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/d791sh85d/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/d7/91/sh/85/d/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/d791sh85d/preview.jpg\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/d791sh85d",
   "dct_provenance_s": "Princeton",
@@ -12,7 +12,7 @@
     "Sanborn"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "1906",
+  "layer_slug_s": "princeton-d791sh85d",
   "dc_creator_sm": [
     "New York : Sanborn Map Company"
   ],
@@ -29,7 +29,7 @@
   "layer_id_s": "d791sh85d",
   "georss_box_s": "39.606 -75.105 39.999 -74.723",
   "dc_title_s": "Insurance maps of Camden, New Jersey: volume two (Sheet 49)",
-  "layer_slug_s": "princeton-d791sh85d",
+  "dct_issued_s": "1906",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

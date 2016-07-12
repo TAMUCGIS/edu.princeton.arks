@@ -1,32 +1,32 @@
 {
+  "solr_year_i": "1901",
   "uuid": "http://arks.princeton.edu/ark:/88435/kh04ds222",
+  "dc_description_s": "Map of Armenia and adjacent countries",
+  "georss_box_s": "37.0 38.0 43.0 50.0",
+  "layer_modified_dt": "2015-01-19T22:37:41Z",
   "dc_creator_sm": [
     "Oswald, Felix,",
     "Shawe, W."
   ],
-  "dc_description_s": "Map of Armenia and adjacent countries",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "kh04ds222",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/kh04ds222/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fkh%2F04%2Fds%2F22%2F2%2F00000001.jp2/info.json\"}",
   "layer_id_s": "kh04ds222",
-  "layer_slug_s": "princeton-kh04ds222",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:41Z",
-  "dc_title_s": "Map of Armenia and adjacent countries",
   "dc_type_s": "Image",
+  "dc_identifier_s": "kh04ds222",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Map of Armenia and adjacent countries",
+  "layer_slug_s": "princeton-kh04ds222",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/kh04ds222/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/kh/04/ds/22/2/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "43.0 38.0 43.0 50.0 37.0 50.0 37.0 38.0 43.0 38.0",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1901"
+  ],
+  "solr_geom": "ENVELOPE(38.0, 50.0, 43.0, 37.0)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Azerbaijan",
     "Armenia",
     "Georgia (Republic)",
     "Turkey"
-  ],
-  "dct_temporal_sm": [
-    "1901"
-  ],
-  "georss_box_s": "37.0 38.0 43.0 50.0",
-  "georss_polygon_s": "43.0 38.0 43.0 50.0 37.0 50.0 37.0 38.0 43.0 38.0",
-  "solr_geom": "ENVELOPE(38.0, 50.0, 43.0, 37.0)",
-  "solr_year_i": "1901"
+  ]
 }

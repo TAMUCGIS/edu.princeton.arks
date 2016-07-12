@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1858",
   "uuid": "http://arks.princeton.edu/ark:/88435/w9505294h",
+  "dc_description_s": "Plan of the town and environs of Jerusalem",
+  "georss_box_s": "31.7087672 35.0854203 31.8826765 35.2630682",
+  "layer_modified_dt": "2015-01-21T22:24:13Z",
   "dc_creator_sm": [
     "Tobler, Titus."
   ],
-  "dc_description_s": "Plan of the town and environs of Jerusalem",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "w9505294h",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/w9505294h/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fw9%2F50%2F52%2F94%2Fh%2F00000001.jp2/info.json\"}",
   "layer_id_s": "w9505294h",
-  "layer_slug_s": "princeton-w9505294h",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:13Z",
-  "dc_title_s": "Plan of the town and environs of Jerusalem",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Jerusalem"
-  ],
+  "dc_identifier_s": "w9505294h",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Plan of the town and environs of Jerusalem",
+  "layer_slug_s": "princeton-w9505294h",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/w9505294h/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/w9/50/52/94/h/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "31.8826765 35.0854203 31.8826765 35.2630682 31.7087672 35.2630682 31.7087672 35.0854203 31.8826765 35.0854203",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1858"
   ],
-  "georss_box_s": "31.7087672 35.0854203 31.8826765 35.2630682",
-  "georss_polygon_s": "31.8826765 35.0854203 31.8826765 35.2630682 31.7087672 35.2630682 31.7087672 35.0854203 31.8826765 35.0854203",
   "solr_geom": "ENVELOPE(35.0854203, 35.2630682, 31.8826765, 31.7087672)",
-  "solr_year_i": "1858"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Jerusalem"
+  ]
 }

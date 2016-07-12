@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1745",
   "uuid": "http://arks.princeton.edu/ark:/88435/xg94hr44k",
+  "dc_description_s": "A chart of the South Sea coast from the Steights [sic] of Magellan to Arica.",
+  "georss_box_s": "-56.7249999 -109.6795788 -17.4983855 -66.0745052",
+  "layer_modified_dt": "2015-01-21T22:23:50Z",
   "dc_creator_sm": [
     "Moll, Herman,"
   ],
-  "dc_description_s": "A chart of the South Sea coast from the Steights [sic] of Magellan to Arica.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "xg94hr44k",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/xg94hr44k/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fxg%2F94%2Fhr%2F44%2Fk%2F00000001.jp2/info.json\"}",
   "layer_id_s": "xg94hr44k",
-  "layer_slug_s": "princeton-xg94hr44k",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:50Z",
-  "dc_title_s": "A chart of the South Sea coast from the Steights [sic] of Magellan to Arica.",
   "dc_type_s": "Image",
+  "dc_identifier_s": "xg94hr44k",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "A chart of the South Sea coast from the Steights [sic] of Magellan to Arica.",
+  "layer_slug_s": "princeton-xg94hr44k",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/xg94hr44k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/xg/94/hr/44/k/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "-17.4983855 -109.6795788 -17.4983855 -66.0745052 -56.7249999 -66.0745052 -56.7249999 -109.6795788 -17.4983855 -109.6795788",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1745"
+  ],
+  "solr_geom": "ENVELOPE(-109.6795788, -66.0745052, -17.4983855, -56.7249999)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Chile",
     "Argentina",
     "Magellan, Strait of (Chile and Argentina)"
-  ],
-  "dct_temporal_sm": [
-    "1745"
-  ],
-  "georss_box_s": "-56.7249999 -109.6795788 -17.4983855 -66.0745052",
-  "georss_polygon_s": "-17.4983855 -109.6795788 -17.4983855 -66.0745052 -56.7249999 -66.0745052 -56.7249999 -109.6795788 -17.4983855 -109.6795788",
-  "solr_geom": "ENVELOPE(-109.6795788, -66.0745052, -17.4983855, -56.7249999)",
-  "solr_year_i": "1745"
+  ]
 }

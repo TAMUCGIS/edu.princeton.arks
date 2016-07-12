@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1940",
   "uuid": "http://arks.princeton.edu/ark:/88435/ff365706x",
+  "dc_description_s": "Carte geologique detaillee de la France [a 1/80 000]: Tours.",
+  "georss_box_s": "47.33270 0.20550 47.69250 1.05790",
+  "layer_modified_dt": "2015-01-19T22:36:39Z",
   "dc_creator_sm": [
     "Grandjean, F."
   ],
-  "dc_description_s": "Carte geologique detaillee de la France [a 1/80 000]: Tours.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "ff365706x",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/ff365706x/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fff%2F36%2F57%2F06%2Fx%2F00000001.jp2/info.json\"}",
   "layer_id_s": "ff365706x",
-  "layer_slug_s": "princeton-ff365706x",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:36:39Z",
-  "dc_title_s": "Carte geologique detaillee de la France [a 1/80 000]: Tours.",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "France"
-  ],
+  "dc_identifier_s": "ff365706x",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Carte geologique detaillee de la France [a 1/80 000]: Tours.",
+  "layer_slug_s": "princeton-ff365706x",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/ff365706x/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ff/36/57/06/x/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "47.69250 0.20550 47.69250 1.05790 47.33270 1.05790 47.33270 0.20550 47.69250 0.20550",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1940"
   ],
-  "georss_box_s": "47.33270 0.20550 47.69250 1.05790",
-  "georss_polygon_s": "47.69250 0.20550 47.69250 1.05790 47.33270 1.05790 47.33270 0.20550 47.69250 0.20550",
   "solr_geom": "ENVELOPE(0.20550, 1.05790, 47.69250, 47.33270)",
-  "solr_year_i": "1940"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "France"
+  ]
 }

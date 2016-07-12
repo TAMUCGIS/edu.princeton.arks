@@ -1,29 +1,27 @@
 {
+  "solr_year_i": "1868",
   "uuid": "http://arks.princeton.edu/ark:/88435/ns064841m",
+  "dc_description_s": "Territory of the United States from the Mississippi River to the Pacific Ocean : originally prepared to accompany the reports of the explorations for a Pacific railroad route : made in accordance with the 10th. and 11th. sections of the Army Appropriation, Act of March 3rd. 1853",
+  "georss_box_s": "25.8371638 -125.2784586 50.3243423493 -103.967023275",
+  "layer_modified_dt": "2015-01-21T22:23:58Z",
   "dc_creator_sm": [
     "Bien, Julius,",
-    "Kargé,"
+    "Karge\u0301,"
   ],
-  "dc_description_s": "Territory of the United States from the Mississippi River to the Pacific Ocean : originally prepared to accompany the reports of the explorations for a Pacific railroad route : made in accordance with the 10th. and 11th. sections of the Army Appropriation, Act of March 3rd. 1853",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "ns064841m",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/ns064841m/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fns%2F06%2F48%2F41%2Fm%2F00000001.jp2/info.json\"}",
   "layer_id_s": "ns064841m",
-  "layer_slug_s": "princeton-ns064841m",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:58Z",
-  "dc_title_s": "Territory of the United States from the Mississippi River to the Pacific Ocean : originally prepared to accompany the reports of the explorations for a Pacific railroad route : made in accordance with the 10th. and 11th. sections of the Army Appropriation, Act of March 3rd. 1853",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "ns064841m",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Territory of the United States from the Mississippi River to the Pacific Ocean : originally prepared to accompany the reports of the explorations for a Pacific railroad route : made in accordance with the 10th. and 11th. sections of the Army Appropriation, Act of March 3rd. 1853",
+  "layer_slug_s": "princeton-ns064841m",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/ns064841m/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ns/06/48/41/m/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "50.3243423493 -125.2784586 50.3243423493 -103.967023275 25.8371638 -103.967023275 25.8371638 -125.2784586 50.3243423493 -125.2784586",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1868"
   ],
-  "georss_box_s": "25.8371638 -125.2784586 50.3243423493 -103.967023275",
-  "georss_polygon_s": "50.3243423493 -125.2784586 50.3243423493 -103.967023275 25.8371638 -103.967023275 25.8371638 -125.2784586 50.3243423493 -125.2784586",
   "solr_geom": "ENVELOPE(-125.2784586, -103.967023275, 50.3243423493, 25.8371638)",
-  "solr_year_i": "1868"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

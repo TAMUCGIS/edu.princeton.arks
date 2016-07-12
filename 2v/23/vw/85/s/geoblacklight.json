@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1640",
   "uuid": "http://arks.princeton.edu/ark:/88435/2v23vw85s",
+  "dc_description_s": "Aragonia et Navarra",
+  "georss_box_s": "39.8467782 -2.1736712 42.9244952 0.7713067",
+  "layer_modified_dt": "2015-01-21T22:24:10Z",
   "dc_creator_sm": [
     "Blaeu, Joan,",
     "Chalmers, William S.,"
   ],
-  "dc_description_s": "Aragonia et Navarra",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "2v23vw85s",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/2v23vw85s/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F2v%2F23%2Fvw%2F85%2Fs%2F00000001.jp2/info.json\"}",
   "layer_id_s": "2v23vw85s",
-  "layer_slug_s": "princeton-2v23vw85s",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:10Z",
-  "dc_title_s": "Aragonia et Navarra",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Aragon (Spain)",
-    "Navarre (Spain)"
-  ],
+  "dc_identifier_s": "2v23vw85s",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Aragonia et Navarra",
+  "layer_slug_s": "princeton-2v23vw85s",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/2v23vw85s/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/2v/23/vw/85/s/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "42.9244952 -2.1736712 42.9244952 0.7713067 39.8467782 0.7713067 39.8467782 -2.1736712 42.9244952 -2.1736712",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1640"
   ],
-  "georss_box_s": "39.8467782 -2.1736712 42.9244952 0.7713067",
-  "georss_polygon_s": "42.9244952 -2.1736712 42.9244952 0.7713067 39.8467782 0.7713067 39.8467782 -2.1736712 42.9244952 -2.1736712",
   "solr_geom": "ENVELOPE(-2.1736712, 0.7713067, 42.9244952, 39.8467782)",
-  "solr_year_i": "1640"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Aragon (Spain)",
+    "Navarre (Spain)"
+  ]
 }

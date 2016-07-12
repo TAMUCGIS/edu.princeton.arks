@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/k0698952j",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of National Park",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "k0698952j",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fk0%2F69%2F89%2F52%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "k0698952j",
-  "layer_slug_s": "princeton-k0698952j",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:04:02Z",
+  "solr_geom": "ENVELOPE(-75.199635, -75.159635, 39.885968, 39.845968)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/k0/69/89/52/j/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/k0698952j",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "National Park, Gloucester County, New Jersey (Sheet 5)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1926"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "k0698952j",
+  "georss_polygon_s": "39.885968 -75.199635 39.885968 -75.159635 39.845968 -75.159635 39.845968 -75.199635 39.885968 -75.199635",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1926",
   "dct_spatial_sm": [
     "New Jersey",
     "National Park"
   ],
-  "dct_temporal_sm": [
-    "1926"
-  ],
+  "layer_id_s": "k0698952j",
   "georss_box_s": "39.845968 -75.199635 39.885968 -75.159635",
-  "georss_polygon_s": "39.885968 -75.199635 39.885968 -75.159635 39.845968 -75.159635 39.845968 -75.199635 39.885968 -75.199635",
-  "solr_geom": "ENVELOPE(-75.199635, -75.159635, 39.885968, 39.845968)",
-  "solr_year_i": "1926"
+  "dc_title_s": "National Park, Gloucester County, New Jersey (Sheet 5)",
+  "layer_slug_s": "princeton-k0698952j",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

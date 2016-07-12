@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/76537330p",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Essex Fells",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "76537330p",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F76%2F53%2F73%2F30%2Fp%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "76537330p",
-  "layer_slug_s": "princeton-76537330p",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:02:59Z",
+  "solr_geom": "ENVELOPE(-74.299695, -74.259779, 40.835277, 40.814288)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/76/53/73/30/p/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/76537330p",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Essex Fells Borough, N. J. (Sheet 80)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1907"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "76537330p",
+  "georss_polygon_s": "40.835277 -74.299695 40.835277 -74.259779 40.814288 -74.259779 40.814288 -74.299695 40.835277 -74.299695",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1907",
   "dct_spatial_sm": [
     "New Jersey",
     "Essex Fells"
   ],
-  "dct_temporal_sm": [
-    "1907"
-  ],
+  "layer_id_s": "76537330p",
   "georss_box_s": "40.814288 -74.299695 40.835277 -74.259779",
-  "georss_polygon_s": "40.835277 -74.299695 40.835277 -74.259779 40.814288 -74.259779 40.814288 -74.299695 40.835277 -74.299695",
-  "solr_geom": "ENVELOPE(-74.299695, -74.259779, 40.835277, 40.814288)",
-  "solr_year_i": "1907"
+  "dc_title_s": "Essex Fells Borough, N. J. (Sheet 80)",
+  "layer_slug_s": "princeton-76537330p",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

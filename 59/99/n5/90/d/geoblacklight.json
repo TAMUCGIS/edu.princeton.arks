@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1903",
   "uuid": "http://arks.princeton.edu/ark:/88435/5999n590d",
   "dc_description_s": "Peking",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "5999n590d",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/5999n590d/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F59%2F99%2Fn5%2F90%2Fd%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "5999n590d",
-  "layer_slug_s": "princeton-5999n590d",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "39.4424669 115.4165193 41.0586089 117.5071157",
   "layer_modified_dt": "2015-01-21T22:24:23Z",
-  "dc_title_s": "Peking",
+  "layer_id_s": "5999n590d",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Beijing (China)"
-  ],
+  "dc_identifier_s": "5999n590d",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Peking",
+  "layer_slug_s": "princeton-5999n590d",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/5999n590d/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/59/99/n5/90/d/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "41.0586089 115.4165193 41.0586089 117.5071157 39.4424669 117.5071157 39.4424669 115.4165193 41.0586089 115.4165193",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1903"
   ],
-  "georss_box_s": "39.4424669 115.4165193 41.0586089 117.5071157",
-  "georss_polygon_s": "41.0586089 115.4165193 41.0586089 117.5071157 39.4424669 117.5071157 39.4424669 115.4165193 41.0586089 115.4165193",
   "solr_geom": "ENVELOPE(115.4165193, 117.5071157, 41.0586089, 39.4424669)",
-  "solr_year_i": "1903"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Beijing (China)"
+  ]
 }

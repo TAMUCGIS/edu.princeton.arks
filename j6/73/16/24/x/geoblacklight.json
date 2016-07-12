@@ -1,32 +1,32 @@
 {
+  "solr_year_i": "1867",
   "uuid": "http://arks.princeton.edu/ark:/88435/j6731624x",
+  "dc_description_s": "Map of the Russian possessions in Manchuria to accompany the paper by Revd. W.V. Lloyd /",
+  "georss_box_s": "41.00000 128.50000 56.00000 146.50000",
+  "layer_modified_dt": "2015-01-19T22:37:22Z",
   "dc_creator_sm": [
     "Lloyd, William V.,",
     "Weller, Edward,"
   ],
-  "dc_description_s": "Map of the Russian possessions in Manchuria to accompany the paper by Revd. W.V. Lloyd /",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "j6731624x",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/j6731624x/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F6%2F73%2F16%2F24%2Fx%2F00000001.jp2/info.json\"}",
   "layer_id_s": "j6731624x",
-  "layer_slug_s": "princeton-j6731624x",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:22Z",
-  "dc_title_s": "Map of the Russian possessions in Manchuria to accompany the paper by Revd. W.V. Lloyd /",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Primorskai︠a︡ oblastʹ (Russia)",
-    "Khabarovskiĭ kraĭ (Russia)",
-    "Sakhalinskai︠a︡ oblastʹ (Russia)",
-    "Russian Far East (Russia)"
-  ],
+  "dc_identifier_s": "j6731624x",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Map of the Russian possessions in Manchuria to accompany the paper by Revd. W.V. Lloyd /",
+  "layer_slug_s": "princeton-j6731624x",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/j6731624x/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/j6/73/16/24/x/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "56.00000 128.50000 56.00000 146.50000 41.00000 146.50000 41.00000 128.50000 56.00000 128.50000",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1867"
   ],
-  "georss_box_s": "41.00000 128.50000 56.00000 146.50000",
-  "georss_polygon_s": "56.00000 128.50000 56.00000 146.50000 41.00000 146.50000 41.00000 128.50000 56.00000 128.50000",
   "solr_geom": "ENVELOPE(128.50000, 146.50000, 56.00000, 41.00000)",
-  "solr_year_i": "1867"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Primorskai\ufe20a\ufe21 oblast\u02b9 (Russia)",
+    "Khabarovskii\u0306 krai\u0306 (Russia)",
+    "Sakhalinskai\ufe20a\ufe21 oblast\u02b9 (Russia)",
+    "Russian Far East (Russia)"
+  ]
 }

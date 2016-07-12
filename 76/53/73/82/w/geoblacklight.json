@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1856",
   "uuid": "http://arks.princeton.edu/ark:/88435/76537382w",
+  "dc_description_s": "Europa zur Zeit der Reformation",
+  "georss_box_s": "50.9999503 9.9999497 51.0000503 10.0000497",
+  "layer_modified_dt": "2015-01-25T02:06:16Z",
   "dc_creator_sm": [
     "Bretschneider, C. A.",
     "Geyer, V.",
     "Weiler, Wilhelm."
   ],
-  "dc_description_s": "Europa zur Zeit der Reformation",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "76537382w",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/76537382w/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F76%2F53%2F73%2F82%2Fw%2F00000001.jp2/info.json\"}",
   "layer_id_s": "76537382w",
-  "layer_slug_s": "princeton-76537382w",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:16Z",
-  "dc_title_s": "Europa zur Zeit der Reformation",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Europe"
-  ],
+  "dc_identifier_s": "76537382w",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Europa zur Zeit der Reformation",
+  "layer_slug_s": "princeton-76537382w",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/76537382w/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/76/53/73/82/w/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "51.0000503 9.9999497 51.0000503 10.0000497 50.9999503 10.0000497 50.9999503 9.9999497 51.0000503 9.9999497",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1856"
   ],
-  "georss_box_s": "50.9999503 9.9999497 51.0000503 10.0000497",
-  "georss_polygon_s": "51.0000503 9.9999497 51.0000503 10.0000497 50.9999503 10.0000497 50.9999503 9.9999497 51.0000503 9.9999497",
   "solr_geom": "ENVELOPE(9.9999497, 10.0000497, 51.0000503, 50.9999503)",
-  "solr_year_i": "1856"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Europe"
+  ]
 }

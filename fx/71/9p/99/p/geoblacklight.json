@@ -1,31 +1,31 @@
 {
+  "solr_year_i": "1700",
   "uuid": "http://arks.princeton.edu/ark:/88435/fx719p99p",
+  "dc_description_s": "Suchuen, et Xensi, provinciae seu praefecturae Regni Sinensis versus caurum id est inter occidentem et septentrionem sitae",
+  "georss_box_s": "33.44 106.44 38.56 111.56",
+  "layer_modified_dt": "2015-01-21T22:24:25Z",
   "dc_creator_sm": [
     "Jansson, Jan,",
     "Schenk, Peter,",
     "McCabe, Robert A.,"
   ],
-  "dc_description_s": "Suchuen, et Xensi, provinciae seu praefecturae Regni Sinensis versus caurum id est inter occidentem et septentrionem sitae",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "fx719p99p",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/fx719p99p/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ffx%2F71%2F9p%2F99%2Fp%2F00000001.jp2/info.json\"}",
   "layer_id_s": "fx719p99p",
-  "layer_slug_s": "princeton-fx719p99p",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:25Z",
-  "dc_title_s": "Suchuen, et Xensi, provinciae seu praefecturae Regni Sinensis versus caurum id est inter occidentem et septentrionem sitae",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Shaanxi Sheng (China)",
-    "Sichuan Sheng (China)"
-  ],
+  "dc_identifier_s": "fx719p99p",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Suchuen, et Xensi, provinciae seu praefecturae Regni Sinensis versus caurum id est inter occidentem et septentrionem sitae",
+  "layer_slug_s": "princeton-fx719p99p",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/fx719p99p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/fx/71/9p/99/p/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "38.56 106.44 38.56 111.56 33.44 111.56 33.44 106.44 38.56 106.44",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1700"
   ],
-  "georss_box_s": "33.44 106.44 38.56 111.56",
-  "georss_polygon_s": "38.56 106.44 38.56 111.56 33.44 111.56 33.44 106.44 38.56 106.44",
   "solr_geom": "ENVELOPE(106.44, 111.56, 38.56, 33.44)",
-  "solr_year_i": "1700"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Shaanxi Sheng (China)",
+    "Sichuan Sheng (China)"
+  ]
 }

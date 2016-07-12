@@ -1,24 +1,22 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/sq87bx124",
+  "dc_description_s": "Sanitary & topographical map of Hudson County, N.J. prepared for the National Board of Health, Washington, D.C.",
+  "georss_box_s": "40.642149 -74.1660869 40.823569 -73.9848829",
+  "layer_modified_dt": "2015-01-25T02:06:18Z",
   "dc_creator_sm": [
     "Schmidt, J. M.,"
   ],
-  "dc_description_s": "Sanitary & topographical map of Hudson County, N.J. prepared for the National Board of Health, Washington, D.C.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "sq87bx124",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/sq87bx124/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fsq%2F87%2Fbx%2F12%2F4%2F00000001.jp2/info.json\"}",
   "layer_id_s": "sq87bx124",
-  "layer_slug_s": "princeton-sq87bx124",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:18Z",
-  "dc_title_s": "Sanitary & topographical map of Hudson County, N.J. prepared for the National Board of Health, Washington, D.C.",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
-  "georss_box_s": "40.642149 -74.1660869 40.823569 -73.9848829",
+  "dc_identifier_s": "sq87bx124",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Sanitary & topographical map of Hudson County, N.J. prepared for the National Board of Health, Washington, D.C.",
+  "layer_slug_s": "princeton-sq87bx124",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/sq87bx124/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/sq/87/bx/12/4/00000001.jp2/info.json\"}",
   "georss_polygon_s": "40.823569 -74.1660869 40.823569 -73.9848829 40.642149 -73.9848829 40.642149 -74.1660869 40.823569 -74.1660869",
-  "solr_geom": "ENVELOPE(-74.1660869, -73.9848829, 40.823569, 40.642149)"
+  "layer_geom_type_s": "Image",
+  "solr_geom": "ENVELOPE(-74.1660869, -73.9848829, 40.823569, 40.642149)",
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

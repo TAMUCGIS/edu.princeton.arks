@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1898",
   "uuid": "http://arks.princeton.edu/ark:/88435/vm40xt524",
+  "dc_description_s": "Map of Alaska",
+  "georss_box_s": "51.0228712 -179.9999999 71.6048217 180",
+  "layer_modified_dt": "2015-01-25T02:06:10Z",
   "dc_creator_sm": [
     "Hendges, M.",
     "King, Harry."
   ],
-  "dc_description_s": "Map of Alaska",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "vm40xt524",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/vm40xt524/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fvm%2F40%2Fxt%2F52%2F4%2F00000001.jp2/info.json\"}",
   "layer_id_s": "vm40xt524",
-  "layer_slug_s": "princeton-vm40xt524",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:10Z",
-  "dc_title_s": "Map of Alaska",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Alaska"
-  ],
+  "dc_identifier_s": "vm40xt524",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Map of Alaska",
+  "layer_slug_s": "princeton-vm40xt524",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/vm40xt524/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/vm/40/xt/52/4/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "71.6048217 -179.9999999 71.6048217 180 51.0228712 180 51.0228712 -179.9999999 71.6048217 -179.9999999",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1898"
   ],
-  "georss_box_s": "51.0228712 -179.9999999 71.6048217 180",
-  "georss_polygon_s": "71.6048217 -179.9999999 71.6048217 180 51.0228712 180 51.0228712 -179.9999999 71.6048217 -179.9999999",
   "solr_geom": "ENVELOPE(-179.9999999, 180, 71.6048217, 51.0228712)",
-  "solr_year_i": "1898"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Alaska"
+  ]
 }

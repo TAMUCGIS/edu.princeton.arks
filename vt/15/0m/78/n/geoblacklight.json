@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1905",
   "uuid": "http://arks.princeton.edu/ark:/88435/vt150m78n",
+  "dc_description_s": "West-Sibirien",
+  "georss_box_s": "44.0 50.0 68.0 110.0",
+  "layer_modified_dt": "2015-01-19T22:37:39Z",
   "dc_creator_sm": [
     "Habenicht, Hermann,",
     "Stieler, Adolf,"
   ],
-  "dc_description_s": "West-Sibirien",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "vt150m78n",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/vt150m78n/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fvt%2F15%2F0m%2F78%2Fn%2F00000001.jp2/info.json\"}",
   "layer_id_s": "vt150m78n",
-  "layer_slug_s": "princeton-vt150m78n",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:39Z",
-  "dc_title_s": "West-Sibirien",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Siberia, Western (Russia)"
-  ],
+  "dc_identifier_s": "vt150m78n",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "West-Sibirien",
+  "layer_slug_s": "princeton-vt150m78n",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/vt150m78n/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/vt/15/0m/78/n/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "68.0 50.0 68.0 110.0 44.0 110.0 44.0 50.0 68.0 50.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1905"
   ],
-  "georss_box_s": "44.0 50.0 68.0 110.0",
-  "georss_polygon_s": "68.0 50.0 68.0 110.0 44.0 110.0 44.0 50.0 68.0 50.0",
   "solr_geom": "ENVELOPE(50.0, 110.0, 68.0, 44.0)",
-  "solr_year_i": "1905"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Siberia, Western (Russia)"
+  ]
 }

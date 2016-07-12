@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1605",
   "uuid": "http://arks.princeton.edu/ark:/88435/xg94hs008",
+  "dc_description_s": "Asiae VII tab.",
+  "georss_box_s": "35.12876 46.493672 55.441984 87.315415",
+  "layer_modified_dt": "2015-01-21T22:24:11Z",
   "dc_creator_sm": [
     "Ptolemy,",
     "McCabe, Robert A.,"
   ],
-  "dc_description_s": "Asiae VII tab.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "xg94hs008",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/xg94hs008/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fxg%2F94%2Fhs%2F00%2F8%2F00000001.jp2/info.json\"}",
   "layer_id_s": "xg94hs008",
-  "layer_slug_s": "princeton-xg94hs008",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:11Z",
-  "dc_title_s": "Asiae VII tab.",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Asia, Central"
-  ],
+  "dc_identifier_s": "xg94hs008",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Asiae VII tab.",
+  "layer_slug_s": "princeton-xg94hs008",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/xg94hs008/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/xg/94/hs/00/8/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "55.441984 46.493672 55.441984 87.315415 35.12876 87.315415 35.12876 46.493672 55.441984 46.493672",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1605"
   ],
-  "georss_box_s": "35.12876 46.493672 55.441984 87.315415",
-  "georss_polygon_s": "55.441984 46.493672 55.441984 87.315415 35.12876 87.315415 35.12876 46.493672 55.441984 46.493672",
   "solr_geom": "ENVELOPE(46.493672, 87.315415, 55.441984, 35.12876)",
-  "solr_year_i": "1605"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Asia, Central"
+  ]
 }

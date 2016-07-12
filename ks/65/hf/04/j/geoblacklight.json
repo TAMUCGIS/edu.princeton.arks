@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1879",
   "uuid": "http://arks.princeton.edu/ark:/88435/ks65hf04j",
   "dc_description_s": "Map of the north polar region",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "ks65hf04j",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/ks65hf04j/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fks%2F65%2Fhf%2F04%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "ks65hf04j",
-  "layer_slug_s": "princeton-ks65hf04j",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "50.0 -180.0 90.0 180.0",
   "layer_modified_dt": "2015-01-19T22:36:47Z",
-  "dc_title_s": "Map of the north polar region",
+  "layer_id_s": "ks65hf04j",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Arctic regions",
-    "Polar regions"
-  ],
+  "dc_identifier_s": "ks65hf04j",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Map of the north polar region",
+  "layer_slug_s": "princeton-ks65hf04j",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/ks65hf04j/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ks/65/hf/04/j/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "90.0 -180.0 90.0 180.0 50.0 180.0 50.0 -180.0 90.0 -180.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1879"
   ],
-  "georss_box_s": "50.0 -180.0 90.0 180.0",
-  "georss_polygon_s": "90.0 -180.0 90.0 180.0 50.0 180.0 50.0 -180.0 90.0 -180.0",
   "solr_geom": "ENVELOPE(-180.0, 180.0, 90.0, 50.0)",
-  "solr_year_i": "1879"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Arctic regions",
+    "Polar regions"
+  ]
 }

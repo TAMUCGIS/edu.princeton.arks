@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1911",
   "uuid": "http://arks.princeton.edu/ark:/88435/x920fz69p",
   "dc_description_s": "Ontwikkeling van de nederzetting aan de Tafelbaai",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "x920fz69p",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/x920fz69p/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fx9%2F20%2Ffz%2F69%2Fp%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "x920fz69p",
-  "layer_slug_s": "princeton-x920fz69p",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "-34.0889049 18.2572485 -33.7689049 18.5772485",
   "layer_modified_dt": "2015-01-21T22:23:43Z",
-  "dc_title_s": "Ontwikkeling van de nederzetting aan de Tafelbaai",
+  "layer_id_s": "x920fz69p",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Cape Town (South Africa)"
-  ],
+  "dc_identifier_s": "x920fz69p",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Ontwikkeling van de nederzetting aan de Tafelbaai",
+  "layer_slug_s": "princeton-x920fz69p",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/x920fz69p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/x9/20/fz/69/p/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "-33.7689049 18.2572485 -33.7689049 18.5772485 -34.0889049 18.5772485 -34.0889049 18.2572485 -33.7689049 18.2572485",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1911"
   ],
-  "georss_box_s": "-34.0889049 18.2572485 -33.7689049 18.5772485",
-  "georss_polygon_s": "-33.7689049 18.2572485 -33.7689049 18.5772485 -34.0889049 18.5772485 -34.0889049 18.2572485 -33.7689049 18.2572485",
   "solr_geom": "ENVELOPE(18.2572485, 18.5772485, -33.7689049, -34.0889049)",
-  "solr_year_i": "1911"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Cape Town (South Africa)"
+  ]
 }

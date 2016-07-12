@@ -1,32 +1,32 @@
 {
+  "solr_year_i": "1620",
   "uuid": "http://arks.princeton.edu/ark:/88435/7m01bp14z",
+  "dc_description_s": "Campagna di Roma, olim Latium : all' Illmo. et reumo. ... Sig. Luigi Care. Capponi",
+  "georss_box_s": "41.6830806 13.0194056 42.8950814 14.7838895",
+  "layer_modified_dt": "2015-01-21T22:24:07Z",
   "dc_creator_sm": [
     "Magini, Fabio,",
     "Magini, Giovanni Antonio,",
-    "Sjöqvist, Erik,"
+    "Sjo\u0308qvist, Erik,"
   ],
-  "dc_description_s": "Campagna di Roma, olim Latium : all' Illmo. et reumo. ... Sig. Luigi Care. Capponi",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "7m01bp14z",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/7m01bp14z/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F7m%2F01%2Fbp%2F14%2Fz%2F00000001.jp2/info.json\"}",
   "layer_id_s": "7m01bp14z",
-  "layer_slug_s": "princeton-7m01bp14z",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:07Z",
-  "dc_title_s": "Campagna di Roma, olim Latium : all' Illmo. et reumo. ... Sig. Luigi Care. Capponi",
   "dc_type_s": "Image",
+  "dc_identifier_s": "7m01bp14z",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Campagna di Roma, olim Latium : all' Illmo. et reumo. ... Sig. Luigi Care. Capponi",
+  "layer_slug_s": "princeton-7m01bp14z",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/7m01bp14z/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/7m/01/bp/14/z/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "42.8950814 13.0194056 42.8950814 14.7838895 41.6830806 14.7838895 41.6830806 13.0194056 42.8950814 13.0194056",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1620"
+  ],
+  "solr_geom": "ENVELOPE(13.0194056, 14.7838895, 42.8950814, 41.6830806)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Abruzzo (Italy)",
     "Lazio (Italy)",
     "Rome (Italy)"
-  ],
-  "dct_temporal_sm": [
-    "1620"
-  ],
-  "georss_box_s": "41.6830806 13.0194056 42.8950814 14.7838895",
-  "georss_polygon_s": "42.8950814 13.0194056 42.8950814 14.7838895 41.6830806 14.7838895 41.6830806 13.0194056 42.8950814 13.0194056",
-  "solr_geom": "ENVELOPE(13.0194056, 14.7838895, 42.8950814, 41.6830806)",
-  "solr_year_i": "1620"
+  ]
 }

@@ -2,7 +2,7 @@
   "dc_description_s": "This is a map of Bosnia and Herzogovina with relief, shown at a 1:1,000,000 scale. Included are additional maps of population, land use, ethnic distribution and industry. The map was created by the Central Intelligence Agency.",
   "layer_modified_dt": "2015-01-11T17:43:30Z",
   "solr_geom": "ENVELOPE(15, 20, 45, 42)",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fcn%2F69%2Fm5%2F84%2Fs%2F00000001.jp2/info.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/cn69m584s/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/cn69m584s/preview.jpg\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/cn69m584s/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/cn/69/m5/84/s/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/cn69m584s/preview.jpg\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/cn69m584s",
   "dct_provenance_s": "Princeton",
@@ -17,7 +17,7 @@
     "Industry"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "March 1993",
+  "layer_slug_s": "princeton-cn69m584s",
   "dc_creator_sm": [
     "Central Intelligence Agency"
   ],
@@ -34,7 +34,7 @@
   "layer_id_s": "cn69m584s",
   "georss_box_s": "42 15 45 20",
   "dc_title_s": "Bosnia and Herzegovina, 1993",
-  "layer_slug_s": "princeton-cn69m584s",
+  "dct_issued_s": "March 1993",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1894",
   "uuid": "http://arks.princeton.edu/ark:/88435/mc87ps59g",
+  "dc_description_s": "Map showing the distribution of intra-morainic and extra-morainic glacial drift",
+  "georss_box_s": "38.7911303 -75.5633859 41.357423 -73.8939789",
+  "layer_modified_dt": "2015-01-21T22:23:56Z",
   "dc_creator_sm": [
-    "Kümmel, Henry Barnard,",
+    "Ku\u0308mmel, Henry Barnard,",
     "Whitson, A. R."
   ],
-  "dc_description_s": "Map showing the distribution of intra-morainic and extra-morainic glacial drift",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "mc87ps59g",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/mc87ps59g/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fmc%2F87%2Fps%2F59%2Fg%2F00000001.jp2/info.json\"}",
   "layer_id_s": "mc87ps59g",
-  "layer_slug_s": "princeton-mc87ps59g",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:56Z",
-  "dc_title_s": "Map showing the distribution of intra-morainic and extra-morainic glacial drift",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "New Jersey"
-  ],
+  "dc_identifier_s": "mc87ps59g",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Map showing the distribution of intra-morainic and extra-morainic glacial drift",
+  "layer_slug_s": "princeton-mc87ps59g",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/mc87ps59g/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/mc/87/ps/59/g/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "41.357423 -75.5633859 41.357423 -73.8939789 38.7911303 -73.8939789 38.7911303 -75.5633859 41.357423 -75.5633859",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1894"
   ],
-  "georss_box_s": "38.7911303 -75.5633859 41.357423 -73.8939789",
-  "georss_polygon_s": "41.357423 -75.5633859 41.357423 -73.8939789 38.7911303 -73.8939789 38.7911303 -75.5633859 41.357423 -75.5633859",
   "solr_geom": "ENVELOPE(-75.5633859, -73.8939789, 41.357423, 38.7911303)",
-  "solr_year_i": "1894"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "New Jersey"
+  ]
 }

@@ -1,29 +1,27 @@
 {
+  "solr_year_i": "1857",
   "uuid": "http://arks.princeton.edu/ark:/88435/q237hv377",
+  "dc_description_s": "Map of the original grants of village lots from the Dutch West India Company to the inhabitants of New-Amsterdam (now New-York) lying below the present line of Wall Street",
+  "georss_box_s": "40.7702778 -73.9797222 40.8102778 -73.9397222",
+  "layer_modified_dt": "2015-01-21T22:24:00Z",
   "dc_creator_sm": [
     "Hayward, George,",
     "Fox, N. B.,"
   ],
-  "dc_description_s": "Map of the original grants of village lots from the Dutch West India Company to the inhabitants of New-Amsterdam (now New-York) lying below the present line of Wall Street",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "q237hv377",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/q237hv377/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fq2%2F37%2Fhv%2F37%2F7%2F00000001.jp2/info.json\"}",
   "layer_id_s": "q237hv377",
-  "layer_slug_s": "princeton-q237hv377",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:00Z",
-  "dc_title_s": "Map of the original grants of village lots from the Dutch West India Company to the inhabitants of New-Amsterdam (now New-York) lying below the present line of Wall Street",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "q237hv377",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Map of the original grants of village lots from the Dutch West India Company to the inhabitants of New-Amsterdam (now New-York) lying below the present line of Wall Street",
+  "layer_slug_s": "princeton-q237hv377",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/q237hv377/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/q2/37/hv/37/7/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.8102778 -73.9797222 40.8102778 -73.9397222 40.7702778 -73.9397222 40.7702778 -73.9797222 40.8102778 -73.9797222",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1857"
   ],
-  "georss_box_s": "40.7702778 -73.9797222 40.8102778 -73.9397222",
-  "georss_polygon_s": "40.8102778 -73.9797222 40.8102778 -73.9397222 40.7702778 -73.9397222 40.7702778 -73.9797222 40.8102778 -73.9797222",
   "solr_geom": "ENVELOPE(-73.9797222, -73.9397222, 40.8102778, 40.7702778)",
-  "solr_year_i": "1857"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

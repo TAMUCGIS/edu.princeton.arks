@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1782",
   "uuid": "http://arks.princeton.edu/ark:/88435/b8515q844",
+  "dc_description_s": "Carte des isles de la Jamai\u0308que et de St. Domingue",
+  "georss_box_s": "17.0 -81.0 23.0 -71.0",
+  "layer_modified_dt": "2015-01-19T22:37:14Z",
   "dc_creator_sm": [
     "Mentelle, E.",
-    "André, Gaspard,"
+    "Andre\u0301, Gaspard,"
   ],
-  "dc_description_s": "Carte des isles de la Jamaïque et de St. Domingue",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "b8515q844",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/b8515q844/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F8%2F51%2F5q%2F84%2F4%2F00000001.jp2/info.json\"}",
   "layer_id_s": "b8515q844",
-  "layer_slug_s": "princeton-b8515q844",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:14Z",
-  "dc_title_s": "Carte des isles de la Jamaïque et de St. Domingue",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Hispaniola",
-    "Jamaica"
-  ],
+  "dc_identifier_s": "b8515q844",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Carte des isles de la Jamai\u0308que et de St. Domingue",
+  "layer_slug_s": "princeton-b8515q844",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/b8515q844/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/b8/51/5q/84/4/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "23.0 -81.0 23.0 -71.0 17.0 -71.0 17.0 -81.0 23.0 -81.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1782"
   ],
-  "georss_box_s": "17.0 -81.0 23.0 -71.0",
-  "georss_polygon_s": "23.0 -81.0 23.0 -71.0 17.0 -71.0 17.0 -81.0 23.0 -81.0",
   "solr_geom": "ENVELOPE(-81.0, -71.0, 23.0, 17.0)",
-  "solr_year_i": "1782"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Hispaniola",
+    "Jamaica"
+  ]
 }

@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1572",
   "uuid": "http://arks.princeton.edu/ark:/88435/8623j056z",
+  "dc_description_s": "Azaamurum",
+  "georss_box_s": "33.2583874 -8.3434244 33.2584874 -8.3433244",
+  "layer_modified_dt": "2015-01-21T22:23:42Z",
   "dc_creator_sm": [
     "Braun, Georg,",
     "Hogenberg, Frans,",
     "McCabe, Robert A.,"
   ],
-  "dc_description_s": "Azaamurum",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "8623j056z",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/8623j056z/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F86%2F23%2Fj0%2F56%2Fz%2F00000001.jp2/info.json\"}",
   "layer_id_s": "8623j056z",
-  "layer_slug_s": "princeton-8623j056z",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:42Z",
-  "dc_title_s": "Azaamurum",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Azemmour (Morocco)"
-  ],
+  "dc_identifier_s": "8623j056z",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Azaamurum",
+  "layer_slug_s": "princeton-8623j056z",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/8623j056z/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/86/23/j0/56/z/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "33.2584874 -8.3434244 33.2584874 -8.3433244 33.2583874 -8.3433244 33.2583874 -8.3434244 33.2584874 -8.3434244",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1572"
   ],
-  "georss_box_s": "33.2583874 -8.3434244 33.2584874 -8.3433244",
-  "georss_polygon_s": "33.2584874 -8.3434244 33.2584874 -8.3433244 33.2583874 -8.3433244 33.2583874 -8.3434244 33.2584874 -8.3434244",
   "solr_geom": "ENVELOPE(-8.3434244, -8.3433244, 33.2584874, 33.2583874)",
-  "solr_year_i": "1572"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Azemmour (Morocco)"
+  ]
 }

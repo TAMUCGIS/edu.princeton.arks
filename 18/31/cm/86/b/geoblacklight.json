@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1896",
   "uuid": "http://arks.princeton.edu/ark:/88435/1831cm86b",
   "dc_description_s": "Yellowstone National Park and forest reserve",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "1831cm86b",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/1831cm86b/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F18%2F31%2Fcm%2F86%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "1831cm86b",
-  "layer_slug_s": "princeton-1831cm86b",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "44.0 -111.0 45.0 -109.5",
   "layer_modified_dt": "2015-01-19T22:36:54Z",
-  "dc_title_s": "Yellowstone National Park and forest reserve",
+  "layer_id_s": "1831cm86b",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Yellowstone National Park"
-  ],
+  "dc_identifier_s": "1831cm86b",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Yellowstone National Park and forest reserve",
+  "layer_slug_s": "princeton-1831cm86b",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/1831cm86b/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/18/31/cm/86/b/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "45.0 -111.0 45.0 -109.5 44.0 -109.5 44.0 -111.0 45.0 -111.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1896"
   ],
-  "georss_box_s": "44.0 -111.0 45.0 -109.5",
-  "georss_polygon_s": "45.0 -111.0 45.0 -109.5 44.0 -109.5 44.0 -111.0 45.0 -111.0",
   "solr_geom": "ENVELOPE(-111.0, -109.5, 45.0, 44.0)",
-  "solr_year_i": "1896"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Yellowstone National Park"
+  ]
 }

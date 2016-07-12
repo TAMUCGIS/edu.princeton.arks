@@ -1,36 +1,36 @@
 {
+  "solr_year_i": "1777",
   "uuid": "http://arks.princeton.edu/ark:/88435/5q47rr11j",
+  "dc_description_s": "The provinces of New York, and New Jersey; with part of Pensilvania and the province of Quebec. Drawn by Major Holland, Surveyor General of the Northern District in America",
+  "georss_box_s": "40.950943 -73.727775 47.459686 -66.8850751",
+  "layer_modified_dt": "2015-01-21T22:23:58Z",
   "dc_creator_sm": [
     "Holland, Samuel,",
     "Coentgen, Heinrich Hugo.",
-    "Brönner, H. L.",
+    "Bro\u0308nner, H. L.",
     "Fox, N. B.,"
   ],
-  "dc_description_s": "The provinces of New York, and New Jersey; with part of Pensilvania and the province of Quebec. Drawn by Major Holland, Surveyor General of the Northern District in America",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "5q47rr11j",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/5q47rr11j/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F5q%2F47%2Frr%2F11%2F00000001.jp2/info.json\"}",
   "layer_id_s": "5q47rr11j",
-  "layer_slug_s": "princeton-5q47rr11j",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:58Z",
-  "dc_title_s": "The provinces of New York, and New Jersey; with part of Pensilvania and the province of Quebec. Drawn by Major Holland, Surveyor General of the Northern District in America",
   "dc_type_s": "Image",
+  "dc_identifier_s": "5q47rr11j",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "The provinces of New York, and New Jersey; with part of Pensilvania and the province of Quebec. Drawn by Major Holland, Surveyor General of the Northern District in America",
+  "layer_slug_s": "princeton-5q47rr11j",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/5q47rr11j/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/5q/47/rr/11/j/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "47.459686 -73.727775 47.459686 -66.8850751 40.950943 -66.8850751 40.950943 -73.727775 47.459686 -73.727775",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1777"
+  ],
+  "solr_geom": "ENVELOPE(-73.727775, -66.8850751, 47.459686, 40.950943)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "New England",
     "New York (State)",
     "New Jersey",
-    "Québec (Province)",
+    "Que\u0301bec (Province)",
     "New York (State)",
     "New Jersey"
-  ],
-  "dct_temporal_sm": [
-    "1777"
-  ],
-  "georss_box_s": "40.950943 -73.727775 47.459686 -66.8850751",
-  "georss_polygon_s": "47.459686 -73.727775 47.459686 -66.8850751 40.950943 -66.8850751 40.950943 -73.727775 47.459686 -73.727775",
-  "solr_geom": "ENVELOPE(-73.727775, -66.8850751, 47.459686, 40.950943)",
-  "solr_year_i": "1777"
+  ]
 }

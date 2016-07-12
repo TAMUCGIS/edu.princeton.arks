@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1640",
   "uuid": "http://arks.princeton.edu/ark:/88435/6d570007m",
+  "dc_description_s": "Andaluzia continens Sevillam et Cordubam",
+  "georss_box_s": "35.9373253 -7.5226847 38.7290874 -1.6297999",
+  "layer_modified_dt": "2015-01-21T22:24:10Z",
   "dc_creator_sm": [
     "Blaeu, Joan,",
     "McCabe, Robert A.,"
   ],
-  "dc_description_s": "Andaluzia continens Sevillam et Cordubam",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "6d570007m",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/6d570007m/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F6d%2F57%2F00%2F07%2Fm%2F00000001.jp2/info.json\"}",
   "layer_id_s": "6d570007m",
-  "layer_slug_s": "princeton-6d570007m",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:10Z",
-  "dc_title_s": "Andaluzia continens Sevillam et Cordubam",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Andalusia (Spain)"
-  ],
+  "dc_identifier_s": "6d570007m",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Andaluzia continens Sevillam et Cordubam",
+  "layer_slug_s": "princeton-6d570007m",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/6d570007m/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/6d/57/00/07/m/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "38.7290874 -7.5226847 38.7290874 -1.6297999 35.9373253 -1.6297999 35.9373253 -7.5226847 38.7290874 -7.5226847",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1640"
   ],
-  "georss_box_s": "35.9373253 -7.5226847 38.7290874 -1.6297999",
-  "georss_polygon_s": "38.7290874 -7.5226847 38.7290874 -1.6297999 35.9373253 -1.6297999 35.9373253 -7.5226847 38.7290874 -7.5226847",
   "solr_geom": "ENVELOPE(-7.5226847, -1.6297999, 38.7290874, 35.9373253)",
-  "solr_year_i": "1640"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Andalusia (Spain)"
+  ]
 }

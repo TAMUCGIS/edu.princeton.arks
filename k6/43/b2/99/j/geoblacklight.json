@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1910",
   "uuid": "http://arks.princeton.edu/ark:/88435/k643b299j",
   "dc_description_s": "Sierra Leone : Falaba",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "k643b299j",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/k643b299j/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fk6%2F43%2Fb2%2F99%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "k643b299j",
-  "layer_slug_s": "princeton-k643b299j",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "6.755 -13.5003388 10.0000481 -10.2716829",
   "layer_modified_dt": "2015-01-21T22:23:43Z",
-  "dc_title_s": "Sierra Leone : Falaba",
+  "layer_id_s": "k643b299j",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Sierra Leone"
-  ],
+  "dc_identifier_s": "k643b299j",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Sierra Leone : Falaba",
+  "layer_slug_s": "princeton-k643b299j",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/k643b299j/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/k6/43/b2/99/j/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "10.0000481 -13.5003388 10.0000481 -10.2716829 6.755 -10.2716829 6.755 -13.5003388 10.0000481 -13.5003388",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1910"
   ],
-  "georss_box_s": "6.755 -13.5003388 10.0000481 -10.2716829",
-  "georss_polygon_s": "10.0000481 -13.5003388 10.0000481 -10.2716829 6.755 -10.2716829 6.755 -13.5003388 10.0000481 -13.5003388",
   "solr_geom": "ENVELOPE(-13.5003388, -10.2716829, 10.0000481, 6.755)",
-  "solr_year_i": "1910"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Sierra Leone"
+  ]
 }

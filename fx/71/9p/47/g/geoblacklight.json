@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/fx719p47g",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of South Orange",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "fx719p47g",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ffx%2F71%2F9p%2F47%2Fg%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "fx719p47g",
-  "layer_slug_s": "princeton-fx719p47g",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:03:42Z",
+  "solr_geom": "ENVELOPE(-74.283427, -74.234841, 40.762314, 40.735601)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/fx/71/9p/47/g/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/fx719p47g",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "South Orange, N.J. (Sheet 107).",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1895"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "fx719p47g",
+  "georss_polygon_s": "40.762314 -74.283427 40.762314 -74.234841 40.735601 -74.234841 40.735601 -74.283427 40.762314 -74.283427",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1895",
   "dct_spatial_sm": [
     "New Jersey",
     "South Orange"
   ],
-  "dct_temporal_sm": [
-    "1895"
-  ],
+  "layer_id_s": "fx719p47g",
   "georss_box_s": "40.735601 -74.283427 40.762314 -74.234841",
-  "georss_polygon_s": "40.762314 -74.283427 40.762314 -74.234841 40.735601 -74.234841 40.735601 -74.283427 40.762314 -74.283427",
-  "solr_geom": "ENVELOPE(-74.283427, -74.234841, 40.762314, 40.735601)",
-  "solr_year_i": "1895"
+  "dc_title_s": "South Orange, N.J. (Sheet 107).",
+  "layer_slug_s": "princeton-fx719p47g",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

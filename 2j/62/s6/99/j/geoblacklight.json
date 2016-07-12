@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/2j62s699j",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Dover",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "2j62s699j",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F2j%2F62%2Fs6%2F99%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "2j62s699j",
-  "layer_slug_s": "princeton-2j62s699j",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:06:08Z",
+  "solr_geom": "ENVELOPE(-74.578304, -74.538707, 40.904113, 40.872536)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/2j/62/s6/99/j/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/2j62s699j",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Insurance maps of Dover and Wharton, Morris County, New Jersey (Sheet 10)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1909"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "2j62s699j",
+  "georss_polygon_s": "40.904113 -74.578304 40.904113 -74.538707 40.872536 -74.538707 40.872536 -74.578304 40.904113 -74.578304",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1909",
   "dct_spatial_sm": [
     "New Jersey",
     "Dover"
   ],
-  "dct_temporal_sm": [
-    "1909"
-  ],
+  "layer_id_s": "2j62s699j",
   "georss_box_s": "40.872536 -74.578304 40.904113 -74.538707",
-  "georss_polygon_s": "40.904113 -74.578304 40.904113 -74.538707 40.872536 -74.538707 40.872536 -74.578304 40.904113 -74.578304",
-  "solr_geom": "ENVELOPE(-74.578304, -74.538707, 40.904113, 40.872536)",
-  "solr_year_i": "1909"
+  "dc_title_s": "Insurance maps of Dover and Wharton, Morris County, New Jersey (Sheet 10)",
+  "layer_slug_s": "princeton-2j62s699j",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

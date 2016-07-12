@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/pg15bg81w",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Ocean City",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "pg15bg81w",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fpg%2F15%2Fbg%2F81%2Fw%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "pg15bg81w",
-  "layer_slug_s": "princeton-pg15bg81w",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:02:34Z",
+  "solr_geom": "ENVELOPE(-74.654871, -74.551579, 39.307774, 39.210927)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/pg/15/bg/81/w/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/pg15bg81w",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Ocean City, Cape May County, New Jersey (Sheet 81)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1909"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "pg15bg81w",
+  "georss_polygon_s": "39.307774 -74.654871 39.307774 -74.551579 39.210927 -74.551579 39.210927 -74.654871 39.307774 -74.654871",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1909",
   "dct_spatial_sm": [
     "New Jersey",
     "Ocean City"
   ],
-  "dct_temporal_sm": [
-    "1909"
-  ],
+  "layer_id_s": "pg15bg81w",
   "georss_box_s": "39.210927 -74.654871 39.307774 -74.551579",
-  "georss_polygon_s": "39.307774 -74.654871 39.307774 -74.551579 39.210927 -74.551579 39.210927 -74.654871 39.307774 -74.654871",
-  "solr_geom": "ENVELOPE(-74.654871, -74.551579, 39.307774, 39.210927)",
-  "solr_year_i": "1909"
+  "dc_title_s": "Ocean City, Cape May County, New Jersey (Sheet 81)",
+  "layer_slug_s": "princeton-pg15bg81w",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

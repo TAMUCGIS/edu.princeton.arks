@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1870",
   "uuid": "http://arks.princeton.edu/ark:/88435/kd17cw34v",
   "dc_description_s": "The Environs of Bath",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "kd17cw34v",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/kd17cw34v/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fkd%2F17%2Fcw%2F34%2Fv%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "kd17cw34v",
-  "layer_slug_s": "princeton-kd17cw34v",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "51.2213864 -2.5196963 51.5413864 -2.1996963",
   "layer_modified_dt": "2015-01-21T22:24:17Z",
-  "dc_title_s": "The Environs of Bath",
+  "layer_id_s": "kd17cw34v",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Bath (England)",
-    "Somerset (England)"
-  ],
+  "dc_identifier_s": "kd17cw34v",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "The Environs of Bath",
+  "layer_slug_s": "princeton-kd17cw34v",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/kd17cw34v/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/kd/17/cw/34/v/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "51.5413864 -2.5196963 51.5413864 -2.1996963 51.2213864 -2.1996963 51.2213864 -2.5196963 51.5413864 -2.5196963",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1870"
   ],
-  "georss_box_s": "51.2213864 -2.5196963 51.5413864 -2.1996963",
-  "georss_polygon_s": "51.5413864 -2.5196963 51.5413864 -2.1996963 51.2213864 -2.1996963 51.2213864 -2.5196963 51.5413864 -2.5196963",
   "solr_geom": "ENVELOPE(-2.5196963, -2.1996963, 51.5413864, 51.2213864)",
-  "solr_year_i": "1870"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Bath (England)",
+    "Somerset (England)"
+  ]
 }

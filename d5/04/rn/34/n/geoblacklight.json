@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/d504rn34n",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Paulsboro",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "d504rn34n",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fd5%2F04%2Frn%2F34%2Fn%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "d504rn34n",
-  "layer_slug_s": "princeton-d504rn34n",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:04:03Z",
+  "solr_geom": "ENVELOPE(-75.257328, -75.222864, 39.852064, 39.819836)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/d5/04/rn/34/n/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/d504rn34n",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Paulsboro, Gloucester County, New Jersey (Sheet 5)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1909"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "d504rn34n",
+  "georss_polygon_s": "39.852064 -75.257328 39.852064 -75.222864 39.819836 -75.222864 39.819836 -75.257328 39.852064 -75.257328",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1909",
   "dct_spatial_sm": [
     "New Jersey",
     "Paulsboro"
   ],
-  "dct_temporal_sm": [
-    "1909"
-  ],
+  "layer_id_s": "d504rn34n",
   "georss_box_s": "39.819836 -75.257328 39.852064 -75.222864",
-  "georss_polygon_s": "39.852064 -75.257328 39.852064 -75.222864 39.819836 -75.222864 39.819836 -75.257328 39.852064 -75.257328",
-  "solr_geom": "ENVELOPE(-75.257328, -75.222864, 39.852064, 39.819836)",
-  "solr_year_i": "1909"
+  "dc_title_s": "Paulsboro, Gloucester County, New Jersey (Sheet 5)",
+  "layer_slug_s": "princeton-d504rn34n",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

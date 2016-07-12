@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1710",
   "uuid": "http://arks.princeton.edu/ark:/88435/g158bk83b",
+  "dc_description_s": "Novissima & exactissima totius regni Neapolis tabula",
+  "georss_box_s": "40.7919337 14.1394899 40.9159348 14.3537148",
+  "layer_modified_dt": "2015-01-25T02:06:20Z",
   "dc_creator_sm": [
     "McCabe, Robert A.,"
   ],
-  "dc_description_s": "Novissima & exactissima totius regni Neapolis tabula",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "g158bk83b",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/g158bk83b/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fg1%2F58%2Fbk%2F83%2F00000001.jp2/info.json\"}",
   "layer_id_s": "g158bk83b",
-  "layer_slug_s": "princeton-g158bk83b",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:20Z",
-  "dc_title_s": "Novissima & exactissima totius regni Neapolis tabula",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Naples (Italy : Province)",
-    "Naples (Kingdom)"
-  ],
+  "dc_identifier_s": "g158bk83b",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Novissima & exactissima totius regni Neapolis tabula",
+  "layer_slug_s": "princeton-g158bk83b",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/g158bk83b/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/g1/58/bk/83/b/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.9159348 14.1394899 40.9159348 14.3537148 40.7919337 14.3537148 40.7919337 14.1394899 40.9159348 14.1394899",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1710"
   ],
-  "georss_box_s": "40.7919337 14.1394899 40.9159348 14.3537148",
-  "georss_polygon_s": "40.9159348 14.1394899 40.9159348 14.3537148 40.7919337 14.3537148 40.7919337 14.1394899 40.9159348 14.1394899",
   "solr_geom": "ENVELOPE(14.1394899, 14.3537148, 40.9159348, 40.7919337)",
-  "solr_year_i": "1710"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Naples (Italy : Province)",
+    "Naples (Kingdom)"
+  ]
 }

@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1780",
   "uuid": "http://arks.princeton.edu/ark:/88435/vt150m69p",
+  "dc_description_s": "A new and correct map of North America : in which the places of the principal engagements during the present war are accurately inserted",
+  "georss_box_s": "28.0 -99.0 53.0 -51.0",
+  "layer_modified_dt": "2015-01-19T22:37:08Z",
   "dc_creator_sm": [
     "Bew, John,"
   ],
-  "dc_description_s": "A new and correct map of North America : in which the places of the principal engagements during the present war are accurately inserted",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "vt150m69p",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/vt150m69p/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fvt%2F15%2F0m%2F69%2Fp%2F00000001.jp2/info.json\"}",
   "layer_id_s": "vt150m69p",
-  "layer_slug_s": "princeton-vt150m69p",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:08Z",
-  "dc_title_s": "A new and correct map of North America : in which the places of the principal engagements during the present war are accurately inserted",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "United States",
-    "United States"
-  ],
+  "dc_identifier_s": "vt150m69p",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "A new and correct map of North America : in which the places of the principal engagements during the present war are accurately inserted",
+  "layer_slug_s": "princeton-vt150m69p",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/vt150m69p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/vt/15/0m/69/p/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "53.0 -99.0 53.0 -51.0 28.0 -51.0 28.0 -99.0 53.0 -99.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1780"
   ],
-  "georss_box_s": "28.0 -99.0 53.0 -51.0",
-  "georss_polygon_s": "53.0 -99.0 53.0 -51.0 28.0 -51.0 28.0 -99.0 53.0 -99.0",
   "solr_geom": "ENVELOPE(-99.0, -51.0, 53.0, 28.0)",
-  "solr_year_i": "1780"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "United States",
+    "United States"
+  ]
 }

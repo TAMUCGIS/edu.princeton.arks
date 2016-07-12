@@ -1,32 +1,32 @@
 {
+  "solr_year_i": "1721",
   "uuid": "http://arks.princeton.edu/ark:/88435/9s161807g",
+  "dc_description_s": "A new map of the English empire in America : viz. Virginia, Maryland, Carolina, New York, New Iarsey, New England, Pennsylvania, Newfoundland, New France &c. /",
+  "georss_box_s": "25.0 -95.0 52.0 -53.0",
+  "layer_modified_dt": "2015-01-19T22:36:54Z",
   "dc_creator_sm": [
     "Harris, John,",
     "Senex, John,",
     "Morden, Robert,",
     "Fox, N. B.,"
   ],
-  "dc_description_s": "A new map of the English empire in America : viz. Virginia, Maryland, Carolina, New York, New Iarsey, New England, Pennsylvania, Newfoundland, New France &c. /",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "9s161807g",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/9s161807g/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F9s%2F16%2F18%2F07%2Fg%2F00000001.jp2/info.json\"}",
   "layer_id_s": "9s161807g",
-  "layer_slug_s": "princeton-9s161807g",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:36:54Z",
-  "dc_title_s": "A new map of the English empire in America : viz. Virginia, Maryland, Carolina, New York, New Iarsey, New England, Pennsylvania, Newfoundland, New France &c. /",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "North America",
-    "Great Britain"
-  ],
+  "dc_identifier_s": "9s161807g",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "A new map of the English empire in America : viz. Virginia, Maryland, Carolina, New York, New Iarsey, New England, Pennsylvania, Newfoundland, New France &c. /",
+  "layer_slug_s": "princeton-9s161807g",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/9s161807g/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/9s/16/18/07/g/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "52.0 -95.0 52.0 -53.0 25.0 -53.0 25.0 -95.0 52.0 -95.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1721"
   ],
-  "georss_box_s": "25.0 -95.0 52.0 -53.0",
-  "georss_polygon_s": "52.0 -95.0 52.0 -53.0 25.0 -53.0 25.0 -95.0 52.0 -95.0",
   "solr_geom": "ENVELOPE(-95.0, -53.0, 52.0, 25.0)",
-  "solr_year_i": "1721"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "North America",
+    "Great Britain"
+  ]
 }

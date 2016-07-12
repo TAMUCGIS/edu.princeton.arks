@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1947",
   "uuid": "http://arks.princeton.edu/ark:/88435/73666635g",
   "dc_description_s": "World iron ore reserves",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "73666635g",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/73666635g/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F73%2F66%2F66%2F35%2Fg%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "73666635g",
-  "layer_slug_s": "princeton-73666635g",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "-90.00000 -180.00000 90.00000 180.00000",
   "layer_modified_dt": "2015-01-19T22:36:50Z",
-  "dc_title_s": "World iron ore reserves",
+  "layer_id_s": "73666635g",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "World"
-  ],
+  "dc_identifier_s": "73666635g",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "World iron ore reserves",
+  "layer_slug_s": "princeton-73666635g",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/73666635g/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/73/66/66/35/g/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "90.00000 -180.00000 90.00000 180.00000 -90.00000 180.00000 -90.00000 -180.00000 90.00000 -180.00000",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1947"
   ],
-  "georss_box_s": "-90.00000 -180.00000 90.00000 180.00000",
-  "georss_polygon_s": "90.00000 -180.00000 90.00000 180.00000 -90.00000 180.00000 -90.00000 -180.00000 90.00000 -180.00000",
   "solr_geom": "ENVELOPE(-180.00000, 180.00000, 90.00000, -90.00000)",
-  "solr_year_i": "1947"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "World"
+  ]
 }

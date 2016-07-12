@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/2v23vw62f",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Franklin",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "2v23vw62f",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F2v%2F23%2Fvw%2F62%2Ff%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "2v23vw62f",
-  "layer_slug_s": "princeton-2v23vw62f",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:08:19Z",
+  "solr_geom": "ENVELOPE(-74.609812, -74.569941, 41.138151, 41.085096)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/2v/23/vw/62/f/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/2v23vw62f",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Franklin, Sussex County, New Jersey (Sheet 8).",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1920"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "2v23vw62f",
+  "georss_polygon_s": "41.138151 -74.609812 41.138151 -74.569941 41.085096 -74.569941 41.085096 -74.609812 41.138151 -74.609812",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1920",
   "dct_spatial_sm": [
     "New Jersey",
     "Franklin"
   ],
-  "dct_temporal_sm": [
-    "1920"
-  ],
+  "layer_id_s": "2v23vw62f",
   "georss_box_s": "41.085096 -74.609812 41.138151 -74.569941",
-  "georss_polygon_s": "41.138151 -74.609812 41.138151 -74.569941 41.085096 -74.569941 41.085096 -74.609812 41.138151 -74.609812",
-  "solr_geom": "ENVELOPE(-74.609812, -74.569941, 41.138151, 41.085096)",
-  "solr_year_i": "1920"
+  "dc_title_s": "Franklin, Sussex County, New Jersey (Sheet 8).",
+  "layer_slug_s": "princeton-2v23vw62f",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

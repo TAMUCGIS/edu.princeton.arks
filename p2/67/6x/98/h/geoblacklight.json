@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1493",
   "uuid": "http://arks.princeton.edu/ark:/88435/p2676x98h",
+  "dc_description_s": "Rhodis",
+  "georss_box_s": "36.4128963 28.2054335 36.4582939 28.2407983",
+  "layer_modified_dt": "2015-01-21T22:24:02Z",
   "dc_creator_sm": [
     "Schedel, Hartmann,",
     "Koberger, Anton,"
   ],
-  "dc_description_s": "Rhodis",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "p2676x98h",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/p2676x98h/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fp2%2F67%2F6x%2F98%2Fh%2F00000001.jp2/info.json\"}",
   "layer_id_s": "p2676x98h",
-  "layer_slug_s": "princeton-p2676x98h",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:02Z",
-  "dc_title_s": "Rhodis",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Rhodes (Greece)"
-  ],
+  "dc_identifier_s": "p2676x98h",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Rhodis",
+  "layer_slug_s": "princeton-p2676x98h",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/p2676x98h/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/p2/67/6x/98/h/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "36.4582939 28.2054335 36.4582939 28.2407983 36.4128963 28.2407983 36.4128963 28.2054335 36.4582939 28.2054335",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1493"
   ],
-  "georss_box_s": "36.4128963 28.2054335 36.4582939 28.2407983",
-  "georss_polygon_s": "36.4582939 28.2054335 36.4582939 28.2407983 36.4128963 28.2407983 36.4128963 28.2054335 36.4582939 28.2054335",
   "solr_geom": "ENVELOPE(28.2054335, 28.2407983, 36.4582939, 36.4128963)",
-  "solr_year_i": "1493"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Rhodes (Greece)"
+  ]
 }

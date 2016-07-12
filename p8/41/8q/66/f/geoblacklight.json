@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1863",
   "uuid": "http://arks.princeton.edu/ark:/88435/p8418q66f",
   "dc_description_s": "South America, west coast, sheet IX : Chile and Bolivia : Herradura to Grande Point",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "p8418q66f",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/p8418q66f/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fp8%2F41%2F8q%2F66%2Ff%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "p8418q66f",
-  "layer_slug_s": "princeton-p8418q66f",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "-29.0 -72.0 -25.0 -70.0",
   "layer_modified_dt": "2015-01-19T22:37:15Z",
-  "dc_title_s": "South America, west coast, sheet IX : Chile and Bolivia : Herradura to Grande Point",
+  "layer_id_s": "p8418q66f",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Chile"
-  ],
+  "dc_identifier_s": "p8418q66f",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "South America, west coast, sheet IX : Chile and Bolivia : Herradura to Grande Point",
+  "layer_slug_s": "princeton-p8418q66f",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/p8418q66f/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/p8/41/8q/66/f/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "-25.0 -72.0 -25.0 -70.0 -29.0 -70.0 -29.0 -72.0 -25.0 -72.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1863"
   ],
-  "georss_box_s": "-29.0 -72.0 -25.0 -70.0",
-  "georss_polygon_s": "-25.0 -72.0 -25.0 -70.0 -29.0 -70.0 -29.0 -72.0 -25.0 -72.0",
   "solr_geom": "ENVELOPE(-72.0, -70.0, -25.0, -29.0)",
-  "solr_year_i": "1863"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Chile"
+  ]
 }

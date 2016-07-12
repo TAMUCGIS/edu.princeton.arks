@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1783",
   "uuid": "http://arks.princeton.edu/ark:/88435/n870zt24v",
+  "dc_description_s": "Carte generale des colonies angloises dans l'Amerique Septentrionale pour l'intelligence de la guerre presente, d'apres des manuscrit anglais par J.B. Nolin geographe. Corrige\u0301, augmente\u0301 des indications des principaux e\u0301venemens de la guerre avec le tracee des limites pour constituer le traite\u0301 de paix propose\u0301 entre la Couronne de la Grande Bretagne et les Etats Unis[map],",
+  "georss_box_s": "-14.7608357 -179.9999999 71.6048217 180",
+  "layer_modified_dt": "2015-01-21T22:24:03Z",
   "dc_creator_sm": [
     "Nolin, Jean Baptiste,",
     "Denis, Louis,"
   ],
-  "dc_description_s": "Carte generale des colonies angloises dans l'Amerique Septentrionale pour l'intelligence de la guerre presente, d'apres des manuscrit anglais par J.B. Nolin geographe. Corrigé, augmenté des indications des principaux évenemens de la guerre avec le tracee des limites pour constituer le traité de paix proposé entre la Couronne de la Grande Bretagne et les Etats Unis[map],",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "n870zt24v",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/n870zt24v/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fn8%2F70%2Fzt%2F24%2Fv%2F00000001.jp2/info.json\"}",
   "layer_id_s": "n870zt24v",
-  "layer_slug_s": "princeton-n870zt24v",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:03Z",
-  "dc_title_s": "Carte generale des colonies angloises dans l'Amerique Septentrionale pour l'intelligence de la guerre presente, d'apres des manuscrit anglais par J.B. Nolin geographe. Corrigé, augmenté des indications des principaux évenemens de la guerre avec le tracee des limites pour constituer le traité de paix proposé entre la Couronne de la Grande Bretagne et les Etats Unis[map],",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "United States",
-    "United States"
-  ],
+  "dc_identifier_s": "n870zt24v",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Carte generale des colonies angloises dans l'Amerique Septentrionale pour l'intelligence de la guerre presente, d'apres des manuscrit anglais par J.B. Nolin geographe. Corrige\u0301, augmente\u0301 des indications des principaux e\u0301venemens de la guerre avec le tracee des limites pour constituer le traite\u0301 de paix propose\u0301 entre la Couronne de la Grande Bretagne et les Etats Unis[map],",
+  "layer_slug_s": "princeton-n870zt24v",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/n870zt24v/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/n8/70/zt/24/v/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "71.6048217 -179.9999999 71.6048217 180 -14.7608357 180 -14.7608357 -179.9999999 71.6048217 -179.9999999",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1783"
   ],
-  "georss_box_s": "-14.7608357 -179.9999999 71.6048217 180",
-  "georss_polygon_s": "71.6048217 -179.9999999 71.6048217 180 -14.7608357 180 -14.7608357 -179.9999999 71.6048217 -179.9999999",
   "solr_geom": "ENVELOPE(-179.9999999, 180, 71.6048217, -14.7608357)",
-  "solr_year_i": "1783"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "United States",
+    "United States"
+  ]
 }

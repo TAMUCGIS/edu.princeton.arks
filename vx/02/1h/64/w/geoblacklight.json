@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1564",
   "uuid": "http://arks.princeton.edu/ark:/88435/vx021h64w",
   "dc_description_s": "La Marca d'Ancona",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "vx021h64w",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/vx021h64w/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fvx%2F02%2F1h%2F64%2Fw%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "vx021h64w",
-  "layer_slug_s": "princeton-vx021h64w",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "43.532833 13.4208746 43.6314669 13.5498571",
   "layer_modified_dt": "2015-01-25T02:06:21Z",
-  "dc_title_s": "La Marca d'Ancona",
+  "layer_id_s": "vx021h64w",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Ancona (Italy : Province)"
-  ],
+  "dc_identifier_s": "vx021h64w",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "La Marca d'Ancona",
+  "layer_slug_s": "princeton-vx021h64w",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/vx021h64w/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/vx/02/1h/64/w/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "43.6314669 13.4208746 43.6314669 13.5498571 43.532833 13.5498571 43.532833 13.4208746 43.6314669 13.4208746",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1564"
   ],
-  "georss_box_s": "43.532833 13.4208746 43.6314669 13.5498571",
-  "georss_polygon_s": "43.6314669 13.4208746 43.6314669 13.5498571 43.532833 13.5498571 43.532833 13.4208746 43.6314669 13.4208746",
   "solr_geom": "ENVELOPE(13.4208746, 13.5498571, 43.6314669, 43.532833)",
-  "solr_year_i": "1564"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Ancona (Italy : Province)"
+  ]
 }

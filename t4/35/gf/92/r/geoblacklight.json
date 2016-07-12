@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1606",
   "uuid": "http://arks.princeton.edu/ark:/88435/t435gf92r",
+  "dc_description_s": "Pontos Euxeinos = Pontus Euxinus : \u00e6quor Iasonio pulsatum remige primum",
+  "georss_box_s": "43.0786352 34.7425005 43.0787352 34.7426005",
+  "layer_modified_dt": "2015-01-21T22:23:52Z",
   "dc_creator_sm": [
     "Ortelius, Abraham,",
     "McCabe, Robert A.,"
   ],
-  "dc_description_s": "Pontos Euxeinos = Pontus Euxinus : æquor Iasonio pulsatum remige primum",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "t435gf92r",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/t435gf92r/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ft4%2F35%2Fgf%2F92%2Fr%2F00000001.jp2/info.json\"}",
   "layer_id_s": "t435gf92r",
-  "layer_slug_s": "princeton-t435gf92r",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:52Z",
-  "dc_title_s": "Pontos Euxeinos = Pontus Euxinus : æquor Iasonio pulsatum remige primum",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Black Sea"
-  ],
+  "dc_identifier_s": "t435gf92r",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Pontos Euxeinos = Pontus Euxinus : \u00e6quor Iasonio pulsatum remige primum",
+  "layer_slug_s": "princeton-t435gf92r",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/t435gf92r/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/t4/35/gf/92/r/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "43.0787352 34.7425005 43.0787352 34.7426005 43.0786352 34.7426005 43.0786352 34.7425005 43.0787352 34.7425005",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1606"
   ],
-  "georss_box_s": "43.0786352 34.7425005 43.0787352 34.7426005",
-  "georss_polygon_s": "43.0787352 34.7425005 43.0787352 34.7426005 43.0786352 34.7426005 43.0786352 34.7425005 43.0787352 34.7425005",
   "solr_geom": "ENVELOPE(34.7425005, 34.7426005, 43.0787352, 43.0786352)",
-  "solr_year_i": "1606"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Black Sea"
+  ]
 }

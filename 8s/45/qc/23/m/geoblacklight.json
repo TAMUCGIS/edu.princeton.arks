@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1584",
   "uuid": "http://arks.princeton.edu/ark:/88435/8s45qc23m",
+  "dc_description_s": "Belgii veteris typus",
+  "georss_box_s": "49.4969821 2.3889137 51.5516667 6.4080405",
+  "layer_modified_dt": "2015-01-21T22:24:09Z",
   "dc_creator_sm": [
     "Ortelius, Abraham,"
   ],
-  "dc_description_s": "Belgii veteris typus",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "8s45qc23m",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/8s45qc23m/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F8s%2F45%2Fqc%2F23%2Fm%2F00000001.jp2/info.json\"}",
   "layer_id_s": "8s45qc23m",
-  "layer_slug_s": "princeton-8s45qc23m",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:09Z",
-  "dc_title_s": "Belgii veteris typus",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Belgium",
-    "Netherlands"
-  ],
+  "dc_identifier_s": "8s45qc23m",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Belgii veteris typus",
+  "layer_slug_s": "princeton-8s45qc23m",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/8s45qc23m/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/8s/45/qc/23/m/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "51.5516667 2.3889137 51.5516667 6.4080405 49.4969821 6.4080405 49.4969821 2.3889137 51.5516667 2.3889137",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1584"
   ],
-  "georss_box_s": "49.4969821 2.3889137 51.5516667 6.4080405",
-  "georss_polygon_s": "51.5516667 2.3889137 51.5516667 6.4080405 49.4969821 6.4080405 49.4969821 2.3889137 51.5516667 2.3889137",
   "solr_geom": "ENVELOPE(2.3889137, 6.4080405, 51.5516667, 49.4969821)",
-  "solr_year_i": "1584"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Belgium",
+    "Netherlands"
+  ]
 }

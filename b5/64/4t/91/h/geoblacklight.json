@@ -1,32 +1,32 @@
 {
+  "solr_year_i": "1827",
   "uuid": "http://arks.princeton.edu/ark:/88435/b5644t91h",
+  "dc_description_s": "Grand Banc de Terre-Neuve",
+  "georss_box_s": "42.0 -57.6666666667 48.0 -47.6666666667",
+  "layer_modified_dt": "2015-01-19T22:37:03Z",
   "dc_creator_sm": [
     "Ode, H.",
     "Lippens, Ph.",
     "Vandermaelen, Philippe,"
   ],
-  "dc_description_s": "Grand Banc de Terre-Neuve",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "b5644t91h",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/b5644t91h/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F5%2F64%2F4t%2F91%2Fh%2F00000001.jp2/info.json\"}",
   "layer_id_s": "b5644t91h",
-  "layer_slug_s": "princeton-b5644t91h",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:03Z",
-  "dc_title_s": "Grand Banc de Terre-Neuve",
   "dc_type_s": "Image",
+  "dc_identifier_s": "b5644t91h",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Grand Banc de Terre-Neuve",
+  "layer_slug_s": "princeton-b5644t91h",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/b5644t91h/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/b5/64/4t/91/h/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "48.0 -57.6666666667 48.0 -47.6666666667 42.0 -47.6666666667 42.0 -57.6666666667 48.0 -57.6666666667",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1827"
+  ],
+  "solr_geom": "ENVELOPE(-57.6666666667, -47.6666666667, 48.0, 42.0)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Newfoundland and Labrador",
     "Saint Pierre and Miquelon",
     "Grand Banks of Newfoundland"
-  ],
-  "dct_temporal_sm": [
-    "1827"
-  ],
-  "georss_box_s": "42.0 -57.6666666667 48.0 -47.6666666667",
-  "georss_polygon_s": "48.0 -57.6666666667 48.0 -47.6666666667 42.0 -47.6666666667 42.0 -57.6666666667 48.0 -57.6666666667",
-  "solr_geom": "ENVELOPE(-57.6666666667, -47.6666666667, 48.0, 42.0)",
-  "solr_year_i": "1827"
+  ]
 }

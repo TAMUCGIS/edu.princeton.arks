@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1924",
   "uuid": "http://arks.princeton.edu/ark:/88435/kd17cv677",
+  "dc_description_s": "Carte geologique detaillee de la France [a 1/80 000]: Alencon.",
+  "georss_box_s": "48.39980 -0.70990 48.75950 0.16010",
+  "layer_modified_dt": "2015-01-19T22:36:37Z",
   "dc_creator_sm": [
     "Termier, Pierre"
   ],
-  "dc_description_s": "Carte geologique detaillee de la France [a 1/80 000]: Alencon.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "kd17cv677",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/kd17cv677/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fkd%2F17%2Fcv%2F67%2F7%2F00000001.jp2/info.json\"}",
   "layer_id_s": "kd17cv677",
-  "layer_slug_s": "princeton-kd17cv677",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:36:37Z",
-  "dc_title_s": "Carte geologique detaillee de la France [a 1/80 000]: Alencon.",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "France"
-  ],
+  "dc_identifier_s": "kd17cv677",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Carte geologique detaillee de la France [a 1/80 000]: Alencon.",
+  "layer_slug_s": "princeton-kd17cv677",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/kd17cv677/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/kd/17/cv/67/7/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "48.75950 -0.70990 48.75950 0.16010 48.39980 0.16010 48.39980 -0.70990 48.75950 -0.70990",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1924"
   ],
-  "georss_box_s": "48.39980 -0.70990 48.75950 0.16010",
-  "georss_polygon_s": "48.75950 -0.70990 48.75950 0.16010 48.39980 0.16010 48.39980 -0.70990 48.75950 -0.70990",
   "solr_geom": "ENVELOPE(-0.70990, 0.16010, 48.75950, 48.39980)",
-  "solr_year_i": "1924"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "France"
+  ]
 }

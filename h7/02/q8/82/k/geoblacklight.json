@@ -1,32 +1,32 @@
 {
+  "solr_year_i": "1794",
   "uuid": "http://arks.princeton.edu/ark:/88435/h702q882k",
+  "dc_description_s": "Le provincie di Quito, Lima, e Plata",
+  "georss_box_s": "-55.1906485 -73.5665893 -21.7811679 -53.6374514",
+  "layer_modified_dt": "2015-01-21T22:24:05Z",
   "dc_creator_sm": [
     "Pitteri, Giovanni Marco,",
     "Zatta, Antonio,"
   ],
-  "dc_description_s": "Le provincie di Quito, Lima, e Plata",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "h702q882k",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/h702q882k/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fh7%2F02%2Fq8%2F82%2Fk%2F00000001.jp2/info.json\"}",
   "layer_id_s": "h702q882k",
-  "layer_slug_s": "princeton-h702q882k",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:05Z",
-  "dc_title_s": "Le provincie di Quito, Lima, e Plata",
   "dc_type_s": "Image",
+  "dc_identifier_s": "h702q882k",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Le provincie di Quito, Lima, e Plata",
+  "layer_slug_s": "princeton-h702q882k",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/h702q882k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/h7/02/q8/82/k/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "-21.7811679 -73.5665893 -21.7811679 -53.6374514 -55.1906485 -53.6374514 -55.1906485 -73.5665893 -21.7811679 -73.5665893",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1794"
+  ],
+  "solr_geom": "ENVELOPE(-73.5665893, -53.6374514, -21.7811679, -55.1906485)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Argentina",
     "Chile",
     "Ecuador",
     "Peru"
-  ],
-  "dct_temporal_sm": [
-    "1794"
-  ],
-  "georss_box_s": "-55.1906485 -73.5665893 -21.7811679 -53.6374514",
-  "georss_polygon_s": "-21.7811679 -73.5665893 -21.7811679 -53.6374514 -55.1906485 -53.6374514 -55.1906485 -73.5665893 -21.7811679 -73.5665893",
-  "solr_geom": "ENVELOPE(-73.5665893, -53.6374514, -21.7811679, -55.1906485)",
-  "solr_year_i": "1794"
+  ]
 }

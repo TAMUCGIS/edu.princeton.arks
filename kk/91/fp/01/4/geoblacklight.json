@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1912",
   "uuid": "http://arks.princeton.edu/ark:/88435/kk91fp014",
   "dc_description_s": "South America detail maps",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "kk91fp014",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/kk91fp014/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fkk%2F91%2Ffp%2F01%2F4%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "kk91fp014",
-  "layer_slug_s": "princeton-kk91fp014",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "-21.0000498 -61.0000502 -20.9999498 -60.9999502",
   "layer_modified_dt": "2015-01-21T22:24:08Z",
-  "dc_title_s": "South America detail maps",
+  "layer_id_s": "kk91fp014",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "South America"
-  ],
+  "dc_identifier_s": "kk91fp014",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "South America detail maps",
+  "layer_slug_s": "princeton-kk91fp014",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/kk91fp014/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/kk/91/fp/01/4/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "-20.9999498 -61.0000502 -20.9999498 -60.9999502 -21.0000498 -60.9999502 -21.0000498 -61.0000502 -20.9999498 -61.0000502",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1912"
   ],
-  "georss_box_s": "-21.0000498 -61.0000502 -20.9999498 -60.9999502",
-  "georss_polygon_s": "-20.9999498 -61.0000502 -20.9999498 -60.9999502 -21.0000498 -60.9999502 -21.0000498 -61.0000502 -20.9999498 -61.0000502",
   "solr_geom": "ENVELOPE(-61.0000502, -60.9999502, -20.9999498, -21.0000498)",
-  "solr_year_i": "1912"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "South America"
+  ]
 }

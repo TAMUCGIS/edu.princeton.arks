@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/kw52jb312",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Newark",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "kw52jb312",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fkw%2F52%2Fjb%2F31%2F2%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "kw52jb312",
-  "layer_slug_s": "princeton-kw52jb312",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:08:37Z",
+  "solr_geom": "ENVELOPE(-74.251324, -74.112787, 40.788664, 40.674018)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/kw/52/jb/31/2/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/kw52jb312",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Insurance maps of Newark, New Jersey : volume one (Sheet 13).",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1930"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "kw52jb312",
+  "georss_polygon_s": "40.788664 -74.251324 40.788664 -74.112787 40.674018 -74.112787 40.674018 -74.251324 40.788664 -74.251324",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1930",
   "dct_spatial_sm": [
     "New Jersey",
     "Newark"
   ],
-  "dct_temporal_sm": [
-    "1930"
-  ],
+  "layer_id_s": "kw52jb312",
   "georss_box_s": "40.674018 -74.251324 40.788664 -74.112787",
-  "georss_polygon_s": "40.788664 -74.251324 40.788664 -74.112787 40.674018 -74.112787 40.674018 -74.251324 40.788664 -74.251324",
-  "solr_geom": "ENVELOPE(-74.251324, -74.112787, 40.788664, 40.674018)",
-  "solr_year_i": "1930"
+  "dc_title_s": "Insurance maps of Newark, New Jersey : volume one (Sheet 13).",
+  "layer_slug_s": "princeton-kw52jb312",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

@@ -1,29 +1,27 @@
 {
+  "solr_year_i": "1893",
   "uuid": "http://arks.princeton.edu/ark:/88435/nk322g15t",
+  "dc_description_s": "Map of the extinct Lake Passaic showing its outline, the position of the present shore features and the deformation which its shores have suffered.",
+  "georss_box_s": "40.46667 -74.63333 40.96667 -74.18333",
+  "layer_modified_dt": "2015-01-19T22:36:35Z",
   "dc_creator_sm": [
     "Salisbury, Rollin D.",
     "Kummel, Henry B."
   ],
-  "dc_description_s": "Map of the extinct Lake Passaic showing its outline, the position of the present shore features and the deformation which its shores have suffered.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "nk322g15t",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/nk322g15t/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fnk%2F32%2F2g%2F15%2Ft%2F00000001.jp2/info.json\"}",
   "layer_id_s": "nk322g15t",
-  "layer_slug_s": "princeton-nk322g15t",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:36:35Z",
-  "dc_title_s": "Map of the extinct Lake Passaic showing its outline, the position of the present shore features and the deformation which its shores have suffered.",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "nk322g15t",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Map of the extinct Lake Passaic showing its outline, the position of the present shore features and the deformation which its shores have suffered.",
+  "layer_slug_s": "princeton-nk322g15t",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/nk322g15t/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/nk/32/2g/15/t/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.96667 -74.63333 40.96667 -74.18333 40.46667 -74.18333 40.46667 -74.63333 40.96667 -74.63333",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1893"
   ],
-  "georss_box_s": "40.46667 -74.63333 40.96667 -74.18333",
-  "georss_polygon_s": "40.96667 -74.63333 40.96667 -74.18333 40.46667 -74.18333 40.46667 -74.63333 40.96667 -74.63333",
   "solr_geom": "ENVELOPE(-74.63333, -74.18333, 40.96667, 40.46667)",
-  "solr_year_i": "1893"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

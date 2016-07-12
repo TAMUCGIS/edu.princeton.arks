@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/h989r5051",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Lambertville",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "h989r5051",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fh9%2F89%2Fr5%2F05%2F1%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "h989r5051",
-  "layer_slug_s": "princeton-h989r5051",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:01:43Z",
+  "solr_geom": "ENVELOPE(-74.952476, -74.930037, 40.385805, 40.355201)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/h9/89/r5/05/1/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/h989r5051",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Lambertville (Sheet 3), Hunterdon County, New Jersey",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1912"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "h989r5051",
+  "georss_polygon_s": "40.385805 -74.952476 40.385805 -74.930037 40.355201 -74.930037 40.355201 -74.952476 40.385805 -74.952476",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1912",
   "dct_spatial_sm": [
     "New Jersey",
     "Lambertville"
   ],
-  "dct_temporal_sm": [
-    "1912"
-  ],
+  "layer_id_s": "h989r5051",
   "georss_box_s": "40.355201 -74.952476 40.385805 -74.930037",
-  "georss_polygon_s": "40.385805 -74.952476 40.385805 -74.930037 40.355201 -74.930037 40.355201 -74.952476 40.385805 -74.952476",
-  "solr_geom": "ENVELOPE(-74.952476, -74.930037, 40.385805, 40.355201)",
-  "solr_year_i": "1912"
+  "dc_title_s": "Lambertville (Sheet 3), Hunterdon County, New Jersey",
+  "layer_slug_s": "princeton-h989r5051",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1895",
   "uuid": "http://arks.princeton.edu/ark:/88435/dz010s53p",
+  "dc_description_s": "Wandkarte von Pala\u0308stina zur biblischen Geschichte",
+  "georss_box_s": "29.4533796 34.2676025 33.3356317 35.8950234",
+  "layer_modified_dt": "2015-01-25T02:06:16Z",
   "dc_creator_sm": [
     "Guthe, Hermann."
   ],
-  "dc_description_s": "Wandkarte von Palästina zur biblischen Geschichte",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "dz010s53p",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/dz010s53p/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fdz%2F01%2F0s%2F53%2Fp%2F00000001.jp2/info.json\"}",
   "layer_id_s": "dz010s53p",
-  "layer_slug_s": "princeton-dz010s53p",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:16Z",
-  "dc_title_s": "Wandkarte von Palästina zur biblischen Geschichte",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Palestine"
-  ],
+  "dc_identifier_s": "dz010s53p",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Wandkarte von Pala\u0308stina zur biblischen Geschichte",
+  "layer_slug_s": "princeton-dz010s53p",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/dz010s53p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/dz/01/0s/53/p/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "33.3356317 34.2676025 33.3356317 35.8950234 29.4533796 35.8950234 29.4533796 34.2676025 33.3356317 34.2676025",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1895"
   ],
-  "georss_box_s": "29.4533796 34.2676025 33.3356317 35.8950234",
-  "georss_polygon_s": "33.3356317 34.2676025 33.3356317 35.8950234 29.4533796 35.8950234 29.4533796 34.2676025 33.3356317 34.2676025",
   "solr_geom": "ENVELOPE(34.2676025, 35.8950234, 33.3356317, 29.4533796)",
-  "solr_year_i": "1895"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Palestine"
+  ]
 }

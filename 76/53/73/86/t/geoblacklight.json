@@ -1,29 +1,27 @@
 {
+  "solr_year_i": "1927",
   "uuid": "http://arks.princeton.edu/ark:/88435/76537386t",
+  "dc_description_s": "Road map of Mercer County, New Jersey.",
+  "georss_box_s": "40.136843 -74.941622 40.424156 -74.481202",
+  "layer_modified_dt": "2015-01-25T02:06:18Z",
   "dc_creator_sm": [
     "Harris, Harry F.",
     "Delaney, John M."
   ],
-  "dc_description_s": "Road map of Mercer County, New Jersey.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "76537386t",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/76537386t/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F76%2F53%2F73%2F86%2Ft%2F00000001.jp2/info.json\"}",
   "layer_id_s": "76537386t",
-  "layer_slug_s": "princeton-76537386t",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:18Z",
-  "dc_title_s": "Road map of Mercer County, New Jersey.",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "76537386t",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Road map of Mercer County, New Jersey.",
+  "layer_slug_s": "princeton-76537386t",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/76537386t/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/76/53/73/86/t/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.424156 -74.941622 40.424156 -74.481202 40.136843 -74.481202 40.136843 -74.941622 40.424156 -74.941622",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1927"
   ],
-  "georss_box_s": "40.136843 -74.941622 40.424156 -74.481202",
-  "georss_polygon_s": "40.424156 -74.941622 40.424156 -74.481202 40.136843 -74.481202 40.136843 -74.941622 40.424156 -74.941622",
   "solr_geom": "ENVELOPE(-74.941622, -74.481202, 40.424156, 40.136843)",
-  "solr_year_i": "1927"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

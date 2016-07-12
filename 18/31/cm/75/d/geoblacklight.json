@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1945",
   "uuid": "http://arks.princeton.edu/ark:/88435/1831cm75d",
   "dc_description_s": "[Numazu, Japan]. Administrative unit names, administrative names and locations are correct to October 1945.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "1831cm75d",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/1831cm75d/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F18%2F31%2Fcm%2F75%2Fd%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "1831cm75d",
-  "layer_slug_s": "princeton-1831cm75d",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "35.0666666667 138.833333333 35.1166666667 138.883333333",
   "layer_modified_dt": "2015-01-19T22:36:34Z",
-  "dc_title_s": "[Numazu, Japan]. Administrative unit names, administrative names and locations are correct to October 1945.",
+  "layer_id_s": "1831cm75d",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Japan"
-  ],
+  "dc_identifier_s": "1831cm75d",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "[Numazu, Japan]. Administrative unit names, administrative names and locations are correct to October 1945.",
+  "layer_slug_s": "princeton-1831cm75d",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/1831cm75d/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/18/31/cm/75/d/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "35.1166666667 138.833333333 35.1166666667 138.883333333 35.0666666667 138.883333333 35.0666666667 138.833333333 35.1166666667 138.833333333",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1945"
   ],
-  "georss_box_s": "35.0666666667 138.833333333 35.1166666667 138.883333333",
-  "georss_polygon_s": "35.1166666667 138.833333333 35.1166666667 138.883333333 35.0666666667 138.883333333 35.0666666667 138.833333333 35.1166666667 138.833333333",
   "solr_geom": "ENVELOPE(138.833333333, 138.883333333, 35.1166666667, 35.0666666667)",
-  "solr_year_i": "1945"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Japan"
+  ]
 }

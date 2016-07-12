@@ -2,7 +2,7 @@
   "dc_description_s": "This is a map of the city of Hokko, Taiwan, shown at a 1:6,000 scale. The map was created for use by War and Navy Department agencies during World War II.",
   "layer_modified_dt": "2015-01-11T17:43:37Z",
   "solr_geom": "ENVELOPE(120.2667, 120.300, 23.5667, 23.5500)",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F28%2F01%2Fpj%2F08%2Fm%2F00000001.jp2/info.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/2801pj08m/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/2801pj08m/preview.jpg\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/2801pj08m/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/28/01/pj/08/m/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/2801pj08m/preview.jpg\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/2801pj08m",
   "dct_provenance_s": "Princeton",
@@ -17,7 +17,7 @@
     "Facilities and Structures"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "1945",
+  "layer_slug_s": "princeton-2801pj08m",
   "dc_creator_sm": [
     "Army Map Service"
   ],
@@ -35,7 +35,7 @@
   "layer_id_s": "2801pj08m",
   "georss_box_s": "23.5500 120.2667 23.5667 120.300",
   "dc_title_s": "Hokko, Formosa (Taiwan), Tainan-Shu. A.M.S. L991.",
-  "layer_slug_s": "princeton-2801pj08m",
+  "dct_issued_s": "1945",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

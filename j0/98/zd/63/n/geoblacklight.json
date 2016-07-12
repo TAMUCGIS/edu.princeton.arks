@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1915",
   "uuid": "http://arks.princeton.edu/ark:/88435/j098zd63n",
-  "dc_description_s": "Boćki",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "j098zd63n",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/j098zd63n/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F0%2F98%2Fzd%2F63%2Fn%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "j098zd63n",
-  "layer_slug_s": "princeton-j098zd63n",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Boc\u0301ki",
+  "georss_box_s": "52.63205 23.0251 52.67205 23.0651",
   "layer_modified_dt": "2015-01-21T22:24:29Z",
-  "dc_title_s": "Boćki",
+  "layer_id_s": "j098zd63n",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Boćki (Poland)"
-  ],
+  "dc_identifier_s": "j098zd63n",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Boc\u0301ki",
+  "layer_slug_s": "princeton-j098zd63n",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/j098zd63n/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/j0/98/zd/63/n/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "52.67205 23.0251 52.67205 23.0651 52.63205 23.0651 52.63205 23.0251 52.67205 23.0251",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1915"
   ],
-  "georss_box_s": "52.63205 23.0251 52.67205 23.0651",
-  "georss_polygon_s": "52.67205 23.0251 52.67205 23.0651 52.63205 23.0651 52.63205 23.0251 52.67205 23.0251",
   "solr_geom": "ENVELOPE(23.0251, 23.0651, 52.67205, 52.63205)",
-  "solr_year_i": "1915"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Boc\u0301ki (Poland)"
+  ]
 }

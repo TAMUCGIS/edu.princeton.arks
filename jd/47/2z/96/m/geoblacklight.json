@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1891",
   "uuid": "http://arks.princeton.edu/ark:/88435/jd472z96m",
-  "dc_description_s": "Karte der Umgegend von Giessen : mit Angabe römischer und germanischer Antiquitäten",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "jd472z96m",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/jd472z96m/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fd%2F47%2F2z%2F96%2Fm%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "jd472z96m",
-  "layer_slug_s": "princeton-jd472z96m",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Karte der Umgegend von Giessen : mit Angabe ro\u0308mischer und germanischer Antiquita\u0308ten",
+  "georss_box_s": "50.5264042 8.5557586 50.6352285 8.7640475",
   "layer_modified_dt": "2015-01-21T22:24:23Z",
-  "dc_title_s": "Karte der Umgegend von Giessen : mit Angabe römischer und germanischer Antiquitäten",
+  "layer_id_s": "jd472z96m",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Giessen (Germany)"
-  ],
+  "dc_identifier_s": "jd472z96m",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Karte der Umgegend von Giessen : mit Angabe ro\u0308mischer und germanischer Antiquita\u0308ten",
+  "layer_slug_s": "princeton-jd472z96m",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/jd472z96m/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/jd/47/2z/96/m/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "50.6352285 8.5557586 50.6352285 8.7640475 50.5264042 8.7640475 50.5264042 8.5557586 50.6352285 8.5557586",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1891"
   ],
-  "georss_box_s": "50.5264042 8.5557586 50.6352285 8.7640475",
-  "georss_polygon_s": "50.6352285 8.5557586 50.6352285 8.7640475 50.5264042 8.7640475 50.5264042 8.5557586 50.6352285 8.5557586",
   "solr_geom": "ENVELOPE(8.5557586, 8.7640475, 50.6352285, 50.5264042)",
-  "solr_year_i": "1891"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Giessen (Germany)"
+  ]
 }

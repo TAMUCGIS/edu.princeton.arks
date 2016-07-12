@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1746",
   "uuid": "http://arks.princeton.edu/ark:/88435/nk322g77g",
-  "dc_creator_sm": [
-    "Prévost,"
-  ],
-  "dc_description_s": "Vuë du Cap de Bonne Esperance",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "nk322g77g",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/nk322g77g/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fnk%2F32%2F2g%2F77%2Fg%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "nk322g77g",
-  "layer_slug_s": "princeton-nk322g77g",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Vue\u0308 du Cap de Bonne Esperance",
+  "georss_box_s": "-34.3679413 18.4623393 -34.3479413 18.4823393",
   "layer_modified_dt": "2015-01-21T22:24:04Z",
-  "dc_title_s": "Vuë du Cap de Bonne Esperance",
-  "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Cape of Good Hope (South Africa)",
-    "Table Bay (South Africa)"
+  "dc_creator_sm": [
+    "Pre\u0301vost,"
   ],
+  "layer_id_s": "nk322g77g",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "nk322g77g",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Vue\u0308 du Cap de Bonne Esperance",
+  "layer_slug_s": "princeton-nk322g77g",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/nk322g77g/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/nk/32/2g/77/g/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "-34.3479413 18.4623393 -34.3479413 18.4823393 -34.3679413 18.4823393 -34.3679413 18.4623393 -34.3479413 18.4623393",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1746"
   ],
-  "georss_box_s": "-34.3679413 18.4623393 -34.3479413 18.4823393",
-  "georss_polygon_s": "-34.3479413 18.4623393 -34.3479413 18.4823393 -34.3679413 18.4823393 -34.3679413 18.4623393 -34.3479413 18.4623393",
   "solr_geom": "ENVELOPE(18.4623393, 18.4823393, -34.3479413, -34.3679413)",
-  "solr_year_i": "1746"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Cape of Good Hope (South Africa)",
+    "Table Bay (South Africa)"
+  ]
 }

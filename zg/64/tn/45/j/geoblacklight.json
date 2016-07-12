@@ -2,7 +2,7 @@
   "dc_description_s": "This is a map of the city of Omiya, Japan, shown at a 1:12,500 scale. The map was created for use by War and Navy Department agencies during World War II.",
   "layer_modified_dt": "2015-01-11T17:42:53Z",
   "solr_geom": "ENVELOPE(139.600, 139.6833, 35.9333, 35.8333)",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fzg%2F64%2Ftn%2F45%2Fj%2F00000001.jp2/info.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/zg64tn45j/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/zg64tn45j/preview.jpg\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/zg64tn45j/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/zg/64/tn/45/j/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/zg64tn45j/preview.jpg\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/zg64tn45j",
   "dct_provenance_s": "Princeton",
@@ -17,7 +17,7 @@
     "Facilities and Structures"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "1946",
+  "layer_slug_s": "princeton-zg64tn45j",
   "dc_creator_sm": [
     "Army Map Service"
   ],
@@ -36,7 +36,7 @@
   "layer_id_s": "zg64tn45j",
   "georss_box_s": "35.8333 139.600 35.9333 139.6833",
   "dc_title_s": "Omiya, Honshu, Japan: Saitama-ken. ",
-  "layer_slug_s": "princeton-zg64tn45j",
+  "dct_issued_s": "1946",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

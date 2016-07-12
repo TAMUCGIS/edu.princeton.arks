@@ -1,5 +1,9 @@
 {
+  "solr_year_i": "1847",
   "uuid": "http://arks.princeton.edu/ark:/88435/z603r0948",
+  "dc_description_s": "The harbor of Holmes' Hole ; The harbor of Tarpaulin Cove",
+  "georss_box_s": "41.475059 -70.7550804 41.475159 -70.7549804",
+  "layer_modified_dt": "2015-01-21T22:24:25Z",
   "dc_creator_sm": [
     "Bache, A. D.",
     "Eakin, C. M.",
@@ -7,26 +11,20 @@
     "Blake, George S.",
     "McClery, M. I."
   ],
-  "dc_description_s": "The harbor of Holmes' Hole ; The harbor of Tarpaulin Cove",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "z603r0948",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/z603r0948/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fz6%2F03%2Fr0%2F94%2F8%2F00000001.jp2/info.json\"}",
   "layer_id_s": "z603r0948",
-  "layer_slug_s": "princeton-z603r0948",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:25Z",
-  "dc_title_s": "The harbor of Holmes' Hole ; The harbor of Tarpaulin Cove",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "z603r0948",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "The harbor of Holmes' Hole ; The harbor of Tarpaulin Cove",
+  "layer_slug_s": "princeton-z603r0948",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/z603r0948/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/z6/03/r0/94/8/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "41.475159 -70.7550804 41.475159 -70.7549804 41.475059 -70.7549804 41.475059 -70.7550804 41.475159 -70.7550804",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1847"
   ],
-  "georss_box_s": "41.475059 -70.7550804 41.475159 -70.7549804",
-  "georss_polygon_s": "41.475159 -70.7550804 41.475159 -70.7549804 41.475059 -70.7549804 41.475059 -70.7550804 41.475159 -70.7550804",
   "solr_geom": "ENVELOPE(-70.7550804, -70.7549804, 41.475159, 41.475059)",
-  "solr_year_i": "1847"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

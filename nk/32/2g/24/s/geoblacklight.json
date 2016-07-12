@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1781",
   "uuid": "http://arks.princeton.edu/ark:/88435/nk322g24s",
+  "dc_description_s": "A plan of the cities of London and Westminster, with the Borough of Southwark",
+  "georss_box_s": "51.2867602 -0.510375 51.6918741 0.3340155",
+  "layer_modified_dt": "2015-01-21T22:23:50Z",
   "dc_creator_sm": [
     "Jefferys, Thomas,",
     "Schofield, Robert E.,"
   ],
-  "dc_description_s": "A plan of the cities of London and Westminster, with the Borough of Southwark",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "nk322g24s",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/nk322g24s/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fnk%2F32%2F2g%2F24%2Fs%2F00000001.jp2/info.json\"}",
   "layer_id_s": "nk322g24s",
-  "layer_slug_s": "princeton-nk322g24s",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:50Z",
-  "dc_title_s": "A plan of the cities of London and Westminster, with the Borough of Southwark",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "London (England)"
-  ],
+  "dc_identifier_s": "nk322g24s",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "A plan of the cities of London and Westminster, with the Borough of Southwark",
+  "layer_slug_s": "princeton-nk322g24s",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/nk322g24s/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/nk/32/2g/24/s/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "51.6918741 -0.510375 51.6918741 0.3340155 51.2867602 0.3340155 51.2867602 -0.510375 51.6918741 -0.510375",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1781"
   ],
-  "georss_box_s": "51.2867602 -0.510375 51.6918741 0.3340155",
-  "georss_polygon_s": "51.6918741 -0.510375 51.6918741 0.3340155 51.2867602 0.3340155 51.2867602 -0.510375 51.6918741 -0.510375",
   "solr_geom": "ENVELOPE(-0.510375, 0.3340155, 51.6918741, 51.2867602)",
-  "solr_year_i": "1781"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "London (England)"
+  ]
 }

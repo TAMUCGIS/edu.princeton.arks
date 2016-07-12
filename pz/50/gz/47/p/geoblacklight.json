@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1839",
   "uuid": "http://arks.princeton.edu/ark:/88435/pz50gz47p",
+  "dc_description_s": "Carte du de\u0301partement de la Seine",
+  "georss_box_s": "47.4859522 0.2281 49.5225833 4.7169896",
+  "layer_modified_dt": "2015-01-21T22:23:59Z",
   "dc_creator_sm": [
     "Pelet, Jean Jacques Germain,"
   ],
-  "dc_description_s": "Carte du département de la Seine",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "pz50gz47p",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/pz50gz47p/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fpz%2F50%2Fgz%2F47%2Fp%2F00000001.jp2/info.json\"}",
   "layer_id_s": "pz50gz47p",
-  "layer_slug_s": "princeton-pz50gz47p",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:59Z",
-  "dc_title_s": "Carte du département de la Seine",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Seine (France)",
-    "Paris (France)"
-  ],
+  "dc_identifier_s": "pz50gz47p",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Carte du de\u0301partement de la Seine",
+  "layer_slug_s": "princeton-pz50gz47p",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/pz50gz47p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/pz/50/gz/47/p/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "49.5225833 0.2281 49.5225833 4.7169896 47.4859522 4.7169896 47.4859522 0.2281 49.5225833 0.2281",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1839"
   ],
-  "georss_box_s": "47.4859522 0.2281 49.5225833 4.7169896",
-  "georss_polygon_s": "49.5225833 0.2281 49.5225833 4.7169896 47.4859522 4.7169896 47.4859522 0.2281 49.5225833 0.2281",
   "solr_geom": "ENVELOPE(0.2281, 4.7169896, 49.5225833, 47.4859522)",
-  "solr_year_i": "1839"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Seine (France)",
+    "Paris (France)"
+  ]
 }

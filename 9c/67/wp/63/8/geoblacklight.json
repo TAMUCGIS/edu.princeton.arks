@@ -1,30 +1,28 @@
 {
+  "solr_year_i": "1894",
   "uuid": "http://arks.princeton.edu/ark:/88435/9c67wp638",
+  "dc_description_s": "A preliminary map of the surface formations of the valley of the Passaic with the country eastward to Newark and southward to the Raritan River.",
+  "georss_box_s": "40.46667 -74.63333 40.96667 -74.18333",
+  "layer_modified_dt": "2015-01-19T22:36:35Z",
   "dc_creator_sm": [
     "Peet, Charles E.",
     "Salisbury, Rollin D.",
     "Smock, John Conover"
   ],
-  "dc_description_s": "A preliminary map of the surface formations of the valley of the Passaic with the country eastward to Newark and southward to the Raritan River.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "9c67wp638",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/9c67wp638/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F9c%2F67%2Fwp%2F63%2F8%2F00000001.jp2/info.json\"}",
   "layer_id_s": "9c67wp638",
-  "layer_slug_s": "princeton-9c67wp638",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:36:35Z",
-  "dc_title_s": "A preliminary map of the surface formations of the valley of the Passaic with the country eastward to Newark and southward to the Raritan River.",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "9c67wp638",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "A preliminary map of the surface formations of the valley of the Passaic with the country eastward to Newark and southward to the Raritan River.",
+  "layer_slug_s": "princeton-9c67wp638",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/9c67wp638/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/9c/67/wp/63/8/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.96667 -74.63333 40.96667 -74.18333 40.46667 -74.18333 40.46667 -74.63333 40.96667 -74.63333",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1894"
   ],
-  "georss_box_s": "40.46667 -74.63333 40.96667 -74.18333",
-  "georss_polygon_s": "40.96667 -74.63333 40.96667 -74.18333 40.46667 -74.18333 40.46667 -74.63333 40.96667 -74.63333",
   "solr_geom": "ENVELOPE(-74.63333, -74.18333, 40.96667, 40.46667)",
-  "solr_year_i": "1894"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

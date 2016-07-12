@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1825",
   "uuid": "http://arks.princeton.edu/ark:/88435/6108vd76g",
+  "dc_description_s": "Italiae antiquae et novae pars Septentrionalis.",
+  "georss_box_s": "35.2889616 6.6272658 47.0921462 18.7844746",
+  "layer_modified_dt": "2015-01-21T22:24:25Z",
   "dc_creator_sm": [
     "Findlay, A.",
     "Parker, Joseph,"
   ],
-  "dc_description_s": "Italiae antiquae et novae pars Septentrionalis.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "6108vd76g",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/6108vd76g/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F61%2F08%2Fvd%2F76%2Fg%2F00000001.jp2/info.json\"}",
   "layer_id_s": "6108vd76g",
-  "layer_slug_s": "princeton-6108vd76g",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:25Z",
-  "dc_title_s": "Italiae antiquae et novae pars Septentrionalis.",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Italy",
-    "Italy, Northern"
-  ],
+  "dc_identifier_s": "6108vd76g",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Italiae antiquae et novae pars Septentrionalis.",
+  "layer_slug_s": "princeton-6108vd76g",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/6108vd76g/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/61/08/vd/76/g/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "47.0921462 6.6272658 47.0921462 18.7844746 35.2889616 18.7844746 35.2889616 6.6272658 47.0921462 6.6272658",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1825"
   ],
-  "georss_box_s": "35.2889616 6.6272658 47.0921462 18.7844746",
-  "georss_polygon_s": "47.0921462 6.6272658 47.0921462 18.7844746 35.2889616 18.7844746 35.2889616 6.6272658 47.0921462 6.6272658",
   "solr_geom": "ENVELOPE(6.6272658, 18.7844746, 47.0921462, 35.2889616)",
-  "solr_year_i": "1825"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Italy",
+    "Italy, Northern"
+  ]
 }

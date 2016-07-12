@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1820",
   "uuid": "http://arks.princeton.edu/ark:/88435/gb19f8263",
+  "dc_description_s": "A survey of Great Courland Bay in the Island of Tobago",
+  "georss_box_s": "11.2149613 -60.7795325 11.2150613 -60.7794325",
+  "layer_modified_dt": "2015-01-21T22:24:09Z",
   "dc_creator_sm": [
     "Langley, James,",
     "Hurd, Thomas,",
     "Walker, J.,"
   ],
-  "dc_description_s": "A survey of Great Courland Bay in the Island of Tobago",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "gb19f8263",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/gb19f8263/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fgb%2F19%2Ff8%2F26%2F3%2F00000001.jp2/info.json\"}",
   "layer_id_s": "gb19f8263",
-  "layer_slug_s": "princeton-gb19f8263",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:09Z",
-  "dc_title_s": "A survey of Great Courland Bay in the Island of Tobago",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Great Courland Bay (Trinidad and Tobago)"
-  ],
+  "dc_identifier_s": "gb19f8263",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "A survey of Great Courland Bay in the Island of Tobago",
+  "layer_slug_s": "princeton-gb19f8263",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/gb19f8263/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/gb/19/f8/26/3/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "11.2150613 -60.7795325 11.2150613 -60.7794325 11.2149613 -60.7794325 11.2149613 -60.7795325 11.2150613 -60.7795325",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1820"
   ],
-  "georss_box_s": "11.2149613 -60.7795325 11.2150613 -60.7794325",
-  "georss_polygon_s": "11.2150613 -60.7795325 11.2150613 -60.7794325 11.2149613 -60.7794325 11.2149613 -60.7795325 11.2150613 -60.7795325",
   "solr_geom": "ENVELOPE(-60.7795325, -60.7794325, 11.2150613, 11.2149613)",
-  "solr_year_i": "1820"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Great Courland Bay (Trinidad and Tobago)"
+  ]
 }

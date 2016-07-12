@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1745",
   "uuid": "http://arks.princeton.edu/ark:/88435/m039k739x",
-  "dc_description_s": "Le royaume d'Angleterre : divisé en comtez et baronies",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "m039k739x",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/m039k739x/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fm0%2F39%2Fk7%2F39%2Fx%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "m039k739x",
-  "layer_slug_s": "princeton-m039k739x",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Le royaume d'Angleterre : divise\u0301 en comtez et baronies",
+  "georss_box_s": "49.674 -6.7047493 55.917 2.0919117",
   "layer_modified_dt": "2015-01-21T22:24:16Z",
-  "dc_title_s": "Le royaume d'Angleterre : divisé en comtez et baronies",
+  "layer_id_s": "m039k739x",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "England",
-    "Wales"
-  ],
+  "dc_identifier_s": "m039k739x",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Le royaume d'Angleterre : divise\u0301 en comtez et baronies",
+  "layer_slug_s": "princeton-m039k739x",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/m039k739x/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/m0/39/k7/39/x/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "55.917 -6.7047493 55.917 2.0919117 49.674 2.0919117 49.674 -6.7047493 55.917 -6.7047493",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1745"
   ],
-  "georss_box_s": "49.674 -6.7047493 55.917 2.0919117",
-  "georss_polygon_s": "55.917 -6.7047493 55.917 2.0919117 49.674 2.0919117 49.674 -6.7047493 55.917 -6.7047493",
   "solr_geom": "ENVELOPE(-6.7047493, 2.0919117, 55.917, 49.674)",
-  "solr_year_i": "1745"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "England",
+    "Wales"
+  ]
 }

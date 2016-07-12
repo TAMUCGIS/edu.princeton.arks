@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1909",
   "uuid": "http://arks.princeton.edu/ark:/88435/zk51vj59j",
+  "dc_description_s": "The National Geographic Magazine map of Africa",
+  "georss_box_s": "1.9999503 15.9999497 2.0000503 16.0000497",
+  "layer_modified_dt": "2015-01-21T22:23:43Z",
   "dc_creator_sm": [
     "Grosvenor, Gilbert Hovey,"
   ],
-  "dc_description_s": "The National Geographic Magazine map of Africa",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "zk51vj59j",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/zk51vj59j/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fzk%2F51%2Fvj%2F59%2F00000001.jp2/info.json\"}",
   "layer_id_s": "zk51vj59j",
-  "layer_slug_s": "princeton-zk51vj59j",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:43Z",
-  "dc_title_s": "The National Geographic Magazine map of Africa",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Africa"
-  ],
+  "dc_identifier_s": "zk51vj59j",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "The National Geographic Magazine map of Africa",
+  "layer_slug_s": "princeton-zk51vj59j",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/zk51vj59j/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/zk/51/vj/59/j/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "2.0000503 15.9999497 2.0000503 16.0000497 1.9999503 16.0000497 1.9999503 15.9999497 2.0000503 15.9999497",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1909"
   ],
-  "georss_box_s": "1.9999503 15.9999497 2.0000503 16.0000497",
-  "georss_polygon_s": "2.0000503 15.9999497 2.0000503 16.0000497 1.9999503 16.0000497 1.9999503 15.9999497 2.0000503 15.9999497",
   "solr_geom": "ENVELOPE(15.9999497, 16.0000497, 2.0000503, 1.9999503)",
-  "solr_year_i": "1909"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Africa"
+  ]
 }

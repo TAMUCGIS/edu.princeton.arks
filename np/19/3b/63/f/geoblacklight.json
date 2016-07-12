@@ -2,7 +2,7 @@
   "dc_description_s": "A scanned USGS 1:62500 topographic map.",
   "layer_modified_dt": "2015-01-11T17:42:37Z",
   "solr_geom": "ENVELOPE(-74.50, -74.25, 39.50, 39.25)",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fnp%2F19%2F3b%2F63%2Ff%2F00000001.jp2/info.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/np193b63f/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/np193b63f/preview.jpg\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/np193b63f/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/np/19/3b/63/f/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/np193b63f/preview.jpg\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/np193b63f",
   "dct_provenance_s": "Princeton",
@@ -15,7 +15,7 @@
     "15 Minute Quadrangle Map"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "1908",
+  "layer_slug_s": "princeton-np193b63f",
   "dc_creator_sm": [
     "United States Geological Survey"
   ],
@@ -34,7 +34,7 @@
   "layer_id_s": "np193b63f",
   "georss_box_s": "39.25 -74.50 39.50 -74.25",
   "dc_title_s": "New Jersey, Atlantic City Sheet (1908)",
-  "layer_slug_s": "princeton-np193b63f",
+  "dct_issued_s": "1908",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

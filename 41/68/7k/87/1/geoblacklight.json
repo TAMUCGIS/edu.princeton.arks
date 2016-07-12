@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1776",
   "uuid": "http://arks.princeton.edu/ark:/88435/41687k871",
+  "dc_description_s": "A plan of New York Island, with part of Long Island, Staten Island & East New Jersey : with a particular description of the engagement on the woody heights of Long Island, between Flatbush and Brooklyn, on the 27th. of August 1776. between His Majesty's forces commanded by General Howe and the Americans under Major General Putnam, with the subsequent disposition of both armies",
+  "georss_box_s": "40.4913686 -79.7621438 45.015865 -71.8562643",
+  "layer_modified_dt": "2015-01-21T22:24:01Z",
   "dc_creator_sm": [
     "McCloskey, Henry.",
     "Fox, N. B.,"
   ],
-  "dc_description_s": "A plan of New York Island, with part of Long Island, Staten Island & East New Jersey : with a particular description of the engagement on the woody heights of Long Island, between Flatbush and Brooklyn, on the 27th. of August 1776. between His Majesty's forces commanded by General Howe and the Americans under Major General Putnam, with the subsequent disposition of both armies",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "41687k871",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/41687k871/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F41%2F68%2F7k%2F87%2F1%2F00000001.jp2/info.json\"}",
   "layer_id_s": "41687k871",
-  "layer_slug_s": "princeton-41687k871",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:01Z",
-  "dc_title_s": "A plan of New York Island, with part of Long Island, Staten Island & East New Jersey : with a particular description of the engagement on the woody heights of Long Island, between Flatbush and Brooklyn, on the 27th. of August 1776. between His Majesty's forces commanded by General Howe and the Americans under Major General Putnam, with the subsequent disposition of both armies",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "New York (State)",
-    "New Jersey"
-  ],
+  "dc_identifier_s": "41687k871",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "A plan of New York Island, with part of Long Island, Staten Island & East New Jersey : with a particular description of the engagement on the woody heights of Long Island, between Flatbush and Brooklyn, on the 27th. of August 1776. between His Majesty's forces commanded by General Howe and the Americans under Major General Putnam, with the subsequent disposition of both armies",
+  "layer_slug_s": "princeton-41687k871",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/41687k871/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/41/68/7k/87/1/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "45.015865 -79.7621438 45.015865 -71.8562643 40.4913686 -71.8562643 40.4913686 -79.7621438 45.015865 -79.7621438",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1776"
   ],
-  "georss_box_s": "40.4913686 -79.7621438 45.015865 -71.8562643",
-  "georss_polygon_s": "45.015865 -79.7621438 45.015865 -71.8562643 40.4913686 -71.8562643 40.4913686 -79.7621438 45.015865 -79.7621438",
   "solr_geom": "ENVELOPE(-79.7621438, -71.8562643, 45.015865, 40.4913686)",
-  "solr_year_i": "1776"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "New York (State)",
+    "New Jersey"
+  ]
 }

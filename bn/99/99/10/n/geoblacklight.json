@@ -1,28 +1,26 @@
 {
+  "solr_year_i": "1873",
   "uuid": "http://arks.princeton.edu/ark:/88435/bn999910n",
+  "dc_description_s": "Territory of the United States from the Mississippi River to the Pacific Ocean; originally prepared to accompany the reports of the explorations for a Pacific Railroad route",
+  "georss_box_s": "25.8371638 -125.2784586 50.3243423493 -103.967023275",
+  "layer_modified_dt": "2015-01-25T02:06:10Z",
   "dc_creator_sm": [
     "Warren, G. K."
   ],
-  "dc_description_s": "Territory of the United States from the Mississippi River to the Pacific Ocean; originally prepared to accompany the reports of the explorations for a Pacific Railroad route",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "bn999910n",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/bn999910n/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fn%2F99%2F99%2F10%2Fn%2F00000001.jp2/info.json\"}",
   "layer_id_s": "bn999910n",
-  "layer_slug_s": "princeton-bn999910n",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:10Z",
-  "dc_title_s": "Territory of the United States from the Mississippi River to the Pacific Ocean; originally prepared to accompany the reports of the explorations for a Pacific Railroad route",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "bn999910n",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Territory of the United States from the Mississippi River to the Pacific Ocean; originally prepared to accompany the reports of the explorations for a Pacific Railroad route",
+  "layer_slug_s": "princeton-bn999910n",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/bn999910n/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/bn/99/99/10/n/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "50.3243423493 -125.2784586 50.3243423493 -103.967023275 25.8371638 -103.967023275 25.8371638 -125.2784586 50.3243423493 -125.2784586",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1873"
   ],
-  "georss_box_s": "25.8371638 -125.2784586 50.3243423493 -103.967023275",
-  "georss_polygon_s": "50.3243423493 -125.2784586 50.3243423493 -103.967023275 25.8371638 -103.967023275 25.8371638 -125.2784586 50.3243423493 -125.2784586",
   "solr_geom": "ENVELOPE(-125.2784586, -103.967023275, 50.3243423493, 25.8371638)",
-  "solr_year_i": "1873"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

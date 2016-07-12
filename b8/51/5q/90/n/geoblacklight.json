@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1780",
   "uuid": "http://arks.princeton.edu/ark:/88435/b8515q90n",
+  "dc_description_s": "Le Nouveau Mexique, avec la partie septentrionale d l'ancien, ou de la Nouvelle Espagne",
+  "georss_box_s": "32.5295236 -124.4820029 42.009499 -114.1307815",
+  "layer_modified_dt": "2015-01-21T22:24:24Z",
   "dc_creator_sm": [
     "Dien, Charles,"
   ],
-  "dc_description_s": "Le Nouveau Mexique, avec la partie septentrionale d l'ancien, ou de la Nouvelle Espagne",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "b8515q90n",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/b8515q90n/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F8%2F51%2F5q%2F90%2Fn%2F00000001.jp2/info.json\"}",
   "layer_id_s": "b8515q90n",
-  "layer_slug_s": "princeton-b8515q90n",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:24Z",
-  "dc_title_s": "Le Nouveau Mexique, avec la partie septentrionale d l'ancien, ou de la Nouvelle Espagne",
   "dc_type_s": "Image",
+  "dc_identifier_s": "b8515q90n",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Le Nouveau Mexique, avec la partie septentrionale d l'ancien, ou de la Nouvelle Espagne",
+  "layer_slug_s": "princeton-b8515q90n",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/b8515q90n/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/b8/51/5q/90/n/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "42.009499 -124.4820029 42.009499 -114.1307815 32.5295236 -114.1307815 32.5295236 -124.4820029 42.009499 -124.4820029",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1780"
+  ],
+  "solr_geom": "ENVELOPE(-124.4820029, -114.1307815, 42.009499, 32.5295236)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "California",
     "Mexico",
     "New Mexico"
-  ],
-  "dct_temporal_sm": [
-    "1780"
-  ],
-  "georss_box_s": "32.5295236 -124.4820029 42.009499 -114.1307815",
-  "georss_polygon_s": "42.009499 -124.4820029 42.009499 -114.1307815 32.5295236 -114.1307815 32.5295236 -124.4820029 42.009499 -124.4820029",
-  "solr_geom": "ENVELOPE(-124.4820029, -114.1307815, 42.009499, 32.5295236)",
-  "solr_year_i": "1780"
+  ]
 }

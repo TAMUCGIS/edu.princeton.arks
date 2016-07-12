@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/qn59q601d",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Mantua",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "qn59q601d",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fqn%2F59%2Fq6%2F01%2Fd%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "qn59q601d",
-  "layer_slug_s": "princeton-qn59q601d",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:04:02Z",
+  "solr_geom": "ENVELOPE(-75.212123, -75.132123, 39.834003, 39.754003)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/qn/59/q6/01/d/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/qn59q601d",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Mantua, Gloucester County, New Jersey: including part of Deptford Twp, part of West Deptford (Sheet 2)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1933"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "qn59q601d",
+  "georss_polygon_s": "39.834003 -75.212123 39.834003 -75.132123 39.754003 -75.132123 39.754003 -75.212123 39.834003 -75.212123",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1933",
   "dct_spatial_sm": [
     "New Jersey",
     "Mantua"
   ],
-  "dct_temporal_sm": [
-    "1933"
-  ],
+  "layer_id_s": "qn59q601d",
   "georss_box_s": "39.754003 -75.212123 39.834003 -75.132123",
-  "georss_polygon_s": "39.834003 -75.212123 39.834003 -75.132123 39.754003 -75.132123 39.754003 -75.212123 39.834003 -75.212123",
-  "solr_geom": "ENVELOPE(-75.212123, -75.132123, 39.834003, 39.754003)",
-  "solr_year_i": "1933"
+  "dc_title_s": "Mantua, Gloucester County, New Jersey: including part of Deptford Twp, part of West Deptford (Sheet 2)",
+  "layer_slug_s": "princeton-qn59q601d",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

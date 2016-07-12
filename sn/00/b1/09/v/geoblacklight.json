@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1901",
   "uuid": "http://arks.princeton.edu/ark:/88435/sn00b109v",
   "dc_description_s": "Kauai, Territory of Hawaii",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "sn00b109v",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/sn00b109v/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fsn%2F00%2Fb1%2F09%2Fv%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "sn00b109v",
-  "layer_slug_s": "princeton-sn00b109v",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "21.8682776 -159.7878256 22.2349961 -159.292317",
   "layer_modified_dt": "2015-01-21T22:23:55Z",
-  "dc_title_s": "Kauai, Territory of Hawaii",
+  "layer_id_s": "sn00b109v",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Kauai (Hawaii)"
-  ],
+  "dc_identifier_s": "sn00b109v",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Kauai, Territory of Hawaii",
+  "layer_slug_s": "princeton-sn00b109v",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/sn00b109v/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/sn/00/b1/09/v/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "22.2349961 -159.7878256 22.2349961 -159.292317 21.8682776 -159.292317 21.8682776 -159.7878256 22.2349961 -159.7878256",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1901"
   ],
-  "georss_box_s": "21.8682776 -159.7878256 22.2349961 -159.292317",
-  "georss_polygon_s": "22.2349961 -159.7878256 22.2349961 -159.292317 21.8682776 -159.292317 21.8682776 -159.7878256 22.2349961 -159.7878256",
   "solr_geom": "ENVELOPE(-159.7878256, -159.292317, 22.2349961, 21.8682776)",
-  "solr_year_i": "1901"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Kauai (Hawaii)"
+  ]
 }

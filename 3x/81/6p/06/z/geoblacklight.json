@@ -2,7 +2,7 @@
   "dc_description_s": "This is a map of Bosnia and Herzogovina. The map was created by the Central Intelligence Agency.",
   "layer_modified_dt": "2015-01-11T17:42:36Z",
   "solr_geom": "ENVELOPE(15, 20, 45, 42)",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F3x%2F81%2F6p%2F06%2Fz%2F00000001.jp2/info.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/3x816p06z/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/3x816p06z/preview.jpg\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/3x816p06z/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/3x/81/6p/06/z/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/3x816p06z/preview.jpg\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/3x816p06z",
   "dct_provenance_s": "Princeton",
@@ -13,7 +13,7 @@
     "Administrative and Political Boundaries"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "January 1997",
+  "layer_slug_s": "princeton-3x816p06z",
   "dc_creator_sm": [
     "Central Intelligence Agency"
   ],
@@ -30,7 +30,7 @@
   "layer_id_s": "3x816p06z",
   "georss_box_s": "42 15 45 20",
   "dc_title_s": "Bosnia and Herzegovina, 1997",
-  "layer_slug_s": "princeton-3x816p06z",
+  "dct_issued_s": "January 1997",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

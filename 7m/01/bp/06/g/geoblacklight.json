@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1753",
   "uuid": "http://arks.princeton.edu/ark:/88435/7m01bp06g",
-  "dc_creator_sm": [
-    "Prévost,"
-  ],
-  "dc_description_s": "Carte particuliere de l'Isle de Juan Fernandés : tirée du Voyage de l'Amiral Anson",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "7m01bp06g",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/7m01bp06g/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F7m%2F01%2Fbp%2F06%2Fg%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "7m01bp06g",
-  "layer_slug_s": "princeton-7m01bp06g",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Carte particuliere de l'Isle de Juan Fernande\u0301s : tire\u0301e du Voyage de l'Amiral Anson",
+  "georss_box_s": "28.4945404 -16.4371425 28.5345404 -16.3971425",
   "layer_modified_dt": "2015-01-21T22:23:57Z",
-  "dc_title_s": "Carte particuliere de l'Isle de Juan Fernandés : tirée du Voyage de l'Amiral Anson",
-  "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Juan Fernández Islands"
+  "dc_creator_sm": [
+    "Pre\u0301vost,"
   ],
+  "layer_id_s": "7m01bp06g",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "7m01bp06g",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Carte particuliere de l'Isle de Juan Fernande\u0301s : tire\u0301e du Voyage de l'Amiral Anson",
+  "layer_slug_s": "princeton-7m01bp06g",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/7m01bp06g/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/7m/01/bp/06/g/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "28.5345404 -16.4371425 28.5345404 -16.3971425 28.4945404 -16.3971425 28.4945404 -16.4371425 28.5345404 -16.4371425",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1753"
   ],
-  "georss_box_s": "28.4945404 -16.4371425 28.5345404 -16.3971425",
-  "georss_polygon_s": "28.5345404 -16.4371425 28.5345404 -16.3971425 28.4945404 -16.3971425 28.4945404 -16.4371425 28.5345404 -16.4371425",
   "solr_geom": "ENVELOPE(-16.4371425, -16.3971425, 28.5345404, 28.4945404)",
-  "solr_year_i": "1753"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Juan Ferna\u0301ndez Islands"
+  ]
 }

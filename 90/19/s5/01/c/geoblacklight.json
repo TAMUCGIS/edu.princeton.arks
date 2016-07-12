@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1835",
   "uuid": "http://arks.princeton.edu/ark:/88435/9019s501c",
-  "dc_creator_sm": [
-    "Herder, Bartholomä,"
-  ],
   "dc_description_s": "Rom",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "9019s501c",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/9019s501c/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F90%2F19%2Fs5%2F01%2Fc%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "9019s501c",
-  "layer_slug_s": "princeton-9019s501c",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "40.7849283 11.4491695 42.8387459 14.0276445",
   "layer_modified_dt": "2015-01-25T02:06:21Z",
-  "dc_title_s": "Rom",
-  "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Lazio (Italy)",
-    "Rome (Italy)"
+  "dc_creator_sm": [
+    "Herder, Bartholoma\u0308,"
   ],
+  "layer_id_s": "9019s501c",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "9019s501c",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Rom",
+  "layer_slug_s": "princeton-9019s501c",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/9019s501c/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/90/19/s5/01/c/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "42.8387459 11.4491695 42.8387459 14.0276445 40.7849283 14.0276445 40.7849283 11.4491695 42.8387459 11.4491695",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1835"
   ],
-  "georss_box_s": "40.7849283 11.4491695 42.8387459 14.0276445",
-  "georss_polygon_s": "42.8387459 11.4491695 42.8387459 14.0276445 40.7849283 14.0276445 40.7849283 11.4491695 42.8387459 11.4491695",
   "solr_geom": "ENVELOPE(11.4491695, 14.0276445, 42.8387459, 40.7849283)",
-  "solr_year_i": "1835"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Lazio (Italy)",
+    "Rome (Italy)"
+  ]
 }

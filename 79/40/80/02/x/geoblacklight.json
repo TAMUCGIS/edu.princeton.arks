@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1930",
   "uuid": "http://arks.princeton.edu/ark:/88435/79408002x",
   "dc_description_s": "U.S. Air Force aeronautical chart of the world",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "79408002x",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/79408002x/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F79%2F40%2F80%2F02%2Fx%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "79408002x",
-  "layer_slug_s": "princeton-79408002x",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "-73.0 60.0 85.0 80.0",
   "layer_modified_dt": "2015-01-19T22:36:50Z",
-  "dc_title_s": "U.S. Air Force aeronautical chart of the world",
+  "layer_id_s": "79408002x",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "World"
-  ],
+  "dc_identifier_s": "79408002x",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "U.S. Air Force aeronautical chart of the world",
+  "layer_slug_s": "princeton-79408002x",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/79408002x/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/79/40/80/02/x/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "85.0 60.0 85.0 80.0 -73.0 80.0 -73.0 60.0 85.0 60.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1930"
   ],
-  "georss_box_s": "-73.0 60.0 85.0 80.0",
-  "georss_polygon_s": "85.0 60.0 85.0 80.0 -73.0 80.0 -73.0 60.0 85.0 60.0",
   "solr_geom": "ENVELOPE(60.0, 80.0, 85.0, -73.0)",
-  "solr_year_i": "1930"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "World"
+  ]
 }

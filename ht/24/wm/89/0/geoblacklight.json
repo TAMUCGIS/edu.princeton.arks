@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1839",
   "uuid": "http://arks.princeton.edu/ark:/88435/ht24wm890",
+  "dc_description_s": "Map of the United States : compiled from the latest authorities",
+  "georss_box_s": "25.0 -38.0 49.0 -12.0",
+  "layer_modified_dt": "2015-01-19T22:37:14Z",
   "dc_creator_sm": [
     "Huntington, Eleazer,"
   ],
-  "dc_description_s": "Map of the United States : compiled from the latest authorities",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "ht24wm890",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/ht24wm890/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fht%2F24%2Fwm%2F89%2F0%2F00000001.jp2/info.json\"}",
   "layer_id_s": "ht24wm890",
-  "layer_slug_s": "princeton-ht24wm890",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:14Z",
-  "dc_title_s": "Map of the United States : compiled from the latest authorities",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "United States"
-  ],
+  "dc_identifier_s": "ht24wm890",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Map of the United States : compiled from the latest authorities",
+  "layer_slug_s": "princeton-ht24wm890",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/ht24wm890/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ht/24/wm/89/0/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "49.0 -38.0 49.0 -12.0 25.0 -12.0 25.0 -38.0 49.0 -38.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1839"
   ],
-  "georss_box_s": "25.0 -38.0 49.0 -12.0",
-  "georss_polygon_s": "49.0 -38.0 49.0 -12.0 25.0 -12.0 25.0 -38.0 49.0 -38.0",
   "solr_geom": "ENVELOPE(-38.0, -12.0, 49.0, 25.0)",
-  "solr_year_i": "1839"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "United States"
+  ]
 }

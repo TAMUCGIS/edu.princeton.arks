@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1960",
   "uuid": "http://arks.princeton.edu/ark:/88435/k643b361r",
   "dc_description_s": "A new map of the United States of America : from the latest authorities",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "k643b361r",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/k643b361r/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fk6%2F43%2Fb3%2F61%2Fr%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "k643b361r",
-  "layer_slug_s": "princeton-k643b361r",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "24.4110356374 -91.7756124125 47.5887446096 -66.8711891",
   "layer_modified_dt": "2015-01-21T22:24:07Z",
-  "dc_title_s": "A new map of the United States of America : from the latest authorities",
+  "layer_id_s": "k643b361r",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "United States"
-  ],
+  "dc_identifier_s": "k643b361r",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "A new map of the United States of America : from the latest authorities",
+  "layer_slug_s": "princeton-k643b361r",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/k643b361r/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/k6/43/b3/61/r/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "47.5887446096 -91.7756124125 47.5887446096 -66.8711891 24.4110356374 -66.8711891 24.4110356374 -91.7756124125 47.5887446096 -91.7756124125",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1960"
   ],
-  "georss_box_s": "24.4110356374 -91.7756124125 47.5887446096 -66.8711891",
-  "georss_polygon_s": "47.5887446096 -91.7756124125 47.5887446096 -66.8711891 24.4110356374 -66.8711891 24.4110356374 -91.7756124125 47.5887446096 -91.7756124125",
   "solr_geom": "ENVELOPE(-91.7756124125, -66.8711891, 47.5887446096, 24.4110356374)",
-  "solr_year_i": "1960"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "United States"
+  ]
 }

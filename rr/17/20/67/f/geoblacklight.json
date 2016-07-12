@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1890",
   "uuid": "http://arks.princeton.edu/ark:/88435/rr172067f",
   "dc_description_s": "Syria",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "rr172067f",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/rr172067f/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Frr%2F17%2F20%2F67%2Ff%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "rr172067f",
-  "layer_slug_s": "princeton-rr172067f",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "31.0 34.0 37.0 41.0",
   "layer_modified_dt": "2015-01-19T22:37:18Z",
-  "dc_title_s": "Syria",
+  "layer_id_s": "rr172067f",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Sinai (Egypt)",
-    "Syria"
-  ],
+  "dc_identifier_s": "rr172067f",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Syria",
+  "layer_slug_s": "princeton-rr172067f",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/rr172067f/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/rr/17/20/67/f/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "37.0 34.0 37.0 41.0 31.0 41.0 31.0 34.0 37.0 34.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1890"
   ],
-  "georss_box_s": "31.0 34.0 37.0 41.0",
-  "georss_polygon_s": "37.0 34.0 37.0 41.0 31.0 41.0 31.0 34.0 37.0 34.0",
   "solr_geom": "ENVELOPE(34.0, 41.0, 37.0, 31.0)",
-  "solr_year_i": "1890"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Sinai (Egypt)",
+    "Syria"
+  ]
 }

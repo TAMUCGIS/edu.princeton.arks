@@ -1,30 +1,28 @@
 {
+  "solr_year_i": "1891",
   "uuid": "http://arks.princeton.edu/ark:/88435/qr46r336s",
+  "dc_description_s": "A topographical map of the vicinity of Barnegat Bay, with the greater part of Ocean County from original surveys and levelings excepting the shore-lines of Barnegat Bay which are principally from the plane-table sheets of the U.S. Coast and Geodetic Survey : based on the triangulation of the U.S. Coast and Geodetic Survey /",
+  "georss_box_s": "39.5071756 -74.5531051 40.1723549 -74.0313833",
+  "layer_modified_dt": "2015-01-25T02:06:22Z",
   "dc_creator_sm": [
     "Cook, George Hammell,",
     "Smock, John C.",
     "Vermeule, C. C."
   ],
-  "dc_description_s": "A topographical map of the vicinity of Barnegat Bay, with the greater part of Ocean County from original surveys and levelings excepting the shore-lines of Barnegat Bay which are principally from the plane-table sheets of the U.S. Coast and Geodetic Survey : based on the triangulation of the U.S. Coast and Geodetic Survey /",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "qr46r336s",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/qr46r336s/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fqr%2F46%2Fr3%2F36%2Fs%2F00000001.jp2/info.json\"}",
   "layer_id_s": "qr46r336s",
-  "layer_slug_s": "princeton-qr46r336s",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:22Z",
-  "dc_title_s": "A topographical map of the vicinity of Barnegat Bay, with the greater part of Ocean County from original surveys and levelings excepting the shore-lines of Barnegat Bay which are principally from the plane-table sheets of the U.S. Coast and Geodetic Survey : based on the triangulation of the U.S. Coast and Geodetic Survey /",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "qr46r336s",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "A topographical map of the vicinity of Barnegat Bay, with the greater part of Ocean County from original surveys and levelings excepting the shore-lines of Barnegat Bay which are principally from the plane-table sheets of the U.S. Coast and Geodetic Survey : based on the triangulation of the U.S. Coast and Geodetic Survey /",
+  "layer_slug_s": "princeton-qr46r336s",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/qr46r336s/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/qr/46/r3/36/s/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.1723549 -74.5531051 40.1723549 -74.0313833 39.5071756 -74.0313833 39.5071756 -74.5531051 40.1723549 -74.5531051",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1891"
   ],
-  "georss_box_s": "39.5071756 -74.5531051 40.1723549 -74.0313833",
-  "georss_polygon_s": "40.1723549 -74.5531051 40.1723549 -74.0313833 39.5071756 -74.0313833 39.5071756 -74.5531051 40.1723549 -74.5531051",
   "solr_geom": "ENVELOPE(-74.5531051, -74.0313833, 40.1723549, 39.5071756)",
-  "solr_year_i": "1891"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

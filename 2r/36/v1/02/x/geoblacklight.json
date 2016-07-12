@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1955",
   "uuid": "http://arks.princeton.edu/ark:/88435/2r36v102x",
-  "dc_creator_sm": [
-    "Kodama, Kōta,"
-  ],
-  "dc_description_s": "Hyōjun Nihon shi kakezu",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "2r36v102x",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/2r36v102x/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F2r%2F36%2Fv1%2F02%2Fx%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "2r36v102x",
-  "layer_slug_s": "princeton-2r36v102x",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Hyo\u0304jun Nihon shi kakezu",
+  "georss_box_s": "20.2145811 122.7154546 45.7053097 154.205541",
   "layer_modified_dt": "2015-01-25T02:06:16Z",
-  "dc_title_s": "Hyōjun Nihon shi kakezu",
-  "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Japan"
+  "dc_creator_sm": [
+    "Kodama, Ko\u0304ta,"
   ],
+  "layer_id_s": "2r36v102x",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "2r36v102x",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Hyo\u0304jun Nihon shi kakezu",
+  "layer_slug_s": "princeton-2r36v102x",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/2r36v102x/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/2r/36/v1/02/x/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "45.7053097 122.7154546 45.7053097 154.205541 20.2145811 154.205541 20.2145811 122.7154546 45.7053097 122.7154546",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1955"
   ],
-  "georss_box_s": "20.2145811 122.7154546 45.7053097 154.205541",
-  "georss_polygon_s": "45.7053097 122.7154546 45.7053097 154.205541 20.2145811 154.205541 20.2145811 122.7154546 45.7053097 122.7154546",
   "solr_geom": "ENVELOPE(122.7154546, 154.205541, 45.7053097, 20.2145811)",
-  "solr_year_i": "1955"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Japan"
+  ]
 }

@@ -1,31 +1,31 @@
 {
+  "solr_year_i": "1885",
   "uuid": "http://arks.princeton.edu/ark:/88435/7s75df84w",
+  "dc_description_s": "General-Karte von Europa in 9 Bla\u0308ttern",
+  "georss_box_s": "50.9999503 9.9999497 51.0000503 10.0000497",
+  "layer_modified_dt": "2015-01-25T02:06:15Z",
   "dc_creator_sm": [
     "Kiepert, Richard,",
     "Kraatz, Leopold,",
     "Mahlmann, Heinrich,",
     "Reimer, Dietrich,"
   ],
-  "dc_description_s": "General-Karte von Europa in 9 Blättern",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "7s75df84w",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/7s75df84w/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F7s%2F75%2Fdf%2F84%2Fw%2F00000001.jp2/info.json\"}",
   "layer_id_s": "7s75df84w",
-  "layer_slug_s": "princeton-7s75df84w",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:15Z",
-  "dc_title_s": "General-Karte von Europa in 9 Blättern",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Europe"
-  ],
+  "dc_identifier_s": "7s75df84w",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "General-Karte von Europa in 9 Bla\u0308ttern",
+  "layer_slug_s": "princeton-7s75df84w",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/7s75df84w/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/7s/75/df/84/w/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "51.0000503 9.9999497 51.0000503 10.0000497 50.9999503 10.0000497 50.9999503 9.9999497 51.0000503 9.9999497",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1885"
   ],
-  "georss_box_s": "50.9999503 9.9999497 51.0000503 10.0000497",
-  "georss_polygon_s": "51.0000503 9.9999497 51.0000503 10.0000497 50.9999503 10.0000497 50.9999503 9.9999497 51.0000503 9.9999497",
   "solr_geom": "ENVELOPE(9.9999497, 10.0000497, 51.0000503, 50.9999503)",
-  "solr_year_i": "1885"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Europe"
+  ]
 }

@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/fb494b34p",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Lodi",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "fb494b34p",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ffb%2F49%2F4b%2F34%2Fp%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "fb494b34p",
-  "layer_slug_s": "princeton-fb494b34p",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:02:38Z",
+  "solr_geom": "ENVELOPE(-74.09864, -74.064149, 40.895068, 40.861442)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/fb/49/4b/34/p/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/fb494b34p",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Lodi, Bergen County, New Jersey (Sheet 4)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1912"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "fb494b34p",
+  "georss_polygon_s": "40.895068 -74.09864 40.895068 -74.064149 40.861442 -74.064149 40.861442 -74.09864 40.895068 -74.09864",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1912",
   "dct_spatial_sm": [
     "New Jersey",
     "Lodi"
   ],
-  "dct_temporal_sm": [
-    "1912"
-  ],
+  "layer_id_s": "fb494b34p",
   "georss_box_s": "40.861442 -74.09864 40.895068 -74.064149",
-  "georss_polygon_s": "40.895068 -74.09864 40.895068 -74.064149 40.861442 -74.064149 40.861442 -74.09864 40.895068 -74.09864",
-  "solr_geom": "ENVELOPE(-74.09864, -74.064149, 40.895068, 40.861442)",
-  "solr_year_i": "1912"
+  "dc_title_s": "Lodi, Bergen County, New Jersey (Sheet 4)",
+  "layer_slug_s": "princeton-fb494b34p",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

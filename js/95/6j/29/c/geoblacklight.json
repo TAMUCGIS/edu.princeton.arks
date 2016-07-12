@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1917",
   "uuid": "http://arks.princeton.edu/ark:/88435/js956j29c",
-  "dc_description_s": "Sāmárrā",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "js956j29c",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/js956j29c/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fs%2F95%2F6j%2F29%2Fc%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "js956j29c",
-  "layer_slug_s": "princeton-js956j29c",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Sa\u0304ma\u0301rra\u0304",
+  "georss_box_s": "34.1500634 43.8333894 34.250264 43.9421367",
   "layer_modified_dt": "2015-01-21T22:24:12Z",
-  "dc_title_s": "Sāmárrā",
+  "layer_id_s": "js956j29c",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Sāmarrāʼ (Iraq)"
-  ],
+  "dc_identifier_s": "js956j29c",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Sa\u0304ma\u0301rra\u0304",
+  "layer_slug_s": "princeton-js956j29c",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/js956j29c/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/js/95/6j/29/c/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "34.250264 43.8333894 34.250264 43.9421367 34.1500634 43.9421367 34.1500634 43.8333894 34.250264 43.8333894",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1917"
   ],
-  "georss_box_s": "34.1500634 43.8333894 34.250264 43.9421367",
-  "georss_polygon_s": "34.250264 43.8333894 34.250264 43.9421367 34.1500634 43.9421367 34.1500634 43.8333894 34.250264 43.8333894",
   "solr_geom": "ENVELOPE(43.8333894, 43.9421367, 34.250264, 34.1500634)",
-  "solr_year_i": "1917"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Sa\u0304marra\u0304\u02bc (Iraq)"
+  ]
 }

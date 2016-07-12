@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1820",
   "uuid": "http://arks.princeton.edu/ark:/88435/0c483m873",
   "dc_description_s": "Karte vom Herzogthum Sachsen",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "0c483m873",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/0c483m873/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F0c%2F48%2F3m%2F87%2F3%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "0c483m873",
-  "layer_slug_s": "princeton-0c483m873",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "50.1713247 11.872254 51.6847554 15.0419319",
   "layer_modified_dt": "2015-01-21T22:24:20Z",
-  "dc_title_s": "Karte vom Herzogthum Sachsen",
+  "layer_id_s": "0c483m873",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Saxony (Germany)"
-  ],
+  "dc_identifier_s": "0c483m873",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Karte vom Herzogthum Sachsen",
+  "layer_slug_s": "princeton-0c483m873",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/0c483m873/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/0c/48/3m/87/3/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "51.6847554 11.872254 51.6847554 15.0419319 50.1713247 15.0419319 50.1713247 11.872254 51.6847554 11.872254",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1820"
   ],
-  "georss_box_s": "50.1713247 11.872254 51.6847554 15.0419319",
-  "georss_polygon_s": "51.6847554 11.872254 51.6847554 15.0419319 50.1713247 15.0419319 50.1713247 11.872254 51.6847554 11.872254",
   "solr_geom": "ENVELOPE(11.872254, 15.0419319, 51.6847554, 50.1713247)",
-  "solr_year_i": "1820"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Saxony (Germany)"
+  ]
 }

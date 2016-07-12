@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1898",
   "uuid": "http://arks.princeton.edu/ark:/88435/47429c66w",
-  "dc_description_s": "Umgebung von München",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "47429c66w",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/47429c66w/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F47%2F42%2F9c%2F66%2Fw%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "47429c66w",
-  "layer_slug_s": "princeton-47429c66w",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Umgebung von Mu\u0308nchen",
+  "georss_box_s": "47.2701115 9.6794747 47.8562624898 13.8396371",
   "layer_modified_dt": "2015-01-21T22:24:30Z",
-  "dc_title_s": "Umgebung von München",
+  "layer_id_s": "47429c66w",
   "dc_type_s": "Image",
+  "dc_identifier_s": "47429c66w",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Umgebung von Mu\u0308nchen",
+  "layer_slug_s": "princeton-47429c66w",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/47429c66w/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/47/42/9c/66/w/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "47.8562624898 9.6794747 47.8562624898 13.8396371 47.2701115 13.8396371 47.2701115 9.6794747 47.8562624898 9.6794747",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1898"
+  ],
+  "solr_geom": "ENVELOPE(9.6794747, 13.8396371, 47.8562624898, 47.2701115)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Alps, Bavarian (Germany)",
     "Ammer Lake (Germany)",
     "Feldmoching (Munich, Germany)",
     "Munich (Germany)"
-  ],
-  "dct_temporal_sm": [
-    "1898"
-  ],
-  "georss_box_s": "47.2701115 9.6794747 47.8562624898 13.8396371",
-  "georss_polygon_s": "47.8562624898 9.6794747 47.8562624898 13.8396371 47.2701115 13.8396371 47.2701115 9.6794747 47.8562624898 9.6794747",
-  "solr_geom": "ENVELOPE(9.6794747, 13.8396371, 47.8562624898, 47.2701115)",
-  "solr_year_i": "1898"
+  ]
 }

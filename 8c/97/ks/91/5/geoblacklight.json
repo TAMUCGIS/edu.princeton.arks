@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1758",
   "uuid": "http://arks.princeton.edu/ark:/88435/8c97ks915",
-  "dc_description_s": "Saxoniæ Superioris, præsertim Electoralis Circulus : cum adjacentibus Ducatibus et Provinciis, simulque diligentissime annotatis postarum cursus et stationes",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "8c97ks915",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/8c97ks915/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F8c%2F97%2Fks%2F91%2F5%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "8c97ks915",
-  "layer_slug_s": "princeton-8c97ks915",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Saxoni\u00e6 Superioris, pr\u00e6sertim Electoralis Circulus : cum adjacentibus Ducatibus et Provinciis, simulque diligentissime annotatis postarum cursus et stationes",
+  "georss_box_s": "50.1713247 11.872254 51.6847554 15.0419319",
   "layer_modified_dt": "2015-01-21T22:24:19Z",
-  "dc_title_s": "Saxoniæ Superioris, præsertim Electoralis Circulus : cum adjacentibus Ducatibus et Provinciis, simulque diligentissime annotatis postarum cursus et stationes",
+  "layer_id_s": "8c97ks915",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Saxony (Germany)",
-    "Saxony-Anhalt (Germany)"
-  ],
+  "dc_identifier_s": "8c97ks915",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Saxoni\u00e6 Superioris, pr\u00e6sertim Electoralis Circulus : cum adjacentibus Ducatibus et Provinciis, simulque diligentissime annotatis postarum cursus et stationes",
+  "layer_slug_s": "princeton-8c97ks915",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/8c97ks915/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/8c/97/ks/91/5/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "51.6847554 11.872254 51.6847554 15.0419319 50.1713247 15.0419319 50.1713247 11.872254 51.6847554 11.872254",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1758"
   ],
-  "georss_box_s": "50.1713247 11.872254 51.6847554 15.0419319",
-  "georss_polygon_s": "51.6847554 11.872254 51.6847554 15.0419319 50.1713247 15.0419319 50.1713247 11.872254 51.6847554 11.872254",
   "solr_geom": "ENVELOPE(11.872254, 15.0419319, 51.6847554, 50.1713247)",
-  "solr_year_i": "1758"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Saxony (Germany)",
+    "Saxony-Anhalt (Germany)"
+  ]
 }

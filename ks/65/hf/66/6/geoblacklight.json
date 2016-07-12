@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1854",
   "uuid": "http://arks.princeton.edu/ark:/88435/ks65hf666",
   "dc_description_s": "Netherlands, now divided into Holland and Belgium",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "ks65hf666",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/ks65hf666/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fks%2F65%2Fhf%2F66%2F6%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "ks65hf666",
-  "layer_slug_s": "princeton-ks65hf666",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "11.825 -68.6255318 53.7253321 7.2274985",
   "layer_modified_dt": "2015-01-21T22:24:10Z",
-  "dc_title_s": "Netherlands, now divided into Holland and Belgium",
+  "layer_id_s": "ks65hf666",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Netherlands",
-    "Belgium"
-  ],
+  "dc_identifier_s": "ks65hf666",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Netherlands, now divided into Holland and Belgium",
+  "layer_slug_s": "princeton-ks65hf666",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/ks65hf666/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ks/65/hf/66/6/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "53.7253321 -68.6255318 53.7253321 7.2274985 11.825 7.2274985 11.825 -68.6255318 53.7253321 -68.6255318",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1854"
   ],
-  "georss_box_s": "11.825 -68.6255318 53.7253321 7.2274985",
-  "georss_polygon_s": "53.7253321 -68.6255318 53.7253321 7.2274985 11.825 7.2274985 11.825 -68.6255318 53.7253321 -68.6255318",
   "solr_geom": "ENVELOPE(-68.6255318, 7.2274985, 53.7253321, 11.825)",
-  "solr_year_i": "1854"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Netherlands",
+    "Belgium"
+  ]
 }

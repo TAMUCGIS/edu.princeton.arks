@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1648",
   "uuid": "http://arks.princeton.edu/ark:/88435/ws859j16q",
   "dc_description_s": "Hantonia, sive Southantonensis comitatus : vulgo Hant-shire",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "ws859j16q",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/ws859j16q/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fws%2F85%2F9j%2F16%2Fq%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "ws859j16q",
-  "layer_slug_s": "princeton-ws859j16q",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "50.7057404 -1.9572805 51.3839153 -0.7293436",
   "layer_modified_dt": "2015-01-25T02:06:17Z",
-  "dc_title_s": "Hantonia, sive Southantonensis comitatus : vulgo Hant-shire",
+  "layer_id_s": "ws859j16q",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Hampshire (England)",
-    "Solent Channel (England)"
-  ],
+  "dc_identifier_s": "ws859j16q",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Hantonia, sive Southantonensis comitatus : vulgo Hant-shire",
+  "layer_slug_s": "princeton-ws859j16q",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/ws859j16q/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ws/85/9j/16/q/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "51.3839153 -1.9572805 51.3839153 -0.7293436 50.7057404 -0.7293436 50.7057404 -1.9572805 51.3839153 -1.9572805",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1648"
   ],
-  "georss_box_s": "50.7057404 -1.9572805 51.3839153 -0.7293436",
-  "georss_polygon_s": "51.3839153 -1.9572805 51.3839153 -0.7293436 50.7057404 -0.7293436 50.7057404 -1.9572805 51.3839153 -1.9572805",
   "solr_geom": "ENVELOPE(-1.9572805, -0.7293436, 51.3839153, 50.7057404)",
-  "solr_year_i": "1648"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Hampshire (England)",
+    "Solent Channel (England)"
+  ]
 }

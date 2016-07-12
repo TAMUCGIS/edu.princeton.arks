@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/b5644t55n",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of South Orange",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "b5644t55n",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F5%2F64%2F4t%2F55%2Fn%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "b5644t55n",
-  "layer_slug_s": "princeton-b5644t55n",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:03:42Z",
+  "solr_geom": "ENVELOPE(-74.283427, -74.234841, 40.762314, 40.735601)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/b5/64/4t/55/n/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/b5644t55n",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "South Orange Village & Township (Sheet 8).",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1912"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "b5644t55n",
+  "georss_polygon_s": "40.762314 -74.283427 40.762314 -74.234841 40.735601 -74.234841 40.735601 -74.283427 40.762314 -74.283427",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1912",
   "dct_spatial_sm": [
     "New Jersey",
     "South Orange"
   ],
-  "dct_temporal_sm": [
-    "1912"
-  ],
+  "layer_id_s": "b5644t55n",
   "georss_box_s": "40.735601 -74.283427 40.762314 -74.234841",
-  "georss_polygon_s": "40.762314 -74.283427 40.762314 -74.234841 40.735601 -74.234841 40.735601 -74.283427 40.762314 -74.283427",
-  "solr_geom": "ENVELOPE(-74.283427, -74.234841, 40.762314, 40.735601)",
-  "solr_year_i": "1912"
+  "dc_title_s": "South Orange Village & Township (Sheet 8).",
+  "layer_slug_s": "princeton-b5644t55n",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

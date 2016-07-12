@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1720",
   "uuid": "http://arks.princeton.edu/ark:/88435/ft848t111",
   "dc_description_s": "A map of the East-Indies and the adjacent countries : with the settlements, factories and territories, explaining what belongs to England, Spain, France, Holland, Denmark, Portugal & c. : with many remarks not extant in any other map",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "ft848t111",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/ft848t111/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fft%2F84%2F8t%2F11%2F1%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "ft848t111",
-  "layer_slug_s": "princeton-ft848t111",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "-8.0 65.0 5.0 135.0",
   "layer_modified_dt": "2015-01-19T22:37:28Z",
-  "dc_title_s": "A map of the East-Indies and the adjacent countries : with the settlements, factories and territories, explaining what belongs to England, Spain, France, Holland, Denmark, Portugal & c. : with many remarks not extant in any other map",
+  "layer_id_s": "ft848t111",
   "dc_type_s": "Image",
+  "dc_identifier_s": "ft848t111",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "A map of the East-Indies and the adjacent countries : with the settlements, factories and territories, explaining what belongs to England, Spain, France, Holland, Denmark, Portugal & c. : with many remarks not extant in any other map",
+  "layer_slug_s": "princeton-ft848t111",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/ft848t111/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ft/84/8t/11/1/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "5.0 65.0 5.0 135.0 -8.0 135.0 -8.0 65.0 5.0 65.0",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1720"
+  ],
+  "solr_geom": "ENVELOPE(65.0, 135.0, 5.0, -8.0)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "East Asia",
     "India",
     "Indonesia",
     "South Asia",
     "Southeast Asia"
-  ],
-  "dct_temporal_sm": [
-    "1720"
-  ],
-  "georss_box_s": "-8.0 65.0 5.0 135.0",
-  "georss_polygon_s": "5.0 65.0 5.0 135.0 -8.0 135.0 -8.0 65.0 5.0 65.0",
-  "solr_geom": "ENVELOPE(65.0, 135.0, 5.0, -8.0)",
-  "solr_year_i": "1720"
+  ]
 }

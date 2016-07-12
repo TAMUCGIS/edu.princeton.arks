@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1854",
   "uuid": "http://arks.princeton.edu/ark:/88435/9c67wq33b",
   "dc_description_s": "Mexico, California & Texas",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "9c67wq33b",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/9c67wq33b/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F9c%2F67%2Fwq%2F33%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "9c67wq33b",
-  "layer_slug_s": "princeton-9c67wq33b",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "15.0 -130.0 40.0 -85.0",
   "layer_modified_dt": "2015-01-19T22:37:35Z",
-  "dc_title_s": "Mexico, California & Texas",
+  "layer_id_s": "9c67wq33b",
   "dc_type_s": "Image",
+  "dc_identifier_s": "9c67wq33b",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Mexico, California & Texas",
+  "layer_slug_s": "princeton-9c67wq33b",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/9c67wq33b/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/9c/67/wq/33/b/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.0 -130.0 40.0 -85.0 15.0 -85.0 15.0 -130.0 40.0 -130.0",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1854"
+  ],
+  "solr_geom": "ENVELOPE(-130.0, -85.0, 40.0, 15.0)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Mexico",
     "Central America",
     "Southwestern States",
     "Guatemala",
     "Belize"
-  ],
-  "dct_temporal_sm": [
-    "1854"
-  ],
-  "georss_box_s": "15.0 -130.0 40.0 -85.0",
-  "georss_polygon_s": "40.0 -130.0 40.0 -85.0 15.0 -85.0 15.0 -130.0 40.0 -130.0",
-  "solr_geom": "ENVELOPE(-130.0, -85.0, 40.0, 15.0)",
-  "solr_year_i": "1854"
+  ]
 }

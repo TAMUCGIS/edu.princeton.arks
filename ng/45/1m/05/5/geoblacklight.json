@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1880",
   "uuid": "http://arks.princeton.edu/ark:/88435/ng451m055",
   "dc_description_s": "[Northern Italy]",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "ng451m055",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/ng451m055/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fng%2F45%2F1m%2F05%2F5%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "ng451m055",
-  "layer_slug_s": "princeton-ng451m055",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "42.6792426623 6.6267201 47.092 18.5205015",
   "layer_modified_dt": "2015-01-25T02:06:23Z",
-  "dc_title_s": "[Northern Italy]",
+  "layer_id_s": "ng451m055",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Italy, Northern",
-    "Alps, Italian (Italy)"
-  ],
+  "dc_identifier_s": "ng451m055",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "[Northern Italy]",
+  "layer_slug_s": "princeton-ng451m055",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/ng451m055/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ng/45/1m/05/5/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "47.092 6.6267201 47.092 18.5205015 42.6792426623 18.5205015 42.6792426623 6.6267201 47.092 6.6267201",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1880"
   ],
-  "georss_box_s": "42.6792426623 6.6267201 47.092 18.5205015",
-  "georss_polygon_s": "47.092 6.6267201 47.092 18.5205015 42.6792426623 18.5205015 42.6792426623 6.6267201 47.092 6.6267201",
   "solr_geom": "ENVELOPE(6.6267201, 18.5205015, 47.092, 42.6792426623)",
-  "solr_year_i": "1880"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Italy, Northern",
+    "Alps, Italian (Italy)"
+  ]
 }

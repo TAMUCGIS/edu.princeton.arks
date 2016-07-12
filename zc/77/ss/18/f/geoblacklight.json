@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/zc77ss18f",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Hudson County",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "zc77ss18f",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fzc%2F77%2Fss%2F18%2Ff%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "zc77ss18f",
-  "layer_slug_s": "princeton-zc77ss18f",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:04:56Z",
+  "solr_geom": "ENVELOPE(-74.166087, -73.991958, 40.823417, 40.643781)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/zc/77/ss/18/f/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/zc77ss18f",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Insurance maps of Hudson County, New Jersey, vol. 9: Jersey City (Sheet 4)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1912"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "zc77ss18f",
+  "georss_polygon_s": "40.823417 -74.166087 40.823417 -73.991958 40.643781 -73.991958 40.643781 -74.166087 40.823417 -74.166087",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1912",
   "dct_spatial_sm": [
     "New Jersey",
     "Hudson County"
   ],
-  "dct_temporal_sm": [
-    "1912"
-  ],
+  "layer_id_s": "zc77ss18f",
   "georss_box_s": "40.643781 -74.166087 40.823417 -73.991958",
-  "georss_polygon_s": "40.823417 -74.166087 40.823417 -73.991958 40.643781 -73.991958 40.643781 -74.166087 40.823417 -74.166087",
-  "solr_geom": "ENVELOPE(-74.166087, -73.991958, 40.823417, 40.643781)",
-  "solr_year_i": "1912"
+  "dc_title_s": "Insurance maps of Hudson County, New Jersey, vol. 9: Jersey City (Sheet 4)",
+  "layer_slug_s": "princeton-zc77ss18f",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

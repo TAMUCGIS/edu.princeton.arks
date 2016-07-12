@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1791",
   "uuid": "http://arks.princeton.edu/ark:/88435/2801pj40j",
+  "dc_description_s": "Cary's new pocket plan of London, Westminster and Southwark : with all the adjacent buildings in St. George's Fields &c. &c. : to which are annexed (from authority) the exact boundary of the rules of the King's Bench Prison, the situation of the receiving houses of the general & penny post offices, references to the public buildings &c. : also a correct list of upwards of 350 hackney coach fares",
+  "georss_box_s": "51.2867602 -0.510375 51.6918741 0.3340155",
+  "layer_modified_dt": "2015-01-21T22:23:54Z",
   "dc_creator_sm": [
     "Sumner, James,"
   ],
-  "dc_description_s": "Cary's new pocket plan of London, Westminster and Southwark : with all the adjacent buildings in St. George's Fields &c. &c. : to which are annexed (from authority) the exact boundary of the rules of the King's Bench Prison, the situation of the receiving houses of the general & penny post offices, references to the public buildings &c. : also a correct list of upwards of 350 hackney coach fares",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "2801pj40j",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/2801pj40j/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F28%2F01%2Fpj%2F40%2F00000001.jp2/info.json\"}",
   "layer_id_s": "2801pj40j",
-  "layer_slug_s": "princeton-2801pj40j",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:54Z",
-  "dc_title_s": "Cary's new pocket plan of London, Westminster and Southwark : with all the adjacent buildings in St. George's Fields &c. &c. : to which are annexed (from authority) the exact boundary of the rules of the King's Bench Prison, the situation of the receiving houses of the general & penny post offices, references to the public buildings &c. : also a correct list of upwards of 350 hackney coach fares",
   "dc_type_s": "Image",
+  "dc_identifier_s": "2801pj40j",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Cary's new pocket plan of London, Westminster and Southwark : with all the adjacent buildings in St. George's Fields &c. &c. : to which are annexed (from authority) the exact boundary of the rules of the King's Bench Prison, the situation of the receiving houses of the general & penny post offices, references to the public buildings &c. : also a correct list of upwards of 350 hackney coach fares",
+  "layer_slug_s": "princeton-2801pj40j",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/2801pj40j/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/28/01/pj/40/j/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "51.6918741 -0.510375 51.6918741 0.3340155 51.2867602 0.3340155 51.2867602 -0.510375 51.6918741 -0.510375",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1791"
+  ],
+  "solr_geom": "ENVELOPE(-0.510375, 0.3340155, 51.6918741, 51.2867602)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "London (England)",
     "Westminster (London, England)",
     "Southwark (London, England)"
-  ],
-  "dct_temporal_sm": [
-    "1791"
-  ],
-  "georss_box_s": "51.2867602 -0.510375 51.6918741 0.3340155",
-  "georss_polygon_s": "51.6918741 -0.510375 51.6918741 0.3340155 51.2867602 0.3340155 51.2867602 -0.510375 51.6918741 -0.510375",
-  "solr_geom": "ENVELOPE(-0.510375, 0.3340155, 51.6918741, 51.2867602)",
-  "solr_year_i": "1791"
+  ]
 }

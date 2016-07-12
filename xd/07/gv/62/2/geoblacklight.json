@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/xd07gv622",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Lodi",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "xd07gv622",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fxd%2F07%2Fgv%2F62%2F2%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "xd07gv622",
-  "layer_slug_s": "princeton-xd07gv622",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:02:38Z",
+  "solr_geom": "ENVELOPE(-74.09864, -74.064149, 40.895068, 40.861442)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/xd/07/gv/62/2/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/xd07gv622",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Lodi & Hasbrouck Heights (Sheet 18)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1917"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "xd07gv622",
+  "georss_polygon_s": "40.895068 -74.09864 40.895068 -74.064149 40.861442 -74.064149 40.861442 -74.09864 40.895068 -74.09864",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1917",
   "dct_spatial_sm": [
     "New Jersey",
     "Lodi"
   ],
-  "dct_temporal_sm": [
-    "1917"
-  ],
+  "layer_id_s": "xd07gv622",
   "georss_box_s": "40.861442 -74.09864 40.895068 -74.064149",
-  "georss_polygon_s": "40.895068 -74.09864 40.895068 -74.064149 40.861442 -74.064149 40.861442 -74.09864 40.895068 -74.09864",
-  "solr_geom": "ENVELOPE(-74.09864, -74.064149, 40.895068, 40.861442)",
-  "solr_year_i": "1917"
+  "dc_title_s": "Lodi & Hasbrouck Heights (Sheet 18)",
+  "layer_slug_s": "princeton-xd07gv622",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

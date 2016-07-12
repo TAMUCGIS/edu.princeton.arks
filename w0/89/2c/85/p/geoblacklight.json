@@ -1,31 +1,31 @@
 {
+  "solr_year_i": "1764",
   "uuid": "http://arks.princeton.edu/ark:/88435/w0892c85p",
+  "dc_description_s": "An improved map of the county of Stafford divided into its hundreds; : collected from the best materials, and ilustrated wth various additional improvements, with historical extracts, relating to its natural produce, trade, manufactures &c.",
+  "georss_box_s": "52.4232438 -2.4706148 53.226224 -1.585356",
+  "layer_modified_dt": "2015-01-21T22:23:50Z",
   "dc_creator_sm": [
     "Bowles, John,",
     "Bowles, Carington,",
     "Sayer, Robert,",
     "Schofield, Robert E.,"
   ],
-  "dc_description_s": "An improved map of the county of Stafford divided into its hundreds; : collected from the best materials, and ilustrated wth various additional improvements, with historical extracts, relating to its natural produce, trade, manufactures &c.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "w0892c85p",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/w0892c85p/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fw0%2F89%2F2c%2F85%2Fp%2F00000001.jp2/info.json\"}",
   "layer_id_s": "w0892c85p",
-  "layer_slug_s": "princeton-w0892c85p",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:50Z",
-  "dc_title_s": "An improved map of the county of Stafford divided into its hundreds; : collected from the best materials, and ilustrated wth various additional improvements, with historical extracts, relating to its natural produce, trade, manufactures &c.",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Staffordshire (England)"
-  ],
+  "dc_identifier_s": "w0892c85p",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "An improved map of the county of Stafford divided into its hundreds; : collected from the best materials, and ilustrated wth various additional improvements, with historical extracts, relating to its natural produce, trade, manufactures &c.",
+  "layer_slug_s": "princeton-w0892c85p",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/w0892c85p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/w0/89/2c/85/p/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "53.226224 -2.4706148 53.226224 -1.585356 52.4232438 -1.585356 52.4232438 -2.4706148 53.226224 -2.4706148",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1764"
   ],
-  "georss_box_s": "52.4232438 -2.4706148 53.226224 -1.585356",
-  "georss_polygon_s": "53.226224 -2.4706148 53.226224 -1.585356 52.4232438 -1.585356 52.4232438 -2.4706148 53.226224 -2.4706148",
   "solr_geom": "ENVELOPE(-2.4706148, -1.585356, 53.226224, 52.4232438)",
-  "solr_year_i": "1764"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Staffordshire (England)"
+  ]
 }

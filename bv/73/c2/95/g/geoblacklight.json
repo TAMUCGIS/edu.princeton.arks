@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1905",
   "uuid": "http://arks.princeton.edu/ark:/88435/bv73c295g",
   "dc_description_s": "Umbegung von Eisenach",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "bv73c295g",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/bv73c295g/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fv%2F73%2Fc2%2F95%2Fg%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "bv73c295g",
-  "layer_slug_s": "princeton-bv73c295g",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "50.9433 10.2766999 51.0233 10.3566999",
   "layer_modified_dt": "2015-01-21T22:24:26Z",
-  "dc_title_s": "Umbegung von Eisenach",
+  "layer_id_s": "bv73c295g",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Eisenach (Germany)",
-    "Thuringia (Germany)"
-  ],
+  "dc_identifier_s": "bv73c295g",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Umbegung von Eisenach",
+  "layer_slug_s": "princeton-bv73c295g",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/bv73c295g/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/bv/73/c2/95/g/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "51.0233 10.2766999 51.0233 10.3566999 50.9433 10.3566999 50.9433 10.2766999 51.0233 10.2766999",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1905"
   ],
-  "georss_box_s": "50.9433 10.2766999 51.0233 10.3566999",
-  "georss_polygon_s": "51.0233 10.2766999 51.0233 10.3566999 50.9433 10.3566999 50.9433 10.2766999 51.0233 10.2766999",
   "solr_geom": "ENVELOPE(10.2766999, 10.3566999, 51.0233, 50.9433)",
-  "solr_year_i": "1905"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Eisenach (Germany)",
+    "Thuringia (Germany)"
+  ]
 }

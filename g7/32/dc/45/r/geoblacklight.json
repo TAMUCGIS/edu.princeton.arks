@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1752",
   "uuid": "http://arks.princeton.edu/ark:/88435/g732dc45r",
+  "dc_description_s": "De Zeven Verenigde Nederlanden",
+  "georss_box_s": "11.825 -68.6255318 53.7253321 7.2274985",
+  "layer_modified_dt": "2015-01-21T22:24:09Z",
   "dc_creator_sm": [
     "Jagen, Jan van,",
     "Rockwood, Katherine C.,"
   ],
-  "dc_description_s": "De Zeven Verenigde Nederlanden",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "g732dc45r",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/g732dc45r/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fg7%2F32%2Fdc%2F45%2Fr%2F00000001.jp2/info.json\"}",
   "layer_id_s": "g732dc45r",
-  "layer_slug_s": "princeton-g732dc45r",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:09Z",
-  "dc_title_s": "De Zeven Verenigde Nederlanden",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Netherlands"
-  ],
+  "dc_identifier_s": "g732dc45r",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "De Zeven Verenigde Nederlanden",
+  "layer_slug_s": "princeton-g732dc45r",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/g732dc45r/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/g7/32/dc/45/r/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "53.7253321 -68.6255318 53.7253321 7.2274985 11.825 7.2274985 11.825 -68.6255318 53.7253321 -68.6255318",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1752"
   ],
-  "georss_box_s": "11.825 -68.6255318 53.7253321 7.2274985",
-  "georss_polygon_s": "53.7253321 -68.6255318 53.7253321 7.2274985 11.825 7.2274985 11.825 -68.6255318 53.7253321 -68.6255318",
   "solr_geom": "ENVELOPE(-68.6255318, 7.2274985, 53.7253321, 11.825)",
-  "solr_year_i": "1752"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Netherlands"
+  ]
 }

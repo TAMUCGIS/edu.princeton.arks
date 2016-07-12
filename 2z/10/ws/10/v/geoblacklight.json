@@ -1,31 +1,31 @@
 {
+  "solr_year_i": "1851",
   "uuid": "http://arks.princeton.edu/ark:/88435/2z10ws10v",
+  "dc_description_s": "Turkey in Asia",
+  "georss_box_s": "29.0 25.0 43.0 50.0",
+  "layer_modified_dt": "2015-01-19T22:36:50Z",
   "dc_creator_sm": [
     "Warren, H.",
     "Allen, James Baylis,",
     "Martin, Robert Montgomery,"
   ],
-  "dc_description_s": "Turkey in Asia",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "2z10ws10v",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/2z10ws10v/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F2z%2F10%2Fws%2F10%2Fv%2F00000001.jp2/info.json\"}",
   "layer_id_s": "2z10ws10v",
-  "layer_slug_s": "princeton-2z10ws10v",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:36:50Z",
-  "dc_title_s": "Turkey in Asia",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Turkey",
-    "Middle East"
-  ],
+  "dc_identifier_s": "2z10ws10v",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Turkey in Asia",
+  "layer_slug_s": "princeton-2z10ws10v",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/2z10ws10v/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/2z/10/ws/10/v/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "43.0 25.0 43.0 50.0 29.0 50.0 29.0 25.0 43.0 25.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1851"
   ],
-  "georss_box_s": "29.0 25.0 43.0 50.0",
-  "georss_polygon_s": "43.0 25.0 43.0 50.0 29.0 50.0 29.0 25.0 43.0 25.0",
   "solr_geom": "ENVELOPE(25.0, 50.0, 43.0, 29.0)",
-  "solr_year_i": "1851"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Turkey",
+    "Middle East"
+  ]
 }

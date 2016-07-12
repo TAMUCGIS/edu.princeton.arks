@@ -1,25 +1,23 @@
 {
+  "solr_year_i": "1911",
   "uuid": "http://arks.princeton.edu/ark:/88435/rj430700d",
-  "dc_description_s": "República de Colombia : mapa del Departamento de Antioquia",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "rj430700d",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/rj430700d/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Frj%2F43%2F07%2F00%2Fd%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "rj430700d",
-  "layer_slug_s": "princeton-rj430700d",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Repu\u0301blica de Colombia : mapa del Departamento de Antioquia",
+  "georss_box_s": "5.0 -77.0 9.0 -73.0",
   "layer_modified_dt": "2015-01-19T22:37:11Z",
-  "dc_title_s": "República de Colombia : mapa del Departamento de Antioquia",
+  "layer_id_s": "rj430700d",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "rj430700d",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Repu\u0301blica de Colombia : mapa del Departamento de Antioquia",
+  "layer_slug_s": "princeton-rj430700d",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/rj430700d/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/rj/43/07/00/d/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "9.0 -77.0 9.0 -73.0 5.0 -73.0 5.0 -77.0 9.0 -77.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1911"
   ],
-  "georss_box_s": "5.0 -77.0 9.0 -73.0",
-  "georss_polygon_s": "9.0 -77.0 9.0 -73.0 5.0 -73.0 5.0 -77.0 9.0 -77.0",
   "solr_geom": "ENVELOPE(-77.0, -73.0, 9.0, 5.0)",
-  "solr_year_i": "1911"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

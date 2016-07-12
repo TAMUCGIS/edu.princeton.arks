@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1851",
   "uuid": "http://arks.princeton.edu/ark:/88435/ng451m04p",
+  "dc_description_s": "Whale chart preliminary sketch /",
+  "georss_box_s": "-70.0 -30.0 80.0 -30.0",
+  "layer_modified_dt": "2015-01-19T22:37:41Z",
   "dc_creator_sm": [
     "Warrington, L.",
     "Maury, Matthew Fontaine,"
   ],
-  "dc_description_s": "Whale chart preliminary sketch /",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "ng451m04p",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/ng451m04p/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fng%2F45%2F1m%2F04%2Fp%2F00000001.jp2/info.json\"}",
   "layer_id_s": "ng451m04p",
-  "layer_slug_s": "princeton-ng451m04p",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:41Z",
-  "dc_title_s": "Whale chart preliminary sketch /",
   "dc_type_s": "Image",
+  "dc_identifier_s": "ng451m04p",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Whale chart preliminary sketch /",
+  "layer_slug_s": "princeton-ng451m04p",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/ng451m04p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ng/45/1m/04/p/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "80.0 -30.0 80.0 -30.0 -70.0 -30.0 -70.0 -30.0 80.0 -30.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1851"
   ],
-  "georss_box_s": "-70.0 -30.0 80.0 -30.0",
-  "georss_polygon_s": "80.0 -30.0 80.0 -30.0 -70.0 -30.0 -70.0 -30.0 80.0 -30.0",
   "solr_geom": "ENVELOPE(-30.0, -30.0, 80.0, -70.0)",
-  "solr_year_i": "1851"
+  "dc_rights_s": "Public"
 }

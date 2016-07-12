@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/kk91fn88p",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Hackettstown",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "kk91fn88p",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fkk%2F91%2Ffn%2F88%2Fp%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "kk91fn88p",
-  "layer_slug_s": "princeton-kk91fn88p",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:10:36Z",
+  "solr_geom": "ENVELOPE(-74.850452, -74.801918, 40.88255, 40.828052)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/kk/91/fn/88/p/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/kk91fn88p",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Hackettstown, Warren Co., New Jersey (Sheet 5)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1902"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "kk91fn88p",
+  "georss_polygon_s": "40.88255 -74.850452 40.88255 -74.801918 40.828052 -74.801918 40.828052 -74.850452 40.88255 -74.850452",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1902",
   "dct_spatial_sm": [
     "New Jersey",
     "Hackettstown"
   ],
-  "dct_temporal_sm": [
-    "1902"
-  ],
+  "layer_id_s": "kk91fn88p",
   "georss_box_s": "40.828052 -74.850452 40.88255 -74.801918",
-  "georss_polygon_s": "40.88255 -74.850452 40.88255 -74.801918 40.828052 -74.801918 40.828052 -74.850452 40.88255 -74.850452",
-  "solr_geom": "ENVELOPE(-74.850452, -74.801918, 40.88255, 40.828052)",
-  "solr_year_i": "1902"
+  "dc_title_s": "Hackettstown, Warren Co., New Jersey (Sheet 5)",
+  "layer_slug_s": "princeton-kk91fn88p",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

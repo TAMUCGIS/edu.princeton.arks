@@ -2,7 +2,7 @@
   "dc_description_s": "This is a Sanborn map of Trenton, Mercer County, New Jersey, shown at a scale of 1:600.",
   "layer_modified_dt": "2015-01-11T17:43:16Z",
   "solr_geom": "ENVELOPE(-74.75, -74.6, 40.25, 40.15)",
-  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap%2F4x%2F51%2Fhk%2F65%2Fn%2F00000001.jp2/info.json\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/4x51hk65n\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/4x51hk65n/fgdc.xml\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/4x51hk65n/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/4x/51/hk/65/n/00000001.jp2/info.json\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/4x51hk65n\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/4x51hk65n",
   "dct_provenance_s": "Princeton",
@@ -12,7 +12,7 @@
     "Sanborn"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "1908",
+  "layer_slug_s": "princeton-4x51hk65n",
   "dc_creator_sm": "New York : Sanborn Map Company",
   "dc_type_s": "Image",
   "dc_identifier_s": "4x51hk65n",
@@ -28,7 +28,7 @@
   "layer_id_s": "4x51hk65n",
   "georss_box_s": "40.15 -74.75 40.25 -74.6",
   "dc_title_s": "Trenton (Sheet 120), Mercer County, New Jersey",
-  "layer_slug_s": "princeton-4x51hk65n",
+  "dct_issued_s": "1908",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

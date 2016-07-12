@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1908",
   "uuid": "http://arks.princeton.edu/ark:/88435/6969z323m",
-  "dc_description_s": "Carte de voies de communication du Brésil",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "6969z323m",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/6969z323m/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F69%2F69%2Fz3%2F23%2Fm%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "6969z323m",
-  "layer_slug_s": "princeton-6969z323m",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Carte de voies de communication du Bre\u0301sil",
+  "georss_box_s": "-33.8689055 -73.9830624 5.2834573 -28.6341163",
   "layer_modified_dt": "2015-01-21T22:24:08Z",
-  "dc_title_s": "Carte de voies de communication du Brésil",
+  "layer_id_s": "6969z323m",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Brazil",
-    "Brazil"
-  ],
+  "dc_identifier_s": "6969z323m",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Carte de voies de communication du Bre\u0301sil",
+  "layer_slug_s": "princeton-6969z323m",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/6969z323m/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/69/69/z3/23/m/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "5.2834573 -73.9830624 5.2834573 -28.6341163 -33.8689055 -28.6341163 -33.8689055 -73.9830624 5.2834573 -73.9830624",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1908"
   ],
-  "georss_box_s": "-33.8689055 -73.9830624 5.2834573 -28.6341163",
-  "georss_polygon_s": "5.2834573 -73.9830624 5.2834573 -28.6341163 -33.8689055 -28.6341163 -33.8689055 -73.9830624 5.2834573 -73.9830624",
   "solr_geom": "ENVELOPE(-73.9830624, -28.6341163, 5.2834573, -33.8689055)",
-  "solr_year_i": "1908"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Brazil",
+    "Brazil"
+  ]
 }

@@ -1,29 +1,27 @@
 {
+  "solr_year_i": "1808",
   "uuid": "http://arks.princeton.edu/ark:/88435/v692t8707",
+  "dc_description_s": "A plan of the city of Philadelphia and environs",
+  "georss_box_s": "39.867005 -75.2802908 40.1379593 -74.9558313",
+  "layer_modified_dt": "2015-01-21T22:24:17Z",
   "dc_creator_sm": [
     "Kneass, William,",
     "Varnum, Joseph B."
   ],
-  "dc_description_s": "A plan of the city of Philadelphia and environs",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "v692t8707",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/v692t8707/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fv6%2F92%2Ft8%2F70%2F7%2F00000001.jp2/info.json\"}",
   "layer_id_s": "v692t8707",
-  "layer_slug_s": "princeton-v692t8707",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:17Z",
-  "dc_title_s": "A plan of the city of Philadelphia and environs",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "v692t8707",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "A plan of the city of Philadelphia and environs",
+  "layer_slug_s": "princeton-v692t8707",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/v692t8707/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/v6/92/t8/70/7/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.1379593 -75.2802908 40.1379593 -74.9558313 39.867005 -74.9558313 39.867005 -75.2802908 40.1379593 -75.2802908",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1808"
   ],
-  "georss_box_s": "39.867005 -75.2802908 40.1379593 -74.9558313",
-  "georss_polygon_s": "40.1379593 -75.2802908 40.1379593 -74.9558313 39.867005 -74.9558313 39.867005 -75.2802908 40.1379593 -75.2802908",
   "solr_geom": "ENVELOPE(-75.2802908, -74.9558313, 40.1379593, 39.867005)",
-  "solr_year_i": "1808"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

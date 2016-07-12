@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1784",
   "uuid": "http://arks.princeton.edu/ark:/88435/2f75rb48m",
-  "dc_description_s": "Repraesentationem hancce Circuli Saxonici Inferioris : ad mentem domini D. Büsching",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "2f75rb48m",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/2f75rb48m/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F2f%2F75%2Frb%2F48%2Fm%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "2f75rb48m",
-  "layer_slug_s": "princeton-2f75rb48m",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Repraesentationem hancce Circuli Saxonici Inferioris : ad mentem domini D. Bu\u0308sching",
+  "georss_box_s": "51.0 25.4666666667 54.4166666667 32.0",
   "layer_modified_dt": "2015-01-19T22:37:21Z",
-  "dc_title_s": "Repraesentationem hancce Circuli Saxonici Inferioris : ad mentem domini D. Büsching",
+  "layer_id_s": "2f75rb48m",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Lower Saxony (Germany)"
-  ],
+  "dc_identifier_s": "2f75rb48m",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Repraesentationem hancce Circuli Saxonici Inferioris : ad mentem domini D. Bu\u0308sching",
+  "layer_slug_s": "princeton-2f75rb48m",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/2f75rb48m/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/2f/75/rb/48/m/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "54.4166666667 25.4666666667 54.4166666667 32.0 51.0 32.0 51.0 25.4666666667 54.4166666667 25.4666666667",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1784"
   ],
-  "georss_box_s": "51.0 25.4666666667 54.4166666667 32.0",
-  "georss_polygon_s": "54.4166666667 25.4666666667 54.4166666667 32.0 51.0 32.0 51.0 25.4666666667 54.4166666667 25.4666666667",
   "solr_geom": "ENVELOPE(25.4666666667, 32.0, 54.4166666667, 51.0)",
-  "solr_year_i": "1784"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Lower Saxony (Germany)"
+  ]
 }

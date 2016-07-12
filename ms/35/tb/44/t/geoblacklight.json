@@ -1,28 +1,26 @@
 {
+  "solr_year_i": "1886",
   "uuid": "http://arks.princeton.edu/ark:/88435/ms35tb44t",
+  "dc_description_s": "A topographical map of Kittatinny Valley and Mountain in Sussex County and the northern part of Warren.",
+  "georss_box_s": "40.88333 -75.03333 41.38333 -74.58333",
+  "layer_modified_dt": "2015-01-19T22:36:35Z",
   "dc_creator_sm": [
     "Vermeule, Cornelius Clarkson"
   ],
-  "dc_description_s": "A topographical map of Kittatinny Valley and Mountain in Sussex County and the northern part of Warren.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "ms35tb44t",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/ms35tb44t/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fms%2F35%2Ftb%2F44%2Ft%2F00000001.jp2/info.json\"}",
   "layer_id_s": "ms35tb44t",
-  "layer_slug_s": "princeton-ms35tb44t",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:36:35Z",
-  "dc_title_s": "A topographical map of Kittatinny Valley and Mountain in Sussex County and the northern part of Warren.",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "ms35tb44t",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "A topographical map of Kittatinny Valley and Mountain in Sussex County and the northern part of Warren.",
+  "layer_slug_s": "princeton-ms35tb44t",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/ms35tb44t/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ms/35/tb/44/t/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "41.38333 -75.03333 41.38333 -74.58333 40.88333 -74.58333 40.88333 -75.03333 41.38333 -75.03333",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1886"
   ],
-  "georss_box_s": "40.88333 -75.03333 41.38333 -74.58333",
-  "georss_polygon_s": "41.38333 -75.03333 41.38333 -74.58333 40.88333 -74.58333 40.88333 -75.03333 41.38333 -75.03333",
   "solr_geom": "ENVELOPE(-75.03333, -74.58333, 41.38333, 40.88333)",
-  "solr_year_i": "1886"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

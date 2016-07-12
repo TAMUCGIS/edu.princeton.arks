@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1853",
   "uuid": "http://arks.princeton.edu/ark:/88435/4x51hm53n",
+  "dc_description_s": "Lake Erie",
+  "georss_box_s": "41.0833333333 -83.5833333333 43.1666666667 -78.75",
+  "layer_modified_dt": "2015-01-19T22:37:36Z",
   "dc_creator_sm": [
     "Lee, Thomas Jefferson,",
     "Lambert, John,"
   ],
-  "dc_description_s": "Lake Erie",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "4x51hm53n",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/4x51hm53n/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F4x%2F51%2Fhm%2F53%2Fn%2F00000001.jp2/info.json\"}",
   "layer_id_s": "4x51hm53n",
-  "layer_slug_s": "princeton-4x51hm53n",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:36Z",
-  "dc_title_s": "Lake Erie",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Erie, Lake"
-  ],
+  "dc_identifier_s": "4x51hm53n",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Lake Erie",
+  "layer_slug_s": "princeton-4x51hm53n",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/4x51hm53n/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/4x/51/hm/53/n/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "43.1666666667 -83.5833333333 43.1666666667 -78.75 41.0833333333 -78.75 41.0833333333 -83.5833333333 43.1666666667 -83.5833333333",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1853"
   ],
-  "georss_box_s": "41.0833333333 -83.5833333333 43.1666666667 -78.75",
-  "georss_polygon_s": "43.1666666667 -83.5833333333 43.1666666667 -78.75 41.0833333333 -78.75 41.0833333333 -83.5833333333 43.1666666667 -83.5833333333",
   "solr_geom": "ENVELOPE(-83.5833333333, -78.75, 43.1666666667, 41.0833333333)",
-  "solr_year_i": "1853"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Erie, Lake"
+  ]
 }

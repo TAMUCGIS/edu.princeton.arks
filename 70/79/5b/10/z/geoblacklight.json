@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1575",
   "uuid": "http://arks.princeton.edu/ark:/88435/70795b10z",
+  "dc_description_s": "Damascus, urbs nobilissima ad Libanum montem, totius Sy\u0308ri\u00e6 metropolis",
+  "georss_box_s": "33.3530695 36.1495814 33.6730695 36.4695814",
+  "layer_modified_dt": "2015-01-21T22:24:11Z",
   "dc_creator_sm": [
     "Braun, Georg,",
     "Hogenberg, Frans,",
     "McCabe, Robert A.,"
   ],
-  "dc_description_s": "Damascus, urbs nobilissima ad Libanum montem, totius Sÿriæ metropolis",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "70795b10z",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/70795b10z/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F70%2F79%2F5b%2F10%2Fz%2F00000001.jp2/info.json\"}",
   "layer_id_s": "70795b10z",
-  "layer_slug_s": "princeton-70795b10z",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:11Z",
-  "dc_title_s": "Damascus, urbs nobilissima ad Libanum montem, totius Sÿriæ metropolis",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Damascus (Syria)"
-  ],
+  "dc_identifier_s": "70795b10z",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Damascus, urbs nobilissima ad Libanum montem, totius Sy\u0308ri\u00e6 metropolis",
+  "layer_slug_s": "princeton-70795b10z",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/70795b10z/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/70/79/5b/10/z/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "33.6730695 36.1495814 33.6730695 36.4695814 33.3530695 36.4695814 33.3530695 36.1495814 33.6730695 36.1495814",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1575"
   ],
-  "georss_box_s": "33.3530695 36.1495814 33.6730695 36.4695814",
-  "georss_polygon_s": "33.6730695 36.1495814 33.6730695 36.4695814 33.3530695 36.4695814 33.3530695 36.1495814 33.6730695 36.1495814",
   "solr_geom": "ENVELOPE(36.1495814, 36.4695814, 33.6730695, 33.3530695)",
-  "solr_year_i": "1575"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Damascus (Syria)"
+  ]
 }

@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1911",
   "uuid": "http://arks.princeton.edu/ark:/88435/12579v09c",
   "dc_description_s": "Zuid-Afrika onder nederlandsch bewind",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "12579v09c",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/12579v09c/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F12%2F57%2F9v%2F09%2Fc%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "12579v09c",
-  "layer_slug_s": "princeton-12579v09c",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "-46.9813794 16.45194 -22.12503 38.0037335",
   "layer_modified_dt": "2015-01-21T22:23:43Z",
-  "dc_title_s": "Zuid-Afrika onder nederlandsch bewind",
+  "layer_id_s": "12579v09c",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "South Africa"
-  ],
+  "dc_identifier_s": "12579v09c",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Zuid-Afrika onder nederlandsch bewind",
+  "layer_slug_s": "princeton-12579v09c",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/12579v09c/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/12/57/9v/09/c/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "-22.12503 16.45194 -22.12503 38.0037335 -46.9813794 38.0037335 -46.9813794 16.45194 -22.12503 16.45194",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1911"
   ],
-  "georss_box_s": "-46.9813794 16.45194 -22.12503 38.0037335",
-  "georss_polygon_s": "-22.12503 16.45194 -22.12503 38.0037335 -46.9813794 38.0037335 -46.9813794 16.45194 -22.12503 16.45194",
   "solr_geom": "ENVELOPE(16.45194, 38.0037335, -22.12503, -46.9813794)",
-  "solr_year_i": "1911"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "South Africa"
+  ]
 }

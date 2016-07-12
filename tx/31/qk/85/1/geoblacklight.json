@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/tx31qk851",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of New Jersey Coast",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "tx31qk851",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ftx%2F31%2Fqk%2F85%2F1%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "tx31qk851",
-  "layer_slug_s": "princeton-tx31qk851",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:06:39Z",
+  "solr_geom": "ENVELOPE(-74.8546, -73.9684, 40.4126, 38.9465)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/tx/31/qk/85/1/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/tx31qk851",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "New Jersey coast, N.J. : vol.1 (Sheet 1).",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1941"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "tx31qk851",
+  "georss_polygon_s": "40.4126 -74.8546 40.4126 -73.9684 38.9465 -73.9684 38.9465 -74.8546 40.4126 -74.8546",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1941",
   "dct_spatial_sm": [
     "New Jersey",
     "New Jersey Coast"
   ],
-  "dct_temporal_sm": [
-    "1941"
-  ],
+  "layer_id_s": "tx31qk851",
   "georss_box_s": "38.9465 -74.8546 40.4126 -73.9684",
-  "georss_polygon_s": "40.4126 -74.8546 40.4126 -73.9684 38.9465 -73.9684 38.9465 -74.8546 40.4126 -74.8546",
-  "solr_geom": "ENVELOPE(-74.8546, -73.9684, 40.4126, 38.9465)",
-  "solr_year_i": "1941"
+  "dc_title_s": "New Jersey coast, N.J. : vol.1 (Sheet 1).",
+  "layer_slug_s": "princeton-tx31qk851",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

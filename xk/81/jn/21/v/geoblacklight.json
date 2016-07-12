@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1892",
   "uuid": "http://arks.princeton.edu/ark:/88435/xk81jn21v",
   "dc_description_s": "Rand, McNally & Co.'s indexed atlas of the world map of Africa",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "xk81jn21v",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/xk81jn21v/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fxk%2F81%2Fjn%2F21%2Fv%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "xk81jn21v",
-  "layer_slug_s": "princeton-xk81jn21v",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "1.9999503 15.9999497 2.0000503 16.0000497",
   "layer_modified_dt": "2015-01-21T22:23:43Z",
-  "dc_title_s": "Rand, McNally & Co.'s indexed atlas of the world map of Africa",
+  "layer_id_s": "xk81jn21v",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Africa",
-    "Suez Canal (Egypt)"
-  ],
+  "dc_identifier_s": "xk81jn21v",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Rand, McNally & Co.'s indexed atlas of the world map of Africa",
+  "layer_slug_s": "princeton-xk81jn21v",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/xk81jn21v/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/xk/81/jn/21/v/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "2.0000503 15.9999497 2.0000503 16.0000497 1.9999503 16.0000497 1.9999503 15.9999497 2.0000503 15.9999497",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1892"
   ],
-  "georss_box_s": "1.9999503 15.9999497 2.0000503 16.0000497",
-  "georss_polygon_s": "2.0000503 15.9999497 2.0000503 16.0000497 1.9999503 16.0000497 1.9999503 15.9999497 2.0000503 15.9999497",
   "solr_geom": "ENVELOPE(15.9999497, 16.0000497, 2.0000503, 1.9999503)",
-  "solr_year_i": "1892"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Africa",
+    "Suez Canal (Egypt)"
+  ]
 }

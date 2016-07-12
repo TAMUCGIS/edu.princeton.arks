@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1635",
   "uuid": "http://arks.princeton.edu/ark:/88435/qz20sw01w",
+  "dc_description_s": "Hibernia regnum : vulgo Ireland",
+  "georss_box_s": "51.222 -14.0155169 57.7730825 -5.6582362",
+  "layer_modified_dt": "2015-01-21T22:24:23Z",
   "dc_creator_sm": [
     "Blaeu, Joan,",
     "Blaeu, Joan,",
     "McCabe, Robert A.,"
   ],
-  "dc_description_s": "Hibernia regnum : vulgo Ireland",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "qz20sw01w",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/qz20sw01w/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fqz%2F20%2Fsw%2F01%2Fw%2F00000001.jp2/info.json\"}",
   "layer_id_s": "qz20sw01w",
-  "layer_slug_s": "princeton-qz20sw01w",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:23Z",
-  "dc_title_s": "Hibernia regnum : vulgo Ireland",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Ireland"
-  ],
+  "dc_identifier_s": "qz20sw01w",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Hibernia regnum : vulgo Ireland",
+  "layer_slug_s": "princeton-qz20sw01w",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/qz20sw01w/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/qz/20/sw/01/w/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "57.7730825 -14.0155169 57.7730825 -5.6582362 51.222 -5.6582362 51.222 -14.0155169 57.7730825 -14.0155169",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1635"
   ],
-  "georss_box_s": "51.222 -14.0155169 57.7730825 -5.6582362",
-  "georss_polygon_s": "57.7730825 -14.0155169 57.7730825 -5.6582362 51.222 -5.6582362 51.222 -14.0155169 57.7730825 -14.0155169",
   "solr_geom": "ENVELOPE(-14.0155169, -5.6582362, 57.7730825, 51.222)",
-  "solr_year_i": "1635"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Ireland"
+  ]
 }

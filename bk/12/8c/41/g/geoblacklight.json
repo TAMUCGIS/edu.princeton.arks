@@ -2,7 +2,7 @@
   "dc_description_s": "This is a map of Chile's Easter Island, showing the relief of the island as well as the location of the famous stone heads. The map was created by the Central Intelligence Agency.",
   "layer_modified_dt": "2015-01-11T17:42:51Z",
   "solr_geom": "ENVELOPE(-109.5, -109.3, -27, -27.25)",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fbk%2F12%2F8c%2F41%2Fg%2F00000001.jp2/info.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/bk128c41g/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/bk128c41g/preview.jpg\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/bk128c41g/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/bk/12/8c/41/g/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/bk128c41g/preview.jpg\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/bk128c41g",
   "dct_provenance_s": "Princeton",
@@ -13,7 +13,7 @@
     "Cultural, Society and Demographic"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "July 1986",
+  "layer_slug_s": "princeton-bk128c41g",
   "dc_creator_sm": [
     "Central Intelligence Agency"
   ],
@@ -30,7 +30,7 @@
   "layer_id_s": "bk128c41g",
   "georss_box_s": "-27.25 -109.5 -27 -109.3",
   "dc_title_s": "Easter Island (Chile), 1986 (with relief)",
-  "layer_slug_s": "princeton-bk128c41g",
+  "dct_issued_s": "July 1986",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1901",
   "uuid": "http://arks.princeton.edu/ark:/88435/ft848t130",
   "dc_description_s": "County Kilkenny, Province of Leinster, Ireland",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "ft848t130",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/ft848t130/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fft%2F84%2F8t%2F13%2F0%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "ft848t130",
-  "layer_slug_s": "princeton-ft848t130",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "52.612573 -7.2869004 52.692573 -7.2069004",
   "layer_modified_dt": "2015-01-21T22:24:24Z",
-  "dc_title_s": "County Kilkenny, Province of Leinster, Ireland",
+  "layer_id_s": "ft848t130",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Kilkenny (Ireland : County)"
-  ],
+  "dc_identifier_s": "ft848t130",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "County Kilkenny, Province of Leinster, Ireland",
+  "layer_slug_s": "princeton-ft848t130",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/ft848t130/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ft/84/8t/13/0/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "52.692573 -7.2869004 52.692573 -7.2069004 52.612573 -7.2069004 52.612573 -7.2869004 52.692573 -7.2869004",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1901"
   ],
-  "georss_box_s": "52.612573 -7.2869004 52.692573 -7.2069004",
-  "georss_polygon_s": "52.692573 -7.2869004 52.692573 -7.2069004 52.612573 -7.2069004 52.612573 -7.2869004 52.692573 -7.2869004",
   "solr_geom": "ENVELOPE(-7.2869004, -7.2069004, 52.692573, 52.612573)",
-  "solr_year_i": "1901"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Kilkenny (Ireland : County)"
+  ]
 }

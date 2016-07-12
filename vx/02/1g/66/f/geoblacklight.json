@@ -2,7 +2,7 @@
   "dc_description_s": "This is a map of Bulgaria. The map was created by the Central Intelligence Agency.",
   "layer_modified_dt": "2015-01-11T17:43:00Z",
   "solr_geom": "ENVELOPE(24, 28, 44, 40)",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fvx%2F02%2F1g%2F66%2Ff%2F00000001.jp2/info.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/vx021g66f/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/vx021g66f/preview.jpg\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/vx021g66f/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/vx/02/1g/66/f/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/vx021g66f/preview.jpg\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/vx021g66f",
   "dct_provenance_s": "Princeton",
@@ -13,7 +13,7 @@
     "Administrative and Political Boundaries"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "July 1988",
+  "layer_slug_s": "princeton-vx021g66f",
   "dc_creator_sm": [
     "Central Intelligence Agency"
   ],
@@ -30,7 +30,7 @@
   "layer_id_s": "vx021g66f",
   "georss_box_s": "40 24 44 28",
   "dc_title_s": "Bulgaria, 1988",
-  "layer_slug_s": "princeton-vx021g66f",
+  "dct_issued_s": "July 1988",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

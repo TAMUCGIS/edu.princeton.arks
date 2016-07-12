@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1898",
   "uuid": "http://arks.princeton.edu/ark:/88435/q524jr26x",
   "dc_description_s": "[Kent]",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "q524jr26x",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/q524jr26x/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fq5%2F24%2Fjr%2F26%2Fx%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "q524jr26x",
-  "layer_slug_s": "princeton-q524jr26x",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "50.9104763 0.0335249 51.4822724 1.4517689",
   "layer_modified_dt": "2015-01-21T22:24:17Z",
-  "dc_title_s": "[Kent]",
+  "layer_id_s": "q524jr26x",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Kent (England)"
-  ],
+  "dc_identifier_s": "q524jr26x",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "[Kent]",
+  "layer_slug_s": "princeton-q524jr26x",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/q524jr26x/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/q5/24/jr/26/x/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "51.4822724 0.0335249 51.4822724 1.4517689 50.9104763 1.4517689 50.9104763 0.0335249 51.4822724 0.0335249",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1898"
   ],
-  "georss_box_s": "50.9104763 0.0335249 51.4822724 1.4517689",
-  "georss_polygon_s": "51.4822724 0.0335249 51.4822724 1.4517689 50.9104763 1.4517689 50.9104763 0.0335249 51.4822724 0.0335249",
   "solr_geom": "ENVELOPE(0.0335249, 1.4517689, 51.4822724, 50.9104763)",
-  "solr_year_i": "1898"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Kent (England)"
+  ]
 }

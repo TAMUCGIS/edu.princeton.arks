@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1700",
   "uuid": "http://arks.princeton.edu/ark:/88435/t435gg47b",
-  "dc_description_s": "La basse partie du Cercle du Haut Rhein : divisé en tous ses estats et souverainetés à l'usage de Monseigneur le duc de Bourgogne",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "t435gg47b",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/t435gg47b/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ft4%2F35%2Fgg%2F47%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "t435gg47b",
-  "layer_slug_s": "princeton-t435gg47b",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "La basse partie du Cercle du Haut Rhein : divise\u0301 en tous ses estats et souverainete\u0301s a\u0300 l'usage de Monseigneur le duc de Bourgogne",
+  "georss_box_s": "49.3952611 7.7724063 51.657817 10.2364858",
   "layer_modified_dt": "2015-01-21T22:24:19Z",
-  "dc_title_s": "La basse partie du Cercle du Haut Rhein : divisé en tous ses estats et souverainetés à l'usage de Monseigneur le duc de Bourgogne",
+  "layer_id_s": "t435gg47b",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Hesse (Germany)"
-  ],
+  "dc_identifier_s": "t435gg47b",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "La basse partie du Cercle du Haut Rhein : divise\u0301 en tous ses estats et souverainete\u0301s a\u0300 l'usage de Monseigneur le duc de Bourgogne",
+  "layer_slug_s": "princeton-t435gg47b",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/t435gg47b/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/t4/35/gg/47/b/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "51.657817 7.7724063 51.657817 10.2364858 49.3952611 10.2364858 49.3952611 7.7724063 51.657817 7.7724063",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1700"
   ],
-  "georss_box_s": "49.3952611 7.7724063 51.657817 10.2364858",
-  "georss_polygon_s": "51.657817 7.7724063 51.657817 10.2364858 49.3952611 10.2364858 49.3952611 7.7724063 51.657817 7.7724063",
   "solr_geom": "ENVELOPE(7.7724063, 10.2364858, 51.657817, 49.3952611)",
-  "solr_year_i": "1700"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Hesse (Germany)"
+  ]
 }

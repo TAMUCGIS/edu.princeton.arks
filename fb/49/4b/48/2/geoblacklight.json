@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1833",
   "uuid": "http://arks.princeton.edu/ark:/88435/fb494b482",
+  "dc_description_s": "A map of the State of New Jersey with part of the adjoining states : compiled under the patronage of the Legislature of said state",
+  "georss_box_s": "38.7911303 -75.5633859 41.357423 -73.8939789",
+  "layer_modified_dt": "2015-01-21T22:23:54Z",
   "dc_creator_sm": [
     "Tanner, Henry Schenck,",
     "Allen, William F.",
     "Dawson, E. B."
   ],
-  "dc_description_s": "A map of the State of New Jersey with part of the adjoining states : compiled under the patronage of the Legislature of said state",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "fb494b482",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/fb494b482/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ffb%2F49%2F4b%2F48%2F2%2F00000001.jp2/info.json\"}",
   "layer_id_s": "fb494b482",
-  "layer_slug_s": "princeton-fb494b482",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:54Z",
-  "dc_title_s": "A map of the State of New Jersey with part of the adjoining states : compiled under the patronage of the Legislature of said state",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "New Jersey"
-  ],
+  "dc_identifier_s": "fb494b482",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "A map of the State of New Jersey with part of the adjoining states : compiled under the patronage of the Legislature of said state",
+  "layer_slug_s": "princeton-fb494b482",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/fb494b482/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/fb/49/4b/48/2/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "41.357423 -75.5633859 41.357423 -73.8939789 38.7911303 -73.8939789 38.7911303 -75.5633859 41.357423 -75.5633859",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1833"
   ],
-  "georss_box_s": "38.7911303 -75.5633859 41.357423 -73.8939789",
-  "georss_polygon_s": "41.357423 -75.5633859 41.357423 -73.8939789 38.7911303 -73.8939789 38.7911303 -75.5633859 41.357423 -75.5633859",
   "solr_geom": "ENVELOPE(-75.5633859, -73.8939789, 41.357423, 38.7911303)",
-  "solr_year_i": "1833"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "New Jersey"
+  ]
 }

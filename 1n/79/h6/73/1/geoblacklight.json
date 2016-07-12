@@ -1,28 +1,26 @@
 {
+  "solr_year_i": "1872",
   "uuid": "http://arks.princeton.edu/ark:/88435/1n79h6731",
+  "dc_description_s": "Map of the Hermitage Farm and the Norton Estate",
+  "georss_box_s": "40.7702778 -73.9797222 40.8102778 -73.9397222",
+  "layer_modified_dt": "2015-01-21T22:24:04Z",
   "dc_creator_sm": [
     "Johnston, Lewis,"
   ],
-  "dc_description_s": "Map of the Hermitage Farm and the Norton Estate",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "1n79h6731",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/1n79h6731/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F1n%2F79%2Fh6%2F73%2F1%2F00000001.jp2/info.json\"}",
   "layer_id_s": "1n79h6731",
-  "layer_slug_s": "princeton-1n79h6731",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:04Z",
-  "dc_title_s": "Map of the Hermitage Farm and the Norton Estate",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "1n79h6731",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Map of the Hermitage Farm and the Norton Estate",
+  "layer_slug_s": "princeton-1n79h6731",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/1n79h6731/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/1n/79/h6/73/1/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.8102778 -73.9797222 40.8102778 -73.9397222 40.7702778 -73.9397222 40.7702778 -73.9797222 40.8102778 -73.9797222",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1872"
   ],
-  "georss_box_s": "40.7702778 -73.9797222 40.8102778 -73.9397222",
-  "georss_polygon_s": "40.8102778 -73.9797222 40.8102778 -73.9397222 40.7702778 -73.9397222 40.7702778 -73.9797222 40.8102778 -73.9797222",
   "solr_geom": "ENVELOPE(-73.9797222, -73.9397222, 40.8102778, 40.7702778)",
-  "solr_year_i": "1872"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

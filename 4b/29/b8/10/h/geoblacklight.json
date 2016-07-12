@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/4b29b810h",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of New Brunswick",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "4b29b810h",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F4b%2F29%2Fb8%2F10%2Fh%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "4b29b810h",
-  "layer_slug_s": "princeton-4b29b810h",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:05:50Z",
+  "solr_geom": "ENVELOPE(-74.4895, -74.392412, 40.509533, 40.467952)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/4b/29/b8/10/h/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/4b29b810h",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Insurance maps of South River, Middlesex County, New Jersey: including East Brunswick Township and Washington Heights (Sheet 8)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1930"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "4b29b810h",
+  "georss_polygon_s": "40.509533 -74.4895 40.509533 -74.392412 40.467952 -74.392412 40.467952 -74.4895 40.509533 -74.4895",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1930",
   "dct_spatial_sm": [
     "New Jersey",
     "New Brunswick"
   ],
-  "dct_temporal_sm": [
-    "1930"
-  ],
+  "layer_id_s": "4b29b810h",
   "georss_box_s": "40.467952 -74.4895 40.509533 -74.392412",
-  "georss_polygon_s": "40.509533 -74.4895 40.509533 -74.392412 40.467952 -74.392412 40.467952 -74.4895 40.509533 -74.4895",
-  "solr_geom": "ENVELOPE(-74.4895, -74.392412, 40.509533, 40.467952)",
-  "solr_year_i": "1930"
+  "dc_title_s": "Insurance maps of South River, Middlesex County, New Jersey: including East Brunswick Township and Washington Heights (Sheet 8)",
+  "layer_slug_s": "princeton-4b29b810h",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

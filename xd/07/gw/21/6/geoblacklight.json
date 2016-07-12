@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1595",
   "uuid": "http://arks.princeton.edu/ark:/88435/xd07gw216",
+  "dc_description_s": "Taurica Chersonesus",
+  "georss_box_s": "44.3864399 32.4792759 46.229161 36.6467392",
+  "layer_modified_dt": "2015-01-25T02:06:19Z",
   "dc_creator_sm": [
     "Mercator, Gerhard,",
     "McCabe, Robert A.,"
   ],
-  "dc_description_s": "Taurica Chersonesus",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "xd07gw216",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/xd07gw216/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fxd%2F07%2Fgw%2F21%2F6%2F00000001.jp2/info.json\"}",
   "layer_id_s": "xd07gw216",
-  "layer_slug_s": "princeton-xd07gw216",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:19Z",
-  "dc_title_s": "Taurica Chersonesus",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Crimea (Ukraine)"
-  ],
+  "dc_identifier_s": "xd07gw216",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Taurica Chersonesus",
+  "layer_slug_s": "princeton-xd07gw216",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/xd07gw216/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/xd/07/gw/21/6/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "46.229161 32.4792759 46.229161 36.6467392 44.3864399 36.6467392 44.3864399 32.4792759 46.229161 32.4792759",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1595"
   ],
-  "georss_box_s": "44.3864399 32.4792759 46.229161 36.6467392",
-  "georss_polygon_s": "46.229161 32.4792759 46.229161 36.6467392 44.3864399 36.6467392 44.3864399 32.4792759 46.229161 32.4792759",
   "solr_geom": "ENVELOPE(32.4792759, 36.6467392, 46.229161, 44.3864399)",
-  "solr_year_i": "1595"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Crimea (Ukraine)"
+  ]
 }

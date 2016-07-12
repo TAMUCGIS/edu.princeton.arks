@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1663",
   "uuid": "http://arks.princeton.edu/ark:/88435/t435gg52c",
+  "dc_description_s": "Vmbria overo ducato di Spoleto",
+  "georss_box_s": "42.3644512 11.8918927 43.6173461 13.2641691",
+  "layer_modified_dt": "2015-01-25T02:06:21Z",
   "dc_creator_sm": [
     "Blaeu, Joan,"
   ],
-  "dc_description_s": "Vmbria overo ducato di Spoleto",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "t435gg52c",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/t435gg52c/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ft4%2F35%2Fgg%2F52%2Fc%2F00000001.jp2/info.json\"}",
   "layer_id_s": "t435gg52c",
-  "layer_slug_s": "princeton-t435gg52c",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:21Z",
-  "dc_title_s": "Vmbria overo ducato di Spoleto",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Umbria (Italy)"
-  ],
+  "dc_identifier_s": "t435gg52c",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Vmbria overo ducato di Spoleto",
+  "layer_slug_s": "princeton-t435gg52c",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/t435gg52c/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/t4/35/gg/52/c/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "43.6173461 11.8918927 43.6173461 13.2641691 42.3644512 13.2641691 42.3644512 11.8918927 43.6173461 11.8918927",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1663"
   ],
-  "georss_box_s": "42.3644512 11.8918927 43.6173461 13.2641691",
-  "georss_polygon_s": "43.6173461 11.8918927 43.6173461 13.2641691 42.3644512 13.2641691 42.3644512 11.8918927 43.6173461 11.8918927",
   "solr_geom": "ENVELOPE(11.8918927, 13.2641691, 43.6173461, 42.3644512)",
-  "solr_year_i": "1663"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Umbria (Italy)"
+  ]
 }

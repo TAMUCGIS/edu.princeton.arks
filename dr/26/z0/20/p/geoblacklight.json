@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1936",
   "uuid": "http://arks.princeton.edu/ark:/88435/dr26z020p",
+  "dc_description_s": "Carte geologique detaillee de la France [a 1/80 000]: Caen.",
+  "georss_box_s": "49.11910 -0.75430 49.47880 0.12840",
+  "layer_modified_dt": "2015-01-19T22:36:37Z",
   "dc_creator_sm": [
     "Grandjean, F. A."
   ],
-  "dc_description_s": "Carte geologique detaillee de la France [a 1/80 000]: Caen.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "dr26z020p",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/dr26z020p/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fdr%2F26%2Fz0%2F20%2Fp%2F00000001.jp2/info.json\"}",
   "layer_id_s": "dr26z020p",
-  "layer_slug_s": "princeton-dr26z020p",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:36:37Z",
-  "dc_title_s": "Carte geologique detaillee de la France [a 1/80 000]: Caen.",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "France"
-  ],
+  "dc_identifier_s": "dr26z020p",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Carte geologique detaillee de la France [a 1/80 000]: Caen.",
+  "layer_slug_s": "princeton-dr26z020p",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/dr26z020p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/dr/26/z0/20/p/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "49.47880 -0.75430 49.47880 0.12840 49.11910 0.12840 49.11910 -0.75430 49.47880 -0.75430",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1936"
   ],
-  "georss_box_s": "49.11910 -0.75430 49.47880 0.12840",
-  "georss_polygon_s": "49.47880 -0.75430 49.47880 0.12840 49.11910 0.12840 49.11910 -0.75430 49.47880 -0.75430",
   "solr_geom": "ENVELOPE(-0.75430, 0.12840, 49.47880, 49.11910)",
-  "solr_year_i": "1936"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "France"
+  ]
 }

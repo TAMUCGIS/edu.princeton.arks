@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1741",
   "uuid": "http://arks.princeton.edu/ark:/88435/b8515q92m",
+  "dc_description_s": "Nova & accurata Tusci\u00e6 antiqu\u00e6 descriptio",
+  "georss_box_s": "42.2384378 9.6867213 44.4726899 12.3713555",
+  "layer_modified_dt": "2015-01-25T02:06:20Z",
   "dc_creator_sm": [
     "Keere, Pieter van den,",
     "Horn, Georg,"
   ],
-  "dc_description_s": "Nova & accurata Tusciæ antiquæ descriptio",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "b8515q92m",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/b8515q92m/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F8%2F51%2F5q%2F92%2Fm%2F00000001.jp2/info.json\"}",
   "layer_id_s": "b8515q92m",
-  "layer_slug_s": "princeton-b8515q92m",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:20Z",
-  "dc_title_s": "Nova & accurata Tusciæ antiquæ descriptio",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Tuscany (Italy)"
-  ],
+  "dc_identifier_s": "b8515q92m",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Nova & accurata Tusci\u00e6 antiqu\u00e6 descriptio",
+  "layer_slug_s": "princeton-b8515q92m",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/b8515q92m/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/b8/51/5q/92/m/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "44.4726899 9.6867213 44.4726899 12.3713555 42.2384378 12.3713555 42.2384378 9.6867213 44.4726899 9.6867213",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1741"
   ],
-  "georss_box_s": "42.2384378 9.6867213 44.4726899 12.3713555",
-  "georss_polygon_s": "44.4726899 9.6867213 44.4726899 12.3713555 42.2384378 12.3713555 42.2384378 9.6867213 44.4726899 9.6867213",
   "solr_geom": "ENVELOPE(9.6867213, 12.3713555, 44.4726899, 42.2384378)",
-  "solr_year_i": "1741"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Tuscany (Italy)"
+  ]
 }

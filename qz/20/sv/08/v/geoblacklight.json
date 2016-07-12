@@ -2,7 +2,7 @@
   "dc_description_s": "This is a scanned Aerial photograph of the Princeton Area taken in the 1920's.",
   "layer_modified_dt": "2015-01-11T17:43:07Z",
   "solr_geom": "ENVELOPE(-74.939246, -74.482460, 40.424427, 40.135958)",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fqz%2F20%2Fsv%2F08%2Fv%2F00000001.jp2/info.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/qz20sv08v/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/qz20sv08v/preview.jpg\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/qz20sv08v/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/qz/20/sv/08/v/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/qz20sv08v/preview.jpg\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/qz20sv08v",
   "dct_provenance_s": "Princeton",
@@ -15,7 +15,7 @@
     "Princeton University"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "c.1920",
+  "layer_slug_s": "princeton-qz20sv08v",
   "dc_creator_sm": [
     "Aero Service Corporation"
   ],
@@ -30,7 +30,7 @@
   "layer_id_s": "qz20sv08v",
   "georss_box_s": "40.135958 -74.939246 40.424427 -74.482460",
   "dc_title_s": "Princeton Aerial Photograph (Looking West from 14,000 ft) c. 1920s ",
-  "layer_slug_s": "princeton-qz20sv08v",
+  "dct_issued_s": "c.1920",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

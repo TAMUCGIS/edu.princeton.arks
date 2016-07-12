@@ -1,29 +1,27 @@
 {
+  "solr_year_i": "1856",
   "uuid": "http://arks.princeton.edu/ark:/88435/5999n582x",
+  "dc_description_s": "Plan of the city of New York : showing the made and swamp land",
+  "georss_box_s": "40.477399 -74.2590899 40.917577 -73.7001714",
+  "layer_modified_dt": "2015-01-21T22:24:03Z",
   "dc_creator_sm": [
     "Valentine, D. T.",
     "Fox, N. B.,"
   ],
-  "dc_description_s": "Plan of the city of New York : showing the made and swamp land",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "5999n582x",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/5999n582x/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F59%2F99%2Fn5%2F82%2Fx%2F00000001.jp2/info.json\"}",
   "layer_id_s": "5999n582x",
-  "layer_slug_s": "princeton-5999n582x",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:03Z",
-  "dc_title_s": "Plan of the city of New York : showing the made and swamp land",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "5999n582x",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Plan of the city of New York : showing the made and swamp land",
+  "layer_slug_s": "princeton-5999n582x",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/5999n582x/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/59/99/n5/82/x/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.917577 -74.2590899 40.917577 -73.7001714 40.477399 -73.7001714 40.477399 -74.2590899 40.917577 -74.2590899",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1856"
   ],
-  "georss_box_s": "40.477399 -74.2590899 40.917577 -73.7001714",
-  "georss_polygon_s": "40.917577 -74.2590899 40.917577 -73.7001714 40.477399 -73.7001714 40.477399 -74.2590899 40.917577 -74.2590899",
   "solr_geom": "ENVELOPE(-74.2590899, -73.7001714, 40.917577, 40.477399)",
-  "solr_year_i": "1856"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

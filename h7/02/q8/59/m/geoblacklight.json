@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/h702q859m",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Bernardsville",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "h702q859m",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fh7%2F02%2Fq8%2F59%2Fm%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "h702q859m",
-  "layer_slug_s": "princeton-h702q859m",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:08:10Z",
+  "solr_geom": "ENVELOPE(-74.640976, -74.548751, 40.758005, 40.692871)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/h7/02/q8/59/m/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/h702q859m",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Bernardsville, Somerset County, New Jersey (Sheet 7).",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1930"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "h702q859m",
+  "georss_polygon_s": "40.758005 -74.640976 40.758005 -74.548751 40.692871 -74.548751 40.692871 -74.640976 40.758005 -74.640976",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1930",
   "dct_spatial_sm": [
     "New Jersey",
     "Bernardsville"
   ],
-  "dct_temporal_sm": [
-    "1930"
-  ],
+  "layer_id_s": "h702q859m",
   "georss_box_s": "40.692871 -74.640976 40.758005 -74.548751",
-  "georss_polygon_s": "40.758005 -74.640976 40.758005 -74.548751 40.692871 -74.548751 40.692871 -74.640976 40.758005 -74.640976",
-  "solr_geom": "ENVELOPE(-74.640976, -74.548751, 40.758005, 40.692871)",
-  "solr_year_i": "1930"
+  "dc_title_s": "Bernardsville, Somerset County, New Jersey (Sheet 7).",
+  "layer_slug_s": "princeton-h702q859m",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

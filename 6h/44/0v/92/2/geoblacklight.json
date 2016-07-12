@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1815",
   "uuid": "http://arks.princeton.edu/ark:/88435/6h440v922",
+  "dc_description_s": "The anchorage at Blewfields, Jamaica",
+  "georss_box_s": "18.1563425 -78.0351269 18.1792686 -78.0227137",
+  "layer_modified_dt": "2015-01-21T22:24:07Z",
   "dc_creator_sm": [
     "Buller, William.",
     "Hurd, Thomas,",
     "Walker, J.,"
   ],
-  "dc_description_s": "The anchorage at Blewfields, Jamaica",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "6h440v922",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/6h440v922/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F6h%2F44%2F0v%2F92%2F2%2F00000001.jp2/info.json\"}",
   "layer_id_s": "6h440v922",
-  "layer_slug_s": "princeton-6h440v922",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:07Z",
-  "dc_title_s": "The anchorage at Blewfields, Jamaica",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Bluefields ( Jamaica)"
-  ],
+  "dc_identifier_s": "6h440v922",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "The anchorage at Blewfields, Jamaica",
+  "layer_slug_s": "princeton-6h440v922",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/6h440v922/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/6h/44/0v/92/2/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "18.1792686 -78.0351269 18.1792686 -78.0227137 18.1563425 -78.0227137 18.1563425 -78.0351269 18.1792686 -78.0351269",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1815"
   ],
-  "georss_box_s": "18.1563425 -78.0351269 18.1792686 -78.0227137",
-  "georss_polygon_s": "18.1792686 -78.0351269 18.1792686 -78.0227137 18.1563425 -78.0227137 18.1563425 -78.0351269 18.1792686 -78.0351269",
   "solr_geom": "ENVELOPE(-78.0351269, -78.0227137, 18.1792686, 18.1563425)",
-  "solr_year_i": "1815"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Bluefields ( Jamaica)"
+  ]
 }

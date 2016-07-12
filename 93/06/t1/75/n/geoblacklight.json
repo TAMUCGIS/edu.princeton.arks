@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1845",
   "uuid": "http://arks.princeton.edu/ark:/88435/9306t175n",
   "dc_description_s": "Antwerpen : plan topographique a d'Anvers, 1845",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "9306t175n",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/9306t175n/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F93%2F06%2Ft1%2F75%2Fn%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "9306t175n",
-  "layer_slug_s": "princeton-9306t175n",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "51.1432868 4.2175769 51.3776412 4.497986",
   "layer_modified_dt": "2015-01-21T22:24:08Z",
-  "dc_title_s": "Antwerpen : plan topographique a d'Anvers, 1845",
+  "layer_id_s": "9306t175n",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Antwerp (Belgium)"
-  ],
+  "dc_identifier_s": "9306t175n",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Antwerpen : plan topographique a d'Anvers, 1845",
+  "layer_slug_s": "princeton-9306t175n",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/9306t175n/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/93/06/t1/75/n/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "51.3776412 4.2175769 51.3776412 4.497986 51.1432868 4.497986 51.1432868 4.2175769 51.3776412 4.2175769",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1845"
   ],
-  "georss_box_s": "51.1432868 4.2175769 51.3776412 4.497986",
-  "georss_polygon_s": "51.3776412 4.2175769 51.3776412 4.497986 51.1432868 4.497986 51.1432868 4.2175769 51.3776412 4.2175769",
   "solr_geom": "ENVELOPE(4.2175769, 4.497986, 51.3776412, 51.1432868)",
-  "solr_year_i": "1845"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Antwerp (Belgium)"
+  ]
 }

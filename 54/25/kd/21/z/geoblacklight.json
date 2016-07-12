@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1833",
   "uuid": "http://arks.princeton.edu/ark:/88435/5425kd21z",
-  "dc_description_s": "Königreich Griechenland nach den neuesten und besten Hülfsmitteln /",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "5425kd21z",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/5425kd21z/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F54%2F25%2Fkd%2F21%2Fz%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "5425kd21z",
-  "layer_slug_s": "princeton-5425kd21z",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Ko\u0308nigreich Griechenland nach den neuesten und besten Hu\u0308lfsmitteln /",
+  "georss_box_s": "34.7006096 19.2477876 41.7488862 29.7296986",
   "layer_modified_dt": "2015-01-21T22:24:28Z",
-  "dc_title_s": "Königreich Griechenland nach den neuesten und besten Hülfsmitteln /",
+  "layer_id_s": "5425kd21z",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Greece"
-  ],
+  "dc_identifier_s": "5425kd21z",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Ko\u0308nigreich Griechenland nach den neuesten und besten Hu\u0308lfsmitteln /",
+  "layer_slug_s": "princeton-5425kd21z",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/5425kd21z/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/54/25/kd/21/z/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "41.7488862 19.2477876 41.7488862 29.7296986 34.7006096 29.7296986 34.7006096 19.2477876 41.7488862 19.2477876",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1833"
   ],
-  "georss_box_s": "34.7006096 19.2477876 41.7488862 29.7296986",
-  "georss_polygon_s": "41.7488862 19.2477876 41.7488862 29.7296986 34.7006096 29.7296986 34.7006096 19.2477876 41.7488862 19.2477876",
   "solr_geom": "ENVELOPE(19.2477876, 29.7296986, 41.7488862, 34.7006096)",
-  "solr_year_i": "1833"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Greece"
+  ]
 }

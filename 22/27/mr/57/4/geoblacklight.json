@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1700",
   "uuid": "http://arks.princeton.edu/ark:/88435/2227mr574",
+  "dc_description_s": "Svmatr\u00e6 et insularum locorumque nonnullorum circumiacentium tabula noua",
+  "georss_box_s": "-7.0 125.0 6.0 135.0",
+  "layer_modified_dt": "2015-01-19T22:36:55Z",
   "dc_creator_sm": [
     "Valck, G.",
     "Jansson, Jan,"
   ],
-  "dc_description_s": "Svmatræ et insularum locorumque nonnullorum circumiacentium tabula noua",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "2227mr574",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/2227mr574/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F22%2F27%2Fmr%2F57%2F4%2F00000001.jp2/info.json\"}",
   "layer_id_s": "2227mr574",
-  "layer_slug_s": "princeton-2227mr574",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:36:55Z",
-  "dc_title_s": "Svmatræ et insularum locorumque nonnullorum circumiacentium tabula noua",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Sumatra (Indonesia)"
-  ],
+  "dc_identifier_s": "2227mr574",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Svmatr\u00e6 et insularum locorumque nonnullorum circumiacentium tabula noua",
+  "layer_slug_s": "princeton-2227mr574",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/2227mr574/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/22/27/mr/57/4/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "6.0 125.0 6.0 135.0 -7.0 135.0 -7.0 125.0 6.0 125.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1700"
   ],
-  "georss_box_s": "-7.0 125.0 6.0 135.0",
-  "georss_polygon_s": "6.0 125.0 6.0 135.0 -7.0 135.0 -7.0 125.0 6.0 125.0",
   "solr_geom": "ENVELOPE(125.0, 135.0, 6.0, -7.0)",
-  "solr_year_i": "1700"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Sumatra (Indonesia)"
+  ]
 }

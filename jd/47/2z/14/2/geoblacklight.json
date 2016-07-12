@@ -2,7 +2,7 @@
   "dc_description_s": "This is a map of the city of Tagant, Morocco, shown at a 1:125,000. The map was created for use by War and Navy Department agencies during World War II.",
   "layer_modified_dt": "2015-01-11T17:43:27Z",
   "solr_geom": "ENVELOPE(-10.000, -9.500, 29.500, 29.000)",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fjd%2F47%2F2z%2F14%2F2%2F00000001.jp2/info.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/jd472z142/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/jd472z142/preview.jpg\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/jd472z142/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/jd/47/2z/14/2/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/jd472z142/preview.jpg\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/jd472z142",
   "dct_provenance_s": "Princeton",
@@ -17,7 +17,7 @@
     "Facilities and Structures"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "1943",
+  "layer_slug_s": "princeton-jd472z142",
   "dc_creator_sm": [
     "Army Map Service"
   ],
@@ -33,7 +33,7 @@
   "layer_id_s": "jd472z142",
   "georss_box_s": "29.000 -10.000 29.500 -9.500",
   "dc_title_s": "Southern Morocco 1:125,000. A.M.S. P632. Tagant, sheet 64",
-  "layer_slug_s": "princeton-jd472z142",
+  "dct_issued_s": "1943",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

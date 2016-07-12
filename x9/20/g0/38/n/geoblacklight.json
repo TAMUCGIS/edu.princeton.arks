@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1849",
   "uuid": "http://arks.princeton.edu/ark:/88435/x920g038n",
+  "dc_description_s": "Plan du mouillage de St. Benoit (I\u0302le de la Re\u0301union)",
+  "georss_box_s": "-21.1723028 55.4951426 -21.0049815 55.7673701",
+  "layer_modified_dt": "2015-01-21T22:24:26Z",
   "dc_creator_sm": [
     "Blanc, M. R. le.",
     "Dyonnet, Ch.",
     "Hacq, J. M."
   ],
-  "dc_description_s": "Plan du mouillage de St. Benoit (Île de la Réunion)",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "x920g038n",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/x920g038n/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fx9%2F20%2Fg0%2F38%2Fn%2F00000001.jp2/info.json\"}",
   "layer_id_s": "x920g038n",
-  "layer_slug_s": "princeton-x920g038n",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:26Z",
-  "dc_title_s": "Plan du mouillage de St. Benoit (Île de la Réunion)",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Saint-Benoît (Réunion)"
-  ],
+  "dc_identifier_s": "x920g038n",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Plan du mouillage de St. Benoit (I\u0302le de la Re\u0301union)",
+  "layer_slug_s": "princeton-x920g038n",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/x920g038n/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/x9/20/g0/38/n/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "-21.0049815 55.4951426 -21.0049815 55.7673701 -21.1723028 55.7673701 -21.1723028 55.4951426 -21.0049815 55.4951426",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1849"
   ],
-  "georss_box_s": "-21.1723028 55.4951426 -21.0049815 55.7673701",
-  "georss_polygon_s": "-21.0049815 55.4951426 -21.0049815 55.7673701 -21.1723028 55.7673701 -21.1723028 55.4951426 -21.0049815 55.4951426",
   "solr_geom": "ENVELOPE(55.4951426, 55.7673701, -21.0049815, -21.1723028)",
-  "solr_year_i": "1849"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Saint-Benoi\u0302t (Re\u0301union)"
+  ]
 }

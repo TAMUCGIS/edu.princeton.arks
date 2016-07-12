@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1540",
   "uuid": "http://arks.princeton.edu/ark:/88435/7w62fb59k",
+  "dc_description_s": "Tabula Asiae X",
+  "georss_box_s": "20.3756582 88.0075306 26.6382534 92.6804979",
+  "layer_modified_dt": "2015-01-21T22:23:59Z",
   "dc_creator_sm": [
     "Ptolemy,"
   ],
-  "dc_description_s": "Tabula Asiae X",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "7w62fb59k",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/7w62fb59k/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F7w%2F62%2Ffb%2F59%2Fk%2F00000001.jp2/info.json\"}",
   "layer_id_s": "7w62fb59k",
-  "layer_slug_s": "princeton-7w62fb59k",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:59Z",
-  "dc_title_s": "Tabula Asiae X",
   "dc_type_s": "Image",
+  "dc_identifier_s": "7w62fb59k",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Tabula Asiae X",
+  "layer_slug_s": "princeton-7w62fb59k",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/7w62fb59k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/7w/62/fb/59/k/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "26.6382534 88.0075306 26.6382534 92.6804979 20.3756582 92.6804979 20.3756582 88.0075306 26.6382534 88.0075306",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1540"
+  ],
+  "solr_geom": "ENVELOPE(88.0075306, 92.6804979, 26.6382534, 20.3756582)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Bangladesh",
     "India",
     "India"
-  ],
-  "dct_temporal_sm": [
-    "1540"
-  ],
-  "georss_box_s": "20.3756582 88.0075306 26.6382534 92.6804979",
-  "georss_polygon_s": "26.6382534 88.0075306 26.6382534 92.6804979 20.3756582 92.6804979 20.3756582 88.0075306 26.6382534 88.0075306",
-  "solr_geom": "ENVELOPE(88.0075306, 92.6804979, 26.6382534, 20.3756582)",
-  "solr_year_i": "1540"
+  ]
 }

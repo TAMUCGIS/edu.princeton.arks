@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1918",
   "uuid": "http://arks.princeton.edu/ark:/88435/1r66j360r",
-  "dc_description_s": "Suleimānîje",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "1r66j360r",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/1r66j360r/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F1r%2F66%2Fj3%2F60%2Fr%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "1r66j360r",
-  "layer_slug_s": "princeton-1r66j360r",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Suleima\u0304ni\u0302je",
+  "georss_box_s": "34.6542512 44.5271578 36.486895 45.8735065",
   "layer_modified_dt": "2015-01-21T22:24:12Z",
-  "dc_title_s": "Suleimānîje",
+  "layer_id_s": "1r66j360r",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Sulaymānīyah (Iraq : Province)"
-  ],
+  "dc_identifier_s": "1r66j360r",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Suleima\u0304ni\u0302je",
+  "layer_slug_s": "princeton-1r66j360r",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/1r66j360r/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/1r/66/j3/60/r/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "36.486895 44.5271578 36.486895 45.8735065 34.6542512 45.8735065 34.6542512 44.5271578 36.486895 44.5271578",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1918"
   ],
-  "georss_box_s": "34.6542512 44.5271578 36.486895 45.8735065",
-  "georss_polygon_s": "36.486895 44.5271578 36.486895 45.8735065 34.6542512 45.8735065 34.6542512 44.5271578 36.486895 44.5271578",
   "solr_geom": "ENVELOPE(44.5271578, 45.8735065, 36.486895, 34.6542512)",
-  "solr_year_i": "1918"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Sulayma\u0304ni\u0304yah (Iraq : Province)"
+  ]
 }

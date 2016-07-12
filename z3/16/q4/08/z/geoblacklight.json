@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1903",
   "uuid": "http://arks.princeton.edu/ark:/88435/z316q408z",
   "dc_description_s": "Philips' clear print half inch map of the Lake District",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "z316q408z",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/z316q408z/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fz3%2F16%2Fq4%2F08%2Fz%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "z316q408z",
-  "layer_slug_s": "princeton-z316q408z",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "50.9743731 -3.8869332 50.975017 -3.8859432",
   "layer_modified_dt": "2015-01-21T22:24:17Z",
-  "dc_title_s": "Philips' clear print half inch map of the Lake District",
+  "layer_id_s": "z316q408z",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Lake District (England)"
-  ],
+  "dc_identifier_s": "z316q408z",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Philips' clear print half inch map of the Lake District",
+  "layer_slug_s": "princeton-z316q408z",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/z316q408z/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/z3/16/q4/08/z/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "50.975017 -3.8869332 50.975017 -3.8859432 50.9743731 -3.8859432 50.9743731 -3.8869332 50.975017 -3.8869332",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1903"
   ],
-  "georss_box_s": "50.9743731 -3.8869332 50.975017 -3.8859432",
-  "georss_polygon_s": "50.975017 -3.8869332 50.975017 -3.8859432 50.9743731 -3.8859432 50.9743731 -3.8869332 50.975017 -3.8869332",
   "solr_geom": "ENVELOPE(-3.8869332, -3.8859432, 50.975017, 50.9743731)",
-  "solr_year_i": "1903"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Lake District (England)"
+  ]
 }

@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1628",
   "uuid": "http://arks.princeton.edu/ark:/88435/7d278w480",
+  "dc_description_s": "Andaluzi\u00e6 nova descript.",
+  "georss_box_s": "35.0 11.0 40.0 19.0",
+  "layer_modified_dt": "2015-01-19T22:37:17Z",
   "dc_creator_sm": [
     "Mercator, Gerhard,",
     "McCabe, Robert A.,"
   ],
-  "dc_description_s": "Andaluziæ nova descript.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "7d278w480",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/7d278w480/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F7d%2F27%2F8w%2F48%2F0%2F00000001.jp2/info.json\"}",
   "layer_id_s": "7d278w480",
-  "layer_slug_s": "princeton-7d278w480",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:17Z",
-  "dc_title_s": "Andaluziæ nova descript.",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Andalusia (Spain)"
-  ],
+  "dc_identifier_s": "7d278w480",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Andaluzi\u00e6 nova descript.",
+  "layer_slug_s": "princeton-7d278w480",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/7d278w480/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/7d/27/8w/48/0/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.0 11.0 40.0 19.0 35.0 19.0 35.0 11.0 40.0 11.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1628"
   ],
-  "georss_box_s": "35.0 11.0 40.0 19.0",
-  "georss_polygon_s": "40.0 11.0 40.0 19.0 35.0 19.0 35.0 11.0 40.0 11.0",
   "solr_geom": "ENVELOPE(11.0, 19.0, 40.0, 35.0)",
-  "solr_year_i": "1628"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Andalusia (Spain)"
+  ]
 }

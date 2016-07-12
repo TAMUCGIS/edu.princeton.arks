@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1847",
   "uuid": "http://arks.princeton.edu/ark:/88435/3b591c101",
+  "dc_description_s": "Wind and current chart of the North Atlantic",
+  "georss_box_s": "39.99995 -40.00005 40.00005 -39.99995",
+  "layer_modified_dt": "2015-01-25T02:06:19Z",
   "dc_creator_sm": [
     "Maury, Matthew Fontaine,",
     "Warrington, L."
   ],
-  "dc_description_s": "Wind and current chart of the North Atlantic",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "3b591c101",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/3b591c101/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F3b%2F59%2F1c%2F10%2F1%2F00000001.jp2/info.json\"}",
   "layer_id_s": "3b591c101",
-  "layer_slug_s": "princeton-3b591c101",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:19Z",
-  "dc_title_s": "Wind and current chart of the North Atlantic",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "North Atlantic Ocean"
-  ],
+  "dc_identifier_s": "3b591c101",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Wind and current chart of the North Atlantic",
+  "layer_slug_s": "princeton-3b591c101",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/3b591c101/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/3b/59/1c/10/1/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.00005 -40.00005 40.00005 -39.99995 39.99995 -39.99995 39.99995 -40.00005 40.00005 -40.00005",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1847"
   ],
-  "georss_box_s": "39.99995 -40.00005 40.00005 -39.99995",
-  "georss_polygon_s": "40.00005 -40.00005 40.00005 -39.99995 39.99995 -39.99995 39.99995 -40.00005 40.00005 -40.00005",
   "solr_geom": "ENVELOPE(-40.00005, -39.99995, 40.00005, 39.99995)",
-  "solr_year_i": "1847"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "North Atlantic Ocean"
+  ]
 }

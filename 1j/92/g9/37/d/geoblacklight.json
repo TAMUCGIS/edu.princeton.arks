@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/1j92g937d",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Bordentown",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "1j92g937d",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F1j%2F92%2Fg9%2F37%2Fd%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "1j92g937d",
-  "layer_slug_s": "princeton-1j92g937d",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:01:57Z",
+  "solr_geom": "ENVELOPE(-74.426537, -74.383293, 40.917784, 40.892961)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/1j/92/g9/37/d/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/1j92g937d",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Bordentown (Sheet 1), N. J.",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1886"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "1j92g937d",
+  "georss_polygon_s": "40.917784 -74.426537 40.917784 -74.383293 40.892961 -74.383293 40.892961 -74.426537 40.917784 -74.426537",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1886",
   "dct_spatial_sm": [
     "New Jersey",
     "Bordentown"
   ],
-  "dct_temporal_sm": [
-    "1886"
-  ],
+  "layer_id_s": "1j92g937d",
   "georss_box_s": "40.892961 -74.426537 40.917784 -74.383293",
-  "georss_polygon_s": "40.917784 -74.426537 40.917784 -74.383293 40.892961 -74.383293 40.892961 -74.426537 40.917784 -74.426537",
-  "solr_geom": "ENVELOPE(-74.426537, -74.383293, 40.917784, 40.892961)",
-  "solr_year_i": "1886"
+  "dc_title_s": "Bordentown (Sheet 1), N. J.",
+  "layer_slug_s": "princeton-1j92g937d",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

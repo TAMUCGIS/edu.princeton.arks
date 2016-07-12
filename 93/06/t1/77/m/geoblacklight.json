@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1733",
   "uuid": "http://arks.princeton.edu/ark:/88435/9306t177m",
+  "dc_description_s": "Regno di Gerusalemme in tempo delle Guerre Sagre delineato, e descritto da Sebastiano Paoli per intelligenza della Istoria di Malta : a sua Altezza Eminentissima F.D. Antonio Manoel G.M.",
+  "georss_box_s": "31.7087672 35.0854203 31.8826765 35.2630682",
+  "layer_modified_dt": "2015-01-21T22:24:14Z",
   "dc_creator_sm": [
     "Paoli, Sebastiano,"
   ],
-  "dc_description_s": "Regno di Gerusalemme in tempo delle Guerre Sagre delineato, e descritto da Sebastiano Paoli per intelligenza della Istoria di Malta : a sua Altezza Eminentissima F.D. Antonio Manoel G.M.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "9306t177m",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/9306t177m/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F93%2F06%2Ft1%2F77%2Fm%2F00000001.jp2/info.json\"}",
   "layer_id_s": "9306t177m",
-  "layer_slug_s": "princeton-9306t177m",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:14Z",
-  "dc_title_s": "Regno di Gerusalemme in tempo delle Guerre Sagre delineato, e descritto da Sebastiano Paoli per intelligenza della Istoria di Malta : a sua Altezza Eminentissima F.D. Antonio Manoel G.M.",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Jerusalem",
-    "Palestine"
-  ],
+  "dc_identifier_s": "9306t177m",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Regno di Gerusalemme in tempo delle Guerre Sagre delineato, e descritto da Sebastiano Paoli per intelligenza della Istoria di Malta : a sua Altezza Eminentissima F.D. Antonio Manoel G.M.",
+  "layer_slug_s": "princeton-9306t177m",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/9306t177m/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/93/06/t1/77/m/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "31.8826765 35.0854203 31.8826765 35.2630682 31.7087672 35.2630682 31.7087672 35.0854203 31.8826765 35.0854203",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1733"
   ],
-  "georss_box_s": "31.7087672 35.0854203 31.8826765 35.2630682",
-  "georss_polygon_s": "31.8826765 35.0854203 31.8826765 35.2630682 31.7087672 35.2630682 31.7087672 35.0854203 31.8826765 35.0854203",
   "solr_geom": "ENVELOPE(35.0854203, 35.2630682, 31.8826765, 31.7087672)",
-  "solr_year_i": "1733"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Jerusalem",
+    "Palestine"
+  ]
 }

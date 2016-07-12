@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/z316q3738",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Madison",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "z316q3738",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fz3%2F16%2Fq3%2F73%2F8%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "z316q3738",
-  "layer_slug_s": "princeton-z316q3738",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:06:14Z",
+  "solr_geom": "ENVELOPE(-74.444606, -74.392166, 40.777214, 40.739944)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/z3/16/q3/73/8/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/z316q3738",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Madison, Morris Co., N. J. (Sheet 2)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1912"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "z316q3738",
+  "georss_polygon_s": "40.777214 -74.444606 40.777214 -74.392166 40.739944 -74.392166 40.739944 -74.444606 40.777214 -74.444606",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1912",
   "dct_spatial_sm": [
     "New Jersey",
     "Madison"
   ],
-  "dct_temporal_sm": [
-    "1912"
-  ],
+  "layer_id_s": "z316q3738",
   "georss_box_s": "40.739944 -74.444606 40.777214 -74.392166",
-  "georss_polygon_s": "40.777214 -74.444606 40.777214 -74.392166 40.739944 -74.392166 40.739944 -74.444606 40.777214 -74.444606",
-  "solr_geom": "ENVELOPE(-74.444606, -74.392166, 40.777214, 40.739944)",
-  "solr_year_i": "1912"
+  "dc_title_s": "Madison, Morris Co., N. J. (Sheet 2)",
+  "layer_slug_s": "princeton-z316q3738",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

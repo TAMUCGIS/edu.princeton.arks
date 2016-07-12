@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/v979v5096",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Paulsboro",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "v979v5096",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fv9%2F79%2Fv5%2F09%2F6%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "v979v5096",
-  "layer_slug_s": "princeton-v979v5096",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:04:03Z",
+  "solr_geom": "ENVELOPE(-75.257328, -75.222864, 39.852064, 39.819836)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/v9/79/v5/09/6/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/v979v5096",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Paulsboro, Gloucester Co., N.J. (Sheet 2)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1891"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "v979v5096",
+  "georss_polygon_s": "39.852064 -75.257328 39.852064 -75.222864 39.819836 -75.222864 39.819836 -75.257328 39.852064 -75.257328",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1891",
   "dct_spatial_sm": [
     "New Jersey",
     "Paulsboro"
   ],
-  "dct_temporal_sm": [
-    "1891"
-  ],
+  "layer_id_s": "v979v5096",
   "georss_box_s": "39.819836 -75.257328 39.852064 -75.222864",
-  "georss_polygon_s": "39.852064 -75.257328 39.852064 -75.222864 39.819836 -75.222864 39.819836 -75.257328 39.852064 -75.257328",
-  "solr_geom": "ENVELOPE(-75.257328, -75.222864, 39.852064, 39.819836)",
-  "solr_year_i": "1891"
+  "dc_title_s": "Paulsboro, Gloucester Co., N.J. (Sheet 2)",
+  "layer_slug_s": "princeton-v979v5096",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

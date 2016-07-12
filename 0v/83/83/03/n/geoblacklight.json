@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1918",
   "uuid": "http://arks.princeton.edu/ark:/88435/0v838303n",
-  "dc_description_s": "Kerbelâ",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "0v838303n",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/0v838303n/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F0v%2F83%2F83%2F03%2Fn%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "0v838303n",
-  "layer_slug_s": "princeton-0v838303n",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Kerbela\u0302",
+  "georss_box_s": "32.437902 43.856482 32.757902 44.176482",
   "layer_modified_dt": "2015-01-21T22:24:12Z",
-  "dc_title_s": "Kerbelâ",
+  "layer_id_s": "0v838303n",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Karbalāʾ (Iraq : Province)"
-  ],
+  "dc_identifier_s": "0v838303n",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Kerbela\u0302",
+  "layer_slug_s": "princeton-0v838303n",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/0v838303n/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/0v/83/83/03/n/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "32.757902 43.856482 32.757902 44.176482 32.437902 44.176482 32.437902 43.856482 32.757902 43.856482",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1918"
   ],
-  "georss_box_s": "32.437902 43.856482 32.757902 44.176482",
-  "georss_polygon_s": "32.757902 43.856482 32.757902 44.176482 32.437902 44.176482 32.437902 43.856482 32.757902 43.856482",
   "solr_geom": "ENVELOPE(43.856482, 44.176482, 32.757902, 32.437902)",
-  "solr_year_i": "1918"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Karbala\u0304\u02be (Iraq : Province)"
+  ]
 }

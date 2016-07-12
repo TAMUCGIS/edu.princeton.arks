@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1874",
   "uuid": "http://arks.princeton.edu/ark:/88435/5425kd15f",
+  "dc_description_s": "Nineveh",
+  "georss_box_s": "29.0612087 38.7936612 37.380932 48.8412702",
+  "layer_modified_dt": "2015-01-21T22:24:11Z",
   "dc_creator_sm": [
     "Smith, William,"
   ],
-  "dc_description_s": "Nineveh",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "5425kd15f",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/5425kd15f/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F54%2F25%2Fkd%2F15%2Ff%2F00000001.jp2/info.json\"}",
   "layer_id_s": "5425kd15f",
-  "layer_slug_s": "princeton-5425kd15f",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:11Z",
-  "dc_title_s": "Nineveh",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Iraq",
-    "Nineveh (Extinct city)"
-  ],
+  "dc_identifier_s": "5425kd15f",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Nineveh",
+  "layer_slug_s": "princeton-5425kd15f",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/5425kd15f/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/54/25/kd/15/f/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "37.380932 38.7936612 37.380932 48.8412702 29.0612087 48.8412702 29.0612087 38.7936612 37.380932 38.7936612",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1874"
   ],
-  "georss_box_s": "29.0612087 38.7936612 37.380932 48.8412702",
-  "georss_polygon_s": "37.380932 38.7936612 37.380932 48.8412702 29.0612087 48.8412702 29.0612087 38.7936612 37.380932 38.7936612",
   "solr_geom": "ENVELOPE(38.7936612, 48.8412702, 37.380932, 29.0612087)",
-  "solr_year_i": "1874"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Iraq",
+    "Nineveh (Extinct city)"
+  ]
 }

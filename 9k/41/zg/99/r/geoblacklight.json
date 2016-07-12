@@ -1,23 +1,30 @@
 {
+  "solr_year_i": "1545",
   "uuid": "http://arks.princeton.edu/ark:/88435/9k41zg99r",
+  "dc_description_s": "Carte des routes de postes de l'Empire Franc\u0327ais, du Royaume d'Italie et de la Confe\u0301de\u0301ration du Rhin",
+  "georss_box_s": "-50.2187168 -178.3873748 51.268318 172.3057152",
+  "layer_modified_dt": "2015-01-25T02:06:16Z",
   "dc_creator_sm": [
     "Tardieu, Pierre Antoine,",
     "Pachoux, J. J.",
     "Goujon, J.",
     "Moretti,"
   ],
-  "dc_description_s": "Carte des routes de postes de l'Empire Français, du Royaume d'Italie et de la Confédération du Rhin",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "9k41zg99r",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/9k41zg99r/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F9k%2F41%2Fzg%2F99%2Fr%2F00000001.jp2/info.json\"}",
   "layer_id_s": "9k41zg99r",
-  "layer_slug_s": "princeton-9k41zg99r",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:16Z",
-  "dc_title_s": "Carte des routes de postes de l'Empire Français, du Royaume d'Italie et de la Confédération du Rhin",
   "dc_type_s": "Image",
+  "dc_identifier_s": "9k41zg99r",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Carte des routes de postes de l'Empire Franc\u0327ais, du Royaume d'Italie et de la Confe\u0301de\u0301ration du Rhin",
+  "layer_slug_s": "princeton-9k41zg99r",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/9k41zg99r/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/9k/41/zg/99/r/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "51.268318 -178.3873748 51.268318 172.3057152 -50.2187168 172.3057152 -50.2187168 -178.3873748 51.268318 -178.3873748",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1545"
+  ],
+  "solr_geom": "ENVELOPE(-178.3873748, 172.3057152, 51.268318, -50.2187168)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "France",
     "Europe",
@@ -25,12 +32,5 @@
     "Great Britain",
     "Italy",
     "Spain"
-  ],
-  "dct_temporal_sm": [
-    "1545"
-  ],
-  "georss_box_s": "-50.2187168 -178.3873748 51.268318 172.3057152",
-  "georss_polygon_s": "51.268318 -178.3873748 51.268318 172.3057152 -50.2187168 172.3057152 -50.2187168 -178.3873748 51.268318 -178.3873748",
-  "solr_geom": "ENVELOPE(-178.3873748, 172.3057152, 51.268318, -50.2187168)",
-  "solr_year_i": "1545"
+  ]
 }

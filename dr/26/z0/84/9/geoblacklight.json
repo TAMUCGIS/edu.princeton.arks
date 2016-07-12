@@ -1,27 +1,27 @@
 {
+  "solr_year_i": "1705",
   "uuid": "http://arks.princeton.edu/ark:/88435/dr26z0849",
   "dc_description_s": "Les merveilles de Pozzoli ou Pouzzol, Cume et Baia ou Bayes, dans le voisinage de Naples",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "dr26z0849",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/dr26z0849/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fdr%2F26%2Fz0%2F84%2F9%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "dr26z0849",
-  "layer_slug_s": "princeton-dr26z0849",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "40.8441369 14.0438298 40.8541369 14.0538298",
   "layer_modified_dt": "2015-01-21T22:24:06Z",
-  "dc_title_s": "Les merveilles de Pozzoli ou Pouzzol, Cume et Baia ou Bayes, dans le voisinage de Naples",
+  "layer_id_s": "dr26z0849",
   "dc_type_s": "Image",
+  "dc_identifier_s": "dr26z0849",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Les merveilles de Pozzoli ou Pouzzol, Cume et Baia ou Bayes, dans le voisinage de Naples",
+  "layer_slug_s": "princeton-dr26z0849",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/dr26z0849/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/dr/26/z0/84/9/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.8541369 14.0438298 40.8541369 14.0538298 40.8441369 14.0538298 40.8441369 14.0438298 40.8541369 14.0438298",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1705"
+  ],
+  "solr_geom": "ENVELOPE(14.0438298, 14.0538298, 40.8541369, 40.8441369)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Cumae (Extinct city)",
     "Pozzuoli (Italy)",
     "Pozzuoli Gulf (Italy)"
-  ],
-  "dct_temporal_sm": [
-    "1705"
-  ],
-  "georss_box_s": "40.8441369 14.0438298 40.8541369 14.0538298",
-  "georss_polygon_s": "40.8541369 14.0438298 40.8541369 14.0538298 40.8441369 14.0538298 40.8441369 14.0438298 40.8541369 14.0438298",
-  "solr_geom": "ENVELOPE(14.0438298, 14.0538298, 40.8541369, 40.8441369)",
-  "solr_year_i": "1705"
+  ]
 }

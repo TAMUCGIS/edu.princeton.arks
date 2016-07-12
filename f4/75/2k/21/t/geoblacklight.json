@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1889",
   "uuid": "http://arks.princeton.edu/ark:/88435/f4752k21t",
   "dc_description_s": "Palestine",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "f4752k21t",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/f4752k21t/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ff4%2F75%2F2k%2F21%2Ft%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "f4752k21t",
-  "layer_slug_s": "princeton-f4752k21t",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "31.0 34.5 34.0 36.5",
   "layer_modified_dt": "2015-01-19T22:37:23Z",
-  "dc_title_s": "Palestine",
+  "layer_id_s": "f4752k21t",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Palestine",
-    "Palestine"
-  ],
+  "dc_identifier_s": "f4752k21t",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Palestine",
+  "layer_slug_s": "princeton-f4752k21t",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/f4752k21t/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/f4/75/2k/21/t/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "34.0 34.5 34.0 36.5 31.0 36.5 31.0 34.5 34.0 34.5",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1889"
   ],
-  "georss_box_s": "31.0 34.5 34.0 36.5",
-  "georss_polygon_s": "34.0 34.5 34.0 36.5 31.0 36.5 31.0 34.5 34.0 34.5",
   "solr_geom": "ENVELOPE(34.5, 36.5, 34.0, 31.0)",
-  "solr_year_i": "1889"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Palestine",
+    "Palestine"
+  ]
 }

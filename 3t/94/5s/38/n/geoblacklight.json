@@ -2,7 +2,7 @@
   "dc_description_s": "This is a map of Chile shown at a 1:8,500,000 scale. Included are additional maps covering population, vegetation, and industry. The map was created by the Central Intelligence Agency.",
   "layer_modified_dt": "2015-01-11T17:43:12Z",
   "solr_geom": "ENVELOPE(-78, -60, -18, -54)",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F3t%2F94%2F5s%2F38%2Fn%2F00000001.jp2/info.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/3t945s38n/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/3t945s38n/preview.jpg\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/3t945s38n/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/3t/94/5s/38/n/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/3t945s38n/preview.jpg\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/3t945s38n",
   "dct_provenance_s": "Princeton",
@@ -16,7 +16,7 @@
     "Industry"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "October 1972",
+  "layer_slug_s": "princeton-3t945s38n",
   "dc_creator_sm": [
     "Central Intelligence Agency"
   ],
@@ -31,7 +31,7 @@
   "layer_id_s": "3t945s38n",
   "georss_box_s": "-54 -78 -18 -60",
   "dc_title_s": "Chile, 1972 (with relief)",
-  "layer_slug_s": "princeton-3t945s38n",
+  "dct_issued_s": "October 1972",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

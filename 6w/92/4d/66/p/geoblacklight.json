@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1873",
   "uuid": "http://arks.princeton.edu/ark:/88435/6w924d66p",
-  "dc_description_s": "Côte occidentale d'Afrique : croquis du fleuve Ogôoué : levé en Mai 1867 et en Janvier 1868 d'après les ordres de Mr. le contre-amiral, vicomte Fleuriot de Langlé ...",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "6w924d66p",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/6w924d66p/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F6w%2F92%2F4d%2F66%2Fp%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "6w924d66p",
-  "layer_slug_s": "princeton-6w924d66p",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Co\u0302te occidentale d'Afrique : croquis du fleuve Ogo\u0302oue\u0301 : leve\u0301 en Mai 1867 et en Janvier 1868 d'apre\u0300s les ordres de Mr. le contre-amiral, vicomte Fleuriot de Langle\u0301 ...",
+  "georss_box_s": "4.1821 -17.688 25.000012 15.999034",
   "layer_modified_dt": "2015-01-21T22:23:43Z",
-  "dc_title_s": "Côte occidentale d'Afrique : croquis du fleuve Ogôoué : levé en Mai 1867 et en Janvier 1868 d'après les ordres de Mr. le contre-amiral, vicomte Fleuriot de Langlé ...",
+  "layer_id_s": "6w924d66p",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Africa, West",
-    "Gabon"
-  ],
+  "dc_identifier_s": "6w924d66p",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Co\u0302te occidentale d'Afrique : croquis du fleuve Ogo\u0302oue\u0301 : leve\u0301 en Mai 1867 et en Janvier 1868 d'apre\u0300s les ordres de Mr. le contre-amiral, vicomte Fleuriot de Langle\u0301 ...",
+  "layer_slug_s": "princeton-6w924d66p",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/6w924d66p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/6w/92/4d/66/p/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "25.000012 -17.688 25.000012 15.999034 4.1821 15.999034 4.1821 -17.688 25.000012 -17.688",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1873"
   ],
-  "georss_box_s": "4.1821 -17.688 25.000012 15.999034",
-  "georss_polygon_s": "25.000012 -17.688 25.000012 15.999034 4.1821 15.999034 4.1821 -17.688 25.000012 -17.688",
   "solr_geom": "ENVELOPE(-17.688, 15.999034, 25.000012, 4.1821)",
-  "solr_year_i": "1873"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Africa, West",
+    "Gabon"
+  ]
 }

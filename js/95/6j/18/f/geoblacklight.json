@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1766",
   "uuid": "http://arks.princeton.edu/ark:/88435/js956j18f",
+  "dc_description_s": "Plan de la ville et des faubourgs de Paris : divise\u0301 en ses vingt quartiers",
+  "georss_box_s": "48.8155755 2.224122 48.902156 2.4697602",
+  "layer_modified_dt": "2015-01-21T22:23:58Z",
   "dc_creator_sm": [
     "Haye, G. de la,",
     "Stewart, Horatio Granville Murray,"
   ],
-  "dc_description_s": "Plan de la ville et des faubourgs de Paris : divisé en ses vingt quartiers",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "js956j18f",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/js956j18f/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fs%2F95%2F6j%2F18%2Ff%2F00000001.jp2/info.json\"}",
   "layer_id_s": "js956j18f",
-  "layer_slug_s": "princeton-js956j18f",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:58Z",
-  "dc_title_s": "Plan de la ville et des faubourgs de Paris : divisé en ses vingt quartiers",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Paris (France)"
-  ],
+  "dc_identifier_s": "js956j18f",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Plan de la ville et des faubourgs de Paris : divise\u0301 en ses vingt quartiers",
+  "layer_slug_s": "princeton-js956j18f",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/js956j18f/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/js/95/6j/18/f/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "48.902156 2.224122 48.902156 2.4697602 48.8155755 2.4697602 48.8155755 2.224122 48.902156 2.224122",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1766"
   ],
-  "georss_box_s": "48.8155755 2.224122 48.902156 2.4697602",
-  "georss_polygon_s": "48.902156 2.224122 48.902156 2.4697602 48.8155755 2.4697602 48.8155755 2.224122 48.902156 2.224122",
   "solr_geom": "ENVELOPE(2.224122, 2.4697602, 48.902156, 48.8155755)",
-  "solr_year_i": "1766"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Paris (France)"
+  ]
 }

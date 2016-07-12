@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1829",
   "uuid": "http://arks.princeton.edu/ark:/88435/x920g0318",
+  "dc_description_s": "Fourth map, or, Map of 1692 : to accompany Willard's History of the United States",
+  "georss_box_s": "-56.5474 -68.6646 13.0771914 -32.5854",
+  "layer_modified_dt": "2015-01-21T22:24:07Z",
   "dc_creator_sm": [
     "Maverick, Samuel,",
     "Willard, Emma,"
   ],
-  "dc_description_s": "Fourth map, or, Map of 1692 : to accompany Willard's History of the United States",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "x920g0318",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/x920g0318/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fx9%2F20%2Fg0%2F31%2F8%2F00000001.jp2/info.json\"}",
   "layer_id_s": "x920g0318",
-  "layer_slug_s": "princeton-x920g0318",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:07Z",
-  "dc_title_s": "Fourth map, or, Map of 1692 : to accompany Willard's History of the United States",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Atlantic Coast (North America)"
-  ],
+  "dc_identifier_s": "x920g0318",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Fourth map, or, Map of 1692 : to accompany Willard's History of the United States",
+  "layer_slug_s": "princeton-x920g0318",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/x920g0318/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/x9/20/g0/31/8/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "13.0771914 -68.6646 13.0771914 -32.5854 -56.5474 -32.5854 -56.5474 -68.6646 13.0771914 -68.6646",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1829"
   ],
-  "georss_box_s": "-56.5474 -68.6646 13.0771914 -32.5854",
-  "georss_polygon_s": "13.0771914 -68.6646 13.0771914 -32.5854 -56.5474 -32.5854 -56.5474 -68.6646 13.0771914 -68.6646",
   "solr_geom": "ENVELOPE(-68.6646, -32.5854, 13.0771914, -56.5474)",
-  "solr_year_i": "1829"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Atlantic Coast (North America)"
+  ]
 }

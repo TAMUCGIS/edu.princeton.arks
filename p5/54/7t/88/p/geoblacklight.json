@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1901",
   "uuid": "http://arks.princeton.edu/ark:/88435/p5547t88p",
   "dc_description_s": "Map of Ireland divided into provinces and counties",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "p5547t88p",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/p5547t88p/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fp5%2F54%2F7t%2F88%2Fp%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "p5547t88p",
-  "layer_slug_s": "princeton-p5547t88p",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "51.0 -11.0 56.0 -5.0",
   "layer_modified_dt": "2015-01-19T22:37:34Z",
-  "dc_title_s": "Map of Ireland divided into provinces and counties",
+  "layer_id_s": "p5547t88p",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Ireland",
-    "Ireland"
-  ],
+  "dc_identifier_s": "p5547t88p",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Map of Ireland divided into provinces and counties",
+  "layer_slug_s": "princeton-p5547t88p",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/p5547t88p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/p5/54/7t/88/p/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "56.0 -11.0 56.0 -5.0 51.0 -5.0 51.0 -11.0 56.0 -11.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1901"
   ],
-  "georss_box_s": "51.0 -11.0 56.0 -5.0",
-  "georss_polygon_s": "56.0 -11.0 56.0 -5.0 51.0 -5.0 51.0 -11.0 56.0 -11.0",
   "solr_geom": "ENVELOPE(-11.0, -5.0, 56.0, 51.0)",
-  "solr_year_i": "1901"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Ireland",
+    "Ireland"
+  ]
 }

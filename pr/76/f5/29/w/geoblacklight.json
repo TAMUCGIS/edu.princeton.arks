@@ -1,32 +1,32 @@
 {
+  "solr_year_i": "1636",
   "uuid": "http://arks.princeton.edu/ark:/88435/pr76f529w",
+  "dc_description_s": "Natoli\u00e6 sive Asia Minor",
+  "georss_box_s": "35.4658867461 22.5145125438 40.990369365 27.4698546312",
+  "layer_modified_dt": "2015-01-21T22:23:47Z",
   "dc_creator_sm": [
     "Mercator, Gerhard,",
     "Hondius, Jodocus,",
     "McCabe, Robert A.,"
   ],
-  "dc_description_s": "Natoliæ sive Asia Minor",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "pr76f529w",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/pr76f529w/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fpr%2F76%2Ff5%2F29%2Fw%2F00000001.jp2/info.json\"}",
   "layer_id_s": "pr76f529w",
-  "layer_slug_s": "princeton-pr76f529w",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:47Z",
-  "dc_title_s": "Natoliæ sive Asia Minor",
   "dc_type_s": "Image",
+  "dc_identifier_s": "pr76f529w",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Natoli\u00e6 sive Asia Minor",
+  "layer_slug_s": "princeton-pr76f529w",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/pr76f529w/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/pr/76/f5/29/w/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.990369365 22.5145125438 40.990369365 27.4698546312 35.4658867461 27.4698546312 35.4658867461 22.5145125438 40.990369365 22.5145125438",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1636"
+  ],
+  "solr_geom": "ENVELOPE(22.5145125438, 27.4698546312, 40.990369365, 35.4658867461)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Aegean Islands (Greece and Turkey)",
     "Cyprus",
     "Turkey"
-  ],
-  "dct_temporal_sm": [
-    "1636"
-  ],
-  "georss_box_s": "35.4658867461 22.5145125438 40.990369365 27.4698546312",
-  "georss_polygon_s": "40.990369365 22.5145125438 40.990369365 27.4698546312 35.4658867461 27.4698546312 35.4658867461 22.5145125438 40.990369365 22.5145125438",
-  "solr_geom": "ENVELOPE(22.5145125438, 27.4698546312, 40.990369365, 35.4658867461)",
-  "solr_year_i": "1636"
+  ]
 }

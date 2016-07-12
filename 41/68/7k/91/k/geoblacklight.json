@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1915",
   "uuid": "http://arks.princeton.edu/ark:/88435/41687k91k",
   "dc_description_s": "Suez",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "41687k91k",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/41687k91k/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F41%2F68%2F7k%2F91%2Fk%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "41687k91k",
-  "layer_slug_s": "princeton-41687k91k",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "29.0 32.0 30.0 33.0",
   "layer_modified_dt": "2015-01-19T22:37:18Z",
-  "dc_title_s": "Suez",
+  "layer_id_s": "41687k91k",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Sinai (Egypt)",
-    "Suez (Egypt)"
-  ],
+  "dc_identifier_s": "41687k91k",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Suez",
+  "layer_slug_s": "princeton-41687k91k",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/41687k91k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/41/68/7k/91/k/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "30.0 32.0 30.0 33.0 29.0 33.0 29.0 32.0 30.0 32.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1915"
   ],
-  "georss_box_s": "29.0 32.0 30.0 33.0",
-  "georss_polygon_s": "30.0 32.0 30.0 33.0 29.0 33.0 29.0 32.0 30.0 32.0",
   "solr_geom": "ENVELOPE(32.0, 33.0, 30.0, 29.0)",
-  "solr_year_i": "1915"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Sinai (Egypt)",
+    "Suez (Egypt)"
+  ]
 }

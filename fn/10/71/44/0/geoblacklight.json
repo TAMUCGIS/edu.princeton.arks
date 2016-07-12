@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1783",
   "uuid": "http://arks.princeton.edu/ark:/88435/fn1071440",
+  "dc_description_s": "Ad antiquam Indi\u00e6 geographiam tabula",
+  "georss_box_s": "6.5546079 68.1113787 35.6745457 97.395561",
+  "layer_modified_dt": "2015-01-21T22:24:20Z",
   "dc_creator_sm": [
     "Dorn, S."
   ],
-  "dc_description_s": "Ad antiquam Indiæ geographiam tabula",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "fn1071440",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/fn1071440/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ffn%2F10%2F71%2F44%2F0%2F00000001.jp2/info.json\"}",
   "layer_id_s": "fn1071440",
-  "layer_slug_s": "princeton-fn1071440",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:20Z",
-  "dc_title_s": "Ad antiquam Indiæ geographiam tabula",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "India",
-    "Sri Lanka"
-  ],
+  "dc_identifier_s": "fn1071440",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Ad antiquam Indi\u00e6 geographiam tabula",
+  "layer_slug_s": "princeton-fn1071440",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/fn1071440/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/fn/10/71/44/0/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "35.6745457 68.1113787 35.6745457 97.395561 6.5546079 97.395561 6.5546079 68.1113787 35.6745457 68.1113787",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1783"
   ],
-  "georss_box_s": "6.5546079 68.1113787 35.6745457 97.395561",
-  "georss_polygon_s": "35.6745457 68.1113787 35.6745457 97.395561 6.5546079 97.395561 6.5546079 68.1113787 35.6745457 68.1113787",
   "solr_geom": "ENVELOPE(68.1113787, 97.395561, 35.6745457, 6.5546079)",
-  "solr_year_i": "1783"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "India",
+    "Sri Lanka"
+  ]
 }

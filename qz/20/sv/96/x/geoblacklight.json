@@ -1,27 +1,27 @@
 {
+  "solr_year_i": "1902",
   "uuid": "http://arks.princeton.edu/ark:/88435/qz20sv96x",
   "dc_description_s": "Persia, Afghanistan, and Baluchistan",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "qz20sv96x",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/qz20sv96x/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fqz%2F20%2Fsv%2F96%2Fx%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "qz20sv96x",
-  "layer_slug_s": "princeton-qz20sv96x",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "26.0 46.0 40.0 72.0",
   "layer_modified_dt": "2015-01-19T22:37:18Z",
-  "dc_title_s": "Persia, Afghanistan, and Baluchistan",
+  "layer_id_s": "qz20sv96x",
   "dc_type_s": "Image",
+  "dc_identifier_s": "qz20sv96x",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Persia, Afghanistan, and Baluchistan",
+  "layer_slug_s": "princeton-qz20sv96x",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/qz20sv96x/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/qz/20/sv/96/x/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.0 46.0 40.0 72.0 26.0 72.0 26.0 46.0 40.0 46.0",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1902"
+  ],
+  "solr_geom": "ENVELOPE(46.0, 72.0, 40.0, 26.0)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Afghanistan",
     "Iran",
     "Pakistan"
-  ],
-  "dct_temporal_sm": [
-    "1902"
-  ],
-  "georss_box_s": "26.0 46.0 40.0 72.0",
-  "georss_polygon_s": "40.0 46.0 40.0 72.0 26.0 72.0 26.0 46.0 40.0 46.0",
-  "solr_geom": "ENVELOPE(46.0, 72.0, 40.0, 26.0)",
-  "solr_year_i": "1902"
+  ]
 }

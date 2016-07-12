@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1931",
   "uuid": "http://arks.princeton.edu/ark:/88435/w3763924j",
+  "dc_description_s": "Naqshah-\u02bci Shahr-i Tabri\u0304z",
+  "georss_box_s": "37.9173948 46.1291614 38.2373948 46.4491614",
+  "layer_modified_dt": "2015-01-21T22:24:12Z",
   "dc_creator_sm": [
     "Wilber, Donald Newton,"
   ],
-  "dc_description_s": "Naqshah-ʼi Shahr-i Tabrīz",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "w3763924j",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/w3763924j/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fw3%2F76%2F39%2F24%2F00000001.jp2/info.json\"}",
   "layer_id_s": "w3763924j",
-  "layer_slug_s": "princeton-w3763924j",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:12Z",
-  "dc_title_s": "Naqshah-ʼi Shahr-i Tabrīz",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Tabriz (Iran)"
-  ],
+  "dc_identifier_s": "w3763924j",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Naqshah-\u02bci Shahr-i Tabri\u0304z",
+  "layer_slug_s": "princeton-w3763924j",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/w3763924j/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/w3/76/39/24/j/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "38.2373948 46.1291614 38.2373948 46.4491614 37.9173948 46.4491614 37.9173948 46.1291614 38.2373948 46.1291614",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1931"
   ],
-  "georss_box_s": "37.9173948 46.1291614 38.2373948 46.4491614",
-  "georss_polygon_s": "38.2373948 46.1291614 38.2373948 46.4491614 37.9173948 46.4491614 37.9173948 46.1291614 38.2373948 46.1291614",
   "solr_geom": "ENVELOPE(46.1291614, 46.4491614, 38.2373948, 37.9173948)",
-  "solr_year_i": "1931"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Tabriz (Iran)"
+  ]
 }

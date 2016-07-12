@@ -1,32 +1,32 @@
 {
+  "solr_year_i": "1884",
   "uuid": "http://arks.princeton.edu/ark:/88435/t435gg44w",
+  "dc_description_s": "South America (southern sheet)",
+  "georss_box_s": "-55.1906485 -73.5665893 -21.7811679 -53.6374514",
+  "layer_modified_dt": "2015-01-21T22:24:08Z",
   "dc_creator_sm": [
     "Johnston, Alexander Keith,"
   ],
-  "dc_description_s": "South America (southern sheet)",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "t435gg44w",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/t435gg44w/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ft4%2F35%2Fgg%2F44%2Fw%2F00000001.jp2/info.json\"}",
   "layer_id_s": "t435gg44w",
-  "layer_slug_s": "princeton-t435gg44w",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:08Z",
-  "dc_title_s": "South America (southern sheet)",
   "dc_type_s": "Image",
+  "dc_identifier_s": "t435gg44w",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "South America (southern sheet)",
+  "layer_slug_s": "princeton-t435gg44w",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/t435gg44w/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/t4/35/gg/44/w/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "-21.7811679 -73.5665893 -21.7811679 -53.6374514 -55.1906485 -53.6374514 -55.1906485 -73.5665893 -21.7811679 -73.5665893",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1884"
+  ],
+  "solr_geom": "ENVELOPE(-73.5665893, -53.6374514, -21.7811679, -55.1906485)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Argentina",
     "Chile",
     "Paraguay",
     "South America",
     "Uruguay"
-  ],
-  "dct_temporal_sm": [
-    "1884"
-  ],
-  "georss_box_s": "-55.1906485 -73.5665893 -21.7811679 -53.6374514",
-  "georss_polygon_s": "-21.7811679 -73.5665893 -21.7811679 -53.6374514 -55.1906485 -53.6374514 -55.1906485 -73.5665893 -21.7811679 -73.5665893",
-  "solr_geom": "ENVELOPE(-73.5665893, -53.6374514, -21.7811679, -55.1906485)",
-  "solr_year_i": "1884"
+  ]
 }

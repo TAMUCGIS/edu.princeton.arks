@@ -1,31 +1,31 @@
 {
+  "solr_year_i": "1610",
   "uuid": "http://arks.princeton.edu/ark:/88435/5q47rr23z",
+  "dc_description_s": "The countie of Radnor described and the shyretownes sittuatione.",
+  "georss_box_s": "52.4427049 -3.2761628 52.4827049 -3.2361628",
+  "layer_modified_dt": "2015-01-25T02:06:16Z",
   "dc_creator_sm": [
     "Hondius, Jodocus,",
     "Humble, George,",
     "Saxton, Christopher,",
     "Sudbury, John."
   ],
-  "dc_description_s": "The countie of Radnor described and the shyretownes sittuatione.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "5q47rr23z",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/5q47rr23z/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F5q%2F47%2Frr%2F23%2Fz%2F00000001.jp2/info.json\"}",
   "layer_id_s": "5q47rr23z",
-  "layer_slug_s": "princeton-5q47rr23z",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:16Z",
-  "dc_title_s": "The countie of Radnor described and the shyretownes sittuatione.",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Radnorshire (Wales)"
-  ],
+  "dc_identifier_s": "5q47rr23z",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "The countie of Radnor described and the shyretownes sittuatione.",
+  "layer_slug_s": "princeton-5q47rr23z",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/5q47rr23z/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/5q/47/rr/23/z/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "52.4827049 -3.2761628 52.4827049 -3.2361628 52.4427049 -3.2361628 52.4427049 -3.2761628 52.4827049 -3.2761628",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1610"
   ],
-  "georss_box_s": "52.4427049 -3.2761628 52.4827049 -3.2361628",
-  "georss_polygon_s": "52.4827049 -3.2761628 52.4827049 -3.2361628 52.4427049 -3.2361628 52.4427049 -3.2761628 52.4827049 -3.2761628",
   "solr_geom": "ENVELOPE(-3.2761628, -3.2361628, 52.4827049, 52.4427049)",
-  "solr_year_i": "1610"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Radnorshire (Wales)"
+  ]
 }

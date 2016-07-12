@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1802",
   "uuid": "http://arks.princeton.edu/ark:/88435/r207tr17t",
+  "dc_description_s": "Afrique",
+  "georss_box_s": "1.9999503 15.9999497 2.0000503 16.0000497",
+  "layer_modified_dt": "2015-01-21T22:23:43Z",
   "dc_creator_sm": [
     "Guthrie, William,"
   ],
-  "dc_description_s": "Afrique",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "r207tr17t",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/r207tr17t/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fr2%2F07%2Ftr%2F17%2Ft%2F00000001.jp2/info.json\"}",
   "layer_id_s": "r207tr17t",
-  "layer_slug_s": "princeton-r207tr17t",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:43Z",
-  "dc_title_s": "Afrique",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Africa"
-  ],
+  "dc_identifier_s": "r207tr17t",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Afrique",
+  "layer_slug_s": "princeton-r207tr17t",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/r207tr17t/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/r2/07/tr/17/t/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "2.0000503 15.9999497 2.0000503 16.0000497 1.9999503 16.0000497 1.9999503 15.9999497 2.0000503 15.9999497",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1802"
   ],
-  "georss_box_s": "1.9999503 15.9999497 2.0000503 16.0000497",
-  "georss_polygon_s": "2.0000503 15.9999497 2.0000503 16.0000497 1.9999503 16.0000497 1.9999503 15.9999497 2.0000503 15.9999497",
   "solr_geom": "ENVELOPE(15.9999497, 16.0000497, 2.0000503, 1.9999503)",
-  "solr_year_i": "1802"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Africa"
+  ]
 }

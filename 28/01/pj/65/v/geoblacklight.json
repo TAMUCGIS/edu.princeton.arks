@@ -1,29 +1,29 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/2801pj65v",
+  "dc_description_s": "The Roads from Boston to Connecticut River in 1642",
+  "georss_box_s": "41.1888589 -73.5081419 42.8867135 -69.8601041",
+  "layer_modified_dt": "2015-01-21T22:23:55Z",
   "dc_creator_sm": [
     "Woodward, Nath.",
     "Saffery, Solomon.",
     "Ayres, Harral,"
   ],
-  "dc_description_s": "The Roads from Boston to Connecticut River in 1642",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "2801pj65v",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/2801pj65v/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F28%2F01%2Fpj%2F65%2Fv%2F00000001.jp2/info.json\"}",
   "layer_id_s": "2801pj65v",
-  "layer_slug_s": "princeton-2801pj65v",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:55Z",
-  "dc_title_s": "The Roads from Boston to Connecticut River in 1642",
   "dc_type_s": "Image",
+  "dc_identifier_s": "2801pj65v",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "The Roads from Boston to Connecticut River in 1642",
+  "layer_slug_s": "princeton-2801pj65v",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/2801pj65v/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/28/01/pj/65/v/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "42.8867135 -73.5081419 42.8867135 -69.8601041 41.1888589 -69.8601041 41.1888589 -73.5081419 42.8867135 -73.5081419",
+  "layer_geom_type_s": "Image",
+  "solr_geom": "ENVELOPE(-73.5081419, -69.8601041, 42.8867135, 41.1888589)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Massachusetts",
     "Connecticut",
     "Massachusetts",
     "Connecticut"
-  ],
-  "georss_box_s": "41.1888589 -73.5081419 42.8867135 -69.8601041",
-  "georss_polygon_s": "42.8867135 -73.5081419 42.8867135 -69.8601041 41.1888589 -69.8601041 41.1888589 -73.5081419 42.8867135 -73.5081419",
-  "solr_geom": "ENVELOPE(-73.5081419, -69.8601041, 42.8867135, 41.1888589)"
+  ]
 }

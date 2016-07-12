@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/pz50gz03z",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Little Ferry",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "pz50gz03z",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fpz%2F50%2Fgz%2F03%2Fz%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "pz50gz03z",
-  "layer_slug_s": "princeton-pz50gz03z",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:02:36Z",
+  "solr_geom": "ENVELOPE(-74.053981, -74.028418, 40.85919, 40.82855)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/pz/50/gz/03/z/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/pz50gz03z",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Little Ferry (Sheet 19)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1918"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "pz50gz03z",
+  "georss_polygon_s": "40.85919 -74.053981 40.85919 -74.028418 40.82855 -74.028418 40.82855 -74.053981 40.85919 -74.053981",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1918",
   "dct_spatial_sm": [
     "New Jersey",
     "Little Ferry"
   ],
-  "dct_temporal_sm": [
-    "1918"
-  ],
+  "layer_id_s": "pz50gz03z",
   "georss_box_s": "40.82855 -74.053981 40.85919 -74.028418",
-  "georss_polygon_s": "40.85919 -74.053981 40.85919 -74.028418 40.82855 -74.028418 40.82855 -74.053981 40.85919 -74.053981",
-  "solr_geom": "ENVELOPE(-74.053981, -74.028418, 40.85919, 40.82855)",
-  "solr_year_i": "1918"
+  "dc_title_s": "Little Ferry (Sheet 19)",
+  "layer_slug_s": "princeton-pz50gz03z",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

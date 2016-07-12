@@ -1,33 +1,33 @@
 {
+  "solr_year_i": "1704",
   "uuid": "http://arks.princeton.edu/ark:/88435/m326m3623",
+  "dc_description_s": "A new map of North America shewing its principal divisions, chief cities, townes, rivers, mountains & c.",
+  "georss_box_s": "5.0 -126.0 70.0 -15.0",
+  "layer_modified_dt": "2015-01-19T22:36:54Z",
   "dc_creator_sm": [
     "Burghers, Michael,",
     "Wells, Edward,",
     "Fox, N. B.,"
   ],
-  "dc_description_s": "A new map of North America shewing its principal divisions, chief cities, townes, rivers, mountains & c.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "m326m3623",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/m326m3623/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fm3%2F26%2Fm3%2F62%2F3%2F00000001.jp2/info.json\"}",
   "layer_id_s": "m326m3623",
-  "layer_slug_s": "princeton-m326m3623",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:36:54Z",
-  "dc_title_s": "A new map of North America shewing its principal divisions, chief cities, townes, rivers, mountains & c.",
   "dc_type_s": "Image",
+  "dc_identifier_s": "m326m3623",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "A new map of North America shewing its principal divisions, chief cities, townes, rivers, mountains & c.",
+  "layer_slug_s": "princeton-m326m3623",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/m326m3623/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/m3/26/m3/62/3/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "70.0 -126.0 70.0 -15.0 5.0 -15.0 5.0 -126.0 70.0 -126.0",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1704"
+  ],
+  "solr_geom": "ENVELOPE(-126.0, -15.0, 70.0, 5.0)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "North America",
     "California",
     "Caribbean Area",
     "Central America"
-  ],
-  "dct_temporal_sm": [
-    "1704"
-  ],
-  "georss_box_s": "5.0 -126.0 70.0 -15.0",
-  "georss_polygon_s": "70.0 -126.0 70.0 -15.0 5.0 -15.0 5.0 -126.0 70.0 -126.0",
-  "solr_geom": "ENVELOPE(-126.0, -15.0, 70.0, 5.0)",
-  "solr_year_i": "1704"
+  ]
 }

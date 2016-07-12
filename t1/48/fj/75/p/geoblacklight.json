@@ -2,7 +2,7 @@
   "dc_description_s": "This is a map of the city of Mihara and Itozaki, Japan, shown at a 1:12,500 scale. The map was created for use by War and Navy Department agencies during World War II.",
   "layer_modified_dt": "2015-01-11T17:43:11Z",
   "solr_geom": "ENVELOPE(133.0333, 133.1333, 34.4167, 34.3667)",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ft1%2F48%2Ffj%2F75%2Fp%2F00000001.jp2/info.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/t148fj75p/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/t148fj75p/preview.jpg\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/t148fj75p/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/t1/48/fj/75/p/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/t148fj75p/preview.jpg\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/t148fj75p",
   "dct_provenance_s": "Princeton",
@@ -17,7 +17,7 @@
     "Facilities and Structures"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "1946",
+  "layer_slug_s": "princeton-t148fj75p",
   "dc_creator_sm": [
     "Army Map Service"
   ],
@@ -35,7 +35,7 @@
   "layer_id_s": "t148fj75p",
   "georss_box_s": "34.3667 133.0333 34.4167 133.1333",
   "dc_title_s": "Mihara and Itozaki, Hiroshima Prefecture, Honshu, Japan. A.M.S. L902.",
-  "layer_slug_s": "princeton-t148fj75p",
+  "dct_issued_s": "1946",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

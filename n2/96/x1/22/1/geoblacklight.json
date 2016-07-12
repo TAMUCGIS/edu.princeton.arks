@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1776",
   "uuid": "http://arks.princeton.edu/ark:/88435/n296x1221",
+  "dc_description_s": "Queen Charlotte's Islands",
+  "georss_box_s": "-12.3081849 165.7167896 -9.7587788 170.1932205",
+  "layer_modified_dt": "2015-01-21T22:23:54Z",
   "dc_creator_sm": [
     "Hogg, Alexander,",
     "Anderson, George William."
   ],
-  "dc_description_s": "Queen Charlotte's Islands",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "n296x1221",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/n296x1221/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fn2%2F96%2Fx1%2F22%2F1%2F00000001.jp2/info.json\"}",
   "layer_id_s": "n296x1221",
-  "layer_slug_s": "princeton-n296x1221",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:54Z",
-  "dc_title_s": "Queen Charlotte's Islands",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Santa Cruz Islands (Solomon Islands)",
-    "Santa Cruz Islands (Solomon Islands)"
-  ],
+  "dc_identifier_s": "n296x1221",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Queen Charlotte's Islands",
+  "layer_slug_s": "princeton-n296x1221",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/n296x1221/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/n2/96/x1/22/1/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "-9.7587788 165.7167896 -9.7587788 170.1932205 -12.3081849 170.1932205 -12.3081849 165.7167896 -9.7587788 165.7167896",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1776"
   ],
-  "georss_box_s": "-12.3081849 165.7167896 -9.7587788 170.1932205",
-  "georss_polygon_s": "-9.7587788 165.7167896 -9.7587788 170.1932205 -12.3081849 170.1932205 -12.3081849 165.7167896 -9.7587788 165.7167896",
   "solr_geom": "ENVELOPE(165.7167896, 170.1932205, -9.7587788, -12.3081849)",
-  "solr_year_i": "1776"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Santa Cruz Islands (Solomon Islands)",
+    "Santa Cruz Islands (Solomon Islands)"
+  ]
 }

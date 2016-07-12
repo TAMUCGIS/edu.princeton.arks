@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1764",
   "uuid": "http://arks.princeton.edu/ark:/88435/rr1720119",
+  "dc_description_s": "Bosphorus Thracicus : der Kanal des Schwarten Meers oder die Meer-Enge bey Constantinopel : sambt denen an beiden Ufern desselben gelegenen Sta\u0308tten, Flecken, Do\u0308rffern, Schlo\u0308ssern, Pal\u00e6sten, Lustha\u0308usern, Wasserleitungen",
+  "georss_box_s": "35.8076804 25.6212891 42.297 44.8176638",
+  "layer_modified_dt": "2015-01-21T22:23:50Z",
   "dc_creator_sm": [
     "Reben, Johann Baptist von."
   ],
-  "dc_description_s": "Bosphorus Thracicus : der Kanal des Schwarten Meers oder die Meer-Enge bey Constantinopel : sambt denen an beiden Ufern desselben gelegenen Stätten, Flecken, Dörffern, Schlössern, Palæsten, Lusthäusern, Wasserleitungen",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "rr1720119",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/rr1720119/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Frr%2F17%2F20%2F11%2F9%2F00000001.jp2/info.json\"}",
   "layer_id_s": "rr1720119",
-  "layer_slug_s": "princeton-rr1720119",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:50Z",
-  "dc_title_s": "Bosphorus Thracicus : der Kanal des Schwarten Meers oder die Meer-Enge bey Constantinopel : sambt denen an beiden Ufern desselben gelegenen Stätten, Flecken, Dörffern, Schlössern, Palæsten, Lusthäusern, Wasserleitungen",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Turkey",
-    "Bosporus (Turkey)"
-  ],
+  "dc_identifier_s": "rr1720119",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Bosphorus Thracicus : der Kanal des Schwarten Meers oder die Meer-Enge bey Constantinopel : sambt denen an beiden Ufern desselben gelegenen Sta\u0308tten, Flecken, Do\u0308rffern, Schlo\u0308ssern, Pal\u00e6sten, Lustha\u0308usern, Wasserleitungen",
+  "layer_slug_s": "princeton-rr1720119",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/rr1720119/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/rr/17/20/11/9/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "42.297 25.6212891 42.297 44.8176638 35.8076804 44.8176638 35.8076804 25.6212891 42.297 25.6212891",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1764"
   ],
-  "georss_box_s": "35.8076804 25.6212891 42.297 44.8176638",
-  "georss_polygon_s": "42.297 25.6212891 42.297 44.8176638 35.8076804 44.8176638 35.8076804 25.6212891 42.297 25.6212891",
   "solr_geom": "ENVELOPE(25.6212891, 44.8176638, 42.297, 35.8076804)",
-  "solr_year_i": "1764"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Turkey",
+    "Bosporus (Turkey)"
+  ]
 }

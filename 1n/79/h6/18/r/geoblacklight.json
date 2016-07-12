@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1647",
   "uuid": "http://arks.princeton.edu/ark:/88435/1n79h618r",
+  "dc_description_s": "Iaponi\u00e6 nova descriptio",
+  "georss_box_s": "20.2145811 122.7154546 45.7053097 154.205541",
+  "layer_modified_dt": "2015-01-21T22:23:49Z",
   "dc_creator_sm": [
     "Jansson, Jan,",
     "McCabe, Robert A.,"
   ],
-  "dc_description_s": "Iaponiæ nova descriptio",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "1n79h618r",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/1n79h618r/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F1n%2F79%2Fh6%2F18%2Fr%2F00000001.jp2/info.json\"}",
   "layer_id_s": "1n79h618r",
-  "layer_slug_s": "princeton-1n79h618r",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:49Z",
-  "dc_title_s": "Iaponiæ nova descriptio",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Japan",
-    "Korea"
-  ],
+  "dc_identifier_s": "1n79h618r",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Iaponi\u00e6 nova descriptio",
+  "layer_slug_s": "princeton-1n79h618r",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/1n79h618r/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/1n/79/h6/18/r/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "45.7053097 122.7154546 45.7053097 154.205541 20.2145811 154.205541 20.2145811 122.7154546 45.7053097 122.7154546",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1647"
   ],
-  "georss_box_s": "20.2145811 122.7154546 45.7053097 154.205541",
-  "georss_polygon_s": "45.7053097 122.7154546 45.7053097 154.205541 20.2145811 154.205541 20.2145811 122.7154546 45.7053097 122.7154546",
   "solr_geom": "ENVELOPE(122.7154546, 154.205541, 45.7053097, 20.2145811)",
-  "solr_year_i": "1647"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Japan",
+    "Korea"
+  ]
 }

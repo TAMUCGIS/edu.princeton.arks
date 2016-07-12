@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1960",
   "uuid": "http://arks.princeton.edu/ark:/88435/s4655k091",
   "dc_description_s": "[Historical wall maps of Greece]",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "s4655k091",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/s4655k091/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fs4%2F65%2F5k%2F09%2F1%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "s4655k091",
-  "layer_slug_s": "princeton-s4655k091",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "34.7006096 19.2477876 41.7488862 29.7296986",
   "layer_modified_dt": "2015-01-25T02:06:17Z",
-  "dc_title_s": "[Historical wall maps of Greece]",
+  "layer_id_s": "s4655k091",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Greece",
-    "Greece"
-  ],
+  "dc_identifier_s": "s4655k091",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "[Historical wall maps of Greece]",
+  "layer_slug_s": "princeton-s4655k091",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/s4655k091/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/s4/65/5k/09/1/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "41.7488862 19.2477876 41.7488862 29.7296986 34.7006096 29.7296986 34.7006096 19.2477876 41.7488862 19.2477876",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1960"
   ],
-  "georss_box_s": "34.7006096 19.2477876 41.7488862 29.7296986",
-  "georss_polygon_s": "41.7488862 19.2477876 41.7488862 29.7296986 34.7006096 29.7296986 34.7006096 19.2477876 41.7488862 19.2477876",
   "solr_geom": "ENVELOPE(19.2477876, 29.7296986, 41.7488862, 34.7006096)",
-  "solr_year_i": "1960"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Greece",
+    "Greece"
+  ]
 }
