@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1677",
   "uuid": "http://arks.princeton.edu/ark:/88435/k35696811",
+  "dc_description_s": "L'Isole Britanniche ouero l'inghilterra : diuisa in sette regni, quattro de Sassoni, e tre dell'Inglesi, et il Principato di Galles, ciascuno diuiso ne loro Shire, ouero contadi : La Scotia, regno diuiso in due parti principali, di qua\u0300 e di la\u0300 del Tay, ouero ne due regni de Pitti, e de Scoti : l'Irlandia, regno diuiso in quattro prouincie, e queste ne suoi contadi",
+  "georss_box_s": "49.674 -14.0155169 61.061 2.0919117",
+  "layer_modified_dt": "2015-01-21T22:24:15Z",
   "dc_creator_sm": [
     "Widman, Georgio,",
     "Rossi, Giovanni Giacomo de,"
   ],
-  "dc_description_s": "L'Isole Britanniche ouero l'inghilterra : diuisa in sette regni, quattro de Sassoni, e tre dell'Inglesi, et il Principato di Galles, ciascuno diuiso ne loro Shire, ouero contadi : La Scotia, regno diuiso in due parti principali, di quà e di là del Tay, ouero ne due regni de Pitti, e de Scoti : l'Irlandia, regno diuiso in quattro prouincie, e queste ne suoi contadi",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "k35696811",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/k35696811/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fk3%2F56%2F96%2F81%2F1%2F00000001.jp2/info.json\"}",
   "layer_id_s": "k35696811",
-  "layer_slug_s": "princeton-k35696811",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:15Z",
-  "dc_title_s": "L'Isole Britanniche ouero l'inghilterra : diuisa in sette regni, quattro de Sassoni, e tre dell'Inglesi, et il Principato di Galles, ciascuno diuiso ne loro Shire, ouero contadi : La Scotia, regno diuiso in due parti principali, di quà e di là del Tay, ouero ne due regni de Pitti, e de Scoti : l'Irlandia, regno diuiso in quattro prouincie, e queste ne suoi contadi",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Great Britain",
-    "Ireland"
-  ],
+  "dc_identifier_s": "k35696811",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "L'Isole Britanniche ouero l'inghilterra : diuisa in sette regni, quattro de Sassoni, e tre dell'Inglesi, et il Principato di Galles, ciascuno diuiso ne loro Shire, ouero contadi : La Scotia, regno diuiso in due parti principali, di qua\u0300 e di la\u0300 del Tay, ouero ne due regni de Pitti, e de Scoti : l'Irlandia, regno diuiso in quattro prouincie, e queste ne suoi contadi",
+  "layer_slug_s": "princeton-k35696811",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/k35696811/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/k3/56/96/81/1/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "61.061 -14.0155169 61.061 2.0919117 49.674 2.0919117 49.674 -14.0155169 61.061 -14.0155169",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1677"
   ],
-  "georss_box_s": "49.674 -14.0155169 61.061 2.0919117",
-  "georss_polygon_s": "61.061 -14.0155169 61.061 2.0919117 49.674 2.0919117 49.674 -14.0155169 61.061 -14.0155169",
   "solr_geom": "ENVELOPE(-14.0155169, 2.0919117, 61.061, 49.674)",
-  "solr_year_i": "1677"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Great Britain",
+    "Ireland"
+  ]
 }

@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1688",
   "uuid": "http://arks.princeton.edu/ark:/88435/f4752k267",
+  "dc_description_s": "Navarino ; Modon",
+  "georss_box_s": "36.7818191 21.6660687 36.8618191 21.7460687",
+  "layer_modified_dt": "2015-01-21T22:24:27Z",
   "dc_creator_sm": [
     "Zeiller, Martin,"
   ],
-  "dc_description_s": "Navarino ; Modon",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "f4752k267",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/f4752k267/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ff4%2F75%2F2k%2F26%2F7%2F00000001.jp2/info.json\"}",
   "layer_id_s": "f4752k267",
-  "layer_slug_s": "princeton-f4752k267",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:27Z",
-  "dc_title_s": "Navarino ; Modon",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Methōnē (Greece)",
-    "Pylos (Greece)"
-  ],
+  "dc_identifier_s": "f4752k267",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Navarino ; Modon",
+  "layer_slug_s": "princeton-f4752k267",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/f4752k267/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/f4/75/2k/26/7/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "36.8618191 21.6660687 36.8618191 21.7460687 36.7818191 21.7460687 36.7818191 21.6660687 36.8618191 21.6660687",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1688"
   ],
-  "georss_box_s": "36.7818191 21.6660687 36.8618191 21.7460687",
-  "georss_polygon_s": "36.8618191 21.6660687 36.8618191 21.7460687 36.7818191 21.7460687 36.7818191 21.6660687 36.8618191 21.6660687",
   "solr_geom": "ENVELOPE(21.6660687, 21.7460687, 36.8618191, 36.7818191)",
-  "solr_year_i": "1688"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Metho\u0304ne\u0304 (Greece)",
+    "Pylos (Greece)"
+  ]
 }

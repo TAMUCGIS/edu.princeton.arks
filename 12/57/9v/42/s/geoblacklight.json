@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/12579v42s",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Toms River",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "12579v42s",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F12%2F57%2F9v%2F42%2Fs%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "12579v42s",
-  "layer_slug_s": "princeton-12579v42s",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:06:43Z",
+  "solr_geom": "ENVELOPE(-74.270651, -74.05858, 40.058716, 39.933002)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/12/57/9v/42/s/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/12579v42s",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Toms River, N.J. (Sheet 1).",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1885"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "12579v42s",
+  "georss_polygon_s": "40.058716 -74.270651 40.058716 -74.05858 39.933002 -74.05858 39.933002 -74.270651 40.058716 -74.270651",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1885",
   "dct_spatial_sm": [
     "New Jersey",
     "Toms River"
   ],
-  "dct_temporal_sm": [
-    "1885"
-  ],
+  "layer_id_s": "12579v42s",
   "georss_box_s": "39.933002 -74.270651 40.058716 -74.05858",
-  "georss_polygon_s": "40.058716 -74.270651 40.058716 -74.05858 39.933002 -74.05858 39.933002 -74.270651 40.058716 -74.270651",
-  "solr_geom": "ENVELOPE(-74.270651, -74.05858, 40.058716, 39.933002)",
-  "solr_year_i": "1885"
+  "dc_title_s": "Toms River, N.J. (Sheet 1).",
+  "layer_slug_s": "princeton-12579v42s",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

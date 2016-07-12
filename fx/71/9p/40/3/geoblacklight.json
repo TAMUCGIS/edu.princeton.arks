@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1612",
   "uuid": "http://arks.princeton.edu/ark:/88435/fx719p403",
+  "dc_description_s": "Asiae nova descriptio",
+  "georss_box_s": "55.9999502 103.9999498 56.0000502 104.0000498",
+  "layer_modified_dt": "2015-01-21T22:23:52Z",
   "dc_creator_sm": [
     "Ortelius, Abraham,",
     "McCabe, Robert A.,"
   ],
-  "dc_description_s": "Asiae nova descriptio",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "fx719p403",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/fx719p403/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ffx%2F71%2F9p%2F40%2F3%2F00000001.jp2/info.json\"}",
   "layer_id_s": "fx719p403",
-  "layer_slug_s": "princeton-fx719p403",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:52Z",
-  "dc_title_s": "Asiae nova descriptio",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Asia"
-  ],
+  "dc_identifier_s": "fx719p403",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Asiae nova descriptio",
+  "layer_slug_s": "princeton-fx719p403",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/fx719p403/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/fx/71/9p/40/3/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "56.0000502 103.9999498 56.0000502 104.0000498 55.9999502 104.0000498 55.9999502 103.9999498 56.0000502 103.9999498",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1612"
   ],
-  "georss_box_s": "55.9999502 103.9999498 56.0000502 104.0000498",
-  "georss_polygon_s": "56.0000502 103.9999498 56.0000502 104.0000498 55.9999502 104.0000498 55.9999502 103.9999498 56.0000502 103.9999498",
   "solr_geom": "ENVELOPE(103.9999498, 104.0000498, 56.0000502, 55.9999502)",
-  "solr_year_i": "1612"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Asia"
+  ]
 }

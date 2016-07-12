@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1636",
   "uuid": "http://arks.princeton.edu/ark:/88435/w95052950",
+  "dc_description_s": "Macedonia, Epirus et Achaia",
+  "georss_box_s": "37.7807215 21.3506249 38.3411904 22.3780635",
+  "layer_modified_dt": "2015-01-21T22:24:16Z",
   "dc_creator_sm": [
     "Mercator, Gerhard,"
   ],
-  "dc_description_s": "Macedonia, Epirus et Achaia",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "w95052950",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/w95052950/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fw9%2F50%2F52%2F95%2F0%2F00000001.jp2/info.json\"}",
   "layer_id_s": "w95052950",
-  "layer_slug_s": "princeton-w95052950",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:16Z",
-  "dc_title_s": "Macedonia, Epirus et Achaia",
   "dc_type_s": "Image",
+  "dc_identifier_s": "w95052950",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Macedonia, Epirus et Achaia",
+  "layer_slug_s": "princeton-w95052950",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/w95052950/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/w9/50/52/95/0/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "38.3411904 21.3506249 38.3411904 22.3780635 37.7807215 22.3780635 37.7807215 21.3506249 38.3411904 21.3506249",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1636"
+  ],
+  "solr_geom": "ENVELOPE(21.3506249, 22.3780635, 38.3411904, 37.7807215)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Achaia (Greece)",
     "Epirus (Greece and Albania)",
     "Macedonia (Greece)"
-  ],
-  "dct_temporal_sm": [
-    "1636"
-  ],
-  "georss_box_s": "37.7807215 21.3506249 38.3411904 22.3780635",
-  "georss_polygon_s": "38.3411904 21.3506249 38.3411904 22.3780635 37.7807215 22.3780635 37.7807215 21.3506249 38.3411904 21.3506249",
-  "solr_geom": "ENVELOPE(21.3506249, 22.3780635, 38.3411904, 37.7807215)",
-  "solr_year_i": "1636"
+  ]
 }

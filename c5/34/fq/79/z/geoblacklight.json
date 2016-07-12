@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1873",
   "uuid": "http://arks.princeton.edu/ark:/88435/c534fq79z",
+  "dc_description_s": "Asia Minor at the time of the Persian kings : Asia Minor at the time after Diocletianus : Asia Minor after the Battle of Magnesia (190 B.C.) : Asia Minor and the adjacent countries at the time of Mithridates the Great",
+  "georss_box_s": "11.7975 24.6967748 42.3667 63.3333366",
+  "layer_modified_dt": "2015-01-21T22:23:46Z",
   "dc_creator_sm": [
     "Smith, William,",
     "Weller, Edward,"
   ],
-  "dc_description_s": "Asia Minor at the time of the Persian kings : Asia Minor at the time after Diocletianus : Asia Minor after the Battle of Magnesia (190 B.C.) : Asia Minor and the adjacent countries at the time of Mithridates the Great",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "c534fq79z",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/c534fq79z/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fc5%2F34%2Ffq%2F79%2Fz%2F00000001.jp2/info.json\"}",
   "layer_id_s": "c534fq79z",
-  "layer_slug_s": "princeton-c534fq79z",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:46Z",
-  "dc_title_s": "Asia Minor at the time of the Persian kings : Asia Minor at the time after Diocletianus : Asia Minor after the Battle of Magnesia (190 B.C.) : Asia Minor and the adjacent countries at the time of Mithridates the Great",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Middle East"
-  ],
+  "dc_identifier_s": "c534fq79z",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Asia Minor at the time of the Persian kings : Asia Minor at the time after Diocletianus : Asia Minor after the Battle of Magnesia (190 B.C.) : Asia Minor and the adjacent countries at the time of Mithridates the Great",
+  "layer_slug_s": "princeton-c534fq79z",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/c534fq79z/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/c5/34/fq/79/z/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "42.3667 24.6967748 42.3667 63.3333366 11.7975 63.3333366 11.7975 24.6967748 42.3667 24.6967748",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1873"
   ],
-  "georss_box_s": "11.7975 24.6967748 42.3667 63.3333366",
-  "georss_polygon_s": "42.3667 24.6967748 42.3667 63.3333366 11.7975 63.3333366 11.7975 24.6967748 42.3667 24.6967748",
   "solr_geom": "ENVELOPE(24.6967748, 63.3333366, 42.3667, 11.7975)",
-  "solr_year_i": "1873"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Middle East"
+  ]
 }

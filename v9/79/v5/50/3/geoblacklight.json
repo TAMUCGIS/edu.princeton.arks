@@ -1,31 +1,29 @@
 {
+  "solr_year_i": "1861",
   "uuid": "http://arks.princeton.edu/ark:/88435/v979v5503",
+  "dc_description_s": "City of Manhattan or New York",
+  "georss_box_s": "40.7702778 -73.9797222 40.8102778 -73.9397222",
+  "layer_modified_dt": "2015-01-21T22:24:01Z",
   "dc_creator_sm": [
     "Valentine, D. T.",
     "Hayward, George,",
     "Bellin, Jacques Nicolas,",
     "Fox, N. B.,"
   ],
-  "dc_description_s": "City of Manhattan or New York",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "v979v5503",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/v979v5503/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fv9%2F79%2Fv5%2F50%2F3%2F00000001.jp2/info.json\"}",
   "layer_id_s": "v979v5503",
-  "layer_slug_s": "princeton-v979v5503",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:01Z",
-  "dc_title_s": "City of Manhattan or New York",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "v979v5503",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "City of Manhattan or New York",
+  "layer_slug_s": "princeton-v979v5503",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/v979v5503/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/v9/79/v5/50/3/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.8102778 -73.9797222 40.8102778 -73.9397222 40.7702778 -73.9397222 40.7702778 -73.9797222 40.8102778 -73.9797222",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1861"
   ],
-  "georss_box_s": "40.7702778 -73.9797222 40.8102778 -73.9397222",
-  "georss_polygon_s": "40.8102778 -73.9797222 40.8102778 -73.9397222 40.7702778 -73.9397222 40.7702778 -73.9797222 40.8102778 -73.9797222",
   "solr_geom": "ENVELOPE(-73.9797222, -73.9397222, 40.8102778, 40.7702778)",
-  "solr_year_i": "1861"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

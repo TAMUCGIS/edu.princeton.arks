@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1688",
   "uuid": "http://arks.princeton.edu/ark:/88435/gx41mm32h",
+  "dc_description_s": "Regnorum Castell\u00e6 nov\u00e6, Andalusi\u00e6, Granad\u00e6, Valenti\u00e6, et Murci\u00e6, in episcopatus etc. divisorum",
+  "georss_box_s": "35.0 9.0 42.0 19.0",
+  "layer_modified_dt": "2015-01-19T22:37:16Z",
   "dc_creator_sm": [
     "McCabe, Robert A.,"
   ],
-  "dc_description_s": "Regnorum Castellæ novæ, Andalusiæ, Granadæ, Valentiæ, et Murciæ, in episcopatus etc. divisorum",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "gx41mm32h",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/gx41mm32h/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fgx%2F41%2Fmm%2F32%2Fh%2F00000001.jp2/info.json\"}",
   "layer_id_s": "gx41mm32h",
-  "layer_slug_s": "princeton-gx41mm32h",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:16Z",
-  "dc_title_s": "Regnorum Castellæ novæ, Andalusiæ, Granadæ, Valentiæ, et Murciæ, in episcopatus etc. divisorum",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Spain, Southern"
-  ],
+  "dc_identifier_s": "gx41mm32h",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Regnorum Castell\u00e6 nov\u00e6, Andalusi\u00e6, Granad\u00e6, Valenti\u00e6, et Murci\u00e6, in episcopatus etc. divisorum",
+  "layer_slug_s": "princeton-gx41mm32h",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/gx41mm32h/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/gx/41/mm/32/h/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "42.0 9.0 42.0 19.0 35.0 19.0 35.0 9.0 42.0 9.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1688"
   ],
-  "georss_box_s": "35.0 9.0 42.0 19.0",
-  "georss_polygon_s": "42.0 9.0 42.0 19.0 35.0 19.0 35.0 9.0 42.0 9.0",
   "solr_geom": "ENVELOPE(9.0, 19.0, 42.0, 35.0)",
-  "solr_year_i": "1688"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Spain, Southern"
+  ]
 }

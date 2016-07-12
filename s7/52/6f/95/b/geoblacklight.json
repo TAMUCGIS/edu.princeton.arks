@@ -1,5 +1,9 @@
 {
+  "solr_year_i": "1852",
   "uuid": "http://arks.princeton.edu/ark:/88435/s7526f95b",
+  "dc_description_s": "Sea coast of Delaware, Maryland and part of Virginia",
+  "georss_box_s": "37.7166666667 -75.5833333333 38.9166666667 -74.5333333333",
+  "layer_modified_dt": "2015-01-19T22:37:41Z",
   "dc_creator_sm": [
     "Bache, A. D.",
     "Benham, Henry Washington,",
@@ -15,26 +19,22 @@
     "Bache, Richard Meade.",
     "Almy, John Jay,"
   ],
-  "dc_description_s": "Sea coast of Delaware, Maryland and part of Virginia",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "s7526f95b",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/s7526f95b/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fs7%2F52%2F6f%2F95%2F00000001.jp2/info.json\"}",
   "layer_id_s": "s7526f95b",
-  "layer_slug_s": "princeton-s7526f95b",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:41Z",
-  "dc_title_s": "Sea coast of Delaware, Maryland and part of Virginia",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "North Atlantic Ocean"
-  ],
+  "dc_identifier_s": "s7526f95b",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Sea coast of Delaware, Maryland and part of Virginia",
+  "layer_slug_s": "princeton-s7526f95b",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/s7526f95b/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/s7/52/6f/95/b/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "38.9166666667 -75.5833333333 38.9166666667 -74.5333333333 37.7166666667 -74.5333333333 37.7166666667 -75.5833333333 38.9166666667 -75.5833333333",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1852"
   ],
-  "georss_box_s": "37.7166666667 -75.5833333333 38.9166666667 -74.5333333333",
-  "georss_polygon_s": "38.9166666667 -75.5833333333 38.9166666667 -74.5333333333 37.7166666667 -74.5333333333 37.7166666667 -75.5833333333 38.9166666667 -75.5833333333",
   "solr_geom": "ENVELOPE(-75.5833333333, -74.5333333333, 38.9166666667, 37.7166666667)",
-  "solr_year_i": "1852"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "North Atlantic Ocean"
+  ]
 }

@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1865",
   "uuid": "http://arks.princeton.edu/ark:/88435/mp48sg26p",
-  "dc_description_s": "Plano della città di Gerusalemme : antica e moderna",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "mp48sg26p",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/mp48sg26p/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fmp%2F48%2Fsg%2F26%2Fp%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "mp48sg26p",
-  "layer_slug_s": "princeton-mp48sg26p",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Plano della citta\u0300 di Gerusalemme : antica e moderna",
+  "georss_box_s": "31.7087672 35.0854203 31.8826765 35.2630682",
   "layer_modified_dt": "2015-01-21T22:24:17Z",
-  "dc_title_s": "Plano della città di Gerusalemme : antica e moderna",
+  "layer_id_s": "mp48sg26p",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Jerusalem",
-    "Jerusalem"
-  ],
+  "dc_identifier_s": "mp48sg26p",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Plano della citta\u0300 di Gerusalemme : antica e moderna",
+  "layer_slug_s": "princeton-mp48sg26p",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/mp48sg26p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/mp/48/sg/26/p/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "31.8826765 35.0854203 31.8826765 35.2630682 31.7087672 35.2630682 31.7087672 35.0854203 31.8826765 35.0854203",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1865"
   ],
-  "georss_box_s": "31.7087672 35.0854203 31.8826765 35.2630682",
-  "georss_polygon_s": "31.8826765 35.0854203 31.8826765 35.2630682 31.7087672 35.2630682 31.7087672 35.0854203 31.8826765 35.0854203",
   "solr_geom": "ENVELOPE(35.0854203, 35.2630682, 31.8826765, 31.7087672)",
-  "solr_year_i": "1865"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Jerusalem",
+    "Jerusalem"
+  ]
 }

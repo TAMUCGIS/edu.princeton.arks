@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1847",
   "uuid": "http://arks.princeton.edu/ark:/88435/m039k723k",
+  "dc_description_s": "Map of New Jersey : reduced from T. Gordon's map",
+  "georss_box_s": "38.7911303 -75.5633859 41.357423 -73.8939789",
+  "layer_modified_dt": "2015-01-21T22:23:56Z",
   "dc_creator_sm": [
     "Tanner, Henry Schenck,",
     "Mitchell, S. Augustus"
   ],
-  "dc_description_s": "Map of New Jersey : reduced from T. Gordon's map",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "m039k723k",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/m039k723k/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fm0%2F39%2Fk7%2F23%2Fk%2F00000001.jp2/info.json\"}",
   "layer_id_s": "m039k723k",
-  "layer_slug_s": "princeton-m039k723k",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:56Z",
-  "dc_title_s": "Map of New Jersey : reduced from T. Gordon's map",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "New Jersey"
-  ],
+  "dc_identifier_s": "m039k723k",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Map of New Jersey : reduced from T. Gordon's map",
+  "layer_slug_s": "princeton-m039k723k",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/m039k723k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/m0/39/k7/23/k/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "41.357423 -75.5633859 41.357423 -73.8939789 38.7911303 -73.8939789 38.7911303 -75.5633859 41.357423 -75.5633859",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1847"
   ],
-  "georss_box_s": "38.7911303 -75.5633859 41.357423 -73.8939789",
-  "georss_polygon_s": "41.357423 -75.5633859 41.357423 -73.8939789 38.7911303 -73.8939789 38.7911303 -75.5633859 41.357423 -75.5633859",
   "solr_geom": "ENVELOPE(-75.5633859, -73.8939789, 41.357423, 38.7911303)",
-  "solr_year_i": "1847"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "New Jersey"
+  ]
 }

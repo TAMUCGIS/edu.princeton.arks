@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1576",
   "uuid": "http://arks.princeton.edu/ark:/88435/9880vt40k",
+  "dc_description_s": "Santorini",
+  "georss_box_s": "36.30000 25.30000 36.50000 25.55000",
+  "layer_modified_dt": "2015-01-19T22:37:04Z",
   "dc_creator_sm": [
     "Porro, Girolamo,",
     "Porcacchi, Thomaso,"
   ],
-  "dc_description_s": "Santorini",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "9880vt40k",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/9880vt40k/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F98%2F80%2Fvt%2F40%2Fk%2F00000001.jp2/info.json\"}",
   "layer_id_s": "9880vt40k",
-  "layer_slug_s": "princeton-9880vt40k",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:04Z",
-  "dc_title_s": "Santorini",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Thera Island (Greece)"
-  ],
+  "dc_identifier_s": "9880vt40k",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Santorini",
+  "layer_slug_s": "princeton-9880vt40k",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/9880vt40k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/98/80/vt/40/k/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "36.50000 25.30000 36.50000 25.55000 36.30000 25.55000 36.30000 25.30000 36.50000 25.30000",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1576"
   ],
-  "georss_box_s": "36.30000 25.30000 36.50000 25.55000",
-  "georss_polygon_s": "36.50000 25.30000 36.50000 25.55000 36.30000 25.55000 36.30000 25.30000 36.50000 25.30000",
   "solr_geom": "ENVELOPE(25.30000, 25.55000, 36.50000, 36.30000)",
-  "solr_year_i": "1576"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Thera Island (Greece)"
+  ]
 }

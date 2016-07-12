@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1588",
   "uuid": "http://arks.princeton.edu/ark:/88435/k930c051x",
+  "dc_description_s": "Engellandt mit dem anstossenden Reich Schottlandt, so vorzeiten Albion und Britannia haben geheissen",
+  "georss_box_s": "49.674 -6.7047493 55.917 2.0919117",
+  "layer_modified_dt": "2015-01-21T22:24:16Z",
   "dc_creator_sm": [
-    "Münster, Sebastian,",
+    "Mu\u0308nster, Sebastian,",
     "Henricpetri, Sebastian,",
     "McCabe, Robert A.,"
   ],
-  "dc_description_s": "Engellandt mit dem anstossenden Reich Schottlandt, so vorzeiten Albion und Britannia haben geheissen",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "k930c051x",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/k930c051x/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fk9%2F30%2Fc0%2F51%2Fx%2F00000001.jp2/info.json\"}",
   "layer_id_s": "k930c051x",
-  "layer_slug_s": "princeton-k930c051x",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:16Z",
-  "dc_title_s": "Engellandt mit dem anstossenden Reich Schottlandt, so vorzeiten Albion und Britannia haben geheissen",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "England"
-  ],
+  "dc_identifier_s": "k930c051x",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Engellandt mit dem anstossenden Reich Schottlandt, so vorzeiten Albion und Britannia haben geheissen",
+  "layer_slug_s": "princeton-k930c051x",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/k930c051x/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/k9/30/c0/51/x/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "55.917 -6.7047493 55.917 2.0919117 49.674 2.0919117 49.674 -6.7047493 55.917 -6.7047493",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1588"
   ],
-  "georss_box_s": "49.674 -6.7047493 55.917 2.0919117",
-  "georss_polygon_s": "55.917 -6.7047493 55.917 2.0919117 49.674 2.0919117 49.674 -6.7047493 55.917 -6.7047493",
   "solr_geom": "ENVELOPE(-6.7047493, 2.0919117, 55.917, 49.674)",
-  "solr_year_i": "1588"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "England"
+  ]
 }

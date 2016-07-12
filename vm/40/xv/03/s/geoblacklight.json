@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1831",
   "uuid": "http://arks.princeton.edu/ark:/88435/vm40xv03s",
-  "dc_description_s": "The Môle of St. Nicolas, in the Island of Haiti",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "vm40xv03s",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/vm40xv03s/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fvm%2F40%2Fxv%2F03%2Fs%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "vm40xv03s",
-  "layer_slug_s": "princeton-vm40xv03s",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "The Mo\u0302le of St. Nicolas, in the Island of Haiti",
+  "georss_box_s": "19.7678481 -73.417434 19.8478481 -73.337434",
   "layer_modified_dt": "2015-01-21T22:24:09Z",
-  "dc_title_s": "The Môle of St. Nicolas, in the Island of Haiti",
+  "layer_id_s": "vm40xv03s",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Môle Saint-Nicolas (Haiti)"
-  ],
+  "dc_identifier_s": "vm40xv03s",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "The Mo\u0302le of St. Nicolas, in the Island of Haiti",
+  "layer_slug_s": "princeton-vm40xv03s",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/vm40xv03s/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/vm/40/xv/03/s/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "19.8478481 -73.417434 19.8478481 -73.337434 19.7678481 -73.337434 19.7678481 -73.417434 19.8478481 -73.417434",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1831"
   ],
-  "georss_box_s": "19.7678481 -73.417434 19.8478481 -73.337434",
-  "georss_polygon_s": "19.8478481 -73.417434 19.8478481 -73.337434 19.7678481 -73.337434 19.7678481 -73.417434 19.8478481 -73.417434",
   "solr_geom": "ENVELOPE(-73.417434, -73.337434, 19.8478481, 19.7678481)",
-  "solr_year_i": "1831"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Mo\u0302le Saint-Nicolas (Haiti)"
+  ]
 }

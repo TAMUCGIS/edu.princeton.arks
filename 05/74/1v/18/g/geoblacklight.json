@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1863",
   "uuid": "http://arks.princeton.edu/ark:/88435/05741v18g",
+  "dc_description_s": "Johnson's France",
+  "georss_box_s": "42.0 -5.0 51.0 9.0",
+  "layer_modified_dt": "2015-01-19T22:37:25Z",
   "dc_creator_sm": [
     "Johnson, A. J."
   ],
-  "dc_description_s": "Johnson's France",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "05741v18g",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/05741v18g/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F05%2F74%2F1v%2F18%2Fg%2F00000001.jp2/info.json\"}",
   "layer_id_s": "05741v18g",
-  "layer_slug_s": "princeton-05741v18g",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:25Z",
-  "dc_title_s": "Johnson's France",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "France"
-  ],
+  "dc_identifier_s": "05741v18g",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Johnson's France",
+  "layer_slug_s": "princeton-05741v18g",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/05741v18g/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/05/74/1v/18/g/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "51.0 -5.0 51.0 9.0 42.0 9.0 42.0 -5.0 51.0 -5.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1863"
   ],
-  "georss_box_s": "42.0 -5.0 51.0 9.0",
-  "georss_polygon_s": "51.0 -5.0 51.0 9.0 42.0 9.0 42.0 -5.0 51.0 -5.0",
   "solr_geom": "ENVELOPE(-5.0, 9.0, 51.0, 42.0)",
-  "solr_year_i": "1863"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "France"
+  ]
 }

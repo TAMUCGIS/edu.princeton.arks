@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1728",
   "uuid": "http://arks.princeton.edu/ark:/88435/sn00b124b",
+  "dc_description_s": "Land en volk-ontdekking in't noorder gedeelte van America : door P. Marquette en Joliet, gedaan in't jaar 1673",
+  "georss_box_s": "29.1470149 -91.6681703 39.0065849 -89.0943544",
+  "layer_modified_dt": "2015-01-21T22:24:13Z",
   "dc_creator_sm": [
     "Marquette, Jacques,",
     "Joliet, Louis,"
   ],
-  "dc_description_s": "Land en volk-ontdekking in't noorder gedeelte van America : door P. Marquette en Joliet, gedaan in't jaar 1673",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "sn00b124b",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/sn00b124b/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fsn%2F00%2Fb1%2F24%2F00000001.jp2/info.json\"}",
   "layer_id_s": "sn00b124b",
-  "layer_slug_s": "princeton-sn00b124b",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:13Z",
-  "dc_title_s": "Land en volk-ontdekking in't noorder gedeelte van America : door P. Marquette en Joliet, gedaan in't jaar 1673",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Mississippi River Valley"
-  ],
+  "dc_identifier_s": "sn00b124b",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Land en volk-ontdekking in't noorder gedeelte van America : door P. Marquette en Joliet, gedaan in't jaar 1673",
+  "layer_slug_s": "princeton-sn00b124b",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/sn00b124b/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/sn/00/b1/24/b/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "39.0065849 -91.6681703 39.0065849 -89.0943544 29.1470149 -89.0943544 29.1470149 -91.6681703 39.0065849 -91.6681703",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1728"
   ],
-  "georss_box_s": "29.1470149 -91.6681703 39.0065849 -89.0943544",
-  "georss_polygon_s": "39.0065849 -91.6681703 39.0065849 -89.0943544 29.1470149 -89.0943544 29.1470149 -91.6681703 39.0065849 -91.6681703",
   "solr_geom": "ENVELOPE(-91.6681703, -89.0943544, 39.0065849, 29.1470149)",
-  "solr_year_i": "1728"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Mississippi River Valley"
+  ]
 }

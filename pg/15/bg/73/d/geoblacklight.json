@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1884",
   "uuid": "http://arks.princeton.edu/ark:/88435/pg15bg73d",
   "dc_description_s": "Carte des environs d'Alger",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "pg15bg73d",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/pg15bg73d/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fpg%2F15%2Fbg%2F73%2Fd%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "pg15bg73d",
-  "layer_slug_s": "princeton-pg15bg73d",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "3.4889804 -17.4573 37.5359 38.6938",
   "layer_modified_dt": "2015-01-21T22:23:45Z",
-  "dc_title_s": "Carte des environs d'Alger",
+  "layer_id_s": "pg15bg73d",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Africa, North",
-    "Algiers (Algeria)"
-  ],
+  "dc_identifier_s": "pg15bg73d",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Carte des environs d'Alger",
+  "layer_slug_s": "princeton-pg15bg73d",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/pg15bg73d/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/pg/15/bg/73/d/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "37.5359 -17.4573 37.5359 38.6938 3.4889804 38.6938 3.4889804 -17.4573 37.5359 -17.4573",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1884"
   ],
-  "georss_box_s": "3.4889804 -17.4573 37.5359 38.6938",
-  "georss_polygon_s": "37.5359 -17.4573 37.5359 38.6938 3.4889804 38.6938 3.4889804 -17.4573 37.5359 -17.4573",
   "solr_geom": "ENVELOPE(-17.4573, 38.6938, 37.5359, 3.4889804)",
-  "solr_year_i": "1884"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Africa, North",
+    "Algiers (Algeria)"
+  ]
 }

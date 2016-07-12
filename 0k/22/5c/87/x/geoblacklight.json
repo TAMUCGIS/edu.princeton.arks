@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1944",
   "uuid": "http://arks.princeton.edu/ark:/88435/0k225c87x",
+  "dc_description_s": "Carte geologique detaillee de la France [a 1/80 000]: Bernay.",
+  "georss_box_s": "48.75950 0.14440 49.13150 1.02130",
+  "layer_modified_dt": "2015-01-19T22:36:37Z",
   "dc_creator_sm": [
     "Chabrol, A.",
     "Bigot, A.",
     "Raguin, Eugene"
   ],
-  "dc_description_s": "Carte geologique detaillee de la France [a 1/80 000]: Bernay.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "0k225c87x",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/0k225c87x/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F0k%2F22%2F5c%2F87%2Fx%2F00000001.jp2/info.json\"}",
   "layer_id_s": "0k225c87x",
-  "layer_slug_s": "princeton-0k225c87x",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:36:37Z",
-  "dc_title_s": "Carte geologique detaillee de la France [a 1/80 000]: Bernay.",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "France"
-  ],
+  "dc_identifier_s": "0k225c87x",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Carte geologique detaillee de la France [a 1/80 000]: Bernay.",
+  "layer_slug_s": "princeton-0k225c87x",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/0k225c87x/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/0k/22/5c/87/x/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "49.13150 0.14440 49.13150 1.02130 48.75950 1.02130 48.75950 0.14440 49.13150 0.14440",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1944"
   ],
-  "georss_box_s": "48.75950 0.14440 49.13150 1.02130",
-  "georss_polygon_s": "49.13150 0.14440 49.13150 1.02130 48.75950 1.02130 48.75950 0.14440 49.13150 0.14440",
   "solr_geom": "ENVELOPE(0.14440, 1.02130, 49.13150, 48.75950)",
-  "solr_year_i": "1944"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "France"
+  ]
 }

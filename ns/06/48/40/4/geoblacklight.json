@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1898",
   "uuid": "http://arks.princeton.edu/ark:/88435/ns0648404",
   "dc_description_s": "Map of the city of New York : the imperial city of the new world, embracing the entire city limits, based upon official surveys",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "ns0648404",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/ns0648404/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fns%2F06%2F48%2F40%2F4%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "ns0648404",
-  "layer_slug_s": "princeton-ns0648404",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "40.3240577237 -75.3687090406 41.6971973419 -72.1841588188",
   "layer_modified_dt": "2015-01-25T02:06:11Z",
-  "dc_title_s": "Map of the city of New York : the imperial city of the new world, embracing the entire city limits, based upon official surveys",
+  "layer_id_s": "ns0648404",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "New York Metropolitan Area"
-  ],
+  "dc_identifier_s": "ns0648404",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Map of the city of New York : the imperial city of the new world, embracing the entire city limits, based upon official surveys",
+  "layer_slug_s": "princeton-ns0648404",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/ns0648404/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ns/06/48/40/4/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "41.6971973419 -75.3687090406 41.6971973419 -72.1841588188 40.3240577237 -72.1841588188 40.3240577237 -75.3687090406 41.6971973419 -75.3687090406",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1898"
   ],
-  "georss_box_s": "40.3240577237 -75.3687090406 41.6971973419 -72.1841588188",
-  "georss_polygon_s": "41.6971973419 -75.3687090406 41.6971973419 -72.1841588188 40.3240577237 -72.1841588188 40.3240577237 -75.3687090406 41.6971973419 -75.3687090406",
   "solr_geom": "ENVELOPE(-75.3687090406, -72.1841588188, 41.6971973419, 40.3240577237)",
-  "solr_year_i": "1898"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "New York Metropolitan Area"
+  ]
 }

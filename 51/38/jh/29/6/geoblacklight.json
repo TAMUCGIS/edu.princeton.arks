@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1683",
   "uuid": "http://arks.princeton.edu/ark:/88435/5138jh296",
+  "dc_description_s": "Is. de Lero, Calamo, et de Lango",
+  "georss_box_s": "37.0959784 26.7647941 37.2027922 26.8918089",
+  "layer_modified_dt": "2015-01-21T22:24:02Z",
   "dc_creator_sm": [
     "Manesson-Mallet, Allain,"
   ],
-  "dc_description_s": "Is. de Lero, Calamo, et de Lango",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "5138jh296",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/5138jh296/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F51%2F38%2Fjh%2F29%2F6%2F00000001.jp2/info.json\"}",
   "layer_id_s": "5138jh296",
-  "layer_slug_s": "princeton-5138jh296",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:02Z",
-  "dc_title_s": "Is. de Lero, Calamo, et de Lango",
   "dc_type_s": "Image",
+  "dc_identifier_s": "5138jh296",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Is. de Lero, Calamo, et de Lango",
+  "layer_slug_s": "princeton-5138jh296",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/5138jh296/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/51/38/jh/29/6/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "37.2027922 26.7647941 37.2027922 26.8918089 37.0959784 26.8918089 37.0959784 26.7647941 37.2027922 26.7647941",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1683"
+  ],
+  "solr_geom": "ENVELOPE(26.7647941, 26.8918089, 37.2027922, 37.0959784)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Leros Island (Greece)",
     "Kalymnos Island (Greece)",
     "Kos Island (Greece)"
-  ],
-  "dct_temporal_sm": [
-    "1683"
-  ],
-  "georss_box_s": "37.0959784 26.7647941 37.2027922 26.8918089",
-  "georss_polygon_s": "37.2027922 26.7647941 37.2027922 26.8918089 37.0959784 26.8918089 37.0959784 26.7647941 37.2027922 26.7647941",
-  "solr_geom": "ENVELOPE(26.7647941, 26.8918089, 37.2027922, 37.0959784)",
-  "solr_year_i": "1683"
+  ]
 }

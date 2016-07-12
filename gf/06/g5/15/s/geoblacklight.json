@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1888",
   "uuid": "http://arks.princeton.edu/ark:/88435/gf06g515s",
+  "dc_description_s": "Karte von Elgersburg und Umgebung",
+  "georss_box_s": "50.6608876 10.8096884 50.7155207 10.8707735",
+  "layer_modified_dt": "2015-01-21T22:24:20Z",
   "dc_creator_sm": [
     "Woerl, Leo,"
   ],
-  "dc_description_s": "Karte von Elgersburg und Umgebung",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "gf06g515s",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/gf06g515s/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fgf%2F06%2Fg5%2F15%2Fs%2F00000001.jp2/info.json\"}",
   "layer_id_s": "gf06g515s",
-  "layer_slug_s": "princeton-gf06g515s",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:20Z",
-  "dc_title_s": "Karte von Elgersburg und Umgebung",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Elgersburg (Germany)",
-    "Thuringia (Germany)"
-  ],
+  "dc_identifier_s": "gf06g515s",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Karte von Elgersburg und Umgebung",
+  "layer_slug_s": "princeton-gf06g515s",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/gf06g515s/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/gf/06/g5/15/s/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "50.7155207 10.8096884 50.7155207 10.8707735 50.6608876 10.8707735 50.6608876 10.8096884 50.7155207 10.8096884",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1888"
   ],
-  "georss_box_s": "50.6608876 10.8096884 50.7155207 10.8707735",
-  "georss_polygon_s": "50.7155207 10.8096884 50.7155207 10.8707735 50.6608876 10.8707735 50.6608876 10.8096884 50.7155207 10.8096884",
   "solr_geom": "ENVELOPE(10.8096884, 10.8707735, 50.7155207, 50.6608876)",
-  "solr_year_i": "1888"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Elgersburg (Germany)",
+    "Thuringia (Germany)"
+  ]
 }

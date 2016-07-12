@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1932",
   "uuid": "http://arks.princeton.edu/ark:/88435/gh93h133r",
   "dc_description_s": "[Kharitat al-Iraq]: nahiyata al-Madhatiyah",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "gh93h133r",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/gh93h133r/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fgh%2F93%2Fh1%2F33%2Fr%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "gh93h133r",
-  "layer_slug_s": "princeton-gh93h133r",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "32.40000 44.80000 32.50000 44.90000",
   "layer_modified_dt": "2015-01-19T22:36:39Z",
-  "dc_title_s": "[Kharitat al-Iraq]: nahiyata al-Madhatiyah",
+  "layer_id_s": "gh93h133r",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Iraq"
-  ],
+  "dc_identifier_s": "gh93h133r",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "[Kharitat al-Iraq]: nahiyata al-Madhatiyah",
+  "layer_slug_s": "princeton-gh93h133r",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/gh93h133r/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/gh/93/h1/33/r/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "32.50000 44.80000 32.50000 44.90000 32.40000 44.90000 32.40000 44.80000 32.50000 44.80000",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1932"
   ],
-  "georss_box_s": "32.40000 44.80000 32.50000 44.90000",
-  "georss_polygon_s": "32.50000 44.80000 32.50000 44.90000 32.40000 44.90000 32.40000 44.80000 32.50000 44.80000",
   "solr_geom": "ENVELOPE(44.80000, 44.90000, 32.50000, 32.40000)",
-  "solr_year_i": "1932"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Iraq"
+  ]
 }

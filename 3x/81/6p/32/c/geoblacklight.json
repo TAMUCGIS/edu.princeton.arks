@@ -2,7 +2,7 @@
   "dc_description_s": "A scanned USGS 1:62,500 topographic map.",
   "layer_modified_dt": "2015-01-11T17:43:30Z",
   "solr_geom": "ENVELOPE(-122.600, -122.00, 38.1667, 37.500)",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F3x%2F81%2F6p%2F32%2Fc%2F00000001.jp2/info.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/3x816p32c/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/3x816p32c/preview.jpg\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/3x816p32c/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/3x/81/6p/32/c/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/3x816p32c/preview.jpg\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/3x816p32c",
   "dct_provenance_s": "Princeton",
@@ -14,7 +14,7 @@
     "Geoscientific Information"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "1915",
+  "layer_slug_s": "princeton-3x816p32c",
   "dc_creator_sm": [
     "United States Geological Survey"
   ],
@@ -31,7 +31,7 @@
   "layer_id_s": "3x816p32c",
   "georss_box_s": "37.500 -122.600 38.1667 -122.00",
   "dc_title_s": "San Francisco and vicinity. Sheet 2.",
-  "layer_slug_s": "princeton-3x816p32c",
+  "dct_issued_s": "1915",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

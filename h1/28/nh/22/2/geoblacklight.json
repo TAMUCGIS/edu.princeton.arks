@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1906",
   "uuid": "http://arks.princeton.edu/ark:/88435/h128nh222",
+  "dc_description_s": "Coburg",
+  "georss_box_s": "47.2701114 8.9763497 50.5647142 13.8396373",
+  "layer_modified_dt": "2015-01-21T22:24:27Z",
   "dc_creator_sm": [
     "Woerl, Leo,"
   ],
-  "dc_description_s": "Coburg",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "h128nh222",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/h128nh222/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fh1%2F28%2Fnh%2F22%2F2%2F00000001.jp2/info.json\"}",
   "layer_id_s": "h128nh222",
-  "layer_slug_s": "princeton-h128nh222",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:27Z",
-  "dc_title_s": "Coburg",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Bavaria (Germany)",
-    "Coburg (Germany)"
-  ],
+  "dc_identifier_s": "h128nh222",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Coburg",
+  "layer_slug_s": "princeton-h128nh222",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/h128nh222/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/h1/28/nh/22/2/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "50.5647142 8.9763497 50.5647142 13.8396373 47.2701114 13.8396373 47.2701114 8.9763497 50.5647142 8.9763497",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1906"
   ],
-  "georss_box_s": "47.2701114 8.9763497 50.5647142 13.8396373",
-  "georss_polygon_s": "50.5647142 8.9763497 50.5647142 13.8396373 47.2701114 13.8396373 47.2701114 8.9763497 50.5647142 8.9763497",
   "solr_geom": "ENVELOPE(8.9763497, 13.8396373, 50.5647142, 47.2701114)",
-  "solr_year_i": "1906"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Bavaria (Germany)",
+    "Coburg (Germany)"
+  ]
 }

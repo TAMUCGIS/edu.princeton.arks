@@ -1,33 +1,33 @@
 {
+  "dc_publisher_s": "New York: Sanborn Map Company",
   "uuid": "http://arks.princeton.edu/ark:/88435/q237hv10z",
+  "dc_description_s": "This a Sanborn map of New Jersey Coast",
+  "georss_box_s": "38.9465 -74.8546 40.4126 -73.9684",
+  "georss_polygon_s": "40.4126 -74.8546 40.4126 -73.9684 38.9465 -73.9684 38.9465 -74.8546 40.4126 -74.8546",
+  "layer_modified_dt": "2015-01-18T17:06:33Z",
   "dc_creator_sm": [
     "Sanborn Map Company"
   ],
-  "dc_description_s": "This a Sanborn map of New Jersey Coast",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "q237hv10z",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fq2%2F37%2Fhv%2F10%2Fz%2F00000001.jp2/info.json\"}",
   "layer_id_s": "q237hv10z",
-  "layer_slug_s": "princeton-q237hv10z",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-18T17:06:33Z",
+  "dct_spatial_sm": [
+    "New Jersey",
+    "New Jersey Coast"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "q237hv10z",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
+  "layer_slug_s": "princeton-q237hv10z",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/q2/37/hv/10/z/00000001.jp2/info.json\"}",
   "dc_title_s": "Insurance maps of the New Jersey coast : volume two (Index).",
-  "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "New Jersey",
-    "New Jersey Coast"
-  ],
-  "georss_box_s": "38.9465 -74.8546 40.4126 -73.9684",
-  "georss_polygon_s": "40.4126 -74.8546 40.4126 -73.9684 38.9465 -73.9684 38.9465 -74.8546 40.4126 -74.8546",
-  "solr_geom": "ENVELOPE(-74.8546, -73.9684, 40.4126, 38.9465)"
+  "layer_geom_type_s": "Image",
+  "solr_geom": "ENVELOPE(-74.8546, -73.9684, 40.4126, 38.9465)",
+  "dc_rights_s": "Public",
+  "dc_language_s": "English"
 }

@@ -2,7 +2,7 @@
   "dc_description_s": "This is a map of Burundi. The map was created by the Central Intelligence Agency. It is in the Mercator Projection.",
   "layer_modified_dt": "2015-01-11T17:42:26Z",
   "solr_geom": "ENVELOPE(29, 31, -2, -4)",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fcv%2F43%2Fnz%2F23%2Fg%2F00000001.jp2/info.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/cv43nz23g/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/cv43nz23g/preview.jpg\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/cv43nz23g/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/cv/43/nz/23/g/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/cv43nz23g/preview.jpg\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/cv43nz23g",
   "dct_provenance_s": "Princeton",
@@ -11,7 +11,7 @@
     "Roads"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "September, 1999",
+  "layer_slug_s": "princeton-cv43nz23g",
   "dc_creator_sm": [
     "Central Intelligence Agency"
   ],
@@ -26,7 +26,7 @@
   "layer_id_s": "cv43nz23g",
   "georss_box_s": "-4 29 -2 31",
   "dc_title_s": "Burundi, 1999",
-  "layer_slug_s": "princeton-cv43nz23g",
+  "dct_issued_s": "September, 1999",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

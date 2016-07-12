@@ -1,25 +1,25 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/cf95jd967",
+  "dc_description_s": "Karte der Fahrwege im Siebengebirge",
+  "georss_box_s": "50.322567 5.8663153 52.5314932 9.4615941",
+  "layer_modified_dt": "2015-01-21T22:24:20Z",
   "dc_creator_sm": [
     "Woerl, Leo,"
   ],
-  "dc_description_s": "Karte der Fahrwege im Siebengebirge",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "cf95jd967",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/cf95jd967/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fcf%2F95%2Fjd%2F96%2F7%2F00000001.jp2/info.json\"}",
   "layer_id_s": "cf95jd967",
-  "layer_slug_s": "princeton-cf95jd967",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:20Z",
-  "dc_title_s": "Karte der Fahrwege im Siebengebirge",
   "dc_type_s": "Image",
+  "dc_identifier_s": "cf95jd967",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Karte der Fahrwege im Siebengebirge",
+  "layer_slug_s": "princeton-cf95jd967",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/cf95jd967/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/cf/95/jd/96/7/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "52.5314932 5.8663153 52.5314932 9.4615941 50.322567 9.4615941 50.322567 5.8663153 52.5314932 5.8663153",
+  "layer_geom_type_s": "Image",
+  "solr_geom": "ENVELOPE(5.8663153, 9.4615941, 52.5314932, 50.322567)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "North Rhine-Westphalia (Germany)",
     "Siebengebirge (Germany)"
-  ],
-  "georss_box_s": "50.322567 5.8663153 52.5314932 9.4615941",
-  "georss_polygon_s": "52.5314932 5.8663153 52.5314932 9.4615941 50.322567 9.4615941 50.322567 5.8663153 52.5314932 5.8663153",
-  "solr_geom": "ENVELOPE(5.8663153, 9.4615941, 52.5314932, 50.322567)"
+  ]
 }

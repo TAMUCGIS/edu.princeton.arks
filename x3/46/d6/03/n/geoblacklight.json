@@ -1,31 +1,31 @@
 {
+  "solr_year_i": "1872",
   "uuid": "http://arks.princeton.edu/ark:/88435/x346d603n",
+  "dc_description_s": "Countries in the northern tropical regions of Africa",
+  "georss_box_s": "4.0 26.0 16.0 45.0",
+  "layer_modified_dt": "2015-01-19T22:36:49Z",
   "dc_creator_sm": [
     "Petermann, A.",
     "Swanston, G. H.",
     "Thom, A. M. Fullarton"
   ],
-  "dc_description_s": "Countries in the northern tropical regions of Africa",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "x346d603n",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/x346d603n/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fx3%2F46%2Fd6%2F03%2Fn%2F00000001.jp2/info.json\"}",
   "layer_id_s": "x346d603n",
-  "layer_slug_s": "princeton-x346d603n",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:36:49Z",
-  "dc_title_s": "Countries in the northern tropical regions of Africa",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Africa, Central",
-    "Ethiopia"
-  ],
+  "dc_identifier_s": "x346d603n",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Countries in the northern tropical regions of Africa",
+  "layer_slug_s": "princeton-x346d603n",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/x346d603n/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/x3/46/d6/03/n/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "16.0 26.0 16.0 45.0 4.0 45.0 4.0 26.0 16.0 26.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1872"
   ],
-  "georss_box_s": "4.0 26.0 16.0 45.0",
-  "georss_polygon_s": "16.0 26.0 16.0 45.0 4.0 45.0 4.0 26.0 16.0 26.0",
   "solr_geom": "ENVELOPE(26.0, 45.0, 16.0, 4.0)",
-  "solr_year_i": "1872"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Africa, Central",
+    "Ethiopia"
+  ]
 }

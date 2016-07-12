@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1847",
   "uuid": "http://arks.princeton.edu/ark:/88435/m326m417p",
   "dc_description_s": "Scarborough Port",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "m326m417p",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/m326m417p/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fm3%2F26%2Fm4%2F17%2Fp%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "m326m417p",
-  "layer_slug_s": "princeton-m326m417p",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "11.1690132 -60.7513904 11.1995359 -60.7120585",
   "layer_modified_dt": "2015-01-21T22:24:09Z",
-  "dc_title_s": "Scarborough Port",
+  "layer_id_s": "m326m417p",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Scarborough Port (Trinidad and Tobago)"
-  ],
+  "dc_identifier_s": "m326m417p",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Scarborough Port",
+  "layer_slug_s": "princeton-m326m417p",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/m326m417p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/m3/26/m4/17/p/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "11.1995359 -60.7513904 11.1995359 -60.7120585 11.1690132 -60.7120585 11.1690132 -60.7513904 11.1995359 -60.7513904",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1847"
   ],
-  "georss_box_s": "11.1690132 -60.7513904 11.1995359 -60.7120585",
-  "georss_polygon_s": "11.1995359 -60.7513904 11.1995359 -60.7120585 11.1690132 -60.7120585 11.1690132 -60.7513904 11.1995359 -60.7513904",
   "solr_geom": "ENVELOPE(-60.7513904, -60.7120585, 11.1995359, 11.1690132)",
-  "solr_year_i": "1847"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Scarborough Port (Trinidad and Tobago)"
+  ]
 }

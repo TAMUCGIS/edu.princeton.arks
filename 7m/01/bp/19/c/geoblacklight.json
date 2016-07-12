@@ -1,32 +1,32 @@
 {
+  "solr_year_i": "1602",
   "uuid": "http://arks.princeton.edu/ark:/88435/7m01bp19c",
+  "dc_description_s": "Saxonia, Thuringia, Misnia",
+  "georss_box_s": "51.1291607 13.4241727 51.1931689 13.5422789",
+  "layer_modified_dt": "2015-01-21T22:24:21Z",
   "dc_creator_sm": [
     "Langenes, Barent.",
     "Claesz, Cornelis,",
     "Silvius, Symon,"
   ],
-  "dc_description_s": "Saxonia, Thuringia, Misnia",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "7m01bp19c",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/7m01bp19c/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F7m%2F01%2Fbp%2F19%2Fc%2F00000001.jp2/info.json\"}",
   "layer_id_s": "7m01bp19c",
-  "layer_slug_s": "princeton-7m01bp19c",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:21Z",
-  "dc_title_s": "Saxonia, Thuringia, Misnia",
   "dc_type_s": "Image",
+  "dc_identifier_s": "7m01bp19c",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Saxonia, Thuringia, Misnia",
+  "layer_slug_s": "princeton-7m01bp19c",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/7m01bp19c/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/7m/01/bp/19/c/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "51.1931689 13.4241727 51.1931689 13.5422789 51.1291607 13.5422789 51.1291607 13.4241727 51.1931689 13.4241727",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1602"
+  ],
+  "solr_geom": "ENVELOPE(13.4241727, 13.5422789, 51.1931689, 51.1291607)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Meissen (Germany : Landkreis)",
     "Saxony (Germany)",
     "Thuringia (Germany)"
-  ],
-  "dct_temporal_sm": [
-    "1602"
-  ],
-  "georss_box_s": "51.1291607 13.4241727 51.1931689 13.5422789",
-  "georss_polygon_s": "51.1931689 13.4241727 51.1931689 13.5422789 51.1291607 13.5422789 51.1291607 13.4241727 51.1931689 13.4241727",
-  "solr_geom": "ENVELOPE(13.4241727, 13.5422789, 51.1931689, 51.1291607)",
-  "solr_year_i": "1602"
+  ]
 }

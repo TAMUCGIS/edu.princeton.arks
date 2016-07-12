@@ -1,36 +1,34 @@
 {
+  "solr_year_i": "1850",
   "uuid": "http://arks.princeton.edu/ark:/88435/70795b17b",
+  "dc_description_s": "Reconnoissance of the western coast of the United States from Monterey to the Columbia River in three sheets, sheet no. 3 /",
+  "georss_box_s": "43.0 -125.0 47.0 -123.0",
+  "layer_modified_dt": "2015-01-23T17:48:40Z",
   "dc_creator_sm": [
     "McArthur, W. P.",
     "Bartlett, Washington A.",
     "McMurtrie, W. B.",
-    "Rollé, A.",
+    "Rolle\u0301, A.",
     "Dankworth, Frederick,",
     "Lawson, Oscar A.,",
     "McCoy, G.",
     "Smith, W.",
     "Stevens, Isaac Ingalls,"
   ],
-  "dc_description_s": "Reconnoissance of the western coast of the United States from Monterey to the Columbia River in three sheets, sheet no. 3 /",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "70795b17b",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/70795b17b/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F70%2F79%2F5b%2F17%2F00000001.jp2/info.json\"}",
   "layer_id_s": "70795b17b",
-  "layer_slug_s": "princeton-70795b17b",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-23T17:48:40Z",
-  "dc_title_s": "Reconnoissance of the western coast of the United States from Monterey to the Columbia River in three sheets, sheet no. 3 /",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "70795b17b",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Reconnoissance of the western coast of the United States from Monterey to the Columbia River in three sheets, sheet no. 3 /",
+  "layer_slug_s": "princeton-70795b17b",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/70795b17b/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/70/79/5b/17/b/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "47.0 -125.0 47.0 -123.0 43.0 -123.0 43.0 -125.0 47.0 -125.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1850"
   ],
-  "georss_box_s": "43.0 -125.0 47.0 -123.0",
-  "georss_polygon_s": "47.0 -125.0 47.0 -123.0 43.0 -123.0 43.0 -125.0 47.0 -125.0",
   "solr_geom": "ENVELOPE(-125.0, -123.0, 47.0, 43.0)",
-  "solr_year_i": "1850"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

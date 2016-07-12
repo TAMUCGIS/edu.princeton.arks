@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1852",
   "uuid": "http://arks.princeton.edu/ark:/88435/k643b3627",
+  "dc_description_s": "U\u0308bersichts-Karte von Iran, oder West-Hochasien : zu C. Ritter's Erdkunde, Buch III, West-Asien, Theil VIII, IX",
+  "georss_box_s": "25.0 44.0 41.0 72.0",
+  "layer_modified_dt": "2015-01-19T22:37:18Z",
   "dc_creator_sm": [
     "Ritter, Carl,",
     "Mahlmann, Heinrich,",
     "Reimer, Dietrich,"
   ],
-  "dc_description_s": "Übersichts-Karte von Iran, oder West-Hochasien : zu C. Ritter's Erdkunde, Buch III, West-Asien, Theil VIII, IX",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "k643b3627",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/k643b3627/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fk6%2F43%2Fb3%2F62%2F7%2F00000001.jp2/info.json\"}",
   "layer_id_s": "k643b3627",
-  "layer_slug_s": "princeton-k643b3627",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:18Z",
-  "dc_title_s": "Übersichts-Karte von Iran, oder West-Hochasien : zu C. Ritter's Erdkunde, Buch III, West-Asien, Theil VIII, IX",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Iran"
-  ],
+  "dc_identifier_s": "k643b3627",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "U\u0308bersichts-Karte von Iran, oder West-Hochasien : zu C. Ritter's Erdkunde, Buch III, West-Asien, Theil VIII, IX",
+  "layer_slug_s": "princeton-k643b3627",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/k643b3627/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/k6/43/b3/62/7/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "41.0 44.0 41.0 72.0 25.0 72.0 25.0 44.0 41.0 44.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1852"
   ],
-  "georss_box_s": "25.0 44.0 41.0 72.0",
-  "georss_polygon_s": "41.0 44.0 41.0 72.0 25.0 72.0 25.0 44.0 41.0 44.0",
   "solr_geom": "ENVELOPE(44.0, 72.0, 41.0, 25.0)",
-  "solr_year_i": "1852"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Iran"
+  ]
 }

@@ -1,22 +1,22 @@
 {
+  "solr_year_i": "1893",
   "uuid": "http://arks.princeton.edu/ark:/88435/g445cf97x",
   "dc_description_s": "Rhode Island: Sakonnet Sheet",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "g445cf97x",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/g445cf97x/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fg4%2F45%2Fcf%2F97%2Fx%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "g445cf97x",
-  "layer_slug_s": "princeton-g445cf97x",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "41.75000 -71.25000 42.00000 -71.00000",
   "layer_modified_dt": "2015-01-19T22:36:42Z",
-  "dc_title_s": "Rhode Island: Sakonnet Sheet",
+  "layer_id_s": "g445cf97x",
   "dc_type_s": "Image",
+  "dc_identifier_s": "g445cf97x",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Rhode Island: Sakonnet Sheet",
+  "layer_slug_s": "princeton-g445cf97x",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/g445cf97x/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/g4/45/cf/97/x/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "42.00000 -71.25000 42.00000 -71.00000 41.75000 -71.00000 41.75000 -71.25000 42.00000 -71.25000",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1893"
   ],
-  "georss_box_s": "41.75000 -71.25000 42.00000 -71.00000",
-  "georss_polygon_s": "42.00000 -71.25000 42.00000 -71.00000 41.75000 -71.00000 41.75000 -71.25000 42.00000 -71.25000",
   "solr_geom": "ENVELOPE(-71.25000, -71.00000, 42.00000, 41.75000)",
-  "solr_year_i": "1893"
+  "dc_rights_s": "Public"
 }

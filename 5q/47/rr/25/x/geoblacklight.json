@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1900",
   "uuid": "http://arks.princeton.edu/ark:/88435/5q47rr25x",
   "dc_description_s": "The regent's sword peninsula",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "5q47rr25x",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/5q47rr25x/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F5q%2F47%2Frr%2F25%2Fx%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "5q47rr25x",
-  "layer_slug_s": "princeton-5q47rr25x",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "38.0 121.0 39.0 122.0",
   "layer_modified_dt": "2015-01-19T22:37:37Z",
-  "dc_title_s": "The regent's sword peninsula",
+  "layer_id_s": "5q47rr25x",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Liaodong Peninsula (China)"
-  ],
+  "dc_identifier_s": "5q47rr25x",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "The regent's sword peninsula",
+  "layer_slug_s": "princeton-5q47rr25x",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/5q47rr25x/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/5q/47/rr/25/x/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "39.0 121.0 39.0 122.0 38.0 122.0 38.0 121.0 39.0 121.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1900"
   ],
-  "georss_box_s": "38.0 121.0 39.0 122.0",
-  "georss_polygon_s": "39.0 121.0 39.0 122.0 38.0 122.0 38.0 121.0 39.0 121.0",
   "solr_geom": "ENVELOPE(121.0, 122.0, 39.0, 38.0)",
-  "solr_year_i": "1900"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Liaodong Peninsula (China)"
+  ]
 }

@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1636",
   "uuid": "http://arks.princeton.edu/ark:/88435/ht24wm95h",
+  "dc_description_s": "Nova Hispania et Nova Galicia",
+  "georss_box_s": "14.5333037 -118.36443 32.7187629 -86.7105711",
+  "layer_modified_dt": "2015-01-25T02:06:18Z",
   "dc_creator_sm": [
     "Hondius, Hendrik,",
     "Hochschild, Harold K.,"
   ],
-  "dc_description_s": "Nova Hispania et Nova Galicia",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "ht24wm95h",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/ht24wm95h/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fht%2F24%2Fwm%2F95%2Fh%2F00000001.jp2/info.json\"}",
   "layer_id_s": "ht24wm95h",
-  "layer_slug_s": "princeton-ht24wm95h",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:18Z",
-  "dc_title_s": "Nova Hispania et Nova Galicia",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Mexico"
-  ],
+  "dc_identifier_s": "ht24wm95h",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Nova Hispania et Nova Galicia",
+  "layer_slug_s": "princeton-ht24wm95h",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/ht24wm95h/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ht/24/wm/95/h/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "32.7187629 -118.36443 32.7187629 -86.7105711 14.5333037 -86.7105711 14.5333037 -118.36443 32.7187629 -118.36443",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1636"
   ],
-  "georss_box_s": "14.5333037 -118.36443 32.7187629 -86.7105711",
-  "georss_polygon_s": "32.7187629 -118.36443 32.7187629 -86.7105711 14.5333037 -86.7105711 14.5333037 -118.36443 32.7187629 -118.36443",
   "solr_geom": "ENVELOPE(-118.36443, -86.7105711, 32.7187629, 14.5333037)",
-  "solr_year_i": "1636"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Mexico"
+  ]
 }

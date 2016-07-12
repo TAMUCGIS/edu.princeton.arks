@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1866",
   "uuid": "http://arks.princeton.edu/ark:/88435/s1784p20z",
+  "dc_description_s": "Map showing the levelling from the Mediterranean to the Dead Sea",
+  "georss_box_s": "30.96056 34.74806 32.05556 35.58639",
+  "layer_modified_dt": "2015-01-19T22:37:22Z",
   "dc_creator_sm": [
     "James, Henry,"
   ],
-  "dc_description_s": "Map showing the levelling from the Mediterranean to the Dead Sea",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "s1784p20z",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/s1784p20z/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fs1%2F78%2F4p%2F20%2Fz%2F00000001.jp2/info.json\"}",
   "layer_id_s": "s1784p20z",
-  "layer_slug_s": "princeton-s1784p20z",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:22Z",
-  "dc_title_s": "Map showing the levelling from the Mediterranean to the Dead Sea",
   "dc_type_s": "Image",
+  "dc_identifier_s": "s1784p20z",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Map showing the levelling from the Mediterranean to the Dead Sea",
+  "layer_slug_s": "princeton-s1784p20z",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/s1784p20z/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/s1/78/4p/20/z/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "32.05556 34.74806 32.05556 35.58639 30.96056 35.58639 30.96056 34.74806 32.05556 34.74806",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1866"
+  ],
+  "solr_geom": "ENVELOPE(34.74806, 35.58639, 32.05556, 30.96056)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Mediterranean Region",
     "Israel",
     "Dead Sea (Israel and Jordan)"
-  ],
-  "dct_temporal_sm": [
-    "1866"
-  ],
-  "georss_box_s": "30.96056 34.74806 32.05556 35.58639",
-  "georss_polygon_s": "32.05556 34.74806 32.05556 35.58639 30.96056 35.58639 30.96056 34.74806 32.05556 34.74806",
-  "solr_geom": "ENVELOPE(34.74806, 35.58639, 32.05556, 30.96056)",
-  "solr_year_i": "1866"
+  ]
 }

@@ -1,31 +1,31 @@
 {
+  "solr_year_i": "1635",
   "uuid": "http://arks.princeton.edu/ark:/88435/hq37vr04s",
+  "dc_description_s": "Regnorum Hispani\u00e6 nova descriptio",
+  "georss_box_s": "35.0 7.0 44.0 22.0",
+  "layer_modified_dt": "2015-01-19T22:37:17Z",
   "dc_creator_sm": [
     "Blaeu, Joan,",
     "Blaeu, Willem Janszoon,"
   ],
-  "dc_description_s": "Regnorum Hispaniæ nova descriptio",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "hq37vr04s",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/hq37vr04s/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fhq%2F37%2Fvr%2F04%2Fs%2F00000001.jp2/info.json\"}",
   "layer_id_s": "hq37vr04s",
-  "layer_slug_s": "princeton-hq37vr04s",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:17Z",
-  "dc_title_s": "Regnorum Hispaniæ nova descriptio",
   "dc_type_s": "Image",
+  "dc_identifier_s": "hq37vr04s",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Regnorum Hispani\u00e6 nova descriptio",
+  "layer_slug_s": "princeton-hq37vr04s",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/hq37vr04s/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/hq/37/vr/04/s/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "44.0 7.0 44.0 22.0 35.0 22.0 35.0 7.0 44.0 7.0",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1635"
+  ],
+  "solr_geom": "ENVELOPE(7.0, 22.0, 44.0, 35.0)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Iberian Peninsula",
     "Portugal",
     "Spain"
-  ],
-  "dct_temporal_sm": [
-    "1635"
-  ],
-  "georss_box_s": "35.0 7.0 44.0 22.0",
-  "georss_polygon_s": "44.0 7.0 44.0 22.0 35.0 22.0 35.0 7.0 44.0 7.0",
-  "solr_geom": "ENVELOPE(7.0, 22.0, 44.0, 35.0)",
-  "solr_year_i": "1635"
+  ]
 }

@@ -1,30 +1,28 @@
 {
+  "solr_year_i": "1825",
   "uuid": "http://arks.princeton.edu/ark:/88435/f1881p324",
+  "dc_description_s": "Map of that part of the Harlem Commons east of the 5th Ave. & Central Park : copied from the original map made by Joseph F. Bridges, City Surveyor, January 1826, now in possession of a gentleman who purchased it through A.R. Morgan, Esq., from Mr. Bridges : showing also the boundaries given by Charles Clinton, Surveyor, Dec. 1825, and the inaccuracies of both the above-named maps, with other important information",
+  "georss_box_s": "40.8078286 -73.9454654 40.8079286 -73.9453654",
+  "layer_modified_dt": "2015-01-21T22:24:02Z",
   "dc_creator_sm": [
     "Bridges, Joseph F.",
     "Morgan, A. R.",
     "Clinton, Charles."
   ],
-  "dc_description_s": "Map of that part of the Harlem Commons east of the 5th Ave. & Central Park : copied from the original map made by Joseph F. Bridges, City Surveyor, January 1826, now in possession of a gentleman who purchased it through A.R. Morgan, Esq., from Mr. Bridges : showing also the boundaries given by Charles Clinton, Surveyor, Dec. 1825, and the inaccuracies of both the above-named maps, with other important information",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "f1881p324",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/f1881p324/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ff1%2F88%2F1p%2F32%2F4%2F00000001.jp2/info.json\"}",
   "layer_id_s": "f1881p324",
-  "layer_slug_s": "princeton-f1881p324",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:02Z",
-  "dc_title_s": "Map of that part of the Harlem Commons east of the 5th Ave. & Central Park : copied from the original map made by Joseph F. Bridges, City Surveyor, January 1826, now in possession of a gentleman who purchased it through A.R. Morgan, Esq., from Mr. Bridges : showing also the boundaries given by Charles Clinton, Surveyor, Dec. 1825, and the inaccuracies of both the above-named maps, with other important information",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "f1881p324",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Map of that part of the Harlem Commons east of the 5th Ave. & Central Park : copied from the original map made by Joseph F. Bridges, City Surveyor, January 1826, now in possession of a gentleman who purchased it through A.R. Morgan, Esq., from Mr. Bridges : showing also the boundaries given by Charles Clinton, Surveyor, Dec. 1825, and the inaccuracies of both the above-named maps, with other important information",
+  "layer_slug_s": "princeton-f1881p324",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/f1881p324/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/f1/88/1p/32/4/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.8079286 -73.9454654 40.8079286 -73.9453654 40.8078286 -73.9453654 40.8078286 -73.9454654 40.8079286 -73.9454654",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1825"
   ],
-  "georss_box_s": "40.8078286 -73.9454654 40.8079286 -73.9453654",
-  "georss_polygon_s": "40.8079286 -73.9454654 40.8079286 -73.9453654 40.8078286 -73.9453654 40.8078286 -73.9454654 40.8079286 -73.9454654",
   "solr_geom": "ENVELOPE(-73.9454654, -73.9453654, 40.8079286, 40.8078286)",
-  "solr_year_i": "1825"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

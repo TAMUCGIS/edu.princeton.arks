@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1965",
   "uuid": "http://arks.princeton.edu/ark:/88435/12579v62p",
+  "dc_description_s": "Partie du plan ge\u0301ne\u0301ral de Paris : ou l'on a trace\u0301 les differents emplacemens qui ont e\u0301te\u0301 choisis pour placer la statue equestre du roi",
+  "georss_box_s": "48.8155755 2.224122 48.902156 2.4697602",
+  "layer_modified_dt": "2015-01-21T22:23:58Z",
   "dc_creator_sm": [
     "Patte, Pierre,"
   ],
-  "dc_description_s": "Partie du plan général de Paris : ou l'on a tracé les differents emplacemens qui ont été choisis pour placer la statue equestre du roi",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "12579v62p",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/12579v62p/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F12%2F57%2F9v%2F62%2Fp%2F00000001.jp2/info.json\"}",
   "layer_id_s": "12579v62p",
-  "layer_slug_s": "princeton-12579v62p",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:58Z",
-  "dc_title_s": "Partie du plan général de Paris : ou l'on a tracé les differents emplacemens qui ont été choisis pour placer la statue equestre du roi",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Paris (France)"
-  ],
+  "dc_identifier_s": "12579v62p",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Partie du plan ge\u0301ne\u0301ral de Paris : ou l'on a trace\u0301 les differents emplacemens qui ont e\u0301te\u0301 choisis pour placer la statue equestre du roi",
+  "layer_slug_s": "princeton-12579v62p",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/12579v62p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/12/57/9v/62/p/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "48.902156 2.224122 48.902156 2.4697602 48.8155755 2.4697602 48.8155755 2.224122 48.902156 2.224122",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1965"
   ],
-  "georss_box_s": "48.8155755 2.224122 48.902156 2.4697602",
-  "georss_polygon_s": "48.902156 2.224122 48.902156 2.4697602 48.8155755 2.4697602 48.8155755 2.224122 48.902156 2.224122",
   "solr_geom": "ENVELOPE(2.224122, 2.4697602, 48.902156, 48.8155755)",
-  "solr_year_i": "1965"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Paris (France)"
+  ]
 }

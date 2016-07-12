@@ -2,7 +2,7 @@
   "dc_description_s": "This is a map of Africa, 1766.",
   "layer_modified_dt": "2015-01-11T17:42:17Z",
   "solr_geom": "ENVELOPE(61.077, -20.137, 39.98, -35.617)",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F3r%2F07%2F4w%2F35%2Fr%2F00000001.jp2/info.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/3r074w35r/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/3r074w35r/preview.jpg\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/3r074w35r/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/3r/07/4w/35/r/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/3r074w35r/preview.jpg\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/3r074w35r",
   "dct_provenance_s": "Princeton",
@@ -11,7 +11,7 @@
     "Historical"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "1766",
+  "layer_slug_s": "princeton-3r074w35r",
   "dc_creator_sm": [
     "London : H. Woodfall (performed by the Sr. Danville under the patronage of the Duke of Orleans)"
   ],
@@ -26,7 +26,7 @@
   "layer_id_s": "3r074w35r",
   "georss_box_s": "-35.617 61.077 39.98 -20.137",
   "dc_title_s": "Africa, performed by the Sr. Danville under the patronage of the Duke of Orleans",
-  "layer_slug_s": "princeton-3r074w35r",
+  "dct_issued_s": "1766",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

@@ -1,30 +1,28 @@
 {
+  "solr_year_i": "1777",
   "uuid": "http://arks.princeton.edu/ark:/88435/08612q95t",
+  "dc_description_s": "A topographical map of the north part of New-York Island : exhibiting the plan of Fort Washington now Fort Knyphausen, with the rebels lines to the southward which where [sic] forced by the troops under the command of the Rt. Honble. Earl Percy on the 16th. Novr. 1776, and survey'd immediately after by order of his Lordship ... To which is added the attack made to the north by the Hessians. Surveyed by order of Lieut. Genl. Knyphausen",
+  "georss_box_s": "40.8455276564 -73.9482111463 40.8550971254 -73.9330020118",
+  "layer_modified_dt": "2015-01-21T22:24:01Z",
   "dc_creator_sm": [
     "Valentine, D. T.",
     "Hayward, George,",
     "Fox, N. B.,"
   ],
-  "dc_description_s": "A topographical map of the north part of New-York Island : exhibiting the plan of Fort Washington now Fort Knyphausen, with the rebels lines to the southward which where [sic] forced by the troops under the command of the Rt. Honble. Earl Percy on the 16th. Novr. 1776, and survey'd immediately after by order of his Lordship ... To which is added the attack made to the north by the Hessians. Surveyed by order of Lieut. Genl. Knyphausen",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "08612q95t",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/08612q95t/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F08%2F61%2F2q%2F95%2Ft%2F00000001.jp2/info.json\"}",
   "layer_id_s": "08612q95t",
-  "layer_slug_s": "princeton-08612q95t",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:01Z",
-  "dc_title_s": "A topographical map of the north part of New-York Island : exhibiting the plan of Fort Washington now Fort Knyphausen, with the rebels lines to the southward which where [sic] forced by the troops under the command of the Rt. Honble. Earl Percy on the 16th. Novr. 1776, and survey'd immediately after by order of his Lordship ... To which is added the attack made to the north by the Hessians. Surveyed by order of Lieut. Genl. Knyphausen",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "08612q95t",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "A topographical map of the north part of New-York Island : exhibiting the plan of Fort Washington now Fort Knyphausen, with the rebels lines to the southward which where [sic] forced by the troops under the command of the Rt. Honble. Earl Percy on the 16th. Novr. 1776, and survey'd immediately after by order of his Lordship ... To which is added the attack made to the north by the Hessians. Surveyed by order of Lieut. Genl. Knyphausen",
+  "layer_slug_s": "princeton-08612q95t",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/08612q95t/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/08/61/2q/95/t/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.8550971254 -73.9482111463 40.8550971254 -73.9330020118 40.8455276564 -73.9330020118 40.8455276564 -73.9482111463 40.8550971254 -73.9482111463",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1777"
   ],
-  "georss_box_s": "40.8455276564 -73.9482111463 40.8550971254 -73.9330020118",
-  "georss_polygon_s": "40.8550971254 -73.9482111463 40.8550971254 -73.9330020118 40.8455276564 -73.9330020118 40.8455276564 -73.9482111463 40.8550971254 -73.9482111463",
   "solr_geom": "ENVELOPE(-73.9482111463, -73.9330020118, 40.8550971254, 40.8455276564)",
-  "solr_year_i": "1777"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

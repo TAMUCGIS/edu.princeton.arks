@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1858",
   "uuid": "http://arks.princeton.edu/ark:/88435/n870zt368",
+  "dc_description_s": "Pianta dei contorni di Roma",
+  "georss_box_s": "41.769596 12.341707 42.0505462 12.7302888",
+  "layer_modified_dt": "2015-01-25T02:06:21Z",
   "dc_creator_sm": [
     "Parboni, Achille,",
     "Pulini, L.,"
   ],
-  "dc_description_s": "Pianta dei contorni di Roma",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "n870zt368",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/n870zt368/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fn8%2F70%2Fzt%2F36%2F8%2F00000001.jp2/info.json\"}",
   "layer_id_s": "n870zt368",
-  "layer_slug_s": "princeton-n870zt368",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:21Z",
-  "dc_title_s": "Pianta dei contorni di Roma",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Rome (Italy : Province)"
-  ],
+  "dc_identifier_s": "n870zt368",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Pianta dei contorni di Roma",
+  "layer_slug_s": "princeton-n870zt368",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/n870zt368/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/n8/70/zt/36/8/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "42.0505462 12.341707 42.0505462 12.7302888 41.769596 12.7302888 41.769596 12.341707 42.0505462 12.341707",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1858"
   ],
-  "georss_box_s": "41.769596 12.341707 42.0505462 12.7302888",
-  "georss_polygon_s": "42.0505462 12.341707 42.0505462 12.7302888 41.769596 12.7302888 41.769596 12.341707 42.0505462 12.341707",
   "solr_geom": "ENVELOPE(12.341707, 12.7302888, 42.0505462, 41.769596)",
-  "solr_year_i": "1858"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Rome (Italy : Province)"
+  ]
 }

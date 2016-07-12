@@ -2,7 +2,7 @@
   "dc_description_s": "This is a Sanborn map of Camden, Burlington County shown at a scale of 1:600.",
   "layer_modified_dt": "2015-01-11T17:43:37Z",
   "solr_geom": "ENVELOPE(-75.1232, -75.1187, 39.946, 39.9425)",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fcj%2F82%2Fk9%2F02%2Fw%2F00000001.jp2/info.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/cj82k902w/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/cj82k902w/preview.jpg\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/cj82k902w/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/cj/82/k9/02/w/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/cj82k902w/preview.jpg\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/cj82k902w",
   "dct_provenance_s": "Princeton",
@@ -12,7 +12,7 @@
     "Sanborn"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "1891",
+  "layer_slug_s": "princeton-cj82k902w",
   "dc_creator_sm": [
     "New York : Sanborn Map Company"
   ],
@@ -30,7 +30,7 @@
   "layer_id_s": "cj82k902w",
   "georss_box_s": "39.9425 -75.1232 39.946 -75.1187",
   "dc_title_s": "Camden, Burlington County (Sheet 13)",
-  "layer_slug_s": "princeton-cj82k902w",
+  "dct_issued_s": "1891",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

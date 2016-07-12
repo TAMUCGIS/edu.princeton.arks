@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1750",
   "uuid": "http://arks.princeton.edu/ark:/88435/t722hc323",
+  "dc_description_s": "Regni sinae vel sinae propriae, mappa et descriptio geographica ex mappis particularibus quas sinarum rex Canghi opera patrum missionariorum e S.I. in provincias regni universi eius rei gratia ablegatorum concinnari fecit perfecta publicoque primum communicata in opere magnificentissimo R.P. du Halde et ab Anvillaeo Gall., Reg. Geographo, in compendiosiorem hanc formam reducta nunc secundam magis legitimas projectionis stereographicae leges reformata studio Ioh. Matth. Hasii, Math. P.P.",
+  "georss_box_s": "3.966232 73.4997347 53.5608154 134.7754563",
+  "layer_modified_dt": "2015-01-21T22:24:26Z",
   "dc_creator_sm": [
     "Anville, Jean Baptiste Bourguignon d',",
     "Du Halde, J.-B."
   ],
-  "dc_description_s": "Regni sinae vel sinae propriae, mappa et descriptio geographica ex mappis particularibus quas sinarum rex Canghi opera patrum missionariorum e S.I. in provincias regni universi eius rei gratia ablegatorum concinnari fecit perfecta publicoque primum communicata in opere magnificentissimo R.P. du Halde et ab Anvillaeo Gall., Reg. Geographo, in compendiosiorem hanc formam reducta nunc secundam magis legitimas projectionis stereographicae leges reformata studio Ioh. Matth. Hasii, Math. P.P.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "t722hc323",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/t722hc323/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ft7%2F22%2Fhc%2F32%2F3%2F00000001.jp2/info.json\"}",
   "layer_id_s": "t722hc323",
-  "layer_slug_s": "princeton-t722hc323",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:26Z",
-  "dc_title_s": "Regni sinae vel sinae propriae, mappa et descriptio geographica ex mappis particularibus quas sinarum rex Canghi opera patrum missionariorum e S.I. in provincias regni universi eius rei gratia ablegatorum concinnari fecit perfecta publicoque primum communicata in opere magnificentissimo R.P. du Halde et ab Anvillaeo Gall., Reg. Geographo, in compendiosiorem hanc formam reducta nunc secundam magis legitimas projectionis stereographicae leges reformata studio Ioh. Matth. Hasii, Math. P.P.",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "China"
-  ],
+  "dc_identifier_s": "t722hc323",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Regni sinae vel sinae propriae, mappa et descriptio geographica ex mappis particularibus quas sinarum rex Canghi opera patrum missionariorum e S.I. in provincias regni universi eius rei gratia ablegatorum concinnari fecit perfecta publicoque primum communicata in opere magnificentissimo R.P. du Halde et ab Anvillaeo Gall., Reg. Geographo, in compendiosiorem hanc formam reducta nunc secundam magis legitimas projectionis stereographicae leges reformata studio Ioh. Matth. Hasii, Math. P.P.",
+  "layer_slug_s": "princeton-t722hc323",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/t722hc323/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/t7/22/hc/32/3/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "53.5608154 73.4997347 53.5608154 134.7754563 3.966232 134.7754563 3.966232 73.4997347 53.5608154 73.4997347",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1750"
   ],
-  "georss_box_s": "3.966232 73.4997347 53.5608154 134.7754563",
-  "georss_polygon_s": "53.5608154 73.4997347 53.5608154 134.7754563 3.966232 134.7754563 3.966232 73.4997347 53.5608154 73.4997347",
   "solr_geom": "ENVELOPE(73.4997347, 134.7754563, 53.5608154, 3.966232)",
-  "solr_year_i": "1750"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "China"
+  ]
 }

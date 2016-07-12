@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1777",
   "uuid": "http://arks.princeton.edu/ark:/88435/0r967564s",
+  "dc_description_s": "An accurate map of Warwickshire : drawn from the best surveys and intelligence, divided into its hundreds : shewing the several roads and measured distances between town & town : also the rectories & vicarages, the parks & seats of the nobility & gentry with other useful particulars",
+  "georss_box_s": "51.9553939 -1.9620066 52.6872169 -1.1721263",
+  "layer_modified_dt": "2015-01-21T22:23:50Z",
   "dc_creator_sm": [
     "Bowen, Emanuel,",
     "Schofield, Robert E.,"
   ],
-  "dc_description_s": "An accurate map of Warwickshire : drawn from the best surveys and intelligence, divided into its hundreds : shewing the several roads and measured distances between town & town : also the rectories & vicarages, the parks & seats of the nobility & gentry with other useful particulars",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "0r967564s",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/0r967564s/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F0r%2F96%2F75%2F64%2Fs%2F00000001.jp2/info.json\"}",
   "layer_id_s": "0r967564s",
-  "layer_slug_s": "princeton-0r967564s",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:50Z",
-  "dc_title_s": "An accurate map of Warwickshire : drawn from the best surveys and intelligence, divided into its hundreds : shewing the several roads and measured distances between town & town : also the rectories & vicarages, the parks & seats of the nobility & gentry with other useful particulars",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Warwickshire (England)"
-  ],
+  "dc_identifier_s": "0r967564s",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "An accurate map of Warwickshire : drawn from the best surveys and intelligence, divided into its hundreds : shewing the several roads and measured distances between town & town : also the rectories & vicarages, the parks & seats of the nobility & gentry with other useful particulars",
+  "layer_slug_s": "princeton-0r967564s",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/0r967564s/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/0r/96/75/64/s/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "52.6872169 -1.9620066 52.6872169 -1.1721263 51.9553939 -1.1721263 51.9553939 -1.9620066 52.6872169 -1.9620066",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1777"
   ],
-  "georss_box_s": "51.9553939 -1.9620066 52.6872169 -1.1721263",
-  "georss_polygon_s": "52.6872169 -1.9620066 52.6872169 -1.1721263 51.9553939 -1.1721263 51.9553939 -1.9620066 52.6872169 -1.9620066",
   "solr_geom": "ENVELOPE(-1.9620066, -1.1721263, 52.6872169, 51.9553939)",
-  "solr_year_i": "1777"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Warwickshire (England)"
+  ]
 }

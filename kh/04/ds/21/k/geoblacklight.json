@@ -1,5 +1,9 @@
 {
+  "solr_year_i": "1848",
   "uuid": "http://arks.princeton.edu/ark:/88435/kh04ds21k",
+  "dc_description_s": "Harbors of Black Rock and Bridgeport",
+  "georss_box_s": "41.1333333333 -73.2166666667 41.1833333333 -73.1666666667",
+  "layer_modified_dt": "2015-01-19T22:37:39Z",
   "dc_creator_sm": [
     "Hassler, F. R.",
     "Ferguson, James,",
@@ -11,29 +15,23 @@
     "Pettit, S. T.",
     "Dankworth, Frederick,",
     "Lawson, Oscar A.,",
-    "Rollé, A.",
+    "Rolle\u0301, A.",
     "Knight, J."
   ],
-  "dc_description_s": "Harbors of Black Rock and Bridgeport",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "kh04ds21k",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/kh04ds21k/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fkh%2F04%2Fds%2F21%2Fk%2F00000001.jp2/info.json\"}",
   "layer_id_s": "kh04ds21k",
-  "layer_slug_s": "princeton-kh04ds21k",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:39Z",
-  "dc_title_s": "Harbors of Black Rock and Bridgeport",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "kh04ds21k",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Harbors of Black Rock and Bridgeport",
+  "layer_slug_s": "princeton-kh04ds21k",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/kh04ds21k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/kh/04/ds/21/k/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "41.1833333333 -73.2166666667 41.1833333333 -73.1666666667 41.1333333333 -73.1666666667 41.1333333333 -73.2166666667 41.1833333333 -73.2166666667",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1848"
   ],
-  "georss_box_s": "41.1333333333 -73.2166666667 41.1833333333 -73.1666666667",
-  "georss_polygon_s": "41.1833333333 -73.2166666667 41.1833333333 -73.1666666667 41.1333333333 -73.1666666667 41.1333333333 -73.2166666667 41.1833333333 -73.2166666667",
   "solr_geom": "ENVELOPE(-73.2166666667, -73.1666666667, 41.1833333333, 41.1333333333)",
-  "solr_year_i": "1848"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

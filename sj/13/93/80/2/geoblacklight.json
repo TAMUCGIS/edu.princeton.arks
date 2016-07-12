@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/sj1393802",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Keyport",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "sj1393802",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fsj%2F13%2F93%2F80%2F2%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "sj1393802",
-  "layer_slug_s": "princeton-sj1393802",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:01:50Z",
+  "solr_geom": "ENVELOPE(-74.218062, -74.183532, 40.447384, 40.422612)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/sj/13/93/80/2/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/sj1393802",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Keyport (Sheet 9), Monmouth County, New Jersey",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1923"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "sj1393802",
+  "georss_polygon_s": "40.447384 -74.218062 40.447384 -74.183532 40.422612 -74.183532 40.422612 -74.218062 40.447384 -74.218062",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1923",
   "dct_spatial_sm": [
     "New Jersey",
     "Keyport"
   ],
-  "dct_temporal_sm": [
-    "1923"
-  ],
+  "layer_id_s": "sj1393802",
   "georss_box_s": "40.422612 -74.218062 40.447384 -74.183532",
-  "georss_polygon_s": "40.447384 -74.218062 40.447384 -74.183532 40.422612 -74.183532 40.422612 -74.218062 40.447384 -74.218062",
-  "solr_geom": "ENVELOPE(-74.218062, -74.183532, 40.447384, 40.422612)",
-  "solr_year_i": "1923"
+  "dc_title_s": "Keyport (Sheet 9), Monmouth County, New Jersey",
+  "layer_slug_s": "princeton-sj1393802",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

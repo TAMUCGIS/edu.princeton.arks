@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1558",
   "uuid": "http://arks.princeton.edu/ark:/88435/rv042w609",
+  "dc_description_s": "Figura della spianata della citta di Roma, & delle porte, le quali quella haueua per l'adietro quando era sommamente in fiore, e'n altezza",
+  "georss_box_s": "41.6556417 12.2344985 42.1410285 12.8557603",
+  "layer_modified_dt": "2015-01-25T02:06:22Z",
   "dc_creator_sm": [
-    "Holzmüller, Heinrich,",
-    "Münster, Sebastian,",
+    "Holzmu\u0308ller, Heinrich,",
+    "Mu\u0308nster, Sebastian,",
     "McCabe, Robert A.,"
   ],
-  "dc_description_s": "Figura della spianata della citta di Roma, & delle porte, le quali quella haueua per l'adietro quando era sommamente in fiore, e'n altezza",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "rv042w609",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/rv042w609/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Frv%2F04%2F2w%2F60%2F9%2F00000001.jp2/info.json\"}",
   "layer_id_s": "rv042w609",
-  "layer_slug_s": "princeton-rv042w609",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:22Z",
-  "dc_title_s": "Figura della spianata della citta di Roma, & delle porte, le quali quella haueua per l'adietro quando era sommamente in fiore, e'n altezza",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Rome"
-  ],
+  "dc_identifier_s": "rv042w609",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Figura della spianata della citta di Roma, & delle porte, le quali quella haueua per l'adietro quando era sommamente in fiore, e'n altezza",
+  "layer_slug_s": "princeton-rv042w609",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/rv042w609/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/rv/04/2w/60/9/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "42.1410285 12.2344985 42.1410285 12.8557603 41.6556417 12.8557603 41.6556417 12.2344985 42.1410285 12.2344985",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1558"
   ],
-  "georss_box_s": "41.6556417 12.2344985 42.1410285 12.8557603",
-  "georss_polygon_s": "42.1410285 12.2344985 42.1410285 12.8557603 41.6556417 12.8557603 41.6556417 12.2344985 42.1410285 12.2344985",
   "solr_geom": "ENVELOPE(12.2344985, 12.8557603, 42.1410285, 41.6556417)",
-  "solr_year_i": "1558"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Rome"
+  ]
 }

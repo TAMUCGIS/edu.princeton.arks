@@ -1,31 +1,31 @@
 {
+  "solr_year_i": "1760",
   "uuid": "http://arks.princeton.edu/ark:/88435/zp38wg09g",
+  "dc_description_s": "Gallia antiqua ex \u00e6vi Romani monumentis eruta : et serenissimi Carnutum Ducis munificientia publicijuris facta",
+  "georss_box_s": "42.0 -5.0 53.0 11.0",
+  "layer_modified_dt": "2015-01-19T22:37:24Z",
   "dc_creator_sm": [
     "Haye, G. de la.",
     "Anville, Jean Baptiste Bourguignon d',",
     "Picquet, Charles,"
   ],
-  "dc_description_s": "Gallia antiqua ex ævi Romani monumentis eruta : et serenissimi Carnutum Ducis munificientia publicijuris facta",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "zp38wg09g",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/zp38wg09g/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fzp%2F38%2Fwg%2F09%2Fg%2F00000001.jp2/info.json\"}",
   "layer_id_s": "zp38wg09g",
-  "layer_slug_s": "princeton-zp38wg09g",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:24Z",
-  "dc_title_s": "Gallia antiqua ex ævi Romani monumentis eruta : et serenissimi Carnutum Ducis munificientia publicijuris facta",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "France",
-    "Gaul"
-  ],
+  "dc_identifier_s": "zp38wg09g",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Gallia antiqua ex \u00e6vi Romani monumentis eruta : et serenissimi Carnutum Ducis munificientia publicijuris facta",
+  "layer_slug_s": "princeton-zp38wg09g",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/zp38wg09g/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/zp/38/wg/09/g/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "53.0 -5.0 53.0 11.0 42.0 11.0 42.0 -5.0 53.0 -5.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1760"
   ],
-  "georss_box_s": "42.0 -5.0 53.0 11.0",
-  "georss_polygon_s": "53.0 -5.0 53.0 11.0 42.0 11.0 42.0 -5.0 53.0 -5.0",
   "solr_geom": "ENVELOPE(-5.0, 11.0, 53.0, 42.0)",
-  "solr_year_i": "1760"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "France",
+    "Gaul"
+  ]
 }

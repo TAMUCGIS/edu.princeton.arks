@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1750",
   "uuid": "http://arks.princeton.edu/ark:/88435/9306t1815",
-  "dc_description_s": "Partie du Mexique ou de la Nouvlle. Espagne où se trouve l'Audience du Mexique /",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "9306t1815",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/9306t1815/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F93%2F06%2Ft1%2F81%2F5%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "9306t1815",
-  "layer_slug_s": "princeton-9306t1815",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Partie du Mexique ou de la Nouvlle. Espagne ou\u0300 se trouve l'Audience du Mexique /",
+  "georss_box_s": "5.4961 -92.2714 18.495942 -77.158488",
   "layer_modified_dt": "2015-01-21T22:24:24Z",
-  "dc_title_s": "Partie du Mexique ou de la Nouvlle. Espagne où se trouve l'Audience du Mexique /",
+  "layer_id_s": "9306t1815",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Central America",
-    "Mexico"
-  ],
+  "dc_identifier_s": "9306t1815",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Partie du Mexique ou de la Nouvlle. Espagne ou\u0300 se trouve l'Audience du Mexique /",
+  "layer_slug_s": "princeton-9306t1815",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/9306t1815/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/93/06/t1/81/5/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "18.495942 -92.2714 18.495942 -77.158488 5.4961 -77.158488 5.4961 -92.2714 18.495942 -92.2714",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1750"
   ],
-  "georss_box_s": "5.4961 -92.2714 18.495942 -77.158488",
-  "georss_polygon_s": "18.495942 -92.2714 18.495942 -77.158488 5.4961 -77.158488 5.4961 -92.2714 18.495942 -92.2714",
   "solr_geom": "ENVELOPE(-92.2714, -77.158488, 18.495942, 5.4961)",
-  "solr_year_i": "1750"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Central America",
+    "Mexico"
+  ]
 }

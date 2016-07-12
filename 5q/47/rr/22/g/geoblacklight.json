@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1951",
   "uuid": "http://arks.princeton.edu/ark:/88435/5q47rr22g",
   "dc_description_s": "Ancient Britain",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "5q47rr22g",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/5q47rr22g/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F5q%2F47%2Frr%2F22%2Fg%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "5q47rr22g",
-  "layer_slug_s": "princeton-5q47rr22g",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "50.0 -7.33333333333 58.5 2.33333333333",
   "layer_modified_dt": "2015-01-23T17:48:36Z",
-  "dc_title_s": "Ancient Britain",
+  "layer_id_s": "5q47rr22g",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Great Britain",
-    "Great Britain"
-  ],
+  "dc_identifier_s": "5q47rr22g",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Ancient Britain",
+  "layer_slug_s": "princeton-5q47rr22g",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/5q47rr22g/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/5q/47/rr/22/g/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "58.5 -7.33333333333 58.5 2.33333333333 50.0 2.33333333333 50.0 -7.33333333333 58.5 -7.33333333333",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1951"
   ],
-  "georss_box_s": "50.0 -7.33333333333 58.5 2.33333333333",
-  "georss_polygon_s": "58.5 -7.33333333333 58.5 2.33333333333 50.0 2.33333333333 50.0 -7.33333333333 58.5 -7.33333333333",
   "solr_geom": "ENVELOPE(-7.33333333333, 2.33333333333, 58.5, 50.0)",
-  "solr_year_i": "1951"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Great Britain",
+    "Great Britain"
+  ]
 }

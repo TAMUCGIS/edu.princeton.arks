@@ -1,32 +1,32 @@
 {
+  "solr_year_i": "1545",
   "uuid": "http://arks.princeton.edu/ark:/88435/1v53k043x",
+  "dc_description_s": "Hispania III : nova tabula",
+  "georss_box_s": "36.2380667008 -9.5035614375 43.7923795 4.3277839",
+  "layer_modified_dt": "2015-01-21T22:24:10Z",
   "dc_creator_sm": [
     "Ptolemy,",
     "Petri, Heinrich,",
     "McCabe, Robert A.,"
   ],
-  "dc_description_s": "Hispania III : nova tabula",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "1v53k043x",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/1v53k043x/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F1v%2F53%2Fk0%2F43%2Fx%2F00000001.jp2/info.json\"}",
   "layer_id_s": "1v53k043x",
-  "layer_slug_s": "princeton-1v53k043x",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:10Z",
-  "dc_title_s": "Hispania III : nova tabula",
   "dc_type_s": "Image",
+  "dc_identifier_s": "1v53k043x",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Hispania III : nova tabula",
+  "layer_slug_s": "princeton-1v53k043x",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/1v53k043x/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/1v/53/k0/43/x/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "43.7923795 -9.5035614375 43.7923795 4.3277839 36.2380667008 4.3277839 36.2380667008 -9.5035614375 43.7923795 -9.5035614375",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1545"
+  ],
+  "solr_geom": "ENVELOPE(-9.5035614375, 4.3277839, 43.7923795, 36.2380667008)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Iberian Peninsula",
     "Portugal",
     "Spain"
-  ],
-  "dct_temporal_sm": [
-    "1545"
-  ],
-  "georss_box_s": "36.2380667008 -9.5035614375 43.7923795 4.3277839",
-  "georss_polygon_s": "43.7923795 -9.5035614375 43.7923795 4.3277839 36.2380667008 4.3277839 36.2380667008 -9.5035614375 43.7923795 -9.5035614375",
-  "solr_geom": "ENVELOPE(-9.5035614375, 4.3277839, 43.7923795, 36.2380667008)",
-  "solr_year_i": "1545"
+  ]
 }

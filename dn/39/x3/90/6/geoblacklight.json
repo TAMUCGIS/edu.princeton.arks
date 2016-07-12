@@ -1,31 +1,31 @@
 {
+  "solr_year_i": "1859",
   "uuid": "http://arks.princeton.edu/ark:/88435/dn39x3906",
+  "dc_description_s": "From Fort Smith to the Rio Grande : from explorations and surveys",
+  "georss_box_s": "25.8371638 -124.663224225 41.9430550897 -93.5080389",
+  "layer_modified_dt": "2015-01-21T22:23:56Z",
   "dc_creator_sm": [
     "Davis, Jefferson,",
     "Whipple, Amiel Weeks,",
     "Ives, J. C.",
     "Siebert, Selmar."
   ],
-  "dc_description_s": "From Fort Smith to the Rio Grande : from explorations and surveys",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "dn39x3906",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/dn39x3906/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fdn%2F39%2Fx3%2F90%2F6%2F00000001.jp2/info.json\"}",
   "layer_id_s": "dn39x3906",
-  "layer_slug_s": "princeton-dn39x3906",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:56Z",
-  "dc_title_s": "From Fort Smith to the Rio Grande : from explorations and surveys",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Southwestern States"
-  ],
+  "dc_identifier_s": "dn39x3906",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "From Fort Smith to the Rio Grande : from explorations and surveys",
+  "layer_slug_s": "princeton-dn39x3906",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/dn39x3906/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/dn/39/x3/90/6/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "41.9430550897 -124.663224225 41.9430550897 -93.5080389 25.8371638 -93.5080389 25.8371638 -124.663224225 41.9430550897 -124.663224225",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1859"
   ],
-  "georss_box_s": "25.8371638 -124.663224225 41.9430550897 -93.5080389",
-  "georss_polygon_s": "41.9430550897 -124.663224225 41.9430550897 -93.5080389 25.8371638 -93.5080389 25.8371638 -124.663224225 41.9430550897 -124.663224225",
   "solr_geom": "ENVELOPE(-124.663224225, -93.5080389, 41.9430550897, 25.8371638)",
-  "solr_year_i": "1859"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Southwestern States"
+  ]
 }

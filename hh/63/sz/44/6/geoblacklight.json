@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1700",
   "uuid": "http://arks.princeton.edu/ark:/88435/hh63sz446",
   "dc_description_s": "[Map of Italy and surrounding islands]",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "hh63sz446",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/hh63sz446/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fhh%2F63%2Fsz%2F44%2F6%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "hh63sz446",
-  "layer_slug_s": "princeton-hh63sz446",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "35.4929201 6.6267201 42.2523029145 18.6523374375",
   "layer_modified_dt": "2015-01-25T02:06:21Z",
-  "dc_title_s": "[Map of Italy and surrounding islands]",
+  "layer_id_s": "hh63sz446",
   "dc_type_s": "Image",
+  "dc_identifier_s": "hh63sz446",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "[Map of Italy and surrounding islands]",
+  "layer_slug_s": "princeton-hh63sz446",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/hh63sz446/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/hh/63/sz/44/6/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "42.2523029145 6.6267201 42.2523029145 18.6523374375 35.4929201 18.6523374375 35.4929201 6.6267201 42.2523029145 6.6267201",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1700"
+  ],
+  "solr_geom": "ENVELOPE(6.6267201, 18.6523374375, 42.2523029145, 35.4929201)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Italy, Southern",
     "Malta",
     "Sardinia (Italy)",
     "Sicily (Italy)"
-  ],
-  "dct_temporal_sm": [
-    "1700"
-  ],
-  "georss_box_s": "35.4929201 6.6267201 42.2523029145 18.6523374375",
-  "georss_polygon_s": "42.2523029145 6.6267201 42.2523029145 18.6523374375 35.4929201 18.6523374375 35.4929201 6.6267201 42.2523029145 6.6267201",
-  "solr_geom": "ENVELOPE(6.6267201, 18.6523374375, 42.2523029145, 35.4929201)",
-  "solr_year_i": "1700"
+  ]
 }

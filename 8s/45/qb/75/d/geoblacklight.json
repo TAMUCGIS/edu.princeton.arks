@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/8s45qb75d",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Jamesburg",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "8s45qb75d",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F8s%2F45%2Fqb%2F75%2Fd%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "8s45qb75d",
-  "layer_slug_s": "princeton-8s45qb75d",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:03:12Z",
+  "solr_geom": "ENVELOPE(-74.454142, -74.423158, 40.360981, 40.342219)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/8s/45/qb/75/d/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/8s45qb75d",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Jamesburg, Middlesex County, New Jersey (Sheet 3)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1904"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "8s45qb75d",
+  "georss_polygon_s": "40.360981 -74.454142 40.360981 -74.423158 40.342219 -74.423158 40.342219 -74.454142 40.360981 -74.454142",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1904",
   "dct_spatial_sm": [
     "New Jersey",
     "Jamesburg"
   ],
-  "dct_temporal_sm": [
-    "1904"
-  ],
+  "layer_id_s": "8s45qb75d",
   "georss_box_s": "40.342219 -74.454142 40.360981 -74.423158",
-  "georss_polygon_s": "40.360981 -74.454142 40.360981 -74.423158 40.342219 -74.423158 40.342219 -74.454142 40.360981 -74.454142",
-  "solr_geom": "ENVELOPE(-74.454142, -74.423158, 40.360981, 40.342219)",
-  "solr_year_i": "1904"
+  "dc_title_s": "Jamesburg, Middlesex County, New Jersey (Sheet 3)",
+  "layer_slug_s": "princeton-8s45qb75d",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

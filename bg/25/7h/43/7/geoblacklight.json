@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1666",
   "uuid": "http://arks.princeton.edu/ark:/88435/bg257h437",
+  "dc_description_s": "Pascaert vande Caribes Eylanden",
+  "georss_box_s": "9.9930001 -85.1715 27.263412 -59.4174957",
+  "layer_modified_dt": "2015-01-21T22:23:58Z",
   "dc_creator_sm": [
     "Goos, Pieter,"
   ],
-  "dc_description_s": "Pascaert vande Caribes Eylanden",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "bg257h437",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/bg257h437/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fg%2F25%2F7h%2F43%2F7%2F00000001.jp2/info.json\"}",
   "layer_id_s": "bg257h437",
-  "layer_slug_s": "princeton-bg257h437",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:58Z",
-  "dc_title_s": "Pascaert vande Caribes Eylanden",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Caribbean Area"
-  ],
+  "dc_identifier_s": "bg257h437",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Pascaert vande Caribes Eylanden",
+  "layer_slug_s": "princeton-bg257h437",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/bg257h437/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/bg/25/7h/43/7/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "27.263412 -85.1715 27.263412 -59.4174957 9.9930001 -59.4174957 9.9930001 -85.1715 27.263412 -85.1715",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1666"
   ],
-  "georss_box_s": "9.9930001 -85.1715 27.263412 -59.4174957",
-  "georss_polygon_s": "27.263412 -85.1715 27.263412 -59.4174957 9.9930001 -59.4174957 9.9930001 -85.1715 27.263412 -85.1715",
   "solr_geom": "ENVELOPE(-85.1715, -59.4174957, 27.263412, 9.9930001)",
-  "solr_year_i": "1666"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Caribbean Area"
+  ]
 }

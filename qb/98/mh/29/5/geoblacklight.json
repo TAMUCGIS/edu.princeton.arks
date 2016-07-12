@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1929",
   "uuid": "http://arks.princeton.edu/ark:/88435/qb98mh295",
+  "dc_description_s": "Map of the coal fields of Pennsylvania.",
+  "georss_box_s": "39.73333 -80.50000 42.25000 -74.73333",
+  "layer_modified_dt": "2015-01-19T22:36:35Z",
   "dc_creator_sm": [
     "Sisler, James Donaldson"
   ],
-  "dc_description_s": "Map of the coal fields of Pennsylvania.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "qb98mh295",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/qb98mh295/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fqb%2F98%2Fmh%2F29%2F5%2F00000001.jp2/info.json\"}",
   "layer_id_s": "qb98mh295",
-  "layer_slug_s": "princeton-qb98mh295",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:36:35Z",
-  "dc_title_s": "Map of the coal fields of Pennsylvania.",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Pennsylvania"
-  ],
+  "dc_identifier_s": "qb98mh295",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Map of the coal fields of Pennsylvania.",
+  "layer_slug_s": "princeton-qb98mh295",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/qb98mh295/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/qb/98/mh/29/5/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "42.25000 -80.50000 42.25000 -74.73333 39.73333 -74.73333 39.73333 -80.50000 42.25000 -80.50000",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1929"
   ],
-  "georss_box_s": "39.73333 -80.50000 42.25000 -74.73333",
-  "georss_polygon_s": "42.25000 -80.50000 42.25000 -74.73333 39.73333 -74.73333 39.73333 -80.50000 42.25000 -80.50000",
   "solr_geom": "ENVELOPE(-80.50000, -74.73333, 42.25000, 39.73333)",
-  "solr_year_i": "1929"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Pennsylvania"
+  ]
 }

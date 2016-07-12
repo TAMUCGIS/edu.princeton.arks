@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1816",
   "uuid": "http://arks.princeton.edu/ark:/88435/4q77ft81s",
+  "dc_description_s": "An historical map & plan of the campaign in Belgium A.D. 1815 : exhibiting the cantonments, encampments, positions, bivouacs, advance, retrograde movements, retreat, flight &c. of the forces of France, England, and Prussia, with the attacks of the 15th, battles of Ligny and Quatre Bras on the 16th, and of the battle of Waterloo gained over the French by the English & Prussians on Sunday the 18th of June",
+  "georss_box_s": "49.4969821 2.3889137 51.5516667 6.4080405",
+  "layer_modified_dt": "2015-01-21T22:24:11Z",
   "dc_creator_sm": [
     "Rosenbaum, Francis F.,"
   ],
-  "dc_description_s": "An historical map & plan of the campaign in Belgium A.D. 1815 : exhibiting the cantonments, encampments, positions, bivouacs, advance, retrograde movements, retreat, flight &c. of the forces of France, England, and Prussia, with the attacks of the 15th, battles of Ligny and Quatre Bras on the 16th, and of the battle of Waterloo gained over the French by the English & Prussians on Sunday the 18th of June",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "4q77ft81s",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/4q77ft81s/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F4q%2F77%2Fft%2F81%2Fs%2F00000001.jp2/info.json\"}",
   "layer_id_s": "4q77ft81s",
-  "layer_slug_s": "princeton-4q77ft81s",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:11Z",
-  "dc_title_s": "An historical map & plan of the campaign in Belgium A.D. 1815 : exhibiting the cantonments, encampments, positions, bivouacs, advance, retrograde movements, retreat, flight &c. of the forces of France, England, and Prussia, with the attacks of the 15th, battles of Ligny and Quatre Bras on the 16th, and of the battle of Waterloo gained over the French by the English & Prussians on Sunday the 18th of June",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Belgium"
-  ],
+  "dc_identifier_s": "4q77ft81s",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "An historical map & plan of the campaign in Belgium A.D. 1815 : exhibiting the cantonments, encampments, positions, bivouacs, advance, retrograde movements, retreat, flight &c. of the forces of France, England, and Prussia, with the attacks of the 15th, battles of Ligny and Quatre Bras on the 16th, and of the battle of Waterloo gained over the French by the English & Prussians on Sunday the 18th of June",
+  "layer_slug_s": "princeton-4q77ft81s",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/4q77ft81s/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/4q/77/ft/81/s/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "51.5516667 2.3889137 51.5516667 6.4080405 49.4969821 6.4080405 49.4969821 2.3889137 51.5516667 2.3889137",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1816"
   ],
-  "georss_box_s": "49.4969821 2.3889137 51.5516667 6.4080405",
-  "georss_polygon_s": "51.5516667 2.3889137 51.5516667 6.4080405 49.4969821 6.4080405 49.4969821 2.3889137 51.5516667 2.3889137",
   "solr_geom": "ENVELOPE(2.3889137, 6.4080405, 51.5516667, 49.4969821)",
-  "solr_year_i": "1816"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Belgium"
+  ]
 }

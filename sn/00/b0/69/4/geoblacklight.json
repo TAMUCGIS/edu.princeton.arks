@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1818",
   "uuid": "http://arks.princeton.edu/ark:/88435/sn00b0694",
+  "dc_description_s": "East India Isles",
+  "georss_box_s": "-14.4378244695 90.7730169 20.5211462787 140.6227129",
+  "layer_modified_dt": "2015-01-21T22:23:51Z",
   "dc_creator_sm": [
     "Hebert, L.",
     "Neele, Samuel John,",
     "Pinkerton, John,"
   ],
-  "dc_description_s": "East India Isles",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "sn00b0694",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/sn00b0694/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fsn%2F00%2Fb0%2F69%2F4%2F00000001.jp2/info.json\"}",
   "layer_id_s": "sn00b0694",
-  "layer_slug_s": "princeton-sn00b0694",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:51Z",
-  "dc_title_s": "East India Isles",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "East Indies"
-  ],
+  "dc_identifier_s": "sn00b0694",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "East India Isles",
+  "layer_slug_s": "princeton-sn00b0694",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/sn00b0694/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/sn/00/b0/69/4/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "20.5211462787 90.7730169 20.5211462787 140.6227129 -14.4378244695 140.6227129 -14.4378244695 90.7730169 20.5211462787 90.7730169",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1818"
   ],
-  "georss_box_s": "-14.4378244695 90.7730169 20.5211462787 140.6227129",
-  "georss_polygon_s": "20.5211462787 90.7730169 20.5211462787 140.6227129 -14.4378244695 140.6227129 -14.4378244695 90.7730169 20.5211462787 90.7730169",
   "solr_geom": "ENVELOPE(90.7730169, 140.6227129, 20.5211462787, -14.4378244695)",
-  "solr_year_i": "1818"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "East Indies"
+  ]
 }

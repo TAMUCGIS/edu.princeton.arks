@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/vq27zq56t",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Beach Haven",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "vq27zq56t",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fvq%2F27%2Fzq%2F56%2Ft%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "vq27zq56t",
-  "layer_slug_s": "princeton-vq27zq56t",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:06:27Z",
+  "solr_geom": "ENVELOPE(-74.258177, -74.230009, 39.581824, 39.54701)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/vq/27/zq/56/t/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/vq27zq56t",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Beach Haven, Ocean County, New Jersey (Sheet 2)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1922"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "vq27zq56t",
+  "georss_polygon_s": "39.581824 -74.258177 39.581824 -74.230009 39.54701 -74.230009 39.54701 -74.258177 39.581824 -74.258177",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1922",
   "dct_spatial_sm": [
     "New Jersey",
     "Beach Haven"
   ],
-  "dct_temporal_sm": [
-    "1922"
-  ],
+  "layer_id_s": "vq27zq56t",
   "georss_box_s": "39.54701 -74.258177 39.581824 -74.230009",
-  "georss_polygon_s": "39.581824 -74.258177 39.581824 -74.230009 39.54701 -74.230009 39.54701 -74.258177 39.581824 -74.258177",
-  "solr_geom": "ENVELOPE(-74.258177, -74.230009, 39.581824, 39.54701)",
-  "solr_year_i": "1922"
+  "dc_title_s": "Beach Haven, Ocean County, New Jersey (Sheet 2)",
+  "layer_slug_s": "princeton-vq27zq56t",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

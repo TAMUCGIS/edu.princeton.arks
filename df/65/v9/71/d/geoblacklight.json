@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/df65v971d",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Shrewsbury",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "df65v971d",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fdf%2F65%2Fv9%2F71%2Fd%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "df65v971d",
-  "layer_slug_s": "princeton-df65v971d",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:01:53Z",
+  "solr_geom": "ENVELOPE(-74.074905, -74.040653, 40.338267, 40.311532)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/df/65/v9/71/d/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/df65v971d",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Rumson Road (Sheet 82), Shrewsbury Township",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1907"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "df65v971d",
+  "georss_polygon_s": "40.338267 -74.074905 40.338267 -74.040653 40.311532 -74.040653 40.311532 -74.074905 40.338267 -74.074905",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1907",
   "dct_spatial_sm": [
     "New Jersey",
     "Shrewsbury"
   ],
-  "dct_temporal_sm": [
-    "1907"
-  ],
+  "layer_id_s": "df65v971d",
   "georss_box_s": "40.311532 -74.074905 40.338267 -74.040653",
-  "georss_polygon_s": "40.338267 -74.074905 40.338267 -74.040653 40.311532 -74.040653 40.311532 -74.074905 40.338267 -74.074905",
-  "solr_geom": "ENVELOPE(-74.074905, -74.040653, 40.338267, 40.311532)",
-  "solr_year_i": "1907"
+  "dc_title_s": "Rumson Road (Sheet 82), Shrewsbury Township",
+  "layer_slug_s": "princeton-df65v971d",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

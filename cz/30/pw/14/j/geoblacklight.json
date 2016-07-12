@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1558",
   "uuid": "http://arks.princeton.edu/ark:/88435/cz30pw14j",
+  "dc_description_s": "Della Germania : descrittione della Frisia Orientale",
+  "georss_box_s": "52.7648052 4.8183758 53.5397134 6.4276148",
+  "layer_modified_dt": "2015-01-21T22:24:16Z",
   "dc_creator_sm": [
     "Deventer, Jacob van,",
-    "Münster, Sebastian,",
+    "Mu\u0308nster, Sebastian,",
     "McCabe, Robert A.,"
   ],
-  "dc_description_s": "Della Germania : descrittione della Frisia Orientale",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "cz30pw14j",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/cz30pw14j/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fcz%2F30%2Fpw%2F14%2F00000001.jp2/info.json\"}",
   "layer_id_s": "cz30pw14j",
-  "layer_slug_s": "princeton-cz30pw14j",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:16Z",
-  "dc_title_s": "Della Germania : descrittione della Frisia Orientale",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Friesland (Netherlands)"
-  ],
+  "dc_identifier_s": "cz30pw14j",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Della Germania : descrittione della Frisia Orientale",
+  "layer_slug_s": "princeton-cz30pw14j",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/cz30pw14j/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/cz/30/pw/14/j/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "53.5397134 4.8183758 53.5397134 6.4276148 52.7648052 6.4276148 52.7648052 4.8183758 53.5397134 4.8183758",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1558"
   ],
-  "georss_box_s": "52.7648052 4.8183758 53.5397134 6.4276148",
-  "georss_polygon_s": "53.5397134 4.8183758 53.5397134 6.4276148 52.7648052 6.4276148 52.7648052 4.8183758 53.5397134 4.8183758",
   "solr_geom": "ENVELOPE(4.8183758, 6.4276148, 53.5397134, 52.7648052)",
-  "solr_year_i": "1558"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Friesland (Netherlands)"
+  ]
 }

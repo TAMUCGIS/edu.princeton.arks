@@ -1,5 +1,9 @@
 {
+  "solr_year_i": "1695",
   "uuid": "http://arks.princeton.edu/ark:/88435/ws859j157",
+  "dc_description_s": "Devonshire",
+  "georss_box_s": "50.2014643 -4.6806561 51.2468388 -2.8866483",
+  "layer_modified_dt": "2015-01-21T22:24:17Z",
   "dc_creator_sm": [
     "Camden, William,",
     "Churchill, Awnsham,",
@@ -7,26 +11,22 @@
     "Morris, William H.,",
     "Swall, Abel,"
   ],
-  "dc_description_s": "Devonshire",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "ws859j157",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/ws859j157/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fws%2F85%2F9j%2F15%2F7%2F00000001.jp2/info.json\"}",
   "layer_id_s": "ws859j157",
-  "layer_slug_s": "princeton-ws859j157",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:17Z",
-  "dc_title_s": "Devonshire",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Devon (England)"
-  ],
+  "dc_identifier_s": "ws859j157",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Devonshire",
+  "layer_slug_s": "princeton-ws859j157",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/ws859j157/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ws/85/9j/15/7/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "51.2468388 -4.6806561 51.2468388 -2.8866483 50.2014643 -2.8866483 50.2014643 -4.6806561 51.2468388 -4.6806561",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1695"
   ],
-  "georss_box_s": "50.2014643 -4.6806561 51.2468388 -2.8866483",
-  "georss_polygon_s": "51.2468388 -4.6806561 51.2468388 -2.8866483 50.2014643 -2.8866483 50.2014643 -4.6806561 51.2468388 -4.6806561",
   "solr_geom": "ENVELOPE(-4.6806561, -2.8866483, 51.2468388, 50.2014643)",
-  "solr_year_i": "1695"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Devon (England)"
+  ]
 }

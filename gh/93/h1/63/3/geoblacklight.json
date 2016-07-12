@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/gh93h1633",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Budd Lake",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "gh93h1633",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fgh%2F93%2Fh1%2F63%2F3%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "gh93h1633",
-  "layer_slug_s": "princeton-gh93h1633",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:06:03Z",
+  "solr_geom": "ENVELOPE(-74.772721, -74.704964, 40.893784, 40.853914)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/gh/93/h1/63/3/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/gh93h1633",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Budd Lake, Morris County, New Jersey (Sheet 2)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1929"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "gh93h1633",
+  "georss_polygon_s": "40.893784 -74.772721 40.893784 -74.704964 40.853914 -74.704964 40.853914 -74.772721 40.893784 -74.772721",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1929",
   "dct_spatial_sm": [
     "New Jersey",
     "Budd Lake"
   ],
-  "dct_temporal_sm": [
-    "1929"
-  ],
+  "layer_id_s": "gh93h1633",
   "georss_box_s": "40.853914 -74.772721 40.893784 -74.704964",
-  "georss_polygon_s": "40.893784 -74.772721 40.893784 -74.704964 40.853914 -74.704964 40.853914 -74.772721 40.893784 -74.772721",
-  "solr_geom": "ENVELOPE(-74.772721, -74.704964, 40.893784, 40.853914)",
-  "solr_year_i": "1929"
+  "dc_title_s": "Budd Lake, Morris County, New Jersey (Sheet 2)",
+  "layer_slug_s": "princeton-gh93h1633",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

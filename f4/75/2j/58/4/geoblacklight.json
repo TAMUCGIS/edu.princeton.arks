@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1715",
   "uuid": "http://arks.princeton.edu/ark:/88435/f4752j584",
+  "dc_description_s": "\u00c6gyptus hodierna : ex itinerario celeberrimi viri, Pauli Luc\u00e6 Franci desumpta, ac novissime repr\u00e6sentata a\u0300 Iohanne Baptista Homann, geographa Norimberg\u00e6 = Das heutige \u00c6gypten : aus der Reyssbeschreibung des beru\u0308hmten Hn. Paul Lucas gezoge[n], und mit folgen Denckwu\u0308rdigkeiten herausgegeben",
+  "georss_box_s": "30.0907075 29.8420468 31.5810566 32.3149243",
+  "layer_modified_dt": "2015-01-21T22:23:45Z",
   "dc_creator_sm": [
     "McCabe, Robert A.,"
   ],
-  "dc_description_s": "Ægyptus hodierna : ex itinerario celeberrimi viri, Pauli Lucæ Franci desumpta, ac novissime repræsentata à Iohanne Baptista Homann, geographa Norimbergæ = Das heutige Ægypten : aus der Reyssbeschreibung des berühmten Hn. Paul Lucas gezoge[n], und mit folgen Denckwürdigkeiten herausgegeben",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "f4752j584",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/f4752j584/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ff4%2F75%2F2j%2F58%2F4%2F00000001.jp2/info.json\"}",
   "layer_id_s": "f4752j584",
-  "layer_slug_s": "princeton-f4752j584",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:45Z",
-  "dc_title_s": "Ægyptus hodierna : ex itinerario celeberrimi viri, Pauli Lucæ Franci desumpta, ac novissime repræsentata à Iohanne Baptista Homann, geographa Norimbergæ = Das heutige Ægypten : aus der Reyssbeschreibung des berühmten Hn. Paul Lucas gezoge[n], und mit folgen Denckwürdigkeiten herausgegeben",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Nile River Delta (Egypt)",
-    "Nile River"
-  ],
+  "dc_identifier_s": "f4752j584",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "\u00c6gyptus hodierna : ex itinerario celeberrimi viri, Pauli Luc\u00e6 Franci desumpta, ac novissime repr\u00e6sentata a\u0300 Iohanne Baptista Homann, geographa Norimberg\u00e6 = Das heutige \u00c6gypten : aus der Reyssbeschreibung des beru\u0308hmten Hn. Paul Lucas gezoge[n], und mit folgen Denckwu\u0308rdigkeiten herausgegeben",
+  "layer_slug_s": "princeton-f4752j584",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/f4752j584/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/f4/75/2j/58/4/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "31.5810566 29.8420468 31.5810566 32.3149243 30.0907075 32.3149243 30.0907075 29.8420468 31.5810566 29.8420468",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1715"
   ],
-  "georss_box_s": "30.0907075 29.8420468 31.5810566 32.3149243",
-  "georss_polygon_s": "31.5810566 29.8420468 31.5810566 32.3149243 30.0907075 32.3149243 30.0907075 29.8420468 31.5810566 29.8420468",
   "solr_geom": "ENVELOPE(29.8420468, 32.3149243, 31.5810566, 30.0907075)",
-  "solr_year_i": "1715"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Nile River Delta (Egypt)",
+    "Nile River"
+  ]
 }

@@ -1,33 +1,33 @@
 {
+  "dc_publisher_s": "New York: Sanborn Map Company",
   "uuid": "http://arks.princeton.edu/ark:/88435/rb68xf19m",
+  "dc_description_s": "This a Sanborn map of Hackettstown",
+  "georss_box_s": "40.828052 -74.850452 40.88255 -74.801918",
+  "georss_polygon_s": "40.88255 -74.850452 40.88255 -74.801918 40.828052 -74.801918 40.828052 -74.850452 40.88255 -74.850452",
+  "layer_modified_dt": "2015-01-18T17:10:36Z",
   "dc_creator_sm": [
     "Sanborn Map Company"
   ],
-  "dc_description_s": "This a Sanborn map of Hackettstown",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "rb68xf19m",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Frb%2F68%2Fxf%2F19%2Fm%2F00000001.jp2/info.json\"}",
   "layer_id_s": "rb68xf19m",
-  "layer_slug_s": "princeton-rb68xf19m",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-18T17:10:36Z",
+  "dct_spatial_sm": [
+    "New Jersey",
+    "Hackettstown"
+  ],
+  "dc_type_s": "Image",
+  "dc_identifier_s": "rb68xf19m",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
+  "layer_slug_s": "princeton-rb68xf19m",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/rb/68/xf/19/m/00000001.jp2/info.json\"}",
   "dc_title_s": "Hackettstown, Warren Co., N. J. (Sheet 3)",
-  "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "New Jersey",
-    "Hackettstown"
-  ],
-  "georss_box_s": "40.828052 -74.850452 40.88255 -74.801918",
-  "georss_polygon_s": "40.88255 -74.850452 40.88255 -74.801918 40.828052 -74.801918 40.828052 -74.850452 40.88255 -74.850452",
-  "solr_geom": "ENVELOPE(-74.850452, -74.801918, 40.88255, 40.828052)"
+  "layer_geom_type_s": "Image",
+  "solr_geom": "ENVELOPE(-74.850452, -74.801918, 40.88255, 40.828052)",
+  "dc_rights_s": "Public",
+  "dc_language_s": "English"
 }

@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1866",
   "uuid": "http://arks.princeton.edu/ark:/88435/ws859j12s",
+  "dc_description_s": "The Hill Districts in the Madras Presidency to accompany Mr. C. R. Markham's paper /",
+  "georss_box_s": "-13.00000 75.00000 -8.00000 78.00000",
+  "layer_modified_dt": "2015-01-19T22:37:22Z",
   "dc_creator_sm": [
     "Markham, Clements R.",
     "Weller, Edward,  d. 1884"
   ],
-  "dc_description_s": "The Hill Districts in the Madras Presidency to accompany Mr. C. R. Markham's paper /",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "ws859j12s",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/ws859j12s/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fws%2F85%2F9j%2F12%2Fs%2F00000001.jp2/info.json\"}",
   "layer_id_s": "ws859j12s",
-  "layer_slug_s": "princeton-ws859j12s",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:22Z",
-  "dc_title_s": "The Hill Districts in the Madras Presidency to accompany Mr. C. R. Markham's paper /",
   "dc_type_s": "Image",
+  "dc_identifier_s": "ws859j12s",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "The Hill Districts in the Madras Presidency to accompany Mr. C. R. Markham's paper /",
+  "layer_slug_s": "princeton-ws859j12s",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/ws859j12s/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ws/85/9j/12/s/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "-8.00000 75.00000 -8.00000 78.00000 -13.00000 78.00000 -13.00000 75.00000 -8.00000 75.00000",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1866"
   ],
-  "georss_box_s": "-13.00000 75.00000 -8.00000 78.00000",
-  "georss_polygon_s": "-8.00000 75.00000 -8.00000 78.00000 -13.00000 78.00000 -13.00000 75.00000 -8.00000 75.00000",
   "solr_geom": "ENVELOPE(75.00000, 78.00000, -8.00000, -13.00000)",
-  "solr_year_i": "1866"
+  "dc_rights_s": "Public"
 }

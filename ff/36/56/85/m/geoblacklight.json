@@ -2,7 +2,7 @@
   "dc_description_s": "This is an azimuthal equal-area projection map of the Antarctic region, shown at a 1:73,000,000 scale. The map was created by the Central Intelligence Agency.",
   "layer_modified_dt": "2015-01-11T17:43:09Z",
   "solr_geom": "ENVELOPE(-180, 180, -40, -90)",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fff%2F36%2F56%2F85%2Fm%2F00000001.jp2/info.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/ff365685m/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/ff365685m/preview.jpg\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/ff365685m/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ff/36/56/85/m/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/ff365685m/preview.jpg\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/ff365685m",
   "dct_provenance_s": "Princeton",
@@ -11,7 +11,7 @@
     "Claims"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "1995",
+  "layer_slug_s": "princeton-ff365685m",
   "dc_creator_sm": [
     "Central Intelligence Agency"
   ],
@@ -27,7 +27,7 @@
   "layer_id_s": "ff365685m",
   "georss_box_s": "-90 -180 -40 180",
   "dc_title_s": "Antarctic region, 1995",
-  "layer_slug_s": "princeton-ff365685m",
+  "dct_issued_s": "1995",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

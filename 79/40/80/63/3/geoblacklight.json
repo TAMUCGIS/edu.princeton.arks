@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1964",
   "uuid": "http://arks.princeton.edu/ark:/88435/794080633",
+  "dc_description_s": "Palestine of the Crusades",
+  "georss_box_s": "31.3333333333 34.3333333333 33.3333333333 35.8333333333",
+  "layer_modified_dt": "2015-01-19T22:37:20Z",
   "dc_creator_sm": [
     "Salmon, F. J."
   ],
-  "dc_description_s": "Palestine of the Crusades",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "794080633",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/794080633/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F79%2F40%2F80%2F63%2F3%2F00000001.jp2/info.json\"}",
   "layer_id_s": "794080633",
-  "layer_slug_s": "princeton-794080633",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:20Z",
-  "dc_title_s": "Palestine of the Crusades",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Jerusalem"
-  ],
+  "dc_identifier_s": "794080633",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Palestine of the Crusades",
+  "layer_slug_s": "princeton-794080633",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/794080633/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/79/40/80/63/3/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "33.3333333333 34.3333333333 33.3333333333 35.8333333333 31.3333333333 35.8333333333 31.3333333333 34.3333333333 33.3333333333 34.3333333333",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1964"
   ],
-  "georss_box_s": "31.3333333333 34.3333333333 33.3333333333 35.8333333333",
-  "georss_polygon_s": "33.3333333333 34.3333333333 33.3333333333 35.8333333333 31.3333333333 35.8333333333 31.3333333333 34.3333333333 33.3333333333 34.3333333333",
   "solr_geom": "ENVELOPE(34.3333333333, 35.8333333333, 33.3333333333, 31.3333333333)",
-  "solr_year_i": "1964"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Jerusalem"
+  ]
 }

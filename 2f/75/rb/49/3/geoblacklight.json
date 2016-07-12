@@ -1,27 +1,27 @@
 {
+  "solr_year_i": "1918",
   "uuid": "http://arks.princeton.edu/ark:/88435/2f75rb493",
   "dc_description_s": "Jerusalem",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "2f75rb493",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/2f75rb493/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F2f%2F75%2Frb%2F49%2F3%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "2f75rb493",
-  "layer_slug_s": "princeton-2f75rb493",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "31.7087672 35.0854203 31.8826765 35.2630682",
   "layer_modified_dt": "2015-01-21T22:24:15Z",
-  "dc_title_s": "Jerusalem",
+  "layer_id_s": "2f75rb493",
   "dc_type_s": "Image",
+  "dc_identifier_s": "2f75rb493",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Jerusalem",
+  "layer_slug_s": "princeton-2f75rb493",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/2f75rb493/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/2f/75/rb/49/3/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "31.8826765 35.0854203 31.8826765 35.2630682 31.7087672 35.2630682 31.7087672 35.0854203 31.8826765 35.0854203",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1918"
+  ],
+  "solr_geom": "ENVELOPE(35.0854203, 35.2630682, 31.8826765, 31.7087672)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Jerusalem",
     "Israel",
     "Jordan"
-  ],
-  "dct_temporal_sm": [
-    "1918"
-  ],
-  "georss_box_s": "31.7087672 35.0854203 31.8826765 35.2630682",
-  "georss_polygon_s": "31.8826765 35.0854203 31.8826765 35.2630682 31.7087672 35.2630682 31.7087672 35.0854203 31.8826765 35.0854203",
-  "solr_geom": "ENVELOPE(35.0854203, 35.2630682, 31.8826765, 31.7087672)",
-  "solr_year_i": "1918"
+  ]
 }

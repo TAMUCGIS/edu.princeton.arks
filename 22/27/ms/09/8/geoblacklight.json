@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1807",
   "uuid": "http://arks.princeton.edu/ark:/88435/2227ms098",
+  "dc_description_s": "Partie de l'e\u0301tat de Rhode-Island et position des arme\u0301es Ame\u0301ricaine et Britannique au sie\u0301ge de Newport, et a\u0300 l'affaire du 29 Aou\u0302t 1778",
+  "georss_box_s": "41.601163 -71.3220458 41.601263 -71.3219458",
+  "layer_modified_dt": "2015-01-21T22:24:04Z",
   "dc_creator_sm": [
     "Marshall, John,"
   ],
-  "dc_description_s": "Partie de l'état de Rhode-Island et position des armées Américaine et Britannique au siége de Newport, et à l'affaire du 29 Août 1778",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "2227ms098",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/2227ms098/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F22%2F27%2Fms%2F09%2F8%2F00000001.jp2/info.json\"}",
   "layer_id_s": "2227ms098",
-  "layer_slug_s": "princeton-2227ms098",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:04Z",
-  "dc_title_s": "Partie de l'état de Rhode-Island et position des armées Américaine et Britannique au siége de Newport, et à l'affaire du 29 Août 1778",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Rhode Island",
-    "United States"
-  ],
+  "dc_identifier_s": "2227ms098",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Partie de l'e\u0301tat de Rhode-Island et position des arme\u0301es Ame\u0301ricaine et Britannique au sie\u0301ge de Newport, et a\u0300 l'affaire du 29 Aou\u0302t 1778",
+  "layer_slug_s": "princeton-2227ms098",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/2227ms098/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/22/27/ms/09/8/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "41.601263 -71.3220458 41.601263 -71.3219458 41.601163 -71.3219458 41.601163 -71.3220458 41.601263 -71.3220458",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1807"
   ],
-  "georss_box_s": "41.601163 -71.3220458 41.601263 -71.3219458",
-  "georss_polygon_s": "41.601263 -71.3220458 41.601263 -71.3219458 41.601163 -71.3219458 41.601163 -71.3220458 41.601263 -71.3220458",
   "solr_geom": "ENVELOPE(-71.3220458, -71.3219458, 41.601263, 41.601163)",
-  "solr_year_i": "1807"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Rhode Island",
+    "United States"
+  ]
 }

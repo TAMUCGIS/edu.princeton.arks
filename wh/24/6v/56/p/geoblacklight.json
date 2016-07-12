@@ -1,25 +1,23 @@
 {
+  "solr_year_i": "1897",
   "uuid": "http://arks.princeton.edu/ark:/88435/wh246v56p",
   "dc_description_s": "Map of the original grants of village lots from the Dutch West India Company to the inhabitants of New-Amsterdam (now New-York) lying below the present line of Wall Street : grants commencing A.D. 1642",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "wh246v56p",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/wh246v56p/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fwh%2F24%2F6v%2F56%2Fp%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "wh246v56p",
-  "layer_slug_s": "princeton-wh246v56p",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "40.7702778 -73.9797222 40.8102778 -73.9397222",
   "layer_modified_dt": "2015-01-21T22:24:01Z",
-  "dc_title_s": "Map of the original grants of village lots from the Dutch West India Company to the inhabitants of New-Amsterdam (now New-York) lying below the present line of Wall Street : grants commencing A.D. 1642",
+  "layer_id_s": "wh246v56p",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "wh246v56p",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Map of the original grants of village lots from the Dutch West India Company to the inhabitants of New-Amsterdam (now New-York) lying below the present line of Wall Street : grants commencing A.D. 1642",
+  "layer_slug_s": "princeton-wh246v56p",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/wh246v56p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/wh/24/6v/56/p/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.8102778 -73.9797222 40.8102778 -73.9397222 40.7702778 -73.9397222 40.7702778 -73.9797222 40.8102778 -73.9797222",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1897"
   ],
-  "georss_box_s": "40.7702778 -73.9797222 40.8102778 -73.9397222",
-  "georss_polygon_s": "40.8102778 -73.9797222 40.8102778 -73.9397222 40.7702778 -73.9397222 40.7702778 -73.9797222 40.8102778 -73.9797222",
   "solr_geom": "ENVELOPE(-73.9797222, -73.9397222, 40.8102778, 40.7702778)",
-  "solr_year_i": "1897"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

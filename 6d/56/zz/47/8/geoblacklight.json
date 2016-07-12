@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1871",
   "uuid": "http://arks.princeton.edu/ark:/88435/6d56zz478",
   "dc_description_s": "Froiseth's new sectional & mineral map of Utah : compiled from the latest U.S. government surveys and other authentic sources : exhibiting the sections, fractional sections, counties, cities, towns, settlements, mines, railroads and other internal improvements.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "6d56zz478",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/6d56zz478/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F6d%2F56%2Fzz%2F47%2F8%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "6d56zz478",
-  "layer_slug_s": "princeton-6d56zz478",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "36.997968 -114.0539319 42.0013862 -109.0410727",
   "layer_modified_dt": "2015-01-21T22:23:47Z",
-  "dc_title_s": "Froiseth's new sectional & mineral map of Utah : compiled from the latest U.S. government surveys and other authentic sources : exhibiting the sections, fractional sections, counties, cities, towns, settlements, mines, railroads and other internal improvements.",
+  "layer_id_s": "6d56zz478",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Utah"
-  ],
+  "dc_identifier_s": "6d56zz478",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Froiseth's new sectional & mineral map of Utah : compiled from the latest U.S. government surveys and other authentic sources : exhibiting the sections, fractional sections, counties, cities, towns, settlements, mines, railroads and other internal improvements.",
+  "layer_slug_s": "princeton-6d56zz478",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/6d56zz478/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/6d/56/zz/47/8/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "42.0013862 -114.0539319 42.0013862 -109.0410727 36.997968 -109.0410727 36.997968 -114.0539319 42.0013862 -114.0539319",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1871"
   ],
-  "georss_box_s": "36.997968 -114.0539319 42.0013862 -109.0410727",
-  "georss_polygon_s": "42.0013862 -114.0539319 42.0013862 -109.0410727 36.997968 -109.0410727 36.997968 -114.0539319 42.0013862 -114.0539319",
   "solr_geom": "ENVELOPE(-114.0539319, -109.0410727, 42.0013862, 36.997968)",
-  "solr_year_i": "1871"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Utah"
+  ]
 }

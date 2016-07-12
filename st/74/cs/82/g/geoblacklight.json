@@ -1,32 +1,32 @@
 {
+  "solr_year_i": "1876",
   "uuid": "http://arks.princeton.edu/ark:/88435/st74cs82g",
+  "dc_description_s": "Green River Basin",
+  "georss_box_s": "40.2833333333 -110.733333333 41.8333333333 -107.566666667",
+  "layer_modified_dt": "2015-01-19T22:37:00Z",
   "dc_creator_sm": [
     "King, Clarence,",
     "Emmons, Samuel Franklin,",
     "Hague, A."
   ],
-  "dc_description_s": "Green River Basin",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "st74cs82g",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/st74cs82g/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fst%2F74%2Fcs%2F82%2Fg%2F00000001.jp2/info.json\"}",
   "layer_id_s": "st74cs82g",
-  "layer_slug_s": "princeton-st74cs82g",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:00Z",
-  "dc_title_s": "Green River Basin",
   "dc_type_s": "Image",
+  "dc_identifier_s": "st74cs82g",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Green River Basin",
+  "layer_slug_s": "princeton-st74cs82g",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/st74cs82g/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/st/74/cs/82/g/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "41.8333333333 -110.733333333 41.8333333333 -107.566666667 40.2833333333 -107.566666667 40.2833333333 -110.733333333 41.8333333333 -110.733333333",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1876"
+  ],
+  "solr_geom": "ENVELOPE(-110.733333333, -107.566666667, 41.8333333333, 40.2833333333)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Colorado",
     "Utah",
     "Wyoming"
-  ],
-  "dct_temporal_sm": [
-    "1876"
-  ],
-  "georss_box_s": "40.2833333333 -110.733333333 41.8333333333 -107.566666667",
-  "georss_polygon_s": "41.8333333333 -110.733333333 41.8333333333 -107.566666667 40.2833333333 -107.566666667 40.2833333333 -110.733333333 41.8333333333 -110.733333333",
-  "solr_geom": "ENVELOPE(-110.733333333, -107.566666667, 41.8333333333, 40.2833333333)",
-  "solr_year_i": "1876"
+  ]
 }

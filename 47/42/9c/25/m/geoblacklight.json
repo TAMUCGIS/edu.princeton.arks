@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/47429c25m",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Woodbridge",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "47429c25m",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F47%2F42%2F9c%2F25%2Fm%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "47429c25m",
-  "layer_slug_s": "princeton-47429c25m",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:05:51Z",
+  "solr_geom": "ENVELOPE(-74.324591, -74.244591, 40.597605, 40.517604)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/47/42/9c/25/m/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/47429c25m",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Woodbridge, Middlesex Co., N. J. (Sheet 1)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1901"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "47429c25m",
+  "georss_polygon_s": "40.597605 -74.324591 40.597605 -74.244591 40.517604 -74.244591 40.517604 -74.324591 40.597605 -74.324591",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1901",
   "dct_spatial_sm": [
     "New Jersey",
     "Woodbridge"
   ],
-  "dct_temporal_sm": [
-    "1901"
-  ],
+  "layer_id_s": "47429c25m",
   "georss_box_s": "40.517604 -74.324591 40.597605 -74.244591",
-  "georss_polygon_s": "40.597605 -74.324591 40.597605 -74.244591 40.517604 -74.244591 40.517604 -74.324591 40.597605 -74.324591",
-  "solr_geom": "ENVELOPE(-74.324591, -74.244591, 40.597605, 40.517604)",
-  "solr_year_i": "1901"
+  "dc_title_s": "Woodbridge, Middlesex Co., N. J. (Sheet 1)",
+  "layer_slug_s": "princeton-47429c25m",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

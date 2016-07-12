@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1977",
   "uuid": "http://arks.princeton.edu/ark:/88435/8336h4399",
   "dc_description_s": "Lancastria palatinatus, Anglis Lancaster et Lancasshire",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "8336h4399",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/8336h4399/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F83%2F36%2Fh4%2F39%2F9%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "8336h4399",
-  "layer_slug_s": "princeton-8336h4399",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "53.4827602 -3.0845487 54.2395551 -2.0461308",
   "layer_modified_dt": "2015-01-21T22:24:20Z",
-  "dc_title_s": "Lancastria palatinatus, Anglis Lancaster et Lancasshire",
+  "layer_id_s": "8336h4399",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Lancashire (England)"
-  ],
+  "dc_identifier_s": "8336h4399",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Lancastria palatinatus, Anglis Lancaster et Lancasshire",
+  "layer_slug_s": "princeton-8336h4399",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/8336h4399/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/83/36/h4/39/9/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "54.2395551 -3.0845487 54.2395551 -2.0461308 53.4827602 -2.0461308 53.4827602 -3.0845487 54.2395551 -3.0845487",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1977"
   ],
-  "georss_box_s": "53.4827602 -3.0845487 54.2395551 -2.0461308",
-  "georss_polygon_s": "54.2395551 -3.0845487 54.2395551 -2.0461308 53.4827602 -2.0461308 53.4827602 -3.0845487 54.2395551 -3.0845487",
   "solr_geom": "ENVELOPE(-3.0845487, -2.0461308, 54.2395551, 53.4827602)",
-  "solr_year_i": "1977"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Lancashire (England)"
+  ]
 }

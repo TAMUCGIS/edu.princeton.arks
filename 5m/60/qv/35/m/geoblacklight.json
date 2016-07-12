@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1840",
   "uuid": "http://arks.princeton.edu/ark:/88435/5m60qv35m",
   "dc_description_s": "South America ; Guatecas Islands ; Port Low",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "5m60qv35m",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/5m60qv35m/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F5m%2F60%2Fqv%2F35%2Fm%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "5m60qv35m",
-  "layer_slug_s": "princeton-5m60qv35m",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "-55.9797808 -74.913785375 -18.3450331206 -68.6813852937",
   "layer_modified_dt": "2015-01-21T22:24:06Z",
-  "dc_title_s": "South America ; Guatecas Islands ; Port Low",
+  "layer_id_s": "5m60qv35m",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Pacific Coast (Chile)"
-  ],
+  "dc_identifier_s": "5m60qv35m",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "South America ; Guatecas Islands ; Port Low",
+  "layer_slug_s": "princeton-5m60qv35m",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/5m60qv35m/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/5m/60/qv/35/m/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "-18.3450331206 -74.913785375 -18.3450331206 -68.6813852937 -55.9797808 -68.6813852937 -55.9797808 -74.913785375 -18.3450331206 -74.913785375",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1840"
   ],
-  "georss_box_s": "-55.9797808 -74.913785375 -18.3450331206 -68.6813852937",
-  "georss_polygon_s": "-18.3450331206 -74.913785375 -18.3450331206 -68.6813852937 -55.9797808 -68.6813852937 -55.9797808 -74.913785375 -18.3450331206 -74.913785375",
   "solr_geom": "ENVELOPE(-74.913785375, -68.6813852937, -18.3450331206, -55.9797808)",
-  "solr_year_i": "1840"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Pacific Coast (Chile)"
+  ]
 }

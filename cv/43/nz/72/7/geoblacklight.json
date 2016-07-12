@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/cv43nz727",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Long Branch",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "cv43nz727",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fcv%2F43%2Fnz%2F72%2F7%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "cv43nz727",
-  "layer_slug_s": "princeton-cv43nz727",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:02:12Z",
+  "solr_geom": "ENVELOPE(-74.01258, -73.975135, 40.329783, 40.260767)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/cv/43/nz/72/7/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/cv43nz727",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "West Long Branch (Sheet 1)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1907"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "cv43nz727",
+  "georss_polygon_s": "40.329783 -74.01258 40.329783 -73.975135 40.260767 -73.975135 40.260767 -74.01258 40.329783 -74.01258",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1907",
   "dct_spatial_sm": [
     "New Jersey",
     "Long Branch"
   ],
-  "dct_temporal_sm": [
-    "1907"
-  ],
+  "layer_id_s": "cv43nz727",
   "georss_box_s": "40.260767 -74.01258 40.329783 -73.975135",
-  "georss_polygon_s": "40.329783 -74.01258 40.329783 -73.975135 40.260767 -73.975135 40.260767 -74.01258 40.329783 -74.01258",
-  "solr_geom": "ENVELOPE(-74.01258, -73.975135, 40.329783, 40.260767)",
-  "solr_year_i": "1907"
+  "dc_title_s": "West Long Branch (Sheet 1)",
+  "layer_slug_s": "princeton-cv43nz727",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

@@ -1,27 +1,27 @@
 {
+  "solr_year_i": "1744",
   "uuid": "http://arks.princeton.edu/ark:/88435/np193c63v",
-  "dc_description_s": "Carte particulière des environs d'Ostende, Nieuport, Furnes et autres en 1743",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "np193c63v",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/np193c63v/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fnp%2F19%2F3c%2F63%2Fv%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "np193c63v",
-  "layer_slug_s": "princeton-np193c63v",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Carte particulie\u0300re des environs d'Ostende, Nieuport, Furnes et autres en 1743",
+  "georss_box_s": "51.1234561 2.7032531 51.1621651 2.79869",
   "layer_modified_dt": "2015-01-21T22:24:11Z",
-  "dc_title_s": "Carte particulière des environs d'Ostende, Nieuport, Furnes et autres en 1743",
+  "layer_id_s": "np193c63v",
   "dc_type_s": "Image",
+  "dc_identifier_s": "np193c63v",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Carte particulie\u0300re des environs d'Ostende, Nieuport, Furnes et autres en 1743",
+  "layer_slug_s": "princeton-np193c63v",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/np193c63v/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/np/19/3c/63/v/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "51.1621651 2.7032531 51.1621651 2.79869 51.1234561 2.79869 51.1234561 2.7032531 51.1621651 2.7032531",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1744"
+  ],
+  "solr_geom": "ENVELOPE(2.7032531, 2.79869, 51.1621651, 51.1234561)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Nieuwpoort (West Flanders, Belgium)",
     "Ostend (Belgium)",
     "Veurne (Belgium)"
-  ],
-  "dct_temporal_sm": [
-    "1744"
-  ],
-  "georss_box_s": "51.1234561 2.7032531 51.1621651 2.79869",
-  "georss_polygon_s": "51.1621651 2.7032531 51.1621651 2.79869 51.1234561 2.79869 51.1234561 2.7032531 51.1621651 2.7032531",
-  "solr_geom": "ENVELOPE(2.7032531, 2.79869, 51.1621651, 51.1234561)",
-  "solr_year_i": "1744"
+  ]
 }

@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1800",
   "uuid": "http://arks.princeton.edu/ark:/88435/xs55mf522",
-  "dc_description_s": "Plan du siége de la ville de Barcelone : avec la carte de la côte de la mer depuis le Cap de Cervere jusqu'aux environs de Llobregat",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "xs55mf522",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/xs55mf522/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fxs%2F55%2Fmf%2F52%2F2%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "xs55mf522",
-  "layer_slug_s": "princeton-xs55mf522",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Plan du sie\u0301ge de la ville de Barcelone : avec la carte de la co\u0302te de la mer depuis le Cap de Cervere jusqu'aux environs de Llobregat",
+  "georss_box_s": "41.3174426 2.0524977 41.4679428 2.2289764",
   "layer_modified_dt": "2015-01-21T22:24:10Z",
-  "dc_title_s": "Plan du siége de la ville de Barcelone : avec la carte de la côte de la mer depuis le Cap de Cervere jusqu'aux environs de Llobregat",
+  "layer_id_s": "xs55mf522",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Barcelona (Spain)",
-    "Barcelona (Spain)"
-  ],
+  "dc_identifier_s": "xs55mf522",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Plan du sie\u0301ge de la ville de Barcelone : avec la carte de la co\u0302te de la mer depuis le Cap de Cervere jusqu'aux environs de Llobregat",
+  "layer_slug_s": "princeton-xs55mf522",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/xs55mf522/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/xs/55/mf/52/2/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "41.4679428 2.0524977 41.4679428 2.2289764 41.3174426 2.2289764 41.3174426 2.0524977 41.4679428 2.0524977",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1800"
   ],
-  "georss_box_s": "41.3174426 2.0524977 41.4679428 2.2289764",
-  "georss_polygon_s": "41.4679428 2.0524977 41.4679428 2.2289764 41.3174426 2.2289764 41.3174426 2.0524977 41.4679428 2.0524977",
   "solr_geom": "ENVELOPE(2.0524977, 2.2289764, 41.4679428, 41.3174426)",
-  "solr_year_i": "1800"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Barcelona (Spain)",
+    "Barcelona (Spain)"
+  ]
 }

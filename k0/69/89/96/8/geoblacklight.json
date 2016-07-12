@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1730",
   "uuid": "http://arks.princeton.edu/ark:/88435/k06989968",
+  "dc_description_s": "Belgii pars septentrionalis communi nomine vulgo Hollandia nuncupata continens statum potentissim\u00e6 Batavorum Reipublic\u00e6 seu provincias VII Foederatas",
+  "georss_box_s": "11.825 -68.6255318 53.7253321 7.2274985",
+  "layer_modified_dt": "2015-01-25T02:06:13Z",
   "dc_creator_sm": [
     "Fox, N. B.,"
   ],
-  "dc_description_s": "Belgii pars septentrionalis communi nomine vulgo Hollandia nuncupata continens statum potentissimæ Batavorum Reipublicæ seu provincias VII Foederatas",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "k06989968",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/k06989968/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fk0%2F69%2F89%2F96%2F8%2F00000001.jp2/info.json\"}",
   "layer_id_s": "k06989968",
-  "layer_slug_s": "princeton-k06989968",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:13Z",
-  "dc_title_s": "Belgii pars septentrionalis communi nomine vulgo Hollandia nuncupata continens statum potentissimæ Batavorum Reipublicæ seu provincias VII Foederatas",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Netherlands"
-  ],
+  "dc_identifier_s": "k06989968",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Belgii pars septentrionalis communi nomine vulgo Hollandia nuncupata continens statum potentissim\u00e6 Batavorum Reipublic\u00e6 seu provincias VII Foederatas",
+  "layer_slug_s": "princeton-k06989968",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/k06989968/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/k0/69/89/96/8/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "53.7253321 -68.6255318 53.7253321 7.2274985 11.825 7.2274985 11.825 -68.6255318 53.7253321 -68.6255318",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1730"
   ],
-  "georss_box_s": "11.825 -68.6255318 53.7253321 7.2274985",
-  "georss_polygon_s": "53.7253321 -68.6255318 53.7253321 7.2274985 11.825 7.2274985 11.825 -68.6255318 53.7253321 -68.6255318",
   "solr_geom": "ENVELOPE(-68.6255318, 7.2274985, 53.7253321, 11.825)",
-  "solr_year_i": "1730"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Netherlands"
+  ]
 }

@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1827",
   "uuid": "http://arks.princeton.edu/ark:/88435/6d56zz980",
+  "dc_description_s": "Partie de la Vieille Californie",
+  "georss_box_s": "18.0 -115.666666667 24.0 -107.666666667",
+  "layer_modified_dt": "2015-01-19T22:37:03Z",
   "dc_creator_sm": [
     "Vandermaelen, Philippe,"
   ],
-  "dc_description_s": "Partie de la Vieille Californie",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "6d56zz980",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/6d56zz980/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F6d%2F56%2Fzz%2F98%2F0%2F00000001.jp2/info.json\"}",
   "layer_id_s": "6d56zz980",
-  "layer_slug_s": "princeton-6d56zz980",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:03Z",
-  "dc_title_s": "Partie de la Vieille Californie",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Baja California Sur (Mexico)",
-    "Revillagigedo Islands (Mexico)"
-  ],
+  "dc_identifier_s": "6d56zz980",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Partie de la Vieille Californie",
+  "layer_slug_s": "princeton-6d56zz980",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/6d56zz980/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/6d/56/zz/98/0/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "24.0 -115.666666667 24.0 -107.666666667 18.0 -107.666666667 18.0 -115.666666667 24.0 -115.666666667",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1827"
   ],
-  "georss_box_s": "18.0 -115.666666667 24.0 -107.666666667",
-  "georss_polygon_s": "24.0 -115.666666667 24.0 -107.666666667 18.0 -107.666666667 18.0 -115.666666667 24.0 -115.666666667",
   "solr_geom": "ENVELOPE(-115.666666667, -107.666666667, 24.0, 18.0)",
-  "solr_year_i": "1827"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Baja California Sur (Mexico)",
+    "Revillagigedo Islands (Mexico)"
+  ]
 }

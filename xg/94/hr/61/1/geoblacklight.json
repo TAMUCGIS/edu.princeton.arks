@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1869",
   "uuid": "http://arks.princeton.edu/ark:/88435/xg94hr611",
   "dc_description_s": "Reduced ordnance map of London",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "xg94hr611",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/xg94hr611/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fxg%2F94%2Fhr%2F61%2F1%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "xg94hr611",
-  "layer_slug_s": "princeton-xg94hr611",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "51.2867602 -0.510375 51.6918741 0.3340155",
   "layer_modified_dt": "2015-01-21T22:23:54Z",
-  "dc_title_s": "Reduced ordnance map of London",
+  "layer_id_s": "xg94hr611",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "London (England)"
-  ],
+  "dc_identifier_s": "xg94hr611",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Reduced ordnance map of London",
+  "layer_slug_s": "princeton-xg94hr611",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/xg94hr611/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/xg/94/hr/61/1/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "51.6918741 -0.510375 51.6918741 0.3340155 51.2867602 0.3340155 51.2867602 -0.510375 51.6918741 -0.510375",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1869"
   ],
-  "georss_box_s": "51.2867602 -0.510375 51.6918741 0.3340155",
-  "georss_polygon_s": "51.6918741 -0.510375 51.6918741 0.3340155 51.2867602 0.3340155 51.2867602 -0.510375 51.6918741 -0.510375",
   "solr_geom": "ENVELOPE(-0.510375, 0.3340155, 51.6918741, 51.2867602)",
-  "solr_year_i": "1869"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "London (England)"
+  ]
 }

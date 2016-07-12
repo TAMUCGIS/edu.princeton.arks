@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1980",
   "uuid": "http://arks.princeton.edu/ark:/88435/xd07gw20q",
+  "dc_description_s": "The archeological zone of Palenque compiled from maps drawn by H.W. Price in 1891 ... by Blom and La Farge in 1925 ... and by the Instituto Nacional de Antropologia e Historia in 1965 ... ; and from a map drawn by Linda Schele after reconnaissances by her, Jay Johnson, and Robert L. Rands in 1964 ... ; corrected on the site in June 1980 by David Bylund, Richard Martinez, and J. Brody Neuenschwander of the Princeton Palenque Expedition ; drawn by David Bylund ; edited by Alfred L. Bush.",
+  "georss_box_s": "17.4523946643 -92.0758285976 17.5112605067 -92.003400515",
+  "layer_modified_dt": "2015-01-21T22:24:25Z",
   "dc_creator_sm": [
     "Bush, Alfred L."
   ],
-  "dc_description_s": "The archeological zone of Palenque compiled from maps drawn by H.W. Price in 1891 ... by Blom and La Farge in 1925 ... and by the Instituto Nacional de Antropologia e Historia in 1965 ... ; and from a map drawn by Linda Schele after reconnaissances by her, Jay Johnson, and Robert L. Rands in 1964 ... ; corrected on the site in June 1980 by David Bylund, Richard Martinez, and J. Brody Neuenschwander of the Princeton Palenque Expedition ; drawn by David Bylund ; edited by Alfred L. Bush.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "xd07gw20q",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/xd07gw20q/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fxd%2F07%2Fgw%2F20%2Fq%2F00000001.jp2/info.json\"}",
   "layer_id_s": "xd07gw20q",
-  "layer_slug_s": "princeton-xd07gw20q",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:25Z",
-  "dc_title_s": "The archeological zone of Palenque compiled from maps drawn by H.W. Price in 1891 ... by Blom and La Farge in 1925 ... and by the Instituto Nacional de Antropologia e Historia in 1965 ... ; and from a map drawn by Linda Schele after reconnaissances by her, Jay Johnson, and Robert L. Rands in 1964 ... ; corrected on the site in June 1980 by David Bylund, Richard Martinez, and J. Brody Neuenschwander of the Princeton Palenque Expedition ; drawn by David Bylund ; edited by Alfred L. Bush.",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Palenque Site (Mexico)"
-  ],
+  "dc_identifier_s": "xd07gw20q",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "The archeological zone of Palenque compiled from maps drawn by H.W. Price in 1891 ... by Blom and La Farge in 1925 ... and by the Instituto Nacional de Antropologia e Historia in 1965 ... ; and from a map drawn by Linda Schele after reconnaissances by her, Jay Johnson, and Robert L. Rands in 1964 ... ; corrected on the site in June 1980 by David Bylund, Richard Martinez, and J. Brody Neuenschwander of the Princeton Palenque Expedition ; drawn by David Bylund ; edited by Alfred L. Bush.",
+  "layer_slug_s": "princeton-xd07gw20q",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/xd07gw20q/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/xd/07/gw/20/q/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "17.5112605067 -92.0758285976 17.5112605067 -92.003400515 17.4523946643 -92.003400515 17.4523946643 -92.0758285976 17.5112605067 -92.0758285976",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1980"
   ],
-  "georss_box_s": "17.4523946643 -92.0758285976 17.5112605067 -92.003400515",
-  "georss_polygon_s": "17.5112605067 -92.0758285976 17.5112605067 -92.003400515 17.4523946643 -92.003400515 17.4523946643 -92.0758285976 17.5112605067 -92.0758285976",
   "solr_geom": "ENVELOPE(-92.0758285976, -92.003400515, 17.5112605067, 17.4523946643)",
-  "solr_year_i": "1980"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Palenque Site (Mexico)"
+  ]
 }

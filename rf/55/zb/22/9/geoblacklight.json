@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1897",
   "uuid": "http://arks.princeton.edu/ark:/88435/rf55zb229",
   "dc_description_s": "Plan von Brotterode : Wasserleitung und Canalisation",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "rf55zb229",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/rf55zb229/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Frf%2F55%2Fzb%2F22%2F9%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "rf55zb229",
-  "layer_slug_s": "princeton-rf55zb229",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "50.795343 10.4051581 50.8509019 10.4958516",
   "layer_modified_dt": "2015-01-21T22:24:27Z",
-  "dc_title_s": "Plan von Brotterode : Wasserleitung und Canalisation",
+  "layer_id_s": "rf55zb229",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Brotterode (Germany)",
-    "Thuringia (Germany)"
-  ],
+  "dc_identifier_s": "rf55zb229",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Plan von Brotterode : Wasserleitung und Canalisation",
+  "layer_slug_s": "princeton-rf55zb229",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/rf55zb229/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/rf/55/zb/22/9/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "50.8509019 10.4051581 50.8509019 10.4958516 50.795343 10.4958516 50.795343 10.4051581 50.8509019 10.4051581",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1897"
   ],
-  "georss_box_s": "50.795343 10.4051581 50.8509019 10.4958516",
-  "georss_polygon_s": "50.8509019 10.4051581 50.8509019 10.4958516 50.795343 10.4958516 50.795343 10.4051581 50.8509019 10.4051581",
   "solr_geom": "ENVELOPE(10.4051581, 10.4958516, 50.8509019, 50.795343)",
-  "solr_year_i": "1897"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Brotterode (Germany)",
+    "Thuringia (Germany)"
+  ]
 }

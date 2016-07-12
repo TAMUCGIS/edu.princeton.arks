@@ -1,22 +1,29 @@
 {
+  "solr_year_i": "1703",
   "uuid": "http://arks.princeton.edu/ark:/88435/mc87ps78w",
+  "dc_description_s": "Le cours du Po",
+  "georss_box_s": "44.4666666667 6.23333333333 45.5 12.4666666667",
+  "layer_modified_dt": "2015-01-23T17:48:39Z",
   "dc_creator_sm": [
     "Berey, Charles Amadeus de."
   ],
-  "dc_description_s": "Le cours du Po",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "mc87ps78w",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/mc87ps78w/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fmc%2F87%2Fps%2F78%2Fw%2F00000001.jp2/info.json\"}",
   "layer_id_s": "mc87ps78w",
-  "layer_slug_s": "princeton-mc87ps78w",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-23T17:48:39Z",
-  "dc_title_s": "Le cours du Po",
   "dc_type_s": "Image",
+  "dc_identifier_s": "mc87ps78w",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Le cours du Po",
+  "layer_slug_s": "princeton-mc87ps78w",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/mc87ps78w/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/mc/87/ps/78/w/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "45.5 6.23333333333 45.5 12.4666666667 44.4666666667 12.4666666667 44.4666666667 6.23333333333 45.5 6.23333333333",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1703"
+  ],
+  "solr_geom": "ENVELOPE(6.23333333333, 12.4666666667, 45.5, 44.4666666667)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
-    "Dauphiné (France)",
+    "Dauphine\u0301 (France)",
     "Emilia-Romagna (Italy)",
     "Italy, Northern",
     "Lombardy (Italy)",
@@ -24,12 +31,5 @@
     "Piedmont (Italy)",
     "Po River Valley (Italy)",
     "Veneto (Italy)"
-  ],
-  "dct_temporal_sm": [
-    "1703"
-  ],
-  "georss_box_s": "44.4666666667 6.23333333333 45.5 12.4666666667",
-  "georss_polygon_s": "45.5 6.23333333333 45.5 12.4666666667 44.4666666667 12.4666666667 44.4666666667 6.23333333333 45.5 6.23333333333",
-  "solr_geom": "ENVELOPE(6.23333333333, 12.4666666667, 45.5, 44.4666666667)",
-  "solr_year_i": "1703"
+  ]
 }

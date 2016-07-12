@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1721",
   "uuid": "http://arks.princeton.edu/ark:/88435/9c67wp73q",
+  "dc_description_s": "L'Amerique septentrionale : dresse\u0301e sur les observations de Mrs. de l'Academie royale des sciences, & quelques autres, & sur les memoires les plus recens",
+  "georss_box_s": "50.9999502 -109.0000502 51.0000502 -108.9999502",
+  "layer_modified_dt": "2015-01-25T02:06:09Z",
   "dc_creator_sm": [
     "Fox, N. B.,"
   ],
-  "dc_description_s": "L'Amerique septentrionale : dressée sur les observations de Mrs. de l'Academie royale des sciences, & quelques autres, & sur les memoires les plus recens",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "9c67wp73q",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/9c67wp73q/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F9c%2F67%2Fwp%2F73%2Fq%2F00000001.jp2/info.json\"}",
   "layer_id_s": "9c67wp73q",
-  "layer_slug_s": "princeton-9c67wp73q",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:09Z",
-  "dc_title_s": "L'Amerique septentrionale : dressée sur les observations de Mrs. de l'Academie royale des sciences, & quelques autres, & sur les memoires les plus recens",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "North America"
-  ],
+  "dc_identifier_s": "9c67wp73q",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "L'Amerique septentrionale : dresse\u0301e sur les observations de Mrs. de l'Academie royale des sciences, & quelques autres, & sur les memoires les plus recens",
+  "layer_slug_s": "princeton-9c67wp73q",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/9c67wp73q/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/9c/67/wp/73/q/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "51.0000502 -109.0000502 51.0000502 -108.9999502 50.9999502 -108.9999502 50.9999502 -109.0000502 51.0000502 -109.0000502",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1721"
   ],
-  "georss_box_s": "50.9999502 -109.0000502 51.0000502 -108.9999502",
-  "georss_polygon_s": "51.0000502 -109.0000502 51.0000502 -108.9999502 50.9999502 -108.9999502 50.9999502 -109.0000502 51.0000502 -109.0000502",
   "solr_geom": "ENVELOPE(-109.0000502, -108.9999502, 51.0000502, 50.9999502)",
-  "solr_year_i": "1721"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "North America"
+  ]
 }

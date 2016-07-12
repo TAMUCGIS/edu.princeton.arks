@@ -1,31 +1,31 @@
 {
+  "solr_year_i": "1634",
   "uuid": "http://arks.princeton.edu/ark:/88435/rr172068x",
+  "dc_description_s": "Virginiae item et Floridae Americae provinciarum, nova descriptio",
+  "georss_box_s": "30.0 -82.0 38.0 -75.0",
+  "layer_modified_dt": "2015-01-23T17:48:36Z",
   "dc_creator_sm": [
     "Jansson, Jan,",
     "Mercator, Gerhard,"
   ],
-  "dc_description_s": "Virginiae item et Floridae Americae provinciarum, nova descriptio",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "rr172068x",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/rr172068x/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Frr%2F17%2F20%2F68%2Fx%2F00000001.jp2/info.json\"}",
   "layer_id_s": "rr172068x",
-  "layer_slug_s": "princeton-rr172068x",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-23T17:48:36Z",
-  "dc_title_s": "Virginiae item et Floridae Americae provinciarum, nova descriptio",
   "dc_type_s": "Image",
+  "dc_identifier_s": "rr172068x",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Virginiae item et Floridae Americae provinciarum, nova descriptio",
+  "layer_slug_s": "princeton-rr172068x",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/rr172068x/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/rr/17/20/68/x/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "38.0 -82.0 38.0 -75.0 30.0 -75.0 30.0 -82.0 38.0 -82.0",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1634"
+  ],
+  "solr_geom": "ENVELOPE(-82.0, -75.0, 38.0, 30.0)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Florida",
     "South Atlantic States",
     "Virginia"
-  ],
-  "dct_temporal_sm": [
-    "1634"
-  ],
-  "georss_box_s": "30.0 -82.0 38.0 -75.0",
-  "georss_polygon_s": "38.0 -82.0 38.0 -75.0 30.0 -75.0 30.0 -82.0 38.0 -82.0",
-  "solr_geom": "ENVELOPE(-82.0, -75.0, 38.0, 30.0)",
-  "solr_year_i": "1634"
+  ]
 }

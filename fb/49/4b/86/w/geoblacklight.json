@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1719",
   "uuid": "http://arks.princeton.edu/ark:/88435/fb494b86w",
+  "dc_description_s": "Description des plantes, arbres, animaux & poissons des Iles Antilles : avec les m\u0153urs des sauvages qui s'y trouvent, et la manie\u0300re dont on fait le sucre",
+  "georss_box_s": "12.1100113 -68.9386657 12.11007 -68.9386084",
+  "layer_modified_dt": "2015-01-21T22:24:05Z",
   "dc_creator_sm": [
     "Chatelain, Henri Abraham."
   ],
-  "dc_description_s": "Description des plantes, arbres, animaux & poissons des Iles Antilles : avec les mœurs des sauvages qui s'y trouvent, et la manière dont on fait le sucre",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "fb494b86w",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/fb494b86w/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ffb%2F49%2F4b%2F86%2Fw%2F00000001.jp2/info.json\"}",
   "layer_id_s": "fb494b86w",
-  "layer_slug_s": "princeton-fb494b86w",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:05Z",
-  "dc_title_s": "Description des plantes, arbres, animaux & poissons des Iles Antilles : avec les mœurs des sauvages qui s'y trouvent, et la manière dont on fait le sucre",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "West Indies"
-  ],
+  "dc_identifier_s": "fb494b86w",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Description des plantes, arbres, animaux & poissons des Iles Antilles : avec les m\u0153urs des sauvages qui s'y trouvent, et la manie\u0300re dont on fait le sucre",
+  "layer_slug_s": "princeton-fb494b86w",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/fb494b86w/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/fb/49/4b/86/w/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "12.11007 -68.9386657 12.11007 -68.9386084 12.1100113 -68.9386084 12.1100113 -68.9386657 12.11007 -68.9386657",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1719"
   ],
-  "georss_box_s": "12.1100113 -68.9386657 12.11007 -68.9386084",
-  "georss_polygon_s": "12.11007 -68.9386657 12.11007 -68.9386084 12.1100113 -68.9386084 12.1100113 -68.9386657 12.11007 -68.9386657",
   "solr_geom": "ENVELOPE(-68.9386657, -68.9386084, 12.11007, 12.1100113)",
-  "solr_year_i": "1719"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "West Indies"
+  ]
 }

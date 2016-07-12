@@ -2,7 +2,7 @@
   "dc_description_s": "This is a map of the grounds of Princeton University. It has been scanned from the Princeton University Catalogue 1888-1889.",
   "layer_modified_dt": "2015-01-11T17:42:40Z",
   "solr_geom": "ENVELOPE(-74.939246, -74.482460, 40.424427, 40.135958)",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fwh%2F24%2F6t%2F60%2Ft%2F00000001.jp2/info.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/wh246t60t/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/wh246t60t/preview.jpg\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/wh246t60t/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/wh/24/6t/60/t/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/wh246t60t/preview.jpg\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/wh246t60t",
   "dct_provenance_s": "Princeton",
@@ -12,7 +12,7 @@
     "Campus"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "1889",
+  "layer_slug_s": "princeton-wh246t60t",
   "dc_creator_sm": [
     "Princeton University"
   ],
@@ -29,7 +29,7 @@
   "layer_id_s": "wh246t60t",
   "georss_box_s": "40.135958 -74.939246 40.424427 -74.482460",
   "dc_title_s": "Princeton Campus Map 1888-1889 ",
-  "layer_slug_s": "princeton-wh246t60t",
+  "dct_issued_s": "1889",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

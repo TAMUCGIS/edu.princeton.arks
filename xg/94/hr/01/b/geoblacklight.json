@@ -2,7 +2,7 @@
   "dc_description_s": "This is a map of North America, shown at a 1:38,700,000 scale. The map was created by the Central Intelligence Agency.",
   "layer_modified_dt": "2015-01-11T17:42:40Z",
   "solr_geom": "ENVELOPE(-179.2226, -12.0961, 83.8234, 7.1258)",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fxg%2F94%2Fhr%2F01%2Fb%2F00000001.jp2/info.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/xg94hr01b/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/xg94hr01b/preview.jpg\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/xg94hr01b/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/xg/94/hr/01/b/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/xg94hr01b/preview.jpg\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/xg94hr01b",
   "dct_provenance_s": "Princeton",
@@ -16,7 +16,7 @@
     "Facilities and Structures"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "June 2002",
+  "layer_slug_s": "princeton-xg94hr01b",
   "dc_creator_sm": [
     "Central Intelligence Agency"
   ],
@@ -33,7 +33,7 @@
   "layer_id_s": "xg94hr01b",
   "georss_box_s": "7.1258 -179.2226 83.8234 -12.0961",
   "dc_title_s": "North America 2002",
-  "layer_slug_s": "princeton-xg94hr01b",
+  "dct_issued_s": "June 2002",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

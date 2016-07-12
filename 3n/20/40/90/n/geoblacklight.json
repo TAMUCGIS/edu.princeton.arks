@@ -1,25 +1,23 @@
 {
+  "solr_year_i": "1905",
   "uuid": "http://arks.princeton.edu/ark:/88435/3n204090n",
   "dc_description_s": "New Jersey: Lake Hopatcong Quadrangle",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "3n204090n",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/3n204090n/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F3n%2F20%2F40%2F90%2Fn%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "3n204090n",
-  "layer_slug_s": "princeton-3n204090n",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "40.75000 -74.75000 41.00000 -74.50000",
   "layer_modified_dt": "2015-01-19T22:36:34Z",
-  "dc_title_s": "New Jersey: Lake Hopatcong Quadrangle",
+  "layer_id_s": "3n204090n",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "3n204090n",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "New Jersey: Lake Hopatcong Quadrangle",
+  "layer_slug_s": "princeton-3n204090n",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/3n204090n/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/3n/20/40/90/n/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "41.00000 -74.75000 41.00000 -74.50000 40.75000 -74.50000 40.75000 -74.75000 41.00000 -74.75000",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1905"
   ],
-  "georss_box_s": "40.75000 -74.75000 41.00000 -74.50000",
-  "georss_polygon_s": "41.00000 -74.75000 41.00000 -74.50000 40.75000 -74.50000 40.75000 -74.75000 41.00000 -74.75000",
   "solr_geom": "ENVELOPE(-74.75000, -74.50000, 41.00000, 40.75000)",
-  "solr_year_i": "1905"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

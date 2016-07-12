@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1763",
   "uuid": "http://arks.princeton.edu/ark:/88435/bv73c291j",
+  "dc_description_s": "A new map of Dorset Shire : drawn from the best authorities",
+  "georss_box_s": "50.5127244 -2.9615944 51.0809976 -1.6816654",
+  "layer_modified_dt": "2015-01-21T22:24:17Z",
   "dc_creator_sm": [
     "Dodsley, James,",
     "Dodsley, Robert,"
   ],
-  "dc_description_s": "A new map of Dorset Shire : drawn from the best authorities",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "bv73c291j",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/bv73c291j/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fv%2F73%2Fc2%2F91%2F00000001.jp2/info.json\"}",
   "layer_id_s": "bv73c291j",
-  "layer_slug_s": "princeton-bv73c291j",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:17Z",
-  "dc_title_s": "A new map of Dorset Shire : drawn from the best authorities",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Dorset (England)"
-  ],
+  "dc_identifier_s": "bv73c291j",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "A new map of Dorset Shire : drawn from the best authorities",
+  "layer_slug_s": "princeton-bv73c291j",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/bv73c291j/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/bv/73/c2/91/j/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "51.0809976 -2.9615944 51.0809976 -1.6816654 50.5127244 -1.6816654 50.5127244 -2.9615944 51.0809976 -2.9615944",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1763"
   ],
-  "georss_box_s": "50.5127244 -2.9615944 51.0809976 -1.6816654",
-  "georss_polygon_s": "51.0809976 -2.9615944 51.0809976 -1.6816654 50.5127244 -1.6816654 50.5127244 -2.9615944 51.0809976 -2.9615944",
   "solr_geom": "ENVELOPE(-2.9615944, -1.6816654, 51.0809976, 50.5127244)",
-  "solr_year_i": "1763"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Dorset (England)"
+  ]
 }

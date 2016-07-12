@@ -1,27 +1,27 @@
 {
+  "solr_year_i": "1895",
   "uuid": "http://arks.princeton.edu/ark:/88435/sq87bx092",
   "dc_description_s": "The Irish or St. George's Channel",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "sq87bx092",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/sq87bx092/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fsq%2F87%2Fbx%2F09%2F2%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "sq87bx092",
-  "layer_slug_s": "princeton-sq87bx092",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "49.674 -14.0155169 61.061 2.0919117",
   "layer_modified_dt": "2015-01-21T22:24:16Z",
-  "dc_title_s": "The Irish or St. George's Channel",
+  "layer_id_s": "sq87bx092",
   "dc_type_s": "Image",
+  "dc_identifier_s": "sq87bx092",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "The Irish or St. George's Channel",
+  "layer_slug_s": "princeton-sq87bx092",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/sq87bx092/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/sq/87/bx/09/2/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "61.061 -14.0155169 61.061 2.0919117 49.674 2.0919117 49.674 -14.0155169 61.061 -14.0155169",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1895"
+  ],
+  "solr_geom": "ENVELOPE(-14.0155169, 2.0919117, 61.061, 49.674)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Great Britain",
     "Ireland",
     "Saint George's Channel (Ireland and Wales)"
-  ],
-  "dct_temporal_sm": [
-    "1895"
-  ],
-  "georss_box_s": "49.674 -14.0155169 61.061 2.0919117",
-  "georss_polygon_s": "61.061 -14.0155169 61.061 2.0919117 49.674 2.0919117 49.674 -14.0155169 61.061 -14.0155169",
-  "solr_geom": "ENVELOPE(-14.0155169, 2.0919117, 61.061, 49.674)",
-  "solr_year_i": "1895"
+  ]
 }

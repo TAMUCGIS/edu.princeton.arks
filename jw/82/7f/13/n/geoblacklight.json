@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1964",
   "uuid": "http://arks.princeton.edu/ark:/88435/jw827f13n",
+  "dc_description_s": "Erets Yis\u0301ra\u02beel : bi-yeme ha-Bayit ha-sheni, ha-Mishnah, v\u0323eha-Talmud (333 lif. s. ha-N. \u02bbad 640 li-s. ha-N.)",
+  "georss_box_s": "29.4533796 34.2676025 33.3356317 35.8950234",
+  "layer_modified_dt": "2015-01-21T22:24:13Z",
   "dc_creator_sm": [
     "Avi-Yonah, Michael,"
   ],
-  "dc_description_s": "Erets Yiśraʾel : bi-yeme ha-Bayit ha-sheni, ha-Mishnah, ṿeha-Talmud (333 lif. s. ha-N. ʻad 640 li-s. ha-N.)",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "jw827f13n",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/jw827f13n/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fw%2F82%2F7f%2F13%2Fn%2F00000001.jp2/info.json\"}",
   "layer_id_s": "jw827f13n",
-  "layer_slug_s": "princeton-jw827f13n",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:13Z",
-  "dc_title_s": "Erets Yiśraʾel : bi-yeme ha-Bayit ha-sheni, ha-Mishnah, ṿeha-Talmud (333 lif. s. ha-N. ʻad 640 li-s. ha-N.)",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Palestine",
-    "Palestine"
-  ],
+  "dc_identifier_s": "jw827f13n",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Erets Yis\u0301ra\u02beel : bi-yeme ha-Bayit ha-sheni, ha-Mishnah, v\u0323eha-Talmud (333 lif. s. ha-N. \u02bbad 640 li-s. ha-N.)",
+  "layer_slug_s": "princeton-jw827f13n",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/jw827f13n/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/jw/82/7f/13/n/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "33.3356317 34.2676025 33.3356317 35.8950234 29.4533796 35.8950234 29.4533796 34.2676025 33.3356317 34.2676025",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1964"
   ],
-  "georss_box_s": "29.4533796 34.2676025 33.3356317 35.8950234",
-  "georss_polygon_s": "33.3356317 34.2676025 33.3356317 35.8950234 29.4533796 35.8950234 29.4533796 34.2676025 33.3356317 34.2676025",
   "solr_geom": "ENVELOPE(34.2676025, 35.8950234, 33.3356317, 29.4533796)",
-  "solr_year_i": "1964"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Palestine",
+    "Palestine"
+  ]
 }

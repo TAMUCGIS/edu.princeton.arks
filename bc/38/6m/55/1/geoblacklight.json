@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/bc386m551",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Belvidere",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "bc386m551",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fc%2F38%2F6m%2F55%2F1%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "bc386m551",
-  "layer_slug_s": "princeton-bc386m551",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:10:34Z",
+  "solr_geom": "ENVELOPE(-75.088876, -75.059128, 40.840947, 40.817783)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/bc/38/6m/55/1/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/bc386m551",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Belvidere, Warren Co., New Jersey (Sheet 7)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1903"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "bc386m551",
+  "georss_polygon_s": "40.840947 -75.088876 40.840947 -75.059128 40.817783 -75.059128 40.817783 -75.088876 40.840947 -75.088876",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1903",
   "dct_spatial_sm": [
     "New Jersey",
     "Belvidere"
   ],
-  "dct_temporal_sm": [
-    "1903"
-  ],
+  "layer_id_s": "bc386m551",
   "georss_box_s": "40.817783 -75.088876 40.840947 -75.059128",
-  "georss_polygon_s": "40.840947 -75.088876 40.840947 -75.059128 40.817783 -75.059128 40.817783 -75.088876 40.840947 -75.088876",
-  "solr_geom": "ENVELOPE(-75.088876, -75.059128, 40.840947, 40.817783)",
-  "solr_year_i": "1903"
+  "dc_title_s": "Belvidere, Warren Co., New Jersey (Sheet 7)",
+  "layer_slug_s": "princeton-bc386m551",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

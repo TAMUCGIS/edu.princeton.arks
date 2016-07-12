@@ -1,28 +1,26 @@
 {
+  "solr_year_i": "1940",
   "uuid": "http://arks.princeton.edu/ark:/88435/hq37vr06r",
+  "dc_description_s": "A more or less inaccurate map of Taos, New Mexico : and guide to the land of man\u0303ana in a state of peace",
+  "georss_box_s": "36.354433 -105.6059669 36.424067 -105.5571679",
+  "layer_modified_dt": "2015-01-21T22:24:16Z",
   "dc_creator_sm": [
     "Fish, Ruth G."
   ],
-  "dc_description_s": "A more or less inaccurate map of Taos, New Mexico : and guide to the land of mañana in a state of peace",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "hq37vr06r",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/hq37vr06r/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fhq%2F37%2Fvr%2F06%2Fr%2F00000001.jp2/info.json\"}",
   "layer_id_s": "hq37vr06r",
-  "layer_slug_s": "princeton-hq37vr06r",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:16Z",
-  "dc_title_s": "A more or less inaccurate map of Taos, New Mexico : and guide to the land of mañana in a state of peace",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "hq37vr06r",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "A more or less inaccurate map of Taos, New Mexico : and guide to the land of man\u0303ana in a state of peace",
+  "layer_slug_s": "princeton-hq37vr06r",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/hq37vr06r/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/hq/37/vr/06/r/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "36.424067 -105.6059669 36.424067 -105.5571679 36.354433 -105.5571679 36.354433 -105.6059669 36.424067 -105.6059669",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1940"
   ],
-  "georss_box_s": "36.354433 -105.6059669 36.424067 -105.5571679",
-  "georss_polygon_s": "36.424067 -105.6059669 36.424067 -105.5571679 36.354433 -105.5571679 36.354433 -105.6059669 36.424067 -105.6059669",
   "solr_geom": "ENVELOPE(-105.6059669, -105.5571679, 36.424067, 36.354433)",
-  "solr_year_i": "1940"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

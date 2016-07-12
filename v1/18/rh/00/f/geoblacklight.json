@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1545",
   "uuid": "http://arks.princeton.edu/ark:/88435/v118rh00f",
+  "dc_description_s": "Brabantia III. Rheni et X. nova tabula",
+  "georss_box_s": "51.2209373 4.190081 51.8307142 6.047724",
+  "layer_modified_dt": "2015-01-21T22:24:10Z",
   "dc_creator_sm": [
     "Ptolemy,",
     "Petri, Heinrich,"
   ],
-  "dc_description_s": "Brabantia III. Rheni et X. nova tabula",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "v118rh00f",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/v118rh00f/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fv1%2F18%2Frh%2F00%2Ff%2F00000001.jp2/info.json\"}",
   "layer_id_s": "v118rh00f",
-  "layer_slug_s": "princeton-v118rh00f",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:10Z",
-  "dc_title_s": "Brabantia III. Rheni et X. nova tabula",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Brabant (Belgium)",
-    "North Brabant (Netherlands)"
-  ],
+  "dc_identifier_s": "v118rh00f",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Brabantia III. Rheni et X. nova tabula",
+  "layer_slug_s": "princeton-v118rh00f",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/v118rh00f/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/v1/18/rh/00/f/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "51.8307142 4.190081 51.8307142 6.047724 51.2209373 6.047724 51.2209373 4.190081 51.8307142 4.190081",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1545"
   ],
-  "georss_box_s": "51.2209373 4.190081 51.8307142 6.047724",
-  "georss_polygon_s": "51.8307142 4.190081 51.8307142 6.047724 51.2209373 6.047724 51.2209373 4.190081 51.8307142 4.190081",
   "solr_geom": "ENVELOPE(4.190081, 6.047724, 51.8307142, 51.2209373)",
-  "solr_year_i": "1545"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Brabant (Belgium)",
+    "North Brabant (Netherlands)"
+  ]
 }

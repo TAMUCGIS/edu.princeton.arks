@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1675",
   "uuid": "http://arks.princeton.edu/ark:/88435/hd76s256c",
+  "dc_description_s": "Pascaerte van Nieu Nederland : streckende vande Zuy\u0308dt Revier tot de Noordt Revier en't Lange Ey\u0308land",
+  "georss_box_s": "40.5424147 -74.041969 41.161155 -71.8561857",
+  "layer_modified_dt": "2015-01-21T22:24:17Z",
   "dc_creator_sm": [
     "Goos, Pieter,",
     "Roggeveen, Arent,"
   ],
-  "dc_description_s": "Pascaerte van Nieu Nederland : streckende vande Zuÿdt Revier tot de Noordt Revier en't Lange Eÿland",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "hd76s256c",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/hd76s256c/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fhd%2F76%2Fs2%2F56%2Fc%2F00000001.jp2/info.json\"}",
   "layer_id_s": "hd76s256c",
-  "layer_slug_s": "princeton-hd76s256c",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:17Z",
-  "dc_title_s": "Pascaerte van Nieu Nederland : streckende vande Zuÿdt Revier tot de Noordt Revier en't Lange Eÿland",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "New Jersey"
-  ],
+  "dc_identifier_s": "hd76s256c",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Pascaerte van Nieu Nederland : streckende vande Zuy\u0308dt Revier tot de Noordt Revier en't Lange Ey\u0308land",
+  "layer_slug_s": "princeton-hd76s256c",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/hd76s256c/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/hd/76/s2/56/c/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "41.161155 -74.041969 41.161155 -71.8561857 40.5424147 -71.8561857 40.5424147 -74.041969 41.161155 -74.041969",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1675"
   ],
-  "georss_box_s": "40.5424147 -74.041969 41.161155 -71.8561857",
-  "georss_polygon_s": "41.161155 -74.041969 41.161155 -71.8561857 40.5424147 -71.8561857 40.5424147 -74.041969 41.161155 -74.041969",
   "solr_geom": "ENVELOPE(-74.041969, -71.8561857, 41.161155, 40.5424147)",
-  "solr_year_i": "1675"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "New Jersey"
+  ]
 }

@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1745",
   "uuid": "http://arks.princeton.edu/ark:/88435/70795b08c",
+  "dc_description_s": "Carte de la Terre Ferme, du Perou, du Bresil, et du pays des Amazones : dresse\u0301e sur les descriptions de Herrera, de Laet, et des P.P. d'Acun\u0303a, et M. Rodriguez et sur plusieurs re\u0301lations et observations posterieurs",
+  "georss_box_s": "-21.0000498 -61.0000502 -20.9999498 -60.9999502",
+  "layer_modified_dt": "2015-01-21T22:24:05Z",
   "dc_creator_sm": [
     "Buache, Philippe,"
   ],
-  "dc_description_s": "Carte de la Terre Ferme, du Perou, du Bresil, et du pays des Amazones : dressée sur les descriptions de Herrera, de Laet, et des P.P. d'Acuña, et M. Rodriguez et sur plusieurs rélations et observations posterieurs",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "70795b08c",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/70795b08c/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F70%2F79%2F5b%2F08%2Fc%2F00000001.jp2/info.json\"}",
   "layer_id_s": "70795b08c",
-  "layer_slug_s": "princeton-70795b08c",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:05Z",
-  "dc_title_s": "Carte de la Terre Ferme, du Perou, du Bresil, et du pays des Amazones : dressée sur les descriptions de Herrera, de Laet, et des P.P. d'Acuña, et M. Rodriguez et sur plusieurs rélations et observations posterieurs",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "South America"
-  ],
+  "dc_identifier_s": "70795b08c",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Carte de la Terre Ferme, du Perou, du Bresil, et du pays des Amazones : dresse\u0301e sur les descriptions de Herrera, de Laet, et des P.P. d'Acun\u0303a, et M. Rodriguez et sur plusieurs re\u0301lations et observations posterieurs",
+  "layer_slug_s": "princeton-70795b08c",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/70795b08c/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/70/79/5b/08/c/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "-20.9999498 -61.0000502 -20.9999498 -60.9999502 -21.0000498 -60.9999502 -21.0000498 -61.0000502 -20.9999498 -61.0000502",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1745"
   ],
-  "georss_box_s": "-21.0000498 -61.0000502 -20.9999498 -60.9999502",
-  "georss_polygon_s": "-20.9999498 -61.0000502 -20.9999498 -60.9999502 -21.0000498 -60.9999502 -21.0000498 -61.0000502 -20.9999498 -61.0000502",
   "solr_geom": "ENVELOPE(-61.0000502, -60.9999502, -20.9999498, -21.0000498)",
-  "solr_year_i": "1745"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "South America"
+  ]
 }

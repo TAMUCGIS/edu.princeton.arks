@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1770",
   "uuid": "http://arks.princeton.edu/ark:/88435/xw42nb446",
-  "dc_description_s": "Novissima et accuratissima delineatio Status Ecclesiæ et magni ducatus Hetruriæ",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "xw42nb446",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/xw42nb446/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fxw%2F42%2Fnb%2F44%2F6%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "xw42nb446",
-  "layer_slug_s": "princeton-xw42nb446",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Novissima et accuratissima delineatio Status Ecclesi\u00e6 et magni ducatus Hetruri\u00e6",
+  "georss_box_s": "40.9721902631 8.1153324438 46.1695120876 14.5320314375",
   "layer_modified_dt": "2015-01-25T02:06:21Z",
-  "dc_title_s": "Novissima et accuratissima delineatio Status Ecclesiæ et magni ducatus Hetruriæ",
+  "layer_id_s": "xw42nb446",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Papal States",
-    "Tuscany (Italy)"
-  ],
+  "dc_identifier_s": "xw42nb446",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Novissima et accuratissima delineatio Status Ecclesi\u00e6 et magni ducatus Hetruri\u00e6",
+  "layer_slug_s": "princeton-xw42nb446",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/xw42nb446/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/xw/42/nb/44/6/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "46.1695120876 8.1153324438 46.1695120876 14.5320314375 40.9721902631 14.5320314375 40.9721902631 8.1153324438 46.1695120876 8.1153324438",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1770"
   ],
-  "georss_box_s": "40.9721902631 8.1153324438 46.1695120876 14.5320314375",
-  "georss_polygon_s": "46.1695120876 8.1153324438 46.1695120876 14.5320314375 40.9721902631 14.5320314375 40.9721902631 8.1153324438 46.1695120876 8.1153324438",
   "solr_geom": "ENVELOPE(8.1153324438, 14.5320314375, 46.1695120876, 40.9721902631)",
-  "solr_year_i": "1770"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Papal States",
+    "Tuscany (Italy)"
+  ]
 }

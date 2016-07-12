@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1914",
   "uuid": "http://arks.princeton.edu/ark:/88435/df65vb37x",
   "dc_description_s": "The Rand-McNally new library atlas map of Italy",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "df65vb37x",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/df65vb37x/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fdf%2F65%2Fvb%2F37%2Fx%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "df65vb37x",
-  "layer_slug_s": "princeton-df65vb37x",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "36.0 7.0 47.0 19.0",
   "layer_modified_dt": "2015-01-23T17:48:38Z",
-  "dc_title_s": "The Rand-McNally new library atlas map of Italy",
+  "layer_id_s": "df65vb37x",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Italy"
-  ],
+  "dc_identifier_s": "df65vb37x",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "The Rand-McNally new library atlas map of Italy",
+  "layer_slug_s": "princeton-df65vb37x",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/df65vb37x/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/df/65/vb/37/x/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "47.0 7.0 47.0 19.0 36.0 19.0 36.0 7.0 47.0 7.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1914"
   ],
-  "georss_box_s": "36.0 7.0 47.0 19.0",
-  "georss_polygon_s": "47.0 7.0 47.0 19.0 36.0 19.0 36.0 7.0 47.0 7.0",
   "solr_geom": "ENVELOPE(7.0, 19.0, 47.0, 36.0)",
-  "solr_year_i": "1914"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Italy"
+  ]
 }

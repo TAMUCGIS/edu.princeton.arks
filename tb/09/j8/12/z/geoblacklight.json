@@ -1,20 +1,27 @@
 {
+  "solr_year_i": "1633",
   "uuid": "http://arks.princeton.edu/ark:/88435/tb09j812z",
+  "dc_description_s": "Novissima Arragoni\u00e6 regni tabula",
+  "georss_box_s": "40.1342597044 -9.503203125 43.9110632602 3.262984375",
+  "layer_modified_dt": "2015-01-21T22:24:12Z",
   "dc_creator_sm": [
     "Willis, Raymond S.,"
   ],
-  "dc_description_s": "Novissima Arragoniæ regni tabula",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "tb09j812z",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/tb09j812z/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ftb%2F09%2Fj8%2F12%2Fz%2F00000001.jp2/info.json\"}",
   "layer_id_s": "tb09j812z",
-  "layer_slug_s": "princeton-tb09j812z",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:12Z",
-  "dc_title_s": "Novissima Arragoniæ regni tabula",
   "dc_type_s": "Image",
+  "dc_identifier_s": "tb09j812z",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Novissima Arragoni\u00e6 regni tabula",
+  "layer_slug_s": "princeton-tb09j812z",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/tb09j812z/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/tb/09/j8/12/z/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "43.9110632602 -9.503203125 43.9110632602 3.262984375 40.1342597044 3.262984375 40.1342597044 -9.503203125 43.9110632602 -9.503203125",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1633"
+  ],
+  "solr_geom": "ENVELOPE(-9.503203125, 3.262984375, 43.9110632602, 40.1342597044)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Spain, Northern",
     "Alava (Spain : Province)",
@@ -23,12 +30,5 @@
     "Navarre (Spain)",
     "Soria (Spain : Province)",
     "Zaragoza (Spain : Province)"
-  ],
-  "dct_temporal_sm": [
-    "1633"
-  ],
-  "georss_box_s": "40.1342597044 -9.503203125 43.9110632602 3.262984375",
-  "georss_polygon_s": "43.9110632602 -9.503203125 43.9110632602 3.262984375 40.1342597044 3.262984375 40.1342597044 -9.503203125 43.9110632602 -9.503203125",
-  "solr_geom": "ENVELOPE(-9.503203125, 3.262984375, 43.9110632602, 40.1342597044)",
-  "solr_year_i": "1633"
+  ]
 }

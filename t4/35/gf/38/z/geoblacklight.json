@@ -2,7 +2,7 @@
   "dc_description_s": "This is a map of the city of Chichaoua, Morocco, shown at a 1:125,000. The map was created for use by War and Navy Department agencies during World War II.",
   "layer_modified_dt": "2015-01-11T17:42:17Z",
   "solr_geom": "ENVELOPE(-9.00, -8.50, 32.00, 31.50)",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ft4%2F35%2Fgf%2F38%2Fz%2F00000001.jp2/info.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/t435gf38z/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/t435gf38z/preview.jpg\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/t435gf38z/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/t4/35/gf/38/z/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/t435gf38z/preview.jpg\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/t435gf38z",
   "dct_provenance_s": "Princeton",
@@ -17,7 +17,7 @@
     "Facilities and Structures"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "1943",
+  "layer_slug_s": "princeton-t435gf38z",
   "dc_creator_sm": [
     "Army Map Service"
   ],
@@ -33,7 +33,7 @@
   "layer_id_s": "t435gf38z",
   "georss_box_s": "31.50 -9.00 32.00 -8.50",
   "dc_title_s": "Southern Morocco 1:125,000. A.M.S. P632. Chichaoua, sheet 3.",
-  "layer_slug_s": "princeton-t435gf38z",
+  "dct_issued_s": "1943",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

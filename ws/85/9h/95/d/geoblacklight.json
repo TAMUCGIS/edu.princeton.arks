@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/ws859h95d",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Elizabeth",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "ws859h95d",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fws%2F85%2F9h%2F95%2Fd%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "ws859h95d",
-  "layer_slug_s": "princeton-ws859h95d",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:09:36Z",
+  "solr_geom": "ENVELOPE(-74.254216, -74.138869, 40.690428, 40.634165)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ws/85/9h/95/d/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/ws859h95d",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Elizabeth & Elizabethport, New Jersey (Sheet 7).",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1889"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "ws859h95d",
+  "georss_polygon_s": "40.690428 -74.254216 40.690428 -74.138869 40.634165 -74.138869 40.634165 -74.254216 40.690428 -74.254216",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1889",
   "dct_spatial_sm": [
     "New Jersey",
     "Elizabeth"
   ],
-  "dct_temporal_sm": [
-    "1889"
-  ],
+  "layer_id_s": "ws859h95d",
   "georss_box_s": "40.634165 -74.254216 40.690428 -74.138869",
-  "georss_polygon_s": "40.690428 -74.254216 40.690428 -74.138869 40.634165 -74.138869 40.634165 -74.254216 40.690428 -74.254216",
-  "solr_geom": "ENVELOPE(-74.254216, -74.138869, 40.690428, 40.634165)",
-  "solr_year_i": "1889"
+  "dc_title_s": "Elizabeth & Elizabethport, New Jersey (Sheet 7).",
+  "layer_slug_s": "princeton-ws859h95d",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

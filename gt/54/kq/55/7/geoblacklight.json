@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1582",
   "uuid": "http://arks.princeton.edu/ark:/88435/gt54kq557",
+  "dc_description_s": "Senae et adiacentium locorum descriptio",
+  "georss_box_s": "43.2804476 11.2917587 43.3515692 11.3635397",
+  "layer_modified_dt": "2015-01-25T02:06:20Z",
   "dc_creator_sm": [
     "Franco, Giacomo,"
   ],
-  "dc_description_s": "Senae et adiacentium locorum descriptio",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "gt54kq557",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/gt54kq557/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fgt%2F54%2Fkq%2F55%2F7%2F00000001.jp2/info.json\"}",
   "layer_id_s": "gt54kq557",
-  "layer_slug_s": "princeton-gt54kq557",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:20Z",
-  "dc_title_s": "Senae et adiacentium locorum descriptio",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Siena (Italy : Province)"
-  ],
+  "dc_identifier_s": "gt54kq557",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Senae et adiacentium locorum descriptio",
+  "layer_slug_s": "princeton-gt54kq557",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/gt54kq557/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/gt/54/kq/55/7/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "43.3515692 11.2917587 43.3515692 11.3635397 43.2804476 11.3635397 43.2804476 11.2917587 43.3515692 11.2917587",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1582"
   ],
-  "georss_box_s": "43.2804476 11.2917587 43.3515692 11.3635397",
-  "georss_polygon_s": "43.3515692 11.2917587 43.3515692 11.3635397 43.2804476 11.3635397 43.2804476 11.2917587 43.3515692 11.2917587",
   "solr_geom": "ENVELOPE(11.2917587, 11.3635397, 43.3515692, 43.2804476)",
-  "solr_year_i": "1582"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Siena (Italy : Province)"
+  ]
 }

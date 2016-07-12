@@ -2,7 +2,7 @@
   "dc_description_s": "This is a map of East Asia and Oceania, shown at a 1:18,000,000 scale. The map was created by the Central Intelligence Agency.",
   "layer_modified_dt": "2015-01-11T17:42:52Z",
   "solr_geom": "ENVELOPE(66, -122, 64, -52)",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fsx%2F61%2Fdn%2F82%2Fp%2F00000001.jp2/info.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/sx61dn82p/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/sx61dn82p/preview.jpg\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/sx61dn82p/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/sx/61/dn/82/p/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/sx61dn82p/preview.jpg\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/sx61dn82p",
   "dct_provenance_s": "Princeton",
@@ -10,7 +10,7 @@
     "Administrative and Political Boundaries"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "1992",
+  "layer_slug_s": "princeton-sx61dn82p",
   "dc_creator_sm": [
     "Central Intelligence Agency"
   ],
@@ -28,7 +28,7 @@
   "layer_id_s": "sx61dn82p",
   "georss_box_s": "-52 66 64 -122",
   "dc_title_s": "East Asia and Oceania, 1992",
-  "layer_slug_s": "princeton-sx61dn82p",
+  "dct_issued_s": "1992",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

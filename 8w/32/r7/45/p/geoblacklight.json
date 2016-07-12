@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1598",
   "uuid": "http://arks.princeton.edu/ark:/88435/8w32r745p",
+  "dc_description_s": "Archipelagi insularum aliquot descrip.",
+  "georss_box_s": "35.4658867461 22.5145125438 40.990369365 27.4698546312",
+  "layer_modified_dt": "2015-01-21T22:23:46Z",
   "dc_creator_sm": [
     "Ortelius, Abraham,",
     "Anderson, David J. ,"
   ],
-  "dc_description_s": "Archipelagi insularum aliquot descrip.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "8w32r745p",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/8w32r745p/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F8w%2F32%2Fr7%2F45%2Fp%2F00000001.jp2/info.json\"}",
   "layer_id_s": "8w32r745p",
-  "layer_slug_s": "princeton-8w32r745p",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:46Z",
-  "dc_title_s": "Archipelagi insularum aliquot descrip.",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Aegean Islands (Greece and Turkey)",
-    "Crete (Greece)"
-  ],
+  "dc_identifier_s": "8w32r745p",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Archipelagi insularum aliquot descrip.",
+  "layer_slug_s": "princeton-8w32r745p",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/8w32r745p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/8w/32/r7/45/p/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.990369365 22.5145125438 40.990369365 27.4698546312 35.4658867461 27.4698546312 35.4658867461 22.5145125438 40.990369365 22.5145125438",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1598"
   ],
-  "georss_box_s": "35.4658867461 22.5145125438 40.990369365 27.4698546312",
-  "georss_polygon_s": "40.990369365 22.5145125438 40.990369365 27.4698546312 35.4658867461 27.4698546312 35.4658867461 22.5145125438 40.990369365 22.5145125438",
   "solr_geom": "ENVELOPE(22.5145125438, 27.4698546312, 40.990369365, 35.4658867461)",
-  "solr_year_i": "1598"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Aegean Islands (Greece and Turkey)",
+    "Crete (Greece)"
+  ]
 }

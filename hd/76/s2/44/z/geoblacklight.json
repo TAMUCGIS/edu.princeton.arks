@@ -1,31 +1,31 @@
 {
+  "solr_year_i": "1856",
   "uuid": "http://arks.princeton.edu/ark:/88435/hd76s244z",
+  "dc_description_s": "Texas : California",
+  "georss_box_s": "26.0 -106.0 36.0 -94.0",
+  "layer_modified_dt": "2015-01-19T22:37:00Z",
   "dc_creator_sm": [
     "Cornell, S. S.",
     "Wells, E.",
     "Fisher, W. H.,"
   ],
-  "dc_description_s": "Texas : California",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "hd76s244z",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/hd76s244z/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fhd%2F76%2Fs2%2F44%2Fz%2F00000001.jp2/info.json\"}",
   "layer_id_s": "hd76s244z",
-  "layer_slug_s": "princeton-hd76s244z",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:00Z",
-  "dc_title_s": "Texas : California",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Texas",
-    "California"
-  ],
+  "dc_identifier_s": "hd76s244z",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Texas : California",
+  "layer_slug_s": "princeton-hd76s244z",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/hd76s244z/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/hd/76/s2/44/z/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "36.0 -106.0 36.0 -94.0 26.0 -94.0 26.0 -106.0 36.0 -106.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1856"
   ],
-  "georss_box_s": "26.0 -106.0 36.0 -94.0",
-  "georss_polygon_s": "36.0 -106.0 36.0 -94.0 26.0 -94.0 26.0 -106.0 36.0 -106.0",
   "solr_geom": "ENVELOPE(-106.0, -94.0, 36.0, 26.0)",
-  "solr_year_i": "1856"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Texas",
+    "California"
+  ]
 }

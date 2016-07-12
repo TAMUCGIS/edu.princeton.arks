@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1759",
   "uuid": "http://arks.princeton.edu/ark:/88435/rr1720570",
+  "dc_description_s": "Nova Anglia septentrionali Americ\u00e6 implantata Anglorumque coloniis florentissima geographice exhibita",
+  "georss_box_s": "40.950943 -73.727775 47.459686 -66.8850751",
+  "layer_modified_dt": "2015-01-25T02:06:10Z",
   "dc_creator_sm": [
     "Fox, N. B.,"
   ],
-  "dc_description_s": "Nova Anglia septentrionali Americæ implantata Anglorumque coloniis florentissima geographice exhibita",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "rr1720570",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/rr1720570/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Frr%2F17%2F20%2F57%2F0%2F00000001.jp2/info.json\"}",
   "layer_id_s": "rr1720570",
-  "layer_slug_s": "princeton-rr1720570",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:10Z",
-  "dc_title_s": "Nova Anglia septentrionali Americæ implantata Anglorumque coloniis florentissima geographice exhibita",
   "dc_type_s": "Image",
+  "dc_identifier_s": "rr1720570",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Nova Anglia septentrionali Americ\u00e6 implantata Anglorumque coloniis florentissima geographice exhibita",
+  "layer_slug_s": "princeton-rr1720570",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/rr1720570/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/rr/17/20/57/0/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "47.459686 -73.727775 47.459686 -66.8850751 40.950943 -66.8850751 40.950943 -73.727775 47.459686 -73.727775",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1759"
+  ],
+  "solr_geom": "ENVELOPE(-73.727775, -66.8850751, 47.459686, 40.950943)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "New England",
     "New Jersey",
     "New York (State)"
-  ],
-  "dct_temporal_sm": [
-    "1759"
-  ],
-  "georss_box_s": "40.950943 -73.727775 47.459686 -66.8850751",
-  "georss_polygon_s": "47.459686 -73.727775 47.459686 -66.8850751 40.950943 -66.8850751 40.950943 -73.727775 47.459686 -73.727775",
-  "solr_geom": "ENVELOPE(-73.727775, -66.8850751, 47.459686, 40.950943)",
-  "solr_year_i": "1759"
+  ]
 }

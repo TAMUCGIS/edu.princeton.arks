@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1900",
   "uuid": "http://arks.princeton.edu/ark:/88435/8049g751q",
   "dc_description_s": "Planta da cidade do Recife",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "8049g751q",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/8049g751q/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F80%2F49%2Fg7%2F51%2Fq%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "8049g751q",
-  "layer_slug_s": "princeton-8049g751q",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "-8.1551482 -35.0186477 -7.9263583 -34.8585524",
   "layer_modified_dt": "2015-01-21T22:24:09Z",
-  "dc_title_s": "Planta da cidade do Recife",
+  "layer_id_s": "8049g751q",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Recife (Brazil)"
-  ],
+  "dc_identifier_s": "8049g751q",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Planta da cidade do Recife",
+  "layer_slug_s": "princeton-8049g751q",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/8049g751q/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/80/49/g7/51/q/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "-7.9263583 -35.0186477 -7.9263583 -34.8585524 -8.1551482 -34.8585524 -8.1551482 -35.0186477 -7.9263583 -35.0186477",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1900"
   ],
-  "georss_box_s": "-8.1551482 -35.0186477 -7.9263583 -34.8585524",
-  "georss_polygon_s": "-7.9263583 -35.0186477 -7.9263583 -34.8585524 -8.1551482 -34.8585524 -8.1551482 -35.0186477 -7.9263583 -35.0186477",
   "solr_geom": "ENVELOPE(-35.0186477, -34.8585524, -7.9263583, -8.1551482)",
-  "solr_year_i": "1900"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Recife (Brazil)"
+  ]
 }

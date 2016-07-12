@@ -1,30 +1,28 @@
 {
+  "solr_year_i": "1905",
   "uuid": "http://arks.princeton.edu/ark:/88435/7h149s417",
+  "dc_description_s": "Part of Princeton",
+  "georss_box_s": "40.3092744 -74.6992958 40.3892744 -74.6192958",
+  "layer_modified_dt": "2015-01-25T02:06:20Z",
   "dc_creator_sm": [
     "Lathrop, J. M.",
     "Cleveland, Grover,",
     "Cleveland, Thomas,"
   ],
-  "dc_description_s": "Part of Princeton",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "7h149s417",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/7h149s417/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F7h%2F14%2F9s%2F41%2F7%2F00000001.jp2/info.json\"}",
   "layer_id_s": "7h149s417",
-  "layer_slug_s": "princeton-7h149s417",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:20Z",
-  "dc_title_s": "Part of Princeton",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "7h149s417",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Part of Princeton",
+  "layer_slug_s": "princeton-7h149s417",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/7h149s417/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/7h/14/9s/41/7/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.3892744 -74.6992958 40.3892744 -74.6192958 40.3092744 -74.6192958 40.3092744 -74.6992958 40.3892744 -74.6992958",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1905"
   ],
-  "georss_box_s": "40.3092744 -74.6992958 40.3892744 -74.6192958",
-  "georss_polygon_s": "40.3892744 -74.6992958 40.3892744 -74.6192958 40.3092744 -74.6192958 40.3092744 -74.6992958 40.3892744 -74.6992958",
   "solr_geom": "ENVELOPE(-74.6992958, -74.6192958, 40.3892744, 40.3092744)",
-  "solr_year_i": "1905"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

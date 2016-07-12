@@ -2,7 +2,7 @@
   "dc_description_s": "This is a map of the city of Kairouan, Tunisia, shown at a 1:10,000 scale. The map was created for use by War and Navy Department agencies during World War II.",
   "layer_modified_dt": "2015-01-11T17:43:08Z",
   "solr_geom": "ENVELOPE(10.0833, 10.100, 35.6833, 35.6667)",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fbk%2F12%2F8c%2F49%2Fb%2F00000001.jp2/info.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/bk128c49b/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/bk128c49b/preview.jpg\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/bk128c49b/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/bk/12/8c/49/b/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/bk128c49b/preview.jpg\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/bk128c49b",
   "dct_provenance_s": "Princeton",
@@ -17,7 +17,7 @@
     "Facilities and Structures"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "1943",
+  "layer_slug_s": "princeton-bk128c49b",
   "dc_creator_sm": [
     "Army Map Service"
   ],
@@ -34,7 +34,7 @@
   "layer_id_s": "bk128c49b",
   "georss_box_s": "35.6667 10.0833 35.6833 10.100",
   "dc_title_s": "Tunisia 1:10,000 Kairouan city plan. G.S.G.S. 4274. ",
-  "layer_slug_s": "princeton-bk128c49b",
+  "dct_issued_s": "1943",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1843",
   "uuid": "http://arks.princeton.edu/ark:/88435/rb68xf31n",
   "dc_description_s": "Crooked Island anchorage",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "rb68xf31n",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/rb68xf31n/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Frb%2F68%2Fxf%2F31%2Fn%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "rb68xf31n",
-  "layer_slug_s": "princeton-rb68xf31n",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "22.486 -74.5663434 23.302 -73.3842347",
   "layer_modified_dt": "2015-01-21T22:24:08Z",
-  "dc_title_s": "Crooked Island anchorage",
+  "layer_id_s": "rb68xf31n",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Crooked Island (Bahamas)"
-  ],
+  "dc_identifier_s": "rb68xf31n",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Crooked Island anchorage",
+  "layer_slug_s": "princeton-rb68xf31n",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/rb68xf31n/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/rb/68/xf/31/n/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "23.302 -74.5663434 23.302 -73.3842347 22.486 -73.3842347 22.486 -74.5663434 23.302 -74.5663434",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1843"
   ],
-  "georss_box_s": "22.486 -74.5663434 23.302 -73.3842347",
-  "georss_polygon_s": "23.302 -74.5663434 23.302 -73.3842347 22.486 -73.3842347 22.486 -74.5663434 23.302 -74.5663434",
   "solr_geom": "ENVELOPE(-74.5663434, -73.3842347, 23.302, 22.486)",
-  "solr_year_i": "1843"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Crooked Island (Bahamas)"
+  ]
 }

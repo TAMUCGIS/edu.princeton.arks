@@ -2,7 +2,7 @@
   "dc_description_s": "This is a map of the city of Augusta, Italy, shown at a 1:10,000 scale. The map was created for use by War and Navy Department agencies during World War II.",
   "layer_modified_dt": "2015-01-11T17:43:20Z",
   "solr_geom": "ENVELOPE(15.183, 15.233, 37.250, 37.200)",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fc2%2F47%2Fdt%2F75%2Fd%2F00000001.jp2/info.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/c247dt75d/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/c247dt75d/preview.jpg\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/c247dt75d/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/c2/47/dt/75/d/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/c247dt75d/preview.jpg\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/c247dt75d",
   "dct_provenance_s": "Princeton",
@@ -17,7 +17,7 @@
     "Facilities and Structures"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "1943",
+  "layer_slug_s": "princeton-c247dt75d",
   "dc_creator_sm": [
     "Army Map Service"
   ],
@@ -35,7 +35,7 @@
   "layer_id_s": "c247dt75d",
   "georss_box_s": "37.200 15.183 37.250 15.233",
   "dc_title_s": "Sicily 1:10,000. Augusta. Provisional G.S.G.S.4379.",
-  "layer_slug_s": "princeton-c247dt75d",
+  "dct_issued_s": "1943",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

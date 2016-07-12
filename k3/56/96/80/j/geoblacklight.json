@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1889",
   "uuid": "http://arks.princeton.edu/ark:/88435/k3569680j",
+  "dc_description_s": "Imperia Persarum et Macedonum in usum scholarum descripta",
+  "georss_box_s": "35.12876 46.493672 55.441984 87.315415",
+  "layer_modified_dt": "2015-01-25T02:06:14Z",
   "dc_creator_sm": [
     "Reimer, Dietrich,"
   ],
-  "dc_description_s": "Imperia Persarum et Macedonum in usum scholarum descripta",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "k3569680j",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/k3569680j/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fk3%2F56%2F96%2F80%2F00000001.jp2/info.json\"}",
   "layer_id_s": "k3569680j",
-  "layer_slug_s": "princeton-k3569680j",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:14Z",
-  "dc_title_s": "Imperia Persarum et Macedonum in usum scholarum descripta",
   "dc_type_s": "Image",
+  "dc_identifier_s": "k3569680j",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Imperia Persarum et Macedonum in usum scholarum descripta",
+  "layer_slug_s": "princeton-k3569680j",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/k3569680j/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/k3/56/96/80/j/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "55.441984 46.493672 55.441984 87.315415 35.12876 87.315415 35.12876 46.493672 55.441984 46.493672",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1889"
+  ],
+  "solr_geom": "ENVELOPE(46.493672, 87.315415, 55.441984, 35.12876)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Asia, Central",
     "Iran",
     "Turkey"
-  ],
-  "dct_temporal_sm": [
-    "1889"
-  ],
-  "georss_box_s": "35.12876 46.493672 55.441984 87.315415",
-  "georss_polygon_s": "55.441984 46.493672 55.441984 87.315415 35.12876 87.315415 35.12876 46.493672 55.441984 46.493672",
-  "solr_geom": "ENVELOPE(46.493672, 87.315415, 55.441984, 35.12876)",
-  "solr_year_i": "1889"
+  ]
 }

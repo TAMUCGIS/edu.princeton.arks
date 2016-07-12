@@ -1,21 +1,28 @@
 {
+  "solr_year_i": "1775",
   "uuid": "http://arks.princeton.edu/ark:/88435/3t945s61m",
+  "dc_description_s": "The Russian discoveries : from the map published by the Imperial Academy of St. Petersburg.",
+  "georss_box_s": "51.0228712 -179.9999999 71.6048217 180",
+  "layer_modified_dt": "2015-01-21T22:23:45Z",
   "dc_creator_sm": [
     "Sayer, Robert,",
     "Miller, Gerard Fridrikh,"
   ],
-  "dc_description_s": "The Russian discoveries : from the map published by the Imperial Academy of St. Petersburg.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "3t945s61m",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/3t945s61m/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F3t%2F94%2F5s%2F61%2Fm%2F00000001.jp2/info.json\"}",
   "layer_id_s": "3t945s61m",
-  "layer_slug_s": "princeton-3t945s61m",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:45Z",
-  "dc_title_s": "The Russian discoveries : from the map published by the Imperial Academy of St. Petersburg.",
   "dc_type_s": "Image",
+  "dc_identifier_s": "3t945s61m",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "The Russian discoveries : from the map published by the Imperial Academy of St. Petersburg.",
+  "layer_slug_s": "princeton-3t945s61m",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/3t945s61m/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/3t/94/5s/61/m/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "71.6048217 -179.9999999 71.6048217 180 51.0228712 180 51.0228712 -179.9999999 71.6048217 -179.9999999",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1775"
+  ],
+  "solr_geom": "ENVELOPE(-179.9999999, 180, 71.6048217, 51.0228712)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Alaska",
     "Bering Sea",
@@ -23,12 +30,5 @@
     "Pacific Coast (Alaska)",
     "North Pacific Ocean",
     "North America"
-  ],
-  "dct_temporal_sm": [
-    "1775"
-  ],
-  "georss_box_s": "51.0228712 -179.9999999 71.6048217 180",
-  "georss_polygon_s": "71.6048217 -179.9999999 71.6048217 180 51.0228712 180 51.0228712 -179.9999999 71.6048217 -179.9999999",
-  "solr_geom": "ENVELOPE(-179.9999999, 180, 71.6048217, 51.0228712)",
-  "solr_year_i": "1775"
+  ]
 }

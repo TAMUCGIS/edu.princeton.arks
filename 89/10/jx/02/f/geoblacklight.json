@@ -1,33 +1,33 @@
 {
+  "solr_year_i": "1846",
   "uuid": "http://arks.princeton.edu/ark:/88435/8910jx02f",
+  "dc_description_s": "Plan de Paris et ses fortifications",
+  "georss_box_s": "48.8155755 2.224122 48.902156 2.4697602",
+  "layer_modified_dt": "2015-01-21T22:24:04Z",
   "dc_creator_sm": [
     "Logerot, A.",
     "Maillard.",
     "Toussaint, A.",
     "Dyonnet, Ch.",
-    "Thénot, J. P.",
+    "The\u0301not, J. P.",
     "Chamouin, Jean Baptiste Marie,"
   ],
-  "dc_description_s": "Plan de Paris et ses fortifications",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "8910jx02f",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/8910jx02f/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F89%2F10%2Fjx%2F02%2Ff%2F00000001.jp2/info.json\"}",
   "layer_id_s": "8910jx02f",
-  "layer_slug_s": "princeton-8910jx02f",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:04Z",
-  "dc_title_s": "Plan de Paris et ses fortifications",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Paris (France)"
-  ],
+  "dc_identifier_s": "8910jx02f",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Plan de Paris et ses fortifications",
+  "layer_slug_s": "princeton-8910jx02f",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/8910jx02f/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/89/10/jx/02/f/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "48.902156 2.224122 48.902156 2.4697602 48.8155755 2.4697602 48.8155755 2.224122 48.902156 2.224122",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1846"
   ],
-  "georss_box_s": "48.8155755 2.224122 48.902156 2.4697602",
-  "georss_polygon_s": "48.902156 2.224122 48.902156 2.4697602 48.8155755 2.4697602 48.8155755 2.224122 48.902156 2.224122",
   "solr_geom": "ENVELOPE(2.224122, 2.4697602, 48.902156, 48.8155755)",
-  "solr_year_i": "1846"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Paris (France)"
+  ]
 }

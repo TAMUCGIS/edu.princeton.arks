@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1450",
   "uuid": "http://arks.princeton.edu/ark:/88435/cr56n341k",
+  "dc_description_s": "Portolani : carta nautica C.G.A. 5b (Maiorca, 1450 ca)",
+  "georss_box_s": "35.8076804 29.0876878 38.5861136 37.7518928",
+  "layer_modified_dt": "2015-01-21T22:24:00Z",
   "dc_creator_sm": [
     "Bini, Roberto."
   ],
-  "dc_description_s": "Portolani : carta nautica C.G.A. 5b (Maiorca, 1450 ca)",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "cr56n341k",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/cr56n341k/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fcr%2F56%2Fn3%2F41%2Fk%2F00000001.jp2/info.json\"}",
   "layer_id_s": "cr56n341k",
-  "layer_slug_s": "princeton-cr56n341k",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:00Z",
-  "dc_title_s": "Portolani : carta nautica C.G.A. 5b (Maiorca, 1450 ca)",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Mediterranean Region",
-    "Atlantic Coast (Europe)"
-  ],
+  "dc_identifier_s": "cr56n341k",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Portolani : carta nautica C.G.A. 5b (Maiorca, 1450 ca)",
+  "layer_slug_s": "princeton-cr56n341k",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/cr56n341k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/cr/56/n3/41/k/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "38.5861136 29.0876878 38.5861136 37.7518928 35.8076804 37.7518928 35.8076804 29.0876878 38.5861136 29.0876878",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1450"
   ],
-  "georss_box_s": "35.8076804 29.0876878 38.5861136 37.7518928",
-  "georss_polygon_s": "38.5861136 29.0876878 38.5861136 37.7518928 35.8076804 37.7518928 35.8076804 29.0876878 38.5861136 29.0876878",
   "solr_geom": "ENVELOPE(29.0876878, 37.7518928, 38.5861136, 35.8076804)",
-  "solr_year_i": "1450"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Mediterranean Region",
+    "Atlantic Coast (Europe)"
+  ]
 }

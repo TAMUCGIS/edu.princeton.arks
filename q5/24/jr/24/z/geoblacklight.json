@@ -1,5 +1,9 @@
 {
+  "solr_year_i": "1868",
   "uuid": "http://arks.princeton.edu/ark:/88435/q524jr24z",
+  "dc_description_s": "The East African lakes, shewing their relation to the source of the Nile",
+  "georss_box_s": "-19.40000 25.64286 5.66667 43.00000",
+  "layer_modified_dt": "2015-01-19T22:37:21Z",
   "dc_creator_sm": [
     "Findlay, Alexander George,",
     "Livingstone, David,",
@@ -8,27 +12,23 @@
     "Grant, James Augustus,",
     "Burton, Richard Francis,"
   ],
-  "dc_description_s": "The East African lakes, shewing their relation to the source of the Nile",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "q524jr24z",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/q524jr24z/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fq5%2F24%2Fjr%2F24%2Fz%2F00000001.jp2/info.json\"}",
   "layer_id_s": "q524jr24z",
-  "layer_slug_s": "princeton-q524jr24z",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:21Z",
-  "dc_title_s": "The East African lakes, shewing their relation to the source of the Nile",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Nile River",
-    "Great Lakes (Africa)"
-  ],
+  "dc_identifier_s": "q524jr24z",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "The East African lakes, shewing their relation to the source of the Nile",
+  "layer_slug_s": "princeton-q524jr24z",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/q524jr24z/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/q5/24/jr/24/z/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "5.66667 25.64286 5.66667 43.00000 -19.40000 43.00000 -19.40000 25.64286 5.66667 25.64286",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1868"
   ],
-  "georss_box_s": "-19.40000 25.64286 5.66667 43.00000",
-  "georss_polygon_s": "5.66667 25.64286 5.66667 43.00000 -19.40000 43.00000 -19.40000 25.64286 5.66667 25.64286",
   "solr_geom": "ENVELOPE(25.64286, 43.00000, 5.66667, -19.40000)",
-  "solr_year_i": "1868"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Nile River",
+    "Great Lakes (Africa)"
+  ]
 }

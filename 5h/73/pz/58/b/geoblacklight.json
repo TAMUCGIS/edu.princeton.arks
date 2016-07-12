@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1912",
   "uuid": "http://arks.princeton.edu/ark:/88435/5h73pz58b",
-  "dc_description_s": "Plan der Stadt  Eisenach und ihrer nächsten Umgebung",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "5h73pz58b",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/5h73pz58b/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F5h%2F73%2Fpz%2F58%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "5h73pz58b",
-  "layer_slug_s": "princeton-5h73pz58b",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Plan der Stadt  Eisenach und ihrer na\u0308chsten Umgebung",
+  "georss_box_s": "50.9433 10.2766999 51.0233 10.3566999",
   "layer_modified_dt": "2015-01-21T22:24:27Z",
-  "dc_title_s": "Plan der Stadt  Eisenach und ihrer nächsten Umgebung",
+  "layer_id_s": "5h73pz58b",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Eisenach (Germany)",
-    "Thuringia (Germany)"
-  ],
+  "dc_identifier_s": "5h73pz58b",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Plan der Stadt  Eisenach und ihrer na\u0308chsten Umgebung",
+  "layer_slug_s": "princeton-5h73pz58b",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/5h73pz58b/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/5h/73/pz/58/b/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "51.0233 10.2766999 51.0233 10.3566999 50.9433 10.3566999 50.9433 10.2766999 51.0233 10.2766999",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1912"
   ],
-  "georss_box_s": "50.9433 10.2766999 51.0233 10.3566999",
-  "georss_polygon_s": "51.0233 10.2766999 51.0233 10.3566999 50.9433 10.3566999 50.9433 10.2766999 51.0233 10.2766999",
   "solr_geom": "ENVELOPE(10.2766999, 10.3566999, 51.0233, 50.9433)",
-  "solr_year_i": "1912"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Eisenach (Germany)",
+    "Thuringia (Germany)"
+  ]
 }

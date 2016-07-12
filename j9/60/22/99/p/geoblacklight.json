@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1781",
   "uuid": "http://arks.princeton.edu/ark:/88435/j9602299p",
   "dc_description_s": "Carte de la Pensylvanie et du Nouveau Jersey",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "j9602299p",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/j9602299p/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F9%2F60%2F22%2F99%2Fp%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "j9602299p",
-  "layer_slug_s": "princeton-j9602299p",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "39.7197662 -80.5210832 42.5146891 -74.6895019",
   "layer_modified_dt": "2015-01-21T22:23:57Z",
-  "dc_title_s": "Carte de la Pensylvanie et du Nouveau Jersey",
+  "layer_id_s": "j9602299p",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Pennsylvania",
-    "New Jersey"
-  ],
+  "dc_identifier_s": "j9602299p",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Carte de la Pensylvanie et du Nouveau Jersey",
+  "layer_slug_s": "princeton-j9602299p",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/j9602299p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/j9/60/22/99/p/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "42.5146891 -80.5210832 42.5146891 -74.6895019 39.7197662 -74.6895019 39.7197662 -80.5210832 42.5146891 -80.5210832",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1781"
   ],
-  "georss_box_s": "39.7197662 -80.5210832 42.5146891 -74.6895019",
-  "georss_polygon_s": "42.5146891 -80.5210832 42.5146891 -74.6895019 39.7197662 -74.6895019 39.7197662 -80.5210832 42.5146891 -80.5210832",
   "solr_geom": "ENVELOPE(-80.5210832, -74.6895019, 42.5146891, 39.7197662)",
-  "solr_year_i": "1781"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Pennsylvania",
+    "New Jersey"
+  ]
 }

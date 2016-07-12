@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1900",
   "uuid": "http://arks.princeton.edu/ark:/88435/1g05ff15h",
   "dc_description_s": "Central Italy",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "1g05ff15h",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/1g05ff15h/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F1g%2F05%2Fff%2F15%2Fh%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "1g05ff15h",
-  "layer_slug_s": "princeton-1g05ff15h",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "35.4929201 6.6267201 47.092 18.5205015",
   "layer_modified_dt": "2015-01-25T02:06:21Z",
-  "dc_title_s": "Central Italy",
+  "layer_id_s": "1g05ff15h",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Italy, Central"
-  ],
+  "dc_identifier_s": "1g05ff15h",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Central Italy",
+  "layer_slug_s": "princeton-1g05ff15h",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/1g05ff15h/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/1g/05/ff/15/h/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "47.092 6.6267201 47.092 18.5205015 35.4929201 18.5205015 35.4929201 6.6267201 47.092 6.6267201",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1900"
   ],
-  "georss_box_s": "35.4929201 6.6267201 47.092 18.5205015",
-  "georss_polygon_s": "47.092 6.6267201 47.092 18.5205015 35.4929201 18.5205015 35.4929201 6.6267201 47.092 6.6267201",
   "solr_geom": "ENVELOPE(6.6267201, 18.5205015, 47.092, 35.4929201)",
-  "solr_year_i": "1900"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Italy, Central"
+  ]
 }

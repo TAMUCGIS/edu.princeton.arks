@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1917",
   "uuid": "http://arks.princeton.edu/ark:/88435/6m311r13k",
+  "dc_description_s": "Virginia: Mathews Quadrangle",
+  "georss_box_s": "37.25000 -76.50000 37.50000 -76.25000",
+  "layer_modified_dt": "2015-01-19T22:36:42Z",
   "dc_creator_sm": [
     "Pike, Albert.",
     "Roberts, L. B."
   ],
-  "dc_description_s": "Virginia: Mathews Quadrangle",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "6m311r13k",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/6m311r13k/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F6m%2F31%2F1r%2F13%2Fk%2F00000001.jp2/info.json\"}",
   "layer_id_s": "6m311r13k",
-  "layer_slug_s": "princeton-6m311r13k",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:36:42Z",
-  "dc_title_s": "Virginia: Mathews Quadrangle",
   "dc_type_s": "Image",
+  "dc_identifier_s": "6m311r13k",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Virginia: Mathews Quadrangle",
+  "layer_slug_s": "princeton-6m311r13k",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/6m311r13k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/6m/31/1r/13/k/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "37.50000 -76.50000 37.50000 -76.25000 37.25000 -76.25000 37.25000 -76.50000 37.50000 -76.50000",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1917"
   ],
-  "georss_box_s": "37.25000 -76.50000 37.50000 -76.25000",
-  "georss_polygon_s": "37.50000 -76.50000 37.50000 -76.25000 37.25000 -76.25000 37.25000 -76.50000 37.50000 -76.50000",
   "solr_geom": "ENVELOPE(-76.50000, -76.25000, 37.50000, 37.25000)",
-  "solr_year_i": "1917"
+  "dc_rights_s": "Public"
 }

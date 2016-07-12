@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1889",
   "uuid": "http://arks.princeton.edu/ark:/88435/h989r5736",
+  "dc_description_s": "Kaiserslautern",
+  "georss_box_s": "49.2832174 7.6089951 49.6032174 7.9289951",
+  "layer_modified_dt": "2015-01-21T22:24:28Z",
   "dc_creator_sm": [
     "Woerl, Leo,"
   ],
-  "dc_description_s": "Kaiserslautern",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "h989r5736",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/h989r5736/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fh9%2F89%2Fr5%2F73%2F6%2F00000001.jp2/info.json\"}",
   "layer_id_s": "h989r5736",
-  "layer_slug_s": "princeton-h989r5736",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:28Z",
-  "dc_title_s": "Kaiserslautern",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Kaiserslautern (Germany)",
-    "Rhineland-Palatinate (Germany)"
-  ],
+  "dc_identifier_s": "h989r5736",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Kaiserslautern",
+  "layer_slug_s": "princeton-h989r5736",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/h989r5736/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/h9/89/r5/73/6/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "49.6032174 7.6089951 49.6032174 7.9289951 49.2832174 7.9289951 49.2832174 7.6089951 49.6032174 7.6089951",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1889"
   ],
-  "georss_box_s": "49.2832174 7.6089951 49.6032174 7.9289951",
-  "georss_polygon_s": "49.6032174 7.6089951 49.6032174 7.9289951 49.2832174 7.9289951 49.2832174 7.6089951 49.6032174 7.6089951",
   "solr_geom": "ENVELOPE(7.6089951, 7.9289951, 49.6032174, 49.2832174)",
-  "solr_year_i": "1889"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Kaiserslautern (Germany)",
+    "Rhineland-Palatinate (Germany)"
+  ]
 }

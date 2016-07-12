@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1867",
   "uuid": "http://arks.princeton.edu/ark:/88435/ht24wm93j",
+  "dc_description_s": "Tertiary and recent formations of southern New Jersey",
+  "georss_box_s": "38.7911303 -75.5633859 41.357423 -73.8939789",
+  "layer_modified_dt": "2015-01-21T22:24:23Z",
   "dc_creator_sm": [
     "Cook, George Hammell,",
     "Hopkins, Griffith Morgan,",
     "Smock, John C."
   ],
-  "dc_description_s": "Tertiary and recent formations of southern New Jersey",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "ht24wm93j",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/ht24wm93j/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fht%2F24%2Fwm%2F93%2F00000001.jp2/info.json\"}",
   "layer_id_s": "ht24wm93j",
-  "layer_slug_s": "princeton-ht24wm93j",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:23Z",
-  "dc_title_s": "Tertiary and recent formations of southern New Jersey",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "New Jersey"
-  ],
+  "dc_identifier_s": "ht24wm93j",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Tertiary and recent formations of southern New Jersey",
+  "layer_slug_s": "princeton-ht24wm93j",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/ht24wm93j/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ht/24/wm/93/j/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "41.357423 -75.5633859 41.357423 -73.8939789 38.7911303 -73.8939789 38.7911303 -75.5633859 41.357423 -75.5633859",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1867"
   ],
-  "georss_box_s": "38.7911303 -75.5633859 41.357423 -73.8939789",
-  "georss_polygon_s": "41.357423 -75.5633859 41.357423 -73.8939789 38.7911303 -73.8939789 38.7911303 -75.5633859 41.357423 -75.5633859",
   "solr_geom": "ENVELOPE(-75.5633859, -73.8939789, 41.357423, 38.7911303)",
-  "solr_year_i": "1867"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "New Jersey"
+  ]
 }

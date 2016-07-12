@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1645",
   "uuid": "http://arks.princeton.edu/ark:/88435/jw827f20n",
+  "dc_description_s": "Calabria Citra olim Magna Gr\u00e6cia",
+  "georss_box_s": "37.9158253 15.6298059 40.1439289 17.2062765",
+  "layer_modified_dt": "2015-01-25T02:06:20Z",
   "dc_creator_sm": [
     "Blaeu, Joan,",
     "McCabe, Robert A.,"
   ],
-  "dc_description_s": "Calabria Citra olim Magna Græcia",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "jw827f20n",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/jw827f20n/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fw%2F82%2F7f%2F20%2Fn%2F00000001.jp2/info.json\"}",
   "layer_id_s": "jw827f20n",
-  "layer_slug_s": "princeton-jw827f20n",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:20Z",
-  "dc_title_s": "Calabria Citra olim Magna Græcia",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Calabria (Italy)"
-  ],
+  "dc_identifier_s": "jw827f20n",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Calabria Citra olim Magna Gr\u00e6cia",
+  "layer_slug_s": "princeton-jw827f20n",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/jw827f20n/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/jw/82/7f/20/n/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.1439289 15.6298059 40.1439289 17.2062765 37.9158253 17.2062765 37.9158253 15.6298059 40.1439289 15.6298059",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1645"
   ],
-  "georss_box_s": "37.9158253 15.6298059 40.1439289 17.2062765",
-  "georss_polygon_s": "40.1439289 15.6298059 40.1439289 17.2062765 37.9158253 17.2062765 37.9158253 15.6298059 40.1439289 15.6298059",
   "solr_geom": "ENVELOPE(15.6298059, 17.2062765, 40.1439289, 37.9158253)",
-  "solr_year_i": "1645"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Calabria (Italy)"
+  ]
 }

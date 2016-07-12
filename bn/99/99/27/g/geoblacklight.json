@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1885",
   "uuid": "http://arks.princeton.edu/ark:/88435/bn999927g",
-  "dc_description_s": "Carta histórica y arquelógica",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "bn999927g",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/bn999927g/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fn%2F99%2F99%2F27%2Fg%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "bn999927g",
-  "layer_slug_s": "princeton-bn999927g",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Carta histo\u0301rica y arquelo\u0301gica",
+  "georss_box_s": "14.0 -118.0 33.0 -86.0",
   "layer_modified_dt": "2015-01-19T22:37:40Z",
-  "dc_title_s": "Carta histórica y arquelógica",
+  "layer_id_s": "bn999927g",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Mexico",
-    "Mexico"
-  ],
+  "dc_identifier_s": "bn999927g",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Carta histo\u0301rica y arquelo\u0301gica",
+  "layer_slug_s": "princeton-bn999927g",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/bn999927g/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/bn/99/99/27/g/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "33.0 -118.0 33.0 -86.0 14.0 -86.0 14.0 -118.0 33.0 -118.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1885"
   ],
-  "georss_box_s": "14.0 -118.0 33.0 -86.0",
-  "georss_polygon_s": "33.0 -118.0 33.0 -86.0 14.0 -86.0 14.0 -118.0 33.0 -118.0",
   "solr_geom": "ENVELOPE(-118.0, -86.0, 33.0, 14.0)",
-  "solr_year_i": "1885"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Mexico",
+    "Mexico"
+  ]
 }

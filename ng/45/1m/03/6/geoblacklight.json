@@ -1,27 +1,27 @@
 {
+  "solr_year_i": "1904",
   "uuid": "http://arks.princeton.edu/ark:/88435/ng451m036",
   "dc_description_s": "Chinese Empire with Japan and Korea",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "ng451m036",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/ng451m036/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fng%2F45%2F1m%2F03%2F6%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "ng451m036",
-  "layer_slug_s": "princeton-ng451m036",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "16.0 72.0 52.0 146.0",
   "layer_modified_dt": "2015-01-19T22:37:37Z",
-  "dc_title_s": "Chinese Empire with Japan and Korea",
+  "layer_id_s": "ng451m036",
   "dc_type_s": "Image",
+  "dc_identifier_s": "ng451m036",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Chinese Empire with Japan and Korea",
+  "layer_slug_s": "princeton-ng451m036",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/ng451m036/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ng/45/1m/03/6/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "52.0 72.0 52.0 146.0 16.0 146.0 16.0 72.0 52.0 72.0",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1904"
+  ],
+  "solr_geom": "ENVELOPE(72.0, 146.0, 52.0, 16.0)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "China",
     "Japan",
     "Korea"
-  ],
-  "dct_temporal_sm": [
-    "1904"
-  ],
-  "georss_box_s": "16.0 72.0 52.0 146.0",
-  "georss_polygon_s": "52.0 72.0 52.0 146.0 16.0 146.0 16.0 72.0 52.0 72.0",
-  "solr_geom": "ENVELOPE(72.0, 146.0, 52.0, 16.0)",
-  "solr_year_i": "1904"
+  ]
 }

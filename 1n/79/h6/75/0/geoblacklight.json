@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1748",
   "uuid": "http://arks.princeton.edu/ark:/88435/1n79h6750",
+  "dc_description_s": "II. Carte du De.\u0301 de Luxembourg ; ou\u0300 se trouvt. la mairie de la Marche, le Cte\u0301. de Durbuy et partie de la Seignrie. de Lyege &c.",
+  "georss_box_s": "49.4969821 2.3889137 51.5516667 6.4080405",
+  "layer_modified_dt": "2015-01-21T22:24:08Z",
   "dc_creator_sm": [
     "Robert de Vaugondy, Gilles,"
   ],
-  "dc_description_s": "II. Carte du De.́ de Luxembourg ; où se trouvt. la mairie de la Marche, le Cté. de Durbuy et partie de la Seignrie. de Lyege &c.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "1n79h6750",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/1n79h6750/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F1n%2F79%2Fh6%2F75%2F0%2F00000001.jp2/info.json\"}",
   "layer_id_s": "1n79h6750",
-  "layer_slug_s": "princeton-1n79h6750",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:08Z",
-  "dc_title_s": "II. Carte du De.́ de Luxembourg ; où se trouvt. la mairie de la Marche, le Cté. de Durbuy et partie de la Seignrie. de Lyege &c.",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Belgium",
-    "Luxembourg"
-  ],
+  "dc_identifier_s": "1n79h6750",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "II. Carte du De.\u0301 de Luxembourg ; ou\u0300 se trouvt. la mairie de la Marche, le Cte\u0301. de Durbuy et partie de la Seignrie. de Lyege &c.",
+  "layer_slug_s": "princeton-1n79h6750",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/1n79h6750/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/1n/79/h6/75/0/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "51.5516667 2.3889137 51.5516667 6.4080405 49.4969821 6.4080405 49.4969821 2.3889137 51.5516667 2.3889137",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1748"
   ],
-  "georss_box_s": "49.4969821 2.3889137 51.5516667 6.4080405",
-  "georss_polygon_s": "51.5516667 2.3889137 51.5516667 6.4080405 49.4969821 6.4080405 49.4969821 2.3889137 51.5516667 2.3889137",
   "solr_geom": "ENVELOPE(2.3889137, 6.4080405, 51.5516667, 49.4969821)",
-  "solr_year_i": "1748"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Belgium",
+    "Luxembourg"
+  ]
 }

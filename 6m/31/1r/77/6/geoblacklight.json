@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1540",
   "uuid": "http://arks.princeton.edu/ark:/88435/6m311r776",
+  "dc_description_s": "Tabula Europae I",
+  "georss_box_s": "49.674 -14.0155169 61.061 2.0919117",
+  "layer_modified_dt": "2015-01-21T22:24:13Z",
   "dc_creator_sm": [
     "Petri, Heinrich,",
-    "Münster, Sebastian,",
+    "Mu\u0308nster, Sebastian,",
     "Ptolemy,"
   ],
-  "dc_description_s": "Tabula Europae I",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "6m311r776",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/6m311r776/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F6m%2F31%2F1r%2F77%2F6%2F00000001.jp2/info.json\"}",
   "layer_id_s": "6m311r776",
-  "layer_slug_s": "princeton-6m311r776",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:13Z",
-  "dc_title_s": "Tabula Europae I",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Great Britain"
-  ],
+  "dc_identifier_s": "6m311r776",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Tabula Europae I",
+  "layer_slug_s": "princeton-6m311r776",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/6m311r776/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/6m/31/1r/77/6/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "61.061 -14.0155169 61.061 2.0919117 49.674 2.0919117 49.674 -14.0155169 61.061 -14.0155169",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1540"
   ],
-  "georss_box_s": "49.674 -14.0155169 61.061 2.0919117",
-  "georss_polygon_s": "61.061 -14.0155169 61.061 2.0919117 49.674 2.0919117 49.674 -14.0155169 61.061 -14.0155169",
   "solr_geom": "ENVELOPE(-14.0155169, 2.0919117, 61.061, 49.674)",
-  "solr_year_i": "1540"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Great Britain"
+  ]
 }

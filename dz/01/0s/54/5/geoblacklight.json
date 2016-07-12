@@ -1,30 +1,28 @@
 {
+  "solr_year_i": "1887",
   "uuid": "http://arks.princeton.edu/ark:/88435/dz010s545",
+  "dc_description_s": "A topographical map of the vicinity of Flemington : from Somerville and Princeton westward to the Delaware",
+  "georss_box_s": "40.0 -75.0 40.0 -74.0",
+  "layer_modified_dt": "2015-01-19T22:37:28Z",
   "dc_creator_sm": [
     "Cook, George Hammell,",
     "Vermeule, C. C.",
     "Sinnickson, Clement Hall,"
   ],
-  "dc_description_s": "A topographical map of the vicinity of Flemington : from Somerville and Princeton westward to the Delaware",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "dz010s545",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/dz010s545/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fdz%2F01%2F0s%2F54%2F5%2F00000001.jp2/info.json\"}",
   "layer_id_s": "dz010s545",
-  "layer_slug_s": "princeton-dz010s545",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:28Z",
-  "dc_title_s": "A topographical map of the vicinity of Flemington : from Somerville and Princeton westward to the Delaware",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "dz010s545",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "A topographical map of the vicinity of Flemington : from Somerville and Princeton westward to the Delaware",
+  "layer_slug_s": "princeton-dz010s545",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/dz010s545/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/dz/01/0s/54/5/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.0 -75.0 40.0 -74.0 40.0 -74.0 40.0 -75.0 40.0 -75.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1887"
   ],
-  "georss_box_s": "40.0 -75.0 40.0 -74.0",
-  "georss_polygon_s": "40.0 -75.0 40.0 -74.0 40.0 -74.0 40.0 -75.0 40.0 -75.0",
   "solr_geom": "ENVELOPE(-75.0, -74.0, 40.0, 40.0)",
-  "solr_year_i": "1887"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

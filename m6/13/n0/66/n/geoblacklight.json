@@ -1,25 +1,23 @@
 {
+  "solr_year_i": "1902",
   "uuid": "http://arks.princeton.edu/ark:/88435/m613n066n",
   "dc_description_s": "Plan of London",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "m613n066n",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/m613n066n/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fm6%2F13%2Fn0%2F66%2Fn%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "m613n066n",
-  "layer_slug_s": "princeton-m613n066n",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "51.2867602 -0.510375 51.6918741 0.3340155",
   "layer_modified_dt": "2015-01-21T22:23:54Z",
-  "dc_title_s": "Plan of London",
+  "layer_id_s": "m613n066n",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "m613n066n",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Plan of London",
+  "layer_slug_s": "princeton-m613n066n",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/m613n066n/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/m6/13/n0/66/n/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "51.6918741 -0.510375 51.6918741 0.3340155 51.2867602 0.3340155 51.2867602 -0.510375 51.6918741 -0.510375",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1902"
   ],
-  "georss_box_s": "51.2867602 -0.510375 51.6918741 0.3340155",
-  "georss_polygon_s": "51.6918741 -0.510375 51.6918741 0.3340155 51.2867602 0.3340155 51.2867602 -0.510375 51.6918741 -0.510375",
   "solr_geom": "ENVELOPE(-0.510375, 0.3340155, 51.6918741, 51.2867602)",
-  "solr_year_i": "1902"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

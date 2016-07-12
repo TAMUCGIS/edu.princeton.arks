@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1900",
   "uuid": "http://arks.princeton.edu/ark:/88435/f1881p432",
   "dc_description_s": "Plan der Stadt Bonn und Umgebung",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "f1881p432",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/f1881p432/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ff1%2F88%2F1p%2F43%2F2%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "f1881p432",
-  "layer_slug_s": "princeton-f1881p432",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "50.5758511 6.9406599 50.8958511 7.2606599",
   "layer_modified_dt": "2015-01-21T22:24:27Z",
-  "dc_title_s": "Plan der Stadt Bonn und Umgebung",
+  "layer_id_s": "f1881p432",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Bonn (Germany)",
-    "North Rhine-Westphalia (Germany)"
-  ],
+  "dc_identifier_s": "f1881p432",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Plan der Stadt Bonn und Umgebung",
+  "layer_slug_s": "princeton-f1881p432",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/f1881p432/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/f1/88/1p/43/2/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "50.8958511 6.9406599 50.8958511 7.2606599 50.5758511 7.2606599 50.5758511 6.9406599 50.8958511 6.9406599",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1900"
   ],
-  "georss_box_s": "50.5758511 6.9406599 50.8958511 7.2606599",
-  "georss_polygon_s": "50.8958511 6.9406599 50.8958511 7.2606599 50.5758511 7.2606599 50.5758511 6.9406599 50.8958511 6.9406599",
   "solr_geom": "ENVELOPE(6.9406599, 7.2606599, 50.8958511, 50.5758511)",
-  "solr_year_i": "1900"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Bonn (Germany)",
+    "North Rhine-Westphalia (Germany)"
+  ]
 }

@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1866",
   "uuid": "http://arks.princeton.edu/ark:/88435/n870zt298",
+  "dc_description_s": "Map illustrating M. du Chaillu's routes in Equatorial Africa in 1864 & -65",
+  "georss_box_s": "-2.11667 9.00000 0.83333 13.00000",
+  "layer_modified_dt": "2015-01-19T22:37:22Z",
   "dc_creator_sm": [
     "Weller, Edward,"
   ],
-  "dc_description_s": "Map illustrating M. du Chaillu's routes in Equatorial Africa in 1864 & -65",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "n870zt298",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/n870zt298/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fn8%2F70%2Fzt%2F29%2F8%2F00000001.jp2/info.json\"}",
   "layer_id_s": "n870zt298",
-  "layer_slug_s": "princeton-n870zt298",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:22Z",
-  "dc_title_s": "Map illustrating M. du Chaillu's routes in Equatorial Africa in 1864 & -65",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "French Equatorial Africa"
-  ],
+  "dc_identifier_s": "n870zt298",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Map illustrating M. du Chaillu's routes in Equatorial Africa in 1864 & -65",
+  "layer_slug_s": "princeton-n870zt298",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/n870zt298/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/n8/70/zt/29/8/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "0.83333 9.00000 0.83333 13.00000 -2.11667 13.00000 -2.11667 9.00000 0.83333 9.00000",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1866"
   ],
-  "georss_box_s": "-2.11667 9.00000 0.83333 13.00000",
-  "georss_polygon_s": "0.83333 9.00000 0.83333 13.00000 -2.11667 13.00000 -2.11667 9.00000 0.83333 9.00000",
   "solr_geom": "ENVELOPE(9.00000, 13.00000, 0.83333, -2.11667)",
-  "solr_year_i": "1866"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "French Equatorial Africa"
+  ]
 }

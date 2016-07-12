@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1874",
   "uuid": "http://arks.princeton.edu/ark:/88435/8w32r806s",
+  "dc_description_s": "A Plan of the ruins of Babylon and of the surrounding country",
+  "georss_box_s": "32.5308163633 44.406204663 32.5539905253 44.4384283804",
+  "layer_modified_dt": "2015-01-21T22:24:11Z",
   "dc_creator_sm": [
     "Jones, James Felix,",
     "Smith, William,"
   ],
-  "dc_description_s": "A Plan of the ruins of Babylon and of the surrounding country",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "8w32r806s",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/8w32r806s/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F8w%2F32%2Fr8%2F06%2Fs%2F00000001.jp2/info.json\"}",
   "layer_id_s": "8w32r806s",
-  "layer_slug_s": "princeton-8w32r806s",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:11Z",
-  "dc_title_s": "A Plan of the ruins of Babylon and of the surrounding country",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Babylon (Extinct city)",
-    "Iraq"
-  ],
+  "dc_identifier_s": "8w32r806s",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "A Plan of the ruins of Babylon and of the surrounding country",
+  "layer_slug_s": "princeton-8w32r806s",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/8w32r806s/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/8w/32/r8/06/s/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "32.5539905253 44.406204663 32.5539905253 44.4384283804 32.5308163633 44.4384283804 32.5308163633 44.406204663 32.5539905253 44.406204663",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1874"
   ],
-  "georss_box_s": "32.5308163633 44.406204663 32.5539905253 44.4384283804",
-  "georss_polygon_s": "32.5539905253 44.406204663 32.5539905253 44.4384283804 32.5308163633 44.4384283804 32.5308163633 44.406204663 32.5539905253 44.406204663",
   "solr_geom": "ENVELOPE(44.406204663, 44.4384283804, 32.5539905253, 32.5308163633)",
-  "solr_year_i": "1874"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Babylon (Extinct city)",
+    "Iraq"
+  ]
 }

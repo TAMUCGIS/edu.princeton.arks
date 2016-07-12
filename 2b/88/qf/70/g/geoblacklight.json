@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1895",
   "uuid": "http://arks.princeton.edu/ark:/88435/2b88qf70g",
   "dc_description_s": "Uebersichtsplan von Stuttgart",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "2b88qf70g",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/2b88qf70g/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F2b%2F88%2Fqf%2F70%2Fg%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "2b88qf70g",
-  "layer_slug_s": "princeton-2b88qf70g",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "47.5324787 7.5117461 49.7913277 10.4955731",
   "layer_modified_dt": "2015-01-21T22:24:28Z",
-  "dc_title_s": "Uebersichtsplan von Stuttgart",
+  "layer_id_s": "2b88qf70g",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Baden-Württemberg (Germany)",
-    "Stuttgart (Germany)"
-  ],
+  "dc_identifier_s": "2b88qf70g",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Uebersichtsplan von Stuttgart",
+  "layer_slug_s": "princeton-2b88qf70g",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/2b88qf70g/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/2b/88/qf/70/g/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "49.7913277 7.5117461 49.7913277 10.4955731 47.5324787 10.4955731 47.5324787 7.5117461 49.7913277 7.5117461",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1895"
   ],
-  "georss_box_s": "47.5324787 7.5117461 49.7913277 10.4955731",
-  "georss_polygon_s": "49.7913277 7.5117461 49.7913277 10.4955731 47.5324787 10.4955731 47.5324787 7.5117461 49.7913277 7.5117461",
   "solr_geom": "ENVELOPE(7.5117461, 10.4955731, 49.7913277, 47.5324787)",
-  "solr_year_i": "1895"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Baden-Wu\u0308rttemberg (Germany)",
+    "Stuttgart (Germany)"
+  ]
 }

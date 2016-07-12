@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1900",
   "uuid": "http://arks.princeton.edu/ark:/88435/4q77ft83r",
   "dc_description_s": "[Map of Cambridgeshire and Huntingdonshire]",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "4q77ft83r",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/4q77ft83r/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F4q%2F77%2Fft%2F83%2Fr%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "4q77ft83r",
-  "layer_slug_s": "princeton-4q77ft83r",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "52.005779 -0.499896 52.7399783 0.514455",
   "layer_modified_dt": "2015-01-21T22:24:19Z",
-  "dc_title_s": "[Map of Cambridgeshire and Huntingdonshire]",
+  "layer_id_s": "4q77ft83r",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Cambridgeshire (England)",
-    "Huntingdonshire (England)"
-  ],
+  "dc_identifier_s": "4q77ft83r",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "[Map of Cambridgeshire and Huntingdonshire]",
+  "layer_slug_s": "princeton-4q77ft83r",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/4q77ft83r/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/4q/77/ft/83/r/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "52.7399783 -0.499896 52.7399783 0.514455 52.005779 0.514455 52.005779 -0.499896 52.7399783 -0.499896",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1900"
   ],
-  "georss_box_s": "52.005779 -0.499896 52.7399783 0.514455",
-  "georss_polygon_s": "52.7399783 -0.499896 52.7399783 0.514455 52.005779 0.514455 52.005779 -0.499896 52.7399783 -0.499896",
   "solr_geom": "ENVELOPE(-0.499896, 0.514455, 52.7399783, 52.005779)",
-  "solr_year_i": "1900"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Cambridgeshire (England)",
+    "Huntingdonshire (England)"
+  ]
 }

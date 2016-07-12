@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/3t945s72j",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Belleville",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "3t945s72j",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F3t%2F94%2F5s%2F72%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "3t945s72j",
-  "layer_slug_s": "princeton-3t945s72j",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:02:58Z",
+  "solr_geom": "ENVELOPE(-74.258177, -74.230009, 39.581824, 39.54701)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/3t/94/5s/72/j/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/3t945s72j",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Insurance maps of Belleville, Essex County, New Jersey (Sheet 61)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1906"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "3t945s72j",
+  "georss_polygon_s": "39.581824 -74.258177 39.581824 -74.230009 39.54701 -74.230009 39.54701 -74.258177 39.581824 -74.258177",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1906",
   "dct_spatial_sm": [
     "New Jersey",
     "Belleville"
   ],
-  "dct_temporal_sm": [
-    "1906"
-  ],
+  "layer_id_s": "3t945s72j",
   "georss_box_s": "39.54701 -74.258177 39.581824 -74.230009",
-  "georss_polygon_s": "39.581824 -74.258177 39.581824 -74.230009 39.54701 -74.230009 39.54701 -74.258177 39.581824 -74.258177",
-  "solr_geom": "ENVELOPE(-74.258177, -74.230009, 39.581824, 39.54701)",
-  "solr_year_i": "1906"
+  "dc_title_s": "Insurance maps of Belleville, Essex County, New Jersey (Sheet 61)",
+  "layer_slug_s": "princeton-3t945s72j",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

@@ -1,31 +1,31 @@
 {
+  "solr_year_i": "1814",
   "uuid": "http://arks.princeton.edu/ark:/88435/st74cs31r",
+  "dc_description_s": "Northern Africa",
+  "georss_box_s": "3.4889804 -17.4573 37.5359 38.6938",
+  "layer_modified_dt": "2015-01-21T22:23:46Z",
   "dc_creator_sm": [
     "Hebert, L.",
     "Neele, Samuel John,",
     "Pinkerton, John,",
     "Willsie, Bruce C.,"
   ],
-  "dc_description_s": "Northern Africa",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "st74cs31r",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/st74cs31r/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fst%2F74%2Fcs%2F31%2Fr%2F00000001.jp2/info.json\"}",
   "layer_id_s": "st74cs31r",
-  "layer_slug_s": "princeton-st74cs31r",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:46Z",
-  "dc_title_s": "Northern Africa",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Africa, North"
-  ],
+  "dc_identifier_s": "st74cs31r",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Northern Africa",
+  "layer_slug_s": "princeton-st74cs31r",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/st74cs31r/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/st/74/cs/31/r/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "37.5359 -17.4573 37.5359 38.6938 3.4889804 38.6938 3.4889804 -17.4573 37.5359 -17.4573",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1814"
   ],
-  "georss_box_s": "3.4889804 -17.4573 37.5359 38.6938",
-  "georss_polygon_s": "37.5359 -17.4573 37.5359 38.6938 3.4889804 38.6938 3.4889804 -17.4573 37.5359 -17.4573",
   "solr_geom": "ENVELOPE(-17.4573, 38.6938, 37.5359, 3.4889804)",
-  "solr_year_i": "1814"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Africa, North"
+  ]
 }

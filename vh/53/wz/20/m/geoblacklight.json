@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1884",
   "uuid": "http://arks.princeton.edu/ark:/88435/vh53wz20m",
   "dc_description_s": "Europe",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "vh53wz20m",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/vh53wz20m/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fvh%2F53%2Fwz%2F20%2Fm%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "vh53wz20m",
-  "layer_slug_s": "princeton-vh53wz20m",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "30.0 25.0 75.0 -75.0",
   "layer_modified_dt": "2015-01-19T22:37:23Z",
-  "dc_title_s": "Europe",
+  "layer_id_s": "vh53wz20m",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Europe"
-  ],
+  "dc_identifier_s": "vh53wz20m",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Europe",
+  "layer_slug_s": "princeton-vh53wz20m",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/vh53wz20m/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/vh/53/wz/20/m/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "75.0 25.0 75.0 -75.0 30.0 -75.0 30.0 25.0 75.0 25.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1884"
   ],
-  "georss_box_s": "30.0 25.0 75.0 -75.0",
-  "georss_polygon_s": "75.0 25.0 75.0 -75.0 30.0 -75.0 30.0 25.0 75.0 25.0",
   "solr_geom": "ENVELOPE(25.0, -75.0, 75.0, 30.0)",
-  "solr_year_i": "1884"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Europe"
+  ]
 }

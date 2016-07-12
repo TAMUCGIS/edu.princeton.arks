@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1756",
   "uuid": "http://arks.princeton.edu/ark:/88435/cc08hj116",
-  "dc_description_s": "Carte topographique des pays et côtes maritimes qui forment le Détroit de Gibraltar : enrichie de quatre tables methodiques ...",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "cc08hj116",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/cc08hj116/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fcc%2F08%2Fhj%2F11%2F6%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "cc08hj116",
-  "layer_slug_s": "princeton-cc08hj116",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Carte topographique des pays et co\u0302tes maritimes qui forment le De\u0301troit de Gibraltar : enrichie de quatre tables methodiques ...",
+  "georss_box_s": "3.4889804 -17.4573 37.5359 38.6938",
   "layer_modified_dt": "2015-01-21T22:24:16Z",
-  "dc_title_s": "Carte topographique des pays et côtes maritimes qui forment le Détroit de Gibraltar : enrichie de quatre tables methodiques ...",
+  "layer_id_s": "cc08hj116",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Africa, North",
-    "Gibraltar, Strait of"
-  ],
+  "dc_identifier_s": "cc08hj116",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Carte topographique des pays et co\u0302tes maritimes qui forment le De\u0301troit de Gibraltar : enrichie de quatre tables methodiques ...",
+  "layer_slug_s": "princeton-cc08hj116",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/cc08hj116/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/cc/08/hj/11/6/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "37.5359 -17.4573 37.5359 38.6938 3.4889804 38.6938 3.4889804 -17.4573 37.5359 -17.4573",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1756"
   ],
-  "georss_box_s": "3.4889804 -17.4573 37.5359 38.6938",
-  "georss_polygon_s": "37.5359 -17.4573 37.5359 38.6938 3.4889804 38.6938 3.4889804 -17.4573 37.5359 -17.4573",
   "solr_geom": "ENVELOPE(-17.4573, 38.6938, 37.5359, 3.4889804)",
-  "solr_year_i": "1756"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Africa, North",
+    "Gibraltar, Strait of"
+  ]
 }

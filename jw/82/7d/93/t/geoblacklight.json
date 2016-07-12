@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/jw827d93t",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Orange",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "jw827d93t",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fw%2F82%2F7d%2F93%2Ft%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "jw827d93t",
-  "layer_slug_s": "princeton-jw827d93t",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:09:06Z",
+  "solr_geom": "ENVELOPE(-74.255273, -74.218485, 40.7898, 40.75199)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/jw/82/7d/93/t/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/jw827d93t",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Insurance maps of Orange, New Jersey (Sheet 24).",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1939"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "jw827d93t",
+  "georss_polygon_s": "40.7898 -74.255273 40.7898 -74.218485 40.75199 -74.218485 40.75199 -74.255273 40.7898 -74.255273",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1939",
   "dct_spatial_sm": [
     "New Jersey",
     "Orange"
   ],
-  "dct_temporal_sm": [
-    "1939"
-  ],
+  "layer_id_s": "jw827d93t",
   "georss_box_s": "40.75199 -74.255273 40.7898 -74.218485",
-  "georss_polygon_s": "40.7898 -74.255273 40.7898 -74.218485 40.75199 -74.218485 40.75199 -74.255273 40.7898 -74.255273",
-  "solr_geom": "ENVELOPE(-74.255273, -74.218485, 40.7898, 40.75199)",
-  "solr_year_i": "1939"
+  "dc_title_s": "Insurance maps of Orange, New Jersey (Sheet 24).",
+  "layer_slug_s": "princeton-jw827d93t",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1648",
   "uuid": "http://arks.princeton.edu/ark:/88435/4t64gq65f",
+  "dc_description_s": "De heylige en wytvermaerde stadt Jerusalem, eerst genaemt Salem : Genesis 14 vers 18",
+  "georss_box_s": "31.7087672 35.0854203 31.8826765 35.2630682",
+  "layer_modified_dt": "2015-01-25T02:06:14Z",
   "dc_creator_sm": [
     "Visscher, Claes Jansz.,"
   ],
-  "dc_description_s": "De heylige en wytvermaerde stadt Jerusalem, eerst genaemt Salem : Genesis 14 vers 18",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "4t64gq65f",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/4t64gq65f/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F4t%2F64%2Fgq%2F65%2Ff%2F00000001.jp2/info.json\"}",
   "layer_id_s": "4t64gq65f",
-  "layer_slug_s": "princeton-4t64gq65f",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:14Z",
-  "dc_title_s": "De heylige en wytvermaerde stadt Jerusalem, eerst genaemt Salem : Genesis 14 vers 18",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Jerusalem"
-  ],
+  "dc_identifier_s": "4t64gq65f",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "De heylige en wytvermaerde stadt Jerusalem, eerst genaemt Salem : Genesis 14 vers 18",
+  "layer_slug_s": "princeton-4t64gq65f",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/4t64gq65f/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/4t/64/gq/65/f/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "31.8826765 35.0854203 31.8826765 35.2630682 31.7087672 35.2630682 31.7087672 35.0854203 31.8826765 35.0854203",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1648"
   ],
-  "georss_box_s": "31.7087672 35.0854203 31.8826765 35.2630682",
-  "georss_polygon_s": "31.8826765 35.0854203 31.8826765 35.2630682 31.7087672 35.2630682 31.7087672 35.0854203 31.8826765 35.0854203",
   "solr_geom": "ENVELOPE(35.0854203, 35.2630682, 31.8826765, 31.7087672)",
-  "solr_year_i": "1648"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Jerusalem"
+  ]
 }

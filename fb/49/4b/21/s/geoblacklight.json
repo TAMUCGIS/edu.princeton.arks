@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1943",
   "uuid": "http://arks.princeton.edu/ark:/88435/fb494b21s",
   "dc_description_s": "Spain 1:10,000. Valencia city plan. A.M.S. M981",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "fb494b21s",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/fb494b21s/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ffb%2F49%2F4b%2F21%2Fs%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "fb494b21s",
-  "layer_slug_s": "princeton-fb494b21s",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "38.45000 -0.33333 38.46667 -0.31667",
   "layer_modified_dt": "2015-01-19T22:36:34Z",
-  "dc_title_s": "Spain 1:10,000. Valencia city plan. A.M.S. M981",
+  "layer_id_s": "fb494b21s",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Spain"
-  ],
+  "dc_identifier_s": "fb494b21s",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Spain 1:10,000. Valencia city plan. A.M.S. M981",
+  "layer_slug_s": "princeton-fb494b21s",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/fb494b21s/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/fb/49/4b/21/s/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "38.46667 -0.33333 38.46667 -0.31667 38.45000 -0.31667 38.45000 -0.33333 38.46667 -0.33333",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1943"
   ],
-  "georss_box_s": "38.45000 -0.33333 38.46667 -0.31667",
-  "georss_polygon_s": "38.46667 -0.33333 38.46667 -0.31667 38.45000 -0.31667 38.45000 -0.33333 38.46667 -0.33333",
   "solr_geom": "ENVELOPE(-0.33333, -0.31667, 38.46667, 38.45000)",
-  "solr_year_i": "1943"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Spain"
+  ]
 }

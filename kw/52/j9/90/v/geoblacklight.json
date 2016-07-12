@@ -1,29 +1,27 @@
 {
+  "solr_year_i": "1894",
   "uuid": "http://arks.princeton.edu/ark:/88435/kw52j990v",
+  "dc_description_s": "Mass.--R. I.: Providence Quadrangle",
+  "georss_box_s": "41.75000 -71.50000 42.00000 -71.25000",
+  "layer_modified_dt": "2015-01-19T22:36:42Z",
   "dc_creator_sm": [
     "Bodfish, Summer H.",
     "Natter, E. W. F."
   ],
-  "dc_description_s": "Mass.--R. I.: Providence Quadrangle",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "kw52j990v",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/kw52j990v/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fkw%2F52%2Fj9%2F90%2Fv%2F00000001.jp2/info.json\"}",
   "layer_id_s": "kw52j990v",
-  "layer_slug_s": "princeton-kw52j990v",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:36:42Z",
-  "dc_title_s": "Mass.--R. I.: Providence Quadrangle",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "kw52j990v",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Mass.--R. I.: Providence Quadrangle",
+  "layer_slug_s": "princeton-kw52j990v",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/kw52j990v/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/kw/52/j9/90/v/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "42.00000 -71.50000 42.00000 -71.25000 41.75000 -71.25000 41.75000 -71.50000 42.00000 -71.50000",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1894"
   ],
-  "georss_box_s": "41.75000 -71.50000 42.00000 -71.25000",
-  "georss_polygon_s": "42.00000 -71.50000 42.00000 -71.25000 41.75000 -71.25000 41.75000 -71.50000 42.00000 -71.50000",
   "solr_geom": "ENVELOPE(-71.50000, -71.25000, 42.00000, 41.75000)",
-  "solr_year_i": "1894"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

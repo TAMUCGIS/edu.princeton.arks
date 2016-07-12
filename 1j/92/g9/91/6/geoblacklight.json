@@ -1,30 +1,28 @@
 {
+  "solr_year_i": "1868",
   "uuid": "http://arks.princeton.edu/ark:/88435/1j92g9916",
+  "dc_description_s": "Map of the West Bayard Farm : the property of Nicholas & Stephen Bayard and the John Dyckman dcd. property as surveyed and laid out into lots in the year 1788 by Casimir Th. Goerck, City Surveyor",
+  "georss_box_s": "40.7702778 -73.9797222 40.8102778 -73.9397222",
+  "layer_modified_dt": "2015-01-21T22:24:03Z",
   "dc_creator_sm": [
     "Goerck, Casimir Th.,",
     "Bonar, Thomas.",
     "Johnston, Lewis,"
   ],
-  "dc_description_s": "Map of the West Bayard Farm : the property of Nicholas & Stephen Bayard and the John Dyckman dcd. property as surveyed and laid out into lots in the year 1788 by Casimir Th. Goerck, City Surveyor",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "1j92g9916",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/1j92g9916/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F1j%2F92%2Fg9%2F91%2F6%2F00000001.jp2/info.json\"}",
   "layer_id_s": "1j92g9916",
-  "layer_slug_s": "princeton-1j92g9916",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:03Z",
-  "dc_title_s": "Map of the West Bayard Farm : the property of Nicholas & Stephen Bayard and the John Dyckman dcd. property as surveyed and laid out into lots in the year 1788 by Casimir Th. Goerck, City Surveyor",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "1j92g9916",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Map of the West Bayard Farm : the property of Nicholas & Stephen Bayard and the John Dyckman dcd. property as surveyed and laid out into lots in the year 1788 by Casimir Th. Goerck, City Surveyor",
+  "layer_slug_s": "princeton-1j92g9916",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/1j92g9916/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/1j/92/g9/91/6/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.8102778 -73.9797222 40.8102778 -73.9397222 40.7702778 -73.9397222 40.7702778 -73.9797222 40.8102778 -73.9797222",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1868"
   ],
-  "georss_box_s": "40.7702778 -73.9797222 40.8102778 -73.9397222",
-  "georss_polygon_s": "40.8102778 -73.9797222 40.8102778 -73.9397222 40.7702778 -73.9397222 40.7702778 -73.9797222 40.8102778 -73.9797222",
   "solr_geom": "ENVELOPE(-73.9797222, -73.9397222, 40.8102778, 40.7702778)",
-  "solr_year_i": "1868"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

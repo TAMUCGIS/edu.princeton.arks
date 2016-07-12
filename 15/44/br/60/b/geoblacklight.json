@@ -1,5 +1,9 @@
 {
+  "solr_year_i": "1850",
   "uuid": "http://arks.princeton.edu/ark:/88435/1544br60b",
+  "dc_description_s": "Cat and Ship Island harbors from a trigonometrical survey /",
+  "georss_box_s": "30.1877195 -89.1574114 30.2495106 -89.0642574",
+  "layer_modified_dt": "2015-01-21T22:24:25Z",
   "dc_creator_sm": [
     "Bache, A. D.",
     "Gerdes, F. H.",
@@ -7,26 +11,22 @@
     "Mahon, Charles.",
     "Mathiot, G."
   ],
-  "dc_description_s": "Cat and Ship Island harbors from a trigonometrical survey /",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "1544br60b",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/1544br60b/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F15%2F44%2Fbr%2F60%2F00000001.jp2/info.json\"}",
   "layer_id_s": "1544br60b",
-  "layer_slug_s": "princeton-1544br60b",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:25Z",
-  "dc_title_s": "Cat and Ship Island harbors from a trigonometrical survey /",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Mississippi Sound"
-  ],
+  "dc_identifier_s": "1544br60b",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Cat and Ship Island harbors from a trigonometrical survey /",
+  "layer_slug_s": "princeton-1544br60b",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/1544br60b/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/15/44/br/60/b/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "30.2495106 -89.1574114 30.2495106 -89.0642574 30.1877195 -89.0642574 30.1877195 -89.1574114 30.2495106 -89.1574114",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1850"
   ],
-  "georss_box_s": "30.1877195 -89.1574114 30.2495106 -89.0642574",
-  "georss_polygon_s": "30.2495106 -89.1574114 30.2495106 -89.0642574 30.1877195 -89.0642574 30.1877195 -89.1574114 30.2495106 -89.1574114",
   "solr_geom": "ENVELOPE(-89.1574114, -89.0642574, 30.2495106, 30.1877195)",
-  "solr_year_i": "1850"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Mississippi Sound"
+  ]
 }

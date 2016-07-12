@@ -1,27 +1,27 @@
 {
+  "solr_year_i": "1912",
   "uuid": "http://arks.princeton.edu/ark:/88435/736666974",
   "dc_description_s": "The Rand-McNally new library atlas map of the Netherlands, Belgium and Luxemburg",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "736666974",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/736666974/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F73%2F66%2F66%2F97%2F4%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "736666974",
-  "layer_slug_s": "princeton-736666974",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "49.4969821 2.3889137 51.5516667 6.4080405",
   "layer_modified_dt": "2015-01-25T02:06:14Z",
-  "dc_title_s": "The Rand-McNally new library atlas map of the Netherlands, Belgium and Luxemburg",
+  "layer_id_s": "736666974",
   "dc_type_s": "Image",
+  "dc_identifier_s": "736666974",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "The Rand-McNally new library atlas map of the Netherlands, Belgium and Luxemburg",
+  "layer_slug_s": "princeton-736666974",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/736666974/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/73/66/66/97/4/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "51.5516667 2.3889137 51.5516667 6.4080405 49.4969821 6.4080405 49.4969821 2.3889137 51.5516667 2.3889137",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1912"
+  ],
+  "solr_geom": "ENVELOPE(2.3889137, 6.4080405, 51.5516667, 49.4969821)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Belgium",
     "Luxembourg",
     "Netherlands"
-  ],
-  "dct_temporal_sm": [
-    "1912"
-  ],
-  "georss_box_s": "49.4969821 2.3889137 51.5516667 6.4080405",
-  "georss_polygon_s": "51.5516667 2.3889137 51.5516667 6.4080405 49.4969821 6.4080405 49.4969821 2.3889137 51.5516667 2.3889137",
-  "solr_geom": "ENVELOPE(2.3889137, 6.4080405, 51.5516667, 49.4969821)",
-  "solr_year_i": "1912"
+  ]
 }

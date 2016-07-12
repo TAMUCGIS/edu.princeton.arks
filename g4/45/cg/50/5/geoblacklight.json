@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/g445cg505",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Essex County",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "g445cg505",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fg4%2F45%2Fcg%2F50%2F5%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "g445cg505",
-  "layer_slug_s": "princeton-g445cg505",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:11:19Z",
+  "solr_geom": "ENVELOPE(-74.377517, -74.112787, 40.90889, 40.674018)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/g4/45/cg/50/5/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/g445cg505",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Insurance maps of Essex County, New Jersey, volume two (Index)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1907"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "g445cg505",
+  "georss_polygon_s": "40.90889 -74.377517 40.90889 -74.112787 40.674018 -74.112787 40.674018 -74.377517 40.90889 -74.377517",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1907",
   "dct_spatial_sm": [
     "New Jersey",
     "Essex County"
   ],
-  "dct_temporal_sm": [
-    "1907"
-  ],
+  "layer_id_s": "g445cg505",
   "georss_box_s": "40.674018 -74.377517 40.90889 -74.112787",
-  "georss_polygon_s": "40.90889 -74.377517 40.90889 -74.112787 40.674018 -74.112787 40.674018 -74.377517 40.90889 -74.377517",
-  "solr_geom": "ENVELOPE(-74.377517, -74.112787, 40.90889, 40.674018)",
-  "solr_year_i": "1907"
+  "dc_title_s": "Insurance maps of Essex County, New Jersey, volume two (Index)",
+  "layer_slug_s": "princeton-g445cg505",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

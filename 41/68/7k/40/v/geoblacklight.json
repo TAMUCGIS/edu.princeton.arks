@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1898",
   "uuid": "http://arks.princeton.edu/ark:/88435/41687k40v",
   "dc_description_s": "The gold and coal fields of Alaska : together with the principal steamer routes and trails",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "41687k40v",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/41687k40v/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F41%2F68%2F7k%2F40%2Fv%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "41687k40v",
-  "layer_slug_s": "princeton-41687k40v",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "54.0 -170.0 62.0 -118.0",
   "layer_modified_dt": "2015-01-19T22:36:56Z",
-  "dc_title_s": "The gold and coal fields of Alaska : together with the principal steamer routes and trails",
+  "layer_id_s": "41687k40v",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Alaska"
-  ],
+  "dc_identifier_s": "41687k40v",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "The gold and coal fields of Alaska : together with the principal steamer routes and trails",
+  "layer_slug_s": "princeton-41687k40v",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/41687k40v/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/41/68/7k/40/v/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "62.0 -170.0 62.0 -118.0 54.0 -118.0 54.0 -170.0 62.0 -170.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1898"
   ],
-  "georss_box_s": "54.0 -170.0 62.0 -118.0",
-  "georss_polygon_s": "62.0 -170.0 62.0 -118.0 54.0 -118.0 54.0 -170.0 62.0 -170.0",
   "solr_geom": "ENVELOPE(-170.0, -118.0, 62.0, 54.0)",
-  "solr_year_i": "1898"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Alaska"
+  ]
 }

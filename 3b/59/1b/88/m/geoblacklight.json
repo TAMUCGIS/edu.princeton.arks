@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1858",
   "uuid": "http://arks.princeton.edu/ark:/88435/3b591b88m",
+  "dc_description_s": "New England in 1620-1644",
+  "georss_box_s": "40.950943 -73.727775 47.459686 -66.8850751",
+  "layer_modified_dt": "2015-01-21T22:23:55Z",
   "dc_creator_sm": [
     "Boynton, George W.,",
     "Palfrey, John Gorham,"
   ],
-  "dc_description_s": "New England in 1620-1644",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "3b591b88m",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/3b591b88m/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F3b%2F59%2F1b%2F88%2Fm%2F00000001.jp2/info.json\"}",
   "layer_id_s": "3b591b88m",
-  "layer_slug_s": "princeton-3b591b88m",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:55Z",
-  "dc_title_s": "New England in 1620-1644",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "New England"
-  ],
+  "dc_identifier_s": "3b591b88m",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "New England in 1620-1644",
+  "layer_slug_s": "princeton-3b591b88m",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/3b591b88m/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/3b/59/1b/88/m/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "47.459686 -73.727775 47.459686 -66.8850751 40.950943 -66.8850751 40.950943 -73.727775 47.459686 -73.727775",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1858"
   ],
-  "georss_box_s": "40.950943 -73.727775 47.459686 -66.8850751",
-  "georss_polygon_s": "47.459686 -73.727775 47.459686 -66.8850751 40.950943 -66.8850751 40.950943 -73.727775 47.459686 -73.727775",
   "solr_geom": "ENVELOPE(-73.727775, -66.8850751, 47.459686, 40.950943)",
-  "solr_year_i": "1858"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "New England"
+  ]
 }

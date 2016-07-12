@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1906",
   "uuid": "http://arks.princeton.edu/ark:/88435/73666703k",
+  "dc_description_s": "Das Schlachtfeld von Jena 1806",
+  "georss_box_s": "50.7731401 11.4233091 51.0931401 11.7433091",
+  "layer_modified_dt": "2015-01-21T22:24:26Z",
   "dc_creator_sm": [
     "Taysen, Friedrich von,"
   ],
-  "dc_description_s": "Das Schlachtfeld von Jena 1806",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "73666703k",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/73666703k/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F73%2F66%2F67%2F03%2Fk%2F00000001.jp2/info.json\"}",
   "layer_id_s": "73666703k",
-  "layer_slug_s": "princeton-73666703k",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:26Z",
-  "dc_title_s": "Das Schlachtfeld von Jena 1806",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Jena (Germany)"
-  ],
+  "dc_identifier_s": "73666703k",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Das Schlachtfeld von Jena 1806",
+  "layer_slug_s": "princeton-73666703k",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/73666703k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/73/66/67/03/k/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "51.0931401 11.4233091 51.0931401 11.7433091 50.7731401 11.7433091 50.7731401 11.4233091 51.0931401 11.4233091",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1906"
   ],
-  "georss_box_s": "50.7731401 11.4233091 51.0931401 11.7433091",
-  "georss_polygon_s": "51.0931401 11.4233091 51.0931401 11.7433091 50.7731401 11.7433091 50.7731401 11.4233091 51.0931401 11.4233091",
   "solr_geom": "ENVELOPE(11.4233091, 11.7433091, 51.0931401, 50.7731401)",
-  "solr_year_i": "1906"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Jena (Germany)"
+  ]
 }

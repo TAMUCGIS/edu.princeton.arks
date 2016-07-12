@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1940",
   "uuid": "http://arks.princeton.edu/ark:/88435/gm80hx14k",
+  "dc_description_s": "Carte geologique detaillee de la France [a 1/80 000]: Bar-Le-Duc.",
+  "georss_box_s": "48.75950 4.53000 49.11910 5.40630",
+  "layer_modified_dt": "2015-01-19T22:36:37Z",
   "dc_creator_sm": [
     "Granjean, F."
   ],
-  "dc_description_s": "Carte geologique detaillee de la France [a 1/80 000]: Bar-Le-Duc.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "gm80hx14k",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/gm80hx14k/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fgm%2F80%2Fhx%2F14%2Fk%2F00000001.jp2/info.json\"}",
   "layer_id_s": "gm80hx14k",
-  "layer_slug_s": "princeton-gm80hx14k",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:36:37Z",
-  "dc_title_s": "Carte geologique detaillee de la France [a 1/80 000]: Bar-Le-Duc.",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "France"
-  ],
+  "dc_identifier_s": "gm80hx14k",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Carte geologique detaillee de la France [a 1/80 000]: Bar-Le-Duc.",
+  "layer_slug_s": "princeton-gm80hx14k",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/gm80hx14k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/gm/80/hx/14/k/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "49.11910 4.53000 49.11910 5.40630 48.75950 5.40630 48.75950 4.53000 49.11910 4.53000",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1940"
   ],
-  "georss_box_s": "48.75950 4.53000 49.11910 5.40630",
-  "georss_polygon_s": "49.11910 4.53000 49.11910 5.40630 48.75950 5.40630 48.75950 4.53000 49.11910 4.53000",
   "solr_geom": "ENVELOPE(4.53000, 5.40630, 49.11910, 48.75950)",
-  "solr_year_i": "1940"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "France"
+  ]
 }

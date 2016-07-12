@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/m900nw34k",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Wallington",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "m900nw34k",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fm9%2F00%2Fnw%2F34%2Fk%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "m900nw34k",
-  "layer_slug_s": "princeton-m900nw34k",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:02:29Z",
+  "solr_geom": "ENVELOPE(-74.120069, -74.096299, 40.863781, 40.841478)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/m9/00/nw/34/k/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/m900nw34k",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Wallington (Sheet 19)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1910"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "m900nw34k",
+  "georss_polygon_s": "40.863781 -74.120069 40.863781 -74.096299 40.841478 -74.096299 40.841478 -74.120069 40.863781 -74.120069",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1910",
   "dct_spatial_sm": [
     "New Jersey",
     "Wallington"
   ],
-  "dct_temporal_sm": [
-    "1910"
-  ],
+  "layer_id_s": "m900nw34k",
   "georss_box_s": "40.841478 -74.120069 40.863781 -74.096299",
-  "georss_polygon_s": "40.863781 -74.120069 40.863781 -74.096299 40.841478 -74.096299 40.841478 -74.120069 40.863781 -74.120069",
-  "solr_geom": "ENVELOPE(-74.120069, -74.096299, 40.863781, 40.841478)",
-  "solr_year_i": "1910"
+  "dc_title_s": "Wallington (Sheet 19)",
+  "layer_slug_s": "princeton-m900nw34k",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

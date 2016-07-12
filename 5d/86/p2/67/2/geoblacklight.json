@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1914",
   "uuid": "http://arks.princeton.edu/ark:/88435/5d86p2672",
   "dc_description_s": "North west Europe",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "5d86p2672",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/5d86p2672/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F5d%2F86%2Fp2%2F67%2F2%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "5d86p2672",
-  "layer_slug_s": "princeton-5d86p2672",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "49.4969821 2.3889137 51.5516667 6.4080405",
   "layer_modified_dt": "2015-01-25T02:06:13Z",
-  "dc_title_s": "North west Europe",
+  "layer_id_s": "5d86p2672",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Belgium",
-    "France"
-  ],
+  "dc_identifier_s": "5d86p2672",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "North west Europe",
+  "layer_slug_s": "princeton-5d86p2672",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/5d86p2672/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/5d/86/p2/67/2/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "51.5516667 2.3889137 51.5516667 6.4080405 49.4969821 6.4080405 49.4969821 2.3889137 51.5516667 2.3889137",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1914"
   ],
-  "georss_box_s": "49.4969821 2.3889137 51.5516667 6.4080405",
-  "georss_polygon_s": "51.5516667 2.3889137 51.5516667 6.4080405 49.4969821 6.4080405 49.4969821 2.3889137 51.5516667 2.3889137",
   "solr_geom": "ENVELOPE(2.3889137, 6.4080405, 51.5516667, 49.4969821)",
-  "solr_year_i": "1914"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Belgium",
+    "France"
+  ]
 }

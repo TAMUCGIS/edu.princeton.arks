@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/f7623f578",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Orange",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "f7623f578",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ff7%2F62%2F3f%2F57%2F8%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "f7623f578",
-  "layer_slug_s": "princeton-f7623f578",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:03:35Z",
+  "solr_geom": "ENVELOPE(-74.255273, -74.218485, 40.7898, 40.75199)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/f7/62/3f/57/8/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/f7623f578",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Orange (Sheet 111).",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1912"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "f7623f578",
+  "georss_polygon_s": "40.7898 -74.255273 40.7898 -74.218485 40.75199 -74.218485 40.75199 -74.255273 40.7898 -74.255273",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1912",
   "dct_spatial_sm": [
     "New Jersey",
     "Orange"
   ],
-  "dct_temporal_sm": [
-    "1912"
-  ],
+  "layer_id_s": "f7623f578",
   "georss_box_s": "40.75199 -74.255273 40.7898 -74.218485",
-  "georss_polygon_s": "40.7898 -74.255273 40.7898 -74.218485 40.75199 -74.218485 40.75199 -74.255273 40.7898 -74.255273",
-  "solr_geom": "ENVELOPE(-74.255273, -74.218485, 40.7898, 40.75199)",
-  "solr_year_i": "1912"
+  "dc_title_s": "Orange (Sheet 111).",
+  "layer_slug_s": "princeton-f7623f578",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

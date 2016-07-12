@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1751",
   "uuid": "http://arks.princeton.edu/ark:/88435/rr172075x",
-  "dc_description_s": "Carte réduite des costes d'Espagne et de Portugal depuis le Cap Pinas jusqu'au Détroit de Gibraltar /",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "rr172075x",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/rr172075x/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Frr%2F17%2F20%2F75%2Fx%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "rr172075x",
-  "layer_slug_s": "princeton-rr172075x",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Carte re\u0301duite des costes d'Espagne et de Portugal depuis le Cap Pinas jusqu'au De\u0301troit de Gibraltar /",
+  "georss_box_s": "35.0 -12.0 44.0 -6.0",
   "layer_modified_dt": "2015-01-23T17:48:40Z",
-  "dc_title_s": "Carte réduite des costes d'Espagne et de Portugal depuis le Cap Pinas jusqu'au Détroit de Gibraltar /",
+  "layer_id_s": "rr172075x",
   "dc_type_s": "Image",
+  "dc_identifier_s": "rr172075x",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Carte re\u0301duite des costes d'Espagne et de Portugal depuis le Cap Pinas jusqu'au De\u0301troit de Gibraltar /",
+  "layer_slug_s": "princeton-rr172075x",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/rr172075x/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/rr/17/20/75/x/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "44.0 -12.0 44.0 -6.0 35.0 -6.0 35.0 -12.0 44.0 -12.0",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1751"
+  ],
+  "solr_geom": "ENVELOPE(-12.0, -6.0, 44.0, 35.0)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Atlantic Coast (Portugal)",
     "A tlantic Coast (Spain)",
     "Portugal",
     "Spain"
-  ],
-  "dct_temporal_sm": [
-    "1751"
-  ],
-  "georss_box_s": "35.0 -12.0 44.0 -6.0",
-  "georss_polygon_s": "44.0 -12.0 44.0 -6.0 35.0 -6.0 35.0 -12.0 44.0 -12.0",
-  "solr_geom": "ENVELOPE(-12.0, -6.0, 44.0, 35.0)",
-  "solr_year_i": "1751"
+  ]
 }

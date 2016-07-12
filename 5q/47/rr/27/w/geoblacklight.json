@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1912",
   "uuid": "http://arks.princeton.edu/ark:/88435/5q47rr27w",
   "dc_description_s": "The Rand-McNally new library atlas map of Russia",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "5q47rr27w",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/5q47rr27w/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F5q%2F47%2Frr%2F27%2Fw%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "5q47rr27w",
-  "layer_slug_s": "princeton-5q47rr27w",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "41.185353 19.6403534 81.8581221 73.70861825",
   "layer_modified_dt": "2015-01-21T22:24:28Z",
-  "dc_title_s": "The Rand-McNally new library atlas map of Russia",
+  "layer_id_s": "5q47rr27w",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Russia, Western",
-    "Russia, Western"
-  ],
+  "dc_identifier_s": "5q47rr27w",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "The Rand-McNally new library atlas map of Russia",
+  "layer_slug_s": "princeton-5q47rr27w",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/5q47rr27w/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/5q/47/rr/27/w/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "81.8581221 19.6403534 81.8581221 73.70861825 41.185353 73.70861825 41.185353 19.6403534 81.8581221 19.6403534",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1912"
   ],
-  "georss_box_s": "41.185353 19.6403534 81.8581221 73.70861825",
-  "georss_polygon_s": "81.8581221 19.6403534 81.8581221 73.70861825 41.185353 73.70861825 41.185353 19.6403534 81.8581221 19.6403534",
   "solr_geom": "ENVELOPE(19.6403534, 73.70861825, 81.8581221, 41.185353)",
-  "solr_year_i": "1912"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Russia, Western",
+    "Russia, Western"
+  ]
 }

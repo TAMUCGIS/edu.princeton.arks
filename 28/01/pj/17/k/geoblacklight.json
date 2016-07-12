@@ -1,33 +1,33 @@
 {
+  "solr_year_i": "1700",
   "uuid": "http://arks.princeton.edu/ark:/88435/2801pj17k",
+  "dc_description_s": "Regna Congo et Angola",
+  "georss_box_s": "-18.0389449 11.4609793 -4.3888889 24.08212",
+  "layer_modified_dt": "2015-01-21T22:23:43Z",
   "dc_creator_sm": [
     "Valck, G.",
     "Jansson, Jan,",
     "Schenk, Peter,",
     "McCabe, Robert A.,"
   ],
-  "dc_description_s": "Regna Congo et Angola",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "2801pj17k",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/2801pj17k/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F28%2F01%2Fpj%2F17%2Fk%2F00000001.jp2/info.json\"}",
   "layer_id_s": "2801pj17k",
-  "layer_slug_s": "princeton-2801pj17k",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:43Z",
-  "dc_title_s": "Regna Congo et Angola",
   "dc_type_s": "Image",
+  "dc_identifier_s": "2801pj17k",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Regna Congo et Angola",
+  "layer_slug_s": "princeton-2801pj17k",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/2801pj17k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/28/01/pj/17/k/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "-4.3888889 11.4609793 -4.3888889 24.08212 -18.0389449 24.08212 -18.0389449 11.4609793 -4.3888889 11.4609793",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1700"
+  ],
+  "solr_geom": "ENVELOPE(11.4609793, 24.08212, -4.3888889, -18.0389449)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Angola",
     "Congo",
     "Africa, West"
-  ],
-  "dct_temporal_sm": [
-    "1700"
-  ],
-  "georss_box_s": "-18.0389449 11.4609793 -4.3888889 24.08212",
-  "georss_polygon_s": "-4.3888889 11.4609793 -4.3888889 24.08212 -18.0389449 24.08212 -18.0389449 11.4609793 -4.3888889 11.4609793",
-  "solr_geom": "ENVELOPE(11.4609793, 24.08212, -4.3888889, -18.0389449)",
-  "solr_year_i": "1700"
+  ]
 }

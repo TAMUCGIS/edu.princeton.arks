@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1587",
   "uuid": "http://arks.princeton.edu/ark:/88435/0r9676101",
+  "dc_description_s": "Peregrinationis divi Pauli typus corographicus : in quo et noui testamenti, in primis autem apostolorum historiae, a\u0300 sancto Luca descriptae, omnia fere\u0300 loca geographica, oculis inspicienda, exhibantur",
+  "georss_box_s": "35.8076804 29.0876878 38.5861136 37.7518928",
+  "layer_modified_dt": "2015-01-21T22:23:58Z",
   "dc_creator_sm": [
     "Ortelius, Abraham,"
   ],
-  "dc_description_s": "Peregrinationis divi Pauli typus corographicus : in quo et noui testamenti, in primis autem apostolorum historiae, à sancto Luca descriptae, omnia ferè loca geographica, oculis inspicienda, exhibantur",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "0r9676101",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/0r9676101/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F0r%2F96%2F76%2F10%2F1%2F00000001.jp2/info.json\"}",
   "layer_id_s": "0r9676101",
-  "layer_slug_s": "princeton-0r9676101",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:58Z",
-  "dc_title_s": "Peregrinationis divi Pauli typus corographicus : in quo et noui testamenti, in primis autem apostolorum historiae, à sancto Luca descriptae, omnia ferè loca geographica, oculis inspicienda, exhibantur",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Mediterranean Region"
-  ],
+  "dc_identifier_s": "0r9676101",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Peregrinationis divi Pauli typus corographicus : in quo et noui testamenti, in primis autem apostolorum historiae, a\u0300 sancto Luca descriptae, omnia fere\u0300 loca geographica, oculis inspicienda, exhibantur",
+  "layer_slug_s": "princeton-0r9676101",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/0r9676101/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/0r/96/76/10/1/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "38.5861136 29.0876878 38.5861136 37.7518928 35.8076804 37.7518928 35.8076804 29.0876878 38.5861136 29.0876878",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1587"
   ],
-  "georss_box_s": "35.8076804 29.0876878 38.5861136 37.7518928",
-  "georss_polygon_s": "38.5861136 29.0876878 38.5861136 37.7518928 35.8076804 37.7518928 35.8076804 29.0876878 38.5861136 29.0876878",
   "solr_geom": "ENVELOPE(29.0876878, 37.7518928, 38.5861136, 35.8076804)",
-  "solr_year_i": "1587"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Mediterranean Region"
+  ]
 }

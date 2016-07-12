@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/rj4306456",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Burlington",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "rj4306456",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Frj%2F43%2F06%2F45%2F6%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "rj4306456",
-  "layer_slug_s": "princeton-rj4306456",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:02:10Z",
+  "solr_geom": "ENVELOPE(-74.879239, -74.828908, 40.09805, 40.062631)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/rj/43/06/45/6/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/rj4306456",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Vincentown, Burlington County, New Jersey (Sheet 3)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1924"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "rj4306456",
+  "georss_polygon_s": "40.09805 -74.879239 40.09805 -74.828908 40.062631 -74.828908 40.062631 -74.879239 40.09805 -74.879239",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1924",
   "dct_spatial_sm": [
     "New Jersey",
     "Burlington"
   ],
-  "dct_temporal_sm": [
-    "1924"
-  ],
+  "layer_id_s": "rj4306456",
   "georss_box_s": "40.062631 -74.879239 40.09805 -74.828908",
-  "georss_polygon_s": "40.09805 -74.879239 40.09805 -74.828908 40.062631 -74.828908 40.062631 -74.879239 40.09805 -74.879239",
-  "solr_geom": "ENVELOPE(-74.879239, -74.828908, 40.09805, 40.062631)",
-  "solr_year_i": "1924"
+  "dc_title_s": "Vincentown, Burlington County, New Jersey (Sheet 3)",
+  "layer_slug_s": "princeton-rj4306456",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

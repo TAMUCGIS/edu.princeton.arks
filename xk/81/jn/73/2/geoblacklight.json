@@ -1,28 +1,26 @@
 {
+  "solr_year_i": "1953",
   "uuid": "http://arks.princeton.edu/ark:/88435/xk81jn732",
+  "dc_description_s": "United States",
+  "georss_box_s": "30.0 -125.0 50.0 -102.0",
+  "layer_modified_dt": "2015-01-19T22:37:00Z",
   "dc_creator_sm": [
     "Smith, Roswell Chamberlain,"
   ],
-  "dc_description_s": "United States",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "xk81jn732",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/xk81jn732/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fxk%2F81%2Fjn%2F73%2F2%2F00000001.jp2/info.json\"}",
   "layer_id_s": "xk81jn732",
-  "layer_slug_s": "princeton-xk81jn732",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:00Z",
-  "dc_title_s": "United States",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "xk81jn732",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "United States",
+  "layer_slug_s": "princeton-xk81jn732",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/xk81jn732/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/xk/81/jn/73/2/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "50.0 -125.0 50.0 -102.0 30.0 -102.0 30.0 -125.0 50.0 -125.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1953"
   ],
-  "georss_box_s": "30.0 -125.0 50.0 -102.0",
-  "georss_polygon_s": "50.0 -125.0 50.0 -102.0 30.0 -102.0 30.0 -125.0 50.0 -125.0",
   "solr_geom": "ENVELOPE(-125.0, -102.0, 50.0, 30.0)",
-  "solr_year_i": "1953"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

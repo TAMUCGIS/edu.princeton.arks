@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1892",
   "uuid": "http://arks.princeton.edu/ark:/88435/8c97ks92n",
+  "dc_description_s": "St. Goar und Umgebung",
+  "georss_box_s": "48.9664472 6.1124293 50.9423256 8.5083135",
+  "layer_modified_dt": "2015-01-21T22:24:22Z",
   "dc_creator_sm": [
     "Woerl, Leo,"
   ],
-  "dc_description_s": "St. Goar und Umgebung",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "8c97ks92n",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/8c97ks92n/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F8c%2F97%2Fks%2F92%2Fn%2F00000001.jp2/info.json\"}",
   "layer_id_s": "8c97ks92n",
-  "layer_slug_s": "princeton-8c97ks92n",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:22Z",
-  "dc_title_s": "St. Goar und Umgebung",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Rhineland-Palatinate (Germany)",
-    "Sankt Goar (Germany)"
-  ],
+  "dc_identifier_s": "8c97ks92n",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "St. Goar und Umgebung",
+  "layer_slug_s": "princeton-8c97ks92n",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/8c97ks92n/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/8c/97/ks/92/n/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "50.9423256 6.1124293 50.9423256 8.5083135 48.9664472 8.5083135 48.9664472 6.1124293 50.9423256 6.1124293",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1892"
   ],
-  "georss_box_s": "48.9664472 6.1124293 50.9423256 8.5083135",
-  "georss_polygon_s": "50.9423256 6.1124293 50.9423256 8.5083135 48.9664472 8.5083135 48.9664472 6.1124293 50.9423256 6.1124293",
   "solr_geom": "ENVELOPE(6.1124293, 8.5083135, 50.9423256, 48.9664472)",
-  "solr_year_i": "1892"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Rhineland-Palatinate (Germany)",
+    "Sankt Goar (Germany)"
+  ]
 }

@@ -1,31 +1,31 @@
 {
+  "solr_year_i": "1885",
   "uuid": "http://arks.princeton.edu/ark:/88435/jm214r60m",
+  "dc_description_s": "Carte de la Palestine et du Liban : comprenant en outre, les re\u0301gions situe\u0301es a l'Est de l'Anti-Liban, du Jourdain et de la Mer Morte",
+  "georss_box_s": "31.0 32.0 33.0 35.0",
+  "layer_modified_dt": "2015-01-23T17:48:36Z",
   "dc_creator_sm": [
     "Chauvet, Ad.",
     "Rey, E. G."
   ],
-  "dc_description_s": "Carte de la Palestine et du Liban : comprenant en outre, les régions situées a l'Est de l'Anti-Liban, du Jourdain et de la Mer Morte",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "jm214r60m",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/jm214r60m/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fm%2F21%2F4r%2F60%2Fm%2F00000001.jp2/info.json\"}",
   "layer_id_s": "jm214r60m",
-  "layer_slug_s": "princeton-jm214r60m",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-23T17:48:36Z",
-  "dc_title_s": "Carte de la Palestine et du Liban : comprenant en outre, les régions situées a l'Est de l'Anti-Liban, du Jourdain et de la Mer Morte",
   "dc_type_s": "Image",
+  "dc_identifier_s": "jm214r60m",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Carte de la Palestine et du Liban : comprenant en outre, les re\u0301gions situe\u0301es a l'Est de l'Anti-Liban, du Jourdain et de la Mer Morte",
+  "layer_slug_s": "princeton-jm214r60m",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/jm214r60m/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/jm/21/4r/60/m/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "33.0 32.0 33.0 35.0 31.0 35.0 31.0 32.0 33.0 32.0",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1885"
+  ],
+  "solr_geom": "ENVELOPE(32.0, 35.0, 33.0, 31.0)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Lebanon",
     "Palestine",
     "Syria"
-  ],
-  "dct_temporal_sm": [
-    "1885"
-  ],
-  "georss_box_s": "31.0 32.0 33.0 35.0",
-  "georss_polygon_s": "33.0 32.0 33.0 35.0 31.0 35.0 31.0 32.0 33.0 32.0",
-  "solr_geom": "ENVELOPE(32.0, 35.0, 33.0, 31.0)",
-  "solr_year_i": "1885"
+  ]
 }

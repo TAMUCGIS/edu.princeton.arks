@@ -1,31 +1,31 @@
 {
+  "solr_year_i": "1841",
   "uuid": "http://arks.princeton.edu/ark:/88435/w6634609p",
+  "dc_description_s": "Plan of Jerusalem",
+  "georss_box_s": "31.7087672 35.0854203 31.8826765 35.2630682",
+  "layer_modified_dt": "2015-01-21T22:24:13Z",
   "dc_creator_sm": [
     "Smith, Eli,",
     "Catherwood, Frederick.",
     "Sieber, F. W.",
     "Gilchrist, Robert,"
   ],
-  "dc_description_s": "Plan of Jerusalem",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "w6634609p",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/w6634609p/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fw6%2F63%2F46%2F09%2Fp%2F00000001.jp2/info.json\"}",
   "layer_id_s": "w6634609p",
-  "layer_slug_s": "princeton-w6634609p",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:13Z",
-  "dc_title_s": "Plan of Jerusalem",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Jerusalem"
-  ],
+  "dc_identifier_s": "w6634609p",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Plan of Jerusalem",
+  "layer_slug_s": "princeton-w6634609p",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/w6634609p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/w6/63/46/09/p/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "31.8826765 35.0854203 31.8826765 35.2630682 31.7087672 35.2630682 31.7087672 35.0854203 31.8826765 35.0854203",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1841"
   ],
-  "georss_box_s": "31.7087672 35.0854203 31.8826765 35.2630682",
-  "georss_polygon_s": "31.8826765 35.0854203 31.8826765 35.2630682 31.7087672 35.2630682 31.7087672 35.0854203 31.8826765 35.0854203",
   "solr_geom": "ENVELOPE(35.0854203, 35.2630682, 31.8826765, 31.7087672)",
-  "solr_year_i": "1841"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Jerusalem"
+  ]
 }

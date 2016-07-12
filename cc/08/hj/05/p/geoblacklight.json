@@ -1,30 +1,28 @@
 {
+  "solr_year_i": "1854",
   "uuid": "http://arks.princeton.edu/ark:/88435/cc08hj05p",
+  "dc_description_s": "A plan of the city and environs of New York : as they were in the years 1742-1743 and 1744",
+  "georss_box_s": "40.7702778 -73.9797222 40.8102778 -73.9397222",
+  "layer_modified_dt": "2015-01-21T22:24:01Z",
   "dc_creator_sm": [
     "Valentine, D. T.",
     "Hayward, George,",
     "Fox, N. B.,"
   ],
-  "dc_description_s": "A plan of the city and environs of New York : as they were in the years 1742-1743 and 1744",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "cc08hj05p",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/cc08hj05p/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fcc%2F08%2Fhj%2F05%2Fp%2F00000001.jp2/info.json\"}",
   "layer_id_s": "cc08hj05p",
-  "layer_slug_s": "princeton-cc08hj05p",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:01Z",
-  "dc_title_s": "A plan of the city and environs of New York : as they were in the years 1742-1743 and 1744",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "cc08hj05p",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "A plan of the city and environs of New York : as they were in the years 1742-1743 and 1744",
+  "layer_slug_s": "princeton-cc08hj05p",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/cc08hj05p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/cc/08/hj/05/p/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.8102778 -73.9797222 40.8102778 -73.9397222 40.7702778 -73.9397222 40.7702778 -73.9797222 40.8102778 -73.9797222",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1854"
   ],
-  "georss_box_s": "40.7702778 -73.9797222 40.8102778 -73.9397222",
-  "georss_polygon_s": "40.8102778 -73.9797222 40.8102778 -73.9397222 40.7702778 -73.9397222 40.7702778 -73.9797222 40.8102778 -73.9797222",
   "solr_geom": "ENVELOPE(-73.9797222, -73.9397222, 40.8102778, 40.7702778)",
-  "solr_year_i": "1854"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

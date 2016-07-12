@@ -1,31 +1,31 @@
 {
+  "solr_year_i": "1818",
   "uuid": "http://arks.princeton.edu/ark:/88435/w37639213",
+  "dc_description_s": "New Granada",
+  "georss_box_s": "-7.0 -82.0 13.0 -67.0",
+  "layer_modified_dt": "2015-01-19T22:37:12Z",
   "dc_creator_sm": [
     "Hebert, L.",
     "Neele, Samuel John,",
     "Pinkerton, John,"
   ],
-  "dc_description_s": "New Granada",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "w37639213",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/w37639213/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fw3%2F76%2F39%2F21%2F3%2F00000001.jp2/info.json\"}",
   "layer_id_s": "w37639213",
-  "layer_slug_s": "princeton-w37639213",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:12Z",
-  "dc_title_s": "New Granada",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Colombia",
-    "Ecuador"
-  ],
+  "dc_identifier_s": "w37639213",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "New Granada",
+  "layer_slug_s": "princeton-w37639213",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/w37639213/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/w3/76/39/21/3/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "13.0 -82.0 13.0 -67.0 -7.0 -67.0 -7.0 -82.0 13.0 -82.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1818"
   ],
-  "georss_box_s": "-7.0 -82.0 13.0 -67.0",
-  "georss_polygon_s": "13.0 -82.0 13.0 -67.0 -7.0 -67.0 -7.0 -82.0 13.0 -82.0",
   "solr_geom": "ENVELOPE(-82.0, -67.0, 13.0, -7.0)",
-  "solr_year_i": "1818"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Colombia",
+    "Ecuador"
+  ]
 }

@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1827",
   "uuid": "http://arks.princeton.edu/ark:/88435/6d56zz904",
+  "dc_description_s": "Partie du De\u0301sert de Sahara",
+  "georss_box_s": "24.0 -15.6666666667 30.0 -7.66666666667",
+  "layer_modified_dt": "2015-01-19T22:36:59Z",
   "dc_creator_sm": [
     "Vandermaelen, Philippe, 1795-1869."
   ],
-  "dc_description_s": "Partie du Désert de Sahara",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "6d56zz904",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/6d56zz904/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F6d%2F56%2Fzz%2F90%2F4%2F00000001.jp2/info.json\"}",
   "layer_id_s": "6d56zz904",
-  "layer_slug_s": "princeton-6d56zz904",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:36:59Z",
-  "dc_title_s": "Partie du Désert de Sahara",
   "dc_type_s": "Image",
+  "dc_identifier_s": "6d56zz904",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Partie du De\u0301sert de Sahara",
+  "layer_slug_s": "princeton-6d56zz904",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/6d56zz904/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/6d/56/zz/90/4/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "30.0 -15.6666666667 30.0 -7.66666666667 24.0 -7.66666666667 24.0 -15.6666666667 30.0 -15.6666666667",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1827"
+  ],
+  "solr_geom": "ENVELOPE(-15.6666666667, -7.66666666667, 30.0, 24.0)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Morocco",
     "Western Sahara",
     "Canary Islands"
-  ],
-  "dct_temporal_sm": [
-    "1827"
-  ],
-  "georss_box_s": "24.0 -15.6666666667 30.0 -7.66666666667",
-  "georss_polygon_s": "30.0 -15.6666666667 30.0 -7.66666666667 24.0 -7.66666666667 24.0 -15.6666666667 30.0 -15.6666666667",
-  "solr_geom": "ENVELOPE(-15.6666666667, -7.66666666667, 30.0, 24.0)",
-  "solr_year_i": "1827"
+  ]
 }

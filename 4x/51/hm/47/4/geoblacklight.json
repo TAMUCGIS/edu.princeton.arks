@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1825",
   "uuid": "http://arks.princeton.edu/ark:/88435/4x51hm474",
+  "dc_description_s": "Carta de las costas de Tierra Firme desde el rio Orinoco hasta Yucatan y de las islas Antillas y Lucayas : con las derrotas que siguio\u0301 Dn. Cristobal Colon en sus descubrimientos por estos mares",
+  "georss_box_s": "5.4961 -92.2714 18.495942 -77.158488",
+  "layer_modified_dt": "2015-01-21T22:24:09Z",
   "dc_creator_sm": [
     "Esteve, Rafael,",
     "Gangoiti, Pedro Manuel,"
   ],
-  "dc_description_s": "Carta de las costas de Tierra Firme desde el rio Orinoco hasta Yucatan y de las islas Antillas y Lucayas : con las derrotas que siguió Dn. Cristobal Colon en sus descubrimientos por estos mares",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "4x51hm474",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/4x51hm474/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F4x%2F51%2Fhm%2F47%2F4%2F00000001.jp2/info.json\"}",
   "layer_id_s": "4x51hm474",
-  "layer_slug_s": "princeton-4x51hm474",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:09Z",
-  "dc_title_s": "Carta de las costas de Tierra Firme desde el rio Orinoco hasta Yucatan y de las islas Antillas y Lucayas : con las derrotas que siguió Dn. Cristobal Colon en sus descubrimientos por estos mares",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Central America",
-    "West Indies"
-  ],
+  "dc_identifier_s": "4x51hm474",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Carta de las costas de Tierra Firme desde el rio Orinoco hasta Yucatan y de las islas Antillas y Lucayas : con las derrotas que siguio\u0301 Dn. Cristobal Colon en sus descubrimientos por estos mares",
+  "layer_slug_s": "princeton-4x51hm474",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/4x51hm474/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/4x/51/hm/47/4/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "18.495942 -92.2714 18.495942 -77.158488 5.4961 -77.158488 5.4961 -92.2714 18.495942 -92.2714",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1825"
   ],
-  "georss_box_s": "5.4961 -92.2714 18.495942 -77.158488",
-  "georss_polygon_s": "18.495942 -92.2714 18.495942 -77.158488 5.4961 -77.158488 5.4961 -92.2714 18.495942 -92.2714",
   "solr_geom": "ENVELOPE(-92.2714, -77.158488, 18.495942, 5.4961)",
-  "solr_year_i": "1825"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Central America",
+    "West Indies"
+  ]
 }

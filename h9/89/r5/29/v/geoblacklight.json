@@ -1,31 +1,31 @@
 {
+  "solr_year_i": "1688",
   "uuid": "http://arks.princeton.edu/ark:/88435/h989r529v",
+  "dc_description_s": "A new map of New Jarsey and Pensilvania",
+  "georss_box_s": "38.7911303 -75.5633859 41.357423 -73.8939789",
+  "layer_modified_dt": "2015-01-21T22:23:54Z",
   "dc_creator_sm": [
     "Cockerill, Thomas,",
     "Morden, Robert,"
   ],
-  "dc_description_s": "A new map of New Jarsey and Pensilvania",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "h989r529v",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/h989r529v/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fh9%2F89%2Fr5%2F29%2Fv%2F00000001.jp2/info.json\"}",
   "layer_id_s": "h989r529v",
-  "layer_slug_s": "princeton-h989r529v",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:54Z",
-  "dc_title_s": "A new map of New Jarsey and Pensilvania",
   "dc_type_s": "Image",
+  "dc_identifier_s": "h989r529v",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "A new map of New Jarsey and Pensilvania",
+  "layer_slug_s": "princeton-h989r529v",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/h989r529v/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/h9/89/r5/29/v/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "41.357423 -75.5633859 41.357423 -73.8939789 38.7911303 -73.8939789 38.7911303 -75.5633859 41.357423 -75.5633859",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1688"
+  ],
+  "solr_geom": "ENVELOPE(-75.5633859, -73.8939789, 41.357423, 38.7911303)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "New Jersey",
     "Pennsylvania",
     "Middle Atlantic States"
-  ],
-  "dct_temporal_sm": [
-    "1688"
-  ],
-  "georss_box_s": "38.7911303 -75.5633859 41.357423 -73.8939789",
-  "georss_polygon_s": "41.357423 -75.5633859 41.357423 -73.8939789 38.7911303 -73.8939789 38.7911303 -75.5633859 41.357423 -75.5633859",
-  "solr_geom": "ENVELOPE(-75.5633859, -73.8939789, 41.357423, 38.7911303)",
-  "solr_year_i": "1688"
+  ]
 }

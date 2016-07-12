@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/w95052664",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Wanaque",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "w95052664",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fw9%2F50%2F52%2F66%2F4%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "w95052664",
-  "layer_slug_s": "princeton-w95052664",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:07:29Z",
+  "solr_geom": "ENVELOPE(-74.324369, -74.250595, 41.072932, 41.011397)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/w9/50/52/66/4/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/w95052664",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Wanaque, Passaic County, New Jersey (Sheet 7).",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1923"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "w95052664",
+  "georss_polygon_s": "41.072932 -74.324369 41.072932 -74.250595 41.011397 -74.250595 41.011397 -74.324369 41.072932 -74.324369",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1923",
   "dct_spatial_sm": [
     "New Jersey",
     "Wanaque"
   ],
-  "dct_temporal_sm": [
-    "1923"
-  ],
+  "layer_id_s": "w95052664",
   "georss_box_s": "41.011397 -74.324369 41.072932 -74.250595",
-  "georss_polygon_s": "41.072932 -74.324369 41.072932 -74.250595 41.011397 -74.250595 41.011397 -74.324369 41.072932 -74.324369",
-  "solr_geom": "ENVELOPE(-74.324369, -74.250595, 41.072932, 41.011397)",
-  "solr_year_i": "1923"
+  "dc_title_s": "Wanaque, Passaic County, New Jersey (Sheet 7).",
+  "layer_slug_s": "princeton-w95052664",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

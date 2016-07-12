@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1753",
   "uuid": "http://arks.princeton.edu/ark:/88435/sq87bw511",
-  "dc_creator_sm": [
-    "Prévost,"
-  ],
-  "dc_description_s": "Carte du Détroit de la Maire : dressée sur les Journaux des Navigateurs",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "sq87bw511",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/sq87bw511/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fsq%2F87%2Fbw%2F51%2F1%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "sq87bw511",
-  "layer_slug_s": "princeton-sq87bw511",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Carte du De\u0301troit de la Maire : dresse\u0301e sur les Journaux des Navigateurs",
+  "georss_box_s": "-55.6475755 -66.9656172 -54.002329 -62.8677168",
   "layer_modified_dt": "2015-01-21T22:23:50Z",
-  "dc_title_s": "Carte du Détroit de la Maire : dressée sur les Journaux des Navigateurs",
-  "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Le Maire Strait (Argentina)"
+  "dc_creator_sm": [
+    "Pre\u0301vost,"
   ],
+  "layer_id_s": "sq87bw511",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "sq87bw511",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Carte du De\u0301troit de la Maire : dresse\u0301e sur les Journaux des Navigateurs",
+  "layer_slug_s": "princeton-sq87bw511",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/sq87bw511/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/sq/87/bw/51/1/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "-54.002329 -66.9656172 -54.002329 -62.8677168 -55.6475755 -62.8677168 -55.6475755 -66.9656172 -54.002329 -66.9656172",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1753"
   ],
-  "georss_box_s": "-55.6475755 -66.9656172 -54.002329 -62.8677168",
-  "georss_polygon_s": "-54.002329 -66.9656172 -54.002329 -62.8677168 -55.6475755 -62.8677168 -55.6475755 -66.9656172 -54.002329 -66.9656172",
   "solr_geom": "ENVELOPE(-66.9656172, -62.8677168, -54.002329, -55.6475755)",
-  "solr_year_i": "1753"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Le Maire Strait (Argentina)"
+  ]
 }

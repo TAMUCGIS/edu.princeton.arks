@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/5d86p2386",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of North Haledon",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "5d86p2386",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F5d%2F86%2Fp2%2F38%2F6%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "5d86p2386",
-  "layer_slug_s": "princeton-5d86p2386",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:06:45Z",
+  "solr_geom": "ENVELOPE(-74.211732, -74.16817, 40.980156, 40.944591)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/5d/86/p2/38/6/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/5d86p2386",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "North Haledon, Passaic County, New Jersey (Sheet 3).",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1933"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "5d86p2386",
+  "georss_polygon_s": "40.980156 -74.211732 40.980156 -74.16817 40.944591 -74.16817 40.944591 -74.211732 40.980156 -74.211732",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1933",
   "dct_spatial_sm": [
     "New Jersey",
     "North Haledon"
   ],
-  "dct_temporal_sm": [
-    "1933"
-  ],
+  "layer_id_s": "5d86p2386",
   "georss_box_s": "40.944591 -74.211732 40.980156 -74.16817",
-  "georss_polygon_s": "40.980156 -74.211732 40.980156 -74.16817 40.944591 -74.16817 40.944591 -74.211732 40.980156 -74.211732",
-  "solr_geom": "ENVELOPE(-74.211732, -74.16817, 40.980156, 40.944591)",
-  "solr_year_i": "1933"
+  "dc_title_s": "North Haledon, Passaic County, New Jersey (Sheet 3).",
+  "layer_slug_s": "princeton-5d86p2386",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

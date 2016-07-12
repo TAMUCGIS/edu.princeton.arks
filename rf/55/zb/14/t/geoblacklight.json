@@ -1,27 +1,27 @@
 {
+  "solr_year_i": "1763",
   "uuid": "http://arks.princeton.edu/ark:/88435/rf55zb14t",
-  "dc_description_s": "Entrée des rivières d'Ouyapoco et de Couripi",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "rf55zb14t",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/rf55zb14t/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Frf%2F55%2Fzb%2F14%2Ft%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "rf55zb14t",
-  "layer_slug_s": "princeton-rf55zb14t",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Entre\u0301e des rivie\u0300res d'Ouyapoco et de Couripi",
+  "georss_box_s": "2.112222 -54.6027779 5.7507111 -51.6345298",
   "layer_modified_dt": "2015-01-21T22:24:07Z",
-  "dc_title_s": "Entrée des rivières d'Ouyapoco et de Couripi",
+  "layer_id_s": "rf55zb14t",
   "dc_type_s": "Image",
+  "dc_identifier_s": "rf55zb14t",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Entre\u0301e des rivie\u0300res d'Ouyapoco et de Couripi",
+  "layer_slug_s": "princeton-rf55zb14t",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/rf55zb14t/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/rf/55/zb/14/t/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "5.7507111 -54.6027779 5.7507111 -51.6345298 2.112222 -51.6345298 2.112222 -54.6027779 5.7507111 -54.6027779",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1763"
+  ],
+  "solr_geom": "ENVELOPE(-54.6027779, -51.6345298, 5.7507111, 2.112222)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "French Guiana",
     "Brazil",
     "Oiapoque River (French Guiana and Brazil)"
-  ],
-  "dct_temporal_sm": [
-    "1763"
-  ],
-  "georss_box_s": "2.112222 -54.6027779 5.7507111 -51.6345298",
-  "georss_polygon_s": "5.7507111 -54.6027779 5.7507111 -51.6345298 2.112222 -51.6345298 2.112222 -54.6027779 5.7507111 -54.6027779",
-  "solr_geom": "ENVELOPE(-54.6027779, -51.6345298, 5.7507111, 2.112222)",
-  "solr_year_i": "1763"
+  ]
 }

@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1570",
   "uuid": "http://arks.princeton.edu/ark:/88435/h415pc374",
+  "dc_description_s": "Aegypti recentior descriptio",
+  "georss_box_s": "24.0 28.0 33.0 34.0",
+  "layer_modified_dt": "2015-01-19T22:36:42Z",
   "dc_creator_sm": [
     "Ortelius, Abraham,",
     "McCabe, Robert A.,"
   ],
-  "dc_description_s": "Aegypti recentior descriptio",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "h415pc374",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/h415pc374/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fh4%2F15%2Fpc%2F37%2F4%2F00000001.jp2/info.json\"}",
   "layer_id_s": "h415pc374",
-  "layer_slug_s": "princeton-h415pc374",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:36:42Z",
-  "dc_title_s": "Aegypti recentior descriptio",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Egypt",
-    "Nile River Delta (Egypt)"
-  ],
+  "dc_identifier_s": "h415pc374",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Aegypti recentior descriptio",
+  "layer_slug_s": "princeton-h415pc374",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/h415pc374/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/h4/15/pc/37/4/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "33.0 28.0 33.0 34.0 24.0 34.0 24.0 28.0 33.0 28.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1570"
   ],
-  "georss_box_s": "24.0 28.0 33.0 34.0",
-  "georss_polygon_s": "33.0 28.0 33.0 34.0 24.0 34.0 24.0 28.0 33.0 28.0",
   "solr_geom": "ENVELOPE(28.0, 34.0, 33.0, 24.0)",
-  "solr_year_i": "1570"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Egypt",
+    "Nile River Delta (Egypt)"
+  ]
 }

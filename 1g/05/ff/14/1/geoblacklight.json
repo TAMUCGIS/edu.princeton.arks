@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1909",
   "uuid": "http://arks.princeton.edu/ark:/88435/1g05ff141",
   "dc_description_s": "Kempten (ost)",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "1g05ff141",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/1g05ff141/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F1g%2F05%2Fff%2F14%2F1%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "1g05ff141",
-  "layer_slug_s": "princeton-1g05ff141",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "47.2701114 8.9763497 50.5647142 13.8396373",
   "layer_modified_dt": "2015-01-21T22:24:29Z",
-  "dc_title_s": "Kempten (ost)",
+  "layer_id_s": "1g05ff141",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Bavaria (Germany)",
-    "Kempten (Germany)"
-  ],
+  "dc_identifier_s": "1g05ff141",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Kempten (ost)",
+  "layer_slug_s": "princeton-1g05ff141",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/1g05ff141/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/1g/05/ff/14/1/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "50.5647142 8.9763497 50.5647142 13.8396373 47.2701114 13.8396373 47.2701114 8.9763497 50.5647142 8.9763497",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1909"
   ],
-  "georss_box_s": "47.2701114 8.9763497 50.5647142 13.8396373",
-  "georss_polygon_s": "50.5647142 8.9763497 50.5647142 13.8396373 47.2701114 13.8396373 47.2701114 8.9763497 50.5647142 8.9763497",
   "solr_geom": "ENVELOPE(8.9763497, 13.8396373, 50.5647142, 47.2701114)",
-  "solr_year_i": "1909"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Bavaria (Germany)",
+    "Kempten (Germany)"
+  ]
 }

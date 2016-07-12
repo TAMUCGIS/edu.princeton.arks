@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1912",
   "uuid": "http://arks.princeton.edu/ark:/88435/qn59q646m",
   "dc_description_s": "The Rand-McNally new library atlas map of Egpyt",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "qn59q646m",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/qn59q646m/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fqn%2F59%2Fq6%2F46%2Fm%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "qn59q646m",
-  "layer_slug_s": "princeton-qn59q646m",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "21.9999975 24.706389 31.8330854 37.1153517",
   "layer_modified_dt": "2015-01-25T02:06:14Z",
-  "dc_title_s": "The Rand-McNally new library atlas map of Egpyt",
+  "layer_id_s": "qn59q646m",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Egypt",
-    "Nile River Delta (Egypt)"
-  ],
+  "dc_identifier_s": "qn59q646m",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "The Rand-McNally new library atlas map of Egpyt",
+  "layer_slug_s": "princeton-qn59q646m",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/qn59q646m/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/qn/59/q6/46/m/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "31.8330854 24.706389 31.8330854 37.1153517 21.9999975 37.1153517 21.9999975 24.706389 31.8330854 24.706389",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1912"
   ],
-  "georss_box_s": "21.9999975 24.706389 31.8330854 37.1153517",
-  "georss_polygon_s": "31.8330854 24.706389 31.8330854 37.1153517 21.9999975 37.1153517 21.9999975 24.706389 31.8330854 24.706389",
   "solr_geom": "ENVELOPE(24.706389, 37.1153517, 31.8330854, 21.9999975)",
-  "solr_year_i": "1912"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Egypt",
+    "Nile River Delta (Egypt)"
+  ]
 }

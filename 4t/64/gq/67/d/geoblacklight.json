@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1701",
   "uuid": "http://arks.princeton.edu/ark:/88435/4t64gq67d",
+  "dc_description_s": "Germany",
+  "georss_box_s": "46.3722761 9.5307265 49.0205304 17.160776",
+  "layer_modified_dt": "2015-01-21T22:24:21Z",
   "dc_creator_sm": [
     "Moll, Herman,"
   ],
-  "dc_description_s": "Germany",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "4t64gq67d",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/4t64gq67d/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F4t%2F64%2Fgq%2F67%2Fd%2F00000001.jp2/info.json\"}",
   "layer_id_s": "4t64gq67d",
-  "layer_slug_s": "princeton-4t64gq67d",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:21Z",
-  "dc_title_s": "Germany",
   "dc_type_s": "Image",
+  "dc_identifier_s": "4t64gq67d",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Germany",
+  "layer_slug_s": "princeton-4t64gq67d",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/4t64gq67d/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/4t/64/gq/67/d/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "49.0205304 9.5307265 49.0205304 17.160776 46.3722761 17.160776 46.3722761 9.5307265 49.0205304 9.5307265",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1701"
+  ],
+  "solr_geom": "ENVELOPE(9.5307265, 17.160776, 49.0205304, 46.3722761)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Austria",
     "Germany",
     "Poland"
-  ],
-  "dct_temporal_sm": [
-    "1701"
-  ],
-  "georss_box_s": "46.3722761 9.5307265 49.0205304 17.160776",
-  "georss_polygon_s": "49.0205304 9.5307265 49.0205304 17.160776 46.3722761 17.160776 46.3722761 9.5307265 49.0205304 9.5307265",
-  "solr_geom": "ENVELOPE(9.5307265, 17.160776, 49.0205304, 46.3722761)",
-  "solr_year_i": "1701"
+  ]
 }

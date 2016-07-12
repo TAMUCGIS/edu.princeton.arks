@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1853",
   "uuid": "http://arks.princeton.edu/ark:/88435/ff3657743",
-  "dc_creator_sm": [
-    "Stülpnagel, F. von.",
-    "Bär, J. C."
-  ],
-  "dc_description_s": "Karte von Deutschland, dem Königr. der Niederlande, dem Kgr. Belgien, der Schweiz, und den angränzenden Ländern, bis Paris, Lyon, Turin, Mailand, Venedig, Ofen, Königsberg, in XXV Blättern",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "ff3657743",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/ff3657743/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fff%2F36%2F57%2F74%2F3%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "ff3657743",
-  "layer_slug_s": "princeton-ff3657743",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Karte von Deutschland, dem Ko\u0308nigr. der Niederlande, dem Kgr. Belgien, der Schweiz, und den angra\u0308nzenden La\u0308ndern, bis Paris, Lyon, Turin, Mailand, Venedig, Ofen, Ko\u0308nigsberg, in XXV Bla\u0308ttern",
+  "georss_box_s": "45.4216739 5.8663425 55.0815 24.1458932",
   "layer_modified_dt": "2015-01-25T02:06:17Z",
-  "dc_title_s": "Karte von Deutschland, dem Königr. der Niederlande, dem Kgr. Belgien, der Schweiz, und den angränzenden Ländern, bis Paris, Lyon, Turin, Mailand, Venedig, Ofen, Königsberg, in XXV Blättern",
-  "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Europe, Central",
-    "Germany"
+  "dc_creator_sm": [
+    "Stu\u0308lpnagel, F. von.",
+    "Ba\u0308r, J. C."
   ],
+  "layer_id_s": "ff3657743",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "ff3657743",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Karte von Deutschland, dem Ko\u0308nigr. der Niederlande, dem Kgr. Belgien, der Schweiz, und den angra\u0308nzenden La\u0308ndern, bis Paris, Lyon, Turin, Mailand, Venedig, Ofen, Ko\u0308nigsberg, in XXV Bla\u0308ttern",
+  "layer_slug_s": "princeton-ff3657743",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/ff3657743/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ff/36/57/74/3/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "55.0815 5.8663425 55.0815 24.1458932 45.4216739 24.1458932 45.4216739 5.8663425 55.0815 5.8663425",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1853"
   ],
-  "georss_box_s": "45.4216739 5.8663425 55.0815 24.1458932",
-  "georss_polygon_s": "55.0815 5.8663425 55.0815 24.1458932 45.4216739 24.1458932 45.4216739 5.8663425 55.0815 5.8663425",
   "solr_geom": "ENVELOPE(5.8663425, 24.1458932, 55.0815, 45.4216739)",
-  "solr_year_i": "1853"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Europe, Central",
+    "Germany"
+  ]
 }

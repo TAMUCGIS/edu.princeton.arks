@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/ks65hf558",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Blairstown",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "ks65hf558",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fks%2F65%2Fhf%2F55%2F8%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "ks65hf558",
-  "layer_slug_s": "princeton-ks65hf558",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:10:35Z",
+  "solr_geom": "ENVELOPE(-75.063313, -74.937618, 41.043585, 40.919716)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ks/65/hf/55/8/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/ks65hf558",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Blairstown, Warren Co., New Jersey (Sheet 2)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1903"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "ks65hf558",
+  "georss_polygon_s": "41.043585 -75.063313 41.043585 -74.937618 40.919716 -74.937618 40.919716 -75.063313 41.043585 -75.063313",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1903",
   "dct_spatial_sm": [
     "New Jersey",
     "Blairstown"
   ],
-  "dct_temporal_sm": [
-    "1903"
-  ],
+  "layer_id_s": "ks65hf558",
   "georss_box_s": "40.919716 -75.063313 41.043585 -74.937618",
-  "georss_polygon_s": "41.043585 -75.063313 41.043585 -74.937618 40.919716 -74.937618 40.919716 -75.063313 41.043585 -75.063313",
-  "solr_geom": "ENVELOPE(-75.063313, -74.937618, 41.043585, 40.919716)",
-  "solr_year_i": "1903"
+  "dc_title_s": "Blairstown, Warren Co., New Jersey (Sheet 2)",
+  "layer_slug_s": "princeton-ks65hf558",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

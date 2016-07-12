@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1663",
   "uuid": "http://arks.princeton.edu/ark:/88435/n296x166r",
+  "dc_description_s": "Territorio di Pavia, Lodi, Novarra, Tortona, Alessandria et altri vicini dello Stato di Milano",
+  "georss_box_s": "45.3897787 9.0651182 45.535689 9.2903463",
+  "layer_modified_dt": "2015-01-25T02:06:19Z",
   "dc_creator_sm": [
     "Blaeu, Joan,"
   ],
-  "dc_description_s": "Territorio di Pavia, Lodi, Novarra, Tortona, Alessandria et altri vicini dello Stato di Milano",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "n296x166r",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/n296x166r/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fn2%2F96%2Fx1%2F66%2Fr%2F00000001.jp2/info.json\"}",
   "layer_id_s": "n296x166r",
-  "layer_slug_s": "princeton-n296x166r",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:19Z",
-  "dc_title_s": "Territorio di Pavia, Lodi, Novarra, Tortona, Alessandria et altri vicini dello Stato di Milano",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Milan (Italy : Province)"
-  ],
+  "dc_identifier_s": "n296x166r",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Territorio di Pavia, Lodi, Novarra, Tortona, Alessandria et altri vicini dello Stato di Milano",
+  "layer_slug_s": "princeton-n296x166r",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/n296x166r/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/n2/96/x1/66/r/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "45.535689 9.0651182 45.535689 9.2903463 45.3897787 9.2903463 45.3897787 9.0651182 45.535689 9.0651182",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1663"
   ],
-  "georss_box_s": "45.3897787 9.0651182 45.535689 9.2903463",
-  "georss_polygon_s": "45.535689 9.0651182 45.535689 9.2903463 45.3897787 9.2903463 45.3897787 9.0651182 45.535689 9.0651182",
   "solr_geom": "ENVELOPE(9.0651182, 9.2903463, 45.535689, 45.3897787)",
-  "solr_year_i": "1663"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Milan (Italy : Province)"
+  ]
 }

@@ -1,5 +1,9 @@
 {
+  "solr_year_i": "1848",
   "uuid": "http://arks.princeton.edu/ark:/88435/fq977x30t",
+  "dc_description_s": "Edgartown Harbor",
+  "georss_box_s": "41.4000662 -70.4870206 41.4001662 -70.4869206",
+  "layer_modified_dt": "2015-01-21T22:24:28Z",
   "dc_creator_sm": [
     "Bache, A. D.",
     "Lawson, Oscar A.,",
@@ -7,26 +11,20 @@
     "Robertson, John.",
     "Benner,  Henry C."
   ],
-  "dc_description_s": "Edgartown Harbor",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "fq977x30t",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/fq977x30t/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ffq%2F97%2F7x%2F30%2Ft%2F00000001.jp2/info.json\"}",
   "layer_id_s": "fq977x30t",
-  "layer_slug_s": "princeton-fq977x30t",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:28Z",
-  "dc_title_s": "Edgartown Harbor",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "fq977x30t",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Edgartown Harbor",
+  "layer_slug_s": "princeton-fq977x30t",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/fq977x30t/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/fq/97/7x/30/t/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "41.4001662 -70.4870206 41.4001662 -70.4869206 41.4000662 -70.4869206 41.4000662 -70.4870206 41.4001662 -70.4870206",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1848"
   ],
-  "georss_box_s": "41.4000662 -70.4870206 41.4001662 -70.4869206",
-  "georss_polygon_s": "41.4001662 -70.4870206 41.4001662 -70.4869206 41.4000662 -70.4869206 41.4000662 -70.4870206 41.4001662 -70.4870206",
   "solr_geom": "ENVELOPE(-70.4870206, -70.4869206, 41.4001662, 41.4000662)",
-  "solr_year_i": "1848"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

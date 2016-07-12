@@ -1,31 +1,31 @@
 {
+  "solr_year_i": "1703",
   "uuid": "http://arks.princeton.edu/ark:/88435/bc386m75x",
+  "dc_description_s": "Corso del Po per la Lombardia dalle sue fonti sino al mare co[n] fiumi, che in esso scaricano, con gli stati de\u0300 principi aggiacenti e confinanti, e con le strade prinicpali /",
+  "georss_box_s": "44.6290772 7.2140483 45.184114 12.2480445",
+  "layer_modified_dt": "2015-01-21T22:24:29Z",
   "dc_creator_sm": [
     "Barbey, Antonio,",
     "Rossi, Domenico de',"
   ],
-  "dc_description_s": "Corso del Po per la Lombardia dalle sue fonti sino al mare co[n] fiumi, che in esso scaricano, con gli stati dè principi aggiacenti e confinanti, e con le strade prinicpali /",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "bc386m75x",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/bc386m75x/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fc%2F38%2F6m%2F75%2Fx%2F00000001.jp2/info.json\"}",
   "layer_id_s": "bc386m75x",
-  "layer_slug_s": "princeton-bc386m75x",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:29Z",
-  "dc_title_s": "Corso del Po per la Lombardia dalle sue fonti sino al mare co[n] fiumi, che in esso scaricano, con gli stati dè principi aggiacenti e confinanti, e con le strade prinicpali /",
   "dc_type_s": "Image",
+  "dc_identifier_s": "bc386m75x",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Corso del Po per la Lombardia dalle sue fonti sino al mare co[n] fiumi, che in esso scaricano, con gli stati de\u0300 principi aggiacenti e confinanti, e con le strade prinicpali /",
+  "layer_slug_s": "princeton-bc386m75x",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/bc386m75x/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/bc/38/6m/75/x/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "45.184114 7.2140483 45.184114 12.2480445 44.6290772 12.2480445 44.6290772 7.2140483 45.184114 7.2140483",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1703"
+  ],
+  "solr_geom": "ENVELOPE(7.2140483, 12.2480445, 45.184114, 44.6290772)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Po River (Italy)",
     "Italy",
     "Lombardy (Italy)"
-  ],
-  "dct_temporal_sm": [
-    "1703"
-  ],
-  "georss_box_s": "44.6290772 7.2140483 45.184114 12.2480445",
-  "georss_polygon_s": "45.184114 7.2140483 45.184114 12.2480445 44.6290772 12.2480445 44.6290772 7.2140483 45.184114 7.2140483",
-  "solr_geom": "ENVELOPE(7.2140483, 12.2480445, 45.184114, 44.6290772)",
-  "solr_year_i": "1703"
+  ]
 }

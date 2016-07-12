@@ -1,31 +1,31 @@
 {
+  "solr_year_i": "1827",
   "uuid": "http://arks.princeton.edu/ark:/88435/t435gg36d",
+  "dc_description_s": "Me\u0301rida",
+  "georss_box_s": "18.0 -91.6666666667 24.0 -83.6666666667",
+  "layer_modified_dt": "2015-01-19T22:37:03Z",
   "dc_creator_sm": [
     "Vandermaelen, Philippe,",
     "Malte-Brun, Victor Adolfe,"
   ],
-  "dc_description_s": "Mérida",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "t435gg36d",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/t435gg36d/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ft4%2F35%2Fgg%2F36%2Fd%2F00000001.jp2/info.json\"}",
   "layer_id_s": "t435gg36d",
-  "layer_slug_s": "princeton-t435gg36d",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:03Z",
-  "dc_title_s": "Mérida",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Belize",
-    "Pinar del Río (Cuba : Province)",
-    "Yucatán Peninsula"
-  ],
+  "dc_identifier_s": "t435gg36d",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Me\u0301rida",
+  "layer_slug_s": "princeton-t435gg36d",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/t435gg36d/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/t4/35/gg/36/d/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "24.0 -91.6666666667 24.0 -83.6666666667 18.0 -83.6666666667 18.0 -91.6666666667 24.0 -91.6666666667",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1827"
   ],
-  "georss_box_s": "18.0 -91.6666666667 24.0 -83.6666666667",
-  "georss_polygon_s": "24.0 -91.6666666667 24.0 -83.6666666667 18.0 -83.6666666667 18.0 -91.6666666667 24.0 -91.6666666667",
   "solr_geom": "ENVELOPE(-91.6666666667, -83.6666666667, 24.0, 18.0)",
-  "solr_year_i": "1827"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Belize",
+    "Pinar del Ri\u0301o (Cuba : Province)",
+    "Yucata\u0301n Peninsula"
+  ]
 }

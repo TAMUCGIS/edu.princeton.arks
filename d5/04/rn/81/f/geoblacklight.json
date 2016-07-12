@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1873",
   "uuid": "http://arks.princeton.edu/ark:/88435/d504rn81f",
+  "dc_description_s": "Europa im Massstabe von 1 = 4,000,000",
+  "georss_box_s": "50.9999503 9.9999497 51.0000503 10.0000497",
+  "layer_modified_dt": "2015-01-21T22:24:17Z",
   "dc_creator_sm": [
     "Kiepert, Richard,",
     "Kraatz, Leopold,"
   ],
-  "dc_description_s": "Europa im Massstabe von 1 = 4,000,000",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "d504rn81f",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/d504rn81f/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fd5%2F04%2Frn%2F81%2Ff%2F00000001.jp2/info.json\"}",
   "layer_id_s": "d504rn81f",
-  "layer_slug_s": "princeton-d504rn81f",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:17Z",
-  "dc_title_s": "Europa im Massstabe von 1 = 4,000,000",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Europe"
-  ],
+  "dc_identifier_s": "d504rn81f",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Europa im Massstabe von 1 = 4,000,000",
+  "layer_slug_s": "princeton-d504rn81f",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/d504rn81f/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/d5/04/rn/81/f/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "51.0000503 9.9999497 51.0000503 10.0000497 50.9999503 10.0000497 50.9999503 9.9999497 51.0000503 9.9999497",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1873"
   ],
-  "georss_box_s": "50.9999503 9.9999497 51.0000503 10.0000497",
-  "georss_polygon_s": "51.0000503 9.9999497 51.0000503 10.0000497 50.9999503 10.0000497 50.9999503 9.9999497 51.0000503 9.9999497",
   "solr_geom": "ENVELOPE(9.9999497, 10.0000497, 51.0000503, 50.9999503)",
-  "solr_year_i": "1873"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Europe"
+  ]
 }

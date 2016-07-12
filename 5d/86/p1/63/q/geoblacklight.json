@@ -2,7 +2,7 @@
   "dc_description_s": "This is a map of the city of Karashar, China shown at a 1:10,000 scale. This is a Russian map purchased from East View Cartographic.",
   "layer_modified_dt": "2015-01-11T17:42:28Z",
   "solr_geom": "ENVELOPE(86.5167, 86.6167, 42.0833, 42.0167)",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F5d%2F86%2Fp1%2F63%2Fq%2F00000001.jp2/info.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/5d86p163q/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/5d86p163q/preview.jpg\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/5d86p163q/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/5d/86/p1/63/q/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/5d86p163q/preview.jpg\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/5d86p163q",
   "dct_provenance_s": "Princeton",
@@ -15,7 +15,7 @@
     "Facilities and Structures"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "1980",
+  "layer_slug_s": "princeton-5d86p163q",
   "dc_creator_sm": [
     "Russia (Federation). General'nyi shtab. Voenno-topograficheskoe upravlenie"
   ],
@@ -38,7 +38,7 @@
   "layer_id_s": "5d86p163q",
   "georss_box_s": "42.0167 86.5167 42.0833 86.6167",
   "dc_title_s": "Kitai Sin'tszian-Uigurskii avtomnyi raion. Karashar (K-45-66). ",
-  "layer_slug_s": "princeton-5d86p163q",
+  "dct_issued_s": "1980",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1638",
   "uuid": "http://arks.princeton.edu/ark:/88435/dv13zw762",
+  "dc_description_s": "Territorio Padovano",
+  "georss_box_s": "45.3555073 11.809626 45.4575002 11.9728649",
+  "layer_modified_dt": "2015-01-25T02:06:21Z",
   "dc_creator_sm": [
     "Jansson, Jan,",
     "Mercator, Gerhard,"
   ],
-  "dc_description_s": "Territorio Padovano",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "dv13zw762",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/dv13zw762/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fdv%2F13%2Fzw%2F76%2F2%2F00000001.jp2/info.json\"}",
   "layer_id_s": "dv13zw762",
-  "layer_slug_s": "princeton-dv13zw762",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:21Z",
-  "dc_title_s": "Territorio Padovano",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Padua (Italy : Province)"
-  ],
+  "dc_identifier_s": "dv13zw762",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Territorio Padovano",
+  "layer_slug_s": "princeton-dv13zw762",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/dv13zw762/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/dv/13/zw/76/2/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "45.4575002 11.809626 45.4575002 11.9728649 45.3555073 11.9728649 45.3555073 11.809626 45.4575002 11.809626",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1638"
   ],
-  "georss_box_s": "45.3555073 11.809626 45.4575002 11.9728649",
-  "georss_polygon_s": "45.4575002 11.809626 45.4575002 11.9728649 45.3555073 11.9728649 45.3555073 11.809626 45.4575002 11.809626",
   "solr_geom": "ENVELOPE(11.809626, 11.9728649, 45.4575002, 45.3555073)",
-  "solr_year_i": "1638"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Padua (Italy : Province)"
+  ]
 }

@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/k3569628q",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Irvington",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "k3569628q",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fk3%2F56%2F96%2F28%2Fq%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "k3569628q",
-  "layer_slug_s": "princeton-k3569628q",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:03:01Z",
+  "solr_geom": "ENVELOPE(-74.25629, -74.209489, 40.7434, 40.70829)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/k3/56/96/28/q/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/k3569628q",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Irvington (Sheet 36)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1909"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "k3569628q",
+  "georss_polygon_s": "40.7434 -74.25629 40.7434 -74.209489 40.70829 -74.209489 40.70829 -74.25629 40.7434 -74.25629",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1909",
   "dct_spatial_sm": [
     "New Jersey",
     "Irvington"
   ],
-  "dct_temporal_sm": [
-    "1909"
-  ],
+  "layer_id_s": "k3569628q",
   "georss_box_s": "40.70829 -74.25629 40.7434 -74.209489",
-  "georss_polygon_s": "40.7434 -74.25629 40.7434 -74.209489 40.70829 -74.209489 40.70829 -74.25629 40.7434 -74.25629",
-  "solr_geom": "ENVELOPE(-74.25629, -74.209489, 40.7434, 40.70829)",
-  "solr_year_i": "1909"
+  "dc_title_s": "Irvington (Sheet 36)",
+  "layer_slug_s": "princeton-k3569628q",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

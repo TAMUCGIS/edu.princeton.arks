@@ -1,29 +1,27 @@
 {
+  "solr_year_i": "1862",
   "uuid": "http://arks.princeton.edu/ark:/88435/5999n5899",
+  "dc_description_s": "Map of Cumberland Co., New Jersey : from actual surveys",
+  "georss_box_s": "39.176202 -75.419562 39.568643 -74.8518551",
+  "layer_modified_dt": "2015-01-21T22:24:23Z",
   "dc_creator_sm": [
     "Beers, S. N.",
     "Beers, F. W."
   ],
-  "dc_description_s": "Map of Cumberland Co., New Jersey : from actual surveys",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "5999n5899",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/5999n5899/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F59%2F99%2Fn5%2F89%2F9%2F00000001.jp2/info.json\"}",
   "layer_id_s": "5999n5899",
-  "layer_slug_s": "princeton-5999n5899",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:23Z",
-  "dc_title_s": "Map of Cumberland Co., New Jersey : from actual surveys",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "5999n5899",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Map of Cumberland Co., New Jersey : from actual surveys",
+  "layer_slug_s": "princeton-5999n5899",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/5999n5899/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/59/99/n5/89/9/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "39.568643 -75.419562 39.568643 -74.8518551 39.176202 -74.8518551 39.176202 -75.419562 39.568643 -75.419562",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1862"
   ],
-  "georss_box_s": "39.176202 -75.419562 39.568643 -74.8518551",
-  "georss_polygon_s": "39.568643 -75.419562 39.568643 -74.8518551 39.176202 -74.8518551 39.176202 -75.419562 39.568643 -75.419562",
   "solr_geom": "ENVELOPE(-75.419562, -74.8518551, 39.568643, 39.176202)",
-  "solr_year_i": "1862"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

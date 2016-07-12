@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1846",
   "uuid": "http://arks.princeton.edu/ark:/88435/x920g030s",
+  "dc_description_s": "The west coast of South America, from Valparaiso to Lima and Panama : with the principal harbours on an enlarged scale, compiled from the latest surveys",
+  "georss_box_s": "-34.0 -84.0 9.0 -70.0",
+  "layer_modified_dt": "2015-01-19T22:37:11Z",
   "dc_creator_sm": [
     "Blachford, Wm."
   ],
-  "dc_description_s": "The west coast of South America, from Valparaiso to Lima and Panama : with the principal harbours on an enlarged scale, compiled from the latest surveys",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "x920g030s",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/x920g030s/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fx9%2F20%2Fg0%2F30%2Fs%2F00000001.jp2/info.json\"}",
   "layer_id_s": "x920g030s",
-  "layer_slug_s": "princeton-x920g030s",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:11Z",
-  "dc_title_s": "The west coast of South America, from Valparaiso to Lima and Panama : with the principal harbours on an enlarged scale, compiled from the latest surveys",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Pacific Coast (Chile)",
-    "Pacific Coast (Peru)"
-  ],
+  "dc_identifier_s": "x920g030s",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "The west coast of South America, from Valparaiso to Lima and Panama : with the principal harbours on an enlarged scale, compiled from the latest surveys",
+  "layer_slug_s": "princeton-x920g030s",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/x920g030s/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/x9/20/g0/30/s/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "9.0 -84.0 9.0 -70.0 -34.0 -70.0 -34.0 -84.0 9.0 -84.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1846"
   ],
-  "georss_box_s": "-34.0 -84.0 9.0 -70.0",
-  "georss_polygon_s": "9.0 -84.0 9.0 -70.0 -34.0 -70.0 -34.0 -84.0 9.0 -84.0",
   "solr_geom": "ENVELOPE(-84.0, -70.0, 9.0, -34.0)",
-  "solr_year_i": "1846"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Pacific Coast (Chile)",
+    "Pacific Coast (Peru)"
+  ]
 }

@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/ww72bd67n",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Boonton",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "ww72bd67n",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fww%2F72%2Fbd%2F67%2Fn%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "ww72bd67n",
-  "layer_slug_s": "princeton-ww72bd67n",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:06:32Z",
+  "solr_geom": "ENVELOPE(-74.426537, -74.383293, 40.917784, 40.892961)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ww/72/bd/67/n/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/ww72bd67n",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Insurance maps of Boonton, Morris County, New Jersey (Sheet 7)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1909"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "ww72bd67n",
+  "georss_polygon_s": "40.917784 -74.426537 40.917784 -74.383293 40.892961 -74.383293 40.892961 -74.426537 40.917784 -74.426537",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1909",
   "dct_spatial_sm": [
     "New Jersey",
     "Boonton"
   ],
-  "dct_temporal_sm": [
-    "1909"
-  ],
+  "layer_id_s": "ww72bd67n",
   "georss_box_s": "40.892961 -74.426537 40.917784 -74.383293",
-  "georss_polygon_s": "40.917784 -74.426537 40.917784 -74.383293 40.892961 -74.383293 40.892961 -74.426537 40.917784 -74.426537",
-  "solr_geom": "ENVELOPE(-74.426537, -74.383293, 40.917784, 40.892961)",
-  "solr_year_i": "1909"
+  "dc_title_s": "Insurance maps of Boonton, Morris County, New Jersey (Sheet 7)",
+  "layer_slug_s": "princeton-ww72bd67n",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

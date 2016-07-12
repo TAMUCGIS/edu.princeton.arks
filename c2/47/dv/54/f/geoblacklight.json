@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1815",
   "uuid": "http://arks.princeton.edu/ark:/88435/c247dv54f",
+  "dc_description_s": "Montego Bay, Jamaica",
+  "georss_box_s": "18.312114 -78.0817743 18.632114 -77.7617743",
+  "layer_modified_dt": "2015-01-21T22:24:08Z",
   "dc_creator_sm": [
     "Seymour, Stephen",
     "Hurd, Thomas,",
     "Walker, J.,"
   ],
-  "dc_description_s": "Montego Bay, Jamaica",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "c247dv54f",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/c247dv54f/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fc2%2F47%2Fdv%2F54%2Ff%2F00000001.jp2/info.json\"}",
   "layer_id_s": "c247dv54f",
-  "layer_slug_s": "princeton-c247dv54f",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:08Z",
-  "dc_title_s": "Montego Bay, Jamaica",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Montego Bay (Jamaica)"
-  ],
+  "dc_identifier_s": "c247dv54f",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Montego Bay, Jamaica",
+  "layer_slug_s": "princeton-c247dv54f",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/c247dv54f/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/c2/47/dv/54/f/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "18.632114 -78.0817743 18.632114 -77.7617743 18.312114 -77.7617743 18.312114 -78.0817743 18.632114 -78.0817743",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1815"
   ],
-  "georss_box_s": "18.312114 -78.0817743 18.632114 -77.7617743",
-  "georss_polygon_s": "18.632114 -78.0817743 18.632114 -77.7617743 18.312114 -77.7617743 18.312114 -78.0817743 18.632114 -78.0817743",
   "solr_geom": "ENVELOPE(-78.0817743, -77.7617743, 18.632114, 18.312114)",
-  "solr_year_i": "1815"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Montego Bay (Jamaica)"
+  ]
 }

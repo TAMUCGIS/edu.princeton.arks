@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1943",
   "uuid": "http://arks.princeton.edu/ark:/88435/w0892c795",
   "dc_description_s": "Brasil: coal exports, imports and domestic movements",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "w0892c795",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/w0892c795/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fw0%2F89%2F2c%2F79%2F5%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "w0892c795",
-  "layer_slug_s": "princeton-w0892c795",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "-33.77389 -73.98556 -5.57389 -34.79917",
   "layer_modified_dt": "2015-01-19T22:36:50Z",
-  "dc_title_s": "Brasil: coal exports, imports and domestic movements",
+  "layer_id_s": "w0892c795",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Brazil"
-  ],
+  "dc_identifier_s": "w0892c795",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Brasil: coal exports, imports and domestic movements",
+  "layer_slug_s": "princeton-w0892c795",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/w0892c795/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/w0/89/2c/79/5/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "-5.57389 -73.98556 -5.57389 -34.79917 -33.77389 -34.79917 -33.77389 -73.98556 -5.57389 -73.98556",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1943"
   ],
-  "georss_box_s": "-33.77389 -73.98556 -5.57389 -34.79917",
-  "georss_polygon_s": "-5.57389 -73.98556 -5.57389 -34.79917 -33.77389 -34.79917 -33.77389 -73.98556 -5.57389 -73.98556",
   "solr_geom": "ENVELOPE(-73.98556, -34.79917, -5.57389, -33.77389)",
-  "solr_year_i": "1943"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Brazil"
+  ]
 }

@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1901",
   "uuid": "http://arks.princeton.edu/ark:/88435/z316q410j",
+  "dc_description_s": "Thuringen",
+  "georss_box_s": "50.2043467 9.8767193 51.6489423 12.6539178",
+  "layer_modified_dt": "2015-01-21T22:24:22Z",
   "dc_creator_sm": [
     "Woerl, Leo,"
   ],
-  "dc_description_s": "Thuringen",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "z316q410j",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/z316q410j/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fz3%2F16%2Fq4%2F10%2F00000001.jp2/info.json\"}",
   "layer_id_s": "z316q410j",
-  "layer_slug_s": "princeton-z316q410j",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:22Z",
-  "dc_title_s": "Thuringen",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Thuringia (Germany)"
-  ],
+  "dc_identifier_s": "z316q410j",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Thuringen",
+  "layer_slug_s": "princeton-z316q410j",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/z316q410j/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/z3/16/q4/10/j/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "51.6489423 9.8767193 51.6489423 12.6539178 50.2043467 12.6539178 50.2043467 9.8767193 51.6489423 9.8767193",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1901"
   ],
-  "georss_box_s": "50.2043467 9.8767193 51.6489423 12.6539178",
-  "georss_polygon_s": "51.6489423 9.8767193 51.6489423 12.6539178 50.2043467 12.6539178 50.2043467 9.8767193 51.6489423 9.8767193",
   "solr_geom": "ENVELOPE(9.8767193, 12.6539178, 51.6489423, 50.2043467)",
-  "solr_year_i": "1901"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Thuringia (Germany)"
+  ]
 }

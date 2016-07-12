@@ -1,27 +1,27 @@
 {
+  "solr_year_i": "1750",
   "uuid": "http://arks.princeton.edu/ark:/88435/1n79h677z",
   "dc_description_s": "Pays Bas catholiques",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "1n79h677z",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/1n79h677z/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F1n%2F79%2Fh6%2F77%2Fz%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "1n79h677z",
-  "layer_slug_s": "princeton-1n79h677z",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "50.687381 2.5448549 51.5051145 5.9112019",
   "layer_modified_dt": "2015-01-21T22:24:16Z",
-  "dc_title_s": "Pays Bas catholiques",
+  "layer_id_s": "1n79h677z",
   "dc_type_s": "Image",
+  "dc_identifier_s": "1n79h677z",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Pays Bas catholiques",
+  "layer_slug_s": "princeton-1n79h677z",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/1n79h677z/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/1n/79/h6/77/z/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "51.5051145 2.5448549 51.5051145 5.9112019 50.687381 5.9112019 50.687381 2.5448549 51.5051145 2.5448549",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1750"
+  ],
+  "solr_geom": "ENVELOPE(2.5448549, 5.9112019, 51.5051145, 50.687381)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Flanders (Belgium)",
     "Flanders (France)",
     "Luxembourg"
-  ],
-  "dct_temporal_sm": [
-    "1750"
-  ],
-  "georss_box_s": "50.687381 2.5448549 51.5051145 5.9112019",
-  "georss_polygon_s": "51.5051145 2.5448549 51.5051145 5.9112019 50.687381 5.9112019 50.687381 2.5448549 51.5051145 2.5448549",
-  "solr_geom": "ENVELOPE(2.5448549, 5.9112019, 51.5051145, 50.687381)",
-  "solr_year_i": "1750"
+  ]
 }

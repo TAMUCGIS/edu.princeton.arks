@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1845",
   "uuid": "http://arks.princeton.edu/ark:/88435/2r36v099x",
   "dc_description_s": "Funchal Bay",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "2r36v099x",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/2r36v099x/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F2r%2F36%2Fv0%2F99%2Fx%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "2r36v099x",
-  "layer_slug_s": "princeton-2r36v099x",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "32.487002 -17.0695257 32.807002 -16.7495257",
   "layer_modified_dt": "2015-01-21T22:24:12Z",
-  "dc_title_s": "Funchal Bay",
+  "layer_id_s": "2r36v099x",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Funchal (Madeira Islands)",
-    "Funchal Bay (Madeira Islands)"
-  ],
+  "dc_identifier_s": "2r36v099x",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Funchal Bay",
+  "layer_slug_s": "princeton-2r36v099x",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/2r36v099x/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/2r/36/v0/99/x/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "32.807002 -17.0695257 32.807002 -16.7495257 32.487002 -16.7495257 32.487002 -17.0695257 32.807002 -17.0695257",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1845"
   ],
-  "georss_box_s": "32.487002 -17.0695257 32.807002 -16.7495257",
-  "georss_polygon_s": "32.807002 -17.0695257 32.807002 -16.7495257 32.487002 -16.7495257 32.487002 -17.0695257 32.807002 -17.0695257",
   "solr_geom": "ENVELOPE(-17.0695257, -16.7495257, 32.807002, 32.487002)",
-  "solr_year_i": "1845"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Funchal (Madeira Islands)",
+    "Funchal Bay (Madeira Islands)"
+  ]
 }

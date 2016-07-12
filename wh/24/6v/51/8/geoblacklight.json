@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1799",
   "uuid": "http://arks.princeton.edu/ark:/88435/wh246v518",
-  "dc_description_s": "Neuester Plan der Stadt Paris mit ihren Umgebungen : nebst dem Verzeichnisse der Strassen und Plätze, welche seit der Revolution ihre Nahmen verändert haben",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "wh246v518",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/wh246v518/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fwh%2F24%2F6v%2F51%2F8%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "wh246v518",
-  "layer_slug_s": "princeton-wh246v518",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Neuester Plan der Stadt Paris mit ihren Umgebungen : nebst dem Verzeichnisse der Strassen und Pla\u0308tze, welche seit der Revolution ihre Nahmen vera\u0308ndert haben",
+  "georss_box_s": "48.8155755 2.224122 48.902156 2.4697602",
   "layer_modified_dt": "2015-01-21T22:23:59Z",
-  "dc_title_s": "Neuester Plan der Stadt Paris mit ihren Umgebungen : nebst dem Verzeichnisse der Strassen und Plätze, welche seit der Revolution ihre Nahmen verändert haben",
+  "layer_id_s": "wh246v518",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Paris (France)"
-  ],
+  "dc_identifier_s": "wh246v518",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Neuester Plan der Stadt Paris mit ihren Umgebungen : nebst dem Verzeichnisse der Strassen und Pla\u0308tze, welche seit der Revolution ihre Nahmen vera\u0308ndert haben",
+  "layer_slug_s": "princeton-wh246v518",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/wh246v518/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/wh/24/6v/51/8/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "48.902156 2.224122 48.902156 2.4697602 48.8155755 2.4697602 48.8155755 2.224122 48.902156 2.224122",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1799"
   ],
-  "georss_box_s": "48.8155755 2.224122 48.902156 2.4697602",
-  "georss_polygon_s": "48.902156 2.224122 48.902156 2.4697602 48.8155755 2.4697602 48.8155755 2.224122 48.902156 2.224122",
   "solr_geom": "ENVELOPE(2.224122, 2.4697602, 48.902156, 48.8155755)",
-  "solr_year_i": "1799"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Paris (France)"
+  ]
 }

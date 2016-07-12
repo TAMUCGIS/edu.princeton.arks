@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1913",
   "uuid": "http://arks.princeton.edu/ark:/88435/4t64gq66x",
   "dc_description_s": "Makedonien, Altserbien und Albanien",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "4t64gq66x",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/4t64gq66x/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F4t%2F64%2Fgq%2F66%2Fx%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "4t64gq66x",
-  "layer_slug_s": "princeton-4t64gq66x",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "39.6448625 19.1246095 42.6611669 21.0574335",
   "layer_modified_dt": "2015-01-25T02:06:16Z",
-  "dc_title_s": "Makedonien, Altserbien und Albanien",
+  "layer_id_s": "4t64gq66x",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Albania",
-    "Balkan Peninsula"
-  ],
+  "dc_identifier_s": "4t64gq66x",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Makedonien, Altserbien und Albanien",
+  "layer_slug_s": "princeton-4t64gq66x",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/4t64gq66x/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/4t/64/gq/66/x/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "42.6611669 19.1246095 42.6611669 21.0574335 39.6448625 21.0574335 39.6448625 19.1246095 42.6611669 19.1246095",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1913"
   ],
-  "georss_box_s": "39.6448625 19.1246095 42.6611669 21.0574335",
-  "georss_polygon_s": "42.6611669 19.1246095 42.6611669 21.0574335 39.6448625 21.0574335 39.6448625 19.1246095 42.6611669 19.1246095",
   "solr_geom": "ENVELOPE(19.1246095, 21.0574335, 42.6611669, 39.6448625)",
-  "solr_year_i": "1913"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Albania",
+    "Balkan Peninsula"
+  ]
 }

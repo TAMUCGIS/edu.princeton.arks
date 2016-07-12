@@ -1,27 +1,27 @@
 {
+  "solr_year_i": "1941",
   "uuid": "http://arks.princeton.edu/ark:/88435/zg64tp38z",
   "dc_description_s": "New France in North America",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "zg64tp38z",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/zg64tp38z/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fzg%2F64%2Ftp%2F38%2Fz%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "zg64tp38z",
-  "layer_slug_s": "princeton-zg64tp38z",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "41.6765556 -141.0027499 83.3362128 -52.323198",
   "layer_modified_dt": "2015-01-21T22:24:06Z",
-  "dc_title_s": "New France in North America",
+  "layer_id_s": "zg64tp38z",
   "dc_type_s": "Image",
+  "dc_identifier_s": "zg64tp38z",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "New France in North America",
+  "layer_slug_s": "princeton-zg64tp38z",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/zg64tp38z/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/zg/64/tp/38/z/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "83.3362128 -141.0027499 83.3362128 -52.323198 41.6765556 -52.323198 41.6765556 -141.0027499 83.3362128 -141.0027499",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1941"
+  ],
+  "solr_geom": "ENVELOPE(-141.0027499, -52.323198, 83.3362128, 41.6765556)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Canada",
     "France",
     "Louisiana"
-  ],
-  "dct_temporal_sm": [
-    "1941"
-  ],
-  "georss_box_s": "41.6765556 -141.0027499 83.3362128 -52.323198",
-  "georss_polygon_s": "83.3362128 -141.0027499 83.3362128 -52.323198 41.6765556 -52.323198 41.6765556 -141.0027499 83.3362128 -141.0027499",
-  "solr_geom": "ENVELOPE(-141.0027499, -52.323198, 83.3362128, 41.6765556)",
-  "solr_year_i": "1941"
+  ]
 }

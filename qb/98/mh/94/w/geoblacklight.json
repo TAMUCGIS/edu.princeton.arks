@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1914",
   "uuid": "http://arks.princeton.edu/ark:/88435/qb98mh94w",
+  "dc_description_s": "Northern Syria, Djebel Sim\u02bba\u0302n, Djebel H\u0323alak\u0323ah and part of Djebel Ba\u0304ri\u0302sha\u0304 : from survey by F.A. Norris, C.W., 1905",
+  "georss_box_s": "32.311354 35.4714427 37.3184589 42.3745687",
+  "layer_modified_dt": "2015-01-21T22:24:12Z",
   "dc_creator_sm": [
     "Cook, C. F."
   ],
-  "dc_description_s": "Northern Syria, Djebel Simʻân, Djebel Ḥalaḳah and part of Djebel Bārîshā : from survey by F.A. Norris, C.W., 1905",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "qb98mh94w",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/qb98mh94w/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fqb%2F98%2Fmh%2F94%2Fw%2F00000001.jp2/info.json\"}",
   "layer_id_s": "qb98mh94w",
-  "layer_slug_s": "princeton-qb98mh94w",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:12Z",
-  "dc_title_s": "Northern Syria, Djebel Simʻân, Djebel Ḥalaḳah and part of Djebel Bārîshā : from survey by F.A. Norris, C.W., 1905",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Syria"
-  ],
+  "dc_identifier_s": "qb98mh94w",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Northern Syria, Djebel Sim\u02bba\u0302n, Djebel H\u0323alak\u0323ah and part of Djebel Ba\u0304ri\u0302sha\u0304 : from survey by F.A. Norris, C.W., 1905",
+  "layer_slug_s": "princeton-qb98mh94w",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/qb98mh94w/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/qb/98/mh/94/w/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "37.3184589 35.4714427 37.3184589 42.3745687 32.311354 42.3745687 32.311354 35.4714427 37.3184589 35.4714427",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1914"
   ],
-  "georss_box_s": "32.311354 35.4714427 37.3184589 42.3745687",
-  "georss_polygon_s": "37.3184589 35.4714427 37.3184589 42.3745687 32.311354 42.3745687 32.311354 35.4714427 37.3184589 35.4714427",
   "solr_geom": "ENVELOPE(35.4714427, 42.3745687, 37.3184589, 32.311354)",
-  "solr_year_i": "1914"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Syria"
+  ]
 }

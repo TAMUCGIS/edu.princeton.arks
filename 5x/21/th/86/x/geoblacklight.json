@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1760",
   "uuid": "http://arks.princeton.edu/ark:/88435/5x21th86x",
+  "dc_description_s": "Nieuwe aftekening der stad en berg van Gibraltar",
+  "georss_box_s": "36.1088972 -5.367415 36.1550376 -5.3376641",
+  "layer_modified_dt": "2015-01-21T22:24:05Z",
   "dc_creator_sm": [
     "Tirion, Isaak."
   ],
-  "dc_description_s": "Nieuwe aftekening der stad en berg van Gibraltar",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "5x21th86x",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/5x21th86x/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F5x%2F21%2Fth%2F86%2Fx%2F00000001.jp2/info.json\"}",
   "layer_id_s": "5x21th86x",
-  "layer_slug_s": "princeton-5x21th86x",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:05Z",
-  "dc_title_s": "Nieuwe aftekening der stad en berg van Gibraltar",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Gibraltar"
-  ],
+  "dc_identifier_s": "5x21th86x",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Nieuwe aftekening der stad en berg van Gibraltar",
+  "layer_slug_s": "princeton-5x21th86x",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/5x21th86x/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/5x/21/th/86/x/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "36.1550376 -5.367415 36.1550376 -5.3376641 36.1088972 -5.3376641 36.1088972 -5.367415 36.1550376 -5.367415",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1760"
   ],
-  "georss_box_s": "36.1088972 -5.367415 36.1550376 -5.3376641",
-  "georss_polygon_s": "36.1550376 -5.367415 36.1550376 -5.3376641 36.1088972 -5.3376641 36.1088972 -5.367415 36.1550376 -5.367415",
   "solr_geom": "ENVELOPE(-5.367415, -5.3376641, 36.1550376, 36.1088972)",
-  "solr_year_i": "1760"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Gibraltar"
+  ]
 }

@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1880",
   "uuid": "http://arks.princeton.edu/ark:/88435/jq085n42f",
   "dc_description_s": "Mapa del Peru",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "jq085n42f",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/jq085n42f/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fq%2F08%2F5n%2F42%2Ff%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "jq085n42f",
-  "layer_slug_s": "princeton-jq085n42f",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "-20.1984471 -84.6732789 -0.0392817 -68.6519905",
   "layer_modified_dt": "2015-01-25T02:06:12Z",
-  "dc_title_s": "Mapa del Peru",
+  "layer_id_s": "jq085n42f",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Peru"
-  ],
+  "dc_identifier_s": "jq085n42f",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Mapa del Peru",
+  "layer_slug_s": "princeton-jq085n42f",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/jq085n42f/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/jq/08/5n/42/f/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "-0.0392817 -84.6732789 -0.0392817 -68.6519905 -20.1984471 -68.6519905 -20.1984471 -84.6732789 -0.0392817 -84.6732789",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1880"
   ],
-  "georss_box_s": "-20.1984471 -84.6732789 -0.0392817 -68.6519905",
-  "georss_polygon_s": "-0.0392817 -84.6732789 -0.0392817 -68.6519905 -20.1984471 -68.6519905 -20.1984471 -84.6732789 -0.0392817 -84.6732789",
   "solr_geom": "ENVELOPE(-84.6732789, -68.6519905, -0.0392817, -20.1984471)",
-  "solr_year_i": "1880"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Peru"
+  ]
 }

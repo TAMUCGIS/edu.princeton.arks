@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1891",
   "uuid": "http://arks.princeton.edu/ark:/88435/dj52w720q",
   "dc_description_s": "Rand, McNally & Co.'s indexed atlas of the world map of Italy",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "dj52w720q",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/dj52w720q/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fdj%2F52%2Fw7%2F20%2Fq%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "dj52w720q",
-  "layer_slug_s": "princeton-dj52w720q",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "36.0 6.0 47.0 19.0",
   "layer_modified_dt": "2015-01-19T22:37:36Z",
-  "dc_title_s": "Rand, McNally & Co.'s indexed atlas of the world map of Italy",
+  "layer_id_s": "dj52w720q",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Italy"
-  ],
+  "dc_identifier_s": "dj52w720q",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Rand, McNally & Co.'s indexed atlas of the world map of Italy",
+  "layer_slug_s": "princeton-dj52w720q",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/dj52w720q/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/dj/52/w7/20/q/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "47.0 6.0 47.0 19.0 36.0 19.0 36.0 6.0 47.0 6.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1891"
   ],
-  "georss_box_s": "36.0 6.0 47.0 19.0",
-  "georss_polygon_s": "47.0 6.0 47.0 19.0 36.0 19.0 36.0 6.0 47.0 6.0",
   "solr_geom": "ENVELOPE(6.0, 19.0, 47.0, 36.0)",
-  "solr_year_i": "1891"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Italy"
+  ]
 }

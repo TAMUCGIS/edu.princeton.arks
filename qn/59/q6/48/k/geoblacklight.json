@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1825",
   "uuid": "http://arks.princeton.edu/ark:/88435/qn59q648k",
   "dc_description_s": "Regno di Prussia",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "qn59q648k",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/qn59q648k/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fqn%2F59%2Fq6%2F48%2Fk%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "qn59q648k",
-  "layer_slug_s": "princeton-qn59q648k",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "47.086538534 6.78608225 59.2157768956 28.136579625",
   "layer_modified_dt": "2015-01-21T22:24:18Z",
-  "dc_title_s": "Regno di Prussia",
+  "layer_id_s": "qn59q648k",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Prussia (Germany)",
-    "Prussia (Germany)"
-  ],
+  "dc_identifier_s": "qn59q648k",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Regno di Prussia",
+  "layer_slug_s": "princeton-qn59q648k",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/qn59q648k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/qn/59/q6/48/k/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "59.2157768956 6.78608225 59.2157768956 28.136579625 47.086538534 28.136579625 47.086538534 6.78608225 59.2157768956 6.78608225",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1825"
   ],
-  "georss_box_s": "47.086538534 6.78608225 59.2157768956 28.136579625",
-  "georss_polygon_s": "59.2157768956 6.78608225 59.2157768956 28.136579625 47.086538534 28.136579625 47.086538534 6.78608225 59.2157768956 6.78608225",
   "solr_geom": "ENVELOPE(6.78608225, 28.136579625, 59.2157768956, 47.086538534)",
-  "solr_year_i": "1825"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Prussia (Germany)",
+    "Prussia (Germany)"
+  ]
 }

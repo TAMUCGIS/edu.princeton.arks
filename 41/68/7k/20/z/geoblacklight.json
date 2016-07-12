@@ -2,7 +2,7 @@
   "dc_description_s": "One sheet of an atlas accompanying the report on the geology of New Hampshire. The scale is 1:158,400.",
   "layer_modified_dt": "2015-01-11T17:43:38Z",
   "solr_geom": "ENVELOPE(-72.5667, -70.5833, 45.3500, 42.700)",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F41%2F68%2F7k%2F20%2Fz%2F00000001.jp2/info.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/41687k20z/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/41687k20z/preview.jpg\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/41687k20z/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/41/68/7k/20/z/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/41687k20z/preview.jpg\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/41687k20z",
   "dct_provenance_s": "Princeton",
@@ -15,7 +15,7 @@
     "Atlas"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "1878",
+  "layer_slug_s": "princeton-41687k20z",
   "dc_creator_sm": [
     "New Hampshire. Geological and Mineralogical Survey"
   ],
@@ -31,7 +31,7 @@
   "layer_id_s": "41687k20z",
   "georss_box_s": "42.700 -72.5667 45.3500 -70.5833",
   "dc_title_s": "Atlas accompanying the report on the geology of New Hampshire. Sheet 9.",
-  "layer_slug_s": "princeton-41687k20z",
+  "dct_issued_s": "1878",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

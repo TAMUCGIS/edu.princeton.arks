@@ -2,7 +2,7 @@
   "dc_description_s": "This is a map of  North America with relief at a scale of 1:38,700,000. The map was created by the Central Intelligence Agency.",
   "layer_modified_dt": "2015-01-11T17:42:45Z",
   "solr_geom": "ENVELOPE(-160, -60, 80, 20)",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ftd%2F96%2Fk4%2F00%2Fk%2F00000001.jp2/info.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/td96k400k/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/td96k400k/preview.jpg\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/td96k400k/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/td/96/k4/00/k/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/td96k400k/preview.jpg\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/td96k400k",
   "dct_provenance_s": "Princeton",
@@ -10,7 +10,7 @@
     "Administrative and Political Boundaries"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "June 2002",
+  "layer_slug_s": "princeton-td96k400k",
   "dc_creator_sm": [
     "Central Intelligence Agency"
   ],
@@ -27,7 +27,7 @@
   "layer_id_s": "td96k400k",
   "georss_box_s": "20 -160 80 -60",
   "dc_title_s": "North America, 2002",
-  "layer_slug_s": "princeton-td96k400k",
+  "dct_issued_s": "June 2002",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

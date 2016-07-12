@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1669",
   "uuid": "http://arks.princeton.edu/ark:/88435/rr172014r",
+  "dc_description_s": "Ware affbeeldinge wegens het casteel ende stadt Batavia gelegen opt groot eylant Java anno 1669",
+  "georss_box_s": "-6.3353167 106.6671436 -6.0153167 106.9871436",
+  "layer_modified_dt": "2015-01-21T22:23:52Z",
   "dc_creator_sm": [
     "Meurs, Jacob van,",
     "Montanus, Arnoldus,"
   ],
-  "dc_description_s": "Ware affbeeldinge wegens het casteel ende stadt Batavia gelegen opt groot eylant Java anno 1669",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "rr172014r",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/rr172014r/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Frr%2F17%2F20%2F14%2Fr%2F00000001.jp2/info.json\"}",
   "layer_id_s": "rr172014r",
-  "layer_slug_s": "princeton-rr172014r",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:52Z",
-  "dc_title_s": "Ware affbeeldinge wegens het casteel ende stadt Batavia gelegen opt groot eylant Java anno 1669",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Jakarta (Indonesia)"
-  ],
+  "dc_identifier_s": "rr172014r",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Ware affbeeldinge wegens het casteel ende stadt Batavia gelegen opt groot eylant Java anno 1669",
+  "layer_slug_s": "princeton-rr172014r",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/rr172014r/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/rr/17/20/14/r/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "-6.0153167 106.6671436 -6.0153167 106.9871436 -6.3353167 106.9871436 -6.3353167 106.6671436 -6.0153167 106.6671436",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1669"
   ],
-  "georss_box_s": "-6.3353167 106.6671436 -6.0153167 106.9871436",
-  "georss_polygon_s": "-6.0153167 106.6671436 -6.0153167 106.9871436 -6.3353167 106.9871436 -6.3353167 106.6671436 -6.0153167 106.6671436",
   "solr_geom": "ENVELOPE(106.6671436, 106.9871436, -6.0153167, -6.3353167)",
-  "solr_year_i": "1669"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Jakarta (Indonesia)"
+  ]
 }

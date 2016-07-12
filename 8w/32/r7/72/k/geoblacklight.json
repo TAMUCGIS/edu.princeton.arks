@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/8w32r772k",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Sayreville",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "8w32r772k",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F8w%2F32%2Fr7%2F72%2Fk%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "8w32r772k",
-  "layer_slug_s": "princeton-8w32r772k",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:05:45Z",
+  "solr_geom": "ENVELOPE(-74.386158, -74.257791, 40.509307, 40.416597)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/8w/32/r7/72/k/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/8w32r772k",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Sayreville, Middlesex County, New Jersey (Sheet 5)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1920"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "8w32r772k",
+  "georss_polygon_s": "40.509307 -74.386158 40.509307 -74.257791 40.416597 -74.257791 40.416597 -74.386158 40.509307 -74.386158",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1920",
   "dct_spatial_sm": [
     "New Jersey",
     "Sayreville"
   ],
-  "dct_temporal_sm": [
-    "1920"
-  ],
+  "layer_id_s": "8w32r772k",
   "georss_box_s": "40.416597 -74.386158 40.509307 -74.257791",
-  "georss_polygon_s": "40.509307 -74.386158 40.509307 -74.257791 40.416597 -74.257791 40.416597 -74.386158 40.509307 -74.386158",
-  "solr_geom": "ENVELOPE(-74.386158, -74.257791, 40.509307, 40.416597)",
-  "solr_year_i": "1920"
+  "dc_title_s": "Sayreville, Middlesex County, New Jersey (Sheet 5)",
+  "layer_slug_s": "princeton-8w32r772k",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

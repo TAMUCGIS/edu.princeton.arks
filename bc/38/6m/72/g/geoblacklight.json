@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1869",
   "uuid": "http://arks.princeton.edu/ark:/88435/bc386m72g",
+  "dc_description_s": "Mexico and the United States and their mutual relations",
+  "georss_box_s": "14.0 -117.0 33.0 -85.0",
+  "layer_modified_dt": "2015-01-19T22:37:35Z",
   "dc_creator_sm": [
     "Abbott, Gorham D.,"
   ],
-  "dc_description_s": "Mexico and the United States and their mutual relations",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "bc386m72g",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/bc386m72g/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fc%2F38%2F6m%2F72%2Fg%2F00000001.jp2/info.json\"}",
   "layer_id_s": "bc386m72g",
-  "layer_slug_s": "princeton-bc386m72g",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:35Z",
-  "dc_title_s": "Mexico and the United States and their mutual relations",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Mexico",
-    "United States"
-  ],
+  "dc_identifier_s": "bc386m72g",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Mexico and the United States and their mutual relations",
+  "layer_slug_s": "princeton-bc386m72g",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/bc386m72g/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/bc/38/6m/72/g/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "33.0 -117.0 33.0 -85.0 14.0 -85.0 14.0 -117.0 33.0 -117.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1869"
   ],
-  "georss_box_s": "14.0 -117.0 33.0 -85.0",
-  "georss_polygon_s": "33.0 -117.0 33.0 -85.0 14.0 -85.0 14.0 -117.0 33.0 -117.0",
   "solr_geom": "ENVELOPE(-117.0, -85.0, 33.0, 14.0)",
-  "solr_year_i": "1869"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Mexico",
+    "United States"
+  ]
 }

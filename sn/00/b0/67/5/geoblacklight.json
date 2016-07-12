@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1742",
   "uuid": "http://arks.princeton.edu/ark:/88435/sn00b0675",
+  "dc_description_s": "L'Ame\u0301rique Septentrionale : dresse\u0301e sur les observations de Mrs. de l'Academie royale des sciences & quelques autres, & sur les memoires les plus recens",
+  "georss_box_s": "7.0 -125.0 79.0 -24.0",
+  "layer_modified_dt": "2015-01-19T22:36:54Z",
   "dc_creator_sm": [
     "Fox, N. B.,",
     "L'Isle, Guillaume de, 1675-1726."
   ],
-  "dc_description_s": "L'Amérique Septentrionale : dressée sur les observations de Mrs. de l'Academie royale des sciences & quelques autres, & sur les memoires les plus recens",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "sn00b0675",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/sn00b0675/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fsn%2F00%2Fb0%2F67%2F5%2F00000001.jp2/info.json\"}",
   "layer_id_s": "sn00b0675",
-  "layer_slug_s": "princeton-sn00b0675",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:36:54Z",
-  "dc_title_s": "L'Amérique Septentrionale : dressée sur les observations de Mrs. de l'Academie royale des sciences & quelques autres, & sur les memoires les plus recens",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "North America"
-  ],
+  "dc_identifier_s": "sn00b0675",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "L'Ame\u0301rique Septentrionale : dresse\u0301e sur les observations de Mrs. de l'Academie royale des sciences & quelques autres, & sur les memoires les plus recens",
+  "layer_slug_s": "princeton-sn00b0675",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/sn00b0675/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/sn/00/b0/67/5/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "79.0 -125.0 79.0 -24.0 7.0 -24.0 7.0 -125.0 79.0 -125.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1742"
   ],
-  "georss_box_s": "7.0 -125.0 79.0 -24.0",
-  "georss_polygon_s": "79.0 -125.0 79.0 -24.0 7.0 -24.0 7.0 -125.0 79.0 -125.0",
   "solr_geom": "ENVELOPE(-125.0, -24.0, 79.0, 7.0)",
-  "solr_year_i": "1742"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "North America"
+  ]
 }

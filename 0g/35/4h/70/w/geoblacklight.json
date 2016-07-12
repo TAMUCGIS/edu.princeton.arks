@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1633",
   "uuid": "http://arks.princeton.edu/ark:/88435/0g354h70w",
+  "dc_description_s": "Nassovia Comitatus",
+  "georss_box_s": "49.3952611 7.7724063 51.657817 10.2364858",
+  "layer_modified_dt": "2015-01-21T22:24:18Z",
   "dc_creator_sm": [
     "Chalmers, William S.,"
   ],
-  "dc_description_s": "Nassovia Comitatus",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "0g354h70w",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/0g354h70w/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F0g%2F35%2F4h%2F70%2Fw%2F00000001.jp2/info.json\"}",
   "layer_id_s": "0g354h70w",
-  "layer_slug_s": "princeton-0g354h70w",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:18Z",
-  "dc_title_s": "Nassovia Comitatus",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Hesse (Germany)",
-    "Rhineland-Palatinate (Germany)"
-  ],
+  "dc_identifier_s": "0g354h70w",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Nassovia Comitatus",
+  "layer_slug_s": "princeton-0g354h70w",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/0g354h70w/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/0g/35/4h/70/w/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "51.657817 7.7724063 51.657817 10.2364858 49.3952611 10.2364858 49.3952611 7.7724063 51.657817 7.7724063",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1633"
   ],
-  "georss_box_s": "49.3952611 7.7724063 51.657817 10.2364858",
-  "georss_polygon_s": "51.657817 7.7724063 51.657817 10.2364858 49.3952611 10.2364858 49.3952611 7.7724063 51.657817 7.7724063",
   "solr_geom": "ENVELOPE(7.7724063, 10.2364858, 51.657817, 49.3952611)",
-  "solr_year_i": "1633"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Hesse (Germany)",
+    "Rhineland-Palatinate (Germany)"
+  ]
 }

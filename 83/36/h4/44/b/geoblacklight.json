@@ -1,27 +1,27 @@
 {
+  "solr_year_i": "1920",
   "uuid": "http://arks.princeton.edu/ark:/88435/8336h444b",
   "dc_description_s": "Riga",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "8336h444b",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/8336h444b/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F83%2F36%2Fh4%2F44%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "8336h444b",
-  "layer_slug_s": "princeton-8336h444b",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "56.0 18.0 60.0 27.0",
   "layer_modified_dt": "2015-01-19T22:37:42Z",
-  "dc_title_s": "Riga",
+  "layer_id_s": "8336h444b",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Estonia",
-    "Latvia",
-    "Rīga (Latvia)"
-  ],
+  "dc_identifier_s": "8336h444b",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Riga",
+  "layer_slug_s": "princeton-8336h444b",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/8336h444b/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/83/36/h4/44/b/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "60.0 18.0 60.0 27.0 56.0 27.0 56.0 18.0 60.0 18.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1920"
   ],
-  "georss_box_s": "56.0 18.0 60.0 27.0",
-  "georss_polygon_s": "60.0 18.0 60.0 27.0 56.0 27.0 56.0 18.0 60.0 18.0",
   "solr_geom": "ENVELOPE(18.0, 27.0, 60.0, 56.0)",
-  "solr_year_i": "1920"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Estonia",
+    "Latvia",
+    "Ri\u0304ga (Latvia)"
+  ]
 }

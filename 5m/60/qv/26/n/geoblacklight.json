@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/5m60qv26n",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Paterson",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "5m60qv26n",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F5m%2F60%2Fqv%2F26%2Fn%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "5m60qv26n",
-  "layer_slug_s": "princeton-5m60qv26n",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:11:38Z",
+  "solr_geom": "ENVELOPE(-74.206197, -74.12958, 40.94159, 40.888682)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/5m/60/qv/26/n/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/5m60qv26n",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Insurance maps of Paterson, New Jersey (Sheet 13)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1887"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "5m60qv26n",
+  "georss_polygon_s": "40.94159 -74.206197 40.94159 -74.12958 40.888682 -74.12958 40.888682 -74.206197 40.94159 -74.206197",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1887",
   "dct_spatial_sm": [
     "New Jersey",
     "Paterson"
   ],
-  "dct_temporal_sm": [
-    "1887"
-  ],
+  "layer_id_s": "5m60qv26n",
   "georss_box_s": "40.888682 -74.206197 40.94159 -74.12958",
-  "georss_polygon_s": "40.94159 -74.206197 40.94159 -74.12958 40.888682 -74.12958 40.888682 -74.206197 40.94159 -74.206197",
-  "solr_geom": "ENVELOPE(-74.206197, -74.12958, 40.94159, 40.888682)",
-  "solr_year_i": "1887"
+  "dc_title_s": "Insurance maps of Paterson, New Jersey (Sheet 13)",
+  "layer_slug_s": "princeton-5m60qv26n",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

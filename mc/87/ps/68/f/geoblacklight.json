@@ -1,21 +1,19 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/mc87ps68f",
   "dc_description_s": "Map of the Strikers Bay Farm : estate of Mrs. Ann Rogers, decd., part of the estate of John Clendining and part of the Herman LeRoy Farm",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "mc87ps68f",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/mc87ps68f/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fmc%2F87%2Fps%2F68%2Ff%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "mc87ps68f",
-  "layer_slug_s": "princeton-mc87ps68f",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:05Z",
-  "dc_title_s": "Map of the Strikers Bay Farm : estate of Mrs. Ann Rogers, decd., part of the estate of John Clendining and part of the Herman LeRoy Farm",
-  "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
   "georss_box_s": "40.7702778 -73.9797222 40.8102778 -73.9397222",
+  "layer_modified_dt": "2015-01-21T22:24:05Z",
+  "layer_id_s": "mc87ps68f",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "mc87ps68f",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Map of the Strikers Bay Farm : estate of Mrs. Ann Rogers, decd., part of the estate of John Clendining and part of the Herman LeRoy Farm",
+  "layer_slug_s": "princeton-mc87ps68f",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/mc87ps68f/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/mc/87/ps/68/f/00000001.jp2/info.json\"}",
   "georss_polygon_s": "40.8102778 -73.9797222 40.8102778 -73.9397222 40.7702778 -73.9397222 40.7702778 -73.9797222 40.8102778 -73.9797222",
-  "solr_geom": "ENVELOPE(-73.9797222, -73.9397222, 40.8102778, 40.7702778)"
+  "layer_geom_type_s": "Image",
+  "solr_geom": "ENVELOPE(-73.9797222, -73.9397222, 40.8102778, 40.7702778)",
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

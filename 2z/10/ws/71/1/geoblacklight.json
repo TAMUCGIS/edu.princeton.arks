@@ -1,32 +1,32 @@
 {
+  "solr_year_i": "1742",
   "uuid": "http://arks.princeton.edu/ark:/88435/2z10ws711",
+  "dc_description_s": "Tabula geographica provinciarum et urbium, Colonia\u0302 Romana\u0302 vel municipii jure vel alia\u0302 qua\u0302vis pr\u00e6rogativa\u0302 insignium qu\u00e6 Imperatorum Romanorum : a\u0300 Trajana Decio ad Claudium vultus in nummis suis expresserunt : ad illustrandam Numismatum seriem quam D. Anselmus Banduri",
+  "georss_box_s": "31.0 19.0 45.0 43.0",
+  "layer_modified_dt": "2015-01-19T22:37:29Z",
   "dc_creator_sm": [
     "Banduri, Anselmo Maria,",
     "L'Isle, Guillaume de, 1675-1726."
   ],
-  "dc_description_s": "Tabula geographica provinciarum et urbium, Coloniâ Romanâ vel municipii jure vel aliâ quâvis prærogativâ insignium quæ Imperatorum Romanorum : à Trajana Decio ad Claudium vultus in nummis suis expresserunt : ad illustrandam Numismatum seriem quam D. Anselmus Banduri",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "2z10ws711",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/2z10ws711/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F2z%2F10%2Fws%2F71%2F1%2F00000001.jp2/info.json\"}",
   "layer_id_s": "2z10ws711",
-  "layer_slug_s": "princeton-2z10ws711",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:29Z",
-  "dc_title_s": "Tabula geographica provinciarum et urbium, Coloniâ Romanâ vel municipii jure vel aliâ quâvis prærogativâ insignium quæ Imperatorum Romanorum : à Trajana Decio ad Claudium vultus in nummis suis expresserunt : ad illustrandam Numismatum seriem quam D. Anselmus Banduri",
   "dc_type_s": "Image",
+  "dc_identifier_s": "2z10ws711",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Tabula geographica provinciarum et urbium, Colonia\u0302 Romana\u0302 vel municipii jure vel alia\u0302 qua\u0302vis pr\u00e6rogativa\u0302 insignium qu\u00e6 Imperatorum Romanorum : a\u0300 Trajana Decio ad Claudium vultus in nummis suis expresserunt : ad illustrandam Numismatum seriem quam D. Anselmus Banduri",
+  "layer_slug_s": "princeton-2z10ws711",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/2z10ws711/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/2z/10/ws/71/1/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "45.0 19.0 45.0 43.0 31.0 43.0 31.0 19.0 45.0 19.0",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1742"
+  ],
+  "solr_geom": "ENVELOPE(19.0, 43.0, 45.0, 31.0)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Greece",
     "Middle East",
     "Rome",
     "Turkey"
-  ],
-  "dct_temporal_sm": [
-    "1742"
-  ],
-  "georss_box_s": "31.0 19.0 45.0 43.0",
-  "georss_polygon_s": "45.0 19.0 45.0 43.0 31.0 43.0 31.0 19.0 45.0 19.0",
-  "solr_geom": "ENVELOPE(19.0, 43.0, 45.0, 31.0)",
-  "solr_year_i": "1742"
+  ]
 }

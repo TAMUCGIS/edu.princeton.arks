@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1610",
   "uuid": "http://arks.princeton.edu/ark:/88435/rj430704b",
+  "dc_description_s": "Caermarden, both shyre and towne described",
+  "georss_box_s": "51.6449541 -4.721562 52.1421061 -3.6471251",
+  "layer_modified_dt": "2015-01-21T22:24:19Z",
   "dc_creator_sm": [
     "Hondius, Jodocus,",
     "Humble, George,",
     "Sudbury, John."
   ],
-  "dc_description_s": "Caermarden, both shyre and towne described",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "rj430704b",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/rj430704b/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Frj%2F43%2F07%2F04%2F00000001.jp2/info.json\"}",
   "layer_id_s": "rj430704b",
-  "layer_slug_s": "princeton-rj430704b",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:19Z",
-  "dc_title_s": "Caermarden, both shyre and towne described",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Carmarthenshire (Wales)"
-  ],
+  "dc_identifier_s": "rj430704b",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Caermarden, both shyre and towne described",
+  "layer_slug_s": "princeton-rj430704b",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/rj430704b/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/rj/43/07/04/b/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "52.1421061 -4.721562 52.1421061 -3.6471251 51.6449541 -3.6471251 51.6449541 -4.721562 52.1421061 -4.721562",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1610"
   ],
-  "georss_box_s": "51.6449541 -4.721562 52.1421061 -3.6471251",
-  "georss_polygon_s": "52.1421061 -4.721562 52.1421061 -3.6471251 51.6449541 -3.6471251 51.6449541 -4.721562 52.1421061 -4.721562",
   "solr_geom": "ENVELOPE(-4.721562, -3.6471251, 52.1421061, 51.6449541)",
-  "solr_year_i": "1610"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Carmarthenshire (Wales)"
+  ]
 }

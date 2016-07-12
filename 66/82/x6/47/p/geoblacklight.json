@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1874",
   "uuid": "http://arks.princeton.edu/ark:/88435/6682x647p",
+  "dc_description_s": "[Italia]",
+  "georss_box_s": "35.2889616 6.6272658 47.0921462 18.7844746",
+  "layer_modified_dt": "2015-01-21T22:24:25Z",
   "dc_creator_sm": [
     "Smith, William,",
     "Weller, Edward,"
   ],
-  "dc_description_s": "[Italia]",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "6682x647p",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/6682x647p/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F66%2F82%2Fx6%2F47%2Fp%2F00000001.jp2/info.json\"}",
   "layer_id_s": "6682x647p",
-  "layer_slug_s": "princeton-6682x647p",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:25Z",
-  "dc_title_s": "[Italia]",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Italy"
-  ],
+  "dc_identifier_s": "6682x647p",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "[Italia]",
+  "layer_slug_s": "princeton-6682x647p",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/6682x647p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/66/82/x6/47/p/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "47.0921462 6.6272658 47.0921462 18.7844746 35.2889616 18.7844746 35.2889616 6.6272658 47.0921462 6.6272658",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1874"
   ],
-  "georss_box_s": "35.2889616 6.6272658 47.0921462 18.7844746",
-  "georss_polygon_s": "47.0921462 6.6272658 47.0921462 18.7844746 35.2889616 18.7844746 35.2889616 6.6272658 47.0921462 6.6272658",
   "solr_geom": "ENVELOPE(6.6272658, 18.7844746, 47.0921462, 35.2889616)",
-  "solr_year_i": "1874"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Italy"
+  ]
 }

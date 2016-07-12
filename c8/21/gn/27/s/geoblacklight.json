@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1647",
   "uuid": "http://arks.princeton.edu/ark:/88435/c821gn27s",
+  "dc_description_s": "Suffolcia : vernacule Suffolke",
+  "georss_box_s": "51.9323088 0.3399748 52.5502218 1.7634774",
+  "layer_modified_dt": "2015-01-25T02:06:16Z",
   "dc_creator_sm": [
     "Blaeu, Joan,"
   ],
-  "dc_description_s": "Suffolcia : vernacule Suffolke",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "c821gn27s",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/c821gn27s/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fc8%2F21%2Fgn%2F27%2Fs%2F00000001.jp2/info.json\"}",
   "layer_id_s": "c821gn27s",
-  "layer_slug_s": "princeton-c821gn27s",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:16Z",
-  "dc_title_s": "Suffolcia : vernacule Suffolke",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Suffolk (England)"
-  ],
+  "dc_identifier_s": "c821gn27s",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Suffolcia : vernacule Suffolke",
+  "layer_slug_s": "princeton-c821gn27s",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/c821gn27s/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/c8/21/gn/27/s/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "52.5502218 0.3399748 52.5502218 1.7634774 51.9323088 1.7634774 51.9323088 0.3399748 52.5502218 0.3399748",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1647"
   ],
-  "georss_box_s": "51.9323088 0.3399748 52.5502218 1.7634774",
-  "georss_polygon_s": "52.5502218 0.3399748 52.5502218 1.7634774 51.9323088 1.7634774 51.9323088 0.3399748 52.5502218 0.3399748",
   "solr_geom": "ENVELOPE(0.3399748, 1.7634774, 52.5502218, 51.9323088)",
-  "solr_year_i": "1647"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Suffolk (England)"
+  ]
 }

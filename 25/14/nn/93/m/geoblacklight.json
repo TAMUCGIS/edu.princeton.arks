@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1642",
   "uuid": "http://arks.princeton.edu/ark:/88435/2514nn93m",
   "dc_description_s": "Calechut",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "2514nn93m",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/2514nn93m/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F25%2F14%2Fnn%2F93%2Fm%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "2514nn93m",
-  "layer_slug_s": "princeton-2514nn93m",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "11.0868727 75.6168279 11.4068727 75.9368279",
   "layer_modified_dt": "2015-01-21T22:24:05Z",
-  "dc_title_s": "Calechut",
+  "layer_id_s": "2514nn93m",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Calicut (India)"
-  ],
+  "dc_identifier_s": "2514nn93m",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Calechut",
+  "layer_slug_s": "princeton-2514nn93m",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/2514nn93m/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/25/14/nn/93/m/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "11.4068727 75.6168279 11.4068727 75.9368279 11.0868727 75.9368279 11.0868727 75.6168279 11.4068727 75.6168279",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1642"
   ],
-  "georss_box_s": "11.0868727 75.6168279 11.4068727 75.9368279",
-  "georss_polygon_s": "11.4068727 75.6168279 11.4068727 75.9368279 11.0868727 75.9368279 11.0868727 75.6168279 11.4068727 75.6168279",
   "solr_geom": "ENVELOPE(75.6168279, 75.9368279, 11.4068727, 11.0868727)",
-  "solr_year_i": "1642"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Calicut (India)"
+  ]
 }

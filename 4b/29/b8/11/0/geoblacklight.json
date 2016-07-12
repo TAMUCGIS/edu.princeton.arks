@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/4b29b8110",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Dover",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "4b29b8110",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F4b%2F29%2Fb8%2F11%2F0%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "4b29b8110",
-  "layer_slug_s": "princeton-4b29b8110",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:06:09Z",
+  "solr_geom": "ENVELOPE(-74.578304, -74.538707, 40.904113, 40.872536)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/4b/29/b8/11/0/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/4b29b8110",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Insurance maps of Dover, Morris Co., New Jersey: including Wharton (Sheet 3)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1916"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "4b29b8110",
+  "georss_polygon_s": "40.904113 -74.578304 40.904113 -74.538707 40.872536 -74.538707 40.872536 -74.578304 40.904113 -74.578304",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1916",
   "dct_spatial_sm": [
     "New Jersey",
     "Dover"
   ],
-  "dct_temporal_sm": [
-    "1916"
-  ],
+  "layer_id_s": "4b29b8110",
   "georss_box_s": "40.872536 -74.578304 40.904113 -74.538707",
-  "georss_polygon_s": "40.904113 -74.578304 40.904113 -74.538707 40.872536 -74.538707 40.872536 -74.578304 40.904113 -74.578304",
-  "solr_geom": "ENVELOPE(-74.578304, -74.538707, 40.904113, 40.872536)",
-  "solr_year_i": "1916"
+  "dc_title_s": "Insurance maps of Dover, Morris Co., New Jersey: including Wharton (Sheet 3)",
+  "layer_slug_s": "princeton-4b29b8110",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

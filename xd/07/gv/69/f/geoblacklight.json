@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/xd07gv69f",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of East Orange",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "xd07gv69f",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fxd%2F07%2Fgv%2F69%2Ff%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "xd07gv69f",
-  "layer_slug_s": "princeton-xd07gv69f",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:03:39Z",
+  "solr_geom": "ENVELOPE(-74.238349, -74.189989, 40.788123, 40.745094)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/xd/07/gv/69/f/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/xd07gv69f",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Insurance maps of East Orange, New Jersey (Sheet 85).",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1911"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "xd07gv69f",
+  "georss_polygon_s": "40.788123 -74.238349 40.788123 -74.189989 40.745094 -74.189989 40.745094 -74.238349 40.788123 -74.238349",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1911",
   "dct_spatial_sm": [
     "New Jersey",
     "East Orange"
   ],
-  "dct_temporal_sm": [
-    "1911"
-  ],
+  "layer_id_s": "xd07gv69f",
   "georss_box_s": "40.745094 -74.238349 40.788123 -74.189989",
-  "georss_polygon_s": "40.788123 -74.238349 40.788123 -74.189989 40.745094 -74.189989 40.745094 -74.238349 40.788123 -74.238349",
-  "solr_geom": "ENVELOPE(-74.238349, -74.189989, 40.788123, 40.745094)",
-  "solr_year_i": "1911"
+  "dc_title_s": "Insurance maps of East Orange, New Jersey (Sheet 85).",
+  "layer_slug_s": "princeton-xd07gv69f",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

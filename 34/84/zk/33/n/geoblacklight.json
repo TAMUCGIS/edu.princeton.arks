@@ -1,5 +1,9 @@
 {
+  "solr_year_i": "1863",
   "uuid": "http://arks.princeton.edu/ark:/88435/3484zk33n",
+  "dc_description_s": "[The Nicolls map]",
+  "georss_box_s": "40.7702778 -73.9797222 40.8102778 -73.9397222",
+  "layer_modified_dt": "2015-01-21T22:24:01Z",
   "dc_creator_sm": [
     "Nicholls, Richard,",
     "Hayward, George.",
@@ -8,26 +12,20 @@
     "Sims, Richard,",
     "Fox, N. B.,"
   ],
-  "dc_description_s": "[The Nicolls map]",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "3484zk33n",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/3484zk33n/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F34%2F84%2Fzk%2F33%2Fn%2F00000001.jp2/info.json\"}",
   "layer_id_s": "3484zk33n",
-  "layer_slug_s": "princeton-3484zk33n",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:01Z",
-  "dc_title_s": "[The Nicolls map]",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "3484zk33n",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "[The Nicolls map]",
+  "layer_slug_s": "princeton-3484zk33n",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/3484zk33n/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/34/84/zk/33/n/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.8102778 -73.9797222 40.8102778 -73.9397222 40.7702778 -73.9397222 40.7702778 -73.9797222 40.8102778 -73.9797222",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1863"
   ],
-  "georss_box_s": "40.7702778 -73.9797222 40.8102778 -73.9397222",
-  "georss_polygon_s": "40.8102778 -73.9797222 40.8102778 -73.9397222 40.7702778 -73.9397222 40.7702778 -73.9797222 40.8102778 -73.9797222",
   "solr_geom": "ENVELOPE(-73.9797222, -73.9397222, 40.8102778, 40.7702778)",
-  "solr_year_i": "1863"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

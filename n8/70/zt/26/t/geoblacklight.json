@@ -1,22 +1,22 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/n870zt26t",
-  "dc_description_s": "Vienne, capitale de l'archiduché d'Autriche, résidence ordinaire des Empereurs d'Occident, de la Maison d'Autriche, située sur le Danube à 32. degrez 15. minutes de longitude, et a 48. degrez 22. mites. de latitude septentrionale",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "n870zt26t",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/n870zt26t/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fn8%2F70%2Fzt%2F26%2Ft%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "n870zt26t",
-  "layer_slug_s": "princeton-n870zt26t",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Vienne, capitale de l'archiduche\u0301 d'Autriche, re\u0301sidence ordinaire des Empereurs d'Occident, de la Maison d'Autriche, situe\u0301e sur le Danube a\u0300 32. degrez 15. minutes de longitude, et a 48. degrez 22. mites. de latitude septentrionale",
+  "georss_box_s": "48.0483537 16.2125042 48.3683537 16.5325042",
   "layer_modified_dt": "2015-01-21T22:24:06Z",
-  "dc_title_s": "Vienne, capitale de l'archiduché d'Autriche, résidence ordinaire des Empereurs d'Occident, de la Maison d'Autriche, située sur le Danube à 32. degrez 15. minutes de longitude, et a 48. degrez 22. mites. de latitude septentrionale",
+  "layer_id_s": "n870zt26t",
   "dc_type_s": "Image",
+  "dc_identifier_s": "n870zt26t",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Vienne, capitale de l'archiduche\u0301 d'Autriche, re\u0301sidence ordinaire des Empereurs d'Occident, de la Maison d'Autriche, situe\u0301e sur le Danube a\u0300 32. degrez 15. minutes de longitude, et a 48. degrez 22. mites. de latitude septentrionale",
+  "layer_slug_s": "princeton-n870zt26t",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/n870zt26t/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/n8/70/zt/26/t/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "48.3683537 16.2125042 48.3683537 16.5325042 48.0483537 16.5325042 48.0483537 16.2125042 48.3683537 16.2125042",
+  "layer_geom_type_s": "Image",
+  "solr_geom": "ENVELOPE(16.2125042, 16.5325042, 48.3683537, 48.0483537)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Vienna (Austria)",
     "Vienna (Austria)"
-  ],
-  "georss_box_s": "48.0483537 16.2125042 48.3683537 16.5325042",
-  "georss_polygon_s": "48.3683537 16.2125042 48.3683537 16.5325042 48.0483537 16.5325042 48.0483537 16.2125042 48.3683537 16.2125042",
-  "solr_geom": "ENVELOPE(16.2125042, 16.5325042, 48.3683537, 48.0483537)"
+  ]
 }

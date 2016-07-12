@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1601",
   "uuid": "http://arks.princeton.edu/ark:/88435/np193c64b",
+  "dc_description_s": "Palaestinae sive totius terrae promissionis nova descriptio auctore Tilemanno Stella Sigenensi",
+  "georss_box_s": "11.7975 24.6967748 42.3667 63.3333366",
+  "layer_modified_dt": "2015-01-21T22:24:13Z",
   "dc_creator_sm": [
     "Ortelius, Abraham,"
   ],
-  "dc_description_s": "Palaestinae sive totius terrae promissionis nova descriptio auctore Tilemanno Stella Sigenensi",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "np193c64b",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/np193c64b/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fnp%2F19%2F3c%2F64%2F00000001.jp2/info.json\"}",
   "layer_id_s": "np193c64b",
-  "layer_slug_s": "princeton-np193c64b",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:13Z",
-  "dc_title_s": "Palaestinae sive totius terrae promissionis nova descriptio auctore Tilemanno Stella Sigenensi",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Middle East"
-  ],
+  "dc_identifier_s": "np193c64b",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Palaestinae sive totius terrae promissionis nova descriptio auctore Tilemanno Stella Sigenensi",
+  "layer_slug_s": "princeton-np193c64b",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/np193c64b/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/np/19/3c/64/b/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "42.3667 24.6967748 42.3667 63.3333366 11.7975 63.3333366 11.7975 24.6967748 42.3667 24.6967748",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1601"
   ],
-  "georss_box_s": "11.7975 24.6967748 42.3667 63.3333366",
-  "georss_polygon_s": "42.3667 24.6967748 42.3667 63.3333366 11.7975 63.3333366 11.7975 24.6967748 42.3667 24.6967748",
   "solr_geom": "ENVELOPE(24.6967748, 63.3333366, 42.3667, 11.7975)",
-  "solr_year_i": "1601"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Middle East"
+  ]
 }

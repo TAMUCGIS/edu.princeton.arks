@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1916",
   "uuid": "http://arks.princeton.edu/ark:/88435/sn00b129r",
+  "dc_description_s": "Neuburg (west) 1881",
+  "georss_box_s": "47.2701114 8.9763497 50.5647142 13.8396373",
+  "layer_modified_dt": "2015-01-21T22:24:26Z",
   "dc_creator_sm": [
     "Martini, Emil."
   ],
-  "dc_description_s": "Neuburg (west) 1881",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "sn00b129r",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/sn00b129r/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fsn%2F00%2Fb1%2F29%2Fr%2F00000001.jp2/info.json\"}",
   "layer_id_s": "sn00b129r",
-  "layer_slug_s": "princeton-sn00b129r",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:26Z",
-  "dc_title_s": "Neuburg (west) 1881",
   "dc_type_s": "Image",
+  "dc_identifier_s": "sn00b129r",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Neuburg (west) 1881",
+  "layer_slug_s": "princeton-sn00b129r",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/sn00b129r/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/sn/00/b1/29/r/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "50.5647142 8.9763497 50.5647142 13.8396373 47.2701114 13.8396373 47.2701114 8.9763497 50.5647142 8.9763497",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1916"
+  ],
+  "solr_geom": "ENVELOPE(8.9763497, 13.8396373, 50.5647142, 47.2701114)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Bavaria (Germany)",
     "Neuburg an der Donau (Germany)",
     "Maps"
-  ],
-  "dct_temporal_sm": [
-    "1916"
-  ],
-  "georss_box_s": "47.2701114 8.9763497 50.5647142 13.8396373",
-  "georss_polygon_s": "50.5647142 8.9763497 50.5647142 13.8396373 47.2701114 13.8396373 47.2701114 8.9763497 50.5647142 8.9763497",
-  "solr_geom": "ENVELOPE(8.9763497, 13.8396373, 50.5647142, 47.2701114)",
-  "solr_year_i": "1916"
+  ]
 }

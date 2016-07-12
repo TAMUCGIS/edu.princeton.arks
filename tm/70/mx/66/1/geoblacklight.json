@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1855",
   "uuid": "http://arks.princeton.edu/ark:/88435/tm70mx661",
+  "dc_description_s": "Carte des Iles Britanniques, comprenant l'Angleterre, l'E\u0301cosse et l'Irlande",
+  "georss_box_s": "49.0 -12.0 61.0 3.0",
+  "layer_modified_dt": "2015-01-19T22:37:27Z",
   "dc_creator_sm": [
     "Antoine, Louis,",
     "Andriveau-Goujon, J."
   ],
-  "dc_description_s": "Carte des Iles Britanniques, comprenant l'Angleterre, l'Écosse et l'Irlande",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "tm70mx661",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/tm70mx661/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ftm%2F70%2Fmx%2F66%2F1%2F00000001.jp2/info.json\"}",
   "layer_id_s": "tm70mx661",
-  "layer_slug_s": "princeton-tm70mx661",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:27Z",
-  "dc_title_s": "Carte des Iles Britanniques, comprenant l'Angleterre, l'Écosse et l'Irlande",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Great Britain"
-  ],
+  "dc_identifier_s": "tm70mx661",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Carte des Iles Britanniques, comprenant l'Angleterre, l'E\u0301cosse et l'Irlande",
+  "layer_slug_s": "princeton-tm70mx661",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/tm70mx661/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/tm/70/mx/66/1/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "61.0 -12.0 61.0 3.0 49.0 3.0 49.0 -12.0 61.0 -12.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1855"
   ],
-  "georss_box_s": "49.0 -12.0 61.0 3.0",
-  "georss_polygon_s": "61.0 -12.0 61.0 3.0 49.0 3.0 49.0 -12.0 61.0 -12.0",
   "solr_geom": "ENVELOPE(-12.0, 3.0, 61.0, 49.0)",
-  "solr_year_i": "1855"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Great Britain"
+  ]
 }

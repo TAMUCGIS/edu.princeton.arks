@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1576",
   "uuid": "http://arks.princeton.edu/ark:/88435/z316q401k",
+  "dc_description_s": "Stalimene",
+  "georss_box_s": "39.7817004 25.0331782 40.036039 25.4472239",
+  "layer_modified_dt": "2015-01-21T22:23:59Z",
   "dc_creator_sm": [
     "Porro, Girolamo,",
     "Porcacchi, Thomaso,"
   ],
-  "dc_description_s": "Stalimene",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "z316q401k",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/z316q401k/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fz3%2F16%2Fq4%2F01%2Fk%2F00000001.jp2/info.json\"}",
   "layer_id_s": "z316q401k",
-  "layer_slug_s": "princeton-z316q401k",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:59Z",
-  "dc_title_s": "Stalimene",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Limnos Island (Greece)"
-  ],
+  "dc_identifier_s": "z316q401k",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Stalimene",
+  "layer_slug_s": "princeton-z316q401k",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/z316q401k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/z3/16/q4/01/k/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.036039 25.0331782 40.036039 25.4472239 39.7817004 25.4472239 39.7817004 25.0331782 40.036039 25.0331782",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1576"
   ],
-  "georss_box_s": "39.7817004 25.0331782 40.036039 25.4472239",
-  "georss_polygon_s": "40.036039 25.0331782 40.036039 25.4472239 39.7817004 25.4472239 39.7817004 25.0331782 40.036039 25.0331782",
   "solr_geom": "ENVELOPE(25.0331782, 25.4472239, 40.036039, 39.7817004)",
-  "solr_year_i": "1576"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Limnos Island (Greece)"
+  ]
 }

@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1901",
   "uuid": "http://arks.princeton.edu/ark:/88435/5138jh385",
   "dc_description_s": "County Cavan, Province of Ulster, Ireland",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "5138jh385",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/5138jh385/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F51%2F38%2Fjh%2F38%2F5%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "5138jh385",
-  "layer_slug_s": "princeton-5138jh385",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "53.950833 -7.400556 54.030833 -7.320556",
   "layer_modified_dt": "2015-01-21T22:24:24Z",
-  "dc_title_s": "County Cavan, Province of Ulster, Ireland",
+  "layer_id_s": "5138jh385",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Cavan (Ireland : County)"
-  ],
+  "dc_identifier_s": "5138jh385",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "County Cavan, Province of Ulster, Ireland",
+  "layer_slug_s": "princeton-5138jh385",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/5138jh385/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/51/38/jh/38/5/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "54.030833 -7.400556 54.030833 -7.320556 53.950833 -7.320556 53.950833 -7.400556 54.030833 -7.400556",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1901"
   ],
-  "georss_box_s": "53.950833 -7.400556 54.030833 -7.320556",
-  "georss_polygon_s": "54.030833 -7.400556 54.030833 -7.320556 53.950833 -7.320556 53.950833 -7.400556 54.030833 -7.400556",
   "solr_geom": "ENVELOPE(-7.400556, -7.320556, 54.030833, 53.950833)",
-  "solr_year_i": "1901"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Cavan (Ireland : County)"
+  ]
 }

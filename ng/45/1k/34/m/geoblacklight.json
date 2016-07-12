@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1732",
   "uuid": "http://arks.princeton.edu/ark:/88435/ng451k34m",
+  "dc_description_s": "The west part of Barbary containing Fez, Marocco, Algiers and Tunis The east part of Barbary containing Tripoli, Barca and the north part of Egypt.",
+  "georss_box_s": "-42.0 -40.0 40.0 80.0",
+  "layer_modified_dt": "2015-01-19T22:36:39Z",
   "dc_creator_sm": [
     "Bowles, John,",
     "Bowles, Thomas,",
     "Moll, Herman, d. 1732."
   ],
-  "dc_description_s": "The west part of Barbary containing Fez, Marocco, Algiers and Tunis The east part of Barbary containing Tripoli, Barca and the north part of Egypt.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "ng451k34m",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/ng451k34m/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fng%2F45%2F1k%2F34%2Fm%2F00000001.jp2/info.json\"}",
   "layer_id_s": "ng451k34m",
-  "layer_slug_s": "princeton-ng451k34m",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:36:39Z",
-  "dc_title_s": "The west part of Barbary containing Fez, Marocco, Algiers and Tunis The east part of Barbary containing Tripoli, Barca and the north part of Egypt.",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Africa, North"
-  ],
+  "dc_identifier_s": "ng451k34m",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "The west part of Barbary containing Fez, Marocco, Algiers and Tunis The east part of Barbary containing Tripoli, Barca and the north part of Egypt.",
+  "layer_slug_s": "princeton-ng451k34m",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/ng451k34m/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ng/45/1k/34/m/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.0 -40.0 40.0 80.0 -42.0 80.0 -42.0 -40.0 40.0 -40.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1732"
   ],
-  "georss_box_s": "-42.0 -40.0 40.0 80.0",
-  "georss_polygon_s": "40.0 -40.0 40.0 80.0 -42.0 80.0 -42.0 -40.0 40.0 -40.0",
   "solr_geom": "ENVELOPE(-40.0, 80.0, 40.0, -42.0)",
-  "solr_year_i": "1732"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Africa, North"
+  ]
 }

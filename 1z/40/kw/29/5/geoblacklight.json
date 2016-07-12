@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1864",
   "uuid": "http://arks.princeton.edu/ark:/88435/1z40kw295",
   "dc_description_s": "Johnson's California, also Utah, Nevada, Colorado, New Mexico, and Arizona",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "1z40kw295",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/1z40kw295/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F1z%2F40%2Fkw%2F29%2F5%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "1z40kw295",
-  "layer_slug_s": "princeton-1z40kw295",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "31.0 -124.666666667 42.6666666667 -101.333333333",
   "layer_modified_dt": "2015-01-19T22:37:13Z",
-  "dc_title_s": "Johnson's California, also Utah, Nevada, Colorado, New Mexico, and Arizona",
+  "layer_id_s": "1z40kw295",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Southwest, New"
-  ],
+  "dc_identifier_s": "1z40kw295",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Johnson's California, also Utah, Nevada, Colorado, New Mexico, and Arizona",
+  "layer_slug_s": "princeton-1z40kw295",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/1z40kw295/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/1z/40/kw/29/5/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "42.6666666667 -124.666666667 42.6666666667 -101.333333333 31.0 -101.333333333 31.0 -124.666666667 42.6666666667 -124.666666667",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1864"
   ],
-  "georss_box_s": "31.0 -124.666666667 42.6666666667 -101.333333333",
-  "georss_polygon_s": "42.6666666667 -124.666666667 42.6666666667 -101.333333333 31.0 -101.333333333 31.0 -124.666666667 42.6666666667 -124.666666667",
   "solr_geom": "ENVELOPE(-124.666666667, -101.333333333, 42.6666666667, 31.0)",
-  "solr_year_i": "1864"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Southwest, New"
+  ]
 }

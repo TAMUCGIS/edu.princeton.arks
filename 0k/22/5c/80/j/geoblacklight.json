@@ -2,7 +2,7 @@
   "dc_description_s": "1:253,440 Topographic map produced by the California State Mining Bureau",
   "layer_modified_dt": "2015-01-11T17:43:39Z",
   "solr_geom": "ENVELOPE(-118.7833, -115.6333, 37.4667, 35.7833)",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F0k%2F22%2F5c%2F80%2Fj%2F00000001.jp2/info.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/0k225c80j/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/0k225c80j/preview.jpg\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/0k225c80j/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/0k/22/5c/80/j/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/0k225c80j/preview.jpg\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/0k225c80j",
   "dct_provenance_s": "Princeton",
@@ -14,7 +14,7 @@
     "Geoscientific Information"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "1917",
+  "layer_slug_s": "princeton-0k225c80j",
   "dc_creator_sm": [
     "California State Mining Bureau"
   ],
@@ -32,7 +32,7 @@
   "layer_id_s": "0k225c80j",
   "georss_box_s": "35.7833 -118.7833 37.4667 -115.6333",
   "dc_title_s": "Geologic map of Inyo County, California. Sheet 2",
-  "layer_slug_s": "princeton-0k225c80j",
+  "dct_issued_s": "1917",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

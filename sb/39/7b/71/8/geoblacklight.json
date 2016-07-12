@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1635",
   "uuid": "http://arks.princeton.edu/ark:/88435/sb397b718",
+  "dc_description_s": "Cataloni\u00e6 principatus descriptio nova",
+  "georss_box_s": "40.5230796 0.1591812 42.8615226 3.3323241",
+  "layer_modified_dt": "2015-01-21T22:24:10Z",
   "dc_creator_sm": [
     "Hondius, Hendrik,",
     "Hondius, Jodocus,"
   ],
-  "dc_description_s": "Cataloniæ principatus descriptio nova",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "sb397b718",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/sb397b718/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fsb%2F39%2F7b%2F71%2F8%2F00000001.jp2/info.json\"}",
   "layer_id_s": "sb397b718",
-  "layer_slug_s": "princeton-sb397b718",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:10Z",
-  "dc_title_s": "Cataloniæ principatus descriptio nova",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Catalonia (Spain)"
-  ],
+  "dc_identifier_s": "sb397b718",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Cataloni\u00e6 principatus descriptio nova",
+  "layer_slug_s": "princeton-sb397b718",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/sb397b718/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/sb/39/7b/71/8/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "42.8615226 0.1591812 42.8615226 3.3323241 40.5230796 3.3323241 40.5230796 0.1591812 42.8615226 0.1591812",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1635"
   ],
-  "georss_box_s": "40.5230796 0.1591812 42.8615226 3.3323241",
-  "georss_polygon_s": "42.8615226 0.1591812 42.8615226 3.3323241 40.5230796 3.3323241 40.5230796 0.1591812 42.8615226 0.1591812",
   "solr_geom": "ENVELOPE(0.1591812, 3.3323241, 42.8615226, 40.5230796)",
-  "solr_year_i": "1635"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Catalonia (Spain)"
+  ]
 }

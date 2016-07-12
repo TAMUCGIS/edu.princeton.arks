@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1888",
   "uuid": "http://arks.princeton.edu/ark:/88435/pz50gz18t",
   "dc_description_s": "Railroad and county map of Alabama",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "pz50gz18t",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/pz50gz18t/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fpz%2F50%2Fgz%2F18%2Ft%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "pz50gz18t",
-  "layer_slug_s": "princeton-pz50gz18t",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "30.25 -88.5 35.0 -84.8666666667",
   "layer_modified_dt": "2015-01-19T22:36:57Z",
-  "dc_title_s": "Railroad and county map of Alabama",
+  "layer_id_s": "pz50gz18t",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Alabama"
-  ],
+  "dc_identifier_s": "pz50gz18t",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Railroad and county map of Alabama",
+  "layer_slug_s": "princeton-pz50gz18t",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/pz50gz18t/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/pz/50/gz/18/t/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "35.0 -88.5 35.0 -84.8666666667 30.25 -84.8666666667 30.25 -88.5 35.0 -88.5",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1888"
   ],
-  "georss_box_s": "30.25 -88.5 35.0 -84.8666666667",
-  "georss_polygon_s": "35.0 -88.5 35.0 -84.8666666667 30.25 -84.8666666667 30.25 -88.5 35.0 -88.5",
   "solr_geom": "ENVELOPE(-88.5, -84.8666666667, 35.0, 30.25)",
-  "solr_year_i": "1888"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Alabama"
+  ]
 }

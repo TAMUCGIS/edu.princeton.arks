@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1886",
   "uuid": "http://arks.princeton.edu/ark:/88435/th83m1875",
+  "dc_description_s": "A topographical map of Kittatinny Valley and Mountain in Sussex County and the northern part of Warren /",
+  "georss_box_s": "40.8833333333 -75.0333333333 41.3833333333 -74.5666666667",
+  "layer_modified_dt": "2015-01-23T17:48:40Z",
   "dc_creator_sm": [
     "Cook, George Hammell,",
     "Vermeule, C. C.",
     "Sinnickson, Clement Hall,"
   ],
-  "dc_description_s": "A topographical map of Kittatinny Valley and Mountain in Sussex County and the northern part of Warren /",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "th83m1875",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/th83m1875/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fth%2F83%2Fm1%2F87%2F5%2F00000001.jp2/info.json\"}",
   "layer_id_s": "th83m1875",
-  "layer_slug_s": "princeton-th83m1875",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-23T17:48:40Z",
-  "dc_title_s": "A topographical map of Kittatinny Valley and Mountain in Sussex County and the northern part of Warren /",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Kittatinny Mountain"
-  ],
+  "dc_identifier_s": "th83m1875",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "A topographical map of Kittatinny Valley and Mountain in Sussex County and the northern part of Warren /",
+  "layer_slug_s": "princeton-th83m1875",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/th83m1875/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/th/83/m1/87/5/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "41.3833333333 -75.0333333333 41.3833333333 -74.5666666667 40.8833333333 -74.5666666667 40.8833333333 -75.0333333333 41.3833333333 -75.0333333333",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1886"
   ],
-  "georss_box_s": "40.8833333333 -75.0333333333 41.3833333333 -74.5666666667",
-  "georss_polygon_s": "41.3833333333 -75.0333333333 41.3833333333 -74.5666666667 40.8833333333 -74.5666666667 40.8833333333 -75.0333333333 41.3833333333 -75.0333333333",
   "solr_geom": "ENVELOPE(-75.0333333333, -74.5666666667, 41.3833333333, 40.8833333333)",
-  "solr_year_i": "1886"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Kittatinny Mountain"
+  ]
 }

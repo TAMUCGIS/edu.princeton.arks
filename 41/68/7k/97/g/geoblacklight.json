@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1901",
   "uuid": "http://arks.princeton.edu/ark:/88435/41687k97g",
   "dc_description_s": "County Kerry, Province of Munster, Ireland",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "41687k97g",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/41687k97g/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F41%2F68%2F7k%2F97%2Fg%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "41687k97g",
-  "layer_slug_s": "princeton-41687k97g",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "48.4363826 -97.8242579 48.4763826 -97.7842579",
   "layer_modified_dt": "2015-01-21T22:24:24Z",
-  "dc_title_s": "County Kerry, Province of Munster, Ireland",
+  "layer_id_s": "41687k97g",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Kerry (Ireland)"
-  ],
+  "dc_identifier_s": "41687k97g",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "County Kerry, Province of Munster, Ireland",
+  "layer_slug_s": "princeton-41687k97g",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/41687k97g/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/41/68/7k/97/g/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "48.4763826 -97.8242579 48.4763826 -97.7842579 48.4363826 -97.7842579 48.4363826 -97.8242579 48.4763826 -97.8242579",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1901"
   ],
-  "georss_box_s": "48.4363826 -97.8242579 48.4763826 -97.7842579",
-  "georss_polygon_s": "48.4763826 -97.8242579 48.4763826 -97.7842579 48.4363826 -97.7842579 48.4363826 -97.8242579 48.4763826 -97.8242579",
   "solr_geom": "ENVELOPE(-97.8242579, -97.7842579, 48.4763826, 48.4363826)",
-  "solr_year_i": "1901"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Kerry (Ireland)"
+  ]
 }

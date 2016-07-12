@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1829",
   "uuid": "http://arks.princeton.edu/ark:/88435/sn00b121w",
+  "dc_description_s": "First map, or, Map of 1578 : to accompany Willards History of the United States",
+  "georss_box_s": "24.4110356374 -91.7756124125 47.5887446096 -66.8711891",
+  "layer_modified_dt": "2015-01-21T22:24:07Z",
   "dc_creator_sm": [
     "Maverick, Samuel,",
     "Willard, Emma,"
   ],
-  "dc_description_s": "First map, or, Map of 1578 : to accompany Willards History of the United States",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "sn00b121w",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/sn00b121w/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fsn%2F00%2Fb1%2F21%2Fw%2F00000001.jp2/info.json\"}",
   "layer_id_s": "sn00b121w",
-  "layer_slug_s": "princeton-sn00b121w",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:07Z",
-  "dc_title_s": "First map, or, Map of 1578 : to accompany Willards History of the United States",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "United States"
-  ],
+  "dc_identifier_s": "sn00b121w",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "First map, or, Map of 1578 : to accompany Willards History of the United States",
+  "layer_slug_s": "princeton-sn00b121w",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/sn00b121w/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/sn/00/b1/21/w/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "47.5887446096 -91.7756124125 47.5887446096 -66.8711891 24.4110356374 -66.8711891 24.4110356374 -91.7756124125 47.5887446096 -91.7756124125",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1829"
   ],
-  "georss_box_s": "24.4110356374 -91.7756124125 47.5887446096 -66.8711891",
-  "georss_polygon_s": "47.5887446096 -91.7756124125 47.5887446096 -66.8711891 24.4110356374 -66.8711891 24.4110356374 -91.7756124125 47.5887446096 -91.7756124125",
   "solr_geom": "ENVELOPE(-91.7756124125, -66.8711891, 47.5887446096, 24.4110356374)",
-  "solr_year_i": "1829"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "United States"
+  ]
 }

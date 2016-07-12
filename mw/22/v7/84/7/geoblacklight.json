@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1714",
   "uuid": "http://arks.princeton.edu/ark:/88435/mw22v7847",
-  "dc_description_s": "Virginia, Marylandia et Carolina in America Septentrionali, Britannorum industria excultæ",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "mw22v7847",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/mw22v7847/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fmw%2F22%2Fv7%2F84%2F7%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "mw22v7847",
-  "layer_slug_s": "princeton-mw22v7847",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Virginia, Marylandia et Carolina in America Septentrionali, Britannorum industria excult\u00e6",
+  "georss_box_s": "37.8856427 -79.4871911 39.7229331 -74.9851722",
   "layer_modified_dt": "2015-01-21T22:23:58Z",
-  "dc_title_s": "Virginia, Marylandia et Carolina in America Septentrionali, Britannorum industria excultæ",
+  "layer_id_s": "mw22v7847",
   "dc_type_s": "Image",
+  "dc_identifier_s": "mw22v7847",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Virginia, Marylandia et Carolina in America Septentrionali, Britannorum industria excult\u00e6",
+  "layer_slug_s": "princeton-mw22v7847",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/mw22v7847/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/mw/22/v7/84/7/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "39.7229331 -79.4871911 39.7229331 -74.9851722 37.8856427 -74.9851722 37.8856427 -79.4871911 39.7229331 -79.4871911",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1714"
+  ],
+  "solr_geom": "ENVELOPE(-79.4871911, -74.9851722, 39.7229331, 37.8856427)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Maryland",
     "Middle Atlantic States",
     "New Jersey",
     "North Carolina",
     "Virginia"
-  ],
-  "dct_temporal_sm": [
-    "1714"
-  ],
-  "georss_box_s": "37.8856427 -79.4871911 39.7229331 -74.9851722",
-  "georss_polygon_s": "39.7229331 -79.4871911 39.7229331 -74.9851722 37.8856427 -74.9851722 37.8856427 -79.4871911 39.7229331 -79.4871911",
-  "solr_geom": "ENVELOPE(-79.4871911, -74.9851722, 39.7229331, 37.8856427)",
-  "solr_year_i": "1714"
+  ]
 }

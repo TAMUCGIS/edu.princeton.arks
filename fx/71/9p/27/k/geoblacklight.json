@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1942",
   "uuid": "http://arks.princeton.edu/ark:/88435/fx719p27k",
   "dc_description_s": "England 1:10 000, Dudley, BB 22a",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "fx719p27k",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/fx719p27k/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ffx%2F71%2F9p%2F27%2Fk%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "fx719p27k",
-  "layer_slug_s": "princeton-fx719p27k",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "52.5 -2.11666666667 52.5166666667 -2.06666666667",
   "layer_modified_dt": "2015-01-19T22:36:34Z",
-  "dc_title_s": "England 1:10 000, Dudley, BB 22a",
+  "layer_id_s": "fx719p27k",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Dudley (England)"
-  ],
+  "dc_identifier_s": "fx719p27k",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "England 1:10 000, Dudley, BB 22a",
+  "layer_slug_s": "princeton-fx719p27k",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/fx719p27k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/fx/71/9p/27/k/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "52.5166666667 -2.11666666667 52.5166666667 -2.06666666667 52.5 -2.06666666667 52.5 -2.11666666667 52.5166666667 -2.11666666667",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1942"
   ],
-  "georss_box_s": "52.5 -2.11666666667 52.5166666667 -2.06666666667",
-  "georss_polygon_s": "52.5166666667 -2.11666666667 52.5166666667 -2.06666666667 52.5 -2.06666666667 52.5 -2.11666666667 52.5166666667 -2.11666666667",
   "solr_geom": "ENVELOPE(-2.11666666667, -2.06666666667, 52.5166666667, 52.5)",
-  "solr_year_i": "1942"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Dudley (England)"
+  ]
 }

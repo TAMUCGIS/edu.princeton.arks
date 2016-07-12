@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1828",
   "uuid": "http://arks.princeton.edu/ark:/88435/3j3334622",
-  "dc_description_s": "Plan routier de la ville de Paris, divisé en douze arrondissemens",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "3j3334622",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/3j3334622/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F3j%2F33%2F34%2F62%2F2%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "3j3334622",
-  "layer_slug_s": "princeton-3j3334622",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Plan routier de la ville de Paris, divise\u0301 en douze arrondissemens",
+  "georss_box_s": "48.8155755 2.224122 48.902156 2.4697602",
   "layer_modified_dt": "2015-01-21T22:23:58Z",
-  "dc_title_s": "Plan routier de la ville de Paris, divisé en douze arrondissemens",
+  "layer_id_s": "3j3334622",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Paris (France)"
-  ],
+  "dc_identifier_s": "3j3334622",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Plan routier de la ville de Paris, divise\u0301 en douze arrondissemens",
+  "layer_slug_s": "princeton-3j3334622",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/3j3334622/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/3j/33/34/62/2/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "48.902156 2.224122 48.902156 2.4697602 48.8155755 2.4697602 48.8155755 2.224122 48.902156 2.224122",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1828"
   ],
-  "georss_box_s": "48.8155755 2.224122 48.902156 2.4697602",
-  "georss_polygon_s": "48.902156 2.224122 48.902156 2.4697602 48.8155755 2.4697602 48.8155755 2.224122 48.902156 2.224122",
   "solr_geom": "ENVELOPE(2.224122, 2.4697602, 48.902156, 48.8155755)",
-  "solr_year_i": "1828"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Paris (France)"
+  ]
 }

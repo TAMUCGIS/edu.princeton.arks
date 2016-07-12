@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1884",
   "uuid": "http://arks.princeton.edu/ark:/88435/z890rw72g",
   "dc_description_s": "Delaware, Maryland, Virginia and West Virginia",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "z890rw72g",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/z890rw72g/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fz8%2F90%2Frw%2F72%2Fg%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "z890rw72g",
-  "layer_slug_s": "princeton-z890rw72g",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "37.0 -83.0 40.0 -75.0",
   "layer_modified_dt": "2015-01-19T22:37:23Z",
-  "dc_title_s": "Delaware, Maryland, Virginia and West Virginia",
+  "layer_id_s": "z890rw72g",
   "dc_type_s": "Image",
+  "dc_identifier_s": "z890rw72g",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Delaware, Maryland, Virginia and West Virginia",
+  "layer_slug_s": "princeton-z890rw72g",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/z890rw72g/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/z8/90/rw/72/g/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.0 -83.0 40.0 -75.0 37.0 -75.0 37.0 -83.0 40.0 -83.0",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1884"
+  ],
+  "solr_geom": "ENVELOPE(-83.0, -75.0, 40.0, 37.0)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Delaware",
     "Maryland",
     "Middle Atlantic States",
     "Virginia",
     "West Virginia"
-  ],
-  "dct_temporal_sm": [
-    "1884"
-  ],
-  "georss_box_s": "37.0 -83.0 40.0 -75.0",
-  "georss_polygon_s": "40.0 -83.0 40.0 -75.0 37.0 -75.0 37.0 -83.0 40.0 -83.0",
-  "solr_geom": "ENVELOPE(-83.0, -75.0, 40.0, 37.0)",
-  "solr_year_i": "1884"
+  ]
 }

@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1623",
   "uuid": "http://arks.princeton.edu/ark:/88435/t148fk58n",
+  "dc_description_s": "Carte ge\u0301ographicque des postes qui trauersent la France",
+  "georss_box_s": "-50.2187168 -178.3873748 51.268318 172.3057152",
+  "layer_modified_dt": "2015-01-21T22:24:06Z",
   "dc_creator_sm": [
     "Tavernier, Melchior,"
   ],
-  "dc_description_s": "Carte géographicque des postes qui trauersent la France",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "t148fk58n",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/t148fk58n/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ft1%2F48%2Ffk%2F58%2Fn%2F00000001.jp2/info.json\"}",
   "layer_id_s": "t148fk58n",
-  "layer_slug_s": "princeton-t148fk58n",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:06Z",
-  "dc_title_s": "Carte géographicque des postes qui trauersent la France",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "France"
-  ],
+  "dc_identifier_s": "t148fk58n",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Carte ge\u0301ographicque des postes qui trauersent la France",
+  "layer_slug_s": "princeton-t148fk58n",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/t148fk58n/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/t1/48/fk/58/n/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "51.268318 -178.3873748 51.268318 172.3057152 -50.2187168 172.3057152 -50.2187168 -178.3873748 51.268318 -178.3873748",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1623"
   ],
-  "georss_box_s": "-50.2187168 -178.3873748 51.268318 172.3057152",
-  "georss_polygon_s": "51.268318 -178.3873748 51.268318 172.3057152 -50.2187168 172.3057152 -50.2187168 -178.3873748 51.268318 -178.3873748",
   "solr_geom": "ENVELOPE(-178.3873748, 172.3057152, 51.268318, -50.2187168)",
-  "solr_year_i": "1623"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "France"
+  ]
 }

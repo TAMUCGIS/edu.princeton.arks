@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1797",
   "uuid": "http://arks.princeton.edu/ark:/88435/t722hc304",
+  "dc_description_s": "Imperii Osmanici sive Turcici Europaei tabula ad normam recentissimarum observationum concinnata = Das osmansche Reich in Europa nach den neuesten Nachrichten und bewa\u0308hrtesten Hu\u0308lfsmitteln Ao. 1797 entworfen",
+  "georss_box_s": "36.3854134 13.4285022 45.9089096 29.619427",
+  "layer_modified_dt": "2015-01-21T22:24:22Z",
   "dc_creator_sm": [
     "Walch, Johannes."
   ],
-  "dc_description_s": "Imperii Osmanici sive Turcici Europaei tabula ad normam recentissimarum observationum concinnata = Das osmansche Reich in Europa nach den neuesten Nachrichten und bewährtesten Hülfsmitteln Ao. 1797 entworfen",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "t722hc304",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/t722hc304/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ft7%2F22%2Fhc%2F30%2F4%2F00000001.jp2/info.json\"}",
   "layer_id_s": "t722hc304",
-  "layer_slug_s": "princeton-t722hc304",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:22Z",
-  "dc_title_s": "Imperii Osmanici sive Turcici Europaei tabula ad normam recentissimarum observationum concinnata = Das osmansche Reich in Europa nach den neuesten Nachrichten und bewährtesten Hülfsmitteln Ao. 1797 entworfen",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Balkan Peninsula",
-    "Greece"
-  ],
+  "dc_identifier_s": "t722hc304",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Imperii Osmanici sive Turcici Europaei tabula ad normam recentissimarum observationum concinnata = Das osmansche Reich in Europa nach den neuesten Nachrichten und bewa\u0308hrtesten Hu\u0308lfsmitteln Ao. 1797 entworfen",
+  "layer_slug_s": "princeton-t722hc304",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/t722hc304/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/t7/22/hc/30/4/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "45.9089096 13.4285022 45.9089096 29.619427 36.3854134 29.619427 36.3854134 13.4285022 45.9089096 13.4285022",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1797"
   ],
-  "georss_box_s": "36.3854134 13.4285022 45.9089096 29.619427",
-  "georss_polygon_s": "45.9089096 13.4285022 45.9089096 29.619427 36.3854134 29.619427 36.3854134 13.4285022 45.9089096 13.4285022",
   "solr_geom": "ENVELOPE(13.4285022, 29.619427, 45.9089096, 36.3854134)",
-  "solr_year_i": "1797"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Balkan Peninsula",
+    "Greece"
+  ]
 }

@@ -1,31 +1,31 @@
 {
+  "solr_year_i": "1851",
   "uuid": "http://arks.princeton.edu/ark:/88435/8w32r792g",
+  "dc_description_s": "Mapa de la Isla de Cuba : indicando la geografi\u0301a fi\u0301sica y poli\u0301tica y tambien las grandes lineas de communicacion",
+  "georss_box_s": "19.6275294 -85.1679701 23.4816972 -73.9190003",
+  "layer_modified_dt": "2015-01-21T22:23:55Z",
   "dc_creator_sm": [
     "Picard, E.",
     "Langevin,",
-    "Lanée,"
+    "Lane\u0301e,"
   ],
-  "dc_description_s": "Mapa de la Isla de Cuba : indicando la geografía física y política y tambien las grandes lineas de communicacion",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "8w32r792g",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/8w32r792g/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F8w%2F32%2Fr7%2F92%2Fg%2F00000001.jp2/info.json\"}",
   "layer_id_s": "8w32r792g",
-  "layer_slug_s": "princeton-8w32r792g",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:55Z",
-  "dc_title_s": "Mapa de la Isla de Cuba : indicando la geografía física y política y tambien las grandes lineas de communicacion",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Cuba",
-    "Havana (Cuba)"
-  ],
+  "dc_identifier_s": "8w32r792g",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Mapa de la Isla de Cuba : indicando la geografi\u0301a fi\u0301sica y poli\u0301tica y tambien las grandes lineas de communicacion",
+  "layer_slug_s": "princeton-8w32r792g",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/8w32r792g/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/8w/32/r7/92/g/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "23.4816972 -85.1679701 23.4816972 -73.9190003 19.6275294 -73.9190003 19.6275294 -85.1679701 23.4816972 -85.1679701",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1851"
   ],
-  "georss_box_s": "19.6275294 -85.1679701 23.4816972 -73.9190003",
-  "georss_polygon_s": "23.4816972 -85.1679701 23.4816972 -73.9190003 19.6275294 -73.9190003 19.6275294 -85.1679701 23.4816972 -85.1679701",
   "solr_geom": "ENVELOPE(-85.1679701, -73.9190003, 23.4816972, 19.6275294)",
-  "solr_year_i": "1851"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Cuba",
+    "Havana (Cuba)"
+  ]
 }

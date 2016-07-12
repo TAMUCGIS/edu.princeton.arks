@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/mp48sf99v",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Hamburg",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "mp48sf99v",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fmp%2F48%2Fsf%2F99%2Fv%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "mp48sf99v",
-  "layer_slug_s": "princeton-mp48sf99v",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:08:19Z",
+  "solr_geom": "ENVELOPE(-74.58292, -74.560975, 41.161163, 41.136764)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/mp/48/sf/99/v/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/mp48sf99v",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Hamburg, Sussex County, New Jersey (Sheet 1).",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1924"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "mp48sf99v",
+  "georss_polygon_s": "41.161163 -74.58292 41.161163 -74.560975 41.136764 -74.560975 41.136764 -74.58292 41.161163 -74.58292",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1924",
   "dct_spatial_sm": [
     "New Jersey",
     "Hamburg"
   ],
-  "dct_temporal_sm": [
-    "1924"
-  ],
+  "layer_id_s": "mp48sf99v",
   "georss_box_s": "41.136764 -74.58292 41.161163 -74.560975",
-  "georss_polygon_s": "41.161163 -74.58292 41.161163 -74.560975 41.136764 -74.560975 41.136764 -74.58292 41.161163 -74.58292",
-  "solr_geom": "ENVELOPE(-74.58292, -74.560975, 41.161163, 41.136764)",
-  "solr_year_i": "1924"
+  "dc_title_s": "Hamburg, Sussex County, New Jersey (Sheet 1).",
+  "layer_slug_s": "princeton-mp48sf99v",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

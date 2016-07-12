@@ -2,7 +2,7 @@
   "dc_description_s": "This is a Sanborn map of Fort Lee, Leonia, and Palisades Park, Bergen County shown at a scale of 1:600.",
   "layer_modified_dt": "2015-01-11T17:43:32Z",
   "solr_geom": "ENVELOPE(-74.011, -73.953, 40.877, 40.828)",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fnc%2F58%2F0p%2F37%2Ff%2F00000001.jp2/info.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/nc580p37f/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/nc580p37f/preview.jpg\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/nc580p37f/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/nc/58/0p/37/f/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/nc580p37f/preview.jpg\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/nc580p37f",
   "dct_provenance_s": "Princeton",
@@ -12,7 +12,7 @@
     "Sanborn"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "1911",
+  "layer_slug_s": "princeton-nc580p37f",
   "dc_creator_sm": [
     "New York : Sanborn Map Company"
   ],
@@ -32,7 +32,7 @@
   "layer_id_s": "nc580p37f",
   "georss_box_s": "40.828 -74.011 40.877 -73.953",
   "dc_title_s": "Fort Lee, Leonia, and Palisades Park, Bergen County, New Jersey (Sheet 67) ",
-  "layer_slug_s": "princeton-nc580p37f",
+  "dct_issued_s": "1911",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

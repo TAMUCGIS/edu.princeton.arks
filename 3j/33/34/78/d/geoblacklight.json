@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1845",
   "uuid": "http://arks.princeton.edu/ark:/88435/3j333478d",
   "dc_description_s": "Frankfurt (am Mayn), 1845",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "3j333478d",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/3j333478d/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F3j%2F33%2F34%2F78%2Fd%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "3j333478d",
-  "layer_slug_s": "princeton-3j333478d",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "49.9506529 8.5220934 50.2706529 8.8420934",
   "layer_modified_dt": "2015-01-21T22:24:29Z",
-  "dc_title_s": "Frankfurt (am Mayn), 1845",
+  "layer_id_s": "3j333478d",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Frankfurt am Main (Germany)"
-  ],
+  "dc_identifier_s": "3j333478d",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Frankfurt (am Mayn), 1845",
+  "layer_slug_s": "princeton-3j333478d",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/3j333478d/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/3j/33/34/78/d/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "50.2706529 8.5220934 50.2706529 8.8420934 49.9506529 8.8420934 49.9506529 8.5220934 50.2706529 8.5220934",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1845"
   ],
-  "georss_box_s": "49.9506529 8.5220934 50.2706529 8.8420934",
-  "georss_polygon_s": "50.2706529 8.5220934 50.2706529 8.8420934 49.9506529 8.8420934 49.9506529 8.5220934 50.2706529 8.5220934",
   "solr_geom": "ENVELOPE(8.5220934, 8.8420934, 50.2706529, 49.9506529)",
-  "solr_year_i": "1845"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Frankfurt am Main (Germany)"
+  ]
 }

@@ -1,25 +1,23 @@
 {
+  "solr_year_i": "1852",
   "uuid": "http://arks.princeton.edu/ark:/88435/zs25xc00r",
   "dc_description_s": "Map of Princeton, Mercer County, New Jersey",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "zs25xc00r",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/zs25xc00r/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fzs%2F25%2Fxc%2F00%2Fr%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "zs25xc00r",
-  "layer_slug_s": "princeton-zs25xc00r",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "40.3092744 -74.6992958 40.3892744 -74.6192958",
   "layer_modified_dt": "2015-01-25T02:06:23Z",
-  "dc_title_s": "Map of Princeton, Mercer County, New Jersey",
+  "layer_id_s": "zs25xc00r",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "zs25xc00r",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Map of Princeton, Mercer County, New Jersey",
+  "layer_slug_s": "princeton-zs25xc00r",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/zs25xc00r/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/zs/25/xc/00/r/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.3892744 -74.6992958 40.3892744 -74.6192958 40.3092744 -74.6192958 40.3092744 -74.6992958 40.3892744 -74.6992958",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1852"
   ],
-  "georss_box_s": "40.3092744 -74.6992958 40.3892744 -74.6192958",
-  "georss_polygon_s": "40.3892744 -74.6992958 40.3892744 -74.6192958 40.3092744 -74.6192958 40.3092744 -74.6992958 40.3892744 -74.6992958",
   "solr_geom": "ENVELOPE(-74.6992958, -74.6192958, 40.3892744, 40.3092744)",
-  "solr_year_i": "1852"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

@@ -2,7 +2,7 @@
   "dc_description_s": "A scanned USGS 1:62500 topographic map.",
   "layer_modified_dt": "2015-01-11T17:42:35Z",
   "solr_geom": "ENVELOPE(-74.5, -73.969, 40.50, 40.00)",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ft4%2F35%2Fgf%2F42%2Fh%2F00000001.jp2/info.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/t435gf42h/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/t435gf42h/preview.jpg\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/t435gf42h/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/t4/35/gf/42/h/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/t435gf42h/preview.jpg\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/t435gf42h",
   "dct_provenance_s": "Princeton",
@@ -15,7 +15,7 @@
     "15 Minute Quadrangle Map"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "1907",
+  "layer_slug_s": "princeton-t435gf42h",
   "dc_creator_sm": [
     "United States Geological Survey"
   ],
@@ -35,7 +35,7 @@
   "layer_id_s": "t435gf42h",
   "georss_box_s": "40.00 -74.5 40.50 -73.969",
   "dc_title_s": "New Jersey - New York, Navesink Quadrangle (1907)",
-  "layer_slug_s": "princeton-t435gf42h",
+  "dct_issued_s": "1907",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

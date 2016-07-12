@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1885",
   "uuid": "http://arks.princeton.edu/ark:/88435/fj236463s",
   "dc_description_s": "Central and south Italy to accompany the Handbook for travellers /",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "fj236463s",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/fj236463s/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ffj%2F23%2F64%2F63%2Fs%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "fj236463s",
-  "layer_slug_s": "princeton-fj236463s",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "37.0 10.0 44.0 19.0",
   "layer_modified_dt": "2015-01-23T17:48:40Z",
-  "dc_title_s": "Central and south Italy to accompany the Handbook for travellers /",
+  "layer_id_s": "fj236463s",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Italy"
-  ],
+  "dc_identifier_s": "fj236463s",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Central and south Italy to accompany the Handbook for travellers /",
+  "layer_slug_s": "princeton-fj236463s",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/fj236463s/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/fj/23/64/63/s/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "44.0 10.0 44.0 19.0 37.0 19.0 37.0 10.0 44.0 10.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1885"
   ],
-  "georss_box_s": "37.0 10.0 44.0 19.0",
-  "georss_polygon_s": "44.0 10.0 44.0 19.0 37.0 19.0 37.0 10.0 44.0 10.0",
   "solr_geom": "ENVELOPE(10.0, 19.0, 44.0, 37.0)",
-  "solr_year_i": "1885"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Italy"
+  ]
 }

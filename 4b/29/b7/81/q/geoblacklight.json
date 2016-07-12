@@ -1,32 +1,32 @@
 {
+  "solr_year_i": "1854",
   "uuid": "http://arks.princeton.edu/ark:/88435/4b29b781q",
+  "dc_description_s": "Africa, North part : Africa, South part",
+  "georss_box_s": "-46.9813794 16.45194 -22.12503 38.0037335",
+  "layer_modified_dt": "2015-01-21T22:23:42Z",
   "dc_creator_sm": [
     "Hall, Sidney,"
   ],
-  "dc_description_s": "Africa, North part : Africa, South part",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "4b29b781q",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/4b29b781q/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F4b%2F29%2Fb7%2F81%2Fq%2F00000001.jp2/info.json\"}",
   "layer_id_s": "4b29b781q",
-  "layer_slug_s": "princeton-4b29b781q",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:42Z",
-  "dc_title_s": "Africa, North part : Africa, South part",
   "dc_type_s": "Image",
+  "dc_identifier_s": "4b29b781q",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Africa, North part : Africa, South part",
+  "layer_slug_s": "princeton-4b29b781q",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/4b29b781q/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/4b/29/b7/81/q/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "-22.12503 16.45194 -22.12503 38.0037335 -46.9813794 38.0037335 -46.9813794 16.45194 -22.12503 16.45194",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1854"
+  ],
+  "solr_geom": "ENVELOPE(16.45194, 38.0037335, -22.12503, -46.9813794)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "South Africa",
     "Africa, Northwest",
     "Morocco",
     "Algeria",
     "Tunisia"
-  ],
-  "dct_temporal_sm": [
-    "1854"
-  ],
-  "georss_box_s": "-46.9813794 16.45194 -22.12503 38.0037335",
-  "georss_polygon_s": "-22.12503 16.45194 -22.12503 38.0037335 -46.9813794 38.0037335 -46.9813794 16.45194 -22.12503 16.45194",
-  "solr_geom": "ENVELOPE(16.45194, 38.0037335, -22.12503, -46.9813794)",
-  "solr_year_i": "1854"
+  ]
 }

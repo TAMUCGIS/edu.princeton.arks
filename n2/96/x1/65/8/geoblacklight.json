@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1902",
   "uuid": "http://arks.princeton.edu/ark:/88435/n296x1658",
+  "dc_description_s": "Aschaffenburg",
+  "georss_box_s": "49.9340542 9.1093636 50.0140542 9.1893636",
+  "layer_modified_dt": "2015-01-21T22:24:28Z",
   "dc_creator_sm": [
     "Woerl, Leo,"
   ],
-  "dc_description_s": "Aschaffenburg",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "n296x1658",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/n296x1658/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fn2%2F96%2Fx1%2F65%2F8%2F00000001.jp2/info.json\"}",
   "layer_id_s": "n296x1658",
-  "layer_slug_s": "princeton-n296x1658",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:28Z",
-  "dc_title_s": "Aschaffenburg",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Aschaffenburg (Germany)",
-    "Bavaria (Germany)"
-  ],
+  "dc_identifier_s": "n296x1658",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Aschaffenburg",
+  "layer_slug_s": "princeton-n296x1658",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/n296x1658/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/n2/96/x1/65/8/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "50.0140542 9.1093636 50.0140542 9.1893636 49.9340542 9.1893636 49.9340542 9.1093636 50.0140542 9.1093636",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1902"
   ],
-  "georss_box_s": "49.9340542 9.1093636 50.0140542 9.1893636",
-  "georss_polygon_s": "50.0140542 9.1093636 50.0140542 9.1893636 49.9340542 9.1893636 49.9340542 9.1093636 50.0140542 9.1093636",
   "solr_geom": "ENVELOPE(9.1093636, 9.1893636, 50.0140542, 49.9340542)",
-  "solr_year_i": "1902"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Aschaffenburg (Germany)",
+    "Bavaria (Germany)"
+  ]
 }

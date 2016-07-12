@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1856",
   "uuid": "http://arks.princeton.edu/ark:/88435/n009w462c",
   "dc_description_s": "New Jersey",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "n009w462c",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/n009w462c/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fn0%2F09%2Fw4%2F62%2Fc%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "n009w462c",
-  "layer_slug_s": "princeton-n009w462c",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "38.7911303 -75.5633859 41.357423 -73.8939789",
   "layer_modified_dt": "2015-01-25T02:06:10Z",
-  "dc_title_s": "New Jersey",
+  "layer_id_s": "n009w462c",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "New Jersey"
-  ],
+  "dc_identifier_s": "n009w462c",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "New Jersey",
+  "layer_slug_s": "princeton-n009w462c",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/n009w462c/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/n0/09/w4/62/c/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "41.357423 -75.5633859 41.357423 -73.8939789 38.7911303 -73.8939789 38.7911303 -75.5633859 41.357423 -75.5633859",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1856"
   ],
-  "georss_box_s": "38.7911303 -75.5633859 41.357423 -73.8939789",
-  "georss_polygon_s": "41.357423 -75.5633859 41.357423 -73.8939789 38.7911303 -73.8939789 38.7911303 -75.5633859 41.357423 -75.5633859",
   "solr_geom": "ENVELOPE(-75.5633859, -73.8939789, 41.357423, 38.7911303)",
-  "solr_year_i": "1856"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "New Jersey"
+  ]
 }

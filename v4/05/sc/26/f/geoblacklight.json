@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1912",
   "uuid": "http://arks.princeton.edu/ark:/88435/v405sc26f",
   "dc_description_s": "The Rand-McNally new library atlas map of Turkey in Europe, Roumania, Servia, Bulgaria, and Montenegro",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "v405sc26f",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/v405sc26f/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fv4%2F05%2Fsc%2F26%2Ff%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "v405sc26f",
-  "layer_slug_s": "princeton-v405sc26f",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "35.8076804 25.6212891 42.297 44.8176638",
   "layer_modified_dt": "2015-01-21T22:23:49Z",
-  "dc_title_s": "The Rand-McNally new library atlas map of Turkey in Europe, Roumania, Servia, Bulgaria, and Montenegro",
+  "layer_id_s": "v405sc26f",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Turkey",
-    "Balkan Peninsula"
-  ],
+  "dc_identifier_s": "v405sc26f",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "The Rand-McNally new library atlas map of Turkey in Europe, Roumania, Servia, Bulgaria, and Montenegro",
+  "layer_slug_s": "princeton-v405sc26f",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/v405sc26f/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/v4/05/sc/26/f/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "42.297 25.6212891 42.297 44.8176638 35.8076804 44.8176638 35.8076804 25.6212891 42.297 25.6212891",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1912"
   ],
-  "georss_box_s": "35.8076804 25.6212891 42.297 44.8176638",
-  "georss_polygon_s": "42.297 25.6212891 42.297 44.8176638 35.8076804 44.8176638 35.8076804 25.6212891 42.297 25.6212891",
   "solr_geom": "ENVELOPE(25.6212891, 44.8176638, 42.297, 35.8076804)",
-  "solr_year_i": "1912"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Turkey",
+    "Balkan Peninsula"
+  ]
 }

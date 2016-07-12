@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1726",
   "uuid": "http://arks.princeton.edu/ark:/88435/0c483m854",
+  "dc_description_s": "Tabula peculiaris regionum, quas Apostoli perlustrarunt, et celebriorum locorum, in quibus Euangeliu[m] praedicarunt",
+  "georss_box_s": "35.8076804 29.0876878 38.5861136 37.7518928",
+  "layer_modified_dt": "2015-01-21T22:24:12Z",
   "dc_creator_sm": [
     "Coleti, Sebastiano,"
   ],
-  "dc_description_s": "Tabula peculiaris regionum, quas Apostoli perlustrarunt, et celebriorum locorum, in quibus Euangeliu[m] praedicarunt",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "0c483m854",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/0c483m854/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F0c%2F48%2F3m%2F85%2F4%2F00000001.jp2/info.json\"}",
   "layer_id_s": "0c483m854",
-  "layer_slug_s": "princeton-0c483m854",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:12Z",
-  "dc_title_s": "Tabula peculiaris regionum, quas Apostoli perlustrarunt, et celebriorum locorum, in quibus Euangeliu[m] praedicarunt",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Mediterranean Region"
-  ],
+  "dc_identifier_s": "0c483m854",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Tabula peculiaris regionum, quas Apostoli perlustrarunt, et celebriorum locorum, in quibus Euangeliu[m] praedicarunt",
+  "layer_slug_s": "princeton-0c483m854",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/0c483m854/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/0c/48/3m/85/4/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "38.5861136 29.0876878 38.5861136 37.7518928 35.8076804 37.7518928 35.8076804 29.0876878 38.5861136 29.0876878",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1726"
   ],
-  "georss_box_s": "35.8076804 29.0876878 38.5861136 37.7518928",
-  "georss_polygon_s": "38.5861136 29.0876878 38.5861136 37.7518928 35.8076804 37.7518928 35.8076804 29.0876878 38.5861136 29.0876878",
   "solr_geom": "ENVELOPE(29.0876878, 37.7518928, 38.5861136, 35.8076804)",
-  "solr_year_i": "1726"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Mediterranean Region"
+  ]
 }

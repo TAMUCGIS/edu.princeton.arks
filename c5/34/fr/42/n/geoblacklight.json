@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1861",
   "uuid": "http://arks.princeton.edu/ark:/88435/c534fr42n",
+  "dc_description_s": "Topographical map of the state of New Jersey : together with the vicinities of New York and Philadelphia, and with most of the state of Delaware : from the State Geological Survey and the U.S. Coast Survey, and from surveys",
+  "georss_box_s": "38.7911303 -75.5633859 41.357423 -73.8939789",
+  "layer_modified_dt": "2015-01-21T22:24:17Z",
   "dc_creator_sm": [
     "Kitchell, William,",
     "Blodget, Lorin,",
     "Smith, Robert Pearsall,"
   ],
-  "dc_description_s": "Topographical map of the state of New Jersey : together with the vicinities of New York and Philadelphia, and with most of the state of Delaware : from the State Geological Survey and the U.S. Coast Survey, and from surveys",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "c534fr42n",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/c534fr42n/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fc5%2F34%2Ffr%2F42%2Fn%2F00000001.jp2/info.json\"}",
   "layer_id_s": "c534fr42n",
-  "layer_slug_s": "princeton-c534fr42n",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:17Z",
-  "dc_title_s": "Topographical map of the state of New Jersey : together with the vicinities of New York and Philadelphia, and with most of the state of Delaware : from the State Geological Survey and the U.S. Coast Survey, and from surveys",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "New Jersey"
-  ],
+  "dc_identifier_s": "c534fr42n",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Topographical map of the state of New Jersey : together with the vicinities of New York and Philadelphia, and with most of the state of Delaware : from the State Geological Survey and the U.S. Coast Survey, and from surveys",
+  "layer_slug_s": "princeton-c534fr42n",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/c534fr42n/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/c5/34/fr/42/n/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "41.357423 -75.5633859 41.357423 -73.8939789 38.7911303 -73.8939789 38.7911303 -75.5633859 41.357423 -75.5633859",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1861"
   ],
-  "georss_box_s": "38.7911303 -75.5633859 41.357423 -73.8939789",
-  "georss_polygon_s": "41.357423 -75.5633859 41.357423 -73.8939789 38.7911303 -73.8939789 38.7911303 -75.5633859 41.357423 -75.5633859",
   "solr_geom": "ENVELOPE(-75.5633859, -73.8939789, 41.357423, 38.7911303)",
-  "solr_year_i": "1861"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "New Jersey"
+  ]
 }

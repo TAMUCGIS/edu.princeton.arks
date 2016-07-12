@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1980",
   "uuid": "http://arks.princeton.edu/ark:/88435/v118rg368",
   "dc_description_s": "Bartholomew Glasgow city plan",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "v118rg368",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/v118rg368/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fv1%2F18%2Frg%2F36%2F8%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "v118rg368",
-  "layer_slug_s": "princeton-v118rg368",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "55.81667 -4.35000 55.90000 -4.16667",
   "layer_modified_dt": "2015-01-19T22:36:36Z",
-  "dc_title_s": "Bartholomew Glasgow city plan",
+  "layer_id_s": "v118rg368",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Scotland"
-  ],
+  "dc_identifier_s": "v118rg368",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Bartholomew Glasgow city plan",
+  "layer_slug_s": "princeton-v118rg368",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/v118rg368/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/v1/18/rg/36/8/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "55.90000 -4.35000 55.90000 -4.16667 55.81667 -4.16667 55.81667 -4.35000 55.90000 -4.35000",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1980"
   ],
-  "georss_box_s": "55.81667 -4.35000 55.90000 -4.16667",
-  "georss_polygon_s": "55.90000 -4.35000 55.90000 -4.16667 55.81667 -4.16667 55.81667 -4.35000 55.90000 -4.35000",
   "solr_geom": "ENVELOPE(-4.35000, -4.16667, 55.90000, 55.81667)",
-  "solr_year_i": "1980"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Scotland"
+  ]
 }

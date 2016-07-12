@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1752",
   "uuid": "http://arks.princeton.edu/ark:/88435/5t34sn03p",
+  "dc_description_s": "A new & accurate map of Persia : with the adjacent countries. Drawn from the most approved modern maps &c. The whole being regulated by astronl. observations",
+  "georss_box_s": "24.8465103 44.0318908 39.7816502 63.3332704",
+  "layer_modified_dt": "2015-01-21T22:24:11Z",
   "dc_creator_sm": [
     "Bowen, Emanuel,"
   ],
-  "dc_description_s": "A new & accurate map of Persia : with the adjacent countries. Drawn from the most approved modern maps &c. The whole being regulated by astronl. observations",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "5t34sn03p",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/5t34sn03p/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F5t%2F34%2Fsn%2F03%2Fp%2F00000001.jp2/info.json\"}",
   "layer_id_s": "5t34sn03p",
-  "layer_slug_s": "princeton-5t34sn03p",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:11Z",
-  "dc_title_s": "A new & accurate map of Persia : with the adjacent countries. Drawn from the most approved modern maps &c. The whole being regulated by astronl. observations",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Iran"
-  ],
+  "dc_identifier_s": "5t34sn03p",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "A new & accurate map of Persia : with the adjacent countries. Drawn from the most approved modern maps &c. The whole being regulated by astronl. observations",
+  "layer_slug_s": "princeton-5t34sn03p",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/5t34sn03p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/5t/34/sn/03/p/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "39.7816502 44.0318908 39.7816502 63.3332704 24.8465103 63.3332704 24.8465103 44.0318908 39.7816502 44.0318908",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1752"
   ],
-  "georss_box_s": "24.8465103 44.0318908 39.7816502 63.3332704",
-  "georss_polygon_s": "39.7816502 44.0318908 39.7816502 63.3332704 24.8465103 63.3332704 24.8465103 44.0318908 39.7816502 44.0318908",
   "solr_geom": "ENVELOPE(44.0318908, 63.3332704, 39.7816502, 24.8465103)",
-  "solr_year_i": "1752"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Iran"
+  ]
 }

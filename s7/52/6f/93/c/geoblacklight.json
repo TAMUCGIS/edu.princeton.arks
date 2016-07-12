@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1754",
   "uuid": "http://arks.princeton.edu/ark:/88435/s7526f93c",
-  "dc_creator_sm": [
-    "Prévost,"
-  ],
   "dc_description_s": "Nouveau Mexico",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "s7526f93c",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/s7526f93c/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fs7%2F52%2F6f%2F93%2Fc%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "s7526f93c",
-  "layer_slug_s": "princeton-s7526f93c",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "19.2725301 -99.2932102 19.5925301 -98.9732102",
   "layer_modified_dt": "2015-01-21T22:24:24Z",
-  "dc_title_s": "Nouveau Mexico",
-  "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Mexico City (Mexico)"
+  "dc_creator_sm": [
+    "Pre\u0301vost,"
   ],
+  "layer_id_s": "s7526f93c",
+  "dc_type_s": "Image",
+  "dc_identifier_s": "s7526f93c",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Nouveau Mexico",
+  "layer_slug_s": "princeton-s7526f93c",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/s7526f93c/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/s7/52/6f/93/c/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "19.5925301 -99.2932102 19.5925301 -98.9732102 19.2725301 -98.9732102 19.2725301 -99.2932102 19.5925301 -99.2932102",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1754"
   ],
-  "georss_box_s": "19.2725301 -99.2932102 19.5925301 -98.9732102",
-  "georss_polygon_s": "19.5925301 -99.2932102 19.5925301 -98.9732102 19.2725301 -98.9732102 19.2725301 -99.2932102 19.5925301 -99.2932102",
   "solr_geom": "ENVELOPE(-99.2932102, -98.9732102, 19.5925301, 19.2725301)",
-  "solr_year_i": "1754"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Mexico City (Mexico)"
+  ]
 }

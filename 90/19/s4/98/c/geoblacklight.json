@@ -1,24 +1,24 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/9019s498c",
+  "dc_description_s": "Hessische La\u0308nder",
+  "georss_box_s": "49.3952611 7.7724063 51.657817 10.2364858",
+  "layer_modified_dt": "2015-01-25T02:06:17Z",
   "dc_creator_sm": [
     "Hochdanz, E.,"
   ],
-  "dc_description_s": "Hessische Länder",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "9019s498c",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/9019s498c/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F90%2F19%2Fs4%2F98%2Fc%2F00000001.jp2/info.json\"}",
   "layer_id_s": "9019s498c",
-  "layer_slug_s": "princeton-9019s498c",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:17Z",
-  "dc_title_s": "Hessische Länder",
   "dc_type_s": "Image",
+  "dc_identifier_s": "9019s498c",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Hessische La\u0308nder",
+  "layer_slug_s": "princeton-9019s498c",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/9019s498c/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/90/19/s4/98/c/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "51.657817 7.7724063 51.657817 10.2364858 49.3952611 10.2364858 49.3952611 7.7724063 51.657817 7.7724063",
+  "layer_geom_type_s": "Image",
+  "solr_geom": "ENVELOPE(7.7724063, 10.2364858, 51.657817, 49.3952611)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Hesse (Germany)"
-  ],
-  "georss_box_s": "49.3952611 7.7724063 51.657817 10.2364858",
-  "georss_polygon_s": "51.657817 7.7724063 51.657817 10.2364858 49.3952611 10.2364858 49.3952611 7.7724063 51.657817 7.7724063",
-  "solr_geom": "ENVELOPE(7.7724063, 10.2364858, 51.657817, 49.3952611)"
+  ]
 }

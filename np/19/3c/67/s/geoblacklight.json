@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1901",
   "uuid": "http://arks.princeton.edu/ark:/88435/np193c67s",
+  "dc_description_s": "Nauheim und Umgebung",
+  "georss_box_s": "50.3420463 8.7096011 50.4117868 8.7962687",
+  "layer_modified_dt": "2015-01-21T22:24:22Z",
   "dc_creator_sm": [
     "Woerl, Leo,"
   ],
-  "dc_description_s": "Nauheim und Umgebung",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "np193c67s",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/np193c67s/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fnp%2F19%2F3c%2F67%2Fs%2F00000001.jp2/info.json\"}",
   "layer_id_s": "np193c67s",
-  "layer_slug_s": "princeton-np193c67s",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:22Z",
-  "dc_title_s": "Nauheim und Umgebung",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Bad Nauheim (Germany)",
-    "Hesse (Germany)"
-  ],
+  "dc_identifier_s": "np193c67s",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Nauheim und Umgebung",
+  "layer_slug_s": "princeton-np193c67s",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/np193c67s/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/np/19/3c/67/s/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "50.4117868 8.7096011 50.4117868 8.7962687 50.3420463 8.7962687 50.3420463 8.7096011 50.4117868 8.7096011",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1901"
   ],
-  "georss_box_s": "50.3420463 8.7096011 50.4117868 8.7962687",
-  "georss_polygon_s": "50.4117868 8.7096011 50.4117868 8.7962687 50.3420463 8.7962687 50.3420463 8.7096011 50.4117868 8.7096011",
   "solr_geom": "ENVELOPE(8.7096011, 8.7962687, 50.4117868, 50.3420463)",
-  "solr_year_i": "1901"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Bad Nauheim (Germany)",
+    "Hesse (Germany)"
+  ]
 }

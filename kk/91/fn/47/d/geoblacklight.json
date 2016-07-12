@@ -1,31 +1,31 @@
 {
+  "solr_year_i": "1663",
   "uuid": "http://arks.princeton.edu/ark:/88435/kk91fn47d",
+  "dc_description_s": "Pascaerte vande Zuyd-Zee tussche California, en IIhas de Ladrones",
+  "georss_box_s": "32.5295236 -124.4820029 42.009499 -114.1307815",
+  "layer_modified_dt": "2015-01-21T22:23:51Z",
   "dc_creator_sm": [
     "Goos, Pieter,"
   ],
-  "dc_description_s": "Pascaerte vande Zuyd-Zee tussche California, en IIhas de Ladrones",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "kk91fn47d",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/kk91fn47d/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fkk%2F91%2Ffn%2F47%2Fd%2F00000001.jp2/info.json\"}",
   "layer_id_s": "kk91fn47d",
-  "layer_slug_s": "princeton-kk91fn47d",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:51Z",
-  "dc_title_s": "Pascaerte vande Zuyd-Zee tussche California, en IIhas de Ladrones",
   "dc_type_s": "Image",
+  "dc_identifier_s": "kk91fn47d",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Pascaerte vande Zuyd-Zee tussche California, en IIhas de Ladrones",
+  "layer_slug_s": "princeton-kk91fn47d",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/kk91fn47d/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/kk/91/fn/47/d/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "42.009499 -124.4820029 42.009499 -114.1307815 32.5295236 -114.1307815 32.5295236 -124.4820029 42.009499 -124.4820029",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1663"
+  ],
+  "solr_geom": "ENVELOPE(-124.4820029, -114.1307815, 42.009499, 32.5295236)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "California",
     "Pacific Ocean",
     "New Zealand",
     "Australia"
-  ],
-  "dct_temporal_sm": [
-    "1663"
-  ],
-  "georss_box_s": "32.5295236 -124.4820029 42.009499 -114.1307815",
-  "georss_polygon_s": "42.009499 -124.4820029 42.009499 -114.1307815 32.5295236 -114.1307815 32.5295236 -124.4820029 42.009499 -124.4820029",
-  "solr_geom": "ENVELOPE(-124.4820029, -114.1307815, 42.009499, 32.5295236)",
-  "solr_year_i": "1663"
+  ]
 }

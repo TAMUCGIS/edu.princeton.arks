@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1852",
   "uuid": "http://arks.princeton.edu/ark:/88435/m900nw441",
+  "dc_description_s": "Islas Filipinas",
+  "georss_box_s": "-2.66666666667 116.65 22.0 126.316666667",
+  "layer_modified_dt": "2015-01-23T17:48:34Z",
   "dc_creator_sm": [
     "Coello, Francisco,",
     "Madoz, Pascual,",
     "Morata, Antonio."
   ],
-  "dc_description_s": "Islas Filipinas",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "m900nw441",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/m900nw441/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fm9%2F00%2Fnw%2F44%2F1%2F00000001.jp2/info.json\"}",
   "layer_id_s": "m900nw441",
-  "layer_slug_s": "princeton-m900nw441",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-23T17:48:34Z",
-  "dc_title_s": "Islas Filipinas",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Philippines"
-  ],
+  "dc_identifier_s": "m900nw441",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Islas Filipinas",
+  "layer_slug_s": "princeton-m900nw441",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/m900nw441/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/m9/00/nw/44/1/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "22.0 116.65 22.0 126.316666667 -2.66666666667 126.316666667 -2.66666666667 116.65 22.0 116.65",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1852"
   ],
-  "georss_box_s": "-2.66666666667 116.65 22.0 126.316666667",
-  "georss_polygon_s": "22.0 116.65 22.0 126.316666667 -2.66666666667 126.316666667 -2.66666666667 116.65 22.0 116.65",
   "solr_geom": "ENVELOPE(116.65, 126.316666667, 22.0, -2.66666666667)",
-  "solr_year_i": "1852"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Philippines"
+  ]
 }

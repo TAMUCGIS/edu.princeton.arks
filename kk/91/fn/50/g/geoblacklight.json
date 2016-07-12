@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/kk91fn50g",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Cedarville",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "kk91fn50g",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fkk%2F91%2Ffn%2F50%2Fg%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "kk91fn50g",
-  "layer_slug_s": "princeton-kk91fn50g",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:02:47Z",
+  "solr_geom": "ENVELOPE(-75.219631, -75.179631, 39.352615, 39.312615)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/kk/91/fn/50/g/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/kk91fn50g",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Cedarville, Cumberland County, New Jersey (Sheet 2)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1912"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "kk91fn50g",
+  "georss_polygon_s": "39.352615 -75.219631 39.352615 -75.179631 39.312615 -75.179631 39.312615 -75.219631 39.352615 -75.219631",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1912",
   "dct_spatial_sm": [
     "New Jersey",
     "Cedarville"
   ],
-  "dct_temporal_sm": [
-    "1912"
-  ],
+  "layer_id_s": "kk91fn50g",
   "georss_box_s": "39.312615 -75.219631 39.352615 -75.179631",
-  "georss_polygon_s": "39.352615 -75.219631 39.352615 -75.179631 39.312615 -75.179631 39.312615 -75.219631 39.352615 -75.219631",
-  "solr_geom": "ENVELOPE(-75.219631, -75.179631, 39.352615, 39.312615)",
-  "solr_year_i": "1912"
+  "dc_title_s": "Cedarville, Cumberland County, New Jersey (Sheet 2)",
+  "layer_slug_s": "princeton-kk91fn50g",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

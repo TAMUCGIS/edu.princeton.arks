@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/dv13zw23c",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Clayton",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "dv13zw23c",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fdv%2F13%2Fzw%2F23%2Fc%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "dv13zw23c",
-  "layer_slug_s": "princeton-dv13zw23c",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:03:58Z",
+  "solr_geom": "ENVELOPE(-75.120892, -75.031768, 39.679689, 39.640417)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/dv/13/zw/23/c/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/dv13zw23c",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Clayton, Gloucester Co., N. J. (Sheet 3).",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1895"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "dv13zw23c",
+  "georss_polygon_s": "39.679689 -75.120892 39.679689 -75.031768 39.640417 -75.031768 39.640417 -75.120892 39.679689 -75.120892",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1895",
   "dct_spatial_sm": [
     "New Jersey",
     "Clayton"
   ],
-  "dct_temporal_sm": [
-    "1895"
-  ],
+  "layer_id_s": "dv13zw23c",
   "georss_box_s": "39.640417 -75.120892 39.679689 -75.031768",
-  "georss_polygon_s": "39.679689 -75.120892 39.679689 -75.031768 39.640417 -75.031768 39.640417 -75.120892 39.679689 -75.120892",
-  "solr_geom": "ENVELOPE(-75.120892, -75.031768, 39.679689, 39.640417)",
-  "solr_year_i": "1895"
+  "dc_title_s": "Clayton, Gloucester Co., N. J. (Sheet 3).",
+  "layer_slug_s": "princeton-dv13zw23c",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

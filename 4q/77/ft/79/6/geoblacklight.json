@@ -1,27 +1,27 @@
 {
+  "solr_year_i": "1889",
   "uuid": "http://arks.princeton.edu/ark:/88435/4q77ft796",
   "dc_description_s": "Chili, the Argentine Republic, & Bolivia (south section)",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "4q77ft796",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/4q77ft796/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F4q%2F77%2Fft%2F79%2F6%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "4q77ft796",
-  "layer_slug_s": "princeton-4q77ft796",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "-43.0 -75.0 -18.0 -53.0",
   "layer_modified_dt": "2015-01-19T22:37:11Z",
-  "dc_title_s": "Chili, the Argentine Republic, & Bolivia (south section)",
+  "layer_id_s": "4q77ft796",
   "dc_type_s": "Image",
+  "dc_identifier_s": "4q77ft796",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Chili, the Argentine Republic, & Bolivia (south section)",
+  "layer_slug_s": "princeton-4q77ft796",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/4q77ft796/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/4q/77/ft/79/6/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "-18.0 -75.0 -18.0 -53.0 -43.0 -53.0 -43.0 -75.0 -18.0 -75.0",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1889"
+  ],
+  "solr_geom": "ENVELOPE(-75.0, -53.0, -18.0, -43.0)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Argentina",
     "Bolivia",
     "Chile"
-  ],
-  "dct_temporal_sm": [
-    "1889"
-  ],
-  "georss_box_s": "-43.0 -75.0 -18.0 -53.0",
-  "georss_polygon_s": "-18.0 -75.0 -18.0 -53.0 -43.0 -53.0 -43.0 -75.0 -18.0 -75.0",
-  "solr_geom": "ENVELOPE(-75.0, -53.0, -18.0, -43.0)",
-  "solr_year_i": "1889"
+  ]
 }

@@ -1,33 +1,33 @@
 {
+  "solr_year_i": "1741",
   "uuid": "http://arks.princeton.edu/ark:/88435/mw22v7340",
+  "dc_description_s": "Graecia vetus cum reliquis prouinciis Graecis santibus",
+  "georss_box_s": "3.4889804 -17.4573 37.5359 38.6938",
+  "layer_modified_dt": "2015-01-21T22:23:47Z",
   "dc_creator_sm": [
     "Franchius, S.",
     "Meurs, Johannes van,"
   ],
-  "dc_description_s": "Graecia vetus cum reliquis prouinciis Graecis santibus",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "mw22v7340",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/mw22v7340/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fmw%2F22%2Fv7%2F34%2F0%2F00000001.jp2/info.json\"}",
   "layer_id_s": "mw22v7340",
-  "layer_slug_s": "princeton-mw22v7340",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:47Z",
-  "dc_title_s": "Graecia vetus cum reliquis prouinciis Graecis santibus",
   "dc_type_s": "Image",
+  "dc_identifier_s": "mw22v7340",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Graecia vetus cum reliquis prouinciis Graecis santibus",
+  "layer_slug_s": "princeton-mw22v7340",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/mw22v7340/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/mw/22/v7/34/0/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "37.5359 -17.4573 37.5359 38.6938 3.4889804 38.6938 3.4889804 -17.4573 37.5359 -17.4573",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1741"
+  ],
+  "solr_geom": "ENVELOPE(-17.4573, 38.6938, 37.5359, 3.4889804)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Africa, North",
     "Greece",
     "Italy",
     "Mediterranean Region",
     "Turkey"
-  ],
-  "dct_temporal_sm": [
-    "1741"
-  ],
-  "georss_box_s": "3.4889804 -17.4573 37.5359 38.6938",
-  "georss_polygon_s": "37.5359 -17.4573 37.5359 38.6938 3.4889804 38.6938 3.4889804 -17.4573 37.5359 -17.4573",
-  "solr_geom": "ENVELOPE(-17.4573, 38.6938, 37.5359, 3.4889804)",
-  "solr_year_i": "1741"
+  ]
 }

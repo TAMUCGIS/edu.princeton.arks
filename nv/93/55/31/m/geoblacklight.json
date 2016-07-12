@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1659",
   "uuid": "http://arks.princeton.edu/ark:/88435/nv935531m",
+  "dc_description_s": "Delflandia, Schielandia, et Insul\u00e6 trans Mosam illis objacentes ut sunt Voorna, Overflackea, Goerea, Yselmonda, etc.",
+  "georss_box_s": "51.6437779 3.7736754 52.3325109 5.1494375",
+  "layer_modified_dt": "2015-01-21T22:24:09Z",
   "dc_creator_sm": [
     "Blaeu, Willem Janszoon,",
     "Blaeu, Joan,"
   ],
-  "dc_description_s": "Delflandia, Schielandia, et Insulæ trans Mosam illis objacentes ut sunt Voorna, Overflackea, Goerea, Yselmonda, etc.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "nv935531m",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/nv935531m/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fnv%2F93%2F55%2F31%2Fm%2F00000001.jp2/info.json\"}",
   "layer_id_s": "nv935531m",
-  "layer_slug_s": "princeton-nv935531m",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:09Z",
-  "dc_title_s": "Delflandia, Schielandia, et Insulæ trans Mosam illis objacentes ut sunt Voorna, Overflackea, Goerea, Yselmonda, etc.",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "South Holland (Netherlands)",
-    "Netherlands"
-  ],
+  "dc_identifier_s": "nv935531m",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Delflandia, Schielandia, et Insul\u00e6 trans Mosam illis objacentes ut sunt Voorna, Overflackea, Goerea, Yselmonda, etc.",
+  "layer_slug_s": "princeton-nv935531m",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/nv935531m/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/nv/93/55/31/m/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "52.3325109 3.7736754 52.3325109 5.1494375 51.6437779 5.1494375 51.6437779 3.7736754 52.3325109 3.7736754",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1659"
   ],
-  "georss_box_s": "51.6437779 3.7736754 52.3325109 5.1494375",
-  "georss_polygon_s": "52.3325109 3.7736754 52.3325109 5.1494375 51.6437779 5.1494375 51.6437779 3.7736754 52.3325109 3.7736754",
   "solr_geom": "ENVELOPE(3.7736754, 5.1494375, 52.3325109, 51.6437779)",
-  "solr_year_i": "1659"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "South Holland (Netherlands)",
+    "Netherlands"
+  ]
 }

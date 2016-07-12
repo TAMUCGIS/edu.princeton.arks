@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1983",
   "uuid": "http://arks.princeton.edu/ark:/88435/pv63g205p",
-  "dc_description_s": "Pekin (K-50-137,138 ; J-50-5,6) Kitaĭ, gorod Pekin /",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "pv63g205p",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/pv63g205p/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fpv%2F63%2Fg2%2F05%2Fp%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "pv63g205p",
-  "layer_slug_s": "princeton-pv63g205p",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Pekin (K-50-137,138 ; J-50-5,6) Kitai\u0306, gorod Pekin /",
+  "georss_box_s": "39.76667 116.13333 40.05000 116.56667",
   "layer_modified_dt": "2015-01-23T17:48:33Z",
-  "dc_title_s": "Pekin (K-50-137,138 ; J-50-5,6) Kitaĭ, gorod Pekin /",
+  "layer_id_s": "pv63g205p",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Beijing (China)",
-    "Beijing Metropolitan Area (China)"
-  ],
+  "dc_identifier_s": "pv63g205p",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Pekin (K-50-137,138 ; J-50-5,6) Kitai\u0306, gorod Pekin /",
+  "layer_slug_s": "princeton-pv63g205p",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/pv63g205p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/pv/63/g2/05/p/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.05000 116.13333 40.05000 116.56667 39.76667 116.56667 39.76667 116.13333 40.05000 116.13333",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1983"
   ],
-  "georss_box_s": "39.76667 116.13333 40.05000 116.56667",
-  "georss_polygon_s": "40.05000 116.13333 40.05000 116.56667 39.76667 116.56667 39.76667 116.13333 40.05000 116.13333",
   "solr_geom": "ENVELOPE(116.13333, 116.56667, 40.05000, 39.76667)",
-  "solr_year_i": "1983"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Beijing (China)",
+    "Beijing Metropolitan Area (China)"
+  ]
 }

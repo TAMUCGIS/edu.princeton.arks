@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1904",
   "uuid": "http://arks.princeton.edu/ark:/88435/12579v77j",
   "dc_description_s": "Map of Korea and Manchuria",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "12579v77j",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/12579v77j/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F12%2F57%2F9v%2F77%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "12579v77j",
-  "layer_slug_s": "princeton-12579v77j",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "32.87788 124.354847 38.6234602 132.1483256",
   "layer_modified_dt": "2015-01-21T22:24:25Z",
-  "dc_title_s": "Map of Korea and Manchuria",
+  "layer_id_s": "12579v77j",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Korea",
-    "Manchuria (China)"
-  ],
+  "dc_identifier_s": "12579v77j",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Map of Korea and Manchuria",
+  "layer_slug_s": "princeton-12579v77j",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/12579v77j/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/12/57/9v/77/j/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "38.6234602 124.354847 38.6234602 132.1483256 32.87788 132.1483256 32.87788 124.354847 38.6234602 124.354847",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1904"
   ],
-  "georss_box_s": "32.87788 124.354847 38.6234602 132.1483256",
-  "georss_polygon_s": "38.6234602 124.354847 38.6234602 132.1483256 32.87788 132.1483256 32.87788 124.354847 38.6234602 124.354847",
   "solr_geom": "ENVELOPE(124.354847, 132.1483256, 38.6234602, 32.87788)",
-  "solr_year_i": "1904"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Korea",
+    "Manchuria (China)"
+  ]
 }

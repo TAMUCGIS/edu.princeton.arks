@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1674",
   "uuid": "http://arks.princeton.edu/ark:/88435/qf85nd15d",
   "dc_description_s": "Geographische Beschreibung der Landschafften, welche die Apostel und sonderlich Paulus durchraist, und durch die Predigt dess Evangelii zum Christischen Glauben befehret /",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "qf85nd15d",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/qf85nd15d/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fqf%2F85%2Fnd%2F15%2Fd%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "qf85nd15d",
-  "layer_slug_s": "princeton-qf85nd15d",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "35.8076804 29.0876878 38.5861136 37.7518928",
   "layer_modified_dt": "2015-01-21T22:23:46Z",
-  "dc_title_s": "Geographische Beschreibung der Landschafften, welche die Apostel und sonderlich Paulus durchraist, und durch die Predigt dess Evangelii zum Christischen Glauben befehret /",
+  "layer_id_s": "qf85nd15d",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Mediterranean Region"
-  ],
+  "dc_identifier_s": "qf85nd15d",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Geographische Beschreibung der Landschafften, welche die Apostel und sonderlich Paulus durchraist, und durch die Predigt dess Evangelii zum Christischen Glauben befehret /",
+  "layer_slug_s": "princeton-qf85nd15d",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/qf85nd15d/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/qf/85/nd/15/d/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "38.5861136 29.0876878 38.5861136 37.7518928 35.8076804 37.7518928 35.8076804 29.0876878 38.5861136 29.0876878",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1674"
   ],
-  "georss_box_s": "35.8076804 29.0876878 38.5861136 37.7518928",
-  "georss_polygon_s": "38.5861136 29.0876878 38.5861136 37.7518928 35.8076804 37.7518928 35.8076804 29.0876878 38.5861136 29.0876878",
   "solr_geom": "ENVELOPE(29.0876878, 37.7518928, 38.5861136, 35.8076804)",
-  "solr_year_i": "1674"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Mediterranean Region"
+  ]
 }

@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1540",
   "uuid": "http://arks.princeton.edu/ark:/88435/1c18dj15w",
+  "dc_description_s": "Tabula Asiae III",
+  "georss_box_s": "35.8076804 25.6212891 42.297 44.8176638",
+  "layer_modified_dt": "2015-01-21T22:23:59Z",
   "dc_creator_sm": [
     "Petri, Heinrich,"
   ],
-  "dc_description_s": "Tabula Asiae III",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "1c18dj15w",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/1c18dj15w/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F1c%2F18%2Fdj%2F15%2Fw%2F00000001.jp2/info.json\"}",
   "layer_id_s": "1c18dj15w",
-  "layer_slug_s": "princeton-1c18dj15w",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:59Z",
-  "dc_title_s": "Tabula Asiae III",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Turkey",
-    "Armenia"
-  ],
+  "dc_identifier_s": "1c18dj15w",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Tabula Asiae III",
+  "layer_slug_s": "princeton-1c18dj15w",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/1c18dj15w/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/1c/18/dj/15/w/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "42.297 25.6212891 42.297 44.8176638 35.8076804 44.8176638 35.8076804 25.6212891 42.297 25.6212891",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1540"
   ],
-  "georss_box_s": "35.8076804 25.6212891 42.297 44.8176638",
-  "georss_polygon_s": "42.297 25.6212891 42.297 44.8176638 35.8076804 44.8176638 35.8076804 25.6212891 42.297 25.6212891",
   "solr_geom": "ENVELOPE(25.6212891, 44.8176638, 42.297, 35.8076804)",
-  "solr_year_i": "1540"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Turkey",
+    "Armenia"
+  ]
 }

@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/m900nw79s",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Navesink",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "m900nw79s",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fm9%2F00%2Fnw%2F79%2Fs%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "m900nw79s",
-  "layer_slug_s": "princeton-m900nw79s",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:11:49Z",
+  "solr_geom": "ENVELOPE(-74.055417, -74.015417, 40.419553, 40.379553)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/m9/00/nw/79/s/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/m900nw79s",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "[Naveskink Beach, N.J.] (Sheet 71)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1907"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "m900nw79s",
+  "georss_polygon_s": "40.419553 -74.055417 40.419553 -74.015417 40.379553 -74.015417 40.379553 -74.055417 40.419553 -74.055417",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1907",
   "dct_spatial_sm": [
     "New Jersey",
     "Navesink"
   ],
-  "dct_temporal_sm": [
-    "1907"
-  ],
+  "layer_id_s": "m900nw79s",
   "georss_box_s": "40.379553 -74.055417 40.419553 -74.015417",
-  "georss_polygon_s": "40.419553 -74.055417 40.419553 -74.015417 40.379553 -74.015417 40.379553 -74.055417 40.419553 -74.055417",
-  "solr_geom": "ENVELOPE(-74.055417, -74.015417, 40.419553, 40.379553)",
-  "solr_year_i": "1907"
+  "dc_title_s": "[Naveskink Beach, N.J.] (Sheet 71)",
+  "layer_slug_s": "princeton-m900nw79s",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1909",
   "uuid": "http://arks.princeton.edu/ark:/88435/r207tr84h",
   "dc_description_s": "Province of Chih-li",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "r207tr84h",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/r207tr84h/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fr2%2F07%2Ftr%2F84%2Fh%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "r207tr84h",
-  "layer_slug_s": "princeton-r207tr84h",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "37.0 113.0 44.0 121.0",
   "layer_modified_dt": "2015-01-19T22:37:33Z",
-  "dc_title_s": "Province of Chih-li",
+  "layer_id_s": "r207tr84h",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Hebei Sheng (China)"
-  ],
+  "dc_identifier_s": "r207tr84h",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Province of Chih-li",
+  "layer_slug_s": "princeton-r207tr84h",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/r207tr84h/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/r2/07/tr/84/h/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "44.0 113.0 44.0 121.0 37.0 121.0 37.0 113.0 44.0 113.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1909"
   ],
-  "georss_box_s": "37.0 113.0 44.0 121.0",
-  "georss_polygon_s": "44.0 113.0 44.0 121.0 37.0 121.0 37.0 113.0 44.0 113.0",
   "solr_geom": "ENVELOPE(113.0, 121.0, 44.0, 37.0)",
-  "solr_year_i": "1909"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Hebei Sheng (China)"
+  ]
 }

@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/dz010r90m",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Loch Arbour",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "dz010r90m",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fdz%2F01%2F0r%2F90%2Fm%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "dz010r90m",
-  "layer_slug_s": "princeton-dz010r90m",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:01:50Z",
+  "solr_geom": "ENVELOPE(-74.377517, -74.280592, 40.818416, 40.757596)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/dz/01/0r/90/m/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/dz010r90m",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Loch Arbour",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1905"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "dz010r90m",
+  "georss_polygon_s": "40.818416 -74.377517 40.818416 -74.280592 40.757596 -74.280592 40.757596 -74.377517 40.818416 -74.377517",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1905",
   "dct_spatial_sm": [
     "New Jersey",
     "Loch Arbour"
   ],
-  "dct_temporal_sm": [
-    "1905"
-  ],
+  "layer_id_s": "dz010r90m",
   "georss_box_s": "40.757596 -74.377517 40.818416 -74.280592",
-  "georss_polygon_s": "40.818416 -74.377517 40.818416 -74.280592 40.757596 -74.280592 40.757596 -74.377517 40.818416 -74.377517",
-  "solr_geom": "ENVELOPE(-74.377517, -74.280592, 40.818416, 40.757596)",
-  "solr_year_i": "1905"
+  "dc_title_s": "Loch Arbour",
+  "layer_slug_s": "princeton-dz010r90m",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

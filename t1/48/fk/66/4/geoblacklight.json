@@ -1,17 +1,24 @@
 {
+  "solr_year_i": "1898",
   "uuid": "http://arks.princeton.edu/ark:/88435/t148fk664",
   "dc_description_s": "China, French Indo-China, Siam, Malaysia and Korea",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "t148fk664",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/t148fk664/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ft1%2F48%2Ffk%2F66%2F4%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "t148fk664",
-  "layer_slug_s": "princeton-t148fk664",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "15.0 90.0 50.0 145.0",
   "layer_modified_dt": "2015-01-19T22:37:37Z",
-  "dc_title_s": "China, French Indo-China, Siam, Malaysia and Korea",
+  "layer_id_s": "t148fk664",
   "dc_type_s": "Image",
+  "dc_identifier_s": "t148fk664",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "China, French Indo-China, Siam, Malaysia and Korea",
+  "layer_slug_s": "princeton-t148fk664",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/t148fk664/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/t1/48/fk/66/4/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "50.0 90.0 50.0 145.0 15.0 145.0 15.0 90.0 50.0 90.0",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1898"
+  ],
+  "solr_geom": "ENVELOPE(90.0, 145.0, 50.0, 15.0)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "China",
     "East Asia",
@@ -21,12 +28,5 @@
     "Malaysia",
     "Southeast Asia",
     "Thailand"
-  ],
-  "dct_temporal_sm": [
-    "1898"
-  ],
-  "georss_box_s": "15.0 90.0 50.0 145.0",
-  "georss_polygon_s": "50.0 90.0 50.0 145.0 15.0 145.0 15.0 90.0 50.0 90.0",
-  "solr_geom": "ENVELOPE(90.0, 145.0, 50.0, 15.0)",
-  "solr_year_i": "1898"
+  ]
 }

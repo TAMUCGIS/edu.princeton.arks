@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1865",
   "uuid": "http://arks.princeton.edu/ark:/88435/kp78gj812",
   "dc_description_s": "Phelps & Watson's historical and military map of the border & southern states",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "kp78gj812",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/kp78gj812/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fkp%2F78%2Fgj%2F81%2F2%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "kp78gj812",
-  "layer_slug_s": "princeton-kp78gj812",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "24.5248244719 -106.6456461 39.7493368813 -74.2160467125",
   "layer_modified_dt": "2015-01-21T22:24:04Z",
-  "dc_title_s": "Phelps & Watson's historical and military map of the border & southern states",
+  "layer_id_s": "kp78gj812",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Southern States"
-  ],
+  "dc_identifier_s": "kp78gj812",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Phelps & Watson's historical and military map of the border & southern states",
+  "layer_slug_s": "princeton-kp78gj812",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/kp78gj812/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/kp/78/gj/81/2/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "39.7493368813 -106.6456461 39.7493368813 -74.2160467125 24.5248244719 -74.2160467125 24.5248244719 -106.6456461 39.7493368813 -106.6456461",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1865"
   ],
-  "georss_box_s": "24.5248244719 -106.6456461 39.7493368813 -74.2160467125",
-  "georss_polygon_s": "39.7493368813 -106.6456461 39.7493368813 -74.2160467125 24.5248244719 -74.2160467125 24.5248244719 -106.6456461 39.7493368813 -106.6456461",
   "solr_geom": "ENVELOPE(-106.6456461, -74.2160467125, 39.7493368813, 24.5248244719)",
-  "solr_year_i": "1865"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Southern States"
+  ]
 }

@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1966",
   "uuid": "http://arks.princeton.edu/ark:/88435/gf06g5187",
-  "dc_description_s": "Hellas, genikos chartēs General map of Greece.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "gf06g5187",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/gf06g5187/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fgf%2F06%2Fg5%2F18%2F7%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "gf06g5187",
-  "layer_slug_s": "princeton-gf06g5187",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Hellas, genikos charte\u0304s General map of Greece.",
+  "georss_box_s": "38.8333333333 19.8333333333 42.05 28.1666666667",
   "layer_modified_dt": "2015-01-23T17:48:39Z",
-  "dc_title_s": "Hellas, genikos chartēs General map of Greece.",
+  "layer_id_s": "gf06g5187",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Greece"
-  ],
+  "dc_identifier_s": "gf06g5187",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Hellas, genikos charte\u0304s General map of Greece.",
+  "layer_slug_s": "princeton-gf06g5187",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/gf06g5187/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/gf/06/g5/18/7/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "42.05 19.8333333333 42.05 28.1666666667 38.8333333333 28.1666666667 38.8333333333 19.8333333333 42.05 19.8333333333",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1966"
   ],
-  "georss_box_s": "38.8333333333 19.8333333333 42.05 28.1666666667",
-  "georss_polygon_s": "42.05 19.8333333333 42.05 28.1666666667 38.8333333333 28.1666666667 38.8333333333 19.8333333333 42.05 19.8333333333",
   "solr_geom": "ENVELOPE(19.8333333333, 28.1666666667, 42.05, 38.8333333333)",
-  "solr_year_i": "1966"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Greece"
+  ]
 }

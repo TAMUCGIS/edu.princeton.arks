@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1890",
   "uuid": "http://arks.princeton.edu/ark:/88435/b8515q914",
+  "dc_description_s": "Augsburg",
+  "georss_box_s": "48.2581444 10.7633615 48.4586541 10.9595189",
+  "layer_modified_dt": "2015-01-25T02:06:19Z",
   "dc_creator_sm": [
     "Woerl, Leo,"
   ],
-  "dc_description_s": "Augsburg",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "b8515q914",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/b8515q914/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F8%2F51%2F5q%2F91%2F4%2F00000001.jp2/info.json\"}",
   "layer_id_s": "b8515q914",
-  "layer_slug_s": "princeton-b8515q914",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:19Z",
-  "dc_title_s": "Augsburg",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Augsburg (Germany)",
-    "Bavaria (Germany)"
-  ],
+  "dc_identifier_s": "b8515q914",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Augsburg",
+  "layer_slug_s": "princeton-b8515q914",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/b8515q914/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/b8/51/5q/91/4/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "48.4586541 10.7633615 48.4586541 10.9595189 48.2581444 10.9595189 48.2581444 10.7633615 48.4586541 10.7633615",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1890"
   ],
-  "georss_box_s": "48.2581444 10.7633615 48.4586541 10.9595189",
-  "georss_polygon_s": "48.4586541 10.7633615 48.4586541 10.9595189 48.2581444 10.9595189 48.2581444 10.7633615 48.4586541 10.7633615",
   "solr_geom": "ENVELOPE(10.7633615, 10.9595189, 48.4586541, 48.2581444)",
-  "solr_year_i": "1890"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Augsburg (Germany)",
+    "Bavaria (Germany)"
+  ]
 }

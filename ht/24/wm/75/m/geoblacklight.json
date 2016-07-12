@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/ht24wm75m",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Roselle",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "ht24wm75m",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fht%2F24%2Fwm%2F75%2Fm%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "ht24wm75m",
-  "layer_slug_s": "princeton-ht24wm75m",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:10:15Z",
+  "solr_geom": "ENVELOPE(-74.285786, -74.233325, 40.663509, 40.637244)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ht/24/wm/75/m/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/ht24wm75m",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Insurance maps of Roselle, Union County, New Jersey : including Roselle Park (Sheet 2)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1915"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "ht24wm75m",
+  "georss_polygon_s": "40.663509 -74.285786 40.663509 -74.233325 40.637244 -74.233325 40.637244 -74.285786 40.663509 -74.285786",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1915",
   "dct_spatial_sm": [
     "New Jersey",
     "Roselle"
   ],
-  "dct_temporal_sm": [
-    "1915"
-  ],
+  "layer_id_s": "ht24wm75m",
   "georss_box_s": "40.637244 -74.285786 40.663509 -74.233325",
-  "georss_polygon_s": "40.663509 -74.285786 40.663509 -74.233325 40.637244 -74.233325 40.637244 -74.285786 40.663509 -74.285786",
-  "solr_geom": "ENVELOPE(-74.285786, -74.233325, 40.663509, 40.637244)",
-  "solr_year_i": "1915"
+  "dc_title_s": "Insurance maps of Roselle, Union County, New Jersey : including Roselle Park (Sheet 2)",
+  "layer_slug_s": "princeton-ht24wm75m",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

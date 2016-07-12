@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1830",
   "uuid": "http://arks.princeton.edu/ark:/88435/2801pj72v",
+  "dc_description_s": "Plan de la ville de Paris repre\u0301sentant les nouvelles voitures publiques a 25 cent. la course et donnant leurs stationnemens et l'itine\u0301raire des lignes qu'elles parcourent : augmente\u0301 du tarif des voitures de place, a\u0300 la course ou a\u0300 l'heure, de jour et de nuit",
+  "georss_box_s": "48.8155755 2.224122 48.902156 2.4697602",
+  "layer_modified_dt": "2015-01-21T22:23:59Z",
   "dc_creator_sm": [
     "Bodin, Selim,"
   ],
-  "dc_description_s": "Plan de la ville de Paris représentant les nouvelles voitures publiques a 25 cent. la course et donnant leurs stationnemens et l'itinéraire des lignes qu'elles parcourent : augmenté du tarif des voitures de place, à la course ou à l'heure, de jour et de nuit",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "2801pj72v",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/2801pj72v/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F28%2F01%2Fpj%2F72%2Fv%2F00000001.jp2/info.json\"}",
   "layer_id_s": "2801pj72v",
-  "layer_slug_s": "princeton-2801pj72v",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:59Z",
-  "dc_title_s": "Plan de la ville de Paris représentant les nouvelles voitures publiques a 25 cent. la course et donnant leurs stationnemens et l'itinéraire des lignes qu'elles parcourent : augmenté du tarif des voitures de place, à la course ou à l'heure, de jour et de nuit",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Paris (France)"
-  ],
+  "dc_identifier_s": "2801pj72v",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Plan de la ville de Paris repre\u0301sentant les nouvelles voitures publiques a 25 cent. la course et donnant leurs stationnemens et l'itine\u0301raire des lignes qu'elles parcourent : augmente\u0301 du tarif des voitures de place, a\u0300 la course ou a\u0300 l'heure, de jour et de nuit",
+  "layer_slug_s": "princeton-2801pj72v",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/2801pj72v/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/28/01/pj/72/v/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "48.902156 2.224122 48.902156 2.4697602 48.8155755 2.4697602 48.8155755 2.224122 48.902156 2.224122",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1830"
   ],
-  "georss_box_s": "48.8155755 2.224122 48.902156 2.4697602",
-  "georss_polygon_s": "48.902156 2.224122 48.902156 2.4697602 48.8155755 2.4697602 48.8155755 2.224122 48.902156 2.224122",
   "solr_geom": "ENVELOPE(2.224122, 2.4697602, 48.902156, 48.8155755)",
-  "solr_year_i": "1830"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Paris (France)"
+  ]
 }

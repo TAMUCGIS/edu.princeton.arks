@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1576",
   "uuid": "http://arks.princeton.edu/ark:/88435/f1881p31n",
+  "dc_description_s": "Milo",
+  "georss_box_s": "36.6447702 24.3173156 36.7739565 24.5482216",
+  "layer_modified_dt": "2015-01-21T22:23:59Z",
   "dc_creator_sm": [
     "Porro, Girolamo,",
     "Porcacchi, Thomaso,"
   ],
-  "dc_description_s": "Milo",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "f1881p31n",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/f1881p31n/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ff1%2F88%2F1p%2F31%2Fn%2F00000001.jp2/info.json\"}",
   "layer_id_s": "f1881p31n",
-  "layer_slug_s": "princeton-f1881p31n",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:59Z",
-  "dc_title_s": "Milo",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Melos Island (Greece)",
-    "Greece"
-  ],
+  "dc_identifier_s": "f1881p31n",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Milo",
+  "layer_slug_s": "princeton-f1881p31n",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/f1881p31n/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/f1/88/1p/31/n/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "36.7739565 24.3173156 36.7739565 24.5482216 36.6447702 24.5482216 36.6447702 24.3173156 36.7739565 24.3173156",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1576"
   ],
-  "georss_box_s": "36.6447702 24.3173156 36.7739565 24.5482216",
-  "georss_polygon_s": "36.7739565 24.3173156 36.7739565 24.5482216 36.6447702 24.5482216 36.6447702 24.3173156 36.7739565 24.3173156",
   "solr_geom": "ENVELOPE(24.3173156, 24.5482216, 36.7739565, 36.6447702)",
-  "solr_year_i": "1576"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Melos Island (Greece)",
+    "Greece"
+  ]
 }

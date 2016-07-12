@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1874",
   "uuid": "http://arks.princeton.edu/ark:/88435/st74ct00b",
+  "dc_description_s": "Rome in the time of the emperors : The Forum Romanum under the empire and the Imperial Fora : Rome during the Republic : The Forum before the time of Julius C\u00e6sar : Environs of Rome",
+  "georss_box_s": "41.6556417 12.2344985 42.1410285 12.8557603",
+  "layer_modified_dt": "2015-01-25T02:06:22Z",
   "dc_creator_sm": [
     "Smith, William,",
     "Weller, Edward,"
   ],
-  "dc_description_s": "Rome in the time of the emperors : The Forum Romanum under the empire and the Imperial Fora : Rome during the Republic : The Forum before the time of Julius Cæsar : Environs of Rome",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "st74ct00b",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/st74ct00b/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fst%2F74%2Fct%2F00%2F00000001.jp2/info.json\"}",
   "layer_id_s": "st74ct00b",
-  "layer_slug_s": "princeton-st74ct00b",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:22Z",
-  "dc_title_s": "Rome in the time of the emperors : The Forum Romanum under the empire and the Imperial Fora : Rome during the Republic : The Forum before the time of Julius Cæsar : Environs of Rome",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Rome (Italy)"
-  ],
+  "dc_identifier_s": "st74ct00b",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Rome in the time of the emperors : The Forum Romanum under the empire and the Imperial Fora : Rome during the Republic : The Forum before the time of Julius C\u00e6sar : Environs of Rome",
+  "layer_slug_s": "princeton-st74ct00b",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/st74ct00b/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/st/74/ct/00/b/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "42.1410285 12.2344985 42.1410285 12.8557603 41.6556417 12.8557603 41.6556417 12.2344985 42.1410285 12.2344985",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1874"
   ],
-  "georss_box_s": "41.6556417 12.2344985 42.1410285 12.8557603",
-  "georss_polygon_s": "42.1410285 12.2344985 42.1410285 12.8557603 41.6556417 12.8557603 41.6556417 12.2344985 42.1410285 12.2344985",
   "solr_geom": "ENVELOPE(12.2344985, 12.8557603, 42.1410285, 41.6556417)",
-  "solr_year_i": "1874"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Rome (Italy)"
+  ]
 }

@@ -2,7 +2,7 @@
   "dc_description_s": "This is a map of the city of Fuzhou, China shown at a 1:25,000 scale. This is a Russian map purchased from East View Cartographic.",
   "layer_modified_dt": "2015-01-11T17:43:16Z",
   "solr_geom": "ENVELOPE(119.2500, 119.3667, 26.1333, 26.0167)",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fd7%2F91%2Fsh%2F81%2Fg%2F00000001.jp2/info.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/d791sh81g/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/d791sh81g/preview.jpg\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/d791sh81g/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/d7/91/sh/81/g/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/d791sh81g/preview.jpg\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/d791sh81g",
   "dct_provenance_s": "Princeton",
@@ -15,7 +15,7 @@
     "Facilities and Structures"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "1975",
+  "layer_slug_s": "princeton-d791sh81g",
   "dc_creator_sm": [
     "Russia (Federation). General'nyi shtab. Voenno-topograficheskoe upravlenie"
   ],
@@ -34,7 +34,7 @@
   "layer_id_s": "d791sh81g",
   "georss_box_s": "26.0167 119.2500 26.1333 119.3667",
   "dc_title_s": "Kitai provintsiia Futszian'. Fuchzhou (G-50-71).",
-  "layer_slug_s": "princeton-d791sh81g",
+  "dct_issued_s": "1975",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

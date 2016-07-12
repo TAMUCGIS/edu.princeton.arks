@@ -1,30 +1,28 @@
 {
+  "solr_year_i": "1887",
   "uuid": "http://arks.princeton.edu/ark:/88435/1v53k046c",
+  "dc_description_s": "A topographical map of the vicinity of Trenton, New Brunswick and Bordentown",
+  "georss_box_s": "40.0666666667 -74.8166666667 40.5833333333 -74.35",
+  "layer_modified_dt": "2015-01-19T22:37:27Z",
   "dc_creator_sm": [
     "Cook, George Hammell,",
     "Vermeule, C. C.",
     "Sinnickson, Clement Hall,"
   ],
-  "dc_description_s": "A topographical map of the vicinity of Trenton, New Brunswick and Bordentown",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "1v53k046c",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/1v53k046c/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F1v%2F53%2Fk0%2F46%2Fc%2F00000001.jp2/info.json\"}",
   "layer_id_s": "1v53k046c",
-  "layer_slug_s": "princeton-1v53k046c",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:27Z",
-  "dc_title_s": "A topographical map of the vicinity of Trenton, New Brunswick and Bordentown",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "1v53k046c",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "A topographical map of the vicinity of Trenton, New Brunswick and Bordentown",
+  "layer_slug_s": "princeton-1v53k046c",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/1v53k046c/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/1v/53/k0/46/c/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.5833333333 -74.8166666667 40.5833333333 -74.35 40.0666666667 -74.35 40.0666666667 -74.8166666667 40.5833333333 -74.8166666667",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1887"
   ],
-  "georss_box_s": "40.0666666667 -74.8166666667 40.5833333333 -74.35",
-  "georss_polygon_s": "40.5833333333 -74.8166666667 40.5833333333 -74.35 40.0666666667 -74.35 40.0666666667 -74.8166666667 40.5833333333 -74.8166666667",
   "solr_geom": "ENVELOPE(-74.8166666667, -74.35, 40.5833333333, 40.0666666667)",
-  "solr_year_i": "1887"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

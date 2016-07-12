@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/rj4306831",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Cranford",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "rj4306831",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Frj%2F43%2F06%2F83%2F1%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "rj4306831",
-  "layer_slug_s": "princeton-rj4306831",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:09:33Z",
+  "solr_geom": "ENVELOPE(-74.327693, -74.280691, 40.678402, 40.633459)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/rj/43/06/83/1/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/rj4306831",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Cranford, Union County, New Jersey (Sheet 2).",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1915"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "rj4306831",
+  "georss_polygon_s": "40.678402 -74.327693 40.678402 -74.280691 40.633459 -74.280691 40.633459 -74.327693 40.678402 -74.327693",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1915",
   "dct_spatial_sm": [
     "New Jersey",
     "Cranford"
   ],
-  "dct_temporal_sm": [
-    "1915"
-  ],
+  "layer_id_s": "rj4306831",
   "georss_box_s": "40.633459 -74.327693 40.678402 -74.280691",
-  "georss_polygon_s": "40.678402 -74.327693 40.678402 -74.280691 40.633459 -74.280691 40.633459 -74.327693 40.678402 -74.327693",
-  "solr_geom": "ENVELOPE(-74.327693, -74.280691, 40.678402, 40.633459)",
-  "solr_year_i": "1915"
+  "dc_title_s": "Cranford, Union County, New Jersey (Sheet 2).",
+  "layer_slug_s": "princeton-rj4306831",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

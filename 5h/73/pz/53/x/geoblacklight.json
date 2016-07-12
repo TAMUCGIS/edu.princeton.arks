@@ -1,31 +1,31 @@
 {
+  "solr_year_i": "1540",
   "uuid": "http://arks.princeton.edu/ark:/88435/5h73pz53x",
+  "dc_description_s": "Tabula Europae VI",
+  "georss_box_s": "35.2889616 6.6272658 47.0921462 18.7844746",
+  "layer_modified_dt": "2015-01-25T02:06:14Z",
   "dc_creator_sm": [
     "Petri, Heinrich,",
-    "Münster, Sebastian,",
+    "Mu\u0308nster, Sebastian,",
     "Ptolemy,"
   ],
-  "dc_description_s": "Tabula Europae VI",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "5h73pz53x",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/5h73pz53x/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F5h%2F73%2Fpz%2F53%2Fx%2F00000001.jp2/info.json\"}",
   "layer_id_s": "5h73pz53x",
-  "layer_slug_s": "princeton-5h73pz53x",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:14Z",
-  "dc_title_s": "Tabula Europae VI",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Italy",
-    "Corsica (France)"
-  ],
+  "dc_identifier_s": "5h73pz53x",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Tabula Europae VI",
+  "layer_slug_s": "princeton-5h73pz53x",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/5h73pz53x/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/5h/73/pz/53/x/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "47.0921462 6.6272658 47.0921462 18.7844746 35.2889616 18.7844746 35.2889616 6.6272658 47.0921462 6.6272658",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1540"
   ],
-  "georss_box_s": "35.2889616 6.6272658 47.0921462 18.7844746",
-  "georss_polygon_s": "47.0921462 6.6272658 47.0921462 18.7844746 35.2889616 18.7844746 35.2889616 6.6272658 47.0921462 6.6272658",
   "solr_geom": "ENVELOPE(6.6272658, 18.7844746, 47.0921462, 35.2889616)",
-  "solr_year_i": "1540"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Italy",
+    "Corsica (France)"
+  ]
 }

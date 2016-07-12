@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1946",
   "uuid": "http://arks.princeton.edu/ark:/88435/dj52w649j",
   "dc_description_s": "Administrative unit names. Administrative names and locations are correct to 1945.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "dj52w649j",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/dj52w649j/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fdj%2F52%2Fw6%2F49%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "dj52w649j",
-  "layer_slug_s": "princeton-dj52w649j",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "35.05 136.9 35.1333333333 136.983333333",
   "layer_modified_dt": "2015-01-19T22:36:34Z",
-  "dc_title_s": "Administrative unit names. Administrative names and locations are correct to 1945.",
+  "layer_id_s": "dj52w649j",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Japan"
-  ],
+  "dc_identifier_s": "dj52w649j",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Administrative unit names. Administrative names and locations are correct to 1945.",
+  "layer_slug_s": "princeton-dj52w649j",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/dj52w649j/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/dj/52/w6/49/j/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "35.1333333333 136.9 35.1333333333 136.983333333 35.05 136.983333333 35.05 136.9 35.1333333333 136.9",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1946"
   ],
-  "georss_box_s": "35.05 136.9 35.1333333333 136.983333333",
-  "georss_polygon_s": "35.1333333333 136.9 35.1333333333 136.983333333 35.05 136.983333333 35.05 136.9 35.1333333333 136.9",
   "solr_geom": "ENVELOPE(136.9, 136.983333333, 35.1333333333, 35.05)",
-  "solr_year_i": "1946"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Japan"
+  ]
 }

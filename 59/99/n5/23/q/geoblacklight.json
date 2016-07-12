@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1788",
   "uuid": "http://arks.princeton.edu/ark:/88435/5999n523q",
   "dc_description_s": "L'Africa divisa nelle sue prinicipali parti",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "5999n523q",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/5999n523q/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F59%2F99%2Fn5%2F23%2Fq%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "5999n523q",
-  "layer_slug_s": "princeton-5999n523q",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "1.9999503 15.9999497 2.0000503 16.0000497",
   "layer_modified_dt": "2015-01-21T22:23:42Z",
-  "dc_title_s": "L'Africa divisa nelle sue prinicipali parti",
+  "layer_id_s": "5999n523q",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Africa"
-  ],
+  "dc_identifier_s": "5999n523q",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "L'Africa divisa nelle sue prinicipali parti",
+  "layer_slug_s": "princeton-5999n523q",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/5999n523q/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/59/99/n5/23/q/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "2.0000503 15.9999497 2.0000503 16.0000497 1.9999503 16.0000497 1.9999503 15.9999497 2.0000503 15.9999497",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1788"
   ],
-  "georss_box_s": "1.9999503 15.9999497 2.0000503 16.0000497",
-  "georss_polygon_s": "2.0000503 15.9999497 2.0000503 16.0000497 1.9999503 16.0000497 1.9999503 15.9999497 2.0000503 15.9999497",
   "solr_geom": "ENVELOPE(15.9999497, 16.0000497, 2.0000503, 1.9999503)",
-  "solr_year_i": "1788"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Africa"
+  ]
 }

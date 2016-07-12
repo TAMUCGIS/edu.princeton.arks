@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1830",
   "uuid": "http://arks.princeton.edu/ark:/88435/wm117r52c",
   "dc_description_s": "Plan of ancient Rome",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "wm117r52c",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/wm117r52c/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fwm%2F11%2F7r%2F52%2Fc%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "wm117r52c",
-  "layer_slug_s": "princeton-wm117r52c",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "41.6556417 12.2344985 42.1410285 12.8557603",
   "layer_modified_dt": "2015-01-25T02:06:22Z",
-  "dc_title_s": "Plan of ancient Rome",
+  "layer_id_s": "wm117r52c",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Rome (Italy)"
-  ],
+  "dc_identifier_s": "wm117r52c",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Plan of ancient Rome",
+  "layer_slug_s": "princeton-wm117r52c",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/wm117r52c/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/wm/11/7r/52/c/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "42.1410285 12.2344985 42.1410285 12.8557603 41.6556417 12.8557603 41.6556417 12.2344985 42.1410285 12.2344985",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1830"
   ],
-  "georss_box_s": "41.6556417 12.2344985 42.1410285 12.8557603",
-  "georss_polygon_s": "42.1410285 12.2344985 42.1410285 12.8557603 41.6556417 12.8557603 41.6556417 12.2344985 42.1410285 12.2344985",
   "solr_geom": "ENVELOPE(12.2344985, 12.8557603, 42.1410285, 41.6556417)",
-  "solr_year_i": "1830"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Rome (Italy)"
+  ]
 }

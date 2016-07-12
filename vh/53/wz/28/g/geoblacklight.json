@@ -1,30 +1,28 @@
 {
+  "solr_year_i": "1891",
   "uuid": "http://arks.princeton.edu/ark:/88435/vh53wz28g",
+  "dc_description_s": "A topographical map of Egg Harbor and vicinity including the Atlantic shore from Barnegat to Great Egg Harbor : from original surveys and levelings based on the triangulation of the U.S. Coast and Geodetic Survey /",
+  "georss_box_s": "39.0 -74.0 39.0 -74.0",
+  "layer_modified_dt": "2015-01-23T17:48:40Z",
   "dc_creator_sm": [
     "Cook, George Hammell,",
     "Smock, John C.",
     "Vermeule, C. C."
   ],
-  "dc_description_s": "A topographical map of Egg Harbor and vicinity including the Atlantic shore from Barnegat to Great Egg Harbor : from original surveys and levelings based on the triangulation of the U.S. Coast and Geodetic Survey /",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "vh53wz28g",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/vh53wz28g/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fvh%2F53%2Fwz%2F28%2Fg%2F00000001.jp2/info.json\"}",
   "layer_id_s": "vh53wz28g",
-  "layer_slug_s": "princeton-vh53wz28g",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-23T17:48:40Z",
-  "dc_title_s": "A topographical map of Egg Harbor and vicinity including the Atlantic shore from Barnegat to Great Egg Harbor : from original surveys and levelings based on the triangulation of the U.S. Coast and Geodetic Survey /",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "vh53wz28g",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "A topographical map of Egg Harbor and vicinity including the Atlantic shore from Barnegat to Great Egg Harbor : from original surveys and levelings based on the triangulation of the U.S. Coast and Geodetic Survey /",
+  "layer_slug_s": "princeton-vh53wz28g",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/vh53wz28g/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/vh/53/wz/28/g/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "39.0 -74.0 39.0 -74.0 39.0 -74.0 39.0 -74.0 39.0 -74.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1891"
   ],
-  "georss_box_s": "39.0 -74.0 39.0 -74.0",
-  "georss_polygon_s": "39.0 -74.0 39.0 -74.0 39.0 -74.0 39.0 -74.0 39.0 -74.0",
   "solr_geom": "ENVELOPE(-74.0, -74.0, 39.0, 39.0)",
-  "solr_year_i": "1891"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

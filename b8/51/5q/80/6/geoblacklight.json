@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1869",
   "uuid": "http://arks.princeton.edu/ark:/88435/b8515q806",
+  "dc_description_s": "The South-Polar regions to illustrate the paper by staff-commander J.E. Davis",
+  "georss_box_s": "-90.0 -180.0 -50.0 180.0",
+  "layer_modified_dt": "2015-01-19T22:37:04Z",
   "dc_creator_sm": [
     "Davis, J. E.",
     "Weller, Edward,",
     "Murray, John,"
   ],
-  "dc_description_s": "The South-Polar regions to illustrate the paper by staff-commander J.E. Davis",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "b8515q806",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/b8515q806/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F8%2F51%2F5q%2F80%2F6%2F00000001.jp2/info.json\"}",
   "layer_id_s": "b8515q806",
-  "layer_slug_s": "princeton-b8515q806",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:04Z",
-  "dc_title_s": "The South-Polar regions to illustrate the paper by staff-commander J.E. Davis",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Antarctica"
-  ],
+  "dc_identifier_s": "b8515q806",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "The South-Polar regions to illustrate the paper by staff-commander J.E. Davis",
+  "layer_slug_s": "princeton-b8515q806",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/b8515q806/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/b8/51/5q/80/6/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "-50.0 -180.0 -50.0 180.0 -90.0 180.0 -90.0 -180.0 -50.0 -180.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1869"
   ],
-  "georss_box_s": "-90.0 -180.0 -50.0 180.0",
-  "georss_polygon_s": "-50.0 -180.0 -50.0 180.0 -90.0 180.0 -90.0 -180.0 -50.0 -180.0",
   "solr_geom": "ENVELOPE(-180.0, 180.0, -50.0, -90.0)",
-  "solr_year_i": "1869"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Antarctica"
+  ]
 }

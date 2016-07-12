@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1851",
   "uuid": "http://arks.princeton.edu/ark:/88435/3b591c06g",
   "dc_description_s": "Wyld's road director, through England and Wales : being a new and comprehensive display of the roads and distances from town to town and of each remarkable place from London",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "3b591c06g",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/3b591c06g/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F3b%2F59%2F1c%2F06%2Fg%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "3b591c06g",
-  "layer_slug_s": "princeton-3b591c06g",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "50.0 -7.0 56.0 2.0",
   "layer_modified_dt": "2015-01-19T22:37:26Z",
-  "dc_title_s": "Wyld's road director, through England and Wales : being a new and comprehensive display of the roads and distances from town to town and of each remarkable place from London",
+  "layer_id_s": "3b591c06g",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "England",
-    "Wales"
-  ],
+  "dc_identifier_s": "3b591c06g",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Wyld's road director, through England and Wales : being a new and comprehensive display of the roads and distances from town to town and of each remarkable place from London",
+  "layer_slug_s": "princeton-3b591c06g",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/3b591c06g/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/3b/59/1c/06/g/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "56.0 -7.0 56.0 2.0 50.0 2.0 50.0 -7.0 56.0 -7.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1851"
   ],
-  "georss_box_s": "50.0 -7.0 56.0 2.0",
-  "georss_polygon_s": "56.0 -7.0 56.0 2.0 50.0 2.0 50.0 -7.0 56.0 -7.0",
   "solr_geom": "ENVELOPE(-7.0, 2.0, 56.0, 50.0)",
-  "solr_year_i": "1851"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "England",
+    "Wales"
+  ]
 }

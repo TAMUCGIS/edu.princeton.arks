@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/4x51hm33r",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Plainfield",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "4x51hm33r",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F4x%2F51%2Fhm%2F33%2Fr%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "4x51hm33r",
-  "layer_slug_s": "princeton-4x51hm33r",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:10:06Z",
+  "solr_geom": "ENVELOPE(-74.463351, -74.382791, 40.644185, 40.594502)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/4x/51/hm/33/r/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/4x51hm33r",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Plainfield, New Jersey (Sheet 7)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1886"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "4x51hm33r",
+  "georss_polygon_s": "40.644185 -74.463351 40.644185 -74.382791 40.594502 -74.382791 40.594502 -74.463351 40.644185 -74.463351",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1886",
   "dct_spatial_sm": [
     "New Jersey",
     "Plainfield"
   ],
-  "dct_temporal_sm": [
-    "1886"
-  ],
+  "layer_id_s": "4x51hm33r",
   "georss_box_s": "40.594502 -74.463351 40.644185 -74.382791",
-  "georss_polygon_s": "40.644185 -74.463351 40.644185 -74.382791 40.594502 -74.382791 40.594502 -74.463351 40.644185 -74.463351",
-  "solr_geom": "ENVELOPE(-74.463351, -74.382791, 40.644185, 40.594502)",
-  "solr_year_i": "1886"
+  "dc_title_s": "Plainfield, New Jersey (Sheet 7)",
+  "layer_slug_s": "princeton-4x51hm33r",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

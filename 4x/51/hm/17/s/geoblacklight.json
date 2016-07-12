@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/4x51hm17s",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Lakewood",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "4x51hm17s",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F4x%2F51%2Fhm%2F17%2Fs%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "4x51hm17s",
-  "layer_slug_s": "princeton-4x51hm17s",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:06:29Z",
+  "solr_geom": "ENVELOPE(-74.257643, -74.177643, 40.137893, 40.057893)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/4x/51/hm/17/s/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/4x51hm17s",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Lakewood, Ocean Co., New Jersey (Sheet 9)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1905"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "4x51hm17s",
+  "georss_polygon_s": "40.137893 -74.257643 40.137893 -74.177643 40.057893 -74.177643 40.057893 -74.257643 40.137893 -74.257643",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1905",
   "dct_spatial_sm": [
     "New Jersey",
     "Lakewood"
   ],
-  "dct_temporal_sm": [
-    "1905"
-  ],
+  "layer_id_s": "4x51hm17s",
   "georss_box_s": "40.057893 -74.257643 40.137893 -74.177643",
-  "georss_polygon_s": "40.137893 -74.257643 40.137893 -74.177643 40.057893 -74.177643 40.057893 -74.257643 40.137893 -74.257643",
-  "solr_geom": "ENVELOPE(-74.257643, -74.177643, 40.137893, 40.057893)",
-  "solr_year_i": "1905"
+  "dc_title_s": "Lakewood, Ocean Co., New Jersey (Sheet 9)",
+  "layer_slug_s": "princeton-4x51hm17s",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/mc87ps46k",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Salem",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "mc87ps46k",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fmc%2F87%2Fps%2F46%2Fk%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "mc87ps46k",
-  "layer_slug_s": "princeton-mc87ps46k",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:08:06Z",
+  "solr_geom": "ENVELOPE(-75.494969, -75.452387, 39.584022, 39.554874)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/mc/87/ps/46/k/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/mc87ps46k",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Salem, Salem County, New Jersey : including Quinton, Alloway, Pennsville, Fort Elfsborg, Hancocks Bridge & Claysville (Sheet 21).",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1923"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "mc87ps46k",
+  "georss_polygon_s": "39.584022 -75.494969 39.584022 -75.452387 39.554874 -75.452387 39.554874 -75.494969 39.584022 -75.494969",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1923",
   "dct_spatial_sm": [
     "New Jersey",
     "Salem"
   ],
-  "dct_temporal_sm": [
-    "1923"
-  ],
+  "layer_id_s": "mc87ps46k",
   "georss_box_s": "39.554874 -75.494969 39.584022 -75.452387",
-  "georss_polygon_s": "39.584022 -75.494969 39.584022 -75.452387 39.554874 -75.452387 39.554874 -75.494969 39.584022 -75.494969",
-  "solr_geom": "ENVELOPE(-75.494969, -75.452387, 39.584022, 39.554874)",
-  "solr_year_i": "1923"
+  "dc_title_s": "Salem, Salem County, New Jersey : including Quinton, Alloway, Pennsville, Fort Elfsborg, Hancocks Bridge & Claysville (Sheet 21).",
+  "layer_slug_s": "princeton-mc87ps46k",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

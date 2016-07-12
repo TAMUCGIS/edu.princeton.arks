@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/t435gg33z",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Garfield",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "t435gg33z",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ft4%2F35%2Fgg%2F33%2Fz%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "t435gg33z",
-  "layer_slug_s": "princeton-t435gg33z",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:11:21Z",
+  "solr_geom": "ENVELOPE(-74.129142, -74.091913, 40.893664, 40.861615)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/t4/35/gg/33/z/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/t435gg33z",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Garfield, N. J. (Sheet 67)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1923"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "t435gg33z",
+  "georss_polygon_s": "40.893664 -74.129142 40.893664 -74.091913 40.861615 -74.091913 40.861615 -74.129142 40.893664 -74.129142",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1923",
   "dct_spatial_sm": [
     "New Jersey",
     "Garfield"
   ],
-  "dct_temporal_sm": [
-    "1923"
-  ],
+  "layer_id_s": "t435gg33z",
   "georss_box_s": "40.861615 -74.129142 40.893664 -74.091913",
-  "georss_polygon_s": "40.893664 -74.129142 40.893664 -74.091913 40.861615 -74.091913 40.861615 -74.129142 40.893664 -74.129142",
-  "solr_geom": "ENVELOPE(-74.129142, -74.091913, 40.893664, 40.861615)",
-  "solr_year_i": "1923"
+  "dc_title_s": "Garfield, N. J. (Sheet 67)",
+  "layer_slug_s": "princeton-t435gg33z",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

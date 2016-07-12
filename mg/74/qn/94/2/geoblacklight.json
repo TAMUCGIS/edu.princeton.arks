@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1896",
   "uuid": "http://arks.princeton.edu/ark:/88435/mg74qn942",
   "dc_description_s": "Arctic regions with the tracks of search parties and the progress of discovery",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "mg74qn942",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/mg74qn942/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fmg%2F74%2Fqn%2F94%2F2%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "mg74qn942",
-  "layer_slug_s": "princeton-mg74qn942",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "51.175092 157.732108 83.9999979 65.6777839",
   "layer_modified_dt": "2015-01-21T22:23:45Z",
-  "dc_title_s": "Arctic regions with the tracks of search parties and the progress of discovery",
+  "layer_id_s": "mg74qn942",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Arctic regions",
-    "Arctic regions"
-  ],
+  "dc_identifier_s": "mg74qn942",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Arctic regions with the tracks of search parties and the progress of discovery",
+  "layer_slug_s": "princeton-mg74qn942",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/mg74qn942/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/mg/74/qn/94/2/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "83.9999979 157.732108 83.9999979 65.6777839 51.175092 65.6777839 51.175092 157.732108 83.9999979 157.732108",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1896"
   ],
-  "georss_box_s": "51.175092 157.732108 83.9999979 65.6777839",
-  "georss_polygon_s": "83.9999979 157.732108 83.9999979 65.6777839 51.175092 65.6777839 51.175092 157.732108 83.9999979 157.732108",
   "solr_geom": "ENVELOPE(157.732108, 65.6777839, 83.9999979, 51.175092)",
-  "solr_year_i": "1896"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Arctic regions",
+    "Arctic regions"
+  ]
 }

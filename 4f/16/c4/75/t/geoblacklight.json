@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1851",
   "uuid": "http://arks.princeton.edu/ark:/88435/4f16c475t",
+  "dc_description_s": "Mexican boundary B. Extract from the treaty map of Disturnell of 1847",
+  "georss_box_s": "-14.7608357 -179.9999999 71.6048217 180",
+  "layer_modified_dt": "2015-01-21T22:23:52Z",
   "dc_creator_sm": [
     "Disturnell, John,"
   ],
-  "dc_description_s": "Mexican boundary B. Extract from the treaty map of Disturnell of 1847",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "4f16c475t",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/4f16c475t/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F4f%2F16%2Fc4%2F75%2Ft%2F00000001.jp2/info.json\"}",
   "layer_id_s": "4f16c475t",
-  "layer_slug_s": "princeton-4f16c475t",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:52Z",
-  "dc_title_s": "Mexican boundary B. Extract from the treaty map of Disturnell of 1847",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "United States",
-    "Mexico"
-  ],
+  "dc_identifier_s": "4f16c475t",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Mexican boundary B. Extract from the treaty map of Disturnell of 1847",
+  "layer_slug_s": "princeton-4f16c475t",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/4f16c475t/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/4f/16/c4/75/t/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "71.6048217 -179.9999999 71.6048217 180 -14.7608357 180 -14.7608357 -179.9999999 71.6048217 -179.9999999",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1851"
   ],
-  "georss_box_s": "-14.7608357 -179.9999999 71.6048217 180",
-  "georss_polygon_s": "71.6048217 -179.9999999 71.6048217 180 -14.7608357 180 -14.7608357 -179.9999999 71.6048217 -179.9999999",
   "solr_geom": "ENVELOPE(-179.9999999, 180, 71.6048217, -14.7608357)",
-  "solr_year_i": "1851"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "United States",
+    "Mexico"
+  ]
 }

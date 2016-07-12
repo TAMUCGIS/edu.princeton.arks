@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/tb09j757r",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Summit",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "tb09j757r",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ftb%2F09%2Fj7%2F57%2Fr%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "tb09j757r",
-  "layer_slug_s": "princeton-tb09j757r",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:02:19Z",
+  "solr_geom": "ENVELOPE(-74.789943, -74.738975, 39.066099, 39.014002)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/tb/09/j7/57/r/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/tb09j757r",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Summit, Union Co., N. J. (Sheet 2).",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1898"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "tb09j757r",
+  "georss_polygon_s": "39.066099 -74.789943 39.066099 -74.738975 39.014002 -74.738975 39.014002 -74.789943 39.066099 -74.789943",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1898",
   "dct_spatial_sm": [
     "New Jersey",
     "Summit"
   ],
-  "dct_temporal_sm": [
-    "1898"
-  ],
+  "layer_id_s": "tb09j757r",
   "georss_box_s": "39.014002 -74.789943 39.066099 -74.738975",
-  "georss_polygon_s": "39.066099 -74.789943 39.066099 -74.738975 39.014002 -74.738975 39.014002 -74.789943 39.066099 -74.789943",
-  "solr_geom": "ENVELOPE(-74.789943, -74.738975, 39.066099, 39.014002)",
-  "solr_year_i": "1898"
+  "dc_title_s": "Summit, Union Co., N. J. (Sheet 2).",
+  "layer_slug_s": "princeton-tb09j757r",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

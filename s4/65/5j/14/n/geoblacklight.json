@@ -2,7 +2,7 @@
   "dc_description_s": "A scanned USGS 1:24,000 topographic map.",
   "layer_modified_dt": "2015-01-11T17:42:55Z",
   "solr_geom": "ENVELOPE(-74.875, -74.750, 40.375, 40.250)",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fs4%2F65%2F5j%2F14%2Fn%2F00000001.jp2/info.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/s4655j14n/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/s4655j14n/preview.jpg\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/s4655j14n/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/s4/65/5j/14/n/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/s4655j14n/preview.jpg\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/s4655j14n",
   "dct_provenance_s": "Princeton",
@@ -14,7 +14,7 @@
     "Geoscientific Information"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "1954 (photorevised 1981)",
+  "layer_slug_s": "princeton-s4655j14n",
   "dc_creator_sm": [
     "United States Geological Survey"
   ],
@@ -51,7 +51,7 @@
   "layer_id_s": "s4655j14n",
   "georss_box_s": "40.250 -74.875 40.375 -74.750",
   "dc_title_s": "Pennington Quadrangle, New Jersey - Pennsylvania, 7.5 minute series (topographic) (1981)",
-  "layer_slug_s": "princeton-s4655j14n",
+  "dct_issued_s": "1954 (photorevised 1981)",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

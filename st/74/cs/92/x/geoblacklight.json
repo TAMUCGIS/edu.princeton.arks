@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1636",
   "uuid": "http://arks.princeton.edu/ark:/88435/st74cs92x",
+  "dc_description_s": "Di\u0153cesis Leodiensis accurata tabula",
+  "georss_box_s": "50.5610901 5.5230701 50.68819 5.6751101",
+  "layer_modified_dt": "2015-01-21T22:24:09Z",
   "dc_creator_sm": [
     "Mercator, Gerhard,"
   ],
-  "dc_description_s": "Diœcesis Leodiensis accurata tabula",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "st74cs92x",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/st74cs92x/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fst%2F74%2Fcs%2F92%2Fx%2F00000001.jp2/info.json\"}",
   "layer_id_s": "st74cs92x",
-  "layer_slug_s": "princeton-st74cs92x",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:09Z",
-  "dc_title_s": "Diœcesis Leodiensis accurata tabula",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Liège (Belgium : Province)"
-  ],
+  "dc_identifier_s": "st74cs92x",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Di\u0153cesis Leodiensis accurata tabula",
+  "layer_slug_s": "princeton-st74cs92x",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/st74cs92x/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/st/74/cs/92/x/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "50.68819 5.5230701 50.68819 5.6751101 50.5610901 5.6751101 50.5610901 5.5230701 50.68819 5.5230701",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1636"
   ],
-  "georss_box_s": "50.5610901 5.5230701 50.68819 5.6751101",
-  "georss_polygon_s": "50.68819 5.5230701 50.68819 5.6751101 50.5610901 5.6751101 50.5610901 5.5230701 50.68819 5.5230701",
   "solr_geom": "ENVELOPE(5.5230701, 5.6751101, 50.68819, 50.5610901)",
-  "solr_year_i": "1636"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Lie\u0300ge (Belgium : Province)"
+  ]
 }

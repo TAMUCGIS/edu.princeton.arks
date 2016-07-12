@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1740",
   "uuid": "http://arks.princeton.edu/ark:/88435/8623j121m",
+  "dc_description_s": "Theatrum historicum ad annum Christi quadrigentesimu[m] : in quo tum Imperii Romani tu[m] Barbarorum circumincolentiu[m] status ob oculos ponitur : pars occidentalis",
+  "georss_box_s": "50.9999503 9.9999497 51.0000503 10.0000497",
+  "layer_modified_dt": "2015-01-21T22:24:12Z",
   "dc_creator_sm": [
     "L'Isle, Guillaume de,",
     "McCabe, Robert A.,"
   ],
-  "dc_description_s": "Theatrum historicum ad annum Christi quadrigentesimu[m] : in quo tum Imperii Romani tu[m] Barbarorum circumincolentiu[m] status ob oculos ponitur : pars occidentalis",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "8623j121m",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/8623j121m/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F86%2F23%2Fj1%2F21%2Fm%2F00000001.jp2/info.json\"}",
   "layer_id_s": "8623j121m",
-  "layer_slug_s": "princeton-8623j121m",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:12Z",
-  "dc_title_s": "Theatrum historicum ad annum Christi quadrigentesimu[m] : in quo tum Imperii Romani tu[m] Barbarorum circumincolentiu[m] status ob oculos ponitur : pars occidentalis",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Europe",
-    "Western Hemisphere"
-  ],
+  "dc_identifier_s": "8623j121m",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Theatrum historicum ad annum Christi quadrigentesimu[m] : in quo tum Imperii Romani tu[m] Barbarorum circumincolentiu[m] status ob oculos ponitur : pars occidentalis",
+  "layer_slug_s": "princeton-8623j121m",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/8623j121m/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/86/23/j1/21/m/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "51.0000503 9.9999497 51.0000503 10.0000497 50.9999503 10.0000497 50.9999503 9.9999497 51.0000503 9.9999497",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1740"
   ],
-  "georss_box_s": "50.9999503 9.9999497 51.0000503 10.0000497",
-  "georss_polygon_s": "51.0000503 9.9999497 51.0000503 10.0000497 50.9999503 10.0000497 50.9999503 9.9999497 51.0000503 9.9999497",
   "solr_geom": "ENVELOPE(9.9999497, 10.0000497, 51.0000503, 50.9999503)",
-  "solr_year_i": "1740"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Europe",
+    "Western Hemisphere"
+  ]
 }

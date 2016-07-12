@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/3r074x18q",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Bound Brook",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "3r074x18q",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F3r%2F07%2F4x%2F18%2Fq%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "3r074x18q",
-  "layer_slug_s": "princeton-3r074x18q",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:08:11Z",
+  "solr_geom": "ENVELOPE(-74.557675, -74.523702, 40.581725, 40.555196)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/3r/07/4x/18/q/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/3r074x18q",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Bound Brook, Somerset County, New Jersey (Sheet 8).",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1910"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "3r074x18q",
+  "georss_polygon_s": "40.581725 -74.557675 40.581725 -74.523702 40.555196 -74.523702 40.555196 -74.557675 40.581725 -74.557675",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1910",
   "dct_spatial_sm": [
     "New Jersey",
     "Bound Brook"
   ],
-  "dct_temporal_sm": [
-    "1910"
-  ],
+  "layer_id_s": "3r074x18q",
   "georss_box_s": "40.555196 -74.557675 40.581725 -74.523702",
-  "georss_polygon_s": "40.581725 -74.557675 40.581725 -74.523702 40.555196 -74.523702 40.555196 -74.557675 40.581725 -74.557675",
-  "solr_geom": "ENVELOPE(-74.557675, -74.523702, 40.581725, 40.555196)",
-  "solr_year_i": "1910"
+  "dc_title_s": "Bound Brook, Somerset County, New Jersey (Sheet 8).",
+  "layer_slug_s": "princeton-3r074x18q",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

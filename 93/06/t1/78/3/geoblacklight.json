@@ -1,5 +1,9 @@
 {
+  "solr_year_i": "1695",
   "uuid": "http://arks.princeton.edu/ark:/88435/9306t1783",
+  "dc_description_s": "Bedford Shire",
+  "georss_box_s": "51.8050872 -0.7021801 52.3229568 -0.1439573",
+  "layer_modified_dt": "2015-01-21T22:24:17Z",
   "dc_creator_sm": [
     "Camden, William,",
     "Churchill, Awnsham,",
@@ -7,26 +11,22 @@
     "Morris, William H.,",
     "Swall, Abel,"
   ],
-  "dc_description_s": "Bedford Shire",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "9306t1783",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/9306t1783/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F93%2F06%2Ft1%2F78%2F3%2F00000001.jp2/info.json\"}",
   "layer_id_s": "9306t1783",
-  "layer_slug_s": "princeton-9306t1783",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:17Z",
-  "dc_title_s": "Bedford Shire",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Bedfordshire (England)"
-  ],
+  "dc_identifier_s": "9306t1783",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Bedford Shire",
+  "layer_slug_s": "princeton-9306t1783",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/9306t1783/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/93/06/t1/78/3/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "52.3229568 -0.7021801 52.3229568 -0.1439573 51.8050872 -0.1439573 51.8050872 -0.7021801 52.3229568 -0.7021801",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1695"
   ],
-  "georss_box_s": "51.8050872 -0.7021801 52.3229568 -0.1439573",
-  "georss_polygon_s": "52.3229568 -0.7021801 52.3229568 -0.1439573 51.8050872 -0.1439573 51.8050872 -0.7021801 52.3229568 -0.7021801",
   "solr_geom": "ENVELOPE(-0.7021801, -0.1439573, 52.3229568, 51.8050872)",
-  "solr_year_i": "1695"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Bedfordshire (England)"
+  ]
 }

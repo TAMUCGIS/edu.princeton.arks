@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1784",
   "uuid": "http://arks.princeton.edu/ark:/88435/tx31qk84j",
+  "dc_description_s": "Chart of the Society Isles discovered by Captn. Cook, 1769",
+  "georss_box_s": "-19.7052903 -155.390625 -14.9341699 -148.8098144",
+  "layer_modified_dt": "2015-01-21T22:23:54Z",
   "dc_creator_sm": [
     "Hogg, Alexander,",
     "Anderson, George William."
   ],
-  "dc_description_s": "Chart of the Society Isles discovered by Captn. Cook, 1769",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "tx31qk84j",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/tx31qk84j/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ftx%2F31%2Fqk%2F84%2F00000001.jp2/info.json\"}",
   "layer_id_s": "tx31qk84j",
-  "layer_slug_s": "princeton-tx31qk84j",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:54Z",
-  "dc_title_s": "Chart of the Society Isles discovered by Captn. Cook, 1769",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Society Islands (French Polynesia)"
-  ],
+  "dc_identifier_s": "tx31qk84j",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Chart of the Society Isles discovered by Captn. Cook, 1769",
+  "layer_slug_s": "princeton-tx31qk84j",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/tx31qk84j/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/tx/31/qk/84/j/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "-14.9341699 -155.390625 -14.9341699 -148.8098144 -19.7052903 -148.8098144 -19.7052903 -155.390625 -14.9341699 -155.390625",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1784"
   ],
-  "georss_box_s": "-19.7052903 -155.390625 -14.9341699 -148.8098144",
-  "georss_polygon_s": "-14.9341699 -155.390625 -14.9341699 -148.8098144 -19.7052903 -148.8098144 -19.7052903 -155.390625 -14.9341699 -155.390625",
   "solr_geom": "ENVELOPE(-155.390625, -148.8098144, -14.9341699, -19.7052903)",
-  "solr_year_i": "1784"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Society Islands (French Polynesia)"
+  ]
 }

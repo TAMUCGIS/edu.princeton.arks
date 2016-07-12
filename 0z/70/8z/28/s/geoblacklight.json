@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/0z708z28s",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Deal",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "0z708z28s",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F0z%2F70%2F8z%2F28%2Fs%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "0z708z28s",
-  "layer_slug_s": "princeton-0z708z28s",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:01:44Z",
+  "solr_geom": "ENVELOPE(-74.009733, -73.986681, 40.26345, 40.237266)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/0z/70/8z/28/s/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/0z708z28s",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Deal, Allenhurst, Loch Arbour, West Allenhurst and Interlaken (Sheet 6)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1905"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "0z708z28s",
+  "georss_polygon_s": "40.26345 -74.009733 40.26345 -73.986681 40.237266 -73.986681 40.237266 -74.009733 40.26345 -74.009733",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1905",
   "dct_spatial_sm": [
     "New Jersey",
     "Deal"
   ],
-  "dct_temporal_sm": [
-    "1905"
-  ],
+  "layer_id_s": "0z708z28s",
   "georss_box_s": "40.237266 -74.009733 40.26345 -73.986681",
-  "georss_polygon_s": "40.26345 -74.009733 40.26345 -73.986681 40.237266 -73.986681 40.237266 -74.009733 40.26345 -74.009733",
-  "solr_geom": "ENVELOPE(-74.009733, -73.986681, 40.26345, 40.237266)",
-  "solr_year_i": "1905"
+  "dc_title_s": "Deal, Allenhurst, Loch Arbour, West Allenhurst and Interlaken (Sheet 6)",
+  "layer_slug_s": "princeton-0z708z28s",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

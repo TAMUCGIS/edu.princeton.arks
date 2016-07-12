@@ -1,35 +1,35 @@
 {
+  "solr_year_i": "1731",
   "uuid": "http://arks.princeton.edu/ark:/88435/g445cg69z",
+  "dc_description_s": "Accurata designatio celebris freti prope Andalusi\u00e6 castellum Gibraltar inter in Europam et Africam, cum circumjacentibus portubus, et castellis /",
+  "georss_box_s": "38.6403875 1.1572495 40.0945744 4.3277839",
+  "layer_modified_dt": "2015-01-25T02:06:22Z",
   "dc_creator_sm": [
     "Seutter, Matthaeus,",
     "McCabe, Robert A.,"
   ],
-  "dc_description_s": "Accurata designatio celebris freti prope Andalusiæ castellum Gibraltar inter in Europam et Africam, cum circumjacentibus portubus, et castellis /",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "g445cg69z",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/g445cg69z/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fg4%2F45%2Fcg%2F69%2Fz%2F00000001.jp2/info.json\"}",
   "layer_id_s": "g445cg69z",
-  "layer_slug_s": "princeton-g445cg69z",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:22Z",
-  "dc_title_s": "Accurata designatio celebris freti prope Andalusiæ castellum Gibraltar inter in Europam et Africam, cum circumjacentibus portubus, et castellis /",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Balearic Islands (Spain)",
-    "Cádiz (Spain)",
-    "Ceuta (Spain)",
-    "Gibraltar",
-    "Mahón (Spain)",
-    "Málaga (Spain)",
-    "Minorca (Spain)"
-  ],
+  "dc_identifier_s": "g445cg69z",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Accurata designatio celebris freti prope Andalusi\u00e6 castellum Gibraltar inter in Europam et Africam, cum circumjacentibus portubus, et castellis /",
+  "layer_slug_s": "princeton-g445cg69z",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/g445cg69z/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/g4/45/cg/69/z/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.0945744 1.1572495 40.0945744 4.3277839 38.6403875 4.3277839 38.6403875 1.1572495 40.0945744 1.1572495",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1731"
   ],
-  "georss_box_s": "38.6403875 1.1572495 40.0945744 4.3277839",
-  "georss_polygon_s": "40.0945744 1.1572495 40.0945744 4.3277839 38.6403875 4.3277839 38.6403875 1.1572495 40.0945744 1.1572495",
   "solr_geom": "ENVELOPE(1.1572495, 4.3277839, 40.0945744, 38.6403875)",
-  "solr_year_i": "1731"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Balearic Islands (Spain)",
+    "Ca\u0301diz (Spain)",
+    "Ceuta (Spain)",
+    "Gibraltar",
+    "Maho\u0301n (Spain)",
+    "Ma\u0301laga (Spain)",
+    "Minorca (Spain)"
+  ]
 }

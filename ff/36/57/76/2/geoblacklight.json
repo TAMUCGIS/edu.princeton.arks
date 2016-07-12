@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1901",
   "uuid": "http://arks.princeton.edu/ark:/88435/ff3657762",
   "dc_description_s": "Queens County, Province of Leinster, Ireland",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "ff3657762",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/ff3657762/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fff%2F36%2F57%2F76%2F2%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "ff3657762",
-  "layer_slug_s": "princeton-ff3657762",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "52.7811673 -7.7357659 53.2156933 -6.931899",
   "layer_modified_dt": "2015-01-21T22:24:25Z",
-  "dc_title_s": "Queens County, Province of Leinster, Ireland",
+  "layer_id_s": "ff3657762",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Laois (Ireland)"
-  ],
+  "dc_identifier_s": "ff3657762",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Queens County, Province of Leinster, Ireland",
+  "layer_slug_s": "princeton-ff3657762",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/ff3657762/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ff/36/57/76/2/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "53.2156933 -7.7357659 53.2156933 -6.931899 52.7811673 -6.931899 52.7811673 -7.7357659 53.2156933 -7.7357659",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1901"
   ],
-  "georss_box_s": "52.7811673 -7.7357659 53.2156933 -6.931899",
-  "georss_polygon_s": "53.2156933 -7.7357659 53.2156933 -6.931899 52.7811673 -6.931899 52.7811673 -7.7357659 53.2156933 -7.7357659",
   "solr_geom": "ENVELOPE(-7.7357659, -6.931899, 53.2156933, 52.7811673)",
-  "solr_year_i": "1901"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Laois (Ireland)"
+  ]
 }

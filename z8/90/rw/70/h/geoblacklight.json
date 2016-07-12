@@ -1,31 +1,31 @@
 {
+  "solr_year_i": "1640",
   "uuid": "http://arks.princeton.edu/ark:/88435/z890rw70h",
+  "dc_description_s": "Frisia occidentalis",
+  "georss_box_s": "52.7648052 4.8183758 53.5397134 6.4276148",
+  "layer_modified_dt": "2015-01-21T22:24:09Z",
   "dc_creator_sm": [
     "Blaeu, Joan,",
     "Blaeu, Willem Janszoon,",
     "Freitag, Gerard.",
     "Chalmers, William S.,"
   ],
-  "dc_description_s": "Frisia occidentalis",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "z890rw70h",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/z890rw70h/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fz8%2F90%2Frw%2F70%2Fh%2F00000001.jp2/info.json\"}",
   "layer_id_s": "z890rw70h",
-  "layer_slug_s": "princeton-z890rw70h",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:09Z",
-  "dc_title_s": "Frisia occidentalis",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Friesland (Netherlands)"
-  ],
+  "dc_identifier_s": "z890rw70h",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Frisia occidentalis",
+  "layer_slug_s": "princeton-z890rw70h",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/z890rw70h/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/z8/90/rw/70/h/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "53.5397134 4.8183758 53.5397134 6.4276148 52.7648052 6.4276148 52.7648052 4.8183758 53.5397134 4.8183758",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1640"
   ],
-  "georss_box_s": "52.7648052 4.8183758 53.5397134 6.4276148",
-  "georss_polygon_s": "53.5397134 4.8183758 53.5397134 6.4276148 52.7648052 6.4276148 52.7648052 4.8183758 53.5397134 4.8183758",
   "solr_geom": "ENVELOPE(4.8183758, 6.4276148, 53.5397134, 52.7648052)",
-  "solr_year_i": "1640"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Friesland (Netherlands)"
+  ]
 }

@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/8g84mp421",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Seaside Park",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "8g84mp421",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F8g%2F84%2Fmp%2F42%2F1%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "8g84mp421",
-  "layer_slug_s": "princeton-8g84mp421",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:06:43Z",
+  "solr_geom": "ENVELOPE(-74.085809, -74.070891, 39.937538, 39.912738)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/8g/84/mp/42/1/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/8g84mp421",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Sea Side Park, Ocean County, New Jersey (Sheet 66).",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1905"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "8g84mp421",
+  "georss_polygon_s": "39.937538 -74.085809 39.937538 -74.070891 39.912738 -74.070891 39.912738 -74.085809 39.937538 -74.085809",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1905",
   "dct_spatial_sm": [
     "New Jersey",
     "Seaside Park"
   ],
-  "dct_temporal_sm": [
-    "1905"
-  ],
+  "layer_id_s": "8g84mp421",
   "georss_box_s": "39.912738 -74.085809 39.937538 -74.070891",
-  "georss_polygon_s": "39.937538 -74.085809 39.937538 -74.070891 39.912738 -74.070891 39.912738 -74.085809 39.937538 -74.085809",
-  "solr_geom": "ENVELOPE(-74.085809, -74.070891, 39.937538, 39.912738)",
-  "solr_year_i": "1905"
+  "dc_title_s": "Sea Side Park, Ocean County, New Jersey (Sheet 66).",
+  "layer_slug_s": "princeton-8g84mp421",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

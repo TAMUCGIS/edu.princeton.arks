@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1948",
   "uuid": "http://arks.princeton.edu/ark:/88435/cr56n348z",
+  "dc_description_s": "Official Texas brags map of North America",
+  "georss_box_s": "50.9999502 -109.0000502 51.0000502 -108.9999502",
+  "layer_modified_dt": "2015-01-21T22:24:17Z",
   "dc_creator_sm": [
     "Randolph, John,"
   ],
-  "dc_description_s": "Official Texas brags map of North America",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "cr56n348z",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/cr56n348z/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fcr%2F56%2Fn3%2F48%2Fz%2F00000001.jp2/info.json\"}",
   "layer_id_s": "cr56n348z",
-  "layer_slug_s": "princeton-cr56n348z",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:17Z",
-  "dc_title_s": "Official Texas brags map of North America",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "North America",
-    "Texas"
-  ],
+  "dc_identifier_s": "cr56n348z",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Official Texas brags map of North America",
+  "layer_slug_s": "princeton-cr56n348z",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/cr56n348z/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/cr/56/n3/48/z/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "51.0000502 -109.0000502 51.0000502 -108.9999502 50.9999502 -108.9999502 50.9999502 -109.0000502 51.0000502 -109.0000502",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1948"
   ],
-  "georss_box_s": "50.9999502 -109.0000502 51.0000502 -108.9999502",
-  "georss_polygon_s": "51.0000502 -109.0000502 51.0000502 -108.9999502 50.9999502 -108.9999502 50.9999502 -109.0000502 51.0000502 -109.0000502",
   "solr_geom": "ENVELOPE(-109.0000502, -108.9999502, 51.0000502, 50.9999502)",
-  "solr_year_i": "1948"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "North America",
+    "Texas"
+  ]
 }

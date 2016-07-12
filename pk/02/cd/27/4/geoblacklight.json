@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1744",
   "uuid": "http://arks.princeton.edu/ark:/88435/pk02cd274",
-  "dc_description_s": "Le Piemont et le Monferrat dressé sur les dernieres observations limité suivant l'art. 4. du traité d'Utrecht : dedie à Mgr. le comte de Maurepas /",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "pk02cd274",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/pk02cd274/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fpk%2F02%2Fcd%2F27%2F4%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "pk02cd274",
-  "layer_slug_s": "princeton-pk02cd274",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Le Piemont et le Monferrat dresse\u0301 sur les dernieres observations limite\u0301 suivant l'art. 4. du traite\u0301 d'Utrecht : dedie a\u0300 Mgr. le comte de Maurepas /",
+  "georss_box_s": "45.0410161 8.3594495 45.1756583 8.5570443",
   "layer_modified_dt": "2015-01-21T22:24:29Z",
-  "dc_title_s": "Le Piemont et le Monferrat dressé sur les dernieres observations limité suivant l'art. 4. du traité d'Utrecht : dedie à Mgr. le comte de Maurepas /",
+  "layer_id_s": "pk02cd274",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Monferrato (Italy)",
-    "Piedmont (Italy)"
-  ],
+  "dc_identifier_s": "pk02cd274",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Le Piemont et le Monferrat dresse\u0301 sur les dernieres observations limite\u0301 suivant l'art. 4. du traite\u0301 d'Utrecht : dedie a\u0300 Mgr. le comte de Maurepas /",
+  "layer_slug_s": "princeton-pk02cd274",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/pk02cd274/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/pk/02/cd/27/4/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "45.1756583 8.3594495 45.1756583 8.5570443 45.0410161 8.5570443 45.0410161 8.3594495 45.1756583 8.3594495",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1744"
   ],
-  "georss_box_s": "45.0410161 8.3594495 45.1756583 8.5570443",
-  "georss_polygon_s": "45.1756583 8.3594495 45.1756583 8.5570443 45.0410161 8.5570443 45.0410161 8.3594495 45.1756583 8.3594495",
   "solr_geom": "ENVELOPE(8.3594495, 8.5570443, 45.1756583, 45.0410161)",
-  "solr_year_i": "1744"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Monferrato (Italy)",
+    "Piedmont (Italy)"
+  ]
 }

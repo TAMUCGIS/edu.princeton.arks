@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1828",
   "uuid": "http://arks.princeton.edu/ark:/88435/3197xn89r",
-  "dc_description_s": "Carte de la Sénégambie, du Soudan et de la Guinée Septentrionale /",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "3197xn89r",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/3197xn89r/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F31%2F97%2Fxn%2F89%2Fr%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "3197xn89r",
-  "layer_slug_s": "princeton-3197xn89r",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Carte de la Se\u0301ne\u0301gambie, du Soudan et de la Guine\u0301e Septentrionale /",
+  "georss_box_s": "4.1821 -17.688 25.000012 15.999034",
   "layer_modified_dt": "2015-01-21T22:23:46Z",
-  "dc_title_s": "Carte de la Sénégambie, du Soudan et de la Guinée Septentrionale /",
+  "layer_id_s": "3197xn89r",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Africa, West"
-  ],
+  "dc_identifier_s": "3197xn89r",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Carte de la Se\u0301ne\u0301gambie, du Soudan et de la Guine\u0301e Septentrionale /",
+  "layer_slug_s": "princeton-3197xn89r",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/3197xn89r/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/31/97/xn/89/r/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "25.000012 -17.688 25.000012 15.999034 4.1821 15.999034 4.1821 -17.688 25.000012 -17.688",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1828"
   ],
-  "georss_box_s": "4.1821 -17.688 25.000012 15.999034",
-  "georss_polygon_s": "25.000012 -17.688 25.000012 15.999034 4.1821 15.999034 4.1821 -17.688 25.000012 -17.688",
   "solr_geom": "ENVELOPE(-17.688, 15.999034, 25.000012, 4.1821)",
-  "solr_year_i": "1828"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Africa, West"
+  ]
 }

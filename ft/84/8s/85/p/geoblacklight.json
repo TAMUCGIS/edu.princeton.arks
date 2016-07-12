@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/ft848s85p",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Newton",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "ft848s85p",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fft%2F84%2F8s%2F85%2Fp%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "ft848s85p",
-  "layer_slug_s": "princeton-ft848s85p",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:08:20Z",
+  "solr_geom": "ENVELOPE(-74.773849, -74.729993, 41.071392, 41.038007)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ft/84/8s/85/p/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/ft848s85p",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Insurance maps of Newton, Sussex County, New Jersey (Sheet 3).",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1911"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "ft848s85p",
+  "georss_polygon_s": "41.071392 -74.773849 41.071392 -74.729993 41.038007 -74.729993 41.038007 -74.773849 41.071392 -74.773849",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1911",
   "dct_spatial_sm": [
     "New Jersey",
     "Newton"
   ],
-  "dct_temporal_sm": [
-    "1911"
-  ],
+  "layer_id_s": "ft848s85p",
   "georss_box_s": "41.038007 -74.773849 41.071392 -74.729993",
-  "georss_polygon_s": "41.071392 -74.773849 41.071392 -74.729993 41.038007 -74.729993 41.038007 -74.773849 41.071392 -74.773849",
-  "solr_geom": "ENVELOPE(-74.773849, -74.729993, 41.071392, 41.038007)",
-  "solr_year_i": "1911"
+  "dc_title_s": "Insurance maps of Newton, Sussex County, New Jersey (Sheet 3).",
+  "layer_slug_s": "princeton-ft848s85p",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

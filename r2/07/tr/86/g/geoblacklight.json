@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1895",
   "uuid": "http://arks.princeton.edu/ark:/88435/r207tr86g",
   "dc_description_s": "Kissingen mit Umbegung",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "r207tr86g",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/r207tr86g/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fr2%2F07%2Ftr%2F86%2Fg%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "r207tr86g",
-  "layer_slug_s": "princeton-r207tr86g",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "50.1436082 9.9673905 50.2514405 10.1426302",
   "layer_modified_dt": "2015-01-21T22:24:26Z",
-  "dc_title_s": "Kissingen mit Umbegung",
+  "layer_id_s": "r207tr86g",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Bad Kissingen (Germany)",
-    "Bavaria (Germany)"
-  ],
+  "dc_identifier_s": "r207tr86g",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Kissingen mit Umbegung",
+  "layer_slug_s": "princeton-r207tr86g",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/r207tr86g/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/r2/07/tr/86/g/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "50.2514405 9.9673905 50.2514405 10.1426302 50.1436082 10.1426302 50.1436082 9.9673905 50.2514405 9.9673905",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1895"
   ],
-  "georss_box_s": "50.1436082 9.9673905 50.2514405 10.1426302",
-  "georss_polygon_s": "50.2514405 9.9673905 50.2514405 10.1426302 50.1436082 10.1426302 50.1436082 9.9673905 50.2514405 9.9673905",
   "solr_geom": "ENVELOPE(9.9673905, 10.1426302, 50.2514405, 50.1436082)",
-  "solr_year_i": "1895"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Bad Kissingen (Germany)",
+    "Bavaria (Germany)"
+  ]
 }

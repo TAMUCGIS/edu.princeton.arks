@@ -2,7 +2,7 @@
   "dc_description_s": "This is a map of California",
   "layer_modified_dt": "2015-01-11T17:43:31Z",
   "solr_geom": "ENVELOPE(-75.105, -74.723, 39.999, 39.606)",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fn2%2F96%2Fx0%2F84%2F8%2F00000001.jp2/info.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/n296x0848/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/n296x0848/preview.jpg\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/n296x0848/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/n2/96/x0/84/8/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/n296x0848/preview.jpg\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/n296x0848",
   "dct_provenance_s": "Princeton",
@@ -11,7 +11,7 @@
     "Historic"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "1885",
+  "layer_slug_s": "princeton-n296x0848",
   "dc_creator_sm": [
     "J.H.Colton"
   ],
@@ -26,7 +26,7 @@
   "layer_id_s": "n296x0848",
   "georss_box_s": "39.606 -75.105 39.999 -74.723",
   "dc_title_s": "California",
-  "layer_slug_s": "princeton-n296x0848",
+  "dct_issued_s": "1885",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

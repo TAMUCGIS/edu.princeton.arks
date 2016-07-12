@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1778",
   "uuid": "http://arks.princeton.edu/ark:/88435/8s45qc14n",
+  "dc_description_s": "La Pensilvania, la Nuova York, il Jersey Settentrio[na]le : con la parte occidentale del Connecticut, Massachusset-s-bay e l'Irochesia",
+  "georss_box_s": "40.25 -83.5 45.75 -72.5",
+  "layer_modified_dt": "2015-01-19T22:37:01Z",
   "dc_creator_sm": [
     "Mitchell, John,"
   ],
-  "dc_description_s": "La Pensilvania, la Nuova York, il Jersey Settentrio[na]le : con la parte occidentale del Connecticut, Massachusset-s-bay e l'Irochesia",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "8s45qc14n",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/8s45qc14n/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F8s%2F45%2Fqc%2F14%2Fn%2F00000001.jp2/info.json\"}",
   "layer_id_s": "8s45qc14n",
-  "layer_slug_s": "princeton-8s45qc14n",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:01Z",
-  "dc_title_s": "La Pensilvania, la Nuova York, il Jersey Settentrio[na]le : con la parte occidentale del Connecticut, Massachusset-s-bay e l'Irochesia",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Northeastern States"
-  ],
+  "dc_identifier_s": "8s45qc14n",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "La Pensilvania, la Nuova York, il Jersey Settentrio[na]le : con la parte occidentale del Connecticut, Massachusset-s-bay e l'Irochesia",
+  "layer_slug_s": "princeton-8s45qc14n",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/8s45qc14n/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/8s/45/qc/14/n/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "45.75 -83.5 45.75 -72.5 40.25 -72.5 40.25 -83.5 45.75 -83.5",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1778"
   ],
-  "georss_box_s": "40.25 -83.5 45.75 -72.5",
-  "georss_polygon_s": "45.75 -83.5 45.75 -72.5 40.25 -72.5 40.25 -83.5 45.75 -83.5",
   "solr_geom": "ENVELOPE(-83.5, -72.5, 45.75, 40.25)",
-  "solr_year_i": "1778"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Northeastern States"
+  ]
 }

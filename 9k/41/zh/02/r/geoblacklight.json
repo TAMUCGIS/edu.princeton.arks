@@ -1,31 +1,29 @@
 {
+  "solr_year_i": "1850",
   "uuid": "http://arks.princeton.edu/ark:/88435/9k41zh02r",
+  "dc_description_s": "Preliminary sketch showing the positions of Davis's South Shoal and other dangers recently discovered by the Coast Survey and the soundings on the Old South Shoal, Bass Rip, Old Man, Pochinck Rip, &c.",
+  "georss_box_s": "41.3334054 -70.2495133 41.3335054 -70.2494133",
+  "layer_modified_dt": "2015-01-21T22:24:26Z",
   "dc_creator_sm": [
     "Davis, Charles Henry,",
     "McBlair, Charles H.",
     "Bache, A. D.",
     "Lee, Samuel Phillips,"
   ],
-  "dc_description_s": "Preliminary sketch showing the positions of Davis's South Shoal and other dangers recently discovered by the Coast Survey and the soundings on the Old South Shoal, Bass Rip, Old Man, Pochinck Rip, &c.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "9k41zh02r",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/9k41zh02r/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F9k%2F41%2Fzh%2F02%2Fr%2F00000001.jp2/info.json\"}",
   "layer_id_s": "9k41zh02r",
-  "layer_slug_s": "princeton-9k41zh02r",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:26Z",
-  "dc_title_s": "Preliminary sketch showing the positions of Davis's South Shoal and other dangers recently discovered by the Coast Survey and the soundings on the Old South Shoal, Bass Rip, Old Man, Pochinck Rip, &c.",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "9k41zh02r",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Preliminary sketch showing the positions of Davis's South Shoal and other dangers recently discovered by the Coast Survey and the soundings on the Old South Shoal, Bass Rip, Old Man, Pochinck Rip, &c.",
+  "layer_slug_s": "princeton-9k41zh02r",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/9k41zh02r/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/9k/41/zh/02/r/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "41.3335054 -70.2495133 41.3335054 -70.2494133 41.3334054 -70.2494133 41.3334054 -70.2495133 41.3335054 -70.2495133",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1850"
   ],
-  "georss_box_s": "41.3334054 -70.2495133 41.3335054 -70.2494133",
-  "georss_polygon_s": "41.3335054 -70.2495133 41.3335054 -70.2494133 41.3334054 -70.2494133 41.3334054 -70.2495133 41.3335054 -70.2495133",
   "solr_geom": "ENVELOPE(-70.2495133, -70.2494133, 41.3335054, 41.3334054)",
-  "solr_year_i": "1850"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

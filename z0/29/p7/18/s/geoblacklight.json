@@ -1,31 +1,31 @@
 {
+  "solr_year_i": "1640",
   "uuid": "http://arks.princeton.edu/ark:/88435/z029p718s",
+  "dc_description_s": "Catalonia",
+  "georss_box_s": "40.5230796 0.1591812 42.8615226 3.3323241",
+  "layer_modified_dt": "2015-01-21T22:24:10Z",
   "dc_creator_sm": [
     "Blaeu, Willem Janszoon,",
     "Blaeu, Joan,",
     "Blaeu, Willem Janszoon,",
     "McCabe, Robert A.,"
   ],
-  "dc_description_s": "Catalonia",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "z029p718s",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/z029p718s/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fz0%2F29%2Fp7%2F18%2Fs%2F00000001.jp2/info.json\"}",
   "layer_id_s": "z029p718s",
-  "layer_slug_s": "princeton-z029p718s",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:10Z",
-  "dc_title_s": "Catalonia",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Catalonia (Spain)"
-  ],
+  "dc_identifier_s": "z029p718s",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Catalonia",
+  "layer_slug_s": "princeton-z029p718s",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/z029p718s/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/z0/29/p7/18/s/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "42.8615226 0.1591812 42.8615226 3.3323241 40.5230796 3.3323241 40.5230796 0.1591812 42.8615226 0.1591812",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1640"
   ],
-  "georss_box_s": "40.5230796 0.1591812 42.8615226 3.3323241",
-  "georss_polygon_s": "42.8615226 0.1591812 42.8615226 3.3323241 40.5230796 3.3323241 40.5230796 0.1591812 42.8615226 0.1591812",
   "solr_geom": "ENVELOPE(0.1591812, 3.3323241, 42.8615226, 40.5230796)",
-  "solr_year_i": "1640"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Catalonia (Spain)"
+  ]
 }

@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1893",
   "uuid": "http://arks.princeton.edu/ark:/88435/0g354h04p",
+  "dc_description_s": "Aequatorial-West-Afrika",
+  "georss_box_s": "4.1821 -17.688 25.000012 15.999034",
+  "layer_modified_dt": "2015-01-21T22:23:43Z",
   "dc_creator_sm": [
     "Sprigade, Paul,",
     "Kiepert, Richard,"
   ],
-  "dc_description_s": "Aequatorial-West-Afrika",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "0g354h04p",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/0g354h04p/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F0g%2F35%2F4h%2F04%2Fp%2F00000001.jp2/info.json\"}",
   "layer_id_s": "0g354h04p",
-  "layer_slug_s": "princeton-0g354h04p",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:43Z",
-  "dc_title_s": "Aequatorial-West-Afrika",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Africa, West"
-  ],
+  "dc_identifier_s": "0g354h04p",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Aequatorial-West-Afrika",
+  "layer_slug_s": "princeton-0g354h04p",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/0g354h04p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/0g/35/4h/04/p/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "25.000012 -17.688 25.000012 15.999034 4.1821 15.999034 4.1821 -17.688 25.000012 -17.688",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1893"
   ],
-  "georss_box_s": "4.1821 -17.688 25.000012 15.999034",
-  "georss_polygon_s": "25.000012 -17.688 25.000012 15.999034 4.1821 15.999034 4.1821 -17.688 25.000012 -17.688",
   "solr_geom": "ENVELOPE(-17.688, 15.999034, 25.000012, 4.1821)",
-  "solr_year_i": "1893"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Africa, West"
+  ]
 }

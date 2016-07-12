@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1607",
   "uuid": "http://arks.princeton.edu/ark:/88435/jw827f182",
+  "dc_description_s": "Cyprus Ins.",
+  "georss_box_s": "34.632303 32.2687076 35.7072 34.6045",
+  "layer_modified_dt": "2015-01-25T02:06:19Z",
   "dc_creator_sm": [
     "Hondius, Jodocus,"
   ],
-  "dc_description_s": "Cyprus Ins.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "jw827f182",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/jw827f182/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fw%2F82%2F7f%2F18%2F2%2F00000001.jp2/info.json\"}",
   "layer_id_s": "jw827f182",
-  "layer_slug_s": "princeton-jw827f182",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:19Z",
-  "dc_title_s": "Cyprus Ins.",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Cyprus"
-  ],
+  "dc_identifier_s": "jw827f182",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Cyprus Ins.",
+  "layer_slug_s": "princeton-jw827f182",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/jw827f182/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/jw/82/7f/18/2/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "35.7072 32.2687076 35.7072 34.6045 34.632303 34.6045 34.632303 32.2687076 35.7072 32.2687076",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1607"
   ],
-  "georss_box_s": "34.632303 32.2687076 35.7072 34.6045",
-  "georss_polygon_s": "35.7072 32.2687076 35.7072 34.6045 34.632303 34.6045 34.632303 32.2687076 35.7072 32.2687076",
   "solr_geom": "ENVELOPE(32.2687076, 34.6045, 35.7072, 34.632303)",
-  "solr_year_i": "1607"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Cyprus"
+  ]
 }

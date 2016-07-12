@@ -1,33 +1,33 @@
 {
+  "solr_year_i": "1752",
   "uuid": "http://arks.princeton.edu/ark:/88435/05741t60f",
+  "dc_description_s": "North America, performed under the patronage of Louis Duke of Orleans, First Prince of the Blood",
+  "georss_box_s": "50.9999502 -109.0000502 51.0000502 -108.9999502",
+  "layer_modified_dt": "2015-01-21T22:23:50Z",
   "dc_creator_sm": [
     "Anville, Jean Baptiste Bourguignon d',",
     "Seale, Richard William.",
     "Postlethwayt, Malachy,",
-    "Gravelot, Hubert François,",
+    "Gravelot, Hubert Franc\u0327ois,",
     "Walker, Anthony,",
     "Fox, N. B.,"
   ],
-  "dc_description_s": "North America, performed under the patronage of Louis Duke of Orleans, First Prince of the Blood",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "05741t60f",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/05741t60f/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F05%2F74%2F1t%2F60%2Ff%2F00000001.jp2/info.json\"}",
   "layer_id_s": "05741t60f",
-  "layer_slug_s": "princeton-05741t60f",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:50Z",
-  "dc_title_s": "North America, performed under the patronage of Louis Duke of Orleans, First Prince of the Blood",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "North America"
-  ],
+  "dc_identifier_s": "05741t60f",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "North America, performed under the patronage of Louis Duke of Orleans, First Prince of the Blood",
+  "layer_slug_s": "princeton-05741t60f",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/05741t60f/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/05/74/1t/60/f/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "51.0000502 -109.0000502 51.0000502 -108.9999502 50.9999502 -108.9999502 50.9999502 -109.0000502 51.0000502 -109.0000502",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1752"
   ],
-  "georss_box_s": "50.9999502 -109.0000502 51.0000502 -108.9999502",
-  "georss_polygon_s": "51.0000502 -109.0000502 51.0000502 -108.9999502 50.9999502 -108.9999502 50.9999502 -109.0000502 51.0000502 -109.0000502",
   "solr_geom": "ENVELOPE(-109.0000502, -108.9999502, 51.0000502, 50.9999502)",
-  "solr_year_i": "1752"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "North America"
+  ]
 }

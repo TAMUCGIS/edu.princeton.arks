@@ -2,7 +2,7 @@
   "dc_description_s": "This is a map of Asia, shown at a 1:48,000,000 scale. The map was created for use by Department of Defense by the Central Intelligence Agency.",
   "layer_modified_dt": "2015-01-11T17:42:52Z",
   "solr_geom": "ENVELOPE(35.000, 180.000, 90.000, -10.000)",
-  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap%2Fvh%2F53%2Fwx%2F26%2F3%2F00000001.jp2/info.json\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/vh53wx263\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/vh53wx263/fgdc.xml\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/vh53wx263/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/vh/53/wx/26/3/00000001.jp2/info.json\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/vh53wx263\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/vh53wx263",
   "dct_provenance_s": "Princeton",
@@ -13,7 +13,7 @@
     "Relief"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "3/04",
+  "layer_slug_s": "princeton-vh53wx263",
   "dc_creator_sm": "Central Intelligence Agency",
   "dc_type_s": "Image",
   "dc_identifier_s": "vh53wx263",
@@ -28,7 +28,7 @@
   "layer_id_s": "vh53wx263",
   "georss_box_s": "-10.000 35.000 90.000 180.000",
   "dc_title_s": "Asia (2004, Relief).",
-  "layer_slug_s": "princeton-vh53wx263",
+  "dct_issued_s": "3/04",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

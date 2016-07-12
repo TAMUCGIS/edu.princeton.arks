@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1845",
   "uuid": "http://arks.princeton.edu/ark:/88435/jm214r66h",
+  "dc_description_s": "Aachen",
+  "georss_box_s": "50.6621399 5.9748624 50.8572577 6.2180747",
+  "layer_modified_dt": "2015-01-21T22:24:27Z",
   "dc_creator_sm": [
     "Meyer, Joseph, 1796-1856."
   ],
-  "dc_description_s": "Aachen",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "jm214r66h",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/jm214r66h/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fm%2F21%2F4r%2F66%2Fh%2F00000001.jp2/info.json\"}",
   "layer_id_s": "jm214r66h",
-  "layer_slug_s": "princeton-jm214r66h",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:27Z",
-  "dc_title_s": "Aachen",
   "dc_type_s": "Image",
+  "dc_identifier_s": "jm214r66h",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Aachen",
+  "layer_slug_s": "princeton-jm214r66h",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/jm214r66h/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/jm/21/4r/66/h/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "50.8572577 5.9748624 50.8572577 6.2180747 50.6621399 6.2180747 50.6621399 5.9748624 50.8572577 5.9748624",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1845"
+  ],
+  "solr_geom": "ENVELOPE(5.9748624, 6.2180747, 50.8572577, 50.6621399)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Aachen (Germany)",
     "Aachen (Germany)",
     "North Rhine-Westphalia (Germany)"
-  ],
-  "dct_temporal_sm": [
-    "1845"
-  ],
-  "georss_box_s": "50.6621399 5.9748624 50.8572577 6.2180747",
-  "georss_polygon_s": "50.8572577 5.9748624 50.8572577 6.2180747 50.6621399 6.2180747 50.6621399 5.9748624 50.8572577 5.9748624",
-  "solr_geom": "ENVELOPE(5.9748624, 6.2180747, 50.8572577, 50.6621399)",
-  "solr_year_i": "1845"
+  ]
 }

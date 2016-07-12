@@ -1,29 +1,27 @@
 {
+  "solr_year_i": "1875",
   "uuid": "http://arks.princeton.edu/ark:/88435/gm80hx79p",
+  "dc_description_s": "Green River from the Union Pacific Rail Road to the mouth of White River, 1873",
+  "georss_box_s": "38.187818 -110.1927981 42.7640787 -108.9158979",
+  "layer_modified_dt": "2015-01-21T22:24:08Z",
   "dc_creator_sm": [
     "Powell, John Wesley,",
     "Graves, W. H."
   ],
-  "dc_description_s": "Green River from the Union Pacific Rail Road to the mouth of White River, 1873",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "gm80hx79p",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/gm80hx79p/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fgm%2F80%2Fhx%2F79%2Fp%2F00000001.jp2/info.json\"}",
   "layer_id_s": "gm80hx79p",
-  "layer_slug_s": "princeton-gm80hx79p",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:08Z",
-  "dc_title_s": "Green River from the Union Pacific Rail Road to the mouth of White River, 1873",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "gm80hx79p",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Green River from the Union Pacific Rail Road to the mouth of White River, 1873",
+  "layer_slug_s": "princeton-gm80hx79p",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/gm80hx79p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/gm/80/hx/79/p/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "42.7640787 -110.1927981 42.7640787 -108.9158979 38.187818 -108.9158979 38.187818 -110.1927981 42.7640787 -110.1927981",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1875"
   ],
-  "georss_box_s": "38.187818 -110.1927981 42.7640787 -108.9158979",
-  "georss_polygon_s": "42.7640787 -110.1927981 42.7640787 -108.9158979 38.187818 -108.9158979 38.187818 -110.1927981 42.7640787 -110.1927981",
   "solr_geom": "ENVELOPE(-110.1927981, -108.9158979, 42.7640787, 38.187818)",
-  "solr_year_i": "1875"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1884",
   "uuid": "http://arks.princeton.edu/ark:/88435/70795b010",
   "dc_description_s": "Asia",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "70795b010",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/70795b010/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F70%2F79%2F5b%2F01%2F0%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "70795b010",
-  "layer_slug_s": "princeton-70795b010",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "55.9999502 103.9999498 56.0000502 104.0000498",
   "layer_modified_dt": "2015-01-21T22:23:57Z",
-  "dc_title_s": "Asia",
+  "layer_id_s": "70795b010",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Asia"
-  ],
+  "dc_identifier_s": "70795b010",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Asia",
+  "layer_slug_s": "princeton-70795b010",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/70795b010/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/70/79/5b/01/0/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "56.0000502 103.9999498 56.0000502 104.0000498 55.9999502 104.0000498 55.9999502 103.9999498 56.0000502 103.9999498",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1884"
   ],
-  "georss_box_s": "55.9999502 103.9999498 56.0000502 104.0000498",
-  "georss_polygon_s": "56.0000502 103.9999498 56.0000502 104.0000498 55.9999502 104.0000498 55.9999502 103.9999498 56.0000502 103.9999498",
   "solr_geom": "ENVELOPE(103.9999498, 104.0000498, 56.0000502, 55.9999502)",
-  "solr_year_i": "1884"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Asia"
+  ]
 }

@@ -1,24 +1,24 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/2227mr555",
+  "dc_description_s": "Automobielkaart van Java en Madoera",
+  "georss_box_s": "-8.7808253 105.2097126 -5.8756509 114.6056347",
+  "layer_modified_dt": "2015-01-25T02:06:09Z",
   "dc_creator_sm": [
     "Naerssen, Cor van,"
   ],
-  "dc_description_s": "Automobielkaart van Java en Madoera",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "2227mr555",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/2227mr555/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F22%2F27%2Fmr%2F55%2F5%2F00000001.jp2/info.json\"}",
   "layer_id_s": "2227mr555",
-  "layer_slug_s": "princeton-2227mr555",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:09Z",
-  "dc_title_s": "Automobielkaart van Java en Madoera",
   "dc_type_s": "Image",
+  "dc_identifier_s": "2227mr555",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Automobielkaart van Java en Madoera",
+  "layer_slug_s": "princeton-2227mr555",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/2227mr555/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/22/27/mr/55/5/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "-5.8756509 105.2097126 -5.8756509 114.6056347 -8.7808253 114.6056347 -8.7808253 105.2097126 -5.8756509 105.2097126",
+  "layer_geom_type_s": "Image",
+  "solr_geom": "ENVELOPE(105.2097126, 114.6056347, -5.8756509, -8.7808253)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Java (Indonesia)"
-  ],
-  "georss_box_s": "-8.7808253 105.2097126 -5.8756509 114.6056347",
-  "georss_polygon_s": "-5.8756509 105.2097126 -5.8756509 114.6056347 -8.7808253 114.6056347 -8.7808253 105.2097126 -5.8756509 105.2097126",
-  "solr_geom": "ENVELOPE(105.2097126, 114.6056347, -5.8756509, -8.7808253)"
+  ]
 }

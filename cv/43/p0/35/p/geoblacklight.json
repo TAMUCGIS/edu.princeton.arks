@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1844",
   "uuid": "http://arks.princeton.edu/ark:/88435/cv43p035p",
   "dc_description_s": "Plan von St. Petersburg (Sanktpeterburga), 1844",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "cv43p035p",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/cv43p035p/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fcv%2F43%2Fp0%2F35%2Fp%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "cv43p035p",
-  "layer_slug_s": "princeton-cv43p035p",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "59.7441481 30.0433427 60.0907368 30.5673028",
   "layer_modified_dt": "2015-01-21T22:24:29Z",
-  "dc_title_s": "Plan von St. Petersburg (Sanktpeterburga), 1844",
+  "layer_id_s": "cv43p035p",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Saint Petersburg (Russia)"
-  ],
+  "dc_identifier_s": "cv43p035p",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Plan von St. Petersburg (Sanktpeterburga), 1844",
+  "layer_slug_s": "princeton-cv43p035p",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/cv43p035p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/cv/43/p0/35/p/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "60.0907368 30.0433427 60.0907368 30.5673028 59.7441481 30.5673028 59.7441481 30.0433427 60.0907368 30.0433427",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1844"
   ],
-  "georss_box_s": "59.7441481 30.0433427 60.0907368 30.5673028",
-  "georss_polygon_s": "60.0907368 30.0433427 60.0907368 30.5673028 59.7441481 30.5673028 59.7441481 30.0433427 60.0907368 30.0433427",
   "solr_geom": "ENVELOPE(30.0433427, 30.5673028, 60.0907368, 59.7441481)",
-  "solr_year_i": "1844"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Saint Petersburg (Russia)"
+  ]
 }

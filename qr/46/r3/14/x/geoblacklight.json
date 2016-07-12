@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1827",
   "uuid": "http://arks.princeton.edu/ark:/88435/qr46r314x",
   "dc_description_s": "Geographical, statistical, and historical map of New Jersey",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "qr46r314x",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/qr46r314x/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fqr%2F46%2Fr3%2F14%2Fx%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "qr46r314x",
-  "layer_slug_s": "princeton-qr46r314x",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "38.7911303 -75.5633859 41.357423 -73.8939789",
   "layer_modified_dt": "2015-01-21T22:23:56Z",
-  "dc_title_s": "Geographical, statistical, and historical map of New Jersey",
+  "layer_id_s": "qr46r314x",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "New Jersey"
-  ],
+  "dc_identifier_s": "qr46r314x",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Geographical, statistical, and historical map of New Jersey",
+  "layer_slug_s": "princeton-qr46r314x",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/qr46r314x/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/qr/46/r3/14/x/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "41.357423 -75.5633859 41.357423 -73.8939789 38.7911303 -73.8939789 38.7911303 -75.5633859 41.357423 -75.5633859",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1827"
   ],
-  "georss_box_s": "38.7911303 -75.5633859 41.357423 -73.8939789",
-  "georss_polygon_s": "41.357423 -75.5633859 41.357423 -73.8939789 38.7911303 -73.8939789 38.7911303 -75.5633859 41.357423 -75.5633859",
   "solr_geom": "ENVELOPE(-75.5633859, -73.8939789, 41.357423, 38.7911303)",
-  "solr_year_i": "1827"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "New Jersey"
+  ]
 }

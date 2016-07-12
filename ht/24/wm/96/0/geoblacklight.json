@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1903",
   "uuid": "http://arks.princeton.edu/ark:/88435/ht24wm960",
   "dc_description_s": "Rothenburg on the Tauber",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "ht24wm960",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/ht24wm960/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fht%2F24%2Fwm%2F96%2F0%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "ht24wm960",
-  "layer_slug_s": "princeton-ht24wm960",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "47.2701114 8.9763497 50.5647142 13.8396373",
   "layer_modified_dt": "2015-01-25T02:06:19Z",
-  "dc_title_s": "Rothenburg on the Tauber",
+  "layer_id_s": "ht24wm960",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Bavaria (Germany)",
-    "Rothenburg ob der Tauber"
-  ],
+  "dc_identifier_s": "ht24wm960",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Rothenburg on the Tauber",
+  "layer_slug_s": "princeton-ht24wm960",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/ht24wm960/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ht/24/wm/96/0/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "50.5647142 8.9763497 50.5647142 13.8396373 47.2701114 13.8396373 47.2701114 8.9763497 50.5647142 8.9763497",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1903"
   ],
-  "georss_box_s": "47.2701114 8.9763497 50.5647142 13.8396373",
-  "georss_polygon_s": "50.5647142 8.9763497 50.5647142 13.8396373 47.2701114 13.8396373 47.2701114 8.9763497 50.5647142 8.9763497",
   "solr_geom": "ENVELOPE(8.9763497, 13.8396373, 50.5647142, 47.2701114)",
-  "solr_year_i": "1903"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Bavaria (Germany)",
+    "Rothenburg ob der Tauber"
+  ]
 }

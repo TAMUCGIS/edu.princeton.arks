@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1720",
   "uuid": "http://arks.princeton.edu/ark:/88435/j6731567r",
+  "dc_description_s": "A new map of the north parts of America claimed by France under ye names of Louisiana, Mississipi [i.e. Mississippi], Canada, and New France with ye adjoyning territories of England and Spain : to Thomas Bromsall, esq., this map of Louisiana, Mississipi [i.e. Mississippi] & c. is most humbly dedicated, H. Moll, geographer /",
+  "georss_box_s": "50.9999502 -109.0000502 51.0000502 -108.9999502",
+  "layer_modified_dt": "2015-01-21T22:23:50Z",
   "dc_creator_sm": [
     "Fox, N. B.,"
   ],
-  "dc_description_s": "A new map of the north parts of America claimed by France under ye names of Louisiana, Mississipi [i.e. Mississippi], Canada, and New France with ye adjoyning territories of England and Spain : to Thomas Bromsall, esq., this map of Louisiana, Mississipi [i.e. Mississippi] & c. is most humbly dedicated, H. Moll, geographer /",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "j6731567r",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/j6731567r/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F6%2F73%2F15%2F67%2Fr%2F00000001.jp2/info.json\"}",
   "layer_id_s": "j6731567r",
-  "layer_slug_s": "princeton-j6731567r",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:50Z",
-  "dc_title_s": "A new map of the north parts of America claimed by France under ye names of Louisiana, Mississipi [i.e. Mississippi], Canada, and New France with ye adjoyning territories of England and Spain : to Thomas Bromsall, esq., this map of Louisiana, Mississipi [i.e. Mississippi] & c. is most humbly dedicated, H. Moll, geographer /",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "North America"
-  ],
+  "dc_identifier_s": "j6731567r",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "A new map of the north parts of America claimed by France under ye names of Louisiana, Mississipi [i.e. Mississippi], Canada, and New France with ye adjoyning territories of England and Spain : to Thomas Bromsall, esq., this map of Louisiana, Mississipi [i.e. Mississippi] & c. is most humbly dedicated, H. Moll, geographer /",
+  "layer_slug_s": "princeton-j6731567r",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/j6731567r/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/j6/73/15/67/r/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "51.0000502 -109.0000502 51.0000502 -108.9999502 50.9999502 -108.9999502 50.9999502 -109.0000502 51.0000502 -109.0000502",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1720"
   ],
-  "georss_box_s": "50.9999502 -109.0000502 51.0000502 -108.9999502",
-  "georss_polygon_s": "51.0000502 -109.0000502 51.0000502 -108.9999502 50.9999502 -108.9999502 50.9999502 -109.0000502 51.0000502 -109.0000502",
   "solr_geom": "ENVELOPE(-109.0000502, -108.9999502, 51.0000502, 50.9999502)",
-  "solr_year_i": "1720"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "North America"
+  ]
 }

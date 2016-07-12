@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1688",
   "uuid": "http://arks.princeton.edu/ark:/88435/b2773x61j",
+  "dc_description_s": "Il regno d'Vngaria, Transilvania, Schiauonia, Bosnia, Croatia, Dalmatia",
+  "georss_box_s": "45.737128 16.1138867 48.585257 22.8974573",
+  "layer_modified_dt": "2015-01-21T22:23:51Z",
   "dc_creator_sm": [
     "Rossi, Giovanni Giacomo de,"
   ],
-  "dc_description_s": "Il regno d'Vngaria, Transilvania, Schiauonia, Bosnia, Croatia, Dalmatia",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "b2773x61j",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/b2773x61j/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F2%2F77%2F3x%2F61%2F00000001.jp2/info.json\"}",
   "layer_id_s": "b2773x61j",
-  "layer_slug_s": "princeton-b2773x61j",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:51Z",
-  "dc_title_s": "Il regno d'Vngaria, Transilvania, Schiauonia, Bosnia, Croatia, Dalmatia",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Hungary",
-    "Balkan Peninsula"
-  ],
+  "dc_identifier_s": "b2773x61j",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Il regno d'Vngaria, Transilvania, Schiauonia, Bosnia, Croatia, Dalmatia",
+  "layer_slug_s": "princeton-b2773x61j",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/b2773x61j/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/b2/77/3x/61/j/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "48.585257 16.1138867 48.585257 22.8974573 45.737128 22.8974573 45.737128 16.1138867 48.585257 16.1138867",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1688"
   ],
-  "georss_box_s": "45.737128 16.1138867 48.585257 22.8974573",
-  "georss_polygon_s": "48.585257 16.1138867 48.585257 22.8974573 45.737128 22.8974573 45.737128 16.1138867 48.585257 16.1138867",
   "solr_geom": "ENVELOPE(16.1138867, 22.8974573, 48.585257, 45.737128)",
-  "solr_year_i": "1688"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Hungary",
+    "Balkan Peninsula"
+  ]
 }

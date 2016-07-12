@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1634",
   "uuid": "http://arks.princeton.edu/ark:/88435/p8418q68d",
-  "dc_description_s": "Palatinatus Bavariæ",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "p8418q68d",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/p8418q68d/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fp8%2F41%2F8q%2F68%2Fd%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "p8418q68d",
-  "layer_slug_s": "princeton-p8418q68d",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Palatinatus Bavari\u00e6",
+  "georss_box_s": "48.6666666667 10.9166666667 49.75 12.75",
   "layer_modified_dt": "2015-01-19T22:37:22Z",
-  "dc_title_s": "Palatinatus Bavariæ",
+  "layer_id_s": "p8418q68d",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Bavaria (Germany)"
-  ],
+  "dc_identifier_s": "p8418q68d",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Palatinatus Bavari\u00e6",
+  "layer_slug_s": "princeton-p8418q68d",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/p8418q68d/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/p8/41/8q/68/d/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "49.75 10.9166666667 49.75 12.75 48.6666666667 12.75 48.6666666667 10.9166666667 49.75 10.9166666667",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1634"
   ],
-  "georss_box_s": "48.6666666667 10.9166666667 49.75 12.75",
-  "georss_polygon_s": "49.75 10.9166666667 49.75 12.75 48.6666666667 12.75 48.6666666667 10.9166666667 49.75 10.9166666667",
   "solr_geom": "ENVELOPE(10.9166666667, 12.75, 49.75, 48.6666666667)",
-  "solr_year_i": "1634"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Bavaria (Germany)"
+  ]
 }

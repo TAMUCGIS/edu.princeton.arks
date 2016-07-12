@@ -1,5 +1,9 @@
 {
+  "solr_year_i": "1820",
   "uuid": "http://arks.princeton.edu/ark:/88435/rv042w52t",
+  "dc_description_s": "United States of Nth. America = Carte des Etats-Unis de l'Ame\u0301rique Septentrionale [map] /",
+  "georss_box_s": "24.4110356374 -91.7756124125 47.5887446096 -66.8711891",
+  "layer_modified_dt": "2015-01-25T02:06:13Z",
   "dc_creator_sm": [
     "Arrowsmith, Aaron,",
     "Picquet, Charles.",
@@ -7,26 +11,20 @@
     "Dezauche, J.",
     "Pachoux, J. J."
   ],
-  "dc_description_s": "United States of Nth. America = Carte des Etats-Unis de l'Amérique Septentrionale [map] /",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "rv042w52t",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/rv042w52t/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Frv%2F04%2F2w%2F52%2Ft%2F00000001.jp2/info.json\"}",
   "layer_id_s": "rv042w52t",
-  "layer_slug_s": "princeton-rv042w52t",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:13Z",
-  "dc_title_s": "United States of Nth. America = Carte des Etats-Unis de l'Amérique Septentrionale [map] /",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "rv042w52t",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "United States of Nth. America = Carte des Etats-Unis de l'Ame\u0301rique Septentrionale [map] /",
+  "layer_slug_s": "princeton-rv042w52t",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/rv042w52t/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/rv/04/2w/52/t/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "47.5887446096 -91.7756124125 47.5887446096 -66.8711891 24.4110356374 -66.8711891 24.4110356374 -91.7756124125 47.5887446096 -91.7756124125",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1820"
   ],
-  "georss_box_s": "24.4110356374 -91.7756124125 47.5887446096 -66.8711891",
-  "georss_polygon_s": "47.5887446096 -91.7756124125 47.5887446096 -66.8711891 24.4110356374 -66.8711891 24.4110356374 -91.7756124125 47.5887446096 -91.7756124125",
   "solr_geom": "ENVELOPE(-91.7756124125, -66.8711891, 47.5887446096, 24.4110356374)",
-  "solr_year_i": "1820"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1900",
   "uuid": "http://arks.princeton.edu/ark:/88435/h415pd04r",
   "dc_description_s": "Bartholomew's \"Half inch to mile\" map of England & Wales.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "h415pd04r",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/h415pd04r/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fh4%2F15%2Fpd%2F04%2Fr%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "h415pd04r",
-  "layer_slug_s": "princeton-h415pd04r",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "51.0 -0.0 51.0 0.0",
   "layer_modified_dt": "2015-01-19T22:37:29Z",
-  "dc_title_s": "Bartholomew's \"Half inch to mile\" map of England & Wales.",
+  "layer_id_s": "h415pd04r",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Sussex (England)"
-  ],
+  "dc_identifier_s": "h415pd04r",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Bartholomew's \"Half inch to mile\" map of England & Wales.",
+  "layer_slug_s": "princeton-h415pd04r",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/h415pd04r/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/h4/15/pd/04/r/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "51.0 -0.0 51.0 0.0 51.0 0.0 51.0 -0.0 51.0 -0.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1900"
   ],
-  "georss_box_s": "51.0 -0.0 51.0 0.0",
-  "georss_polygon_s": "51.0 -0.0 51.0 0.0 51.0 0.0 51.0 -0.0 51.0 -0.0",
   "solr_geom": "ENVELOPE(-0.0, 0.0, 51.0, 51.0)",
-  "solr_year_i": "1900"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Sussex (England)"
+  ]
 }

@@ -1,5 +1,9 @@
 {
+  "solr_year_i": "1676",
   "uuid": "http://arks.princeton.edu/ark:/88435/k643b3538",
+  "dc_description_s": "A map of New England and New York",
+  "georss_box_s": "40.950943 -73.727775 47.459686 -66.8850751",
+  "layer_modified_dt": "2015-01-21T22:23:56Z",
   "dc_creator_sm": [
     "Lamb, Francis.",
     "Bassett, Thomas",
@@ -7,28 +11,24 @@
     "Speed, John,",
     "Fox, N. B.,"
   ],
-  "dc_description_s": "A map of New England and New York",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "k643b3538",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/k643b3538/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fk6%2F43%2Fb3%2F53%2F8%2F00000001.jp2/info.json\"}",
   "layer_id_s": "k643b3538",
-  "layer_slug_s": "princeton-k643b3538",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:56Z",
-  "dc_title_s": "A map of New England and New York",
   "dc_type_s": "Image",
+  "dc_identifier_s": "k643b3538",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "A map of New England and New York",
+  "layer_slug_s": "princeton-k643b3538",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/k643b3538/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/k6/43/b3/53/8/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "47.459686 -73.727775 47.459686 -66.8850751 40.950943 -66.8850751 40.950943 -73.727775 47.459686 -73.727775",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1676"
+  ],
+  "solr_geom": "ENVELOPE(-73.727775, -66.8850751, 47.459686, 40.950943)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "New England",
     "New York (State)",
     "New Jersey"
-  ],
-  "dct_temporal_sm": [
-    "1676"
-  ],
-  "georss_box_s": "40.950943 -73.727775 47.459686 -66.8850751",
-  "georss_polygon_s": "47.459686 -73.727775 47.459686 -66.8850751 40.950943 -66.8850751 40.950943 -73.727775 47.459686 -73.727775",
-  "solr_geom": "ENVELOPE(-73.727775, -66.8850751, 47.459686, 40.950943)",
-  "solr_year_i": "1676"
+  ]
 }

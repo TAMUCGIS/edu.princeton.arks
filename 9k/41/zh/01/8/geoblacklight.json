@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1846",
   "uuid": "http://arks.princeton.edu/ark:/88435/9k41zh018",
   "dc_description_s": "A map of the United States of Mexico as organized and defined by the several acts of the Congress of that Republic, constructed from a great variety of printed and manuscript documents /",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "9k41zh018",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/9k41zh018/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F9k%2F41%2Fzh%2F01%2F8%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "9k41zh018",
-  "layer_slug_s": "princeton-9k41zh018",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "15.0 -45.0 41.0 -9.0",
   "layer_modified_dt": "2015-01-19T22:37:34Z",
-  "dc_title_s": "A map of the United States of Mexico as organized and defined by the several acts of the Congress of that Republic, constructed from a great variety of printed and manuscript documents /",
+  "layer_id_s": "9k41zh018",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Mexico",
-    "Texas"
-  ],
+  "dc_identifier_s": "9k41zh018",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "A map of the United States of Mexico as organized and defined by the several acts of the Congress of that Republic, constructed from a great variety of printed and manuscript documents /",
+  "layer_slug_s": "princeton-9k41zh018",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/9k41zh018/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/9k/41/zh/01/8/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "41.0 -45.0 41.0 -9.0 15.0 -9.0 15.0 -45.0 41.0 -45.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1846"
   ],
-  "georss_box_s": "15.0 -45.0 41.0 -9.0",
-  "georss_polygon_s": "41.0 -45.0 41.0 -9.0 15.0 -9.0 15.0 -45.0 41.0 -45.0",
   "solr_geom": "ENVELOPE(-45.0, -9.0, 41.0, 15.0)",
-  "solr_year_i": "1846"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Mexico",
+    "Texas"
+  ]
 }

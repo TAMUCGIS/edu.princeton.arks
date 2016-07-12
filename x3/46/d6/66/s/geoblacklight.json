@@ -1,29 +1,27 @@
 {
+  "solr_year_i": "1895",
   "uuid": "http://arks.princeton.edu/ark:/88435/x346d666s",
+  "dc_description_s": "A topographical map of the vicinity of Mount Holly : from Bordentown southward to Winslow and Woodmansie",
+  "georss_box_s": "39.65 -74.8833333333 40.1666666667 -74.4333333333",
+  "layer_modified_dt": "2015-01-19T22:37:27Z",
   "dc_creator_sm": [
     "Smock, John C.",
     "Vermeule, C. C."
   ],
-  "dc_description_s": "A topographical map of the vicinity of Mount Holly : from Bordentown southward to Winslow and Woodmansie",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "x346d666s",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/x346d666s/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fx3%2F46%2Fd6%2F66%2Fs%2F00000001.jp2/info.json\"}",
   "layer_id_s": "x346d666s",
-  "layer_slug_s": "princeton-x346d666s",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:27Z",
-  "dc_title_s": "A topographical map of the vicinity of Mount Holly : from Bordentown southward to Winslow and Woodmansie",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "x346d666s",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "A topographical map of the vicinity of Mount Holly : from Bordentown southward to Winslow and Woodmansie",
+  "layer_slug_s": "princeton-x346d666s",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/x346d666s/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/x3/46/d6/66/s/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.1666666667 -74.8833333333 40.1666666667 -74.4333333333 39.65 -74.4333333333 39.65 -74.8833333333 40.1666666667 -74.8833333333",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1895"
   ],
-  "georss_box_s": "39.65 -74.8833333333 40.1666666667 -74.4333333333",
-  "georss_polygon_s": "40.1666666667 -74.8833333333 40.1666666667 -74.4333333333 39.65 -74.4333333333 39.65 -74.8833333333 40.1666666667 -74.8833333333",
   "solr_geom": "ENVELOPE(-74.8833333333, -74.4333333333, 40.1666666667, 39.65)",
-  "solr_year_i": "1895"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

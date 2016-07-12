@@ -1,5 +1,9 @@
 {
+  "solr_year_i": "1844",
   "uuid": "http://arks.princeton.edu/ark:/88435/6t053j42t",
+  "dc_description_s": "Map of New-York Bay and Harbor and the environs",
+  "georss_box_s": "40.3166666667 -74.3 40.7666666667 -73.7333333333",
+  "layer_modified_dt": "2015-01-23T17:48:35Z",
   "dc_creator_sm": [
     "Hassler, F. R.",
     "Ferguson, James,",
@@ -10,26 +14,20 @@
     "Humphreys, A. A.",
     "Eakin, C. M."
   ],
-  "dc_description_s": "Map of New-York Bay and Harbor and the environs",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "6t053j42t",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/6t053j42t/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F6t%2F05%2F3j%2F42%2Ft%2F00000001.jp2/info.json\"}",
   "layer_id_s": "6t053j42t",
-  "layer_slug_s": "princeton-6t053j42t",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-23T17:48:35Z",
-  "dc_title_s": "Map of New-York Bay and Harbor and the environs",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "6t053j42t",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Map of New-York Bay and Harbor and the environs",
+  "layer_slug_s": "princeton-6t053j42t",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/6t053j42t/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/6t/05/3j/42/t/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.7666666667 -74.3 40.7666666667 -73.7333333333 40.3166666667 -73.7333333333 40.3166666667 -74.3 40.7666666667 -74.3",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1844"
   ],
-  "georss_box_s": "40.3166666667 -74.3 40.7666666667 -73.7333333333",
-  "georss_polygon_s": "40.7666666667 -74.3 40.7666666667 -73.7333333333 40.3166666667 -73.7333333333 40.3166666667 -74.3 40.7666666667 -74.3",
   "solr_geom": "ENVELOPE(-74.3, -73.7333333333, 40.7666666667, 40.3166666667)",
-  "solr_year_i": "1844"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

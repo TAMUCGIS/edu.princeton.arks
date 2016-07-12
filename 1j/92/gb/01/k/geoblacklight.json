@@ -1,31 +1,31 @@
 {
+  "solr_year_i": "1854",
   "uuid": "http://arks.princeton.edu/ark:/88435/1j92gb01k",
+  "dc_description_s": "Karte von Georgien, Armenien und Kurdistan aus Heft IV des Atlas von Asien zu C. Ritter's Erdkunde /",
+  "georss_box_s": "36.0 38.0 43.0 50.0",
+  "layer_modified_dt": "2015-01-23T17:48:39Z",
   "dc_creator_sm": [
     "Ritter, Carl,",
     "Reimer, Dietrich,"
   ],
-  "dc_description_s": "Karte von Georgien, Armenien und Kurdistan aus Heft IV des Atlas von Asien zu C. Ritter's Erdkunde /",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "1j92gb01k",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/1j92gb01k/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F1j%2F92%2Fgb%2F01%2Fk%2F00000001.jp2/info.json\"}",
   "layer_id_s": "1j92gb01k",
-  "layer_slug_s": "princeton-1j92gb01k",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-23T17:48:39Z",
-  "dc_title_s": "Karte von Georgien, Armenien und Kurdistan aus Heft IV des Atlas von Asien zu C. Ritter's Erdkunde /",
   "dc_type_s": "Image",
+  "dc_identifier_s": "1j92gb01k",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Karte von Georgien, Armenien und Kurdistan aus Heft IV des Atlas von Asien zu C. Ritter's Erdkunde /",
+  "layer_slug_s": "princeton-1j92gb01k",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/1j92gb01k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/1j/92/gb/01/k/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "43.0 38.0 43.0 50.0 36.0 50.0 36.0 38.0 43.0 38.0",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1854"
+  ],
+  "solr_geom": "ENVELOPE(38.0, 50.0, 43.0, 36.0)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Armenia",
     "Azerbaijan",
     "Georgia (Republic)"
-  ],
-  "dct_temporal_sm": [
-    "1854"
-  ],
-  "georss_box_s": "36.0 38.0 43.0 50.0",
-  "georss_polygon_s": "43.0 38.0 43.0 50.0 36.0 50.0 36.0 38.0 43.0 38.0",
-  "solr_geom": "ENVELOPE(38.0, 50.0, 43.0, 36.0)",
-  "solr_year_i": "1854"
+  ]
 }

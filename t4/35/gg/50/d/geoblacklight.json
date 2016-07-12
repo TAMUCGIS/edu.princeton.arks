@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1901",
   "uuid": "http://arks.princeton.edu/ark:/88435/t435gg50d",
   "dc_description_s": "County Limerick, Province of Munster, Ireland",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "t435gg50d",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/t435gg50d/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ft4%2F35%2Fgg%2F50%2Fd%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "t435gg50d",
-  "layer_slug_s": "princeton-t435gg50d",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "52.5012577 -8.7902084 52.8212577 -8.4702084",
   "layer_modified_dt": "2015-01-21T22:24:24Z",
-  "dc_title_s": "County Limerick, Province of Munster, Ireland",
+  "layer_id_s": "t435gg50d",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Limerick (Ireland : County)"
-  ],
+  "dc_identifier_s": "t435gg50d",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "County Limerick, Province of Munster, Ireland",
+  "layer_slug_s": "princeton-t435gg50d",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/t435gg50d/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/t4/35/gg/50/d/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "52.8212577 -8.7902084 52.8212577 -8.4702084 52.5012577 -8.4702084 52.5012577 -8.7902084 52.8212577 -8.7902084",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1901"
   ],
-  "georss_box_s": "52.5012577 -8.7902084 52.8212577 -8.4702084",
-  "georss_polygon_s": "52.8212577 -8.7902084 52.8212577 -8.4702084 52.5012577 -8.4702084 52.5012577 -8.7902084 52.8212577 -8.7902084",
   "solr_geom": "ENVELOPE(-8.7902084, -8.4702084, 52.8212577, 52.5012577)",
-  "solr_year_i": "1901"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Limerick (Ireland : County)"
+  ]
 }

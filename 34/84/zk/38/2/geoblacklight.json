@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1854",
   "uuid": "http://arks.princeton.edu/ark:/88435/3484zk382",
   "dc_description_s": "New map of that portion of North America, exhibiting the United States and territories, the Canadas, New Brunswick, Nova Scotia, and Mexico, also Central America, and the West India Islands : compiled from the most recent surveys and authentic sources",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "3484zk382",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/3484zk382/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F34%2F84%2Fzk%2F38%2F2%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "3484zk382",
-  "layer_slug_s": "princeton-3484zk382",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "8.0 -129.0 50.0 -61.0",
   "layer_modified_dt": "2015-01-19T22:37:22Z",
-  "dc_title_s": "New map of that portion of North America, exhibiting the United States and territories, the Canadas, New Brunswick, Nova Scotia, and Mexico, also Central America, and the West India Islands : compiled from the most recent surveys and authentic sources",
+  "layer_id_s": "3484zk382",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "North America"
-  ],
+  "dc_identifier_s": "3484zk382",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "New map of that portion of North America, exhibiting the United States and territories, the Canadas, New Brunswick, Nova Scotia, and Mexico, also Central America, and the West India Islands : compiled from the most recent surveys and authentic sources",
+  "layer_slug_s": "princeton-3484zk382",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/3484zk382/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/34/84/zk/38/2/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "50.0 -129.0 50.0 -61.0 8.0 -61.0 8.0 -129.0 50.0 -129.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1854"
   ],
-  "georss_box_s": "8.0 -129.0 50.0 -61.0",
-  "georss_polygon_s": "50.0 -129.0 50.0 -61.0 8.0 -61.0 8.0 -129.0 50.0 -129.0",
   "solr_geom": "ENVELOPE(-129.0, -61.0, 50.0, 8.0)",
-  "solr_year_i": "1854"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "North America"
+  ]
 }

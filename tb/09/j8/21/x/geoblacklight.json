@@ -1,33 +1,33 @@
 {
+  "solr_year_i": "1633",
   "uuid": "http://arks.princeton.edu/ark:/88435/tb09j821x",
+  "dc_description_s": "Pedemontana regio cum Genuensium territorio & Montisferrati Marchionatu",
+  "georss_box_s": "44.3791252 8.7160912 44.514882 9.065573",
+  "layer_modified_dt": "2015-01-25T02:06:23Z",
   "dc_creator_sm": [
     "Mercator, Gerhard,",
     "Jansson, Jan,",
     "Hondius, Hendrik,",
     "McCabe, Robert A.,"
   ],
-  "dc_description_s": "Pedemontana regio cum Genuensium territorio & Montisferrati Marchionatu",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "tb09j821x",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/tb09j821x/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ftb%2F09%2Fj8%2F21%2Fx%2F00000001.jp2/info.json\"}",
   "layer_id_s": "tb09j821x",
-  "layer_slug_s": "princeton-tb09j821x",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:23Z",
-  "dc_title_s": "Pedemontana regio cum Genuensium territorio & Montisferrati Marchionatu",
   "dc_type_s": "Image",
+  "dc_identifier_s": "tb09j821x",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Pedemontana regio cum Genuensium territorio & Montisferrati Marchionatu",
+  "layer_slug_s": "princeton-tb09j821x",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/tb09j821x/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/tb/09/j8/21/x/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "44.514882 8.7160912 44.514882 9.065573 44.3791252 9.065573 44.3791252 8.7160912 44.514882 8.7160912",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1633"
+  ],
+  "solr_geom": "ENVELOPE(8.7160912, 9.065573, 44.514882, 44.3791252)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Genoa (Italy : Province)",
     "Monferrato (Italy)",
     "Piedmont (Italy)"
-  ],
-  "dct_temporal_sm": [
-    "1633"
-  ],
-  "georss_box_s": "44.3791252 8.7160912 44.514882 9.065573",
-  "georss_polygon_s": "44.514882 8.7160912 44.514882 9.065573 44.3791252 9.065573 44.3791252 8.7160912 44.514882 8.7160912",
-  "solr_geom": "ENVELOPE(8.7160912, 9.065573, 44.514882, 44.3791252)",
-  "solr_year_i": "1633"
+  ]
 }

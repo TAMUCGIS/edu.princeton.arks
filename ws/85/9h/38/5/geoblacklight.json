@@ -2,7 +2,7 @@
   "dc_description_s": "This is a map of the city of Corte, France, shown at a 1:7,500 scale. The map was created for use by War and Navy Department agencies during World War II.",
   "layer_modified_dt": "2015-01-11T17:43:35Z",
   "solr_geom": "ENVELOPE(9.1167, 9.1833, 42.3333, 42.2667)",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fws%2F85%2F9h%2F38%2F5%2F00000001.jp2/info.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/ws859h385/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/ws859h385/preview.jpg\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/ws859h385/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ws/85/9h/38/5/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/ws859h385/preview.jpg\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/ws859h385",
   "dct_provenance_s": "Princeton",
@@ -17,7 +17,7 @@
     "Facilities and Structures"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "1943",
+  "layer_slug_s": "princeton-ws859h385",
   "dc_creator_sm": [
     "Army Map Service"
   ],
@@ -34,7 +34,7 @@
   "layer_id_s": "ws859h385",
   "georss_box_s": "42.2667 9.1167 42.3333 9.1833",
   "dc_title_s": "Town plan of Corte. G.S.G.S. 4381.",
-  "layer_slug_s": "princeton-ws859h385",
+  "dct_issued_s": "1943",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1918",
   "uuid": "http://arks.princeton.edu/ark:/88435/5h73pz52f",
-  "dc_description_s": "Úrmija",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "5h73pz52f",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/5h73pz52f/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F5h%2F73%2Fpz%2F52%2Ff%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "5h73pz52f",
-  "layer_slug_s": "princeton-5h73pz52f",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "U\u0301rmija",
+  "georss_box_s": "25.0594286 44.0326949 39.782056 63.3333366",
   "layer_modified_dt": "2015-01-21T22:24:12Z",
-  "dc_title_s": "Úrmija",
+  "layer_id_s": "5h73pz52f",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Urūmīyah (Iran)"
-  ],
+  "dc_identifier_s": "5h73pz52f",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "U\u0301rmija",
+  "layer_slug_s": "princeton-5h73pz52f",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/5h73pz52f/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/5h/73/pz/52/f/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "39.782056 44.0326949 39.782056 63.3333366 25.0594286 63.3333366 25.0594286 44.0326949 39.782056 44.0326949",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1918"
   ],
-  "georss_box_s": "25.0594286 44.0326949 39.782056 63.3333366",
-  "georss_polygon_s": "39.782056 44.0326949 39.782056 63.3333366 25.0594286 63.3333366 25.0594286 44.0326949 39.782056 44.0326949",
   "solr_geom": "ENVELOPE(44.0326949, 63.3333366, 39.782056, 25.0594286)",
-  "solr_year_i": "1918"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Uru\u0304mi\u0304yah (Iran)"
+  ]
 }

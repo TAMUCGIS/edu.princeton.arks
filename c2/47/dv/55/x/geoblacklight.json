@@ -1,31 +1,31 @@
 {
+  "solr_year_i": "1851",
   "uuid": "http://arks.princeton.edu/ark:/88435/c247dv55x",
+  "dc_description_s": "Modern Palestine",
+  "georss_box_s": "30.9166666667 34.35 33.7 36.8166666667",
+  "layer_modified_dt": "2015-01-19T22:37:20Z",
   "dc_creator_sm": [
     "Warren, H.",
     "Baker, Robert,",
     "Tallis, John,",
     "Martin, Robert Montgomery,"
   ],
-  "dc_description_s": "Modern Palestine",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "c247dv55x",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/c247dv55x/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fc2%2F47%2Fdv%2F55%2Fx%2F00000001.jp2/info.json\"}",
   "layer_id_s": "c247dv55x",
-  "layer_slug_s": "princeton-c247dv55x",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:20Z",
-  "dc_title_s": "Modern Palestine",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Palestine"
-  ],
+  "dc_identifier_s": "c247dv55x",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Modern Palestine",
+  "layer_slug_s": "princeton-c247dv55x",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/c247dv55x/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/c2/47/dv/55/x/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "33.7 34.35 33.7 36.8166666667 30.9166666667 36.8166666667 30.9166666667 34.35 33.7 34.35",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1851"
   ],
-  "georss_box_s": "30.9166666667 34.35 33.7 36.8166666667",
-  "georss_polygon_s": "33.7 34.35 33.7 36.8166666667 30.9166666667 36.8166666667 30.9166666667 34.35 33.7 34.35",
   "solr_geom": "ENVELOPE(34.35, 36.8166666667, 33.7, 30.9166666667)",
-  "solr_year_i": "1851"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Palestine"
+  ]
 }

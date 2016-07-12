@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1942",
   "uuid": "http://arks.princeton.edu/ark:/88435/2n49t3505",
   "dc_description_s": "England 1:10 000, Liverpool, BB 12ab",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "2n49t3505",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/2n49t3505/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F2n%2F49%2Ft3%2F50%2F5%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "2n49t3505",
-  "layer_slug_s": "princeton-2n49t3505",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "53.46667 -2.95000 53.48333 -2.90000",
   "layer_modified_dt": "2015-01-19T22:36:35Z",
-  "dc_title_s": "England 1:10 000, Liverpool, BB 12ab",
+  "layer_id_s": "2n49t3505",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "England"
-  ],
+  "dc_identifier_s": "2n49t3505",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "England 1:10 000, Liverpool, BB 12ab",
+  "layer_slug_s": "princeton-2n49t3505",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/2n49t3505/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/2n/49/t3/50/5/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "53.48333 -2.95000 53.48333 -2.90000 53.46667 -2.90000 53.46667 -2.95000 53.48333 -2.95000",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1942"
   ],
-  "georss_box_s": "53.46667 -2.95000 53.48333 -2.90000",
-  "georss_polygon_s": "53.48333 -2.95000 53.48333 -2.90000 53.46667 -2.90000 53.46667 -2.95000 53.48333 -2.95000",
   "solr_geom": "ENVELOPE(-2.95000, -2.90000, 53.48333, 53.46667)",
-  "solr_year_i": "1942"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "England"
+  ]
 }

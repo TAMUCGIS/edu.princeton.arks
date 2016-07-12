@@ -2,7 +2,7 @@
   "dc_description_s": "This is a Sanborn map of Plainfield, Union County and North Plainfield, Somerset County shown at a scale of 1:600.",
   "layer_modified_dt": "2015-01-11T17:43:37Z",
   "solr_geom": "ENVELOPE(-74.149, -74.078, 41.008, 40.955)",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fmw%2F22%2Fv7%2F20%2Fm%2F00000001.jp2/info.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/mw22v720m/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/mw22v720m/preview.jpg\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/mw22v720m/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/mw/22/v7/20/m/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/mw22v720m/preview.jpg\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/mw22v720m",
   "dct_provenance_s": "Princeton",
@@ -12,7 +12,7 @@
     "Sanborn"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "1910",
+  "layer_slug_s": "princeton-mw22v720m",
   "dc_creator_sm": [
     "New York : Sanborn Map Company"
   ],
@@ -32,7 +32,7 @@
   "layer_id_s": "mw22v720m",
   "georss_box_s": "40.955 -74.149 41.008 -74.078",
   "dc_title_s": "Insurance maps of the city of Plainfield, Union County, and borough of North Plainfield, Somerset County, New Jersey (Sheet 33). ",
-  "layer_slug_s": "princeton-mw22v720m",
+  "dct_issued_s": "1910",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

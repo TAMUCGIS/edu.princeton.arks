@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1905",
   "uuid": "http://arks.princeton.edu/ark:/88435/dj52w722p",
+  "dc_description_s": "Erfurt",
+  "georss_box_s": "50.8178285 10.8696459 51.1378285 11.1896459",
+  "layer_modified_dt": "2015-01-25T02:06:19Z",
   "dc_creator_sm": [
     "Woerl, Leo,"
   ],
-  "dc_description_s": "Erfurt",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "dj52w722p",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/dj52w722p/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fdj%2F52%2Fw7%2F22%2Fp%2F00000001.jp2/info.json\"}",
   "layer_id_s": "dj52w722p",
-  "layer_slug_s": "princeton-dj52w722p",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:19Z",
-  "dc_title_s": "Erfurt",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Erfurt (Germany)",
-    "Thuringia (Germany)"
-  ],
+  "dc_identifier_s": "dj52w722p",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Erfurt",
+  "layer_slug_s": "princeton-dj52w722p",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/dj52w722p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/dj/52/w7/22/p/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "51.1378285 10.8696459 51.1378285 11.1896459 50.8178285 11.1896459 50.8178285 10.8696459 51.1378285 10.8696459",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1905"
   ],
-  "georss_box_s": "50.8178285 10.8696459 51.1378285 11.1896459",
-  "georss_polygon_s": "51.1378285 10.8696459 51.1378285 11.1896459 50.8178285 11.1896459 50.8178285 10.8696459 51.1378285 10.8696459",
   "solr_geom": "ENVELOPE(10.8696459, 11.1896459, 51.1378285, 50.8178285)",
-  "solr_year_i": "1905"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Erfurt (Germany)",
+    "Thuringia (Germany)"
+  ]
 }

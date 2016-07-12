@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1648",
   "uuid": "http://arks.princeton.edu/ark:/88435/rb68xf343",
   "dc_description_s": "Ducatus Eboracensis pars borealis : the Northriding of York shire",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "rb68xf343",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/rb68xf343/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Frb%2F68%2Fxf%2F34%2F3%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "rb68xf343",
-  "layer_slug_s": "princeton-rb68xf343",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "53.6210943 -2.5647389 54.5601224 -0.2124959",
   "layer_modified_dt": "2015-01-25T02:06:16Z",
-  "dc_title_s": "Ducatus Eboracensis pars borealis : the Northriding of York shire",
+  "layer_id_s": "rb68xf343",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "North Riding of Yorkshire (England)"
-  ],
+  "dc_identifier_s": "rb68xf343",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Ducatus Eboracensis pars borealis : the Northriding of York shire",
+  "layer_slug_s": "princeton-rb68xf343",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/rb68xf343/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/rb/68/xf/34/3/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "54.5601224 -2.5647389 54.5601224 -0.2124959 53.6210943 -0.2124959 53.6210943 -2.5647389 54.5601224 -2.5647389",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1648"
   ],
-  "georss_box_s": "53.6210943 -2.5647389 54.5601224 -0.2124959",
-  "georss_polygon_s": "54.5601224 -2.5647389 54.5601224 -0.2124959 53.6210943 -0.2124959 53.6210943 -2.5647389 54.5601224 -2.5647389",
   "solr_geom": "ENVELOPE(-2.5647389, -0.2124959, 54.5601224, 53.6210943)",
-  "solr_year_i": "1648"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "North Riding of Yorkshire (England)"
+  ]
 }

@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/td96k481n",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Elizabeth",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "td96k481n",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ftd%2F96%2Fk4%2F81%2Fn%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "td96k481n",
-  "layer_slug_s": "princeton-td96k481n",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:09:47Z",
+  "solr_geom": "ENVELOPE(-74.254216, -74.138869, 40.690428, 40.634165)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/td/96/k4/81/n/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/td96k481n",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Insurance maps of Elizabeth, New Jersey, volume two : Union Township, Hillside Township, Roselle and Roselle Park, Linden Borough and Linden Township (Sheet 225).",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1923"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "td96k481n",
+  "georss_polygon_s": "40.690428 -74.254216 40.690428 -74.138869 40.634165 -74.138869 40.634165 -74.254216 40.690428 -74.254216",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1923",
   "dct_spatial_sm": [
     "New Jersey",
     "Elizabeth"
   ],
-  "dct_temporal_sm": [
-    "1923"
-  ],
+  "layer_id_s": "td96k481n",
   "georss_box_s": "40.634165 -74.254216 40.690428 -74.138869",
-  "georss_polygon_s": "40.690428 -74.254216 40.690428 -74.138869 40.634165 -74.138869 40.634165 -74.254216 40.690428 -74.254216",
-  "solr_geom": "ENVELOPE(-74.254216, -74.138869, 40.690428, 40.634165)",
-  "solr_year_i": "1923"
+  "dc_title_s": "Insurance maps of Elizabeth, New Jersey, volume two : Union Township, Hillside Township, Roselle and Roselle Park, Linden Borough and Linden Township (Sheet 225).",
+  "layer_slug_s": "princeton-td96k481n",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

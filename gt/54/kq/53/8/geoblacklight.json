@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1831",
   "uuid": "http://arks.princeton.edu/ark:/88435/gt54kq538",
   "dc_description_s": "Mexico, & Guatimala.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "gt54kq538",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/gt54kq538/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fgt%2F54%2Fkq%2F53%2F8%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "gt54kq538",
-  "layer_slug_s": "princeton-gt54kq538",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "10.0 -116.0 38.0 -80.0",
   "layer_modified_dt": "2015-01-19T22:37:35Z",
-  "dc_title_s": "Mexico, & Guatimala.",
+  "layer_id_s": "gt54kq538",
   "dc_type_s": "Image",
+  "dc_identifier_s": "gt54kq538",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Mexico, & Guatimala.",
+  "layer_slug_s": "princeton-gt54kq538",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/gt54kq538/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/gt/54/kq/53/8/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "38.0 -116.0 38.0 -80.0 10.0 -80.0 10.0 -116.0 38.0 -116.0",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1831"
+  ],
+  "solr_geom": "ENVELOPE(-116.0, -80.0, 38.0, 10.0)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Central America",
     "Mexico",
     "New Mexico",
     "Texas"
-  ],
-  "dct_temporal_sm": [
-    "1831"
-  ],
-  "georss_box_s": "10.0 -116.0 38.0 -80.0",
-  "georss_polygon_s": "38.0 -116.0 38.0 -80.0 10.0 -80.0 10.0 -116.0 38.0 -116.0",
-  "solr_geom": "ENVELOPE(-116.0, -80.0, 38.0, 10.0)",
-  "solr_year_i": "1831"
+  ]
 }

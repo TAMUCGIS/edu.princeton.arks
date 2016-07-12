@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1930",
   "uuid": "http://arks.princeton.edu/ark:/88435/st74cs28p",
+  "dc_description_s": "Carte geologique detaillee de la France [a 1/80 000]: Wassy.",
+  "georss_box_s": "48.39980 4.51430 48.75950 5.38430",
+  "layer_modified_dt": "2015-01-19T22:36:38Z",
   "dc_creator_sm": [
     "Termier, Pierre"
   ],
-  "dc_description_s": "Carte geologique detaillee de la France [a 1/80 000]: Wassy.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "st74cs28p",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/st74cs28p/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fst%2F74%2Fcs%2F28%2Fp%2F00000001.jp2/info.json\"}",
   "layer_id_s": "st74cs28p",
-  "layer_slug_s": "princeton-st74cs28p",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:36:38Z",
-  "dc_title_s": "Carte geologique detaillee de la France [a 1/80 000]: Wassy.",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "France"
-  ],
+  "dc_identifier_s": "st74cs28p",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Carte geologique detaillee de la France [a 1/80 000]: Wassy.",
+  "layer_slug_s": "princeton-st74cs28p",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/st74cs28p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/st/74/cs/28/p/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "48.75950 4.51430 48.75950 5.38430 48.39980 5.38430 48.39980 4.51430 48.75950 4.51430",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1930"
   ],
-  "georss_box_s": "48.39980 4.51430 48.75950 5.38430",
-  "georss_polygon_s": "48.75950 4.51430 48.75950 5.38430 48.39980 5.38430 48.39980 4.51430 48.75950 4.51430",
   "solr_geom": "ENVELOPE(4.51430, 5.38430, 48.75950, 48.39980)",
-  "solr_year_i": "1930"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "France"
+  ]
 }

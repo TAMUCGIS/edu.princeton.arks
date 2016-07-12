@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1777",
   "uuid": "http://arks.princeton.edu/ark:/88435/8g84mp74b",
   "dc_description_s": "La France [map] /",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "8g84mp74b",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/8g84mp74b/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F8g%2F84%2Fmp%2F74%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "8g84mp74b",
-  "layer_slug_s": "princeton-8g84mp74b",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "-50.2187168 -178.3873748 51.268318 172.3057152",
   "layer_modified_dt": "2015-01-21T22:24:15Z",
-  "dc_title_s": "La France [map] /",
+  "layer_id_s": "8g84mp74b",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "France"
-  ],
+  "dc_identifier_s": "8g84mp74b",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "La France [map] /",
+  "layer_slug_s": "princeton-8g84mp74b",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/8g84mp74b/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/8g/84/mp/74/b/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "51.268318 -178.3873748 51.268318 172.3057152 -50.2187168 172.3057152 -50.2187168 -178.3873748 51.268318 -178.3873748",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1777"
   ],
-  "georss_box_s": "-50.2187168 -178.3873748 51.268318 172.3057152",
-  "georss_polygon_s": "51.268318 -178.3873748 51.268318 172.3057152 -50.2187168 172.3057152 -50.2187168 -178.3873748 51.268318 -178.3873748",
   "solr_geom": "ENVELOPE(-178.3873748, 172.3057152, 51.268318, -50.2187168)",
-  "solr_year_i": "1777"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "France"
+  ]
 }

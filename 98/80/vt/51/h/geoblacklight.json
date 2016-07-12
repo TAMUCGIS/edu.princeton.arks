@@ -1,31 +1,31 @@
 {
+  "solr_year_i": "1763",
   "uuid": "http://arks.princeton.edu/ark:/88435/9880vt51h",
+  "dc_description_s": "Terr\u00e6 Sanct\u00e6 tabula e\u0300 Scriptur\u00e6 Sacr\u00e6, Flavii Josephi, Eusebii et Divi Hieronymi ... delineata",
+  "georss_box_s": "29.4533796 34.2676025 33.3356317 35.8950234",
+  "layer_modified_dt": "2015-01-21T22:24:27Z",
   "dc_creator_sm": [
     "L'Isle, Joseph Nicolas de,",
-    "Marillier, Clément Pierre,",
+    "Marillier, Cle\u0301ment Pierre,",
     "Berthault, M."
   ],
-  "dc_description_s": "Terræ Sanctæ tabula è Scripturæ Sacræ, Flavii Josephi, Eusebii et Divi Hieronymi ... delineata",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "9880vt51h",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/9880vt51h/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F98%2F80%2Fvt%2F51%2Fh%2F00000001.jp2/info.json\"}",
   "layer_id_s": "9880vt51h",
-  "layer_slug_s": "princeton-9880vt51h",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:27Z",
-  "dc_title_s": "Terræ Sanctæ tabula è Scripturæ Sacræ, Flavii Josephi, Eusebii et Divi Hieronymi ... delineata",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Palestine",
-    "Palestine"
-  ],
+  "dc_identifier_s": "9880vt51h",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Terr\u00e6 Sanct\u00e6 tabula e\u0300 Scriptur\u00e6 Sacr\u00e6, Flavii Josephi, Eusebii et Divi Hieronymi ... delineata",
+  "layer_slug_s": "princeton-9880vt51h",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/9880vt51h/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/98/80/vt/51/h/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "33.3356317 34.2676025 33.3356317 35.8950234 29.4533796 35.8950234 29.4533796 34.2676025 33.3356317 34.2676025",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1763"
   ],
-  "georss_box_s": "29.4533796 34.2676025 33.3356317 35.8950234",
-  "georss_polygon_s": "33.3356317 34.2676025 33.3356317 35.8950234 29.4533796 35.8950234 29.4533796 34.2676025 33.3356317 34.2676025",
   "solr_geom": "ENVELOPE(34.2676025, 35.8950234, 33.3356317, 29.4533796)",
-  "solr_year_i": "1763"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Palestine",
+    "Palestine"
+  ]
 }

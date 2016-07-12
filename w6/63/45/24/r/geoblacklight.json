@@ -2,7 +2,7 @@
   "dc_description_s": "This is a map of the city of Kanko, Korea, shown at a 1:10,000 scale. The map was created for use by War and Navy Department agencies by the Army Map Service.",
   "layer_modified_dt": "2015-01-11T17:43:12Z",
   "solr_geom": "ENVELOPE(127.5167, 127.5500, 39.9333, 39.900)",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fw6%2F63%2F45%2F24%2Fr%2F00000001.jp2/info.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/w6634524r/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/w6634524r/preview.jpg\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/w6634524r/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/w6/63/45/24/r/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/w6634524r/preview.jpg\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/w6634524r",
   "dct_provenance_s": "Princeton",
@@ -16,7 +16,7 @@
     "Facilities and Structures"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "1945",
+  "layer_slug_s": "princeton-w6634524r",
   "dc_creator_sm": [
     "Army Map Service"
   ],
@@ -35,7 +35,7 @@
   "layer_id_s": "w6634524r",
   "georss_box_s": "39.900 127.5167 39.9333 127.5500",
   "dc_title_s": "Hamhung (Kanko), Hamgyong-namdo (Kankyo-nando), Korea. A.M.S. L951.",
-  "layer_slug_s": "princeton-w6634524r",
+  "dct_issued_s": "1945",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

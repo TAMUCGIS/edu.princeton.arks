@@ -1,27 +1,27 @@
 {
+  "solr_year_i": "1798",
   "uuid": "http://arks.princeton.edu/ark:/88435/rj430660p",
   "dc_description_s": "Le coste nord ovest dell' America e nord est dell' Asia : delineate sulle ultime osservazione del Cap. Cook",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "rj430660p",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/rj430660p/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Frj%2F43%2F06%2F60%2Fp%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "rj430660p",
-  "layer_slug_s": "princeton-rj430660p",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "51.0228712 -179.9999999 71.6048217 180",
   "layer_modified_dt": "2015-01-21T22:23:53Z",
-  "dc_title_s": "Le coste nord ovest dell' America e nord est dell' Asia : delineate sulle ultime osservazione del Cap. Cook",
+  "layer_id_s": "rj430660p",
   "dc_type_s": "Image",
+  "dc_identifier_s": "rj430660p",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Le coste nord ovest dell' America e nord est dell' Asia : delineate sulle ultime osservazione del Cap. Cook",
+  "layer_slug_s": "princeton-rj430660p",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/rj430660p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/rj/43/06/60/p/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "71.6048217 -179.9999999 71.6048217 180 51.0228712 180 51.0228712 -179.9999999 71.6048217 -179.9999999",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1798"
+  ],
+  "solr_geom": "ENVELOPE(-179.9999999, 180, 71.6048217, 51.0228712)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Alaska",
     "Asia",
     "Bering Strait"
-  ],
-  "dct_temporal_sm": [
-    "1798"
-  ],
-  "georss_box_s": "51.0228712 -179.9999999 71.6048217 180",
-  "georss_polygon_s": "71.6048217 -179.9999999 71.6048217 180 51.0228712 180 51.0228712 -179.9999999 71.6048217 -179.9999999",
-  "solr_geom": "ENVELOPE(-179.9999999, 180, 71.6048217, 51.0228712)",
-  "solr_year_i": "1798"
+  ]
 }

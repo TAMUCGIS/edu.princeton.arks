@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1755",
   "uuid": "http://arks.princeton.edu/ark:/88435/dz010r970",
-  "dc_description_s": "Carte réduite des détroits de Malaca, Sincapour, et du Gouverneur : dressée au Dépost des cartes et plans de la marine pour le service des vaisseaux du roy, par ordre de M. de Machault ...",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "dz010r970",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/dz010r970/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fdz%2F01%2F0r%2F97%2F0%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "dz010r970",
-  "layer_slug_s": "princeton-dz010r970",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Carte re\u0301duite des de\u0301troits de Malaca, Sincapour, et du Gouverneur : dresse\u0301e au De\u0301post des cartes et plans de la marine pour le service des vaisseaux du roy, par ordre de M. de Machault ...",
+  "georss_box_s": "0.7500404 95.4361912 7.6304312 103.5527541",
   "layer_modified_dt": "2015-01-21T22:23:52Z",
-  "dc_title_s": "Carte réduite des détroits de Malaca, Sincapour, et du Gouverneur : dressée au Dépost des cartes et plans de la marine pour le service des vaisseaux du roy, par ordre de M. de Machault ...",
+  "layer_id_s": "dz010r970",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Malacca, Strait of"
-  ],
+  "dc_identifier_s": "dz010r970",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Carte re\u0301duite des de\u0301troits de Malaca, Sincapour, et du Gouverneur : dresse\u0301e au De\u0301post des cartes et plans de la marine pour le service des vaisseaux du roy, par ordre de M. de Machault ...",
+  "layer_slug_s": "princeton-dz010r970",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/dz010r970/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/dz/01/0r/97/0/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "7.6304312 95.4361912 7.6304312 103.5527541 0.7500404 103.5527541 0.7500404 95.4361912 7.6304312 95.4361912",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1755"
   ],
-  "georss_box_s": "0.7500404 95.4361912 7.6304312 103.5527541",
-  "georss_polygon_s": "7.6304312 95.4361912 7.6304312 103.5527541 0.7500404 103.5527541 0.7500404 95.4361912 7.6304312 95.4361912",
   "solr_geom": "ENVELOPE(95.4361912, 103.5527541, 7.6304312, 0.7500404)",
-  "solr_year_i": "1755"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Malacca, Strait of"
+  ]
 }

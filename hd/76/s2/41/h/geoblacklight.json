@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/hd76s241h",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Washington",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "hd76s241h",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fhd%2F76%2Fs2%2F41%2Fh%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "hd76s241h",
-  "layer_slug_s": "princeton-hd76s241h",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:10:47Z",
+  "solr_geom": "ENVELOPE(-74.999381, -74.962106, 40.768524, 40.744654)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/hd/76/s2/41/h/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/hd76s241h",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Washington, Warren Co., New Jersey (Sheet 1)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1902"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "hd76s241h",
+  "georss_polygon_s": "40.768524 -74.999381 40.768524 -74.962106 40.744654 -74.962106 40.744654 -74.999381 40.768524 -74.999381",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1902",
   "dct_spatial_sm": [
     "New Jersey",
     "Washington"
   ],
-  "dct_temporal_sm": [
-    "1902"
-  ],
+  "layer_id_s": "hd76s241h",
   "georss_box_s": "40.744654 -74.999381 40.768524 -74.962106",
-  "georss_polygon_s": "40.768524 -74.999381 40.768524 -74.962106 40.744654 -74.962106 40.744654 -74.999381 40.768524 -74.999381",
-  "solr_geom": "ENVELOPE(-74.999381, -74.962106, 40.768524, 40.744654)",
-  "solr_year_i": "1902"
+  "dc_title_s": "Washington, Warren Co., New Jersey (Sheet 1)",
+  "layer_slug_s": "princeton-hd76s241h",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/xd07gv533",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Chadwick",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "xd07gv533",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fxd%2F07%2Fgv%2F53%2F3%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "xd07gv533",
-  "layer_slug_s": "princeton-xd07gv533",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:01:44Z",
+  "solr_geom": "ENVELOPE(-74.083748, -74.043747, 40.013173, 39.973173)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/xd/07/gv/53/3/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/xd07gv533",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Chadwick (Sheet 56), New Jersey",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1905"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "xd07gv533",
+  "georss_polygon_s": "40.013173 -74.083748 40.013173 -74.043747 39.973173 -74.043747 39.973173 -74.083748 40.013173 -74.083748",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1905",
   "dct_spatial_sm": [
     "New Jersey",
     "Chadwick"
   ],
-  "dct_temporal_sm": [
-    "1905"
-  ],
+  "layer_id_s": "xd07gv533",
   "georss_box_s": "39.973173 -74.083748 40.013173 -74.043747",
-  "georss_polygon_s": "40.013173 -74.083748 40.013173 -74.043747 39.973173 -74.043747 39.973173 -74.083748 40.013173 -74.083748",
-  "solr_geom": "ENVELOPE(-74.083748, -74.043747, 40.013173, 39.973173)",
-  "solr_year_i": "1905"
+  "dc_title_s": "Chadwick (Sheet 56), New Jersey",
+  "layer_slug_s": "princeton-xd07gv533",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/fj2364230",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Dover",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "fj2364230",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ffj%2F23%2F64%2F23%2F0%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "fj2364230",
-  "layer_slug_s": "princeton-fj2364230",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:06:10Z",
+  "solr_geom": "ENVELOPE(-74.578304, -74.538707, 40.904113, 40.872536)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/fj/23/64/23/0/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/fj2364230",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Dover, Morris County, New Jersey: including Wharton, Bowlbyville and part of Rockaway Township (Sheet 20)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1927"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "fj2364230",
+  "georss_polygon_s": "40.904113 -74.578304 40.904113 -74.538707 40.872536 -74.538707 40.872536 -74.578304 40.904113 -74.578304",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1927",
   "dct_spatial_sm": [
     "New Jersey",
     "Dover"
   ],
-  "dct_temporal_sm": [
-    "1927"
-  ],
+  "layer_id_s": "fj2364230",
   "georss_box_s": "40.872536 -74.578304 40.904113 -74.538707",
-  "georss_polygon_s": "40.904113 -74.578304 40.904113 -74.538707 40.872536 -74.538707 40.872536 -74.578304 40.904113 -74.578304",
-  "solr_geom": "ENVELOPE(-74.578304, -74.538707, 40.904113, 40.872536)",
-  "solr_year_i": "1927"
+  "dc_title_s": "Dover, Morris County, New Jersey: including Wharton, Bowlbyville and part of Rockaway Township (Sheet 20)",
+  "layer_slug_s": "princeton-fj2364230",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

@@ -2,7 +2,7 @@
   "dc_description_s": "A scanned USGS 1:24,000 topographic map.",
   "layer_modified_dt": "2015-01-11T17:42:59Z",
   "solr_geom": "ENVELOPE(-74.3750, -74.2500, 40.0000, 39.8750)",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fvt%2F15%2F0k%2F82%2Fs%2F00000001.jp2/info.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/vt150k82s/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/vt150k82s/preview.jpg\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/vt150k82s/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/vt/15/0k/82/s/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/vt150k82s/preview.jpg\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/vt150k82s",
   "dct_provenance_s": "Princeton",
@@ -14,7 +14,7 @@
     "Geoscientific Information"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "1957",
+  "layer_slug_s": "princeton-vt150k82s",
   "dc_creator_sm": [
     "United States Geological Survey"
   ],
@@ -35,7 +35,7 @@
   "layer_id_s": "vt150k82s",
   "georss_box_s": "39.8750 -74.3750 40.0000 -74.2500",
   "dc_title_s": "Keswick Grove Quadrangle, New Jersey, 7.5 minute series (topographic)",
-  "layer_slug_s": "princeton-vt150k82s",
+  "dct_issued_s": "1957",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1880",
   "uuid": "http://arks.princeton.edu/ark:/88435/b2773z24m",
-  "dc_description_s": "Paris de 1512 à 1547 fac-simile de la Grande Gouache d'après le plan dit de la Tapisserie.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "b2773z24m",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/b2773z24m/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F2%2F77%2F3z%2F24%2Fm%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "b2773z24m",
-  "layer_slug_s": "princeton-b2773z24m",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Paris de 1512 a\u0300 1547 fac-simile de la Grande Gouache d'apre\u0300s le plan dit de la Tapisserie.",
+  "georss_box_s": "48.8155755 2.224122 48.902156 2.4697602",
   "layer_modified_dt": "2015-01-25T02:06:23Z",
-  "dc_title_s": "Paris de 1512 à 1547 fac-simile de la Grande Gouache d'après le plan dit de la Tapisserie.",
+  "layer_id_s": "b2773z24m",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Paris (France)"
-  ],
+  "dc_identifier_s": "b2773z24m",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Paris de 1512 a\u0300 1547 fac-simile de la Grande Gouache d'apre\u0300s le plan dit de la Tapisserie.",
+  "layer_slug_s": "princeton-b2773z24m",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/b2773z24m/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/b2/77/3z/24/m/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "48.902156 2.224122 48.902156 2.4697602 48.8155755 2.4697602 48.8155755 2.224122 48.902156 2.224122",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1880"
   ],
-  "georss_box_s": "48.8155755 2.224122 48.902156 2.4697602",
-  "georss_polygon_s": "48.902156 2.224122 48.902156 2.4697602 48.8155755 2.4697602 48.8155755 2.224122 48.902156 2.224122",
   "solr_geom": "ENVELOPE(2.224122, 2.4697602, 48.902156, 48.8155755)",
-  "solr_year_i": "1880"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Paris (France)"
+  ]
 }

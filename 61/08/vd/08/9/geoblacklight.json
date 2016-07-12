@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1730",
   "uuid": "http://arks.princeton.edu/ark:/88435/6108vd089",
+  "dc_description_s": "Carte de l'Afrique franc\u0327oise ou du Senegal : dresse\u0301e sur un grand nombre de cartes manuscrites et d'itineraires rectifie\u0301s par diverses observations /",
+  "georss_box_s": "4.1821 -17.688 25.000012 15.999034",
+  "layer_modified_dt": "2015-01-21T22:23:43Z",
   "dc_creator_sm": [
     "L'Isle, Guillaume de,"
   ],
-  "dc_description_s": "Carte de l'Afrique françoise ou du Senegal : dressée sur un grand nombre de cartes manuscrites et d'itineraires rectifiés par diverses observations /",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "6108vd089",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/6108vd089/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F61%2F08%2Fvd%2F08%2F9%2F00000001.jp2/info.json\"}",
   "layer_id_s": "6108vd089",
-  "layer_slug_s": "princeton-6108vd089",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:43Z",
-  "dc_title_s": "Carte de l'Afrique françoise ou du Senegal : dressée sur un grand nombre de cartes manuscrites et d'itineraires rectifiés par diverses observations /",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Africa, West"
-  ],
+  "dc_identifier_s": "6108vd089",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Carte de l'Afrique franc\u0327oise ou du Senegal : dresse\u0301e sur un grand nombre de cartes manuscrites et d'itineraires rectifie\u0301s par diverses observations /",
+  "layer_slug_s": "princeton-6108vd089",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/6108vd089/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/61/08/vd/08/9/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "25.000012 -17.688 25.000012 15.999034 4.1821 15.999034 4.1821 -17.688 25.000012 -17.688",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1730"
   ],
-  "georss_box_s": "4.1821 -17.688 25.000012 15.999034",
-  "georss_polygon_s": "25.000012 -17.688 25.000012 15.999034 4.1821 15.999034 4.1821 -17.688 25.000012 -17.688",
   "solr_geom": "ENVELOPE(-17.688, 15.999034, 25.000012, 4.1821)",
-  "solr_year_i": "1730"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Africa, West"
+  ]
 }

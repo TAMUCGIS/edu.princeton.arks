@@ -1,27 +1,27 @@
 {
+  "solr_year_i": "1897",
   "uuid": "http://arks.princeton.edu/ark:/88435/s1784p040",
   "dc_description_s": "Millroy's map of Alaska and the Klondyke gold fields",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "s1784p040",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/s1784p040/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fs1%2F78%2F4p%2F04%2F0%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "s1784p040",
-  "layer_slug_s": "princeton-s1784p040",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "52.0 -176.0 72.0 -120.0",
   "layer_modified_dt": "2015-01-23T17:48:34Z",
-  "dc_title_s": "Millroy's map of Alaska and the Klondyke gold fields",
+  "layer_id_s": "s1784p040",
   "dc_type_s": "Image",
+  "dc_identifier_s": "s1784p040",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Millroy's map of Alaska and the Klondyke gold fields",
+  "layer_slug_s": "princeton-s1784p040",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/s1784p040/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/s1/78/4p/04/0/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "72.0 -176.0 72.0 -120.0 52.0 -120.0 52.0 -176.0 72.0 -176.0",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1897"
+  ],
+  "solr_geom": "ENVELOPE(-176.0, -120.0, 72.0, 52.0)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Alaska",
     "Yukon",
     "Klondike River Valley (Yukon)"
-  ],
-  "dct_temporal_sm": [
-    "1897"
-  ],
-  "georss_box_s": "52.0 -176.0 72.0 -120.0",
-  "georss_polygon_s": "72.0 -176.0 72.0 -120.0 52.0 -120.0 52.0 -176.0 72.0 -176.0",
-  "solr_geom": "ENVELOPE(-176.0, -120.0, 72.0, 52.0)",
-  "solr_year_i": "1897"
+  ]
 }

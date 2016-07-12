@@ -1,27 +1,27 @@
 {
+  "solr_year_i": "1690",
   "uuid": "http://arks.princeton.edu/ark:/88435/05741v221",
   "dc_description_s": "Venetianische Kriegs-Begebenheiten",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "05741v221",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/05741v221/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F05%2F74%2F1v%2F22%2F1%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "05741v221",
-  "layer_slug_s": "princeton-05741v221",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "36.6891901 21.5387129 37.485153 22.4019497",
   "layer_modified_dt": "2015-01-21T22:24:26Z",
-  "dc_title_s": "Venetianische Kriegs-Begebenheiten",
+  "layer_id_s": "05741v221",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Messēnia (Greece)",
-    "Messenia, Gulf of (Greece)",
-    "Venice (Italy)"
-  ],
+  "dc_identifier_s": "05741v221",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Venetianische Kriegs-Begebenheiten",
+  "layer_slug_s": "princeton-05741v221",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/05741v221/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/05/74/1v/22/1/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "37.485153 21.5387129 37.485153 22.4019497 36.6891901 22.4019497 36.6891901 21.5387129 37.485153 21.5387129",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1690"
   ],
-  "georss_box_s": "36.6891901 21.5387129 37.485153 22.4019497",
-  "georss_polygon_s": "37.485153 21.5387129 37.485153 22.4019497 36.6891901 22.4019497 36.6891901 21.5387129 37.485153 21.5387129",
   "solr_geom": "ENVELOPE(21.5387129, 22.4019497, 37.485153, 36.6891901)",
-  "solr_year_i": "1690"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Messe\u0304nia (Greece)",
+    "Messenia, Gulf of (Greece)",
+    "Venice (Italy)"
+  ]
 }

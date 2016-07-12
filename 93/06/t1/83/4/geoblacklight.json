@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1890",
   "uuid": "http://arks.princeton.edu/ark:/88435/9306t1834",
+  "dc_description_s": "Plan der Stadt Fulda ; Fulda und Umgebung",
+  "georss_box_s": "50.4994222 9.5670581 50.6294785 9.7318787",
+  "layer_modified_dt": "2015-01-21T22:24:27Z",
   "dc_creator_sm": [
     "Schneider, Justus,"
   ],
-  "dc_description_s": "Plan der Stadt Fulda ; Fulda und Umgebung",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "9306t1834",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/9306t1834/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F93%2F06%2Ft1%2F83%2F4%2F00000001.jp2/info.json\"}",
   "layer_id_s": "9306t1834",
-  "layer_slug_s": "princeton-9306t1834",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:27Z",
-  "dc_title_s": "Plan der Stadt Fulda ; Fulda und Umgebung",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Fulda (Germany)",
-    "Hesse (Germany)"
-  ],
+  "dc_identifier_s": "9306t1834",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Plan der Stadt Fulda ; Fulda und Umgebung",
+  "layer_slug_s": "princeton-9306t1834",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/9306t1834/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/93/06/t1/83/4/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "50.6294785 9.5670581 50.6294785 9.7318787 50.4994222 9.7318787 50.4994222 9.5670581 50.6294785 9.5670581",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1890"
   ],
-  "georss_box_s": "50.4994222 9.5670581 50.6294785 9.7318787",
-  "georss_polygon_s": "50.6294785 9.5670581 50.6294785 9.7318787 50.4994222 9.7318787 50.4994222 9.5670581 50.6294785 9.5670581",
   "solr_geom": "ENVELOPE(9.5670581, 9.7318787, 50.6294785, 50.4994222)",
-  "solr_year_i": "1890"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Fulda (Germany)",
+    "Hesse (Germany)"
+  ]
 }

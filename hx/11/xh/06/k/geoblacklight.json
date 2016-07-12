@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1905",
   "uuid": "http://arks.princeton.edu/ark:/88435/hx11xh06k",
+  "dc_description_s": "Flat-globe of the world /",
+  "georss_box_s": "-90 0 90 180",
+  "layer_modified_dt": "2015-01-21T22:23:42Z",
   "dc_creator_sm": [
     "Peary, Robert E."
   ],
-  "dc_description_s": "Flat-globe of the world /",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "hx11xh06k",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/hx11xh06k/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fhx%2F11%2Fxh%2F06%2Fk%2F00000001.jp2/info.json\"}",
   "layer_id_s": "hx11xh06k",
-  "layer_slug_s": "princeton-hx11xh06k",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:42Z",
-  "dc_title_s": "Flat-globe of the world /",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Eastern Hemisphere",
-    "Western Hemisphere"
-  ],
+  "dc_identifier_s": "hx11xh06k",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Flat-globe of the world /",
+  "layer_slug_s": "princeton-hx11xh06k",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/hx11xh06k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/hx/11/xh/06/k/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "90 0 90 180 -90 180 -90 0 90 0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1905"
   ],
-  "georss_box_s": "-90 0 90 180",
-  "georss_polygon_s": "90 0 90 180 -90 180 -90 0 90 0",
   "solr_geom": "ENVELOPE(0, 180, 90, -90)",
-  "solr_year_i": "1905"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Eastern Hemisphere",
+    "Western Hemisphere"
+  ]
 }

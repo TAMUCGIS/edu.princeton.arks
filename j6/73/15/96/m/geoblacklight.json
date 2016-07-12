@@ -1,25 +1,23 @@
 {
+  "solr_year_i": "1909",
   "uuid": "http://arks.princeton.edu/ark:/88435/j6731596m",
   "dc_description_s": "Yosemite National Park, showing boundaries established by act of Congress : approved June 11, 1906",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "j6731596m",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/j6731596m/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F6%2F73%2F15%2F96%2Fm%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "j6731596m",
-  "layer_slug_s": "princeton-j6731596m",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "37.4948419 -119.8863376 38.1863499 -119.1995074",
   "layer_modified_dt": "2015-01-21T22:23:55Z",
-  "dc_title_s": "Yosemite National Park, showing boundaries established by act of Congress : approved June 11, 1906",
+  "layer_id_s": "j6731596m",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "j6731596m",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Yosemite National Park, showing boundaries established by act of Congress : approved June 11, 1906",
+  "layer_slug_s": "princeton-j6731596m",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/j6731596m/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/j6/73/15/96/m/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "38.1863499 -119.8863376 38.1863499 -119.1995074 37.4948419 -119.1995074 37.4948419 -119.8863376 38.1863499 -119.8863376",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1909"
   ],
-  "georss_box_s": "37.4948419 -119.8863376 38.1863499 -119.1995074",
-  "georss_polygon_s": "38.1863499 -119.8863376 38.1863499 -119.1995074 37.4948419 -119.1995074 37.4948419 -119.8863376 38.1863499 -119.8863376",
   "solr_geom": "ENVELOPE(-119.8863376, -119.1995074, 38.1863499, 37.4948419)",
-  "solr_year_i": "1909"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

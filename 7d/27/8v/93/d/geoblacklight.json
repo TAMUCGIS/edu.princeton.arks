@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/7d278v93d",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Ridgewood",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "7d278v93d",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F7d%2F27%2F8v%2F93%2Fd%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "7d278v93d",
-  "layer_slug_s": "princeton-7d278v93d",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:02:19Z",
+  "solr_geom": "ENVELOPE(-74.149088, -74.077559, 41.007844, 40.955272)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/7d/27/8v/93/d/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/7d278v93d",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Ridgewood, Bergen County, New Jersey : including Hohokus (Sheet 22).",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1928"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "7d278v93d",
+  "georss_polygon_s": "41.007844 -74.149088 41.007844 -74.077559 40.955272 -74.077559 40.955272 -74.149088 41.007844 -74.149088",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1928",
   "dct_spatial_sm": [
     "New Jersey",
     "Ridgewood"
   ],
-  "dct_temporal_sm": [
-    "1928"
-  ],
+  "layer_id_s": "7d278v93d",
   "georss_box_s": "40.955272 -74.149088 41.007844 -74.077559",
-  "georss_polygon_s": "41.007844 -74.149088 41.007844 -74.077559 40.955272 -74.077559 40.955272 -74.149088 41.007844 -74.149088",
-  "solr_geom": "ENVELOPE(-74.149088, -74.077559, 41.007844, 40.955272)",
-  "solr_year_i": "1928"
+  "dc_title_s": "Ridgewood, Bergen County, New Jersey : including Hohokus (Sheet 22).",
+  "layer_slug_s": "princeton-7d278v93d",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

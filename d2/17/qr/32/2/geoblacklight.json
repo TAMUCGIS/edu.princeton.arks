@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1943",
   "uuid": "http://arks.princeton.edu/ark:/88435/d217qr322",
   "dc_description_s": "World cobalt production and location of mines (estimated production 1942)",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "d217qr322",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/d217qr322/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fd2%2F17%2Fqr%2F32%2F2%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "d217qr322",
-  "layer_slug_s": "princeton-d217qr322",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "-60.00000 -180.00000 80.00000 180.00000",
   "layer_modified_dt": "2015-01-19T22:36:34Z",
-  "dc_title_s": "World cobalt production and location of mines (estimated production 1942)",
+  "layer_id_s": "d217qr322",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "World"
-  ],
+  "dc_identifier_s": "d217qr322",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "World cobalt production and location of mines (estimated production 1942)",
+  "layer_slug_s": "princeton-d217qr322",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/d217qr322/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/d2/17/qr/32/2/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "80.00000 -180.00000 80.00000 180.00000 -60.00000 180.00000 -60.00000 -180.00000 80.00000 -180.00000",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1943"
   ],
-  "georss_box_s": "-60.00000 -180.00000 80.00000 180.00000",
-  "georss_polygon_s": "80.00000 -180.00000 80.00000 180.00000 -60.00000 180.00000 -60.00000 -180.00000 80.00000 -180.00000",
   "solr_geom": "ENVELOPE(-180.00000, 180.00000, 80.00000, -60.00000)",
-  "solr_year_i": "1943"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "World"
+  ]
 }

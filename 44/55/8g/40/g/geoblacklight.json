@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/44558g40g",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Metuchen",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "44558g40g",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F44%2F55%2F8g%2F40%2Fg%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "44558g40g",
-  "layer_slug_s": "princeton-44558g40g",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:05:33Z",
+  "solr_geom": "ENVELOPE(-74.747661, -74.707661, 39.472333, 39.432333)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/44/55/8g/40/g/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/44558g40g",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Metuchen, Middlesex Co., New Jersey (Sheet 4)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1903"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "44558g40g",
+  "georss_polygon_s": "39.472333 -74.747661 39.472333 -74.707661 39.432333 -74.707661 39.432333 -74.747661 39.472333 -74.747661",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1903",
   "dct_spatial_sm": [
     "New Jersey",
     "Metuchen"
   ],
-  "dct_temporal_sm": [
-    "1903"
-  ],
+  "layer_id_s": "44558g40g",
   "georss_box_s": "39.432333 -74.747661 39.472333 -74.707661",
-  "georss_polygon_s": "39.472333 -74.747661 39.472333 -74.707661 39.432333 -74.707661 39.432333 -74.747661 39.472333 -74.747661",
-  "solr_geom": "ENVELOPE(-74.747661, -74.707661, 39.472333, 39.432333)",
-  "solr_year_i": "1903"
+  "dc_title_s": "Metuchen, Middlesex Co., New Jersey (Sheet 4)",
+  "layer_slug_s": "princeton-44558g40g",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

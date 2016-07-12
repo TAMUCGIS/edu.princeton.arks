@@ -1,32 +1,32 @@
 {
+  "solr_year_i": "1814",
   "uuid": "http://arks.princeton.edu/ark:/88435/gf06g5149",
+  "dc_description_s": "Remote British Isles",
+  "georss_box_s": "60.2967942 -146.1196671 60.9367942 -145.4796671",
+  "layer_modified_dt": "2015-01-21T22:24:16Z",
   "dc_creator_sm": [
     "Hebert, L.",
     "Neele, Samuel John,",
     "Moris, William H.,"
   ],
-  "dc_description_s": "Remote British Isles",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "gf06g5149",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/gf06g5149/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fgf%2F06%2Fg5%2F14%2F9%2F00000001.jp2/info.json\"}",
   "layer_id_s": "gf06g5149",
-  "layer_slug_s": "princeton-gf06g5149",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:16Z",
-  "dc_title_s": "Remote British Isles",
   "dc_type_s": "Image",
+  "dc_identifier_s": "gf06g5149",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Remote British Isles",
+  "layer_slug_s": "princeton-gf06g5149",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/gf06g5149/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/gf/06/g5/14/9/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "60.9367942 -146.1196671 60.9367942 -145.4796671 60.2967942 -145.4796671 60.2967942 -146.1196671 60.9367942 -146.1196671",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1814"
+  ],
+  "solr_geom": "ENVELOPE(-146.1196671, -145.4796671, 60.9367942, 60.2967942)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Channel Islands",
     "Isles of Scilly (England)",
     "Shetland (Scotland)"
-  ],
-  "dct_temporal_sm": [
-    "1814"
-  ],
-  "georss_box_s": "60.2967942 -146.1196671 60.9367942 -145.4796671",
-  "georss_polygon_s": "60.9367942 -146.1196671 60.9367942 -145.4796671 60.2967942 -145.4796671 60.2967942 -146.1196671 60.9367942 -146.1196671",
-  "solr_geom": "ENVELOPE(-146.1196671, -145.4796671, 60.9367942, 60.2967942)",
-  "solr_year_i": "1814"
+  ]
 }

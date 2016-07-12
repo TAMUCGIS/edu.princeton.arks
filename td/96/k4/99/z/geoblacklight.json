@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1744",
   "uuid": "http://arks.princeton.edu/ark:/88435/td96k499z",
-  "dc_description_s": "Les Isles Britanniques, ou les royaumes d'Angleterre, d'Écosse, d'Irlande",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "td96k499z",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/td96k499z/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ftd%2F96%2Fk4%2F99%2Fz%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "td96k499z",
-  "layer_slug_s": "princeton-td96k499z",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Les Isles Britanniques, ou les royaumes d'Angleterre, d'E\u0301cosse, d'Irlande",
+  "georss_box_s": "49.674 -14.0155169 61.061 2.0919117",
   "layer_modified_dt": "2015-01-21T22:24:15Z",
-  "dc_title_s": "Les Isles Britanniques, ou les royaumes d'Angleterre, d'Écosse, d'Irlande",
+  "layer_id_s": "td96k499z",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Great Britain",
-    "Ireland"
-  ],
+  "dc_identifier_s": "td96k499z",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Les Isles Britanniques, ou les royaumes d'Angleterre, d'E\u0301cosse, d'Irlande",
+  "layer_slug_s": "princeton-td96k499z",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/td96k499z/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/td/96/k4/99/z/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "61.061 -14.0155169 61.061 2.0919117 49.674 2.0919117 49.674 -14.0155169 61.061 -14.0155169",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1744"
   ],
-  "georss_box_s": "49.674 -14.0155169 61.061 2.0919117",
-  "georss_polygon_s": "61.061 -14.0155169 61.061 2.0919117 49.674 2.0919117 49.674 -14.0155169 61.061 -14.0155169",
   "solr_geom": "ENVELOPE(-14.0155169, 2.0919117, 61.061, 49.674)",
-  "solr_year_i": "1744"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Great Britain",
+    "Ireland"
+  ]
 }

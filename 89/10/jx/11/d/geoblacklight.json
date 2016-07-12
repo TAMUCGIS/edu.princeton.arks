@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1833",
   "uuid": "http://arks.princeton.edu/ark:/88435/8910jx11d",
+  "dc_description_s": "Oporto (Porto)",
+  "georss_box_s": "40.9882464 -8.7710231 41.3082464 -8.4510231",
+  "layer_modified_dt": "2015-01-25T02:06:20Z",
   "dc_creator_sm": [
     "Henshall, J.,"
   ],
-  "dc_description_s": "Oporto (Porto)",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "8910jx11d",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/8910jx11d/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F89%2F10%2Fjx%2F11%2Fd%2F00000001.jp2/info.json\"}",
   "layer_id_s": "8910jx11d",
-  "layer_slug_s": "princeton-8910jx11d",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:20Z",
-  "dc_title_s": "Oporto (Porto)",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Porto (Portugal)"
-  ],
+  "dc_identifier_s": "8910jx11d",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Oporto (Porto)",
+  "layer_slug_s": "princeton-8910jx11d",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/8910jx11d/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/89/10/jx/11/d/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "41.3082464 -8.7710231 41.3082464 -8.4510231 40.9882464 -8.4510231 40.9882464 -8.7710231 41.3082464 -8.7710231",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1833"
   ],
-  "georss_box_s": "40.9882464 -8.7710231 41.3082464 -8.4510231",
-  "georss_polygon_s": "41.3082464 -8.7710231 41.3082464 -8.4510231 40.9882464 -8.4510231 40.9882464 -8.7710231 41.3082464 -8.7710231",
   "solr_geom": "ENVELOPE(-8.7710231, -8.4510231, 41.3082464, 40.9882464)",
-  "solr_year_i": "1833"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Porto (Portugal)"
+  ]
 }

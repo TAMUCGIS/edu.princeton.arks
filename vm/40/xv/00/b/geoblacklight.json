@@ -1,25 +1,23 @@
 {
+  "solr_year_i": "1870",
   "uuid": "http://arks.princeton.edu/ark:/88435/vm40xv00b",
   "dc_description_s": "Map of the James W. Beekman, Catherine Livingston, Breevoort & Odell, Spring Valley, Thomas Buchanan, Thomas C. Pearsall, Mount Vernon & Abraham & William Beekman estates",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "vm40xv00b",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/vm40xv00b/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fvm%2F40%2Fxv%2F00%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "vm40xv00b",
-  "layer_slug_s": "princeton-vm40xv00b",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "40.7702778 -73.9797222 40.8102778 -73.9397222",
   "layer_modified_dt": "2015-01-21T22:24:01Z",
-  "dc_title_s": "Map of the James W. Beekman, Catherine Livingston, Breevoort & Odell, Spring Valley, Thomas Buchanan, Thomas C. Pearsall, Mount Vernon & Abraham & William Beekman estates",
+  "layer_id_s": "vm40xv00b",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "vm40xv00b",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Map of the James W. Beekman, Catherine Livingston, Breevoort & Odell, Spring Valley, Thomas Buchanan, Thomas C. Pearsall, Mount Vernon & Abraham & William Beekman estates",
+  "layer_slug_s": "princeton-vm40xv00b",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/vm40xv00b/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/vm/40/xv/00/b/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.8102778 -73.9797222 40.8102778 -73.9397222 40.7702778 -73.9397222 40.7702778 -73.9797222 40.8102778 -73.9797222",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1870"
   ],
-  "georss_box_s": "40.7702778 -73.9797222 40.8102778 -73.9397222",
-  "georss_polygon_s": "40.8102778 -73.9797222 40.8102778 -73.9397222 40.7702778 -73.9397222 40.7702778 -73.9797222 40.8102778 -73.9797222",
   "solr_geom": "ENVELOPE(-73.9797222, -73.9397222, 40.8102778, 40.7702778)",
-  "solr_year_i": "1870"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

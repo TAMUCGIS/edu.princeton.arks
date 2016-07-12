@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1854",
   "uuid": "http://arks.princeton.edu/ark:/88435/j9602252h",
+  "dc_description_s": "Turkey in Europe",
+  "georss_box_s": "35.8076804 25.6212891 42.297 44.8176638",
+  "layer_modified_dt": "2015-01-21T22:23:49Z",
   "dc_creator_sm": [
     "Hall, Sidney,"
   ],
-  "dc_description_s": "Turkey in Europe",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "j9602252h",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/j9602252h/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F9%2F60%2F22%2F52%2Fh%2F00000001.jp2/info.json\"}",
   "layer_id_s": "j9602252h",
-  "layer_slug_s": "princeton-j9602252h",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:49Z",
-  "dc_title_s": "Turkey in Europe",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Turkey",
-    "Balkan Peninsula"
-  ],
+  "dc_identifier_s": "j9602252h",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Turkey in Europe",
+  "layer_slug_s": "princeton-j9602252h",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/j9602252h/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/j9/60/22/52/h/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "42.297 25.6212891 42.297 44.8176638 35.8076804 44.8176638 35.8076804 25.6212891 42.297 25.6212891",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1854"
   ],
-  "georss_box_s": "35.8076804 25.6212891 42.297 44.8176638",
-  "georss_polygon_s": "42.297 25.6212891 42.297 44.8176638 35.8076804 44.8176638 35.8076804 25.6212891 42.297 25.6212891",
   "solr_geom": "ENVELOPE(25.6212891, 44.8176638, 42.297, 35.8076804)",
-  "solr_year_i": "1854"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Turkey",
+    "Balkan Peninsula"
+  ]
 }

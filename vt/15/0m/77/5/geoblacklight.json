@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1853",
   "uuid": "http://arks.princeton.edu/ark:/88435/vt150m775",
   "dc_description_s": "Plan von Berlin",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "vt150m775",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/vt150m775/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fvt%2F15%2F0m%2F77%2F5%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "vt150m775",
-  "layer_slug_s": "princeton-vt150m775",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "52.3570365 13.2288599 52.6770365 13.5488599",
   "layer_modified_dt": "2015-01-21T22:24:26Z",
-  "dc_title_s": "Plan von Berlin",
+  "layer_id_s": "vt150m775",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Berlin (Germany)"
-  ],
+  "dc_identifier_s": "vt150m775",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Plan von Berlin",
+  "layer_slug_s": "princeton-vt150m775",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/vt150m775/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/vt/15/0m/77/5/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "52.6770365 13.2288599 52.6770365 13.5488599 52.3570365 13.5488599 52.3570365 13.2288599 52.6770365 13.2288599",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1853"
   ],
-  "georss_box_s": "52.3570365 13.2288599 52.6770365 13.5488599",
-  "georss_polygon_s": "52.6770365 13.2288599 52.6770365 13.5488599 52.3570365 13.5488599 52.3570365 13.2288599 52.6770365 13.2288599",
   "solr_geom": "ENVELOPE(13.2288599, 13.5488599, 52.6770365, 52.3570365)",
-  "solr_year_i": "1853"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Berlin (Germany)"
+  ]
 }

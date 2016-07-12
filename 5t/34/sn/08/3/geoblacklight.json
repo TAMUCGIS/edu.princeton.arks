@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1825",
   "uuid": "http://arks.princeton.edu/ark:/88435/5t34sn083",
-  "dc_creator_sm": [
-    "Brué, Adrien Hubert,"
-  ],
-  "dc_description_s": "Carte générale des États-Unis Mexicains et des Provinces-Unies de l'Amérique Centrale",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "5t34sn083",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/5t34sn083/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F5t%2F34%2Fsn%2F08%2F3%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "5t34sn083",
-  "layer_slug_s": "princeton-5t34sn083",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Carte ge\u0301ne\u0301rale des E\u0301tats-Unis Mexicains et des Provinces-Unies de l'Ame\u0301rique Centrale",
+  "georss_box_s": "-6.0 -126.0 43.0 -76.0",
   "layer_modified_dt": "2015-01-19T22:37:34Z",
-  "dc_title_s": "Carte générale des États-Unis Mexicains et des Provinces-Unies de l'Amérique Centrale",
+  "dc_creator_sm": [
+    "Brue\u0301, Adrien Hubert,"
+  ],
+  "layer_id_s": "5t34sn083",
   "dc_type_s": "Image",
+  "dc_identifier_s": "5t34sn083",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Carte ge\u0301ne\u0301rale des E\u0301tats-Unis Mexicains et des Provinces-Unies de l'Ame\u0301rique Centrale",
+  "layer_slug_s": "princeton-5t34sn083",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/5t34sn083/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/5t/34/sn/08/3/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "43.0 -126.0 43.0 -76.0 -6.0 -76.0 -6.0 -126.0 43.0 -126.0",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1825"
+  ],
+  "solr_geom": "ENVELOPE(-126.0, -76.0, 43.0, -6.0)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Central America",
     "Mexico",
     "Southwestern States"
-  ],
-  "dct_temporal_sm": [
-    "1825"
-  ],
-  "georss_box_s": "-6.0 -126.0 43.0 -76.0",
-  "georss_polygon_s": "43.0 -126.0 43.0 -76.0 -6.0 -76.0 -6.0 -126.0 43.0 -126.0",
-  "solr_geom": "ENVELOPE(-126.0, -76.0, 43.0, -6.0)",
-  "solr_year_i": "1825"
+  ]
 }

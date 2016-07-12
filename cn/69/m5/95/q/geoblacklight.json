@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1939",
   "uuid": "http://arks.princeton.edu/ark:/88435/cn69m595q",
+  "dc_description_s": "Carte geologique detaillee de la France [a 1/80 000]: Epinal.",
+  "georss_box_s": "47.99750 6.22600 48.35690 7.08830",
+  "layer_modified_dt": "2015-01-19T22:36:38Z",
   "dc_creator_sm": [
     "Grandjean, F.A."
   ],
-  "dc_description_s": "Carte geologique detaillee de la France [a 1/80 000]: Epinal.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "cn69m595q",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/cn69m595q/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fcn%2F69%2Fm5%2F95%2Fq%2F00000001.jp2/info.json\"}",
   "layer_id_s": "cn69m595q",
-  "layer_slug_s": "princeton-cn69m595q",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:36:38Z",
-  "dc_title_s": "Carte geologique detaillee de la France [a 1/80 000]: Epinal.",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "France"
-  ],
+  "dc_identifier_s": "cn69m595q",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Carte geologique detaillee de la France [a 1/80 000]: Epinal.",
+  "layer_slug_s": "princeton-cn69m595q",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/cn69m595q/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/cn/69/m5/95/q/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "48.35690 6.22600 48.35690 7.08830 47.99750 7.08830 47.99750 6.22600 48.35690 6.22600",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1939"
   ],
-  "georss_box_s": "47.99750 6.22600 48.35690 7.08830",
-  "georss_polygon_s": "48.35690 6.22600 48.35690 7.08830 47.99750 7.08830 47.99750 6.22600 48.35690 6.22600",
   "solr_geom": "ENVELOPE(6.22600, 7.08830, 48.35690, 47.99750)",
-  "solr_year_i": "1939"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "France"
+  ]
 }

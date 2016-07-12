@@ -2,7 +2,7 @@
   "dc_description_s": "This is a map of the Middle East and Southwest Asia, shown at a 1:20,000,000 scale. The map was created by the Central Intelligence Agency.",
   "layer_modified_dt": "2015-01-11T17:43:18Z",
   "solr_geom": "ENVELOPE(30, 70, 50, 20)",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F86%2F23%2Fj0%2F39%2Fh%2F00000001.jp2/info.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/8623j039h/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/8623j039h/preview.jpg\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/8623j039h/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/86/23/j0/39/h/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/8623j039h/preview.jpg\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/8623j039h",
   "dct_provenance_s": "Princeton",
@@ -10,7 +10,7 @@
     "Administrative and Political Boundaries"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "May 1986",
+  "layer_slug_s": "princeton-8623j039h",
   "dc_creator_sm": [
     "Central Intelligence Agency"
   ],
@@ -26,7 +26,7 @@
   "layer_id_s": "8623j039h",
   "georss_box_s": "20 30 50 70",
   "dc_title_s": "Southwest Asia, 1986",
-  "layer_slug_s": "princeton-8623j039h",
+  "dct_issued_s": "May 1986",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

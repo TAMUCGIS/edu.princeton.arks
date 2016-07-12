@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1906",
   "uuid": "http://arks.princeton.edu/ark:/88435/vq27zq954",
-  "dc_description_s": "Insel Föhr ; Föhr und Umgebung",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "vq27zq954",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/vq27zq954/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fvq%2F27%2Fzq%2F95%2F4%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "vq27zq954",
-  "layer_slug_s": "princeton-vq27zq954",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Insel Fo\u0308hr ; Fo\u0308hr und Umgebung",
+  "georss_box_s": "54.6791596 8.3949304 54.7554976 8.5968159",
   "layer_modified_dt": "2015-01-21T22:24:30Z",
-  "dc_title_s": "Insel Föhr ; Föhr und Umgebung",
+  "layer_id_s": "vq27zq954",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Föhr (Germany)",
-    "Schleswig-Holstein (Germany)"
-  ],
+  "dc_identifier_s": "vq27zq954",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Insel Fo\u0308hr ; Fo\u0308hr und Umgebung",
+  "layer_slug_s": "princeton-vq27zq954",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/vq27zq954/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/vq/27/zq/95/4/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "54.7554976 8.3949304 54.7554976 8.5968159 54.6791596 8.5968159 54.6791596 8.3949304 54.7554976 8.3949304",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1906"
   ],
-  "georss_box_s": "54.6791596 8.3949304 54.7554976 8.5968159",
-  "georss_polygon_s": "54.7554976 8.3949304 54.7554976 8.5968159 54.6791596 8.5968159 54.6791596 8.3949304 54.7554976 8.3949304",
   "solr_geom": "ENVELOPE(8.3949304, 8.5968159, 54.7554976, 54.6791596)",
-  "solr_year_i": "1906"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Fo\u0308hr (Germany)",
+    "Schleswig-Holstein (Germany)"
+  ]
 }

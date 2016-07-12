@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1932",
   "uuid": "http://arks.princeton.edu/ark:/88435/m900nw244",
+  "dc_description_s": "Carte geologique detaillee de la France [a 1/80 000]: Chalons.",
+  "georss_box_s": "48.77180 3.65310 49.13150 4.53000",
+  "layer_modified_dt": "2015-01-19T22:36:37Z",
   "dc_creator_sm": [
     "Jacquot, Mr."
   ],
-  "dc_description_s": "Carte geologique detaillee de la France [a 1/80 000]: Chalons.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "m900nw244",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/m900nw244/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fm9%2F00%2Fnw%2F24%2F4%2F00000001.jp2/info.json\"}",
   "layer_id_s": "m900nw244",
-  "layer_slug_s": "princeton-m900nw244",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:36:37Z",
-  "dc_title_s": "Carte geologique detaillee de la France [a 1/80 000]: Chalons.",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "France"
-  ],
+  "dc_identifier_s": "m900nw244",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Carte geologique detaillee de la France [a 1/80 000]: Chalons.",
+  "layer_slug_s": "princeton-m900nw244",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/m900nw244/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/m9/00/nw/24/4/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "49.13150 3.65310 49.13150 4.53000 48.77180 4.53000 48.77180 3.65310 49.13150 3.65310",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1932"
   ],
-  "georss_box_s": "48.77180 3.65310 49.13150 4.53000",
-  "georss_polygon_s": "49.13150 3.65310 49.13150 4.53000 48.77180 4.53000 48.77180 3.65310 49.13150 3.65310",
   "solr_geom": "ENVELOPE(3.65310, 4.53000, 49.13150, 48.77180)",
-  "solr_year_i": "1932"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "France"
+  ]
 }

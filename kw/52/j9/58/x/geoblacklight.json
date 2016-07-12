@@ -2,7 +2,7 @@
   "dc_description_s": "A scanned USGS 1:125,000 topographic map.",
   "layer_modified_dt": "2015-01-11T17:42:49Z",
   "solr_geom": "ENVELOPE(-120.00, -119.00, 38.25, 37.5)",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fkw%2F52%2Fj9%2F58%2Fx%2F00000001.jp2/info.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/kw52j958x/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/kw52j958x/preview.jpg\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/kw52j958x/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/kw/52/j9/58/x/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/kw52j958x/preview.jpg\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/kw52j958x",
   "dct_provenance_s": "Princeton",
@@ -14,7 +14,7 @@
     "Geoscientific Information"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "1910",
+  "layer_slug_s": "princeton-kw52j958x",
   "dc_creator_sm": [
     "United States Geological Survey"
   ],
@@ -30,7 +30,7 @@
   "layer_id_s": "kw52j958x",
   "georss_box_s": "37.5 -120.00 38.25 -119.00",
   "dc_title_s": "Administrative map of Yosemite National Park, California ",
-  "layer_slug_s": "princeton-kw52j958x",
+  "dct_issued_s": "1910",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

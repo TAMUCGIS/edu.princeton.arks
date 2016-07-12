@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/sn00b110z",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Belvidere",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "sn00b110z",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fsn%2F00%2Fb1%2F10%2Fz%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "sn00b110z",
-  "layer_slug_s": "princeton-sn00b110z",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:10:33Z",
+  "solr_geom": "ENVELOPE(-75.088876, -75.059128, 40.840947, 40.817783)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/sn/00/b1/10/z/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/sn00b110z",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Belvidere, N. J (Sheet 4)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1885"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "sn00b110z",
+  "georss_polygon_s": "40.840947 -75.088876 40.840947 -75.059128 40.817783 -75.059128 40.817783 -75.088876 40.840947 -75.088876",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1885",
   "dct_spatial_sm": [
     "New Jersey",
     "Belvidere"
   ],
-  "dct_temporal_sm": [
-    "1885"
-  ],
+  "layer_id_s": "sn00b110z",
   "georss_box_s": "40.817783 -75.088876 40.840947 -75.059128",
-  "georss_polygon_s": "40.840947 -75.088876 40.840947 -75.059128 40.817783 -75.059128 40.817783 -75.088876 40.840947 -75.088876",
-  "solr_geom": "ENVELOPE(-75.088876, -75.059128, 40.840947, 40.817783)",
-  "solr_year_i": "1885"
+  "dc_title_s": "Belvidere, N. J (Sheet 4)",
+  "layer_slug_s": "princeton-sn00b110z",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

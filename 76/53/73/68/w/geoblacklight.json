@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/76537368w",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Hackettstown",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "76537368w",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F76%2F53%2F73%2F68%2Fw%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "76537368w",
-  "layer_slug_s": "princeton-76537368w",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:10:37Z",
+  "solr_geom": "ENVELOPE(-74.850452, -74.801918, 40.88255, 40.828052)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/76/53/73/68/w/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/76537368w",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Hackettstown, Warren County, New Jersey (Sheet 13)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1914"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "76537368w",
+  "georss_polygon_s": "40.88255 -74.850452 40.88255 -74.801918 40.828052 -74.801918 40.828052 -74.850452 40.88255 -74.850452",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1914",
   "dct_spatial_sm": [
     "New Jersey",
     "Hackettstown"
   ],
-  "dct_temporal_sm": [
-    "1914"
-  ],
+  "layer_id_s": "76537368w",
   "georss_box_s": "40.828052 -74.850452 40.88255 -74.801918",
-  "georss_polygon_s": "40.88255 -74.850452 40.88255 -74.801918 40.828052 -74.801918 40.828052 -74.850452 40.88255 -74.850452",
-  "solr_geom": "ENVELOPE(-74.850452, -74.801918, 40.88255, 40.828052)",
-  "solr_year_i": "1914"
+  "dc_title_s": "Hackettstown, Warren County, New Jersey (Sheet 13)",
+  "layer_slug_s": "princeton-76537368w",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1971",
   "uuid": "http://arks.princeton.edu/ark:/88435/4x51hm493",
+  "dc_description_s": "The kingdome of Great Britaine and Ireland",
+  "georss_box_s": "49.674 -14.0155169 61.061 2.0919117",
+  "layer_modified_dt": "2015-01-25T02:06:15Z",
   "dc_creator_sm": [
     "Hondius, Jodocus,"
   ],
-  "dc_description_s": "The kingdome of Great Britaine and Ireland",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "4x51hm493",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/4x51hm493/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F4x%2F51%2Fhm%2F49%2F3%2F00000001.jp2/info.json\"}",
   "layer_id_s": "4x51hm493",
-  "layer_slug_s": "princeton-4x51hm493",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:15Z",
-  "dc_title_s": "The kingdome of Great Britaine and Ireland",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Great Britain",
-    "Ireland"
-  ],
+  "dc_identifier_s": "4x51hm493",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "The kingdome of Great Britaine and Ireland",
+  "layer_slug_s": "princeton-4x51hm493",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/4x51hm493/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/4x/51/hm/49/3/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "61.061 -14.0155169 61.061 2.0919117 49.674 2.0919117 49.674 -14.0155169 61.061 -14.0155169",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1971"
   ],
-  "georss_box_s": "49.674 -14.0155169 61.061 2.0919117",
-  "georss_polygon_s": "61.061 -14.0155169 61.061 2.0919117 49.674 2.0919117 49.674 -14.0155169 61.061 -14.0155169",
   "solr_geom": "ENVELOPE(-14.0155169, 2.0919117, 61.061, 49.674)",
-  "solr_year_i": "1971"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Great Britain",
+    "Ireland"
+  ]
 }

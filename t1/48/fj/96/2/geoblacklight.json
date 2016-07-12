@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1894",
   "uuid": "http://arks.princeton.edu/ark:/88435/t148fj962",
+  "dc_description_s": "Massachusetts-Vermont: Granville Quadrangle",
+  "georss_box_s": "42.50000 -72.75000 42.75000 -72.50000",
+  "layer_modified_dt": "2015-01-19T22:36:40Z",
   "dc_creator_sm": [
     "Lovell, W. H."
   ],
-  "dc_description_s": "Massachusetts-Vermont: Granville Quadrangle",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "t148fj962",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/t148fj962/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ft1%2F48%2Ffj%2F96%2F2%2F00000001.jp2/info.json\"}",
   "layer_id_s": "t148fj962",
-  "layer_slug_s": "princeton-t148fj962",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:36:40Z",
-  "dc_title_s": "Massachusetts-Vermont: Granville Quadrangle",
   "dc_type_s": "Image",
+  "dc_identifier_s": "t148fj962",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Massachusetts-Vermont: Granville Quadrangle",
+  "layer_slug_s": "princeton-t148fj962",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/t148fj962/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/t1/48/fj/96/2/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "42.75000 -72.75000 42.75000 -72.50000 42.50000 -72.50000 42.50000 -72.75000 42.75000 -72.75000",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1894"
   ],
-  "georss_box_s": "42.50000 -72.75000 42.75000 -72.50000",
-  "georss_polygon_s": "42.75000 -72.75000 42.75000 -72.50000 42.50000 -72.50000 42.50000 -72.75000 42.75000 -72.75000",
   "solr_geom": "ENVELOPE(-72.75000, -72.50000, 42.75000, 42.50000)",
-  "solr_year_i": "1894"
+  "dc_rights_s": "Public"
 }

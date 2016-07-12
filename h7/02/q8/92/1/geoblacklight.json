@@ -1,29 +1,27 @@
 {
+  "solr_year_i": "1890",
   "uuid": "http://arks.princeton.edu/ark:/88435/h702q8921",
+  "dc_description_s": "A topographical map of the vicinity of Bridgeton from Alloway, Elmer and Newfield southward to the Delaware Bay shore : from original surveys and levelings based on the triangulation of the U.S. Coast and Geodetic Survey /",
+  "georss_box_s": "39.1 -75.4333333333 39.6 -74.9833333333",
+  "layer_modified_dt": "2015-01-23T17:48:40Z",
   "dc_creator_sm": [
     "Cook, George Hammell,",
     "Vermeule, C. C."
   ],
-  "dc_description_s": "A topographical map of the vicinity of Bridgeton from Alloway, Elmer and Newfield southward to the Delaware Bay shore : from original surveys and levelings based on the triangulation of the U.S. Coast and Geodetic Survey /",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "h702q8921",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/h702q8921/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fh7%2F02%2Fq8%2F92%2F1%2F00000001.jp2/info.json\"}",
   "layer_id_s": "h702q8921",
-  "layer_slug_s": "princeton-h702q8921",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-23T17:48:40Z",
-  "dc_title_s": "A topographical map of the vicinity of Bridgeton from Alloway, Elmer and Newfield southward to the Delaware Bay shore : from original surveys and levelings based on the triangulation of the U.S. Coast and Geodetic Survey /",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "h702q8921",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "A topographical map of the vicinity of Bridgeton from Alloway, Elmer and Newfield southward to the Delaware Bay shore : from original surveys and levelings based on the triangulation of the U.S. Coast and Geodetic Survey /",
+  "layer_slug_s": "princeton-h702q8921",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/h702q8921/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/h7/02/q8/92/1/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "39.6 -75.4333333333 39.6 -74.9833333333 39.1 -74.9833333333 39.1 -75.4333333333 39.6 -75.4333333333",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1890"
   ],
-  "georss_box_s": "39.1 -75.4333333333 39.6 -74.9833333333",
-  "georss_polygon_s": "39.6 -75.4333333333 39.6 -74.9833333333 39.1 -74.9833333333 39.1 -75.4333333333 39.6 -75.4333333333",
   "solr_geom": "ENVELOPE(-75.4333333333, -74.9833333333, 39.6, 39.1)",
-  "solr_year_i": "1890"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

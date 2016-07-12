@@ -1,32 +1,32 @@
 {
+  "solr_year_i": "1572",
   "uuid": "http://arks.princeton.edu/ark:/88435/rv042w58q",
+  "dc_description_s": "Mexico, regia et celebris Hispaniae novae civitas ; Cusco, regni Peru in novo orbe caput",
+  "georss_box_s": "-13.6812349 -72.1311244 -13.3612349 -71.8111244",
+  "layer_modified_dt": "2015-01-25T02:06:18Z",
   "dc_creator_sm": [
     "Braun, Georg,",
     "Graminaeus, Theodor,",
     "Galle, Philippe,",
     "Hogenberg, Frans,"
   ],
-  "dc_description_s": "Mexico, regia et celebris Hispaniae novae civitas ; Cusco, regni Peru in novo orbe caput",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "rv042w58q",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/rv042w58q/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Frv%2F04%2F2w%2F58%2Fq%2F00000001.jp2/info.json\"}",
   "layer_id_s": "rv042w58q",
-  "layer_slug_s": "princeton-rv042w58q",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:18Z",
-  "dc_title_s": "Mexico, regia et celebris Hispaniae novae civitas ; Cusco, regni Peru in novo orbe caput",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Cuzco (Peru)",
-    "Mexico City (Mexico)"
-  ],
+  "dc_identifier_s": "rv042w58q",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Mexico, regia et celebris Hispaniae novae civitas ; Cusco, regni Peru in novo orbe caput",
+  "layer_slug_s": "princeton-rv042w58q",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/rv042w58q/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/rv/04/2w/58/q/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "-13.3612349 -72.1311244 -13.3612349 -71.8111244 -13.6812349 -71.8111244 -13.6812349 -72.1311244 -13.3612349 -72.1311244",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1572"
   ],
-  "georss_box_s": "-13.6812349 -72.1311244 -13.3612349 -71.8111244",
-  "georss_polygon_s": "-13.3612349 -72.1311244 -13.3612349 -71.8111244 -13.6812349 -71.8111244 -13.6812349 -72.1311244 -13.3612349 -72.1311244",
   "solr_geom": "ENVELOPE(-72.1311244, -71.8111244, -13.3612349, -13.6812349)",
-  "solr_year_i": "1572"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Cuzco (Peru)",
+    "Mexico City (Mexico)"
+  ]
 }

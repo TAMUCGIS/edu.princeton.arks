@@ -2,7 +2,7 @@
   "dc_description_s": "This is a map of the city of Gloucester, England, shown at a 1:10,000. The map was created for use by German War and Navy Department agencies during World War II.",
   "layer_modified_dt": "2015-01-11T17:43:38Z",
   "solr_geom": "ENVELOPE(-2.32, -2.25, 51.88, 51.87)",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F7m%2F01%2Fbn%2F43%2Fd%2F00000001.jp2/info.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/7m01bn43d/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/7m01bn43d/preview.jpg\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/7m01bn43d/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/7m/01/bn/43/d/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/7m01bn43d/preview.jpg\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/7m01bn43d",
   "dct_provenance_s": "Princeton",
@@ -17,7 +17,7 @@
     "Facilities and Structures"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "1942",
+  "layer_slug_s": "princeton-7m01bn43d",
   "dc_creator_sm": [
     "Generalstab des Heeres"
   ],
@@ -35,7 +35,7 @@
   "layer_id_s": "7m01bn43d",
   "georss_box_s": "51.87 -2.32 51.88 -2.25",
   "dc_title_s": "England 1:10 000,Gloucester, BB 27g.",
-  "layer_slug_s": "princeton-7m01bn43d",
+  "dct_issued_s": "1942",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

@@ -1,21 +1,21 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/m039k732j",
   "dc_description_s": "Nouveau plan de Paris monumental",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "m039k732j",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/m039k732j/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fm0%2F39%2Fk7%2F32%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "m039k732j",
-  "layer_slug_s": "princeton-m039k732j",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "48.8155755 2.224122 48.902156 2.4697602",
   "layer_modified_dt": "2015-01-21T22:24:01Z",
-  "dc_title_s": "Nouveau plan de Paris monumental",
+  "layer_id_s": "m039k732j",
   "dc_type_s": "Image",
+  "dc_identifier_s": "m039k732j",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Nouveau plan de Paris monumental",
+  "layer_slug_s": "princeton-m039k732j",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/m039k732j/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/m0/39/k7/32/j/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "48.902156 2.224122 48.902156 2.4697602 48.8155755 2.4697602 48.8155755 2.224122 48.902156 2.224122",
+  "layer_geom_type_s": "Image",
+  "solr_geom": "ENVELOPE(2.224122, 2.4697602, 48.902156, 48.8155755)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Paris (France)"
-  ],
-  "georss_box_s": "48.8155755 2.224122 48.902156 2.4697602",
-  "georss_polygon_s": "48.902156 2.224122 48.902156 2.4697602 48.8155755 2.4697602 48.8155755 2.224122 48.902156 2.224122",
-  "solr_geom": "ENVELOPE(2.224122, 2.4697602, 48.902156, 48.8155755)"
+  ]
 }

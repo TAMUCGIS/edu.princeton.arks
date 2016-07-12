@@ -2,7 +2,7 @@
   "dc_description_s": "This is a map of Caribbean America with relief. The map was created by the Central Intelligence Agency.",
   "layer_modified_dt": "2015-01-11T17:43:18Z",
   "solr_geom": "ENVELOPE(-104, -54, 32, 0)",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fdv%2F13%2Fzv%2F86%2F3%2F00000001.jp2/info.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/dv13zv863/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/dv13zv863/preview.jpg\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/dv13zv863/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/dv/13/zv/86/3/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/dv13zv863/preview.jpg\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/dv13zv863",
   "dct_provenance_s": "Princeton",
@@ -13,7 +13,7 @@
     "Administrative and Political Boundaries"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "July 1986",
+  "layer_slug_s": "princeton-dv13zv863",
   "dc_creator_sm": [
     "Central Intelligence Agency"
   ],
@@ -30,7 +30,7 @@
   "layer_id_s": "dv13zv863",
   "georss_box_s": "0 -104 32 -54",
   "dc_title_s": "Caribbean America, 1986 (with relief)",
-  "layer_slug_s": "princeton-dv13zv863",
+  "dct_issued_s": "July 1986",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

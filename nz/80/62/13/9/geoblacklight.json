@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1854",
   "uuid": "http://arks.princeton.edu/ark:/88435/nz8062139",
   "dc_description_s": "Brazil, Uruguay, Paraguay & Guyana",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "nz8062139",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/nz8062139/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fnz%2F80%2F62%2F13%2F9%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "nz8062139",
-  "layer_slug_s": "princeton-nz8062139",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "-35.0 -67.0 8.0 -37.0",
   "layer_modified_dt": "2015-01-19T22:37:12Z",
-  "dc_title_s": "Brazil, Uruguay, Paraguay & Guyana",
+  "layer_id_s": "nz8062139",
   "dc_type_s": "Image",
+  "dc_identifier_s": "nz8062139",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Brazil, Uruguay, Paraguay & Guyana",
+  "layer_slug_s": "princeton-nz8062139",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/nz8062139/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/nz/80/62/13/9/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "8.0 -67.0 8.0 -37.0 -35.0 -37.0 -35.0 -67.0 8.0 -67.0",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1854"
+  ],
+  "solr_geom": "ENVELOPE(-67.0, -37.0, 8.0, -35.0)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Brazil",
     "Guiana",
     "Paraguay",
     "Uruguay"
-  ],
-  "dct_temporal_sm": [
-    "1854"
-  ],
-  "georss_box_s": "-35.0 -67.0 8.0 -37.0",
-  "georss_polygon_s": "8.0 -67.0 8.0 -37.0 -35.0 -37.0 -35.0 -67.0 8.0 -67.0",
-  "solr_geom": "ENVELOPE(-67.0, -37.0, 8.0, -35.0)",
-  "solr_year_i": "1854"
+  ]
 }

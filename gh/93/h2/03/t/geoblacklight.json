@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1735",
   "uuid": "http://arks.princeton.edu/ark:/88435/gh93h203t",
+  "dc_description_s": "Nova Maris Caspii et regionis Usbeck cum provincijs adjacentibus vera delineatio /",
+  "georss_box_s": "35.0 75.0 45.0 105.0",
+  "layer_modified_dt": "2015-01-19T22:37:39Z",
   "dc_creator_sm": [
     "Homann, Johann Baptist,",
     "Ghelen, Johann Peter von,"
   ],
-  "dc_description_s": "Nova Maris Caspii et regionis Usbeck cum provincijs adjacentibus vera delineatio /",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "gh93h203t",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/gh93h203t/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fgh%2F93%2Fh2%2F03%2Ft%2F00000001.jp2/info.json\"}",
   "layer_id_s": "gh93h203t",
-  "layer_slug_s": "princeton-gh93h203t",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:39Z",
-  "dc_title_s": "Nova Maris Caspii et regionis Usbeck cum provincijs adjacentibus vera delineatio /",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Uzbekistan",
-    "Caspian Sea Region"
-  ],
+  "dc_identifier_s": "gh93h203t",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Nova Maris Caspii et regionis Usbeck cum provincijs adjacentibus vera delineatio /",
+  "layer_slug_s": "princeton-gh93h203t",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/gh93h203t/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/gh/93/h2/03/t/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "45.0 75.0 45.0 105.0 35.0 105.0 35.0 75.0 45.0 75.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1735"
   ],
-  "georss_box_s": "35.0 75.0 45.0 105.0",
-  "georss_polygon_s": "45.0 75.0 45.0 105.0 35.0 105.0 35.0 75.0 45.0 75.0",
   "solr_geom": "ENVELOPE(75.0, 105.0, 45.0, 35.0)",
-  "solr_year_i": "1735"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Uzbekistan",
+    "Caspian Sea Region"
+  ]
 }

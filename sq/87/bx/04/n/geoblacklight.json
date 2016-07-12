@@ -1,25 +1,23 @@
 {
+  "solr_year_i": "1875",
   "uuid": "http://arks.princeton.edu/ark:/88435/sq87bx04n",
   "dc_description_s": "Map of various estates bounded by the following maps already published viz. Hermitage Farm map on the north, Glass House Farm map on the west, Murray Hill Farm map on the east and James A. Stewart Farm map on the south",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "sq87bx04n",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/sq87bx04n/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fsq%2F87%2Fbx%2F04%2Fn%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "sq87bx04n",
-  "layer_slug_s": "princeton-sq87bx04n",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "40.7702778 -73.9797222 40.8102778 -73.9397222",
   "layer_modified_dt": "2015-01-21T22:24:01Z",
-  "dc_title_s": "Map of various estates bounded by the following maps already published viz. Hermitage Farm map on the north, Glass House Farm map on the west, Murray Hill Farm map on the east and James A. Stewart Farm map on the south",
+  "layer_id_s": "sq87bx04n",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "sq87bx04n",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Map of various estates bounded by the following maps already published viz. Hermitage Farm map on the north, Glass House Farm map on the west, Murray Hill Farm map on the east and James A. Stewart Farm map on the south",
+  "layer_slug_s": "princeton-sq87bx04n",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/sq87bx04n/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/sq/87/bx/04/n/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.8102778 -73.9797222 40.8102778 -73.9397222 40.7702778 -73.9397222 40.7702778 -73.9797222 40.8102778 -73.9797222",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1875"
   ],
-  "georss_box_s": "40.7702778 -73.9797222 40.8102778 -73.9397222",
-  "georss_polygon_s": "40.8102778 -73.9797222 40.8102778 -73.9397222 40.7702778 -73.9397222 40.7702778 -73.9797222 40.8102778 -73.9797222",
   "solr_geom": "ENVELOPE(-73.9797222, -73.9397222, 40.8102778, 40.7702778)",
-  "solr_year_i": "1875"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

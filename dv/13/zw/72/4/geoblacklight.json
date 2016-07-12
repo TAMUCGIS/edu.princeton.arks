@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1901",
   "uuid": "http://arks.princeton.edu/ark:/88435/dv13zw724",
   "dc_description_s": "County Louth, Province of Leinster, Ireland",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "dv13zw724",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/dv13zw724/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fdv%2F13%2Fzw%2F72%2F4%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "dv13zw724",
-  "layer_slug_s": "princeton-dv13zw724",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "53.6984916 -6.6953432 54.1139513 -6.1030107",
   "layer_modified_dt": "2015-01-21T22:24:24Z",
-  "dc_title_s": "County Louth, Province of Leinster, Ireland",
+  "layer_id_s": "dv13zw724",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Louth (Ireland : County)"
-  ],
+  "dc_identifier_s": "dv13zw724",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "County Louth, Province of Leinster, Ireland",
+  "layer_slug_s": "princeton-dv13zw724",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/dv13zw724/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/dv/13/zw/72/4/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "54.1139513 -6.6953432 54.1139513 -6.1030107 53.6984916 -6.1030107 53.6984916 -6.6953432 54.1139513 -6.6953432",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1901"
   ],
-  "georss_box_s": "53.6984916 -6.6953432 54.1139513 -6.1030107",
-  "georss_polygon_s": "54.1139513 -6.6953432 54.1139513 -6.1030107 53.6984916 -6.1030107 53.6984916 -6.6953432 54.1139513 -6.6953432",
   "solr_geom": "ENVELOPE(-6.6953432, -6.1030107, 54.1139513, 53.6984916)",
-  "solr_year_i": "1901"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Louth (Ireland : County)"
+  ]
 }

@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1868",
   "uuid": "http://arks.princeton.edu/ark:/88435/df65vb32h",
+  "dc_description_s": "Map illustrating the climate & physical geography of North East Australia to accompany the paper by Dr. A. Rattray, M.D. R.N. /",
+  "georss_box_s": "-46.18182 17.14286 37.60000 180.00000",
+  "layer_modified_dt": "2015-01-19T22:37:22Z",
   "dc_creator_sm": [
     "Rattray, Alexander.",
     "Weller, Edward,"
   ],
-  "dc_description_s": "Map illustrating the climate & physical geography of North East Australia to accompany the paper by Dr. A. Rattray, M.D. R.N. /",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "df65vb32h",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/df65vb32h/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fdf%2F65%2Fvb%2F32%2Fh%2F00000001.jp2/info.json\"}",
   "layer_id_s": "df65vb32h",
-  "layer_slug_s": "princeton-df65vb32h",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:22Z",
-  "dc_title_s": "Map illustrating the climate & physical geography of North East Australia to accompany the paper by Dr. A. Rattray, M.D. R.N. /",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Indian Ocean",
-    "Pacific Ocean"
-  ],
+  "dc_identifier_s": "df65vb32h",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Map illustrating the climate & physical geography of North East Australia to accompany the paper by Dr. A. Rattray, M.D. R.N. /",
+  "layer_slug_s": "princeton-df65vb32h",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/df65vb32h/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/df/65/vb/32/h/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "37.60000 17.14286 37.60000 180.00000 -46.18182 180.00000 -46.18182 17.14286 37.60000 17.14286",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1868"
   ],
-  "georss_box_s": "-46.18182 17.14286 37.60000 180.00000",
-  "georss_polygon_s": "37.60000 17.14286 37.60000 180.00000 -46.18182 180.00000 -46.18182 17.14286 37.60000 17.14286",
   "solr_geom": "ENVELOPE(17.14286, 180.00000, 37.60000, -46.18182)",
-  "solr_year_i": "1868"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Indian Ocean",
+    "Pacific Ocean"
+  ]
 }

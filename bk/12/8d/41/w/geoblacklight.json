@@ -1,32 +1,32 @@
 {
+  "solr_year_i": "1584",
   "uuid": "http://arks.princeton.edu/ark:/88435/bk128d41w",
+  "dc_description_s": "Peruuiae aurifer\u00e6 regionis typus",
+  "georss_box_s": "18.9110642 172.4458955 71.389888 -66.9453947",
+  "layer_modified_dt": "2015-01-25T02:06:18Z",
   "dc_creator_sm": [
-    "Méndez, Diego,",
+    "Me\u0301ndez, Diego,",
     "Chaves, Geronimo,",
     "McCabe, Robert A.,"
   ],
-  "dc_description_s": "Peruuiae auriferæ regionis typus",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "bk128d41w",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/bk128d41w/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fk%2F12%2F8d%2F41%2Fw%2F00000001.jp2/info.json\"}",
   "layer_id_s": "bk128d41w",
-  "layer_slug_s": "princeton-bk128d41w",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:18Z",
-  "dc_title_s": "Peruuiae auriferæ regionis typus",
   "dc_type_s": "Image",
+  "dc_identifier_s": "bk128d41w",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Peruuiae aurifer\u00e6 regionis typus",
+  "layer_slug_s": "princeton-bk128d41w",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/bk128d41w/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/bk/12/8d/41/w/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "71.389888 172.4458955 71.389888 -66.9453947 18.9110642 -66.9453947 18.9110642 172.4458955 71.389888 172.4458955",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1584"
+  ],
+  "solr_geom": "ENVELOPE(172.4458955, -66.9453947, 71.389888, 18.9110642)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "America",
     "Florida",
     "Huasteca Region (Mexico)"
-  ],
-  "dct_temporal_sm": [
-    "1584"
-  ],
-  "georss_box_s": "18.9110642 172.4458955 71.389888 -66.9453947",
-  "georss_polygon_s": "71.389888 172.4458955 71.389888 -66.9453947 18.9110642 -66.9453947 18.9110642 172.4458955 71.389888 172.4458955",
-  "solr_geom": "ENVELOPE(172.4458955, -66.9453947, 71.389888, 18.9110642)",
-  "solr_year_i": "1584"
+  ]
 }

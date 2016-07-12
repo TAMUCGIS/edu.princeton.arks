@@ -2,7 +2,7 @@
   "dc_description_s": "This is a set of ancillary maps that make up a profile of the country of Iraq. They contain information such as population density, oil infrastructure,distribution of ethnoreligious groups and major tribes, kurdish areas of northern Iraq and are shown at a 1:2,000,000 scale. The map was created for use by Department of Defense by the United States Central Intelligence Agency Cartography Center",
   "layer_modified_dt": "2015-01-11T17:42:54Z",
   "solr_geom": "ENVELOPE(38.800, 48.5833, 37.400, 29.05)",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F7h%2F14%2F9r%2F40%2Fb%2F00000001.jp2/info.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/7h149r40b/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/7h149r40b/preview.jpg\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/7h149r40b/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/7h/14/9r/40/b/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/7h149r40b/preview.jpg\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/7h149r40b",
   "dct_provenance_s": "Princeton",
@@ -16,7 +16,7 @@
     "Oil"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "2003 (November)",
+  "layer_slug_s": "princeton-7h149r40b",
   "dc_creator_sm": [
     "United States. Central Intelligence Agency. Cartography Center"
   ],
@@ -30,7 +30,7 @@
   "layer_id_s": "7h149r40b",
   "georss_box_s": "29.05 38.800 37.400 48.5833",
   "dc_title_s": "Iraq country profile.(November 2003)",
-  "layer_slug_s": "princeton-7h149r40b",
+  "dct_issued_s": "2003 (November)",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

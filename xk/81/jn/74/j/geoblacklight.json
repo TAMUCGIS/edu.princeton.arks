@@ -1,25 +1,23 @@
 {
+  "solr_year_i": "1860",
   "uuid": "http://arks.princeton.edu/ark:/88435/xk81jn74j",
   "dc_description_s": "Farm map of Hillsboro', Somerset Co. N.J.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "xk81jn74j",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/xk81jn74j/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fxk%2F81%2Fjn%2F74%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "xk81jn74j",
-  "layer_slug_s": "princeton-xk81jn74j",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "40.43138 -74.797841 40.5647619 -74.5721361",
   "layer_modified_dt": "2015-01-21T22:23:57Z",
-  "dc_title_s": "Farm map of Hillsboro', Somerset Co. N.J.",
+  "layer_id_s": "xk81jn74j",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "xk81jn74j",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Farm map of Hillsboro', Somerset Co. N.J.",
+  "layer_slug_s": "princeton-xk81jn74j",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/xk81jn74j/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/xk/81/jn/74/j/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.5647619 -74.797841 40.5647619 -74.5721361 40.43138 -74.5721361 40.43138 -74.797841 40.5647619 -74.797841",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1860"
   ],
-  "georss_box_s": "40.43138 -74.797841 40.5647619 -74.5721361",
-  "georss_polygon_s": "40.5647619 -74.797841 40.5647619 -74.5721361 40.43138 -74.5721361 40.43138 -74.797841 40.5647619 -74.797841",
   "solr_geom": "ENVELOPE(-74.797841, -74.5721361, 40.5647619, 40.43138)",
-  "solr_year_i": "1860"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

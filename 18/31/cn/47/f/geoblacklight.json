@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1901",
   "uuid": "http://arks.princeton.edu/ark:/88435/1831cn47f",
   "dc_description_s": "County Clare, Province of Munster, Ireland",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "1831cn47f",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/1831cn47f/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F18%2F31%2Fcn%2F47%2Ff%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "1831cn47f",
-  "layer_slug_s": "princeton-1831cn47f",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "52.5545323 -9.9386938 53.1686759 -8.2839238",
   "layer_modified_dt": "2015-01-21T22:24:24Z",
-  "dc_title_s": "County Clare, Province of Munster, Ireland",
+  "layer_id_s": "1831cn47f",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Clare (Ireland)"
-  ],
+  "dc_identifier_s": "1831cn47f",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "County Clare, Province of Munster, Ireland",
+  "layer_slug_s": "princeton-1831cn47f",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/1831cn47f/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/18/31/cn/47/f/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "53.1686759 -9.9386938 53.1686759 -8.2839238 52.5545323 -8.2839238 52.5545323 -9.9386938 53.1686759 -9.9386938",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1901"
   ],
-  "georss_box_s": "52.5545323 -9.9386938 53.1686759 -8.2839238",
-  "georss_polygon_s": "53.1686759 -9.9386938 53.1686759 -8.2839238 52.5545323 -8.2839238 52.5545323 -9.9386938 53.1686759 -9.9386938",
   "solr_geom": "ENVELOPE(-9.9386938, -8.2839238, 53.1686759, 52.5545323)",
-  "solr_year_i": "1901"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Clare (Ireland)"
+  ]
 }

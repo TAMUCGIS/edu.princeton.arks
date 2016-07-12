@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/g445cg149",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of South Orange",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "g445cg149",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fg4%2F45%2Fcg%2F14%2F9%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "g445cg149",
-  "layer_slug_s": "princeton-g445cg149",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:03:42Z",
+  "solr_geom": "ENVELOPE(-74.283427, -74.234841, 40.762314, 40.735601)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/g4/45/cg/14/9/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/g445cg149",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Insurance maps of South Orange Village, including South Orange and Millburn Townships, New Jersey (Sheet 41).",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1912"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "g445cg149",
+  "georss_polygon_s": "40.762314 -74.283427 40.762314 -74.234841 40.735601 -74.234841 40.735601 -74.283427 40.762314 -74.283427",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1912",
   "dct_spatial_sm": [
     "New Jersey",
     "South Orange"
   ],
-  "dct_temporal_sm": [
-    "1912"
-  ],
+  "layer_id_s": "g445cg149",
   "georss_box_s": "40.735601 -74.283427 40.762314 -74.234841",
-  "georss_polygon_s": "40.762314 -74.283427 40.762314 -74.234841 40.735601 -74.234841 40.735601 -74.283427 40.762314 -74.283427",
-  "solr_geom": "ENVELOPE(-74.283427, -74.234841, 40.762314, 40.735601)",
-  "solr_year_i": "1912"
+  "dc_title_s": "Insurance maps of South Orange Village, including South Orange and Millburn Townships, New Jersey (Sheet 41).",
+  "layer_slug_s": "princeton-g445cg149",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

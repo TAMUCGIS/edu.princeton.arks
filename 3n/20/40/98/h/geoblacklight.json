@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1912",
   "uuid": "http://arks.princeton.edu/ark:/88435/3n204098h",
   "dc_description_s": "The Rand-McNally new library atlas map of Turkey in Asia (Asia Minor)",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "3n204098h",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/3n204098h/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F3n%2F20%2F40%2F98%2Fh%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "3n204098h",
-  "layer_slug_s": "princeton-3n204098h",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "35.8076804 25.6212891 42.297 44.8176638",
   "layer_modified_dt": "2015-01-21T22:23:48Z",
-  "dc_title_s": "The Rand-McNally new library atlas map of Turkey in Asia (Asia Minor)",
+  "layer_id_s": "3n204098h",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Turkey",
-    "Middle East"
-  ],
+  "dc_identifier_s": "3n204098h",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "The Rand-McNally new library atlas map of Turkey in Asia (Asia Minor)",
+  "layer_slug_s": "princeton-3n204098h",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/3n204098h/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/3n/20/40/98/h/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "42.297 25.6212891 42.297 44.8176638 35.8076804 44.8176638 35.8076804 25.6212891 42.297 25.6212891",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1912"
   ],
-  "georss_box_s": "35.8076804 25.6212891 42.297 44.8176638",
-  "georss_polygon_s": "42.297 25.6212891 42.297 44.8176638 35.8076804 44.8176638 35.8076804 25.6212891 42.297 25.6212891",
   "solr_geom": "ENVELOPE(25.6212891, 44.8176638, 42.297, 35.8076804)",
-  "solr_year_i": "1912"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Turkey",
+    "Middle East"
+  ]
 }

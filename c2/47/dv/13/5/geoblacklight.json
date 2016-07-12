@@ -1,31 +1,31 @@
 {
+  "solr_year_i": "1719",
   "uuid": "http://arks.princeton.edu/ark:/88435/c247dv135",
+  "dc_description_s": "Carte tres curieuse de la Mer du Sud, contenant des remarques nouvelles et tres utiles non seulement sur les ports et iles de cette mer : mais aussy sur les principaux pays de l'Amerique tant Septentrionale que Meridionale, avec les noms & la route des voyageurs par qui la decouverte en a e\u0301te\u0301 faite : le tout pour l'intelligence des dissertations suivantes",
+  "georss_box_s": "9.9999501 -25.0000501 10.0000501 -24.9999501",
+  "layer_modified_dt": "2015-01-21T22:23:53Z",
   "dc_creator_sm": [
     "Chatelain, Henri Abraham."
   ],
-  "dc_description_s": "Carte tres curieuse de la Mer du Sud, contenant des remarques nouvelles et tres utiles non seulement sur les ports et iles de cette mer : mais aussy sur les principaux pays de l'Amerique tant Septentrionale que Meridionale, avec les noms & la route des voyageurs par qui la decouverte en a été faite : le tout pour l'intelligence des dissertations suivantes",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "c247dv135",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/c247dv135/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fc2%2F47%2Fdv%2F13%2F5%2F00000001.jp2/info.json\"}",
   "layer_id_s": "c247dv135",
-  "layer_slug_s": "princeton-c247dv135",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:53Z",
-  "dc_title_s": "Carte tres curieuse de la Mer du Sud, contenant des remarques nouvelles et tres utiles non seulement sur les ports et iles de cette mer : mais aussy sur les principaux pays de l'Amerique tant Septentrionale que Meridionale, avec les noms & la route des voyageurs par qui la decouverte en a été faite : le tout pour l'intelligence des dissertations suivantes",
   "dc_type_s": "Image",
+  "dc_identifier_s": "c247dv135",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Carte tres curieuse de la Mer du Sud, contenant des remarques nouvelles et tres utiles non seulement sur les ports et iles de cette mer : mais aussy sur les principaux pays de l'Amerique tant Septentrionale que Meridionale, avec les noms & la route des voyageurs par qui la decouverte en a e\u0301te\u0301 faite : le tout pour l'intelligence des dissertations suivantes",
+  "layer_slug_s": "princeton-c247dv135",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/c247dv135/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/c2/47/dv/13/5/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "10.0000501 -25.0000501 10.0000501 -24.9999501 9.9999501 -24.9999501 9.9999501 -25.0000501 10.0000501 -25.0000501",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1719"
+  ],
+  "solr_geom": "ENVELOPE(-25.0000501, -24.9999501, 10.0000501, 9.9999501)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Atlantic Ocean",
     "North America",
     "Pacific Ocean",
     "South America"
-  ],
-  "dct_temporal_sm": [
-    "1719"
-  ],
-  "georss_box_s": "9.9999501 -25.0000501 10.0000501 -24.9999501",
-  "georss_polygon_s": "10.0000501 -25.0000501 10.0000501 -24.9999501 9.9999501 -24.9999501 9.9999501 -25.0000501 10.0000501 -25.0000501",
-  "solr_geom": "ENVELOPE(-25.0000501, -24.9999501, 10.0000501, 9.9999501)",
-  "solr_year_i": "1719"
+  ]
 }

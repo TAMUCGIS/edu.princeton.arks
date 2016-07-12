@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1908",
   "uuid": "http://arks.princeton.edu/ark:/88435/m900nw93s",
-  "dc_description_s": "Map of Yün-nan",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "m900nw93s",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/m900nw93s/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fm9%2F00%2Fnw%2F93%2Fs%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "m900nw93s",
-  "layer_slug_s": "princeton-m900nw93s",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Map of Yu\u0308n-nan",
+  "georss_box_s": "20.9166666667 98.0833333333 30.25 105.8",
   "layer_modified_dt": "2015-01-19T22:37:33Z",
-  "dc_title_s": "Map of Yün-nan",
+  "layer_id_s": "m900nw93s",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Yunnan Sheng (China)"
-  ],
+  "dc_identifier_s": "m900nw93s",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Map of Yu\u0308n-nan",
+  "layer_slug_s": "princeton-m900nw93s",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/m900nw93s/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/m9/00/nw/93/s/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "30.25 98.0833333333 30.25 105.8 20.9166666667 105.8 20.9166666667 98.0833333333 30.25 98.0833333333",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1908"
   ],
-  "georss_box_s": "20.9166666667 98.0833333333 30.25 105.8",
-  "georss_polygon_s": "30.25 98.0833333333 30.25 105.8 20.9166666667 105.8 20.9166666667 98.0833333333 30.25 98.0833333333",
   "solr_geom": "ENVELOPE(98.0833333333, 105.8, 30.25, 20.9166666667)",
-  "solr_year_i": "1908"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Yunnan Sheng (China)"
+  ]
 }

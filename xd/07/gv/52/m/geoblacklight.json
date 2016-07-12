@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1857",
   "uuid": "http://arks.princeton.edu/ark:/88435/xd07gv52m",
   "dc_description_s": "L'America settentrionale e meridionale : nuovamente corretta ed accresciuta",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "xd07gv52m",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/xd07gv52m/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fxd%2F07%2Fgv%2F52%2Fm%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "xd07gv52m",
-  "layer_slug_s": "princeton-xd07gv52m",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "18.9110642 172.4458955 71.389888 -66.9453947",
   "layer_modified_dt": "2015-01-21T22:23:44Z",
-  "dc_title_s": "L'America settentrionale e meridionale : nuovamente corretta ed accresciuta",
+  "layer_id_s": "xd07gv52m",
   "dc_type_s": "Image",
+  "dc_identifier_s": "xd07gv52m",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "L'America settentrionale e meridionale : nuovamente corretta ed accresciuta",
+  "layer_slug_s": "princeton-xd07gv52m",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/xd07gv52m/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/xd/07/gv/52/m/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "71.389888 172.4458955 71.389888 -66.9453947 18.9110642 -66.9453947 18.9110642 172.4458955 71.389888 172.4458955",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1857"
+  ],
+  "solr_geom": "ENVELOPE(172.4458955, -66.9453947, 71.389888, 18.9110642)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "America",
     "Martinique",
     "Dominican Republic",
     "Haiti"
-  ],
-  "dct_temporal_sm": [
-    "1857"
-  ],
-  "georss_box_s": "18.9110642 172.4458955 71.389888 -66.9453947",
-  "georss_polygon_s": "71.389888 172.4458955 71.389888 -66.9453947 18.9110642 -66.9453947 18.9110642 172.4458955 71.389888 172.4458955",
-  "solr_geom": "ENVELOPE(172.4458955, -66.9453947, 71.389888, 18.9110642)",
-  "solr_year_i": "1857"
+  ]
 }

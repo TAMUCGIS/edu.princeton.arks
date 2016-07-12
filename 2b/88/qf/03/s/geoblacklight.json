@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1753",
   "uuid": "http://arks.princeton.edu/ark:/88435/2b88qf03s",
+  "dc_description_s": "Carte re\u0301duite des costes occidentales d'Afrique : premiere feuille contenant les costes de Barbarie depuis le Detroit de Gibraltar jusqu'au Cap Bojador et les Isles Canaries",
+  "georss_box_s": "4.1821 -17.688 25.000012 15.999034",
+  "layer_modified_dt": "2015-01-21T22:23:46Z",
   "dc_creator_sm": [
     "Willsie, Bruce C.,"
   ],
-  "dc_description_s": "Carte réduite des costes occidentales d'Afrique : premiere feuille contenant les costes de Barbarie depuis le Detroit de Gibraltar jusqu'au Cap Bojador et les Isles Canaries",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "2b88qf03s",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/2b88qf03s/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F2b%2F88%2Fqf%2F03%2Fs%2F00000001.jp2/info.json\"}",
   "layer_id_s": "2b88qf03s",
-  "layer_slug_s": "princeton-2b88qf03s",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:46Z",
-  "dc_title_s": "Carte réduite des costes occidentales d'Afrique : premiere feuille contenant les costes de Barbarie depuis le Detroit de Gibraltar jusqu'au Cap Bojador et les Isles Canaries",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Africa, West",
-    "Canary Islands"
-  ],
+  "dc_identifier_s": "2b88qf03s",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Carte re\u0301duite des costes occidentales d'Afrique : premiere feuille contenant les costes de Barbarie depuis le Detroit de Gibraltar jusqu'au Cap Bojador et les Isles Canaries",
+  "layer_slug_s": "princeton-2b88qf03s",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/2b88qf03s/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/2b/88/qf/03/s/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "25.000012 -17.688 25.000012 15.999034 4.1821 15.999034 4.1821 -17.688 25.000012 -17.688",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1753"
   ],
-  "georss_box_s": "4.1821 -17.688 25.000012 15.999034",
-  "georss_polygon_s": "25.000012 -17.688 25.000012 15.999034 4.1821 15.999034 4.1821 -17.688 25.000012 -17.688",
   "solr_geom": "ENVELOPE(-17.688, 15.999034, 25.000012, 4.1821)",
-  "solr_year_i": "1753"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Africa, West",
+    "Canary Islands"
+  ]
 }

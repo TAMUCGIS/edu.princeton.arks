@@ -1,27 +1,27 @@
 {
+  "solr_year_i": "1906",
   "uuid": "http://arks.princeton.edu/ark:/88435/b8515q882",
   "dc_description_s": "Uebersichts-Karte der Insel Sylt",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "b8515q882",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/b8515q882/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F8%2F51%2F5q%2F88%2F2%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "b8515q882",
-  "layer_slug_s": "princeton-b8515q882",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "54.7418629 8.2788526 55.0583511 8.489955",
   "layer_modified_dt": "2015-01-25T02:06:17Z",
-  "dc_title_s": "Uebersichts-Karte der Insel Sylt",
+  "layer_id_s": "b8515q882",
   "dc_type_s": "Image",
+  "dc_identifier_s": "b8515q882",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Uebersichts-Karte der Insel Sylt",
+  "layer_slug_s": "princeton-b8515q882",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/b8515q882/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/b8/51/5q/88/2/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "55.0583511 8.2788526 55.0583511 8.489955 54.7418629 8.489955 54.7418629 8.2788526 55.0583511 8.2788526",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1906"
+  ],
+  "solr_geom": "ENVELOPE(8.2788526, 8.489955, 55.0583511, 54.7418629)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Sylt (Germany)",
     "Schleswig-Holstein (Germany)",
     "Westerland (Germany)"
-  ],
-  "dct_temporal_sm": [
-    "1906"
-  ],
-  "georss_box_s": "54.7418629 8.2788526 55.0583511 8.489955",
-  "georss_polygon_s": "55.0583511 8.2788526 55.0583511 8.489955 54.7418629 8.489955 54.7418629 8.2788526 55.0583511 8.2788526",
-  "solr_geom": "ENVELOPE(8.2788526, 8.489955, 55.0583511, 54.7418629)",
-  "solr_year_i": "1906"
+  ]
 }

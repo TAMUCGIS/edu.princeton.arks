@@ -1,32 +1,32 @@
 {
+  "solr_year_i": "1730",
   "uuid": "http://arks.princeton.edu/ark:/88435/m039k7401",
+  "dc_description_s": "A new & exact map of the electorate of Brunswick-Lunenburg and ye rest of ye Kings dominions in Germany",
+  "georss_box_s": "52.1867942 10.4124522 52.3573831 10.6449081",
+  "layer_modified_dt": "2015-01-21T22:24:20Z",
   "dc_creator_sm": [
     "Overton, Philip,",
     "Ripking, Berendt R.",
     "George"
   ],
-  "dc_description_s": "A new & exact map of the electorate of Brunswick-Lunenburg and ye rest of ye Kings dominions in Germany",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "m039k7401",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/m039k7401/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fm0%2F39%2Fk7%2F40%2F1%2F00000001.jp2/info.json\"}",
   "layer_id_s": "m039k7401",
-  "layer_slug_s": "princeton-m039k7401",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:20Z",
-  "dc_title_s": "A new & exact map of the electorate of Brunswick-Lunenburg and ye rest of ye Kings dominions in Germany",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Braunschweig (Germany : State)",
-    "Lower Saxony (Germany)",
-    "Lüneburg (Principality)"
-  ],
+  "dc_identifier_s": "m039k7401",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "A new & exact map of the electorate of Brunswick-Lunenburg and ye rest of ye Kings dominions in Germany",
+  "layer_slug_s": "princeton-m039k7401",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/m039k7401/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/m0/39/k7/40/1/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "52.3573831 10.4124522 52.3573831 10.6449081 52.1867942 10.6449081 52.1867942 10.4124522 52.3573831 10.4124522",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1730"
   ],
-  "georss_box_s": "52.1867942 10.4124522 52.3573831 10.6449081",
-  "georss_polygon_s": "52.3573831 10.4124522 52.3573831 10.6449081 52.1867942 10.6449081 52.1867942 10.4124522 52.3573831 10.4124522",
   "solr_geom": "ENVELOPE(10.4124522, 10.6449081, 52.3573831, 52.1867942)",
-  "solr_year_i": "1730"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Braunschweig (Germany : State)",
+    "Lower Saxony (Germany)",
+    "Lu\u0308neburg (Principality)"
+  ]
 }

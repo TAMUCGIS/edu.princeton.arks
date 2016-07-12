@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1898",
   "uuid": "http://arks.princeton.edu/ark:/88435/8g84mp79r",
+  "dc_description_s": "Meiningen",
+  "georss_box_s": "50.5348359 10.3031546 50.617661 10.4685784",
+  "layer_modified_dt": "2015-01-21T22:24:27Z",
   "dc_creator_sm": [
     "Woerl, Leo,"
   ],
-  "dc_description_s": "Meiningen",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "8g84mp79r",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/8g84mp79r/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F8g%2F84%2Fmp%2F79%2Fr%2F00000001.jp2/info.json\"}",
   "layer_id_s": "8g84mp79r",
-  "layer_slug_s": "princeton-8g84mp79r",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:27Z",
-  "dc_title_s": "Meiningen",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Meiningen (Germany)",
-    "Thuringia (Germany)"
-  ],
+  "dc_identifier_s": "8g84mp79r",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Meiningen",
+  "layer_slug_s": "princeton-8g84mp79r",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/8g84mp79r/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/8g/84/mp/79/r/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "50.617661 10.3031546 50.617661 10.4685784 50.5348359 10.4685784 50.5348359 10.3031546 50.617661 10.3031546",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1898"
   ],
-  "georss_box_s": "50.5348359 10.3031546 50.617661 10.4685784",
-  "georss_polygon_s": "50.617661 10.3031546 50.617661 10.4685784 50.5348359 10.4685784 50.5348359 10.3031546 50.617661 10.3031546",
   "solr_geom": "ENVELOPE(10.3031546, 10.4685784, 50.617661, 50.5348359)",
-  "solr_year_i": "1898"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Meiningen (Germany)",
+    "Thuringia (Germany)"
+  ]
 }

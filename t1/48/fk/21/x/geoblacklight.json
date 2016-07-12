@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/t148fk21x",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Kearny",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "t148fk21x",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ft1%2F48%2Ffk%2F21%2Fx%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "t148fk21x",
-  "layer_slug_s": "princeton-t148fk21x",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:05:01Z",
+  "solr_geom": "ENVELOPE(-74.164799, -74.075933, 40.786491, 40.710381)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/t1/48/fk/21/x/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/t148fk21x",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Kearny (Sheet 66)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1907"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "t148fk21x",
+  "georss_polygon_s": "40.786491 -74.164799 40.786491 -74.075933 40.710381 -74.075933 40.710381 -74.164799 40.786491 -74.164799",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1907",
   "dct_spatial_sm": [
     "New Jersey",
     "Kearny"
   ],
-  "dct_temporal_sm": [
-    "1907"
-  ],
+  "layer_id_s": "t148fk21x",
   "georss_box_s": "40.710381 -74.164799 40.786491 -74.075933",
-  "georss_polygon_s": "40.786491 -74.164799 40.786491 -74.075933 40.710381 -74.075933 40.710381 -74.164799 40.786491 -74.164799",
-  "solr_geom": "ENVELOPE(-74.164799, -74.075933, 40.786491, 40.710381)",
-  "solr_year_i": "1907"
+  "dc_title_s": "Kearny (Sheet 66)",
+  "layer_slug_s": "princeton-t148fk21x",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

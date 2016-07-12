@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/bz60cz154",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Beverly",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "bz60cz154",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fz%2F60%2Fcz%2F15%2F4%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "bz60cz154",
-  "layer_slug_s": "princeton-bz60cz154",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:01:56Z",
+  "solr_geom": "ENVELOPE(-74.931521, -74.911479, 40.069028, 40.057224)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/bz/60/cz/15/4/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/bz60cz154",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Beverly, Burlington County, New Jersey (Sheet 9): including Edgewater Park and Perkins",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1921"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "bz60cz154",
+  "georss_polygon_s": "40.069028 -74.931521 40.069028 -74.911479 40.057224 -74.911479 40.057224 -74.931521 40.069028 -74.931521",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1921",
   "dct_spatial_sm": [
     "New Jersey",
     "Beverly"
   ],
-  "dct_temporal_sm": [
-    "1921"
-  ],
+  "layer_id_s": "bz60cz154",
   "georss_box_s": "40.057224 -74.931521 40.069028 -74.911479",
-  "georss_polygon_s": "40.069028 -74.931521 40.069028 -74.911479 40.057224 -74.911479 40.057224 -74.931521 40.069028 -74.931521",
-  "solr_geom": "ENVELOPE(-74.931521, -74.911479, 40.069028, 40.057224)",
-  "solr_year_i": "1921"
+  "dc_title_s": "Beverly, Burlington County, New Jersey (Sheet 9): including Edgewater Park and Perkins",
+  "layer_slug_s": "princeton-bz60cz154",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

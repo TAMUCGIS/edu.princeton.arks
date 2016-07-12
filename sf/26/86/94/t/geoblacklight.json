@@ -1,33 +1,33 @@
 {
+  "solr_year_i": "1904",
   "uuid": "http://arks.princeton.edu/ark:/88435/sf268694t",
+  "dc_description_s": "Candia to Alexandretta",
+  "georss_box_s": "35.8076804 29.0876878 38.5861136 37.7518928",
+  "layer_modified_dt": "2015-01-21T22:23:46Z",
   "dc_creator_sm": [
     "Wharton, W. J. L.",
     "Weller, Edward,",
     "Dodge, Bayard,"
   ],
-  "dc_description_s": "Candia to Alexandretta",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "sf268694t",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/sf268694t/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fsf%2F26%2F86%2F94%2Ft%2F00000001.jp2/info.json\"}",
   "layer_id_s": "sf268694t",
-  "layer_slug_s": "princeton-sf268694t",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:46Z",
-  "dc_title_s": "Candia to Alexandretta",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Mediterranean Region",
-    "Crete (Greece)",
-    "İskenderun (Turkey)",
-    "Turkey"
-  ],
+  "dc_identifier_s": "sf268694t",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Candia to Alexandretta",
+  "layer_slug_s": "princeton-sf268694t",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/sf268694t/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/sf/26/86/94/t/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "38.5861136 29.0876878 38.5861136 37.7518928 35.8076804 37.7518928 35.8076804 29.0876878 38.5861136 29.0876878",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1904"
   ],
-  "georss_box_s": "35.8076804 29.0876878 38.5861136 37.7518928",
-  "georss_polygon_s": "38.5861136 29.0876878 38.5861136 37.7518928 35.8076804 37.7518928 35.8076804 29.0876878 38.5861136 29.0876878",
   "solr_geom": "ENVELOPE(29.0876878, 37.7518928, 38.5861136, 35.8076804)",
-  "solr_year_i": "1904"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Mediterranean Region",
+    "Crete (Greece)",
+    "I\u0307skenderun (Turkey)",
+    "Turkey"
+  ]
 }

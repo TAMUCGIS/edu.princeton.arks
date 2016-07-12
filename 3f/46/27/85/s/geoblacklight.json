@@ -1,25 +1,23 @@
 {
+  "solr_year_i": "1869",
   "uuid": "http://arks.princeton.edu/ark:/88435/3f462785s",
   "dc_description_s": "Map of Bayard's East Farm : accurately made from old maps, not in the Register's Office, from conveyances on record from Nicholas Bayard, sheriff's sales, lottery lots, &c., &c., New York, September 1869",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "3f462785s",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/3f462785s/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F3f%2F46%2F27%2F85%2Fs%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "3f462785s",
-  "layer_slug_s": "princeton-3f462785s",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "40.7702778 -73.9797222 40.8102778 -73.9397222",
   "layer_modified_dt": "2015-01-21T22:24:00Z",
-  "dc_title_s": "Map of Bayard's East Farm : accurately made from old maps, not in the Register's Office, from conveyances on record from Nicholas Bayard, sheriff's sales, lottery lots, &c., &c., New York, September 1869",
+  "layer_id_s": "3f462785s",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "3f462785s",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Map of Bayard's East Farm : accurately made from old maps, not in the Register's Office, from conveyances on record from Nicholas Bayard, sheriff's sales, lottery lots, &c., &c., New York, September 1869",
+  "layer_slug_s": "princeton-3f462785s",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/3f462785s/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/3f/46/27/85/s/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.8102778 -73.9797222 40.8102778 -73.9397222 40.7702778 -73.9397222 40.7702778 -73.9797222 40.8102778 -73.9797222",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1869"
   ],
-  "georss_box_s": "40.7702778 -73.9797222 40.8102778 -73.9397222",
-  "georss_polygon_s": "40.8102778 -73.9797222 40.8102778 -73.9397222 40.7702778 -73.9397222 40.7702778 -73.9797222 40.8102778 -73.9797222",
   "solr_geom": "ENVELOPE(-73.9797222, -73.9397222, 40.8102778, 40.7702778)",
-  "solr_year_i": "1869"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

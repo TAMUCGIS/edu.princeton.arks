@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1540",
   "uuid": "http://arks.princeton.edu/ark:/88435/5425kc52c",
+  "dc_description_s": "Aphricae tabula III",
+  "georss_box_s": "3.4889804 -17.4573 37.5359 38.6938",
+  "layer_modified_dt": "2015-01-21T22:23:44Z",
   "dc_creator_sm": [
     "Ptolemy,"
   ],
-  "dc_description_s": "Aphricae tabula III",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "5425kc52c",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/5425kc52c/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F54%2F25%2Fkc%2F52%2Fc%2F00000001.jp2/info.json\"}",
   "layer_id_s": "5425kc52c",
-  "layer_slug_s": "princeton-5425kc52c",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:44Z",
-  "dc_title_s": "Aphricae tabula III",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Africa, North"
-  ],
+  "dc_identifier_s": "5425kc52c",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Aphricae tabula III",
+  "layer_slug_s": "princeton-5425kc52c",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/5425kc52c/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/54/25/kc/52/c/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "37.5359 -17.4573 37.5359 38.6938 3.4889804 38.6938 3.4889804 -17.4573 37.5359 -17.4573",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1540"
   ],
-  "georss_box_s": "3.4889804 -17.4573 37.5359 38.6938",
-  "georss_polygon_s": "37.5359 -17.4573 37.5359 38.6938 3.4889804 38.6938 3.4889804 -17.4573 37.5359 -17.4573",
   "solr_geom": "ENVELOPE(-17.4573, 38.6938, 37.5359, 3.4889804)",
-  "solr_year_i": "1540"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Africa, North"
+  ]
 }

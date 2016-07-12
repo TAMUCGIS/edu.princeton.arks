@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1868",
   "uuid": "http://arks.princeton.edu/ark:/88435/br86b5374",
+  "dc_description_s": "Geological map of New Jersey /",
+  "georss_box_s": "38.91666 -75.55000 41.36667 -73.86667",
+  "layer_modified_dt": "2015-01-19T22:36:33Z",
   "dc_creator_sm": [
     "Smock, John C.",
     "Hopkins, Griffith Morgan,"
   ],
-  "dc_description_s": "Geological map of New Jersey /",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "br86b5374",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/br86b5374/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fr%2F86%2Fb5%2F37%2F4%2F00000001.jp2/info.json\"}",
   "layer_id_s": "br86b5374",
-  "layer_slug_s": "princeton-br86b5374",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:36:33Z",
-  "dc_title_s": "Geological map of New Jersey /",
   "dc_type_s": "Image",
+  "dc_identifier_s": "br86b5374",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Geological map of New Jersey /",
+  "layer_slug_s": "princeton-br86b5374",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/br86b5374/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/br/86/b5/37/4/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "41.36667 -75.55000 41.36667 -73.86667 38.91666 -73.86667 38.91666 -75.55000 41.36667 -75.55000",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1868"
   ],
-  "georss_box_s": "38.91666 -75.55000 41.36667 -73.86667",
-  "georss_polygon_s": "41.36667 -75.55000 41.36667 -73.86667 38.91666 -73.86667 38.91666 -75.55000 41.36667 -75.55000",
   "solr_geom": "ENVELOPE(-75.55000, -73.86667, 41.36667, 38.91666)",
-  "solr_year_i": "1868"
+  "dc_rights_s": "Public"
 }

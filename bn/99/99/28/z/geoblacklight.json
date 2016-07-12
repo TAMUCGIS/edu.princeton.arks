@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1894",
   "uuid": "http://arks.princeton.edu/ark:/88435/bn999928z",
   "dc_description_s": "Plan of Dresden",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "bn999928z",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/bn999928z/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fn%2F99%2F99%2F28%2Fz%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "bn999928z",
-  "layer_slug_s": "princeton-bn999928z",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "50.974937 13.5793237 51.1777202 13.9660626",
   "layer_modified_dt": "2015-01-21T22:24:30Z",
-  "dc_title_s": "Plan of Dresden",
+  "layer_id_s": "bn999928z",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Dresden (Germany)",
-    "Saxony (Germany)"
-  ],
+  "dc_identifier_s": "bn999928z",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Plan of Dresden",
+  "layer_slug_s": "princeton-bn999928z",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/bn999928z/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/bn/99/99/28/z/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "51.1777202 13.5793237 51.1777202 13.9660626 50.974937 13.9660626 50.974937 13.5793237 51.1777202 13.5793237",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1894"
   ],
-  "georss_box_s": "50.974937 13.5793237 51.1777202 13.9660626",
-  "georss_polygon_s": "51.1777202 13.5793237 51.1777202 13.9660626 50.974937 13.9660626 50.974937 13.5793237 51.1777202 13.5793237",
   "solr_geom": "ENVELOPE(13.5793237, 13.9660626, 51.1777202, 50.974937)",
-  "solr_year_i": "1894"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Dresden (Germany)",
+    "Saxony (Germany)"
+  ]
 }

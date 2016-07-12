@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1891",
   "uuid": "http://arks.princeton.edu/ark:/88435/g732dc467",
   "dc_description_s": "Rand, McNally & Co.'s indexed atlas of the world map of Europe",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "g732dc467",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/g732dc467/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fg7%2F32%2Fdc%2F46%2F7%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "g732dc467",
-  "layer_slug_s": "princeton-g732dc467",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "35.0 -25.0 75.0 65.0",
   "layer_modified_dt": "2015-01-19T22:37:23Z",
-  "dc_title_s": "Rand, McNally & Co.'s indexed atlas of the world map of Europe",
+  "layer_id_s": "g732dc467",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Europe"
-  ],
+  "dc_identifier_s": "g732dc467",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Rand, McNally & Co.'s indexed atlas of the world map of Europe",
+  "layer_slug_s": "princeton-g732dc467",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/g732dc467/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/g7/32/dc/46/7/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "75.0 -25.0 75.0 65.0 35.0 65.0 35.0 -25.0 75.0 -25.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1891"
   ],
-  "georss_box_s": "35.0 -25.0 75.0 65.0",
-  "georss_polygon_s": "75.0 -25.0 75.0 65.0 35.0 65.0 35.0 -25.0 75.0 -25.0",
   "solr_geom": "ENVELOPE(-25.0, 65.0, 75.0, 35.0)",
-  "solr_year_i": "1891"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Europe"
+  ]
 }

@@ -1,29 +1,27 @@
 {
+  "solr_year_i": "1874",
   "uuid": "http://arks.princeton.edu/ark:/88435/736666936",
+  "dc_description_s": "Topographical atlas of the City of New York including the annexed territory, showing original water courses and made land",
+  "georss_box_s": "40.7 -74.0166666667 40.8666666667 -73.9",
+  "layer_modified_dt": "2015-01-23T17:48:35Z",
   "dc_creator_sm": [
     "Bien, Julius,",
     "Quackenbush, Eugene,"
   ],
-  "dc_description_s": "Topographical atlas of the City of New York including the annexed territory, showing original water courses and made land",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "736666936",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/736666936/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F73%2F66%2F66%2F93%2F6%2F00000001.jp2/info.json\"}",
   "layer_id_s": "736666936",
-  "layer_slug_s": "princeton-736666936",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-23T17:48:35Z",
-  "dc_title_s": "Topographical atlas of the City of New York including the annexed territory, showing original water courses and made land",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "736666936",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Topographical atlas of the City of New York including the annexed territory, showing original water courses and made land",
+  "layer_slug_s": "princeton-736666936",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/736666936/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/73/66/66/93/6/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.8666666667 -74.0166666667 40.8666666667 -73.9 40.7 -73.9 40.7 -74.0166666667 40.8666666667 -74.0166666667",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1874"
   ],
-  "georss_box_s": "40.7 -74.0166666667 40.8666666667 -73.9",
-  "georss_polygon_s": "40.8666666667 -74.0166666667 40.8666666667 -73.9 40.7 -73.9 40.7 -74.0166666667 40.8666666667 -74.0166666667",
   "solr_geom": "ENVELOPE(-74.0166666667, -73.9, 40.8666666667, 40.7)",
-  "solr_year_i": "1874"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

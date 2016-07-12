@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1897",
   "uuid": "http://arks.princeton.edu/ark:/88435/c247dv61f",
   "dc_description_s": "Kiessling's Taschen-Plan von Berlin",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "c247dv61f",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/c247dv61f/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fc2%2F47%2Fdv%2F61%2Ff%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "c247dv61f",
-  "layer_slug_s": "princeton-c247dv61f",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "52.3570365 13.2288599 52.6770365 13.5488599",
   "layer_modified_dt": "2015-01-21T22:24:27Z",
-  "dc_title_s": "Kiessling's Taschen-Plan von Berlin",
+  "layer_id_s": "c247dv61f",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Berlin (Germany)"
-  ],
+  "dc_identifier_s": "c247dv61f",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Kiessling's Taschen-Plan von Berlin",
+  "layer_slug_s": "princeton-c247dv61f",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/c247dv61f/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/c2/47/dv/61/f/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "52.6770365 13.2288599 52.6770365 13.5488599 52.3570365 13.5488599 52.3570365 13.2288599 52.6770365 13.2288599",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1897"
   ],
-  "georss_box_s": "52.3570365 13.2288599 52.6770365 13.5488599",
-  "georss_polygon_s": "52.6770365 13.2288599 52.6770365 13.5488599 52.3570365 13.5488599 52.3570365 13.2288599 52.6770365 13.2288599",
   "solr_geom": "ENVELOPE(13.2288599, 13.5488599, 52.6770365, 52.3570365)",
-  "solr_year_i": "1897"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Berlin (Germany)"
+  ]
 }

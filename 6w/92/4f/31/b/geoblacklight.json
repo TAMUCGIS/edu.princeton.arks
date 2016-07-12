@@ -1,31 +1,31 @@
 {
+  "solr_year_i": "1642",
   "uuid": "http://arks.princeton.edu/ark:/88435/6w924f31b",
+  "dc_description_s": "Novam hanc Territorii Francofurtensis tabulam",
+  "georss_box_s": "49.9506529 8.5220934 50.2706529 8.8420934",
+  "layer_modified_dt": "2015-01-21T22:24:20Z",
   "dc_creator_sm": [
     "Blaeu, Cornelis,",
     "Blaeu, Willem Janszoon,",
     "Hochschild, Harold K.,"
   ],
-  "dc_description_s": "Novam hanc Territorii Francofurtensis tabulam",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "6w924f31b",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/6w924f31b/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F6w%2F92%2F4f%2F31%2F00000001.jp2/info.json\"}",
   "layer_id_s": "6w924f31b",
-  "layer_slug_s": "princeton-6w924f31b",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:20Z",
-  "dc_title_s": "Novam hanc Territorii Francofurtensis tabulam",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Frankfurt am Main (Germany)",
-    "Hesse (Germany)"
-  ],
+  "dc_identifier_s": "6w924f31b",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Novam hanc Territorii Francofurtensis tabulam",
+  "layer_slug_s": "princeton-6w924f31b",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/6w924f31b/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/6w/92/4f/31/b/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "50.2706529 8.5220934 50.2706529 8.8420934 49.9506529 8.8420934 49.9506529 8.5220934 50.2706529 8.5220934",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1642"
   ],
-  "georss_box_s": "49.9506529 8.5220934 50.2706529 8.8420934",
-  "georss_polygon_s": "50.2706529 8.5220934 50.2706529 8.8420934 49.9506529 8.8420934 49.9506529 8.5220934 50.2706529 8.5220934",
   "solr_geom": "ENVELOPE(8.5220934, 8.8420934, 50.2706529, 49.9506529)",
-  "solr_year_i": "1642"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Frankfurt am Main (Germany)",
+    "Hesse (Germany)"
+  ]
 }

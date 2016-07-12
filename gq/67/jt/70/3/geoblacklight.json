@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1742",
   "uuid": "http://arks.princeton.edu/ark:/88435/gq67jt703",
-  "dc_description_s": "Succession de Charles VI. en Italie le duché de Milan, de Mantoue, de Parme et de Plaisance : suivant les nouvelles observations.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "gq67jt703",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/gq67jt703/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fgq%2F67%2Fjt%2F70%2F3%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "gq67jt703",
-  "layer_slug_s": "princeton-gq67jt703",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Succession de Charles VI. en Italie le duche\u0301 de Milan, de Mantoue, de Parme et de Plaisance : suivant les nouvelles observations.",
+  "georss_box_s": "42.6792426623 6.6267201 47.092 18.5205015",
   "layer_modified_dt": "2015-01-21T22:24:27Z",
-  "dc_title_s": "Succession de Charles VI. en Italie le duché de Milan, de Mantoue, de Parme et de Plaisance : suivant les nouvelles observations.",
+  "layer_id_s": "gq67jt703",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Italy, Northern"
-  ],
+  "dc_identifier_s": "gq67jt703",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Succession de Charles VI. en Italie le duche\u0301 de Milan, de Mantoue, de Parme et de Plaisance : suivant les nouvelles observations.",
+  "layer_slug_s": "princeton-gq67jt703",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/gq67jt703/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/gq/67/jt/70/3/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "47.092 6.6267201 47.092 18.5205015 42.6792426623 18.5205015 42.6792426623 6.6267201 47.092 6.6267201",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1742"
   ],
-  "georss_box_s": "42.6792426623 6.6267201 47.092 18.5205015",
-  "georss_polygon_s": "47.092 6.6267201 47.092 18.5205015 42.6792426623 18.5205015 42.6792426623 6.6267201 47.092 6.6267201",
   "solr_geom": "ENVELOPE(6.6267201, 18.5205015, 47.092, 42.6792426623)",
-  "solr_year_i": "1742"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Italy, Northern"
+  ]
 }

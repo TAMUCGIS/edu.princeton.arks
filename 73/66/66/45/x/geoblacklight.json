@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/73666645x",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Vineland",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "73666645x",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F73%2F66%2F66%2F45%2Fx%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "73666645x",
-  "layer_slug_s": "princeton-73666645x",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:02:56Z",
+  "solr_geom": "ENVELOPE(-75.087129, -74.896626, 39.568643, 39.377715)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/73/66/66/45/x/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/73666645x",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Insurance maps of Vineland, Cumberland County, New Jersey (Sheet 18)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1912"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "73666645x",
+  "georss_polygon_s": "39.568643 -75.087129 39.568643 -74.896626 39.377715 -74.896626 39.377715 -75.087129 39.568643 -75.087129",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1912",
   "dct_spatial_sm": [
     "New Jersey",
     "Vineland"
   ],
-  "dct_temporal_sm": [
-    "1912"
-  ],
+  "layer_id_s": "73666645x",
   "georss_box_s": "39.377715 -75.087129 39.568643 -74.896626",
-  "georss_polygon_s": "39.568643 -75.087129 39.568643 -74.896626 39.377715 -74.896626 39.377715 -75.087129 39.568643 -75.087129",
-  "solr_geom": "ENVELOPE(-75.087129, -74.896626, 39.568643, 39.377715)",
-  "solr_year_i": "1912"
+  "dc_title_s": "Insurance maps of Vineland, Cumberland County, New Jersey (Sheet 18)",
+  "layer_slug_s": "princeton-73666645x",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

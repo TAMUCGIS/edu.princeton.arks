@@ -2,7 +2,7 @@
   "dc_description_s": "This is a scanned Aerial photograph of the Trenton Area taken in the 1920's.",
   "layer_modified_dt": "2015-01-11T17:43:01Z",
   "solr_geom": "ENVELOPE(-74.783  , -74.733, 40.20 , 40.166)",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F8p%2F58%2Fpf%2F52%2Ff%2F00000001.jp2/info.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/8p58pf52f/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/8p58pf52f/preview.jpg\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/8p58pf52f/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/8p/58/pf/52/f/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/8p58pf52f/preview.jpg\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/8p58pf52f",
   "dct_provenance_s": "Princeton",
@@ -14,7 +14,7 @@
     "Imagery and Base Maps"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "c.1920",
+  "layer_slug_s": "princeton-8p58pf52f",
   "dc_creator_sm": [
     "Aero Service Corporation"
   ],
@@ -29,7 +29,7 @@
   "layer_id_s": "8p58pf52f",
   "georss_box_s": "40.166 -74.783   40.20  -74.733",
   "dc_title_s": "Trenton Aerial Photograph (c.1920) ",
-  "layer_slug_s": "princeton-8p58pf52f",
+  "dct_issued_s": "c.1920",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

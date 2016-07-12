@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1545",
   "uuid": "http://arks.princeton.edu/ark:/88435/f7623f41x",
+  "dc_description_s": "Nouae insulae XXVI noua tabula",
+  "georss_box_s": "18.9110642 172.4458955 71.389888 -66.9453947",
+  "layer_modified_dt": "2015-01-21T22:23:44Z",
   "dc_creator_sm": [
     "Ptolemy,",
     "Petri, Heinrich,"
   ],
-  "dc_description_s": "Nouae insulae XXVI noua tabula",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "f7623f41x",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/f7623f41x/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ff7%2F62%2F3f%2F41%2Fx%2F00000001.jp2/info.json\"}",
   "layer_id_s": "f7623f41x",
-  "layer_slug_s": "princeton-f7623f41x",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:44Z",
-  "dc_title_s": "Nouae insulae XXVI noua tabula",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "America"
-  ],
+  "dc_identifier_s": "f7623f41x",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Nouae insulae XXVI noua tabula",
+  "layer_slug_s": "princeton-f7623f41x",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/f7623f41x/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/f7/62/3f/41/x/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "71.389888 172.4458955 71.389888 -66.9453947 18.9110642 -66.9453947 18.9110642 172.4458955 71.389888 172.4458955",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1545"
   ],
-  "georss_box_s": "18.9110642 172.4458955 71.389888 -66.9453947",
-  "georss_polygon_s": "71.389888 172.4458955 71.389888 -66.9453947 18.9110642 -66.9453947 18.9110642 172.4458955 71.389888 172.4458955",
   "solr_geom": "ENVELOPE(172.4458955, -66.9453947, 71.389888, 18.9110642)",
-  "solr_year_i": "1545"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "America"
+  ]
 }

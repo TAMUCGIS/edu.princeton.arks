@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/1v53k015j",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Tuckerton",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "1v53k015j",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F1v%2F53%2Fk0%2F15%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "1v53k015j",
-  "layer_slug_s": "princeton-1v53k015j",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:06:44Z",
+  "solr_geom": "ENVELOPE(-74.350706, -74.310831, 39.616915, 39.575962)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/1v/53/k0/15/j/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/1v53k015j",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Tuckerton, Ocean County, New Jersey (Sheet 5).",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1928"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "1v53k015j",
+  "georss_polygon_s": "39.616915 -74.350706 39.616915 -74.310831 39.575962 -74.310831 39.575962 -74.350706 39.616915 -74.350706",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1928",
   "dct_spatial_sm": [
     "New Jersey",
     "Tuckerton"
   ],
-  "dct_temporal_sm": [
-    "1928"
-  ],
+  "layer_id_s": "1v53k015j",
   "georss_box_s": "39.575962 -74.350706 39.616915 -74.310831",
-  "georss_polygon_s": "39.616915 -74.350706 39.616915 -74.310831 39.575962 -74.310831 39.575962 -74.350706 39.616915 -74.350706",
-  "solr_geom": "ENVELOPE(-74.350706, -74.310831, 39.616915, 39.575962)",
-  "solr_year_i": "1928"
+  "dc_title_s": "Tuckerton, Ocean County, New Jersey (Sheet 5).",
+  "layer_slug_s": "princeton-1v53k015j",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

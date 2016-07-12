@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1841",
   "uuid": "http://arks.princeton.edu/ark:/88435/dr26z0938",
+  "dc_description_s": "Karte des Ko\u0308nigreiches Lombardie-Venedig",
+  "georss_box_s": "43.9723202533 8.1133390156 47.1830720363 14.2292129719",
+  "layer_modified_dt": "2015-01-25T02:06:21Z",
   "dc_creator_sm": [
     "Rumpold, F."
   ],
-  "dc_description_s": "Karte des Königreiches Lombardie-Venedig",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "dr26z0938",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/dr26z0938/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fdr%2F26%2Fz0%2F93%2F8%2F00000001.jp2/info.json\"}",
   "layer_id_s": "dr26z0938",
-  "layer_slug_s": "princeton-dr26z0938",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:21Z",
-  "dc_title_s": "Karte des Königreiches Lombardie-Venedig",
   "dc_type_s": "Image",
+  "dc_identifier_s": "dr26z0938",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Karte des Ko\u0308nigreiches Lombardie-Venedig",
+  "layer_slug_s": "princeton-dr26z0938",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/dr26z0938/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/dr/26/z0/93/8/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "47.1830720363 8.1133390156 47.1830720363 14.2292129719 43.9723202533 14.2292129719 43.9723202533 8.1133390156 47.1830720363 8.1133390156",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1841"
+  ],
+  "solr_geom": "ENVELOPE(8.1133390156, 14.2292129719, 47.1830720363, 43.9723202533)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Lombardo-Venetian Kingdom",
     "Lombardy (Italy)",
     "Venice (Italy : Province)"
-  ],
-  "dct_temporal_sm": [
-    "1841"
-  ],
-  "georss_box_s": "43.9723202533 8.1133390156 47.1830720363 14.2292129719",
-  "georss_polygon_s": "47.1830720363 8.1133390156 47.1830720363 14.2292129719 43.9723202533 14.2292129719 43.9723202533 8.1133390156 47.1830720363 8.1133390156",
-  "solr_geom": "ENVELOPE(8.1133390156, 14.2292129719, 47.1830720363, 43.9723202533)",
-  "solr_year_i": "1841"
+  ]
 }

@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1824",
   "uuid": "http://arks.princeton.edu/ark:/88435/bn999923j",
+  "dc_description_s": "General-Charte von dem Ko\u0308nigreiche Hanover, dem Grossherzogthume Oldenburg, dem Herzogthume Braunschweig, den Fu\u0308rstenthu\u0308mern Lippe-Detmold und -Schauenburg, nebst den Gebieten der freien Staedte Bremen, Hamburg und Lu\u0308beck",
+  "georss_box_s": "51.2924164 6.3460009 54.1387271 11.598118",
+  "layer_modified_dt": "2015-01-21T22:24:20Z",
   "dc_creator_sm": [
     "Ausfeld, Johann Carl,",
     "Woltman, Henry,"
   ],
-  "dc_description_s": "General-Charte von dem Königreiche Hanover, dem Grossherzogthume Oldenburg, dem Herzogthume Braunschweig, den Fürstenthümern Lippe-Detmold und -Schauenburg, nebst den Gebieten der freien Staedte Bremen, Hamburg und Lübeck",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "bn999923j",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/bn999923j/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fn%2F99%2F99%2F23%2F00000001.jp2/info.json\"}",
   "layer_id_s": "bn999923j",
-  "layer_slug_s": "princeton-bn999923j",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:20Z",
-  "dc_title_s": "General-Charte von dem Königreiche Hanover, dem Grossherzogthume Oldenburg, dem Herzogthume Braunschweig, den Fürstenthümern Lippe-Detmold und -Schauenburg, nebst den Gebieten der freien Staedte Bremen, Hamburg und Lübeck",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Lower Saxony (Germany)"
-  ],
+  "dc_identifier_s": "bn999923j",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "General-Charte von dem Ko\u0308nigreiche Hanover, dem Grossherzogthume Oldenburg, dem Herzogthume Braunschweig, den Fu\u0308rstenthu\u0308mern Lippe-Detmold und -Schauenburg, nebst den Gebieten der freien Staedte Bremen, Hamburg und Lu\u0308beck",
+  "layer_slug_s": "princeton-bn999923j",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/bn999923j/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/bn/99/99/23/j/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "54.1387271 6.3460009 54.1387271 11.598118 51.2924164 11.598118 51.2924164 6.3460009 54.1387271 6.3460009",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1824"
   ],
-  "georss_box_s": "51.2924164 6.3460009 54.1387271 11.598118",
-  "georss_polygon_s": "54.1387271 6.3460009 54.1387271 11.598118 51.2924164 11.598118 51.2924164 6.3460009 54.1387271 6.3460009",
   "solr_geom": "ENVELOPE(6.3460009, 11.598118, 54.1387271, 51.2924164)",
-  "solr_year_i": "1824"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Lower Saxony (Germany)"
+  ]
 }

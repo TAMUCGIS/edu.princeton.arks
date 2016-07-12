@@ -2,7 +2,7 @@
   "dc_description_s": "The historical map of New Jersey published originally by the Geological Survey of New Jersey was scanned, georeferenced and reprojected to the New Jersey State Plane Coordinate System, NAD 83 using ERDAS IMAGINE software.",
   "layer_modified_dt": "2015-01-11T17:42:18Z",
   "solr_geom": "ENVELOPE(-74.366, -73.933, 40.566, 40.10)",
-  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap%2Fdr%2F26%2Fxz%2F78%2F0%2F00000001.jp2/info.json\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/dr26xz780\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/dr26xz780/fgdc.xml\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/dr26xz780/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/dr/26/xz/78/0/00000001.jp2/info.json\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/dr26xz780\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/dr26xz780",
   "dct_provenance_s": "Princeton",
@@ -15,7 +15,7 @@
     "Boundaries"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "1886",
+  "layer_slug_s": "princeton-dr26xz780",
   "dc_creator_sm": "Geological Survey of New Jersey",
   "dc_type_s": "Image",
   "dc_identifier_s": "dr26xz780",
@@ -31,7 +31,7 @@
   "layer_id_s": "dr26xz780",
   "georss_box_s": "40.10 -74.366 40.566 -73.933",
   "dc_title_s": "A Topographical Map of the MonMouth Shore with the Interior From Metuchen to Lakewood",
-  "layer_slug_s": "princeton-dr26xz780",
+  "dct_issued_s": "1886",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

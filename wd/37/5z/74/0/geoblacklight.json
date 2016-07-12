@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1861",
   "uuid": "http://arks.princeton.edu/ark:/88435/wd375z740",
   "dc_description_s": "Colton's United States shewing the military stations, forts, &c",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "wd375z740",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/wd375z740/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fwd%2F37%2F5z%2F74%2F0%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "wd375z740",
-  "layer_slug_s": "princeton-wd375z740",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "20.0 -104.0 55.0 -62.0",
   "layer_modified_dt": "2015-01-19T22:37:13Z",
-  "dc_title_s": "Colton's United States shewing the military stations, forts, &c",
+  "layer_id_s": "wd375z740",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "United States"
-  ],
+  "dc_identifier_s": "wd375z740",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Colton's United States shewing the military stations, forts, &c",
+  "layer_slug_s": "princeton-wd375z740",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/wd375z740/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/wd/37/5z/74/0/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "55.0 -104.0 55.0 -62.0 20.0 -62.0 20.0 -104.0 55.0 -104.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1861"
   ],
-  "georss_box_s": "20.0 -104.0 55.0 -62.0",
-  "georss_polygon_s": "55.0 -104.0 55.0 -62.0 20.0 -62.0 20.0 -104.0 55.0 -104.0",
   "solr_geom": "ENVELOPE(-104.0, -62.0, 55.0, 20.0)",
-  "solr_year_i": "1861"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "United States"
+  ]
 }

@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1711",
   "uuid": "http://arks.princeton.edu/ark:/88435/3x816p547",
+  "dc_description_s": "The principal islands of the East Indies, according to ye newest observations",
+  "georss_box_s": "-14.4378244695 90.7730169 20.5211462787 140.6227129",
+  "layer_modified_dt": "2015-01-21T22:23:52Z",
   "dc_creator_sm": [
     "Moll, Herman,"
   ],
-  "dc_description_s": "The principal islands of the East Indies, according to ye newest observations",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "3x816p547",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/3x816p547/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F3x%2F81%2F6p%2F54%2F7%2F00000001.jp2/info.json\"}",
   "layer_id_s": "3x816p547",
-  "layer_slug_s": "princeton-3x816p547",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:52Z",
-  "dc_title_s": "The principal islands of the East Indies, according to ye newest observations",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "East Indies"
-  ],
+  "dc_identifier_s": "3x816p547",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "The principal islands of the East Indies, according to ye newest observations",
+  "layer_slug_s": "princeton-3x816p547",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/3x816p547/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/3x/81/6p/54/7/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "20.5211462787 90.7730169 20.5211462787 140.6227129 -14.4378244695 140.6227129 -14.4378244695 90.7730169 20.5211462787 90.7730169",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1711"
   ],
-  "georss_box_s": "-14.4378244695 90.7730169 20.5211462787 140.6227129",
-  "georss_polygon_s": "20.5211462787 90.7730169 20.5211462787 140.6227129 -14.4378244695 140.6227129 -14.4378244695 90.7730169 20.5211462787 90.7730169",
   "solr_geom": "ENVELOPE(90.7730169, 140.6227129, 20.5211462787, -14.4378244695)",
-  "solr_year_i": "1711"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "East Indies"
+  ]
 }

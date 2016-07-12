@@ -1,32 +1,32 @@
 {
+  "solr_year_i": "1636",
   "uuid": "http://arks.princeton.edu/ark:/88435/bv73c2743",
+  "dc_description_s": "Nova Anglia, Novum Belgium, et Virginia",
+  "georss_box_s": "41.6765556 -141.0027499 83.3362128 -52.323198",
+  "layer_modified_dt": "2015-01-21T22:23:55Z",
   "dc_creator_sm": [
     "Mercator, Gerhard,",
     "Fox, N. B.,"
   ],
-  "dc_description_s": "Nova Anglia, Novum Belgium, et Virginia",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "bv73c2743",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/bv73c2743/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fv%2F73%2Fc2%2F74%2F3%2F00000001.jp2/info.json\"}",
   "layer_id_s": "bv73c2743",
-  "layer_slug_s": "princeton-bv73c2743",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:55Z",
-  "dc_title_s": "Nova Anglia, Novum Belgium, et Virginia",
   "dc_type_s": "Image",
+  "dc_identifier_s": "bv73c2743",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Nova Anglia, Novum Belgium, et Virginia",
+  "layer_slug_s": "princeton-bv73c2743",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/bv73c2743/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/bv/73/c2/74/3/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "83.3362128 -141.0027499 83.3362128 -52.323198 41.6765556 -52.323198 41.6765556 -141.0027499 83.3362128 -141.0027499",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1636"
+  ],
+  "solr_geom": "ENVELOPE(-141.0027499, -52.323198, 83.3362128, 41.6765556)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Canada",
     "New England",
     "New York (State)",
     "Virginia"
-  ],
-  "dct_temporal_sm": [
-    "1636"
-  ],
-  "georss_box_s": "41.6765556 -141.0027499 83.3362128 -52.323198",
-  "georss_polygon_s": "83.3362128 -141.0027499 83.3362128 -52.323198 41.6765556 -52.323198 41.6765556 -141.0027499 83.3362128 -141.0027499",
-  "solr_geom": "ENVELOPE(-141.0027499, -52.323198, 83.3362128, 41.6765556)",
-  "solr_year_i": "1636"
+  ]
 }

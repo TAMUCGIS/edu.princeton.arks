@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1891",
   "uuid": "http://arks.princeton.edu/ark:/88435/4b29b851s",
+  "dc_description_s": "Plan der Stadt Wiesbaden : unter Benutzung des amtlichen Planes der Stadt (laut Genehmigung v. 9/3., 1891)",
+  "georss_box_s": "49.3952611 7.7724063 51.657817 10.2364858",
+  "layer_modified_dt": "2015-01-25T02:06:19Z",
   "dc_creator_sm": [
     "Bossong, Franz,"
   ],
-  "dc_description_s": "Plan der Stadt Wiesbaden : unter Benutzung des amtlichen Planes der Stadt (laut Genehmigung v. 9/3., 1891)",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "4b29b851s",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/4b29b851s/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F4b%2F29%2Fb8%2F51%2Fs%2F00000001.jp2/info.json\"}",
   "layer_id_s": "4b29b851s",
-  "layer_slug_s": "princeton-4b29b851s",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:19Z",
-  "dc_title_s": "Plan der Stadt Wiesbaden : unter Benutzung des amtlichen Planes der Stadt (laut Genehmigung v. 9/3., 1891)",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Hesse (Germany)",
-    "Wiesbaden (Germany)"
-  ],
+  "dc_identifier_s": "4b29b851s",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Plan der Stadt Wiesbaden : unter Benutzung des amtlichen Planes der Stadt (laut Genehmigung v. 9/3., 1891)",
+  "layer_slug_s": "princeton-4b29b851s",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/4b29b851s/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/4b/29/b8/51/s/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "51.657817 7.7724063 51.657817 10.2364858 49.3952611 10.2364858 49.3952611 7.7724063 51.657817 7.7724063",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1891"
   ],
-  "georss_box_s": "49.3952611 7.7724063 51.657817 10.2364858",
-  "georss_polygon_s": "51.657817 7.7724063 51.657817 10.2364858 49.3952611 10.2364858 49.3952611 7.7724063 51.657817 7.7724063",
   "solr_geom": "ENVELOPE(7.7724063, 10.2364858, 51.657817, 49.3952611)",
-  "solr_year_i": "1891"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Hesse (Germany)",
+    "Wiesbaden (Germany)"
+  ]
 }

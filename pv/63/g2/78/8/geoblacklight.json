@@ -1,28 +1,26 @@
 {
+  "solr_year_i": "2012",
   "uuid": "http://arks.princeton.edu/ark:/88435/pv63g2788",
+  "dc_description_s": "Trenton public art map",
+  "georss_box_s": "40.1838339 -74.8195815 40.248298 -74.7289039",
+  "layer_modified_dt": "2015-01-21T22:24:28Z",
   "dc_creator_sm": [
     "Long, David B.,"
   ],
-  "dc_description_s": "Trenton public art map",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "pv63g2788",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/pv63g2788/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fpv%2F63%2Fg2%2F78%2F8%2F00000001.jp2/info.json\"}",
   "layer_id_s": "pv63g2788",
-  "layer_slug_s": "princeton-pv63g2788",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:28Z",
-  "dc_title_s": "Trenton public art map",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "pv63g2788",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Trenton public art map",
+  "layer_slug_s": "princeton-pv63g2788",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/pv63g2788/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/pv/63/g2/78/8/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.248298 -74.8195815 40.248298 -74.7289039 40.1838339 -74.7289039 40.1838339 -74.8195815 40.248298 -74.8195815",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "2012"
   ],
-  "georss_box_s": "40.1838339 -74.8195815 40.248298 -74.7289039",
-  "georss_polygon_s": "40.248298 -74.8195815 40.248298 -74.7289039 40.1838339 -74.7289039 40.1838339 -74.8195815 40.248298 -74.8195815",
   "solr_geom": "ENVELOPE(-74.8195815, -74.7289039, 40.248298, 40.1838339)",
-  "solr_year_i": "2012"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

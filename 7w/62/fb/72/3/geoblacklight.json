@@ -1,5 +1,9 @@
 {
+  "solr_year_i": "1720",
   "uuid": "http://arks.princeton.edu/ark:/88435/7w62fb723",
+  "dc_description_s": "A new map of Ireland divided into its provinces, counties and baronies, wherein are distinguished the bishopricks, borroughs, barracks, bogs, passes, bridges &c. with the principal roads, and the common reputed miles /",
+  "georss_box_s": "51.0 -11.0 56.0 -5.0",
+  "layer_modified_dt": "2015-01-19T22:37:34Z",
   "dc_creator_sm": [
     "Bowles, John,",
     "Bowles, Thomas,",
@@ -7,26 +11,22 @@
     "King, John.",
     "Pratt, Henry."
   ],
-  "dc_description_s": "A new map of Ireland divided into its provinces, counties and baronies, wherein are distinguished the bishopricks, borroughs, barracks, bogs, passes, bridges &c. with the principal roads, and the common reputed miles /",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "7w62fb723",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/7w62fb723/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F7w%2F62%2Ffb%2F72%2F3%2F00000001.jp2/info.json\"}",
   "layer_id_s": "7w62fb723",
-  "layer_slug_s": "princeton-7w62fb723",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:34Z",
-  "dc_title_s": "A new map of Ireland divided into its provinces, counties and baronies, wherein are distinguished the bishopricks, borroughs, barracks, bogs, passes, bridges &c. with the principal roads, and the common reputed miles /",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Ireland"
-  ],
+  "dc_identifier_s": "7w62fb723",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "A new map of Ireland divided into its provinces, counties and baronies, wherein are distinguished the bishopricks, borroughs, barracks, bogs, passes, bridges &c. with the principal roads, and the common reputed miles /",
+  "layer_slug_s": "princeton-7w62fb723",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/7w62fb723/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/7w/62/fb/72/3/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "56.0 -11.0 56.0 -5.0 51.0 -5.0 51.0 -11.0 56.0 -11.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1720"
   ],
-  "georss_box_s": "51.0 -11.0 56.0 -5.0",
-  "georss_polygon_s": "56.0 -11.0 56.0 -5.0 51.0 -5.0 51.0 -11.0 56.0 -11.0",
   "solr_geom": "ENVELOPE(-11.0, -5.0, 56.0, 51.0)",
-  "solr_year_i": "1720"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Ireland"
+  ]
 }

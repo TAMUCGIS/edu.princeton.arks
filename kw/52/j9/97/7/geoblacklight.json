@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1770",
   "uuid": "http://arks.princeton.edu/ark:/88435/kw52j9977",
   "dc_description_s": "Amerique septentrionale",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "kw52j9977",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/kw52j9977/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fkw%2F52%2Fj9%2F97%2F7%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "kw52j9977",
-  "layer_slug_s": "princeton-kw52j9977",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "5.0 -130.0 60.0 -50.0",
   "layer_modified_dt": "2015-01-19T22:36:54Z",
-  "dc_title_s": "Amerique septentrionale",
+  "layer_id_s": "kw52j9977",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "North America"
-  ],
+  "dc_identifier_s": "kw52j9977",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Amerique septentrionale",
+  "layer_slug_s": "princeton-kw52j9977",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/kw52j9977/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/kw/52/j9/97/7/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "60.0 -130.0 60.0 -50.0 5.0 -50.0 5.0 -130.0 60.0 -130.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1770"
   ],
-  "georss_box_s": "5.0 -130.0 60.0 -50.0",
-  "georss_polygon_s": "60.0 -130.0 60.0 -50.0 5.0 -50.0 5.0 -130.0 60.0 -130.0",
   "solr_geom": "ENVELOPE(-130.0, -50.0, 60.0, 5.0)",
-  "solr_year_i": "1770"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "North America"
+  ]
 }

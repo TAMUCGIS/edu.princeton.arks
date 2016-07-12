@@ -1,25 +1,25 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/zw12z714b",
+  "dc_description_s": "Graecia cum insulis et oris maris Aegaei",
+  "georss_box_s": "34.7006096 19.2477876 41.7488862 29.7296986",
+  "layer_modified_dt": "2015-01-21T22:23:45Z",
   "dc_creator_sm": [
     "Kiepert, Heinrich,"
   ],
-  "dc_description_s": "Graecia cum insulis et oris maris Aegaei",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "zw12z714b",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/zw12z714b/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fzw%2F12%2Fz7%2F14%2F00000001.jp2/info.json\"}",
   "layer_id_s": "zw12z714b",
-  "layer_slug_s": "princeton-zw12z714b",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:45Z",
-  "dc_title_s": "Graecia cum insulis et oris maris Aegaei",
   "dc_type_s": "Image",
+  "dc_identifier_s": "zw12z714b",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Graecia cum insulis et oris maris Aegaei",
+  "layer_slug_s": "princeton-zw12z714b",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/zw12z714b/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/zw/12/z7/14/b/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "41.7488862 19.2477876 41.7488862 29.7296986 34.7006096 29.7296986 34.7006096 19.2477876 41.7488862 19.2477876",
+  "layer_geom_type_s": "Image",
+  "solr_geom": "ENVELOPE(19.2477876, 29.7296986, 41.7488862, 34.7006096)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Greece",
     "Aegean Sea"
-  ],
-  "georss_box_s": "34.7006096 19.2477876 41.7488862 29.7296986",
-  "georss_polygon_s": "41.7488862 19.2477876 41.7488862 29.7296986 34.7006096 29.7296986 34.7006096 19.2477876 41.7488862 19.2477876",
-  "solr_geom": "ENVELOPE(19.2477876, 29.7296986, 41.7488862, 34.7006096)"
+  ]
 }

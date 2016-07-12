@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1734",
   "uuid": "http://arks.princeton.edu/ark:/88435/xk81jn821",
+  "dc_description_s": "Le pays de Perou et Chili selon les observations nouvelles",
+  "georss_box_s": "-59.0 -107.0 14.0 -42.0",
+  "layer_modified_dt": "2015-01-19T22:37:10Z",
   "dc_creator_sm": [
     "Lotter, Tobias Conrad,"
   ],
-  "dc_description_s": "Le pays de Perou et Chili selon les observations nouvelles",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "xk81jn821",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/xk81jn821/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fxk%2F81%2Fjn%2F82%2F1%2F00000001.jp2/info.json\"}",
   "layer_id_s": "xk81jn821",
-  "layer_slug_s": "princeton-xk81jn821",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:10Z",
-  "dc_title_s": "Le pays de Perou et Chili selon les observations nouvelles",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "South America"
-  ],
+  "dc_identifier_s": "xk81jn821",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Le pays de Perou et Chili selon les observations nouvelles",
+  "layer_slug_s": "princeton-xk81jn821",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/xk81jn821/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/xk/81/jn/82/1/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "14.0 -107.0 14.0 -42.0 -59.0 -42.0 -59.0 -107.0 14.0 -107.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1734"
   ],
-  "georss_box_s": "-59.0 -107.0 14.0 -42.0",
-  "georss_polygon_s": "14.0 -107.0 14.0 -42.0 -59.0 -42.0 -59.0 -107.0 14.0 -107.0",
   "solr_geom": "ENVELOPE(-107.0, -42.0, 14.0, -59.0)",
-  "solr_year_i": "1734"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "South America"
+  ]
 }

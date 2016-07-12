@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/z890rw09q",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Milford",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "z890rw09q",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fz8%2F90%2Frw%2F09%2Fq%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "z890rw09q",
-  "layer_slug_s": "princeton-z890rw09q",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:01:44Z",
+  "solr_geom": "ENVELOPE(-75.103003, -75.078757, 40.578277, 40.556343)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/z8/90/rw/09/q/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/z890rw09q",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Milford (Sheet 2), Hunterdon Co., N.J.",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1912"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "z890rw09q",
+  "georss_polygon_s": "40.578277 -75.103003 40.578277 -75.078757 40.556343 -75.078757 40.556343 -75.103003 40.578277 -75.103003",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1912",
   "dct_spatial_sm": [
     "New Jersey",
     "Milford"
   ],
-  "dct_temporal_sm": [
-    "1912"
-  ],
+  "layer_id_s": "z890rw09q",
   "georss_box_s": "40.556343 -75.103003 40.578277 -75.078757",
-  "georss_polygon_s": "40.578277 -75.103003 40.578277 -75.078757 40.556343 -75.078757 40.556343 -75.103003 40.578277 -75.103003",
-  "solr_geom": "ENVELOPE(-75.103003, -75.078757, 40.578277, 40.556343)",
-  "solr_year_i": "1912"
+  "dc_title_s": "Milford (Sheet 2), Hunterdon Co., N.J.",
+  "layer_slug_s": "princeton-z890rw09q",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

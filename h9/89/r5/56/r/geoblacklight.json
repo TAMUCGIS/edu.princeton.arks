@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/h989r556r",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Manasquan",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "h989r556r",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fh9%2F89%2Fr5%2F56%2Fr%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "h989r556r",
-  "layer_slug_s": "princeton-h989r556r",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:11:33Z",
+  "solr_geom": "ENVELOPE(-74.062032, -74.026635, 40.132633, 40.100818)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/h9/89/r5/56/r/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/h989r556r",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Manasquan, Monmouth Co., New Jersey (Sheet 24)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1921"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "h989r556r",
+  "georss_polygon_s": "40.132633 -74.062032 40.132633 -74.026635 40.100818 -74.026635 40.100818 -74.062032 40.132633 -74.062032",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1921",
   "dct_spatial_sm": [
     "New Jersey",
     "Manasquan"
   ],
-  "dct_temporal_sm": [
-    "1921"
-  ],
+  "layer_id_s": "h989r556r",
   "georss_box_s": "40.100818 -74.062032 40.132633 -74.026635",
-  "georss_polygon_s": "40.132633 -74.062032 40.132633 -74.026635 40.100818 -74.026635 40.100818 -74.062032 40.132633 -74.062032",
-  "solr_geom": "ENVELOPE(-74.062032, -74.026635, 40.132633, 40.100818)",
-  "solr_year_i": "1921"
+  "dc_title_s": "Manasquan, Monmouth Co., New Jersey (Sheet 24)",
+  "layer_slug_s": "princeton-h989r556r",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

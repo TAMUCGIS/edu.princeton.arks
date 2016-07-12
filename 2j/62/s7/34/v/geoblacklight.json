@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1793",
   "uuid": "http://arks.princeton.edu/ark:/88435/2j62s734v",
   "dc_description_s": "Cheshire",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "2j62s734v",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/2j62s734v/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F2j%2F62%2Fs7%2F34%2Fv%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "2j62s734v",
-  "layer_slug_s": "princeton-2j62s734v",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "52.9471496 -3.128278 53.4809136 -1.9747939",
   "layer_modified_dt": "2015-01-21T22:24:17Z",
-  "dc_title_s": "Cheshire",
+  "layer_id_s": "2j62s734v",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Cheshire (England)"
-  ],
+  "dc_identifier_s": "2j62s734v",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Cheshire",
+  "layer_slug_s": "princeton-2j62s734v",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/2j62s734v/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/2j/62/s7/34/v/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "53.4809136 -3.128278 53.4809136 -1.9747939 52.9471496 -1.9747939 52.9471496 -3.128278 53.4809136 -3.128278",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1793"
   ],
-  "georss_box_s": "52.9471496 -3.128278 53.4809136 -1.9747939",
-  "georss_polygon_s": "53.4809136 -3.128278 53.4809136 -1.9747939 52.9471496 -1.9747939 52.9471496 -3.128278 53.4809136 -3.128278",
   "solr_geom": "ENVELOPE(-3.128278, -1.9747939, 53.4809136, 52.9471496)",
-  "solr_year_i": "1793"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Cheshire (England)"
+  ]
 }

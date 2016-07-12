@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/th83m160w",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Nutley",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "th83m160w",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fth%2F83%2Fm1%2F60%2Fw%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "th83m160w",
-  "layer_slug_s": "princeton-th83m160w",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:09:05Z",
+  "solr_geom": "ENVELOPE(-74.183836, -74.130031, 40.837869, 40.80564)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/th/83/m1/60/w/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/th83m160w",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Insurance maps of Nutley-Glen Ridge, New Jersey : comprising town of Nutley and borough of Glen Ridge (Sheet 60).",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1938"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "th83m160w",
+  "georss_polygon_s": "40.837869 -74.183836 40.837869 -74.130031 40.80564 -74.130031 40.80564 -74.183836 40.837869 -74.183836",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1938",
   "dct_spatial_sm": [
     "New Jersey",
     "Nutley"
   ],
-  "dct_temporal_sm": [
-    "1938"
-  ],
+  "layer_id_s": "th83m160w",
   "georss_box_s": "40.80564 -74.183836 40.837869 -74.130031",
-  "georss_polygon_s": "40.837869 -74.183836 40.837869 -74.130031 40.80564 -74.130031 40.80564 -74.183836 40.837869 -74.183836",
-  "solr_geom": "ENVELOPE(-74.183836, -74.130031, 40.837869, 40.80564)",
-  "solr_year_i": "1938"
+  "dc_title_s": "Insurance maps of Nutley-Glen Ridge, New Jersey : comprising town of Nutley and borough of Glen Ridge (Sheet 60).",
+  "layer_slug_s": "princeton-th83m160w",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

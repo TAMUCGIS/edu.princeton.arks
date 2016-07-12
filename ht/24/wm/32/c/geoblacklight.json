@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1601",
   "uuid": "http://arks.princeton.edu/ark:/88435/ht24wm32c",
+  "dc_description_s": "Descripcio\u0301n de las Yndias del Norte",
+  "georss_box_s": "24.396308 -87.6348959 31.000968 -79.9743059",
+  "layer_modified_dt": "2015-01-21T22:23:48Z",
   "dc_creator_sm": [
     "Herrera y Tordesillas, Antonio de,"
   ],
-  "dc_description_s": "Descripción de las Yndias del Norte",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "ht24wm32c",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/ht24wm32c/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fht%2F24%2Fwm%2F32%2Fc%2F00000001.jp2/info.json\"}",
   "layer_id_s": "ht24wm32c",
-  "layer_slug_s": "princeton-ht24wm32c",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:48Z",
-  "dc_title_s": "Descripción de las Yndias del Norte",
   "dc_type_s": "Image",
+  "dc_identifier_s": "ht24wm32c",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Descripcio\u0301n de las Yndias del Norte",
+  "layer_slug_s": "princeton-ht24wm32c",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/ht24wm32c/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ht/24/wm/32/c/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "31.000968 -87.6348959 31.000968 -79.9743059 24.396308 -79.9743059 24.396308 -87.6348959 31.000968 -87.6348959",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1601"
+  ],
+  "solr_geom": "ENVELOPE(-87.6348959, -79.9743059, 31.000968, 24.396308)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Florida",
     "Central America",
     "West Indies"
-  ],
-  "dct_temporal_sm": [
-    "1601"
-  ],
-  "georss_box_s": "24.396308 -87.6348959 31.000968 -79.9743059",
-  "georss_polygon_s": "31.000968 -87.6348959 31.000968 -79.9743059 24.396308 -79.9743059 24.396308 -87.6348959 31.000968 -87.6348959",
-  "solr_geom": "ENVELOPE(-87.6348959, -79.9743059, 31.000968, 24.396308)",
-  "solr_year_i": "1601"
+  ]
 }

@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1756",
   "uuid": "http://arks.princeton.edu/ark:/88435/mw22v736z",
+  "dc_description_s": "America Septentrionalis a Domino d'Anville in Galliis edita nunc in Anglia coloniis in interiorem Virginiam deductis nec non Fluvii Ohio cursu aucta notis[que] geographicis et historicis illustrata",
+  "georss_box_s": "50.9999502 -109.0000502 51.0000502 -108.9999502",
+  "layer_modified_dt": "2015-01-21T22:23:50Z",
   "dc_creator_sm": [
     "Anville, Jean Baptiste Bourguignon d',",
     "Fox, N. B.,"
   ],
-  "dc_description_s": "America Septentrionalis a Domino d'Anville in Galliis edita nunc in Anglia coloniis in interiorem Virginiam deductis nec non Fluvii Ohio cursu aucta notis[que] geographicis et historicis illustrata",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "mw22v736z",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/mw22v736z/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fmw%2F22%2Fv7%2F36%2Fz%2F00000001.jp2/info.json\"}",
   "layer_id_s": "mw22v736z",
-  "layer_slug_s": "princeton-mw22v736z",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:50Z",
-  "dc_title_s": "America Septentrionalis a Domino d'Anville in Galliis edita nunc in Anglia coloniis in interiorem Virginiam deductis nec non Fluvii Ohio cursu aucta notis[que] geographicis et historicis illustrata",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "North America"
-  ],
+  "dc_identifier_s": "mw22v736z",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "America Septentrionalis a Domino d'Anville in Galliis edita nunc in Anglia coloniis in interiorem Virginiam deductis nec non Fluvii Ohio cursu aucta notis[que] geographicis et historicis illustrata",
+  "layer_slug_s": "princeton-mw22v736z",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/mw22v736z/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/mw/22/v7/36/z/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "51.0000502 -109.0000502 51.0000502 -108.9999502 50.9999502 -108.9999502 50.9999502 -109.0000502 51.0000502 -109.0000502",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1756"
   ],
-  "georss_box_s": "50.9999502 -109.0000502 51.0000502 -108.9999502",
-  "georss_polygon_s": "51.0000502 -109.0000502 51.0000502 -108.9999502 50.9999502 -108.9999502 50.9999502 -109.0000502 51.0000502 -109.0000502",
   "solr_geom": "ENVELOPE(-109.0000502, -108.9999502, 51.0000502, 50.9999502)",
-  "solr_year_i": "1756"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "North America"
+  ]
 }

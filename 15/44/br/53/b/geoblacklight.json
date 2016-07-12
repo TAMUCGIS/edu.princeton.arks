@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1733",
   "uuid": "http://arks.princeton.edu/ark:/88435/1544br53b",
-  "dc_creator_sm": [
-    "Techo, Nicolás del,"
-  ],
   "dc_description_s": "Typus geographicus : Chili, Paraguay, Freti Magellanici &c.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "1544br53b",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/1544br53b/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F15%2F44%2Fbr%2F53%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "1544br53b",
-  "layer_slug_s": "princeton-1544br53b",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "-56.7249999 -109.6795788 -17.4983855 -66.0745052",
   "layer_modified_dt": "2015-01-21T22:24:05Z",
-  "dc_title_s": "Typus geographicus : Chili, Paraguay, Freti Magellanici &c.",
+  "dc_creator_sm": [
+    "Techo, Nicola\u0301s del,"
+  ],
+  "layer_id_s": "1544br53b",
   "dc_type_s": "Image",
+  "dc_identifier_s": "1544br53b",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Typus geographicus : Chili, Paraguay, Freti Magellanici &c.",
+  "layer_slug_s": "princeton-1544br53b",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/1544br53b/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/15/44/br/53/b/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "-17.4983855 -109.6795788 -17.4983855 -66.0745052 -56.7249999 -66.0745052 -56.7249999 -109.6795788 -17.4983855 -109.6795788",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1733"
+  ],
+  "solr_geom": "ENVELOPE(-109.6795788, -66.0745052, -17.4983855, -56.7249999)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Chile",
     "Magellan, Strait of (Chile and Argentina)",
     "Paraguay"
-  ],
-  "dct_temporal_sm": [
-    "1733"
-  ],
-  "georss_box_s": "-56.7249999 -109.6795788 -17.4983855 -66.0745052",
-  "georss_polygon_s": "-17.4983855 -109.6795788 -17.4983855 -66.0745052 -56.7249999 -66.0745052 -56.7249999 -109.6795788 -17.4983855 -109.6795788",
-  "solr_geom": "ENVELOPE(-109.6795788, -66.0745052, -17.4983855, -56.7249999)",
-  "solr_year_i": "1733"
+  ]
 }

@@ -2,7 +2,7 @@
   "dc_description_s": "This is a scanned historical map of the Bloodsworth Island Quadrangle in Maryland shown at a scale of 1:62,500. This map was created by the US Geological Survey.",
   "layer_modified_dt": "2015-01-11T17:42:51Z",
   "solr_geom": "ENVELOPE(-76.25, -76, 38.25, 38)",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fv1%2F18%2Frg%2F07%2Fd%2F00000001.jp2/info.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/v118rg07d/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/v118rg07d/preview.jpg\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/v118rg07d/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/v1/18/rg/07/d/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/v118rg07d/preview.jpg\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/v118rg07d",
   "dct_provenance_s": "Princeton",
@@ -14,7 +14,7 @@
     "Administrative and political boundaries"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "April 1903",
+  "layer_slug_s": "princeton-v118rg07d",
   "dc_creator_sm": [
     "United States. Geological Survey"
   ],
@@ -32,7 +32,7 @@
   "layer_id_s": "v118rg07d",
   "georss_box_s": "38 -76.25 38.25 -76",
   "dc_title_s": "Maryland: Bloodsworth Island Quadrangle [1903] ",
-  "layer_slug_s": "princeton-v118rg07d",
+  "dct_issued_s": "April 1903",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

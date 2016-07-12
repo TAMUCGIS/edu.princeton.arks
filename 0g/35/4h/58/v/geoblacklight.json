@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1540",
   "uuid": "http://arks.princeton.edu/ark:/88435/0g354h58v",
+  "dc_description_s": "Tabula Asiae XII",
+  "georss_box_s": "5.719 79.3741141 10.035 82.0810141",
+  "layer_modified_dt": "2015-01-21T22:23:59Z",
   "dc_creator_sm": [
     "Ptolemy,"
   ],
-  "dc_description_s": "Tabula Asiae XII",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "0g354h58v",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/0g354h58v/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F0g%2F35%2F4h%2F58%2Fv%2F00000001.jp2/info.json\"}",
   "layer_id_s": "0g354h58v",
-  "layer_slug_s": "princeton-0g354h58v",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:59Z",
-  "dc_title_s": "Tabula Asiae XII",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Sri Lanka"
-  ],
+  "dc_identifier_s": "0g354h58v",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Tabula Asiae XII",
+  "layer_slug_s": "princeton-0g354h58v",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/0g354h58v/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/0g/35/4h/58/v/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "10.035 79.3741141 10.035 82.0810141 5.719 82.0810141 5.719 79.3741141 10.035 79.3741141",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1540"
   ],
-  "georss_box_s": "5.719 79.3741141 10.035 82.0810141",
-  "georss_polygon_s": "10.035 79.3741141 10.035 82.0810141 5.719 82.0810141 5.719 79.3741141 10.035 79.3741141",
   "solr_geom": "ENVELOPE(79.3741141, 82.0810141, 10.035, 5.719)",
-  "solr_year_i": "1540"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Sri Lanka"
+  ]
 }

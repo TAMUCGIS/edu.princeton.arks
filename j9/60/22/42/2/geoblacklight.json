@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1946",
   "uuid": "http://arks.princeton.edu/ark:/88435/j96022422",
   "dc_description_s": "Administrative unit names. Administrative names and locations are correct to March 1946.",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "j96022422",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/j96022422/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F9%2F60%2F22%2F42%2F2%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "j96022422",
-  "layer_slug_s": "princeton-j96022422",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "35.1333333333 136.816666667 35.2166666667 136.9",
   "layer_modified_dt": "2015-01-19T22:36:33Z",
-  "dc_title_s": "Administrative unit names. Administrative names and locations are correct to March 1946.",
+  "layer_id_s": "j96022422",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Japan"
-  ],
+  "dc_identifier_s": "j96022422",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Administrative unit names. Administrative names and locations are correct to March 1946.",
+  "layer_slug_s": "princeton-j96022422",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/j96022422/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/j9/60/22/42/2/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "35.2166666667 136.816666667 35.2166666667 136.9 35.1333333333 136.9 35.1333333333 136.816666667 35.2166666667 136.816666667",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1946"
   ],
-  "georss_box_s": "35.1333333333 136.816666667 35.2166666667 136.9",
-  "georss_polygon_s": "35.2166666667 136.816666667 35.2166666667 136.9 35.1333333333 136.9 35.1333333333 136.816666667 35.2166666667 136.816666667",
   "solr_geom": "ENVELOPE(136.816666667, 136.9, 35.2166666667, 35.1333333333)",
-  "solr_year_i": "1946"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Japan"
+  ]
 }

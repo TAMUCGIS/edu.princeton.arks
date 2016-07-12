@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1707",
   "uuid": "http://arks.princeton.edu/ark:/88435/jm214r613",
+  "dc_description_s": "Iud\u00e6a seu Pal\u00e6stina ob sacratissima redemtoris vestigia hodie dicta Terra Sancta : prout olim in duodecim tribus divisa separatis ab invicem regnis Iuda et Israel expressis insuper VI ultimi temporis ejusdem terrae provinciis",
+  "georss_box_s": "30.0 33.3333333333 33.1666666667 37.6666666667",
+  "layer_modified_dt": "2015-01-19T22:37:24Z",
   "dc_creator_sm": [
     "Sanson, Guillaume."
   ],
-  "dc_description_s": "Iudæa seu Palæstina ob sacratissima redemtoris vestigia hodie dicta Terra Sancta : prout olim in duodecim tribus divisa separatis ab invicem regnis Iuda et Israel expressis insuper VI ultimi temporis ejusdem terrae provinciis",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "jm214r613",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/jm214r613/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fm%2F21%2F4r%2F61%2F3%2F00000001.jp2/info.json\"}",
   "layer_id_s": "jm214r613",
-  "layer_slug_s": "princeton-jm214r613",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:24Z",
-  "dc_title_s": "Iudæa seu Palæstina ob sacratissima redemtoris vestigia hodie dicta Terra Sancta : prout olim in duodecim tribus divisa separatis ab invicem regnis Iuda et Israel expressis insuper VI ultimi temporis ejusdem terrae provinciis",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Palestine",
-    "Palestine"
-  ],
+  "dc_identifier_s": "jm214r613",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Iud\u00e6a seu Pal\u00e6stina ob sacratissima redemtoris vestigia hodie dicta Terra Sancta : prout olim in duodecim tribus divisa separatis ab invicem regnis Iuda et Israel expressis insuper VI ultimi temporis ejusdem terrae provinciis",
+  "layer_slug_s": "princeton-jm214r613",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/jm214r613/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/jm/21/4r/61/3/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "33.1666666667 33.3333333333 33.1666666667 37.6666666667 30.0 37.6666666667 30.0 33.3333333333 33.1666666667 33.3333333333",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1707"
   ],
-  "georss_box_s": "30.0 33.3333333333 33.1666666667 37.6666666667",
-  "georss_polygon_s": "33.1666666667 33.3333333333 33.1666666667 37.6666666667 30.0 37.6666666667 30.0 33.3333333333 33.1666666667 33.3333333333",
   "solr_geom": "ENVELOPE(33.3333333333, 37.6666666667, 33.1666666667, 30.0)",
-  "solr_year_i": "1707"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Palestine",
+    "Palestine"
+  ]
 }

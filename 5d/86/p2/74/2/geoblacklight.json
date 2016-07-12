@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1851",
   "uuid": "http://arks.princeton.edu/ark:/88435/5d86p2742",
+  "dc_description_s": "Trade wind chart of the Atlantic Ocean",
+  "georss_box_s": "-38.0 -80.0 38.0 20.0",
+  "layer_modified_dt": "2015-01-19T22:37:41Z",
   "dc_creator_sm": [
     "Dehaven, E. J.",
     "Warrington, L.",
     "Maury, Matthew Fontaine,"
   ],
-  "dc_description_s": "Trade wind chart of the Atlantic Ocean",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "5d86p2742",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/5d86p2742/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F5d%2F86%2Fp2%2F74%2F2%2F00000001.jp2/info.json\"}",
   "layer_id_s": "5d86p2742",
-  "layer_slug_s": "princeton-5d86p2742",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:41Z",
-  "dc_title_s": "Trade wind chart of the Atlantic Ocean",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Atlantic Ocean"
-  ],
+  "dc_identifier_s": "5d86p2742",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Trade wind chart of the Atlantic Ocean",
+  "layer_slug_s": "princeton-5d86p2742",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/5d86p2742/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/5d/86/p2/74/2/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "38.0 -80.0 38.0 20.0 -38.0 20.0 -38.0 -80.0 38.0 -80.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1851"
   ],
-  "georss_box_s": "-38.0 -80.0 38.0 20.0",
-  "georss_polygon_s": "38.0 -80.0 38.0 20.0 -38.0 20.0 -38.0 -80.0 38.0 -80.0",
   "solr_geom": "ENVELOPE(-80.0, 20.0, 38.0, -38.0)",
-  "solr_year_i": "1851"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Atlantic Ocean"
+  ]
 }

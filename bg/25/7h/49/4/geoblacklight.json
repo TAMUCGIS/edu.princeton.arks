@@ -1,29 +1,27 @@
 {
+  "solr_year_i": "1861",
   "uuid": "http://arks.princeton.edu/ark:/88435/bg257h494",
+  "dc_description_s": "A map of the common lands between the three and six mile stones, belonging to the corporation of the city of New York",
+  "georss_box_s": "40.7702778 -73.9797222 40.8102778 -73.9397222",
+  "layer_modified_dt": "2015-01-21T22:24:01Z",
   "dc_creator_sm": [
     "Valentine, D. T.",
     "Fox, N. B.,"
   ],
-  "dc_description_s": "A map of the common lands between the three and six mile stones, belonging to the corporation of the city of New York",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "bg257h494",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/bg257h494/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fg%2F25%2F7h%2F49%2F4%2F00000001.jp2/info.json\"}",
   "layer_id_s": "bg257h494",
-  "layer_slug_s": "princeton-bg257h494",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:01Z",
-  "dc_title_s": "A map of the common lands between the three and six mile stones, belonging to the corporation of the city of New York",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "bg257h494",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "A map of the common lands between the three and six mile stones, belonging to the corporation of the city of New York",
+  "layer_slug_s": "princeton-bg257h494",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/bg257h494/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/bg/25/7h/49/4/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.8102778 -73.9797222 40.8102778 -73.9397222 40.7702778 -73.9397222 40.7702778 -73.9797222 40.8102778 -73.9797222",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1861"
   ],
-  "georss_box_s": "40.7702778 -73.9797222 40.8102778 -73.9397222",
-  "georss_polygon_s": "40.8102778 -73.9797222 40.8102778 -73.9397222 40.7702778 -73.9397222 40.7702778 -73.9797222 40.8102778 -73.9797222",
   "solr_geom": "ENVELOPE(-73.9797222, -73.9397222, 40.8102778, 40.7702778)",
-  "solr_year_i": "1861"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

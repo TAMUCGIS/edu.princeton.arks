@@ -2,7 +2,7 @@
   "dc_description_s": "This is a map of North America and South America at a 1:67,000,000 scale. The map was created by the Central Intelligence Agency.",
   "layer_modified_dt": "2015-01-11T17:42:28Z",
   "solr_geom": "ENVELOPE(-165, -15, 90, -60)",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F4b%2F29%2Fb7%2F40%2Ff%2F00000001.jp2/info.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/4b29b740f/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/4b29b740f/preview.jpg\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/4b29b740f/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/4b/29/b7/40/f/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/4b29b740f/preview.jpg\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/4b29b740f",
   "dct_provenance_s": "Princeton",
@@ -10,7 +10,7 @@
     "Administrative and Political Boundaries"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "1996",
+  "layer_slug_s": "princeton-4b29b740f",
   "dc_creator_sm": [
     "Central Intelligence Agency"
   ],
@@ -28,7 +28,7 @@
   "layer_id_s": "4b29b740f",
   "georss_box_s": "-60 -165 90 -15",
   "dc_title_s": "North and South America, 1996",
-  "layer_slug_s": "princeton-4b29b740f",
+  "dct_issued_s": "1996",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

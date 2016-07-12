@@ -1,32 +1,32 @@
 {
+  "solr_year_i": "1791",
   "uuid": "http://arks.princeton.edu/ark:/88435/9g54xm10m",
+  "dc_description_s": "A map exhibiting a general view of the roads and inland navigation of Pennsylvania, and part of the adjacent states : respectfully inscribed to Thomas Mifflin, governor, and the General Assembly of the commonwealth of Pennsylvania",
+  "georss_box_s": "38.4511276 -75.7890402 39.839433 -74.9849354",
+  "layer_modified_dt": "2015-01-25T02:06:11Z",
   "dc_creator_sm": [
     "Wallis, John,",
     "Hooper, Robert Lettis,"
   ],
-  "dc_description_s": "A map exhibiting a general view of the roads and inland navigation of Pennsylvania, and part of the adjacent states : respectfully inscribed to Thomas Mifflin, governor, and the General Assembly of the commonwealth of Pennsylvania",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "9g54xm10m",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/9g54xm10m/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F9g%2F54%2Fxm%2F10%2Fm%2F00000001.jp2/info.json\"}",
   "layer_id_s": "9g54xm10m",
-  "layer_slug_s": "princeton-9g54xm10m",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:11Z",
-  "dc_title_s": "A map exhibiting a general view of the roads and inland navigation of Pennsylvania, and part of the adjacent states : respectfully inscribed to Thomas Mifflin, governor, and the General Assembly of the commonwealth of Pennsylvania",
   "dc_type_s": "Image",
+  "dc_identifier_s": "9g54xm10m",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "A map exhibiting a general view of the roads and inland navigation of Pennsylvania, and part of the adjacent states : respectfully inscribed to Thomas Mifflin, governor, and the General Assembly of the commonwealth of Pennsylvania",
+  "layer_slug_s": "princeton-9g54xm10m",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/9g54xm10m/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/9g/54/xm/10/m/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "39.839433 -75.7890402 39.839433 -74.9849354 38.4511276 -74.9849354 38.4511276 -75.7890402 39.839433 -75.7890402",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1791"
+  ],
+  "solr_geom": "ENVELOPE(-75.7890402, -74.9849354, 39.839433, 38.4511276)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Delaware",
     "New Jersey",
     "New York (State)",
     "Pennsylvania"
-  ],
-  "dct_temporal_sm": [
-    "1791"
-  ],
-  "georss_box_s": "38.4511276 -75.7890402 39.839433 -74.9849354",
-  "georss_polygon_s": "39.839433 -75.7890402 39.839433 -74.9849354 38.4511276 -74.9849354 38.4511276 -75.7890402 39.839433 -75.7890402",
-  "solr_geom": "ENVELOPE(-75.7890402, -74.9849354, 39.839433, 38.4511276)",
-  "solr_year_i": "1791"
+  ]
 }

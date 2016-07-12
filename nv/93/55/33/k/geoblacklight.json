@@ -1,29 +1,27 @@
 {
+  "solr_year_i": "1849",
   "uuid": "http://arks.princeton.edu/ark:/88435/nv935533k",
+  "dc_description_s": "Map of Mercer County, New Jersey",
+  "georss_box_s": "40.136843 -74.941622 40.424156 -74.481202",
+  "layer_modified_dt": "2015-01-21T22:24:15Z",
   "dc_creator_sm": [
     "Keily, James.",
     "Van Derveer, Lloyd."
   ],
-  "dc_description_s": "Map of Mercer County, New Jersey",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "nv935533k",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/nv935533k/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fnv%2F93%2F55%2F33%2Fk%2F00000001.jp2/info.json\"}",
   "layer_id_s": "nv935533k",
-  "layer_slug_s": "princeton-nv935533k",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:15Z",
-  "dc_title_s": "Map of Mercer County, New Jersey",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "nv935533k",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Map of Mercer County, New Jersey",
+  "layer_slug_s": "princeton-nv935533k",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/nv935533k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/nv/93/55/33/k/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.424156 -74.941622 40.424156 -74.481202 40.136843 -74.481202 40.136843 -74.941622 40.424156 -74.941622",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1849"
   ],
-  "georss_box_s": "40.136843 -74.941622 40.424156 -74.481202",
-  "georss_polygon_s": "40.424156 -74.941622 40.424156 -74.481202 40.136843 -74.481202 40.136843 -74.941622 40.424156 -74.941622",
   "solr_geom": "ENVELOPE(-74.941622, -74.481202, 40.424156, 40.136843)",
-  "solr_year_i": "1849"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

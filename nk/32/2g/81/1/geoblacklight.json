@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1914",
   "uuid": "http://arks.princeton.edu/ark:/88435/nk322g811",
+  "dc_description_s": "Djebel Ri\u0302h\u0323a\u0304 or Djebel iz-Za\u0302wiyeh",
+  "georss_box_s": "32.311354 35.4714427 37.3184589 42.3745687",
+  "layer_modified_dt": "2015-01-25T02:06:14Z",
   "dc_creator_sm": [
     "Norris, F. A.",
     "Cook, C. F."
   ],
-  "dc_description_s": "Djebel Rîḥā or Djebel iz-Zâwiyeh",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "nk322g811",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/nk322g811/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fnk%2F32%2F2g%2F81%2F1%2F00000001.jp2/info.json\"}",
   "layer_id_s": "nk322g811",
-  "layer_slug_s": "princeton-nk322g811",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:14Z",
-  "dc_title_s": "Djebel Rîḥā or Djebel iz-Zâwiyeh",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Syria"
-  ],
+  "dc_identifier_s": "nk322g811",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Djebel Ri\u0302h\u0323a\u0304 or Djebel iz-Za\u0302wiyeh",
+  "layer_slug_s": "princeton-nk322g811",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/nk322g811/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/nk/32/2g/81/1/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "37.3184589 35.4714427 37.3184589 42.3745687 32.311354 42.3745687 32.311354 35.4714427 37.3184589 35.4714427",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1914"
   ],
-  "georss_box_s": "32.311354 35.4714427 37.3184589 42.3745687",
-  "georss_polygon_s": "37.3184589 35.4714427 37.3184589 42.3745687 32.311354 42.3745687 32.311354 35.4714427 37.3184589 35.4714427",
   "solr_geom": "ENVELOPE(35.4714427, 42.3745687, 37.3184589, 32.311354)",
-  "solr_year_i": "1914"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Syria"
+  ]
 }

@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/cj82k9632",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Washington",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "cj82k9632",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fcj%2F82%2Fk9%2F63%2F2%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "cj82k9632",
-  "layer_slug_s": "princeton-cj82k9632",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:10:50Z",
+  "solr_geom": "ENVELOPE(-74.999381, -74.962106, 40.768524, 40.744654)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/cj/82/k9/63/2/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/cj82k9632",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Insurance maps of Washington, Warren Co., New Jersey : including Port Colden, Port Murray, Changewater, Broadway, New Village and Stewartsville (Sheet 20)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1909"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "cj82k9632",
+  "georss_polygon_s": "40.768524 -74.999381 40.768524 -74.962106 40.744654 -74.962106 40.744654 -74.999381 40.768524 -74.999381",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1909",
   "dct_spatial_sm": [
     "New Jersey",
     "Washington"
   ],
-  "dct_temporal_sm": [
-    "1909"
-  ],
+  "layer_id_s": "cj82k9632",
   "georss_box_s": "40.744654 -74.999381 40.768524 -74.962106",
-  "georss_polygon_s": "40.768524 -74.999381 40.768524 -74.962106 40.744654 -74.962106 40.744654 -74.999381 40.768524 -74.999381",
-  "solr_geom": "ENVELOPE(-74.999381, -74.962106, 40.768524, 40.744654)",
-  "solr_year_i": "1909"
+  "dc_title_s": "Insurance maps of Washington, Warren Co., New Jersey : including Port Colden, Port Murray, Changewater, Broadway, New Village and Stewartsville (Sheet 20)",
+  "layer_slug_s": "princeton-cj82k9632",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

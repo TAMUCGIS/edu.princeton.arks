@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/d791sj502",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Summit",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "d791sj502",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fd7%2F91%2Fsj%2F50%2F2%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "d791sj502",
-  "layer_slug_s": "princeton-d791sj502",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:10:20Z",
+  "solr_geom": "ENVELOPE(-74.789943, -74.738975, 39.066099, 39.014002)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/d7/91/sj/50/2/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/d791sj502",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Summit, Union County, New Jersey (Sheet 13)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1929"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "d791sj502",
+  "georss_polygon_s": "39.066099 -74.789943 39.066099 -74.738975 39.014002 -74.738975 39.014002 -74.789943 39.066099 -74.789943",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1929",
   "dct_spatial_sm": [
     "New Jersey",
     "Summit"
   ],
-  "dct_temporal_sm": [
-    "1929"
-  ],
+  "layer_id_s": "d791sj502",
   "georss_box_s": "39.014002 -74.789943 39.066099 -74.738975",
-  "georss_polygon_s": "39.066099 -74.789943 39.066099 -74.738975 39.014002 -74.738975 39.014002 -74.789943 39.066099 -74.789943",
-  "solr_geom": "ENVELOPE(-74.789943, -74.738975, 39.066099, 39.014002)",
-  "solr_year_i": "1929"
+  "dc_title_s": "Summit, Union County, New Jersey (Sheet 13)",
+  "layer_slug_s": "princeton-d791sj502",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1880",
   "uuid": "http://arks.princeton.edu/ark:/88435/qz20sv920",
   "dc_description_s": "Map of the golden northwest : showing location of the great wheat growing region of North Dakota, in the vallies of the Sheyenne, James and Red Rivers",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "qz20sv920",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/qz20sv920/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fqz%2F20%2Fsv%2F92%2F0%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "qz20sv920",
-  "layer_slug_s": "princeton-qz20sv920",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "45.9350359 -104.0492649 49.0004918 -96.5543974",
   "layer_modified_dt": "2015-01-21T22:24:01Z",
-  "dc_title_s": "Map of the golden northwest : showing location of the great wheat growing region of North Dakota, in the vallies of the Sheyenne, James and Red Rivers",
+  "layer_id_s": "qz20sv920",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "North Dakota"
-  ],
+  "dc_identifier_s": "qz20sv920",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Map of the golden northwest : showing location of the great wheat growing region of North Dakota, in the vallies of the Sheyenne, James and Red Rivers",
+  "layer_slug_s": "princeton-qz20sv920",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/qz20sv920/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/qz/20/sv/92/0/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "49.0004918 -104.0492649 49.0004918 -96.5543974 45.9350359 -96.5543974 45.9350359 -104.0492649 49.0004918 -104.0492649",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1880"
   ],
-  "georss_box_s": "45.9350359 -104.0492649 49.0004918 -96.5543974",
-  "georss_polygon_s": "49.0004918 -104.0492649 49.0004918 -96.5543974 45.9350359 -96.5543974 45.9350359 -104.0492649 49.0004918 -104.0492649",
   "solr_geom": "ENVELOPE(-104.0492649, -96.5543974, 49.0004918, 45.9350359)",
-  "solr_year_i": "1880"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "North Dakota"
+  ]
 }

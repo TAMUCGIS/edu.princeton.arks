@@ -2,7 +2,7 @@
   "dc_description_s": "This is a map of the city of Manila South in the Philippines, shown at a 1:12,500 scale. The map was created for use by War and Navy Department agencies during World War II.",
   "layer_modified_dt": "2015-01-11T17:43:23Z",
   "solr_geom": "ENVELOPE(120.9500, 121.0833, 14.5833, 14.500)",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ftd%2F96%2Fk4%2F17%2Fd%2F00000001.jp2/info.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/td96k417d/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/td96k417d/preview.jpg\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/td96k417d/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/td/96/k4/17/d/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/td96k417d/preview.jpg\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/td96k417d",
   "dct_provenance_s": "Princeton",
@@ -17,7 +17,7 @@
     "Facilities and Structures"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "1945",
+  "layer_slug_s": "princeton-td96k417d",
   "dc_creator_sm": [
     "Army Map Service"
   ],
@@ -34,7 +34,7 @@
   "layer_id_s": "td96k417d",
   "georss_box_s": "14.500 120.9500 14.5833 121.0833",
   "dc_title_s": "Manila South, Philippine Islands, Manila City, Luzon. A.M.S. S901.",
-  "layer_slug_s": "princeton-td96k417d",
+  "dct_issued_s": "1945",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

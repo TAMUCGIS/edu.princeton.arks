@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1788",
   "uuid": "http://arks.princeton.edu/ark:/88435/p5547t895",
+  "dc_description_s": "L'Italie dresse\u0301e sur les observations de Mrs. de l'Acade\u0301mie Royale des Sciences sur celles du R.P. Riccioli de la Compagnie de Jesus et autres astronomes du pays, et sur plusieurs autres me\u0301moires /",
+  "georss_box_s": "35.2889616 6.6272658 47.0921462 18.7844746",
+  "layer_modified_dt": "2015-01-21T22:24:25Z",
   "dc_creator_sm": [
     "Berey, Charles Amadeus de,",
     "Dezauche, J.,",
     "Riccioli, Giovanni Battista,"
   ],
-  "dc_description_s": "L'Italie dressée sur les observations de Mrs. de l'Académie Royale des Sciences sur celles du R.P. Riccioli de la Compagnie de Jesus et autres astronomes du pays, et sur plusieurs autres mémoires /",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "p5547t895",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/p5547t895/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fp5%2F54%2F7t%2F89%2F5%2F00000001.jp2/info.json\"}",
   "layer_id_s": "p5547t895",
-  "layer_slug_s": "princeton-p5547t895",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:25Z",
-  "dc_title_s": "L'Italie dressée sur les observations de Mrs. de l'Académie Royale des Sciences sur celles du R.P. Riccioli de la Compagnie de Jesus et autres astronomes du pays, et sur plusieurs autres mémoires /",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Italy"
-  ],
+  "dc_identifier_s": "p5547t895",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "L'Italie dresse\u0301e sur les observations de Mrs. de l'Acade\u0301mie Royale des Sciences sur celles du R.P. Riccioli de la Compagnie de Jesus et autres astronomes du pays, et sur plusieurs autres me\u0301moires /",
+  "layer_slug_s": "princeton-p5547t895",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/p5547t895/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/p5/54/7t/89/5/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "47.0921462 6.6272658 47.0921462 18.7844746 35.2889616 18.7844746 35.2889616 6.6272658 47.0921462 6.6272658",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1788"
   ],
-  "georss_box_s": "35.2889616 6.6272658 47.0921462 18.7844746",
-  "georss_polygon_s": "47.0921462 6.6272658 47.0921462 18.7844746 35.2889616 18.7844746 35.2889616 6.6272658 47.0921462 6.6272658",
   "solr_geom": "ENVELOPE(6.6272658, 18.7844746, 47.0921462, 35.2889616)",
-  "solr_year_i": "1788"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Italy"
+  ]
 }

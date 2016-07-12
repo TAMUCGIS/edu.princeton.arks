@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1822",
   "uuid": "http://arks.princeton.edu/ark:/88435/2b88qf63g",
+  "dc_description_s": "West Indies",
+  "georss_box_s": "12.1100113 -68.9386657 12.11007 -68.9386084",
+  "layer_modified_dt": "2015-01-21T22:24:09Z",
   "dc_creator_sm": [
     "Cooper, John C.,"
   ],
-  "dc_description_s": "West Indies",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "2b88qf63g",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/2b88qf63g/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F2b%2F88%2Fqf%2F63%2Fg%2F00000001.jp2/info.json\"}",
   "layer_id_s": "2b88qf63g",
-  "layer_slug_s": "princeton-2b88qf63g",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:09Z",
-  "dc_title_s": "West Indies",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "West Indies"
-  ],
+  "dc_identifier_s": "2b88qf63g",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "West Indies",
+  "layer_slug_s": "princeton-2b88qf63g",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/2b88qf63g/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/2b/88/qf/63/g/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "12.11007 -68.9386657 12.11007 -68.9386084 12.1100113 -68.9386084 12.1100113 -68.9386657 12.11007 -68.9386657",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1822"
   ],
-  "georss_box_s": "12.1100113 -68.9386657 12.11007 -68.9386084",
-  "georss_polygon_s": "12.11007 -68.9386657 12.11007 -68.9386084 12.1100113 -68.9386084 12.1100113 -68.9386657 12.11007 -68.9386657",
   "solr_geom": "ENVELOPE(-68.9386657, -68.9386084, 12.11007, 12.1100113)",
-  "solr_year_i": "1822"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "West Indies"
+  ]
 }

@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1748",
   "uuid": "http://arks.princeton.edu/ark:/88435/6682x6428",
+  "dc_description_s": "Royme. d'Angleterre divise\u0301 par provinces et shires ou comte\u0301s",
+  "georss_box_s": "49.674 -6.7047493 55.917 2.0919117",
+  "layer_modified_dt": "2015-01-21T22:24:16Z",
   "dc_creator_sm": [
     "Robert de Vaugondy, Gilles,"
   ],
-  "dc_description_s": "Royme. d'Angleterre divisé par provinces et shires ou comtés",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "6682x6428",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/6682x6428/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F66%2F82%2Fx6%2F42%2F8%2F00000001.jp2/info.json\"}",
   "layer_id_s": "6682x6428",
-  "layer_slug_s": "princeton-6682x6428",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:16Z",
-  "dc_title_s": "Royme. d'Angleterre divisé par provinces et shires ou comtés",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "England",
-    "Wales"
-  ],
+  "dc_identifier_s": "6682x6428",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Royme. d'Angleterre divise\u0301 par provinces et shires ou comte\u0301s",
+  "layer_slug_s": "princeton-6682x6428",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/6682x6428/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/66/82/x6/42/8/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "55.917 -6.7047493 55.917 2.0919117 49.674 2.0919117 49.674 -6.7047493 55.917 -6.7047493",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1748"
   ],
-  "georss_box_s": "49.674 -6.7047493 55.917 2.0919117",
-  "georss_polygon_s": "55.917 -6.7047493 55.917 2.0919117 49.674 2.0919117 49.674 -6.7047493 55.917 -6.7047493",
   "solr_geom": "ENVELOPE(-6.7047493, 2.0919117, 55.917, 49.674)",
-  "solr_year_i": "1748"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "England",
+    "Wales"
+  ]
 }

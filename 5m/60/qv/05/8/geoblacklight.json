@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/5m60qv058",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Rockaway",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "5m60qv058",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F5m%2F60%2Fqv%2F05%2F8%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "5m60qv058",
-  "layer_slug_s": "princeton-5m60qv058",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:06:20Z",
+  "solr_geom": "ENVELOPE(-74.536411, -74.496905, 40.911764, 40.883449)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/5m/60/qv/05/8/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/5m60qv058",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Rockaway, Morris County, New Jersey (Sheet 2)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1904"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "5m60qv058",
+  "georss_polygon_s": "40.911764 -74.536411 40.911764 -74.496905 40.883449 -74.496905 40.883449 -74.536411 40.911764 -74.536411",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1904",
   "dct_spatial_sm": [
     "New Jersey",
     "Rockaway"
   ],
-  "dct_temporal_sm": [
-    "1904"
-  ],
+  "layer_id_s": "5m60qv058",
   "georss_box_s": "40.883449 -74.536411 40.911764 -74.496905",
-  "georss_polygon_s": "40.911764 -74.536411 40.911764 -74.496905 40.883449 -74.496905 40.883449 -74.536411 40.911764 -74.536411",
-  "solr_geom": "ENVELOPE(-74.536411, -74.496905, 40.911764, 40.883449)",
-  "solr_year_i": "1904"
+  "dc_title_s": "Rockaway, Morris County, New Jersey (Sheet 2)",
+  "layer_slug_s": "princeton-5m60qv058",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

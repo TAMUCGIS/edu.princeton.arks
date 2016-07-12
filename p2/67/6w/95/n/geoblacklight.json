@@ -2,7 +2,7 @@
   "dc_description_s": "A scanned historical New Jersey Geological Survey Atlas Sheet shown at a scale of 1:63,360.",
   "layer_modified_dt": "2015-01-11T17:42:27Z",
   "solr_geom": "ENVELOPE(-75.000, -74.5500, 39.3333, 38.8500)",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fp2%2F67%2F6w%2F95%2Fn%2F00000001.jp2/info.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/p2676w95n/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/p2676w95n/preview.jpg\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/p2676w95n/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/p2/67/6w/95/n/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/p2676w95n/preview.jpg\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/p2676w95n",
   "dct_provenance_s": "Princeton",
@@ -14,7 +14,7 @@
     "Administrative and political boundaries"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "1888",
+  "layer_slug_s": "princeton-p2676w95n",
   "dc_creator_sm": [
     "Vermeule, Cornelius Clarkson"
   ],
@@ -29,7 +29,7 @@
   "layer_id_s": "p2676w95n",
   "georss_box_s": "38.8500 -75.000 39.3333 -74.5500",
   "dc_title_s": "A topographical map of the peninsula of Cape May with the country westward to Maurice River.",
-  "layer_slug_s": "princeton-p2676w95n",
+  "dct_issued_s": "1888",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

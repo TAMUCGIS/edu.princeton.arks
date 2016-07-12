@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1673",
   "uuid": "http://arks.princeton.edu/ark:/88435/df65vb21k",
+  "dc_description_s": "Novi Belgii, Nov\u00e6que Angli\u00e6 nec non partis Virgini\u00e6 tabula",
+  "georss_box_s": "36.8303008344 -77.3725362406 46.6015166064 -66.6294898813",
+  "layer_modified_dt": "2015-01-21T22:23:56Z",
   "dc_creator_sm": [
     "Fox, N. B.,"
   ],
-  "dc_description_s": "Novi Belgii, Novæque Angliæ nec non partis Virginiæ tabula",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "df65vb21k",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/df65vb21k/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fdf%2F65%2Fvb%2F21%2Fk%2F00000001.jp2/info.json\"}",
   "layer_id_s": "df65vb21k",
-  "layer_slug_s": "princeton-df65vb21k",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:56Z",
-  "dc_title_s": "Novi Belgii, Novæque Angliæ nec non partis Virginiæ tabula",
   "dc_type_s": "Image",
+  "dc_identifier_s": "df65vb21k",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Novi Belgii, Nov\u00e6que Angli\u00e6 nec non partis Virgini\u00e6 tabula",
+  "layer_slug_s": "princeton-df65vb21k",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/df65vb21k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/df/65/vb/21/k/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "46.6015166064 -77.3725362406 46.6015166064 -66.6294898813 36.8303008344 -66.6294898813 36.8303008344 -77.3725362406 46.6015166064 -77.3725362406",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1673"
+  ],
+  "solr_geom": "ENVELOPE(-77.3725362406, -66.6294898813, 46.6015166064, 36.8303008344)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Indians of North America",
     "New England",
     "Middle Atlantic States"
-  ],
-  "dct_temporal_sm": [
-    "1673"
-  ],
-  "georss_box_s": "36.8303008344 -77.3725362406 46.6015166064 -66.6294898813",
-  "georss_polygon_s": "46.6015166064 -77.3725362406 46.6015166064 -66.6294898813 36.8303008344 -66.6294898813 36.8303008344 -77.3725362406 46.6015166064 -77.3725362406",
-  "solr_geom": "ENVELOPE(-77.3725362406, -66.6294898813, 46.6015166064, 36.8303008344)",
-  "solr_year_i": "1673"
+  ]
 }

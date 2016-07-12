@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1576",
   "uuid": "http://arks.princeton.edu/ark:/88435/xw42nb395",
+  "dc_description_s": "Promontorium hoc in mare proiectum Cornubia dicitur",
+  "georss_box_s": "49.958607 -5.747106 50.9312729 -4.1649443",
+  "layer_modified_dt": "2015-01-21T22:24:19Z",
   "dc_creator_sm": [
     "Saxton, Christopher,",
     "Terwoort, Lenaert,"
   ],
-  "dc_description_s": "Promontorium hoc in mare proiectum Cornubia dicitur",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "xw42nb395",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/xw42nb395/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fxw%2F42%2Fnb%2F39%2F5%2F00000001.jp2/info.json\"}",
   "layer_id_s": "xw42nb395",
-  "layer_slug_s": "princeton-xw42nb395",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:19Z",
-  "dc_title_s": "Promontorium hoc in mare proiectum Cornubia dicitur",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Cornwall (England : County)"
-  ],
+  "dc_identifier_s": "xw42nb395",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Promontorium hoc in mare proiectum Cornubia dicitur",
+  "layer_slug_s": "princeton-xw42nb395",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/xw42nb395/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/xw/42/nb/39/5/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "50.9312729 -5.747106 50.9312729 -4.1649443 49.958607 -4.1649443 49.958607 -5.747106 50.9312729 -5.747106",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1576"
   ],
-  "georss_box_s": "49.958607 -5.747106 50.9312729 -4.1649443",
-  "georss_polygon_s": "50.9312729 -5.747106 50.9312729 -4.1649443 49.958607 -4.1649443 49.958607 -5.747106 50.9312729 -5.747106",
   "solr_geom": "ENVELOPE(-5.747106, -4.1649443, 50.9312729, 49.958607)",
-  "solr_year_i": "1576"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Cornwall (England : County)"
+  ]
 }

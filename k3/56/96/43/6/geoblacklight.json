@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/k35696436",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Metuchen",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "k35696436",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fk3%2F56%2F96%2F43%2F6%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "k35696436",
-  "layer_slug_s": "princeton-k35696436",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:05:34Z",
+  "solr_geom": "ENVELOPE(-74.747661, -74.707661, 39.472333, 39.432333)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/k3/56/96/43/6/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/k35696436",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Metuchen, Middlesex County, New Jersey (Sheet 6)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1920"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "k35696436",
+  "georss_polygon_s": "39.472333 -74.747661 39.472333 -74.707661 39.432333 -74.707661 39.432333 -74.747661 39.472333 -74.747661",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1920",
   "dct_spatial_sm": [
     "New Jersey",
     "Metuchen"
   ],
-  "dct_temporal_sm": [
-    "1920"
-  ],
+  "layer_id_s": "k35696436",
   "georss_box_s": "39.432333 -74.747661 39.472333 -74.707661",
-  "georss_polygon_s": "39.472333 -74.747661 39.472333 -74.707661 39.432333 -74.707661 39.432333 -74.747661 39.472333 -74.747661",
-  "solr_geom": "ENVELOPE(-74.747661, -74.707661, 39.472333, 39.432333)",
-  "solr_year_i": "1920"
+  "dc_title_s": "Metuchen, Middlesex County, New Jersey (Sheet 6)",
+  "layer_slug_s": "princeton-k35696436",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

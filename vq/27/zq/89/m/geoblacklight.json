@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1820",
   "uuid": "http://arks.princeton.edu/ark:/88435/vq27zq89m",
+  "dc_description_s": "Carte itine\u0301raire de la France, indiquant les diffe\u0301rentes espe\u0300ces de routes & les distances de villes a\u0300 autres, en lieues de 2000 toises chacune, compris les sinuosute\u0301s des montagnes",
+  "georss_box_s": "-50.2187168 -178.3873748 51.268318 172.3057152",
+  "layer_modified_dt": "2015-01-21T22:24:15Z",
   "dc_creator_sm": [
     "Collin, E.,"
   ],
-  "dc_description_s": "Carte itinéraire de la France, indiquant les différentes espèces de routes & les distances de villes à autres, en lieues de 2000 toises chacune, compris les sinuosutés des montagnes",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "vq27zq89m",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/vq27zq89m/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fvq%2F27%2Fzq%2F89%2Fm%2F00000001.jp2/info.json\"}",
   "layer_id_s": "vq27zq89m",
-  "layer_slug_s": "princeton-vq27zq89m",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:15Z",
-  "dc_title_s": "Carte itinéraire de la France, indiquant les différentes espèces de routes & les distances de villes à autres, en lieues de 2000 toises chacune, compris les sinuosutés des montagnes",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "France"
-  ],
+  "dc_identifier_s": "vq27zq89m",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Carte itine\u0301raire de la France, indiquant les diffe\u0301rentes espe\u0300ces de routes & les distances de villes a\u0300 autres, en lieues de 2000 toises chacune, compris les sinuosute\u0301s des montagnes",
+  "layer_slug_s": "princeton-vq27zq89m",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/vq27zq89m/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/vq/27/zq/89/m/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "51.268318 -178.3873748 51.268318 172.3057152 -50.2187168 172.3057152 -50.2187168 -178.3873748 51.268318 -178.3873748",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1820"
   ],
-  "georss_box_s": "-50.2187168 -178.3873748 51.268318 172.3057152",
-  "georss_polygon_s": "51.268318 -178.3873748 51.268318 172.3057152 -50.2187168 172.3057152 -50.2187168 -178.3873748 51.268318 -178.3873748",
   "solr_geom": "ENVELOPE(-178.3873748, 172.3057152, 51.268318, -50.2187168)",
-  "solr_year_i": "1820"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "France"
+  ]
 }

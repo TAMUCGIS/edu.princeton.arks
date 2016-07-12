@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/7d278v97b",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Port Norris",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "7d278v97b",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F7d%2F27%2F8v%2F97%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "7d278v97b",
-  "layer_slug_s": "princeton-7d278v97b",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:02:52Z",
+  "solr_geom": "ENVELOPE(-75.065725, -75.010814, 39.252755, 39.22453)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/7d/27/8v/97/b/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/7d278v97b",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Port Norris, Cumberland County, New Jersey (Sheet 3)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1920"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "7d278v97b",
+  "georss_polygon_s": "39.252755 -75.065725 39.252755 -75.010814 39.22453 -75.010814 39.22453 -75.065725 39.252755 -75.065725",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1920",
   "dct_spatial_sm": [
     "New Jersey",
     "Port Norris"
   ],
-  "dct_temporal_sm": [
-    "1920"
-  ],
+  "layer_id_s": "7d278v97b",
   "georss_box_s": "39.22453 -75.065725 39.252755 -75.010814",
-  "georss_polygon_s": "39.252755 -75.065725 39.252755 -75.010814 39.22453 -75.010814 39.22453 -75.065725 39.252755 -75.065725",
-  "solr_geom": "ENVELOPE(-75.065725, -75.010814, 39.252755, 39.22453)",
-  "solr_year_i": "1920"
+  "dc_title_s": "Port Norris, Cumberland County, New Jersey (Sheet 3)",
+  "layer_slug_s": "princeton-7d278v97b",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

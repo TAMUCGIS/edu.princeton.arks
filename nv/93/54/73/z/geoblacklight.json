@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/nv935473z",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Ocean Grove",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "nv935473z",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fnv%2F93%2F54%2F73%2Fz%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "nv935473z",
-  "layer_slug_s": "princeton-nv935473z",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:01:55Z",
+  "solr_geom": "ENVELOPE(-74.0160229, -73.9984811, 40.217172, 40.2068759)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/nv/93/54/73/z/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/nv935473z",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Ocean Grove, Monmouth Co., New Jersey (Sheet 31)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1890"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "nv935473z",
+  "georss_polygon_s": "40.217172 -74.0160229 40.217172 -73.9984811 40.2068759 -73.9984811 40.2068759 -74.0160229 40.217172 -74.0160229",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1890",
   "dct_spatial_sm": [
     "New Jersey",
     "Ocean Grove"
   ],
-  "dct_temporal_sm": [
-    "1890"
-  ],
+  "layer_id_s": "nv935473z",
   "georss_box_s": "40.2068759 -74.0160229 40.217172 -73.9984811",
-  "georss_polygon_s": "40.217172 -74.0160229 40.217172 -73.9984811 40.2068759 -73.9984811 40.2068759 -74.0160229 40.217172 -74.0160229",
-  "solr_geom": "ENVELOPE(-74.0160229, -73.9984811, 40.217172, 40.2068759)",
-  "solr_year_i": "1890"
+  "dc_title_s": "Ocean Grove, Monmouth Co., New Jersey (Sheet 31)",
+  "layer_slug_s": "princeton-nv935473z",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

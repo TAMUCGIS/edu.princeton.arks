@@ -2,7 +2,7 @@
   "dc_description_s": "This is a map of the city of Shantou, China shown at a 1:10,000 scale. This is a Russian map purchased from East View Cartographic.",
   "layer_modified_dt": "2015-01-11T17:42:58Z",
   "solr_geom": "ENVELOPE(116.6500, 116.7833, 23.4667, 23.3333)",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fh1%2F28%2Fng%2F25%2F3%2F00000001.jp2/info.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/h128ng253/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/h128ng253/preview.jpg\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/h128ng253/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/h1/28/ng/25/3/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/h128ng253/preview.jpg\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/h128ng253",
   "dct_provenance_s": "Princeton",
@@ -15,7 +15,7 @@
     "Facilities and Structures"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "1973",
+  "layer_slug_s": "princeton-h128ng253",
   "dc_creator_sm": [
     "Russia (Federation). General'nyi shtab. Voenno-topograficheskoe upravlenie"
   ],
@@ -33,7 +33,7 @@
   "layer_id_s": "h128ng253",
   "georss_box_s": "23.3333 116.6500 23.4667 116.7833",
   "dc_title_s": "Kitai provintsia Guandun. Shchan'tou (F-50-18, 30).  Sheet 4",
-  "layer_slug_s": "princeton-h128ng253",
+  "dct_issued_s": "1973",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

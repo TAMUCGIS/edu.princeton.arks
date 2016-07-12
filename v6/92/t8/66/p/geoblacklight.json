@@ -1,31 +1,31 @@
 {
+  "solr_year_i": "1572",
   "uuid": "http://arks.princeton.edu/ark:/88435/v692t866p",
+  "dc_description_s": "Toletum ; Vallisoletum",
+  "georss_box_s": "39.8383676 -4.0629256 39.886051 -3.9192423",
+  "layer_modified_dt": "2015-01-21T22:24:10Z",
   "dc_creator_sm": [
     "Braun, Georg,",
     "Hogenberg, Frans,",
     "McCabe, Robert A.,"
   ],
-  "dc_description_s": "Toletum ; Vallisoletum",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "v692t866p",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/v692t866p/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fv6%2F92%2Ft8%2F66%2Fp%2F00000001.jp2/info.json\"}",
   "layer_id_s": "v692t866p",
-  "layer_slug_s": "princeton-v692t866p",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:10Z",
-  "dc_title_s": "Toletum ; Vallisoletum",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Toledo (Spain)",
-    "Valladolid (Spain)"
-  ],
+  "dc_identifier_s": "v692t866p",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Toletum ; Vallisoletum",
+  "layer_slug_s": "princeton-v692t866p",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/v692t866p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/v6/92/t8/66/p/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "39.886051 -4.0629256 39.886051 -3.9192423 39.8383676 -3.9192423 39.8383676 -4.0629256 39.886051 -4.0629256",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1572"
   ],
-  "georss_box_s": "39.8383676 -4.0629256 39.886051 -3.9192423",
-  "georss_polygon_s": "39.886051 -4.0629256 39.886051 -3.9192423 39.8383676 -3.9192423 39.8383676 -4.0629256 39.886051 -4.0629256",
   "solr_geom": "ENVELOPE(-4.0629256, -3.9192423, 39.886051, 39.8383676)",
-  "solr_year_i": "1572"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Toledo (Spain)",
+    "Valladolid (Spain)"
+  ]
 }

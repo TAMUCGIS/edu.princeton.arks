@@ -1,31 +1,31 @@
 {
+  "solr_year_i": "1876",
   "uuid": "http://arks.princeton.edu/ark:/88435/cn69m660c",
+  "dc_description_s": "Navigation a\u0300 vapeur dans le bassin de la Me\u0301diterrane\u0301e et chemins de fer de L'Europe Centrale",
+  "georss_box_s": "45.4216739 5.8663425 55.0815 24.1458932",
+  "layer_modified_dt": "2015-01-21T22:24:12Z",
   "dc_creator_sm": [
     "Smith, Ch.,",
     "Rousset, P.,",
     "Andriveau-Goujon, E."
   ],
-  "dc_description_s": "Navigation à vapeur dans le bassin de la Méditerranée et chemins de fer de L'Europe Centrale",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "cn69m660c",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/cn69m660c/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fcn%2F69%2Fm6%2F60%2Fc%2F00000001.jp2/info.json\"}",
   "layer_id_s": "cn69m660c",
-  "layer_slug_s": "princeton-cn69m660c",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:12Z",
-  "dc_title_s": "Navigation à vapeur dans le bassin de la Méditerranée et chemins de fer de L'Europe Centrale",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Europe, Central",
-    "Mediterranean Region"
-  ],
+  "dc_identifier_s": "cn69m660c",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Navigation a\u0300 vapeur dans le bassin de la Me\u0301diterrane\u0301e et chemins de fer de L'Europe Centrale",
+  "layer_slug_s": "princeton-cn69m660c",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/cn69m660c/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/cn/69/m6/60/c/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "55.0815 5.8663425 55.0815 24.1458932 45.4216739 24.1458932 45.4216739 5.8663425 55.0815 5.8663425",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1876"
   ],
-  "georss_box_s": "45.4216739 5.8663425 55.0815 24.1458932",
-  "georss_polygon_s": "55.0815 5.8663425 55.0815 24.1458932 45.4216739 24.1458932 45.4216739 5.8663425 55.0815 5.8663425",
   "solr_geom": "ENVELOPE(5.8663425, 24.1458932, 55.0815, 45.4216739)",
-  "solr_year_i": "1876"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Europe, Central",
+    "Mediterranean Region"
+  ]
 }

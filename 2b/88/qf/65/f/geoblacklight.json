@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1856",
   "uuid": "http://arks.princeton.edu/ark:/88435/2b88qf65f",
+  "dc_description_s": "A part of Europe : designed to accompany Cornell's High school geography",
+  "georss_box_s": "39.0 -15.0 62.0 43.0",
+  "layer_modified_dt": "2015-01-19T22:37:22Z",
   "dc_creator_sm": [
     "Cornell, S. S.",
     "Fisher, W. H.,"
   ],
-  "dc_description_s": "A part of Europe : designed to accompany Cornell's High school geography",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "2b88qf65f",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/2b88qf65f/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F2b%2F88%2Fqf%2F65%2Ff%2F00000001.jp2/info.json\"}",
   "layer_id_s": "2b88qf65f",
-  "layer_slug_s": "princeton-2b88qf65f",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:22Z",
-  "dc_title_s": "A part of Europe : designed to accompany Cornell's High school geography",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Europe"
-  ],
+  "dc_identifier_s": "2b88qf65f",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "A part of Europe : designed to accompany Cornell's High school geography",
+  "layer_slug_s": "princeton-2b88qf65f",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/2b88qf65f/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/2b/88/qf/65/f/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "62.0 -15.0 62.0 43.0 39.0 43.0 39.0 -15.0 62.0 -15.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1856"
   ],
-  "georss_box_s": "39.0 -15.0 62.0 43.0",
-  "georss_polygon_s": "62.0 -15.0 62.0 43.0 39.0 43.0 39.0 -15.0 62.0 -15.0",
   "solr_geom": "ENVELOPE(-15.0, 43.0, 62.0, 39.0)",
-  "solr_year_i": "1856"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Europe"
+  ]
 }

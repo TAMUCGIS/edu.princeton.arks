@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1888",
   "uuid": "http://arks.princeton.edu/ark:/88435/k930c010n",
   "dc_description_s": "Railroad and county map of Virginia, W. Virginia",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "k930c010n",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/k930c010n/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fk9%2F30%2Fc0%2F10%2Fn%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "k930c010n",
-  "layer_slug_s": "princeton-k930c010n",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "36.5407896 -83.6754129 39.466012 -75.2312244",
   "layer_modified_dt": "2015-01-21T22:23:54Z",
-  "dc_title_s": "Railroad and county map of Virginia, W. Virginia",
+  "layer_id_s": "k930c010n",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Virginia",
-    "West Virginia"
-  ],
+  "dc_identifier_s": "k930c010n",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Railroad and county map of Virginia, W. Virginia",
+  "layer_slug_s": "princeton-k930c010n",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/k930c010n/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/k9/30/c0/10/n/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "39.466012 -83.6754129 39.466012 -75.2312244 36.5407896 -75.2312244 36.5407896 -83.6754129 39.466012 -83.6754129",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1888"
   ],
-  "georss_box_s": "36.5407896 -83.6754129 39.466012 -75.2312244",
-  "georss_polygon_s": "39.466012 -83.6754129 39.466012 -75.2312244 36.5407896 -75.2312244 36.5407896 -83.6754129 39.466012 -83.6754129",
   "solr_geom": "ENVELOPE(-83.6754129, -75.2312244, 39.466012, 36.5407896)",
-  "solr_year_i": "1888"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Virginia",
+    "West Virginia"
+  ]
 }

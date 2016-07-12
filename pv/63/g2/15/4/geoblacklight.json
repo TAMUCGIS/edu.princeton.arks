@@ -1,36 +1,36 @@
 {
+  "solr_year_i": "1741",
   "uuid": "http://arks.princeton.edu/ark:/88435/pv63g2154",
+  "dc_description_s": "A map of the British Empire in America : with the French, Spanish and Hollandish settlements adjacent thereto",
+  "georss_box_s": "5.84000 -106.54000 55.15000 -52.62000",
+  "layer_modified_dt": "2015-01-19T22:36:54Z",
   "dc_creator_sm": [
     "Condet, J.",
-    "Cóvens, Jean.",
+    "Co\u0301vens, Jean.",
     "Mortier, Corneille.",
     "L'Isle, Guillaume de,",
     "Fox, N. B.,"
   ],
-  "dc_description_s": "A map of the British Empire in America : with the French, Spanish and Hollandish settlements adjacent thereto",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "pv63g2154",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/pv63g2154/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fpv%2F63%2Fg2%2F15%2F4%2F00000001.jp2/info.json\"}",
   "layer_id_s": "pv63g2154",
-  "layer_slug_s": "princeton-pv63g2154",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:36:54Z",
-  "dc_title_s": "A map of the British Empire in America : with the French, Spanish and Hollandish settlements adjacent thereto",
   "dc_type_s": "Image",
+  "dc_identifier_s": "pv63g2154",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "A map of the British Empire in America : with the French, Spanish and Hollandish settlements adjacent thereto",
+  "layer_slug_s": "princeton-pv63g2154",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/pv63g2154/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/pv/63/g2/15/4/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "55.15000 -106.54000 55.15000 -52.62000 5.84000 -52.62000 5.84000 -106.54000 55.15000 -106.54000",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1741"
+  ],
+  "solr_geom": "ENVELOPE(-106.54000, -52.62000, 55.15000, 5.84000)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Great Britain",
     "North America",
     "France",
     "Netherlands",
     "Spain"
-  ],
-  "dct_temporal_sm": [
-    "1741"
-  ],
-  "georss_box_s": "5.84000 -106.54000 55.15000 -52.62000",
-  "georss_polygon_s": "55.15000 -106.54000 55.15000 -52.62000 5.84000 -52.62000 5.84000 -106.54000 55.15000 -106.54000",
-  "solr_geom": "ENVELOPE(-106.54000, -52.62000, 55.15000, 5.84000)",
-  "solr_year_i": "1741"
+  ]
 }

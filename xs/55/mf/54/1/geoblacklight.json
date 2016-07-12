@@ -1,22 +1,22 @@
 {
+  "solr_year_i": "1861",
   "uuid": "http://arks.princeton.edu/ark:/88435/xs55mf541",
   "dc_description_s": "Complete map of the rail roads and water courses, in the United States & Canada",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "xs55mf541",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/xs55mf541/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fxs%2F55%2Fmf%2F54%2F1%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "xs55mf541",
-  "layer_slug_s": "princeton-xs55mf541",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "28.0 -102.0 49.0 -66.0",
   "layer_modified_dt": "2015-01-19T22:37:26Z",
-  "dc_title_s": "Complete map of the rail roads and water courses, in the United States & Canada",
+  "layer_id_s": "xs55mf541",
   "dc_type_s": "Image",
+  "dc_identifier_s": "xs55mf541",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Complete map of the rail roads and water courses, in the United States & Canada",
+  "layer_slug_s": "princeton-xs55mf541",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/xs55mf541/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/xs/55/mf/54/1/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "49.0 -102.0 49.0 -66.0 28.0 -66.0 28.0 -102.0 49.0 -102.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1861"
   ],
-  "georss_box_s": "28.0 -102.0 49.0 -66.0",
-  "georss_polygon_s": "49.0 -102.0 49.0 -66.0 28.0 -66.0 28.0 -102.0 49.0 -102.0",
   "solr_geom": "ENVELOPE(-102.0, -66.0, 49.0, 28.0)",
-  "solr_year_i": "1861"
+  "dc_rights_s": "Public"
 }

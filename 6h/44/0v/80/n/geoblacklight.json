@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/6h440v80n",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Blairstown",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "6h440v80n",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F6h%2F44%2F0v%2F80%2Fn%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "6h440v80n",
-  "layer_slug_s": "princeton-6h440v80n",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:10:35Z",
+  "solr_geom": "ENVELOPE(-75.063313, -74.937618, 41.043585, 40.919716)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/6h/44/0v/80/n/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/6h440v80n",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Blairstown, Warren County, New Jersey (Sheet 1)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1918"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "6h440v80n",
+  "georss_polygon_s": "41.043585 -75.063313 41.043585 -74.937618 40.919716 -74.937618 40.919716 -75.063313 41.043585 -75.063313",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1918",
   "dct_spatial_sm": [
     "New Jersey",
     "Blairstown"
   ],
-  "dct_temporal_sm": [
-    "1918"
-  ],
+  "layer_id_s": "6h440v80n",
   "georss_box_s": "40.919716 -75.063313 41.043585 -74.937618",
-  "georss_polygon_s": "41.043585 -75.063313 41.043585 -74.937618 40.919716 -74.937618 40.919716 -75.063313 41.043585 -75.063313",
-  "solr_geom": "ENVELOPE(-75.063313, -74.937618, 41.043585, 40.919716)",
-  "solr_year_i": "1918"
+  "dc_title_s": "Blairstown, Warren County, New Jersey (Sheet 1)",
+  "layer_slug_s": "princeton-6h440v80n",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

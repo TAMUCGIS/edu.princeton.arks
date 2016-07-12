@@ -1,29 +1,27 @@
 {
+  "solr_year_i": "1947",
   "uuid": "http://arks.princeton.edu/ark:/88435/7h149r70p",
+  "dc_description_s": "New York: Antwerp Quadrangle",
+  "georss_box_s": "44.00000 -75.75000 44.25000 -75.50000",
+  "layer_modified_dt": "2015-01-19T22:36:39Z",
   "dc_creator_sm": [
     "Morey, W. H. S.",
     "Haswell, J. R."
   ],
-  "dc_description_s": "New York: Antwerp Quadrangle",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "7h149r70p",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/7h149r70p/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F7h%2F14%2F9r%2F70%2Fp%2F00000001.jp2/info.json\"}",
   "layer_id_s": "7h149r70p",
-  "layer_slug_s": "princeton-7h149r70p",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:36:39Z",
-  "dc_title_s": "New York: Antwerp Quadrangle",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "7h149r70p",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "New York: Antwerp Quadrangle",
+  "layer_slug_s": "princeton-7h149r70p",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/7h149r70p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/7h/14/9r/70/p/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "44.25000 -75.75000 44.25000 -75.50000 44.00000 -75.50000 44.00000 -75.75000 44.25000 -75.75000",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1947"
   ],
-  "georss_box_s": "44.00000 -75.75000 44.25000 -75.50000",
-  "georss_polygon_s": "44.25000 -75.75000 44.25000 -75.50000 44.00000 -75.50000 44.00000 -75.75000 44.25000 -75.75000",
   "solr_geom": "ENVELOPE(-75.75000, -75.50000, 44.25000, 44.00000)",
-  "solr_year_i": "1947"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

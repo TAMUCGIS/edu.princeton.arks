@@ -1,32 +1,32 @@
 {
+  "solr_year_i": "1791",
   "uuid": "http://arks.princeton.edu/ark:/88435/z029p727r",
+  "dc_description_s": "Die Landschaft Livadien einst Hellas oder das eigentliche Griechenland",
+  "georss_box_s": "35.8223934 22.8912482 38.3409794 24.1047417",
+  "layer_modified_dt": "2015-01-25T02:06:23Z",
   "dc_creator_sm": [
     "Reilly, Franz J. J. von."
   ],
-  "dc_description_s": "Die Landschaft Livadien einst Hellas oder das eigentliche Griechenland",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "z029p727r",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/z029p727r/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fz0%2F29%2Fp7%2F27%2Fr%2F00000001.jp2/info.json\"}",
   "layer_id_s": "z029p727r",
-  "layer_slug_s": "princeton-z029p727r",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:23Z",
-  "dc_title_s": "Die Landschaft Livadien einst Hellas oder das eigentliche Griechenland",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Attikē (Greece)",
-    "Voiōtia (Greece)",
-    "Levadhia (Greece)",
-    "Peloponnesus (Greece : Peninsula)",
-    "Greece"
-  ],
+  "dc_identifier_s": "z029p727r",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Die Landschaft Livadien einst Hellas oder das eigentliche Griechenland",
+  "layer_slug_s": "princeton-z029p727r",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/z029p727r/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/z0/29/p7/27/r/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "38.3409794 22.8912482 38.3409794 24.1047417 35.8223934 24.1047417 35.8223934 22.8912482 38.3409794 22.8912482",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1791"
   ],
-  "georss_box_s": "35.8223934 22.8912482 38.3409794 24.1047417",
-  "georss_polygon_s": "38.3409794 22.8912482 38.3409794 24.1047417 35.8223934 24.1047417 35.8223934 22.8912482 38.3409794 22.8912482",
   "solr_geom": "ENVELOPE(22.8912482, 24.1047417, 38.3409794, 35.8223934)",
-  "solr_year_i": "1791"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Attike\u0304 (Greece)",
+    "Voio\u0304tia (Greece)",
+    "Levadhia (Greece)",
+    "Peloponnesus (Greece : Peninsula)",
+    "Greece"
+  ]
 }

@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1857",
   "uuid": "http://arks.princeton.edu/ark:/88435/pz50gz574",
   "dc_description_s": "Bradshaw's new railway map of Gt. Britain and Ireland, shewing the stations, distance &c. : with enlarged plans of the principal towns, 1857",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "pz50gz574",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/pz50gz574/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fpz%2F50%2Fgz%2F57%2F4%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "pz50gz574",
-  "layer_slug_s": "princeton-pz50gz574",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "49.674 -14.0155169 61.061 2.0919117",
   "layer_modified_dt": "2015-01-21T22:24:16Z",
-  "dc_title_s": "Bradshaw's new railway map of Gt. Britain and Ireland, shewing the stations, distance &c. : with enlarged plans of the principal towns, 1857",
+  "layer_id_s": "pz50gz574",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Great Britain",
-    "Ireland"
-  ],
+  "dc_identifier_s": "pz50gz574",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Bradshaw's new railway map of Gt. Britain and Ireland, shewing the stations, distance &c. : with enlarged plans of the principal towns, 1857",
+  "layer_slug_s": "princeton-pz50gz574",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/pz50gz574/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/pz/50/gz/57/4/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "61.061 -14.0155169 61.061 2.0919117 49.674 2.0919117 49.674 -14.0155169 61.061 -14.0155169",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1857"
   ],
-  "georss_box_s": "49.674 -14.0155169 61.061 2.0919117",
-  "georss_polygon_s": "61.061 -14.0155169 61.061 2.0919117 49.674 2.0919117 49.674 -14.0155169 61.061 -14.0155169",
   "solr_geom": "ENVELOPE(-14.0155169, 2.0919117, 61.061, 49.674)",
-  "solr_year_i": "1857"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Great Britain",
+    "Ireland"
+  ]
 }

@@ -1,31 +1,31 @@
 {
+  "solr_year_i": "1762",
   "uuid": "http://arks.princeton.edu/ark:/88435/ht24wm922",
+  "dc_description_s": "Carte topographique qui comprend la partie septentrionale du Landgraviat de Hesse Cassel et de la Principaute\u0301 de Waldeck, l'Eveche\u0301 de Paderborn, partie du Comte\u0301 de Grubenhague et les frontieres de ses etats",
+  "georss_box_s": "49.3952611 7.7724063 51.657817 10.2364858",
+  "layer_modified_dt": "2015-01-21T22:24:19Z",
   "dc_creator_sm": [
     "Marquand, Allan,"
   ],
-  "dc_description_s": "Carte topographique qui comprend la partie septentrionale du Landgraviat de Hesse Cassel et de la Principauté de Waldeck, l'Eveché de Paderborn, partie du Comté de Grubenhague et les frontieres de ses etats",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "ht24wm922",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/ht24wm922/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fht%2F24%2Fwm%2F92%2F2%2F00000001.jp2/info.json\"}",
   "layer_id_s": "ht24wm922",
-  "layer_slug_s": "princeton-ht24wm922",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:19Z",
-  "dc_title_s": "Carte topographique qui comprend la partie septentrionale du Landgraviat de Hesse Cassel et de la Principauté de Waldeck, l'Eveché de Paderborn, partie du Comté de Grubenhague et les frontieres de ses etats",
   "dc_type_s": "Image",
+  "dc_identifier_s": "ht24wm922",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Carte topographique qui comprend la partie septentrionale du Landgraviat de Hesse Cassel et de la Principaute\u0301 de Waldeck, l'Eveche\u0301 de Paderborn, partie du Comte\u0301 de Grubenhague et les frontieres de ses etats",
+  "layer_slug_s": "princeton-ht24wm922",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/ht24wm922/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ht/24/wm/92/2/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "51.657817 7.7724063 51.657817 10.2364858 49.3952611 10.2364858 49.3952611 7.7724063 51.657817 7.7724063",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1762"
+  ],
+  "solr_geom": "ENVELOPE(7.7724063, 10.2364858, 51.657817, 49.3952611)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Hesse (Germany)",
     "Kassel (Germany : Landkreis)",
     "North Rhine-Westphalia (Germany)",
     "Waldeck (Hesse, Germany)"
-  ],
-  "dct_temporal_sm": [
-    "1762"
-  ],
-  "georss_box_s": "49.3952611 7.7724063 51.657817 10.2364858",
-  "georss_polygon_s": "51.657817 7.7724063 51.657817 10.2364858 49.3952611 10.2364858 49.3952611 7.7724063 51.657817 7.7724063",
-  "solr_geom": "ENVELOPE(7.7724063, 10.2364858, 51.657817, 49.3952611)",
-  "solr_year_i": "1762"
+  ]
 }

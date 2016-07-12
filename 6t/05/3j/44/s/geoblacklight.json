@@ -1,27 +1,27 @@
 {
+  "solr_year_i": "1889",
   "uuid": "http://arks.princeton.edu/ark:/88435/6t053j44s",
-  "dc_description_s": "Egypt, Arabia Petræea and lower Nubia",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "6t053j44s",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/6t053j44s/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F6t%2F05%2F3j%2F44%2Fs%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "6t053j44s",
-  "layer_slug_s": "princeton-6t053j44s",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Egypt, Arabia Petr\u00e6ea and lower Nubia",
+  "georss_box_s": "18.0 27.0 30.0 39.0",
   "layer_modified_dt": "2015-01-19T22:37:19Z",
-  "dc_title_s": "Egypt, Arabia Petræea and lower Nubia",
+  "layer_id_s": "6t053j44s",
   "dc_type_s": "Image",
+  "dc_identifier_s": "6t053j44s",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Egypt, Arabia Petr\u00e6ea and lower Nubia",
+  "layer_slug_s": "princeton-6t053j44s",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/6t053j44s/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/6t/05/3j/44/s/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "30.0 27.0 30.0 39.0 18.0 39.0 18.0 27.0 30.0 27.0",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1889"
+  ],
+  "solr_geom": "ENVELOPE(27.0, 39.0, 30.0, 18.0)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Arabia, Roman",
     "Egypt",
     "Nubia"
-  ],
-  "dct_temporal_sm": [
-    "1889"
-  ],
-  "georss_box_s": "18.0 27.0 30.0 39.0",
-  "georss_polygon_s": "30.0 27.0 30.0 39.0 18.0 39.0 18.0 27.0 30.0 27.0",
-  "solr_geom": "ENVELOPE(27.0, 39.0, 30.0, 18.0)",
-  "solr_year_i": "1889"
+  ]
 }

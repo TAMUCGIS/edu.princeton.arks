@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1616",
   "uuid": "http://arks.princeton.edu/ark:/88435/mw22v783r",
+  "dc_description_s": "Rhodi",
+  "georss_box_s": "35.8767211 27.6834947 36.4586052 28.2475278",
+  "layer_modified_dt": "2015-01-21T22:23:57Z",
   "dc_creator_sm": [
     "Keere, Pieter van den,",
     "Bertius, Petrus,"
   ],
-  "dc_description_s": "Rhodi",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "mw22v783r",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/mw22v783r/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fmw%2F22%2Fv7%2F83%2Fr%2F00000001.jp2/info.json\"}",
   "layer_id_s": "mw22v783r",
-  "layer_slug_s": "princeton-mw22v783r",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:57Z",
-  "dc_title_s": "Rhodi",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Rhodes (Greece : Island)"
-  ],
+  "dc_identifier_s": "mw22v783r",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Rhodi",
+  "layer_slug_s": "princeton-mw22v783r",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/mw22v783r/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/mw/22/v7/83/r/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "36.4586052 27.6834947 36.4586052 28.2475278 35.8767211 28.2475278 35.8767211 27.6834947 36.4586052 27.6834947",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1616"
   ],
-  "georss_box_s": "35.8767211 27.6834947 36.4586052 28.2475278",
-  "georss_polygon_s": "36.4586052 27.6834947 36.4586052 28.2475278 35.8767211 28.2475278 35.8767211 27.6834947 36.4586052 27.6834947",
   "solr_geom": "ENVELOPE(27.6834947, 28.2475278, 36.4586052, 35.8767211)",
-  "solr_year_i": "1616"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Rhodes (Greece : Island)"
+  ]
 }

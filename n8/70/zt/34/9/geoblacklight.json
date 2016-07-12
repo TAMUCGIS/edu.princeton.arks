@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1598",
   "uuid": "http://arks.princeton.edu/ark:/88435/n870zt349",
+  "dc_description_s": "Ratzenburgk",
+  "georss_box_s": "53.6702922 10.7266958 53.7815093 10.8268765",
+  "layer_modified_dt": "2015-01-21T22:24:26Z",
   "dc_creator_sm": [
     "Braun, Georg,",
     "Hogenberg, Frans,"
   ],
-  "dc_description_s": "Ratzenburgk",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "n870zt349",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/n870zt349/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fn8%2F70%2Fzt%2F34%2F9%2F00000001.jp2/info.json\"}",
   "layer_id_s": "n870zt349",
-  "layer_slug_s": "princeton-n870zt349",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:26Z",
-  "dc_title_s": "Ratzenburgk",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Ratzeburg (Germany)",
-    "Schleswig-Holstein (Germany)"
-  ],
+  "dc_identifier_s": "n870zt349",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Ratzenburgk",
+  "layer_slug_s": "princeton-n870zt349",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/n870zt349/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/n8/70/zt/34/9/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "53.7815093 10.7266958 53.7815093 10.8268765 53.6702922 10.8268765 53.6702922 10.7266958 53.7815093 10.7266958",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1598"
   ],
-  "georss_box_s": "53.6702922 10.7266958 53.7815093 10.8268765",
-  "georss_polygon_s": "53.7815093 10.7266958 53.7815093 10.8268765 53.6702922 10.8268765 53.6702922 10.7266958 53.7815093 10.7266958",
   "solr_geom": "ENVELOPE(10.7266958, 10.8268765, 53.7815093, 53.6702922)",
-  "solr_year_i": "1598"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Ratzeburg (Germany)",
+    "Schleswig-Holstein (Germany)"
+  ]
 }

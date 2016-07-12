@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1570",
   "uuid": "http://arks.princeton.edu/ark:/88435/ks65hf06h",
   "dc_description_s": "Creta insula, hodie Ca[n]dia : in medio po[n]to sita est ...",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "ks65hf06h",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/ks65hf06h/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fks%2F65%2Fhf%2F06%2Fh%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "ks65hf06h",
-  "layer_slug_s": "princeton-ks65hf06h",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "34.8009319 23.4739911 35.6956944 26.3524769",
   "layer_modified_dt": "2015-01-21T22:23:46Z",
-  "dc_title_s": "Creta insula, hodie Ca[n]dia : in medio po[n]to sita est ...",
+  "layer_id_s": "ks65hf06h",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Crete (Greece)"
-  ],
+  "dc_identifier_s": "ks65hf06h",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Creta insula, hodie Ca[n]dia : in medio po[n]to sita est ...",
+  "layer_slug_s": "princeton-ks65hf06h",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/ks65hf06h/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ks/65/hf/06/h/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "35.6956944 23.4739911 35.6956944 26.3524769 34.8009319 26.3524769 34.8009319 23.4739911 35.6956944 23.4739911",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1570"
   ],
-  "georss_box_s": "34.8009319 23.4739911 35.6956944 26.3524769",
-  "georss_polygon_s": "35.6956944 23.4739911 35.6956944 26.3524769 34.8009319 26.3524769 34.8009319 23.4739911 35.6956944 23.4739911",
   "solr_geom": "ENVELOPE(23.4739911, 26.3524769, 35.6956944, 34.8009319)",
-  "solr_year_i": "1570"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Crete (Greece)"
+  ]
 }

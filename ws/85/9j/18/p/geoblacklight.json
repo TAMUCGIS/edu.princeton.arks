@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1871",
   "uuid": "http://arks.princeton.edu/ark:/88435/ws859j18p",
   "dc_description_s": "Heidelberg",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "ws859j18p",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/ws859j18p/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fws%2F85%2F9j%2F18%2Fp%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "ws859j18p",
-  "layer_slug_s": "princeton-ws859j18p",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "47.5324787 7.5117461 49.7913277 10.4955731",
   "layer_modified_dt": "2015-01-21T22:24:26Z",
-  "dc_title_s": "Heidelberg",
+  "layer_id_s": "ws859j18p",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Baden-Württemberg (German)",
-    "Heidelberg (Germany)"
-  ],
+  "dc_identifier_s": "ws859j18p",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Heidelberg",
+  "layer_slug_s": "princeton-ws859j18p",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/ws859j18p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ws/85/9j/18/p/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "49.7913277 7.5117461 49.7913277 10.4955731 47.5324787 10.4955731 47.5324787 7.5117461 49.7913277 7.5117461",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1871"
   ],
-  "georss_box_s": "47.5324787 7.5117461 49.7913277 10.4955731",
-  "georss_polygon_s": "49.7913277 7.5117461 49.7913277 10.4955731 47.5324787 10.4955731 47.5324787 7.5117461 49.7913277 7.5117461",
   "solr_geom": "ENVELOPE(7.5117461, 10.4955731, 49.7913277, 47.5324787)",
-  "solr_year_i": "1871"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Baden-Wu\u0308rttemberg (German)",
+    "Heidelberg (Germany)"
+  ]
 }

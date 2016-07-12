@@ -1,27 +1,27 @@
 {
+  "solr_year_i": "1855",
   "uuid": "http://arks.princeton.edu/ark:/88435/js956h70v",
   "dc_description_s": "Colton's Turkey in Europe",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "js956h70v",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/js956h70v/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fs%2F95%2F6h%2F70%2Fv%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "js956h70v",
-  "layer_slug_s": "princeton-js956h70v",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "36.3854134 13.4285022 45.9089096 29.619427",
   "layer_modified_dt": "2015-01-21T22:23:48Z",
-  "dc_title_s": "Colton's Turkey in Europe",
+  "layer_id_s": "js956h70v",
   "dc_type_s": "Image",
+  "dc_identifier_s": "js956h70v",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Colton's Turkey in Europe",
+  "layer_slug_s": "princeton-js956h70v",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/js956h70v/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/js/95/6h/70/v/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "45.9089096 13.4285022 45.9089096 29.619427 36.3854134 29.619427 36.3854134 13.4285022 45.9089096 13.4285022",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1855"
+  ],
+  "solr_geom": "ENVELOPE(13.4285022, 29.619427, 45.9089096, 36.3854134)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Balkan Peninsula",
     "Crete (Greece)",
     "Turkey"
-  ],
-  "dct_temporal_sm": [
-    "1855"
-  ],
-  "georss_box_s": "36.3854134 13.4285022 45.9089096 29.619427",
-  "georss_polygon_s": "45.9089096 13.4285022 45.9089096 29.619427 36.3854134 29.619427 36.3854134 13.4285022 45.9089096 13.4285022",
-  "solr_geom": "ENVELOPE(13.4285022, 29.619427, 45.9089096, 36.3854134)",
-  "solr_year_i": "1855"
+  ]
 }

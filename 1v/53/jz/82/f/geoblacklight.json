@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1899",
   "uuid": "http://arks.princeton.edu/ark:/88435/1v53jz82f",
   "dc_description_s": "Map of the seat of war in Africa /",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "1v53jz82f",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/1v53jz82f/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F1v%2F53%2Fjz%2F82%2Ff%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "1v53jz82f",
-  "layer_slug_s": "princeton-1v53jz82f",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "-34.3333333333 24.1666666667 -22.0 33.6666666667",
   "layer_modified_dt": "2015-01-19T22:36:47Z",
-  "dc_title_s": "Map of the seat of war in Africa /",
+  "layer_id_s": "1v53jz82f",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "South Africa"
-  ],
+  "dc_identifier_s": "1v53jz82f",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Map of the seat of war in Africa /",
+  "layer_slug_s": "princeton-1v53jz82f",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/1v53jz82f/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/1v/53/jz/82/f/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "-22.0 24.1666666667 -22.0 33.6666666667 -34.3333333333 33.6666666667 -34.3333333333 24.1666666667 -22.0 24.1666666667",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1899"
   ],
-  "georss_box_s": "-34.3333333333 24.1666666667 -22.0 33.6666666667",
-  "georss_polygon_s": "-22.0 24.1666666667 -22.0 33.6666666667 -34.3333333333 33.6666666667 -34.3333333333 24.1666666667 -22.0 24.1666666667",
   "solr_geom": "ENVELOPE(24.1666666667, 33.6666666667, -22.0, -34.3333333333)",
-  "solr_year_i": "1899"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "South Africa"
+  ]
 }

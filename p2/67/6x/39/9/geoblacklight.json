@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/p2676x399",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Deal",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "p2676x399",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fp2%2F67%2F6x%2F39%2F9%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "p2676x399",
-  "layer_slug_s": "princeton-p2676x399",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:01:46Z",
+  "solr_geom": "ENVELOPE(-74.009733, -73.986681, 40.26345, 40.237266)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/p2/67/6x/39/9/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/p2676x399",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Deal Beach (Sheet 59), Monmouth Co., N.J.",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1890"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "p2676x399",
+  "georss_polygon_s": "40.26345 -74.009733 40.26345 -73.986681 40.237266 -73.986681 40.237266 -74.009733 40.26345 -74.009733",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1890",
   "dct_spatial_sm": [
     "New Jersey",
     "Deal"
   ],
-  "dct_temporal_sm": [
-    "1890"
-  ],
+  "layer_id_s": "p2676x399",
   "georss_box_s": "40.237266 -74.009733 40.26345 -73.986681",
-  "georss_polygon_s": "40.26345 -74.009733 40.26345 -73.986681 40.237266 -73.986681 40.237266 -74.009733 40.26345 -74.009733",
-  "solr_geom": "ENVELOPE(-74.009733, -73.986681, 40.26345, 40.237266)",
-  "solr_year_i": "1890"
+  "dc_title_s": "Deal Beach (Sheet 59), Monmouth Co., N.J.",
+  "layer_slug_s": "princeton-p2676x399",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

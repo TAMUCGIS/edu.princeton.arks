@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1683",
   "uuid": "http://arks.princeton.edu/ark:/88435/pn89d903w",
+  "dc_description_s": "Bagdet",
+  "georss_box_s": "33.1424248 44.2187992 33.4624248 44.5387992",
+  "layer_modified_dt": "2015-01-21T22:24:02Z",
   "dc_creator_sm": [
     "Manesson-Mallet, Allain,"
   ],
-  "dc_description_s": "Bagdet",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "pn89d903w",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/pn89d903w/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fpn%2F89%2Fd9%2F03%2Fw%2F00000001.jp2/info.json\"}",
   "layer_id_s": "pn89d903w",
-  "layer_slug_s": "princeton-pn89d903w",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:02Z",
-  "dc_title_s": "Bagdet",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Baghdad (Iraq)"
-  ],
+  "dc_identifier_s": "pn89d903w",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Bagdet",
+  "layer_slug_s": "princeton-pn89d903w",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/pn89d903w/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/pn/89/d9/03/w/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "33.4624248 44.2187992 33.4624248 44.5387992 33.1424248 44.5387992 33.1424248 44.2187992 33.4624248 44.2187992",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1683"
   ],
-  "georss_box_s": "33.1424248 44.2187992 33.4624248 44.5387992",
-  "georss_polygon_s": "33.4624248 44.2187992 33.4624248 44.5387992 33.1424248 44.5387992 33.1424248 44.2187992 33.4624248 44.2187992",
   "solr_geom": "ENVELOPE(44.2187992, 44.5387992, 33.4624248, 33.1424248)",
-  "solr_year_i": "1683"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Baghdad (Iraq)"
+  ]
 }

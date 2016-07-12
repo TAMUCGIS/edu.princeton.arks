@@ -1,28 +1,26 @@
 {
+  "solr_year_i": "1826",
   "uuid": "http://arks.princeton.edu/ark:/88435/q524jr201",
+  "dc_description_s": "Hooker's new pocket plan of the city of New York",
+  "georss_box_s": "40.7702778 -73.9797222 40.8102778 -73.9397222",
+  "layer_modified_dt": "2015-01-21T22:24:05Z",
   "dc_creator_sm": [
     "Fox, N. B.,"
   ],
-  "dc_description_s": "Hooker's new pocket plan of the city of New York",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "q524jr201",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/q524jr201/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fq5%2F24%2Fjr%2F20%2F1%2F00000001.jp2/info.json\"}",
   "layer_id_s": "q524jr201",
-  "layer_slug_s": "princeton-q524jr201",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:05Z",
-  "dc_title_s": "Hooker's new pocket plan of the city of New York",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "q524jr201",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Hooker's new pocket plan of the city of New York",
+  "layer_slug_s": "princeton-q524jr201",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/q524jr201/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/q5/24/jr/20/1/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.8102778 -73.9797222 40.8102778 -73.9397222 40.7702778 -73.9397222 40.7702778 -73.9797222 40.8102778 -73.9797222",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1826"
   ],
-  "georss_box_s": "40.7702778 -73.9797222 40.8102778 -73.9397222",
-  "georss_polygon_s": "40.8102778 -73.9797222 40.8102778 -73.9397222 40.7702778 -73.9397222 40.7702778 -73.9797222 40.8102778 -73.9797222",
   "solr_geom": "ENVELOPE(-73.9797222, -73.9397222, 40.8102778, 40.7702778)",
-  "solr_year_i": "1826"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

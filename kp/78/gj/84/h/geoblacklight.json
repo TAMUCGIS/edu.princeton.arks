@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1575",
   "uuid": "http://arks.princeton.edu/ark:/88435/kp78gj84h",
+  "dc_description_s": "Antiquera",
+  "georss_box_s": "36.893688 -4.827789 37.2310775 -4.346929",
+  "layer_modified_dt": "2015-01-21T22:24:10Z",
   "dc_creator_sm": [
     "Braun, Georg,",
     "Hogenberg, Frans,",
     "McCabe, Robert A.,"
   ],
-  "dc_description_s": "Antiquera",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "kp78gj84h",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/kp78gj84h/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fkp%2F78%2Fgj%2F84%2Fh%2F00000001.jp2/info.json\"}",
   "layer_id_s": "kp78gj84h",
-  "layer_slug_s": "princeton-kp78gj84h",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:10Z",
-  "dc_title_s": "Antiquera",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Antequera (Spain)"
-  ],
+  "dc_identifier_s": "kp78gj84h",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Antiquera",
+  "layer_slug_s": "princeton-kp78gj84h",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/kp78gj84h/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/kp/78/gj/84/h/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "37.2310775 -4.827789 37.2310775 -4.346929 36.893688 -4.346929 36.893688 -4.827789 37.2310775 -4.827789",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1575"
   ],
-  "georss_box_s": "36.893688 -4.827789 37.2310775 -4.346929",
-  "georss_polygon_s": "37.2310775 -4.827789 37.2310775 -4.346929 36.893688 -4.346929 36.893688 -4.827789 37.2310775 -4.827789",
   "solr_geom": "ENVELOPE(-4.827789, -4.346929, 37.2310775, 36.893688)",
-  "solr_year_i": "1575"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Antequera (Spain)"
+  ]
 }

@@ -1,32 +1,32 @@
 {
+  "solr_year_i": "1750",
   "uuid": "http://arks.princeton.edu/ark:/88435/j098zd00h",
+  "dc_description_s": "Mappa geographica, complectens : I. Indiae Occidentalis partem mediam circum Isthmum Panamensem, II. Ipsumq[ue] Isthmum, III. Ichnographiam praecipuorum locorum & portuum ad has terras pertinentium. Desumta omnia ex historia Insul\u00e6 S. Dominici & pro pr\u00e6senti statu belli, quod est 1740 inter Anglos & Hispanos exortum",
+  "georss_box_s": "9.9930001 -85.1715 27.263412 -59.4174957",
+  "layer_modified_dt": "2015-01-21T22:23:49Z",
   "dc_creator_sm": [
     "Anville, Jean Baptiste Bourguignon d',"
   ],
-  "dc_description_s": "Mappa geographica, complectens : I. Indiae Occidentalis partem mediam circum Isthmum Panamensem, II. Ipsumq[ue] Isthmum, III. Ichnographiam praecipuorum locorum & portuum ad has terras pertinentium. Desumta omnia ex historia Insulæ S. Dominici & pro præsenti statu belli, quod est 1740 inter Anglos & Hispanos exortum",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "j098zd00h",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/j098zd00h/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F0%2F98%2Fzd%2F00%2Fh%2F00000001.jp2/info.json\"}",
   "layer_id_s": "j098zd00h",
-  "layer_slug_s": "princeton-j098zd00h",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:49Z",
-  "dc_title_s": "Mappa geographica, complectens : I. Indiae Occidentalis partem mediam circum Isthmum Panamensem, II. Ipsumq[ue] Isthmum, III. Ichnographiam praecipuorum locorum & portuum ad has terras pertinentium. Desumta omnia ex historia Insulæ S. Dominici & pro præsenti statu belli, quod est 1740 inter Anglos & Hispanos exortum",
   "dc_type_s": "Image",
+  "dc_identifier_s": "j098zd00h",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Mappa geographica, complectens : I. Indiae Occidentalis partem mediam circum Isthmum Panamensem, II. Ipsumq[ue] Isthmum, III. Ichnographiam praecipuorum locorum & portuum ad has terras pertinentium. Desumta omnia ex historia Insul\u00e6 S. Dominici & pro pr\u00e6senti statu belli, quod est 1740 inter Anglos & Hispanos exortum",
+  "layer_slug_s": "princeton-j098zd00h",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/j098zd00h/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/j0/98/zd/00/h/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "27.263412 -85.1715 27.263412 -59.4174957 9.9930001 -59.4174957 9.9930001 -85.1715 27.263412 -85.1715",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1750"
+  ],
+  "solr_geom": "ENVELOPE(-85.1715, -59.4174957, 27.263412, 9.9930001)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Caribbean Area",
     "Central America",
     "Haiti",
     "Mexico City (Mexico)",
     "Veracruz (Veracruz-Llave, Mexico)"
-  ],
-  "dct_temporal_sm": [
-    "1750"
-  ],
-  "georss_box_s": "9.9930001 -85.1715 27.263412 -59.4174957",
-  "georss_polygon_s": "27.263412 -85.1715 27.263412 -59.4174957 9.9930001 -59.4174957 9.9930001 -85.1715 27.263412 -85.1715",
-  "solr_geom": "ENVELOPE(-85.1715, -59.4174957, 27.263412, 9.9930001)",
-  "solr_year_i": "1750"
+  ]
 }

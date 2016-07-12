@@ -2,7 +2,7 @@
   "dc_description_s": "A scanned historical New Jersey Department of Environmental Protection shown at a scale of 1:24,000.",
   "layer_modified_dt": "2015-01-11T17:42:54Z",
   "solr_geom": "ENVELOPE(-74.2500, -74.1167, 39.7500, 39.6167)",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F8w%2F32%2Fr7%2F14%2Fv%2F00000001.jp2/info.json\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geowebservices.princeton.edu/download/items/8w32r714v/fgdc.xml\",\"http://schema.org/thumbnailUrl\":\"https://geowebservices.princeton.edu/download/items/8w32r714v/preview.jpg\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/8w32r714v/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/8w/32/r7/14/v/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/8w32r714v/preview.jpg\"}",
   "dc_rights_s": "Public",
   "uuid": "http://arks.princeton.edu/ark:/88435/8w32r714v",
   "dct_provenance_s": "Princeton",
@@ -16,7 +16,7 @@
     "Shoreline changes"
   ],
   "dc_format_s": "Scanned Map",
-  "dct_issued_s": "1981",
+  "layer_slug_s": "princeton-8w32r714v",
   "dc_creator_sm": [
     "Kremper, John G."
   ],
@@ -34,7 +34,7 @@
   "layer_id_s": "8w32r714v",
   "georss_box_s": "39.6167 -74.2500 39.7500 -74.1167",
   "dc_title_s": "Historical shoreline changes in New Jersey 1835-1972. 8) Ship Bottom Quadrangle, New Jersey-Ocean Co. 7.5 minute series (topographic) ",
-  "layer_slug_s": "princeton-8w32r714v",
+  "dct_issued_s": "1981",
   "layer_geom_type_s": "Image",
   "dc_language_s": "English"
 }

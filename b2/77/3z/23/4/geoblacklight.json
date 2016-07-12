@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1745",
   "uuid": "http://arks.princeton.edu/ark:/88435/b2773z234",
   "dc_description_s": "Le cours du Po, du Tanaro, Doria, Sessia, Tessin, Adda, Oglio, et traversants le Piemont, Montferrat, Milanois Mantouan, Parmesan, et Ferrarois",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "b2773z234",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/b2773z234/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F2%2F77%2F3z%2F23%2F4%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "b2773z234",
-  "layer_slug_s": "princeton-b2773z234",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "42.6792426623 6.6267201 47.092 18.5205015",
   "layer_modified_dt": "2015-01-25T02:06:21Z",
-  "dc_title_s": "Le cours du Po, du Tanaro, Doria, Sessia, Tessin, Adda, Oglio, et traversants le Piemont, Montferrat, Milanois Mantouan, Parmesan, et Ferrarois",
+  "layer_id_s": "b2773z234",
   "dc_type_s": "Image",
+  "dc_identifier_s": "b2773z234",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Le cours du Po, du Tanaro, Doria, Sessia, Tessin, Adda, Oglio, et traversants le Piemont, Montferrat, Milanois Mantouan, Parmesan, et Ferrarois",
+  "layer_slug_s": "princeton-b2773z234",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/b2773z234/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/b2/77/3z/23/4/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "47.092 6.6267201 47.092 18.5205015 42.6792426623 18.5205015 42.6792426623 6.6267201 47.092 6.6267201",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1745"
+  ],
+  "solr_geom": "ENVELOPE(6.6267201, 18.5205015, 47.092, 42.6792426623)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Italy, Northern",
     "Monferrato (Italy)",
     "Piedmont (Italy)",
     "Po River Valley (Italy)"
-  ],
-  "dct_temporal_sm": [
-    "1745"
-  ],
-  "georss_box_s": "42.6792426623 6.6267201 47.092 18.5205015",
-  "georss_polygon_s": "47.092 6.6267201 47.092 18.5205015 42.6792426623 18.5205015 42.6792426623 6.6267201 47.092 6.6267201",
-  "solr_geom": "ENVELOPE(6.6267201, 18.5205015, 47.092, 42.6792426623)",
-  "solr_year_i": "1745"
+  ]
 }

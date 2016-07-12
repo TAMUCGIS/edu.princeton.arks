@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1777",
   "uuid": "http://arks.princeton.edu/ark:/88435/37720g108",
   "dc_description_s": "Plan of the operations of General Washington, against the kings troops in New Jersey, from the 26th of December 1776, to the 3d January 1777",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "37720g108",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/37720g108/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F37%2F72%2F0g%2F10%2F8%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "37720g108",
-  "layer_slug_s": "princeton-37720g108",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "-14.7608357 -179.9999999 71.6048217 180",
   "layer_modified_dt": "2015-01-21T22:23:59Z",
-  "dc_title_s": "Plan of the operations of General Washington, against the kings troops in New Jersey, from the 26th of December 1776, to the 3d January 1777",
+  "layer_id_s": "37720g108",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "United States"
-  ],
+  "dc_identifier_s": "37720g108",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Plan of the operations of General Washington, against the kings troops in New Jersey, from the 26th of December 1776, to the 3d January 1777",
+  "layer_slug_s": "princeton-37720g108",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/37720g108/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/37/72/0g/10/8/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "71.6048217 -179.9999999 71.6048217 180 -14.7608357 180 -14.7608357 -179.9999999 71.6048217 -179.9999999",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1777"
   ],
-  "georss_box_s": "-14.7608357 -179.9999999 71.6048217 180",
-  "georss_polygon_s": "71.6048217 -179.9999999 71.6048217 180 -14.7608357 180 -14.7608357 -179.9999999 71.6048217 -179.9999999",
   "solr_geom": "ENVELOPE(-179.9999999, 180, 71.6048217, -14.7608357)",
-  "solr_year_i": "1777"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "United States"
+  ]
 }

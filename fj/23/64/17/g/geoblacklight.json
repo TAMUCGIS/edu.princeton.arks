@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1888",
   "uuid": "http://arks.princeton.edu/ark:/88435/fj236417g",
   "dc_description_s": "Wisconsin",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "fj236417g",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/fj236417g/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Ffj%2F23%2F64%2F17%2Fg%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "fj236417g",
-  "layer_slug_s": "princeton-fj236417g",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "42.4919436 -92.8881139 47.3025 -86.2495479",
   "layer_modified_dt": "2015-01-21T22:23:54Z",
-  "dc_title_s": "Wisconsin",
+  "layer_id_s": "fj236417g",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Wisconsin"
-  ],
+  "dc_identifier_s": "fj236417g",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Wisconsin",
+  "layer_slug_s": "princeton-fj236417g",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/fj236417g/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/fj/23/64/17/g/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "47.3025 -92.8881139 47.3025 -86.2495479 42.4919436 -86.2495479 42.4919436 -92.8881139 47.3025 -92.8881139",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1888"
   ],
-  "georss_box_s": "42.4919436 -92.8881139 47.3025 -86.2495479",
-  "georss_polygon_s": "47.3025 -92.8881139 47.3025 -86.2495479 42.4919436 -86.2495479 42.4919436 -92.8881139 47.3025 -92.8881139",
   "solr_geom": "ENVELOPE(-92.8881139, -86.2495479, 47.3025, 42.4919436)",
-  "solr_year_i": "1888"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Wisconsin"
+  ]
 }

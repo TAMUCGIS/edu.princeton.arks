@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1875",
   "uuid": "http://arks.princeton.edu/ark:/88435/kk91fp02m",
+  "dc_description_s": "Neue Handkarte von Palaestina",
+  "georss_box_s": "29.4533796 34.2676025 33.3356317 35.8950234",
+  "layer_modified_dt": "2015-01-21T22:24:12Z",
   "dc_creator_sm": [
     "Bischoff, C.,",
     "Sulzer, J.,",
     "Reimer, Dietrich,"
   ],
-  "dc_description_s": "Neue Handkarte von Palaestina",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "kk91fp02m",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/kk91fp02m/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fkk%2F91%2Ffp%2F02%2Fm%2F00000001.jp2/info.json\"}",
   "layer_id_s": "kk91fp02m",
-  "layer_slug_s": "princeton-kk91fp02m",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:12Z",
-  "dc_title_s": "Neue Handkarte von Palaestina",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Palestine"
-  ],
+  "dc_identifier_s": "kk91fp02m",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Neue Handkarte von Palaestina",
+  "layer_slug_s": "princeton-kk91fp02m",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/kk91fp02m/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/kk/91/fp/02/m/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "33.3356317 34.2676025 33.3356317 35.8950234 29.4533796 35.8950234 29.4533796 34.2676025 33.3356317 34.2676025",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1875"
   ],
-  "georss_box_s": "29.4533796 34.2676025 33.3356317 35.8950234",
-  "georss_polygon_s": "33.3356317 34.2676025 33.3356317 35.8950234 29.4533796 35.8950234 29.4533796 34.2676025 33.3356317 34.2676025",
   "solr_geom": "ENVELOPE(34.2676025, 35.8950234, 33.3356317, 29.4533796)",
-  "solr_year_i": "1875"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Palestine"
+  ]
 }

@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1824",
   "uuid": "http://arks.princeton.edu/ark:/88435/qf85nd81m",
+  "dc_description_s": "China",
+  "georss_box_s": "20.0 98.0 40.0 128.0",
+  "layer_modified_dt": "2015-01-19T22:37:37Z",
   "dc_creator_sm": [
     "Find, John T.,"
   ],
-  "dc_description_s": "China",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "qf85nd81m",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/qf85nd81m/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fqf%2F85%2Fnd%2F81%2Fm%2F00000001.jp2/info.json\"}",
   "layer_id_s": "qf85nd81m",
-  "layer_slug_s": "princeton-qf85nd81m",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:37Z",
-  "dc_title_s": "China",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "China"
-  ],
+  "dc_identifier_s": "qf85nd81m",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "China",
+  "layer_slug_s": "princeton-qf85nd81m",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/qf85nd81m/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/qf/85/nd/81/m/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.0 98.0 40.0 128.0 20.0 128.0 20.0 98.0 40.0 98.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1824"
   ],
-  "georss_box_s": "20.0 98.0 40.0 128.0",
-  "georss_polygon_s": "40.0 98.0 40.0 128.0 20.0 128.0 20.0 98.0 40.0 98.0",
   "solr_geom": "ENVELOPE(98.0, 128.0, 40.0, 20.0)",
-  "solr_year_i": "1824"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "China"
+  ]
 }

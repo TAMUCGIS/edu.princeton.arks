@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1905",
   "uuid": "http://arks.princeton.edu/ark:/88435/c821gn31b",
+  "dc_description_s": "Erlangen",
+  "georss_box_s": "49.4381208 10.8436532 49.7581208 11.1636532",
+  "layer_modified_dt": "2015-01-21T22:24:27Z",
   "dc_creator_sm": [
     "Woerl, Leo,"
   ],
-  "dc_description_s": "Erlangen",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "c821gn31b",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/c821gn31b/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fc8%2F21%2Fgn%2F31%2F00000001.jp2/info.json\"}",
   "layer_id_s": "c821gn31b",
-  "layer_slug_s": "princeton-c821gn31b",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:27Z",
-  "dc_title_s": "Erlangen",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Erlangen (Germany)",
-    "Bavaria (Germany)"
-  ],
+  "dc_identifier_s": "c821gn31b",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Erlangen",
+  "layer_slug_s": "princeton-c821gn31b",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/c821gn31b/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/c8/21/gn/31/b/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "49.7581208 10.8436532 49.7581208 11.1636532 49.4381208 11.1636532 49.4381208 10.8436532 49.7581208 10.8436532",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1905"
   ],
-  "georss_box_s": "49.4381208 10.8436532 49.7581208 11.1636532",
-  "georss_polygon_s": "49.7581208 10.8436532 49.7581208 11.1636532 49.4381208 11.1636532 49.4381208 10.8436532 49.7581208 10.8436532",
   "solr_geom": "ENVELOPE(10.8436532, 11.1636532, 49.7581208, 49.4381208)",
-  "solr_year_i": "1905"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Erlangen (Germany)",
+    "Bavaria (Germany)"
+  ]
 }

@@ -1,31 +1,31 @@
 {
+  "solr_year_i": "1845",
   "uuid": "http://arks.princeton.edu/ark:/88435/q237hv409",
+  "dc_description_s": "Ame\u0301rique Me\u0301ridionale",
+  "georss_box_s": "-21.0000498 -61.0000502 -20.9999498 -60.9999502",
+  "layer_modified_dt": "2015-01-21T22:24:05Z",
   "dc_creator_sm": [
     "Laguillermie, Frederic,",
     "Bonheur, Raimond.",
     "Levasseur, Victor."
   ],
-  "dc_description_s": "Amérique Méridionale",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "q237hv409",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/q237hv409/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fq2%2F37%2Fhv%2F40%2F9%2F00000001.jp2/info.json\"}",
   "layer_id_s": "q237hv409",
-  "layer_slug_s": "princeton-q237hv409",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:05Z",
-  "dc_title_s": "Amérique Méridionale",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "South America",
-    "Maps"
-  ],
+  "dc_identifier_s": "q237hv409",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Ame\u0301rique Me\u0301ridionale",
+  "layer_slug_s": "princeton-q237hv409",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/q237hv409/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/q2/37/hv/40/9/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "-20.9999498 -61.0000502 -20.9999498 -60.9999502 -21.0000498 -60.9999502 -21.0000498 -61.0000502 -20.9999498 -61.0000502",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1845"
   ],
-  "georss_box_s": "-21.0000498 -61.0000502 -20.9999498 -60.9999502",
-  "georss_polygon_s": "-20.9999498 -61.0000502 -20.9999498 -60.9999502 -21.0000498 -60.9999502 -21.0000498 -61.0000502 -20.9999498 -61.0000502",
   "solr_geom": "ENVELOPE(-61.0000502, -60.9999502, -20.9999498, -21.0000498)",
-  "solr_year_i": "1845"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "South America",
+    "Maps"
+  ]
 }

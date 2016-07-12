@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1744",
   "uuid": "http://arks.princeton.edu/ark:/88435/w9505252r",
+  "dc_description_s": "A map of the discoveries made by Captn. Willm. Dampier in the Roebuck in 1699",
+  "georss_box_s": "-10.7017499 130.931554 -0.3433339 150.87625",
+  "layer_modified_dt": "2015-01-21T22:23:53Z",
   "dc_creator_sm": [
     "Harris, John,"
   ],
-  "dc_description_s": "A map of the discoveries made by Captn. Willm. Dampier in the Roebuck in 1699",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "w9505252r",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/w9505252r/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fw9%2F50%2F52%2F52%2Fr%2F00000001.jp2/info.json\"}",
   "layer_id_s": "w9505252r",
-  "layer_slug_s": "princeton-w9505252r",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:53Z",
-  "dc_title_s": "A map of the discoveries made by Captn. Willm. Dampier in the Roebuck in 1699",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "New Guinea"
-  ],
+  "dc_identifier_s": "w9505252r",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "A map of the discoveries made by Captn. Willm. Dampier in the Roebuck in 1699",
+  "layer_slug_s": "princeton-w9505252r",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/w9505252r/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/w9/50/52/52/r/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "-0.3433339 130.931554 -0.3433339 150.87625 -10.7017499 150.87625 -10.7017499 130.931554 -0.3433339 130.931554",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1744"
   ],
-  "georss_box_s": "-10.7017499 130.931554 -0.3433339 150.87625",
-  "georss_polygon_s": "-0.3433339 130.931554 -0.3433339 150.87625 -10.7017499 150.87625 -10.7017499 130.931554 -0.3433339 130.931554",
   "solr_geom": "ENVELOPE(130.931554, 150.87625, -0.3433339, -10.7017499)",
-  "solr_year_i": "1744"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "New Guinea"
+  ]
 }

@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1968",
   "uuid": "http://arks.princeton.edu/ark:/88435/zs25xb27m",
+  "dc_description_s": "Residential land use1965, Glasgow",
+  "georss_box_s": "55.81667 -4.35000 55.90000 -4.16667",
+  "layer_modified_dt": "2015-01-19T22:36:36Z",
   "dc_creator_sm": [
     "Wood, Michael."
   ],
-  "dc_description_s": "Residential land use1965, Glasgow",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "zs25xb27m",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/zs25xb27m/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fzs%2F25%2Fxb%2F27%2Fm%2F00000001.jp2/info.json\"}",
   "layer_id_s": "zs25xb27m",
-  "layer_slug_s": "princeton-zs25xb27m",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:36:36Z",
-  "dc_title_s": "Residential land use1965, Glasgow",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Scotland"
-  ],
+  "dc_identifier_s": "zs25xb27m",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Residential land use1965, Glasgow",
+  "layer_slug_s": "princeton-zs25xb27m",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/zs25xb27m/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/zs/25/xb/27/m/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "55.90000 -4.35000 55.90000 -4.16667 55.81667 -4.16667 55.81667 -4.35000 55.90000 -4.35000",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1968"
   ],
-  "georss_box_s": "55.81667 -4.35000 55.90000 -4.16667",
-  "georss_polygon_s": "55.90000 -4.35000 55.90000 -4.16667 55.81667 -4.16667 55.81667 -4.35000 55.90000 -4.35000",
   "solr_geom": "ENVELOPE(-4.35000, -4.16667, 55.90000, 55.81667)",
-  "solr_year_i": "1968"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Scotland"
+  ]
 }

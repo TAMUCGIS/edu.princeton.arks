@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1885",
   "uuid": "http://arks.princeton.edu/ark:/88435/7w62fb68j",
+  "dc_description_s": "Carte du nord de la Syrie",
+  "georss_box_s": "32.311354 35.4714427 37.3184589 42.3745687",
+  "layer_modified_dt": "2015-01-25T02:06:14Z",
   "dc_creator_sm": [
     "Rey, E. G."
   ],
-  "dc_description_s": "Carte du nord de la Syrie",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "7w62fb68j",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/7w62fb68j/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F7w%2F62%2Ffb%2F68%2F00000001.jp2/info.json\"}",
   "layer_id_s": "7w62fb68j",
-  "layer_slug_s": "princeton-7w62fb68j",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:14Z",
-  "dc_title_s": "Carte du nord de la Syrie",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Syria"
-  ],
+  "dc_identifier_s": "7w62fb68j",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Carte du nord de la Syrie",
+  "layer_slug_s": "princeton-7w62fb68j",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/7w62fb68j/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/7w/62/fb/68/j/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "37.3184589 35.4714427 37.3184589 42.3745687 32.311354 42.3745687 32.311354 35.4714427 37.3184589 35.4714427",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1885"
   ],
-  "georss_box_s": "32.311354 35.4714427 37.3184589 42.3745687",
-  "georss_polygon_s": "37.3184589 35.4714427 37.3184589 42.3745687 32.311354 42.3745687 32.311354 35.4714427 37.3184589 35.4714427",
   "solr_geom": "ENVELOPE(35.4714427, 42.3745687, 37.3184589, 32.311354)",
-  "solr_year_i": "1885"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Syria"
+  ]
 }

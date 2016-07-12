@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/9306t123f",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Wildwood",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "9306t123f",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F93%2F06%2Ft1%2F23%2Ff%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "9306t123f",
-  "layer_slug_s": "princeton-9306t123f",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:02:35Z",
+  "solr_geom": "ENVELOPE(-74.833461, -74.801896, 38.998783, 38.976884)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/93/06/t1/23/f/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/9306t123f",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Wild Wood Beach N.J., Cape May N.J. (Sheet 24).",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1890"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "9306t123f",
+  "georss_polygon_s": "38.998783 -74.833461 38.998783 -74.801896 38.976884 -74.801896 38.976884 -74.833461 38.998783 -74.833461",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1890",
   "dct_spatial_sm": [
     "New Jersey",
     "Wildwood"
   ],
-  "dct_temporal_sm": [
-    "1890"
-  ],
+  "layer_id_s": "9306t123f",
   "georss_box_s": "38.976884 -74.833461 38.998783 -74.801896",
-  "georss_polygon_s": "38.998783 -74.833461 38.998783 -74.801896 38.976884 -74.801896 38.976884 -74.833461 38.998783 -74.833461",
-  "solr_geom": "ENVELOPE(-74.833461, -74.801896, 38.998783, 38.976884)",
-  "solr_year_i": "1890"
+  "dc_title_s": "Wild Wood Beach N.J., Cape May N.J. (Sheet 24).",
+  "layer_slug_s": "princeton-9306t123f",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/3n204092m",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Hamilton Square",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "3n204092m",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F3n%2F20%2F40%2F92%2Fm%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "3n204092m",
-  "layer_slug_s": "princeton-3n204092m",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:01:40Z",
+  "solr_geom": "ENVELOPE(-74.72307, -74.630454, 40.250933, 40.205834)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/3n/20/40/92/m/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/3n204092m",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Hamilton Square (Sheet 3), Mercer County, New Jersey",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1927"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "3n204092m",
+  "georss_polygon_s": "40.250933 -74.72307 40.250933 -74.630454 40.205834 -74.630454 40.205834 -74.72307 40.250933 -74.72307",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1927",
   "dct_spatial_sm": [
     "New Jersey",
     "Hamilton Square"
   ],
-  "dct_temporal_sm": [
-    "1927"
-  ],
+  "layer_id_s": "3n204092m",
   "georss_box_s": "40.205834 -74.72307 40.250933 -74.630454",
-  "georss_polygon_s": "40.250933 -74.72307 40.250933 -74.630454 40.205834 -74.630454 40.205834 -74.72307 40.250933 -74.72307",
-  "solr_geom": "ENVELOPE(-74.72307, -74.630454, 40.250933, 40.205834)",
-  "solr_year_i": "1927"
+  "dc_title_s": "Hamilton Square (Sheet 3), Mercer County, New Jersey",
+  "layer_slug_s": "princeton-3n204092m",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

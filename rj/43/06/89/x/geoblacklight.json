@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/rj430689x",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Atlantic City",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "rj430689x",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Frj%2F43%2F06%2F89%2Fx%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "rj430689x",
-  "layer_slug_s": "princeton-rj430689x",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:11:04Z",
+  "solr_geom": "ENVELOPE(-74.501592, -74.402886, 39.417678, 39.335544)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/rj/43/06/89/x/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/rj430689x",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Atlantic City : skeleton (Sheet 16)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1906"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "rj430689x",
+  "georss_polygon_s": "39.417678 -74.501592 39.417678 -74.402886 39.335544 -74.402886 39.335544 -74.501592 39.417678 -74.501592",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1906",
   "dct_spatial_sm": [
     "New Jersey",
     "Atlantic City"
   ],
-  "dct_temporal_sm": [
-    "1906"
-  ],
+  "layer_id_s": "rj430689x",
   "georss_box_s": "39.335544 -74.501592 39.417678 -74.402886",
-  "georss_polygon_s": "39.417678 -74.501592 39.417678 -74.402886 39.335544 -74.402886 39.335544 -74.501592 39.417678 -74.501592",
-  "solr_geom": "ENVELOPE(-74.501592, -74.402886, 39.417678, 39.335544)",
-  "solr_year_i": "1906"
+  "dc_title_s": "Atlantic City : skeleton (Sheet 16)",
+  "layer_slug_s": "princeton-rj430689x",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

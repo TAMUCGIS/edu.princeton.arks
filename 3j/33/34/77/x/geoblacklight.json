@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1925",
   "uuid": "http://arks.princeton.edu/ark:/88435/3j333477x",
   "dc_description_s": "Stadtplan von Meiningen ; Umgebung von Meiningen",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "3j333477x",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/3j333477x/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F3j%2F33%2F34%2F77%2Fx%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "3j333477x",
-  "layer_slug_s": "princeton-3j333477x",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "50.5348359 10.3031546 50.617661 10.4685784",
   "layer_modified_dt": "2015-01-21T22:24:27Z",
-  "dc_title_s": "Stadtplan von Meiningen ; Umgebung von Meiningen",
+  "layer_id_s": "3j333477x",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Meiningen (Germany)",
-    "Thuringia (Germany)"
-  ],
+  "dc_identifier_s": "3j333477x",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Stadtplan von Meiningen ; Umgebung von Meiningen",
+  "layer_slug_s": "princeton-3j333477x",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/3j333477x/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/3j/33/34/77/x/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "50.617661 10.3031546 50.617661 10.4685784 50.5348359 10.4685784 50.5348359 10.3031546 50.617661 10.3031546",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1925"
   ],
-  "georss_box_s": "50.5348359 10.3031546 50.617661 10.4685784",
-  "georss_polygon_s": "50.617661 10.3031546 50.617661 10.4685784 50.5348359 10.4685784 50.5348359 10.3031546 50.617661 10.3031546",
   "solr_geom": "ENVELOPE(10.3031546, 10.4685784, 50.617661, 50.5348359)",
-  "solr_year_i": "1925"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Meiningen (Germany)",
+    "Thuringia (Germany)"
+  ]
 }

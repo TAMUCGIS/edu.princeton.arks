@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1640",
   "uuid": "http://arks.princeton.edu/ark:/88435/8c97ks883",
+  "dc_description_s": "Gall\u00e6cia regnum",
+  "georss_box_s": "41.0 7.0 44.0 11.0",
+  "layer_modified_dt": "2015-01-19T22:37:16Z",
   "dc_creator_sm": [
     "Ojea, Hernando,",
     "Chalmers, William S.,",
     "McCabe, Robert A.,"
   ],
-  "dc_description_s": "Gallæcia regnum",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "8c97ks883",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/8c97ks883/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F8c%2F97%2Fks%2F88%2F3%2F00000001.jp2/info.json\"}",
   "layer_id_s": "8c97ks883",
-  "layer_slug_s": "princeton-8c97ks883",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:16Z",
-  "dc_title_s": "Gallæcia regnum",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Galicia (Spain)"
-  ],
+  "dc_identifier_s": "8c97ks883",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Gall\u00e6cia regnum",
+  "layer_slug_s": "princeton-8c97ks883",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/8c97ks883/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/8c/97/ks/88/3/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "44.0 7.0 44.0 11.0 41.0 11.0 41.0 7.0 44.0 7.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1640"
   ],
-  "georss_box_s": "41.0 7.0 44.0 11.0",
-  "georss_polygon_s": "44.0 7.0 44.0 11.0 41.0 11.0 41.0 7.0 44.0 7.0",
   "solr_geom": "ENVELOPE(7.0, 11.0, 44.0, 41.0)",
-  "solr_year_i": "1640"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Galicia (Spain)"
+  ]
 }

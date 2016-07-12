@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/jq085m93r",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Bloomfield",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "jq085m93r",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fq%2F08%2F5m%2F93%2Fr%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "jq085m93r",
-  "layer_slug_s": "princeton-jq085m93r",
-  "layer_geom_type_s": "Raster",
   "layer_modified_dt": "2015-01-23T16:29:12Z",
+  "solr_geom": "ENVELOPE(-74.21189, -74.162628, 40.848799, 40.768048)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/jq/08/5m/93/r/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/jq085m93r",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Insurance maps, Bloomfield and Glen Ridge, New Jersey (Sheet 43).",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1907"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "jq085m93r",
+  "georss_polygon_s": "40.848799 -74.21189 40.848799 -74.162628 40.768048 -74.162628 40.768048 -74.21189 40.848799 -74.21189",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1907",
   "dct_spatial_sm": [
     "New Jersey",
     "Bloomfield"
   ],
-  "dct_temporal_sm": [
-    "1907"
-  ],
+  "layer_id_s": "jq085m93r",
   "georss_box_s": "40.768048 -74.21189 40.848799 -74.162628",
-  "georss_polygon_s": "40.848799 -74.21189 40.848799 -74.162628 40.768048 -74.162628 40.768048 -74.21189 40.848799 -74.21189",
-  "solr_geom": "ENVELOPE(-74.21189, -74.162628, 40.848799, 40.768048)",
-  "solr_year_i": "1907"
+  "dc_title_s": "Insurance maps, Bloomfield and Glen Ridge, New Jersey (Sheet 43).",
+  "layer_slug_s": "princeton-jq085m93r",
+  "layer_geom_type_s": "Raster",
+  "dc_language_s": "English"
 }

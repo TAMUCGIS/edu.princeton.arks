@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/ht24wm51s",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Secaucus",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "ht24wm51s",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fht%2F24%2Fwm%2F51%2Fs%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "ht24wm51s",
-  "layer_slug_s": "princeton-ht24wm51s",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:05:03Z",
+  "solr_geom": "ENVELOPE(-74.094039, -74.033791, 40.806499, 40.750371)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ht/24/wm/51/s/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/ht24wm51s",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Secaucus (Sheet 99)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1910"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "ht24wm51s",
+  "georss_polygon_s": "40.806499 -74.094039 40.806499 -74.033791 40.750371 -74.033791 40.750371 -74.094039 40.806499 -74.094039",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1910",
   "dct_spatial_sm": [
     "New Jersey",
     "Secaucus"
   ],
-  "dct_temporal_sm": [
-    "1910"
-  ],
+  "layer_id_s": "ht24wm51s",
   "georss_box_s": "40.750371 -74.094039 40.806499 -74.033791",
-  "georss_polygon_s": "40.806499 -74.094039 40.806499 -74.033791 40.750371 -74.033791 40.750371 -74.094039 40.806499 -74.094039",
-  "solr_geom": "ENVELOPE(-74.094039, -74.033791, 40.806499, 40.750371)",
-  "solr_year_i": "1910"
+  "dc_title_s": "Secaucus (Sheet 99)",
+  "layer_slug_s": "princeton-ht24wm51s",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1885",
   "uuid": "http://arks.princeton.edu/ark:/88435/jq085n50x",
-  "dc_description_s": "Vías de comunicación y movimiento maritímo",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "jq085n50x",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/jq085n50x/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fq%2F08%2F5n%2F50%2Fx%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "jq085n50x",
-  "layer_slug_s": "princeton-jq085n50x",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Vi\u0301as de comunicacio\u0301n y movimiento mariti\u0301mo",
+  "georss_box_s": "14.0 -118.0 33.0 -86.0",
   "layer_modified_dt": "2015-01-19T22:37:41Z",
-  "dc_title_s": "Vías de comunicación y movimiento maritímo",
+  "layer_id_s": "jq085n50x",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Mexico"
-  ],
+  "dc_identifier_s": "jq085n50x",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Vi\u0301as de comunicacio\u0301n y movimiento mariti\u0301mo",
+  "layer_slug_s": "princeton-jq085n50x",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/jq085n50x/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/jq/08/5n/50/x/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "33.0 -118.0 33.0 -86.0 14.0 -86.0 14.0 -118.0 33.0 -118.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1885"
   ],
-  "georss_box_s": "14.0 -118.0 33.0 -86.0",
-  "georss_polygon_s": "33.0 -118.0 33.0 -86.0 14.0 -86.0 14.0 -118.0 33.0 -118.0",
   "solr_geom": "ENVELOPE(-118.0, -86.0, 33.0, 14.0)",
-  "solr_year_i": "1885"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Mexico"
+  ]
 }

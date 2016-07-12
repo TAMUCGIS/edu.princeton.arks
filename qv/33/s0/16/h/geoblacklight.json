@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1911",
   "uuid": "http://arks.princeton.edu/ark:/88435/qv33s016h",
+  "dc_description_s": "Italie, section sud",
+  "georss_box_s": "35.4929201 6.6267201 42.2523029145 18.6523374375",
+  "layer_modified_dt": "2015-01-21T22:24:25Z",
   "dc_creator_sm": [
     "Taride, A."
   ],
-  "dc_description_s": "Italie, section sud",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "qv33s016h",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/qv33s016h/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fqv%2F33%2Fs0%2F16%2Fh%2F00000001.jp2/info.json\"}",
   "layer_id_s": "qv33s016h",
-  "layer_slug_s": "princeton-qv33s016h",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:25Z",
-  "dc_title_s": "Italie, section sud",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Italy, Southern"
-  ],
+  "dc_identifier_s": "qv33s016h",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Italie, section sud",
+  "layer_slug_s": "princeton-qv33s016h",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/qv33s016h/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/qv/33/s0/16/h/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "42.2523029145 6.6267201 42.2523029145 18.6523374375 35.4929201 18.6523374375 35.4929201 6.6267201 42.2523029145 6.6267201",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1911"
   ],
-  "georss_box_s": "35.4929201 6.6267201 42.2523029145 18.6523374375",
-  "georss_polygon_s": "42.2523029145 6.6267201 42.2523029145 18.6523374375 35.4929201 18.6523374375 35.4929201 6.6267201 42.2523029145 6.6267201",
   "solr_geom": "ENVELOPE(6.6267201, 18.6523374375, 42.2523029145, 35.4929201)",
-  "solr_year_i": "1911"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Italy, Southern"
+  ]
 }

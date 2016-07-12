@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/cj82k9308",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Glassboro",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "cj82k9308",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fcj%2F82%2Fk9%2F30%2F8%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "cj82k9308",
-  "layer_slug_s": "princeton-cj82k9308",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:04:01Z",
+  "solr_geom": "ENVELOPE(-75.168261, -75.054785, 39.73739, 39.678584)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/cj/82/k9/30/8/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/cj82k9308",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Glassboro, Gloucester County, New Jersey (Sheet 5)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1923"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "cj82k9308",
+  "georss_polygon_s": "39.73739 -75.168261 39.73739 -75.054785 39.678584 -75.054785 39.678584 -75.168261 39.73739 -75.168261",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1923",
   "dct_spatial_sm": [
     "New Jersey",
     "Glassboro"
   ],
-  "dct_temporal_sm": [
-    "1923"
-  ],
+  "layer_id_s": "cj82k9308",
   "georss_box_s": "39.678584 -75.168261 39.73739 -75.054785",
-  "georss_polygon_s": "39.73739 -75.168261 39.73739 -75.054785 39.678584 -75.054785 39.678584 -75.168261 39.73739 -75.168261",
-  "solr_geom": "ENVELOPE(-75.168261, -75.054785, 39.73739, 39.678584)",
-  "solr_year_i": "1923"
+  "dc_title_s": "Glassboro, Gloucester County, New Jersey (Sheet 5)",
+  "layer_slug_s": "princeton-cj82k9308",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

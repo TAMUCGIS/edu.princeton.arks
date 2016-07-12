@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1675",
   "uuid": "http://arks.princeton.edu/ark:/88435/8g84mp75t",
+  "dc_description_s": "The extended road from Oakham to Richmond in Yorkshire",
+  "georss_box_s": "53.3793042939 -2.5647389 54.5601224 0.1830119125",
+  "layer_modified_dt": "2015-01-21T22:24:19Z",
   "dc_creator_sm": [
     "Ogilby, John,"
   ],
-  "dc_description_s": "The extended road from Oakham to Richmond in Yorkshire",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "8g84mp75t",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/8g84mp75t/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F8g%2F84%2Fmp%2F75%2Ft%2F00000001.jp2/info.json\"}",
   "layer_id_s": "8g84mp75t",
-  "layer_slug_s": "princeton-8g84mp75t",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:19Z",
-  "dc_title_s": "The extended road from Oakham to Richmond in Yorkshire",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Yorkshire"
-  ],
+  "dc_identifier_s": "8g84mp75t",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "The extended road from Oakham to Richmond in Yorkshire",
+  "layer_slug_s": "princeton-8g84mp75t",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/8g84mp75t/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/8g/84/mp/75/t/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "54.5601224 -2.5647389 54.5601224 0.1830119125 53.3793042939 0.1830119125 53.3793042939 -2.5647389 54.5601224 -2.5647389",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1675"
   ],
-  "georss_box_s": "53.3793042939 -2.5647389 54.5601224 0.1830119125",
-  "georss_polygon_s": "54.5601224 -2.5647389 54.5601224 0.1830119125 53.3793042939 0.1830119125 53.3793042939 -2.5647389 54.5601224 -2.5647389",
   "solr_geom": "ENVELOPE(-2.5647389, 0.1830119125, 54.5601224, 53.3793042939)",
-  "solr_year_i": "1675"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Yorkshire"
+  ]
 }

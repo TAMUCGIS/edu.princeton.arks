@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1685",
   "uuid": "http://arks.princeton.edu/ark:/88435/5q47rr26d",
+  "dc_description_s": "Porta Suda Paleo in Candia",
+  "georss_box_s": "35.4611047098 24.0482342079 35.5125419939 24.1588699186",
+  "layer_modified_dt": "2015-01-21T22:24:27Z",
   "dc_creator_sm": [
     "Vorsterman, Lucas,"
   ],
-  "dc_description_s": "Porta Suda Paleo in Candia",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "5q47rr26d",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/5q47rr26d/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F5q%2F47%2Frr%2F26%2Fd%2F00000001.jp2/info.json\"}",
   "layer_id_s": "5q47rr26d",
-  "layer_slug_s": "princeton-5q47rr26d",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:27Z",
-  "dc_title_s": "Porta Suda Paleo in Candia",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Suda Bay (Greece)"
-  ],
+  "dc_identifier_s": "5q47rr26d",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Porta Suda Paleo in Candia",
+  "layer_slug_s": "princeton-5q47rr26d",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/5q47rr26d/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/5q/47/rr/26/d/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "35.5125419939 24.0482342079 35.5125419939 24.1588699186 35.4611047098 24.1588699186 35.4611047098 24.0482342079 35.5125419939 24.0482342079",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1685"
   ],
-  "georss_box_s": "35.4611047098 24.0482342079 35.5125419939 24.1588699186",
-  "georss_polygon_s": "35.5125419939 24.0482342079 35.5125419939 24.1588699186 35.4611047098 24.1588699186 35.4611047098 24.0482342079 35.5125419939 24.0482342079",
   "solr_geom": "ENVELOPE(24.0482342079, 24.1588699186, 35.5125419939, 35.4611047098)",
-  "solr_year_i": "1685"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Suda Bay (Greece)"
+  ]
 }

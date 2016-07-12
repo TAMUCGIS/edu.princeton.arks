@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1829",
   "uuid": "http://arks.princeton.edu/ark:/88435/zs25xb93t",
+  "dc_description_s": "Map of Europe : to illustrate Olney's school geography",
+  "georss_box_s": "50.9999503 9.9999497 51.0000503 10.0000497",
+  "layer_modified_dt": "2015-01-21T22:24:13Z",
   "dc_creator_sm": [
     "Olney, J."
   ],
-  "dc_description_s": "Map of Europe : to illustrate Olney's school geography",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "zs25xb93t",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/zs25xb93t/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fzs%2F25%2Fxb%2F93%2Ft%2F00000001.jp2/info.json\"}",
   "layer_id_s": "zs25xb93t",
-  "layer_slug_s": "princeton-zs25xb93t",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:13Z",
-  "dc_title_s": "Map of Europe : to illustrate Olney's school geography",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Europe"
-  ],
+  "dc_identifier_s": "zs25xb93t",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Map of Europe : to illustrate Olney's school geography",
+  "layer_slug_s": "princeton-zs25xb93t",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/zs25xb93t/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/zs/25/xb/93/t/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "51.0000503 9.9999497 51.0000503 10.0000497 50.9999503 10.0000497 50.9999503 9.9999497 51.0000503 9.9999497",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1829"
   ],
-  "georss_box_s": "50.9999503 9.9999497 51.0000503 10.0000497",
-  "georss_polygon_s": "51.0000503 9.9999497 51.0000503 10.0000497 50.9999503 10.0000497 50.9999503 9.9999497 51.0000503 9.9999497",
   "solr_geom": "ENVELOPE(9.9999497, 10.0000497, 51.0000503, 50.9999503)",
-  "solr_year_i": "1829"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Europe"
+  ]
 }

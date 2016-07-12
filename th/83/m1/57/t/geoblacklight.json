@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/th83m157t",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Camden",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "th83m157t",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fth%2F83%2Fm1%2F57%2Ft%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "th83m157t",
-  "layer_slug_s": "princeton-th83m157t",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:08:30Z",
+  "solr_geom": "ENVELOPE(-75.132837, -75.066546, 39.968156, 39.898664)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/th/83/m1/57/t/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/th83m157t",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Insurance maps of Camden, New Jersey : volume two (Sheet 203).",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1926"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "th83m157t",
+  "georss_polygon_s": "39.968156 -75.132837 39.968156 -75.066546 39.898664 -75.066546 39.898664 -75.132837 39.968156 -75.132837",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1926",
   "dct_spatial_sm": [
     "New Jersey",
     "Camden"
   ],
-  "dct_temporal_sm": [
-    "1926"
-  ],
+  "layer_id_s": "th83m157t",
   "georss_box_s": "39.898664 -75.132837 39.968156 -75.066546",
-  "georss_polygon_s": "39.968156 -75.132837 39.968156 -75.066546 39.898664 -75.066546 39.898664 -75.132837 39.968156 -75.132837",
-  "solr_geom": "ENVELOPE(-75.132837, -75.066546, 39.968156, 39.898664)",
-  "solr_year_i": "1926"
+  "dc_title_s": "Insurance maps of Camden, New Jersey : volume two (Sheet 203).",
+  "layer_slug_s": "princeton-th83m157t",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

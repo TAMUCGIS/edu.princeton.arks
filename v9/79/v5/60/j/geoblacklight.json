@@ -1,29 +1,27 @@
 {
+  "solr_year_i": "1846",
   "uuid": "http://arks.princeton.edu/ark:/88435/v979v560j",
+  "dc_description_s": "Coast of North America from Point Judith to St. Antonio (island of Cuba), including the Bahama Banks",
+  "georss_box_s": "38.881537056 -74.9720235453 40.5233940493 -73.9244117563",
+  "layer_modified_dt": "2015-01-21T22:24:29Z",
   "dc_creator_sm": [
     "Blunt, Edmund M.",
     "Blunt, G. W."
   ],
-  "dc_description_s": "Coast of North America from Point Judith to St. Antonio (island of Cuba), including the Bahama Banks",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "v979v560j",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/v979v560j/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fv9%2F79%2Fv5%2F60%2F00000001.jp2/info.json\"}",
   "layer_id_s": "v979v560j",
-  "layer_slug_s": "princeton-v979v560j",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:29Z",
-  "dc_title_s": "Coast of North America from Point Judith to St. Antonio (island of Cuba), including the Bahama Banks",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "v979v560j",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Coast of North America from Point Judith to St. Antonio (island of Cuba), including the Bahama Banks",
+  "layer_slug_s": "princeton-v979v560j",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/v979v560j/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/v9/79/v5/60/j/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.5233940493 -74.9720235453 40.5233940493 -73.9244117563 38.881537056 -73.9244117563 38.881537056 -74.9720235453 40.5233940493 -74.9720235453",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1846"
   ],
-  "georss_box_s": "38.881537056 -74.9720235453 40.5233940493 -73.9244117563",
-  "georss_polygon_s": "40.5233940493 -74.9720235453 40.5233940493 -73.9244117563 38.881537056 -73.9244117563 38.881537056 -74.9720235453 40.5233940493 -74.9720235453",
   "solr_geom": "ENVELOPE(-74.9720235453, -73.9244117563, 40.5233940493, 38.881537056)",
-  "solr_year_i": "1846"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

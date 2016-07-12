@@ -1,31 +1,31 @@
 {
+  "solr_year_i": "1814",
   "uuid": "http://arks.princeton.edu/ark:/88435/qj72p903m",
+  "dc_description_s": "Turkey in Europe",
+  "georss_box_s": "34.0 16.0 49.0 31.0",
+  "layer_modified_dt": "2015-01-19T22:36:53Z",
   "dc_creator_sm": [
     "Hebert, L.",
     "Neele, Samuel John,",
     "Pinkerton, John,"
   ],
-  "dc_description_s": "Turkey in Europe",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "qj72p903m",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/qj72p903m/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fqj%2F72%2Fp9%2F03%2Fm%2F00000001.jp2/info.json\"}",
   "layer_id_s": "qj72p903m",
-  "layer_slug_s": "princeton-qj72p903m",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:36:53Z",
-  "dc_title_s": "Turkey in Europe",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Turkey",
-    "Balkan Peninsula"
-  ],
+  "dc_identifier_s": "qj72p903m",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Turkey in Europe",
+  "layer_slug_s": "princeton-qj72p903m",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/qj72p903m/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/qj/72/p9/03/m/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "49.0 16.0 49.0 31.0 34.0 31.0 34.0 16.0 49.0 16.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1814"
   ],
-  "georss_box_s": "34.0 16.0 49.0 31.0",
-  "georss_polygon_s": "49.0 16.0 49.0 31.0 34.0 31.0 34.0 16.0 49.0 16.0",
   "solr_geom": "ENVELOPE(16.0, 31.0, 49.0, 34.0)",
-  "solr_year_i": "1814"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Turkey",
+    "Balkan Peninsula"
+  ]
 }

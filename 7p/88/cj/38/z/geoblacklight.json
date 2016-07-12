@@ -1,25 +1,25 @@
 {
   "uuid": "http://arks.princeton.edu/ark:/88435/7p88cj38z",
+  "dc_description_s": "Americ\u00e6 nova tabula",
+  "georss_box_s": "18.9110642 172.4458955 71.389888 -66.9453947",
+  "layer_modified_dt": "2015-01-21T22:23:44Z",
   "dc_creator_sm": [
     "Blaeu, Joan,",
     "Blaeu, Willem Janszoon,"
   ],
-  "dc_description_s": "Americæ nova tabula",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "7p88cj38z",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/7p88cj38z/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F7p%2F88%2Fcj%2F38%2Fz%2F00000001.jp2/info.json\"}",
   "layer_id_s": "7p88cj38z",
-  "layer_slug_s": "princeton-7p88cj38z",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:44Z",
-  "dc_title_s": "Americæ nova tabula",
   "dc_type_s": "Image",
+  "dc_identifier_s": "7p88cj38z",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Americ\u00e6 nova tabula",
+  "layer_slug_s": "princeton-7p88cj38z",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/7p88cj38z/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/7p/88/cj/38/z/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "71.389888 172.4458955 71.389888 -66.9453947 18.9110642 -66.9453947 18.9110642 172.4458955 71.389888 172.4458955",
+  "layer_geom_type_s": "Image",
+  "solr_geom": "ENVELOPE(172.4458955, -66.9453947, 71.389888, 18.9110642)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "America"
-  ],
-  "georss_box_s": "18.9110642 172.4458955 71.389888 -66.9453947",
-  "georss_polygon_s": "71.389888 172.4458955 71.389888 -66.9453947 18.9110642 -66.9453947 18.9110642 172.4458955 71.389888 172.4458955",
-  "solr_geom": "ENVELOPE(172.4458955, -66.9453947, 71.389888, 18.9110642)"
+  ]
 }

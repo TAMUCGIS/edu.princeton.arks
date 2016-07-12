@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1612",
   "uuid": "http://arks.princeton.edu/ark:/88435/w6634612r",
+  "dc_description_s": "Cornwal, Devon Shyre",
+  "georss_box_s": "49.958607 -5.747106 50.9312729 -4.1649443",
+  "layer_modified_dt": "2015-01-21T22:24:19Z",
   "dc_creator_sm": [
     "Drayton, Michael,"
   ],
-  "dc_description_s": "Cornwal, Devon Shyre",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "w6634612r",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/w6634612r/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fw6%2F63%2F46%2F12%2Fr%2F00000001.jp2/info.json\"}",
   "layer_id_s": "w6634612r",
-  "layer_slug_s": "princeton-w6634612r",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:19Z",
-  "dc_title_s": "Cornwal, Devon Shyre",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Cornwall (England : County)",
-    "Devon (England)"
-  ],
+  "dc_identifier_s": "w6634612r",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Cornwal, Devon Shyre",
+  "layer_slug_s": "princeton-w6634612r",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/w6634612r/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/w6/63/46/12/r/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "50.9312729 -5.747106 50.9312729 -4.1649443 49.958607 -4.1649443 49.958607 -5.747106 50.9312729 -5.747106",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1612"
   ],
-  "georss_box_s": "49.958607 -5.747106 50.9312729 -4.1649443",
-  "georss_polygon_s": "50.9312729 -5.747106 50.9312729 -4.1649443 49.958607 -4.1649443 49.958607 -5.747106 50.9312729 -5.747106",
   "solr_geom": "ENVELOPE(-5.747106, -4.1649443, 50.9312729, 49.958607)",
-  "solr_year_i": "1612"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Cornwall (England : County)",
+    "Devon (England)"
+  ]
 }

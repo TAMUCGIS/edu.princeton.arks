@@ -1,29 +1,27 @@
 {
+  "solr_year_i": "1906",
   "uuid": "http://arks.princeton.edu/ark:/88435/cc08hh67x",
+  "dc_description_s": "New Jersey, Princeton quadrangle",
+  "georss_box_s": "40.3092744 -74.6992958 40.3892744 -74.6192958",
+  "layer_modified_dt": "2015-01-21T22:23:53Z",
   "dc_creator_sm": [
     "Gannett, Henry,",
     "Vermeule, C. C."
   ],
-  "dc_description_s": "New Jersey, Princeton quadrangle",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "cc08hh67x",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/cc08hh67x/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fcc%2F08%2Fhh%2F67%2Fx%2F00000001.jp2/info.json\"}",
   "layer_id_s": "cc08hh67x",
-  "layer_slug_s": "princeton-cc08hh67x",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:53Z",
-  "dc_title_s": "New Jersey, Princeton quadrangle",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-
-  ],
+  "dc_identifier_s": "cc08hh67x",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "New Jersey, Princeton quadrangle",
+  "layer_slug_s": "princeton-cc08hh67x",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/cc08hh67x/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/cc/08/hh/67/x/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.3892744 -74.6992958 40.3892744 -74.6192958 40.3092744 -74.6192958 40.3092744 -74.6992958 40.3892744 -74.6992958",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1906"
   ],
-  "georss_box_s": "40.3092744 -74.6992958 40.3892744 -74.6192958",
-  "georss_polygon_s": "40.3892744 -74.6992958 40.3892744 -74.6192958 40.3092744 -74.6192958 40.3092744 -74.6992958 40.3892744 -74.6992958",
   "solr_geom": "ENVELOPE(-74.6992958, -74.6192958, 40.3892744, 40.3092744)",
-  "solr_year_i": "1906"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": []
 }

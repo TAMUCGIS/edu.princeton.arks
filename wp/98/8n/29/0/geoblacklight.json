@@ -1,28 +1,28 @@
 {
+  "solr_year_i": "1675",
   "uuid": "http://arks.princeton.edu/ark:/88435/wp988n290",
+  "dc_description_s": "Le Royaume de France : distingue\u0301 suivant l'estendu\u0308e de toutes ses provinces, et ses acquisitions, dans l'Espagne, dans l'Italie, dans l'Allemagne et dans la Flandre, l'Artois, l'Haynaut, le Namur, et le Luxembourg, provinces des Pays Bas",
+  "georss_box_s": "-50.2187168 -178.3873748 51.268318 172.3057152",
+  "layer_modified_dt": "2015-01-21T22:24:15Z",
   "dc_creator_sm": [
     "Jaillot, Alexis Hubert,"
   ],
-  "dc_description_s": "Le Royaume de France : distingué suivant l'estendüe de toutes ses provinces, et ses acquisitions, dans l'Espagne, dans l'Italie, dans l'Allemagne et dans la Flandre, l'Artois, l'Haynaut, le Namur, et le Luxembourg, provinces des Pays Bas",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "wp988n290",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/wp988n290/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fwp%2F98%2F8n%2F29%2F0%2F00000001.jp2/info.json\"}",
   "layer_id_s": "wp988n290",
-  "layer_slug_s": "princeton-wp988n290",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:24:15Z",
-  "dc_title_s": "Le Royaume de France : distingué suivant l'estendüe de toutes ses provinces, et ses acquisitions, dans l'Espagne, dans l'Italie, dans l'Allemagne et dans la Flandre, l'Artois, l'Haynaut, le Namur, et le Luxembourg, provinces des Pays Bas",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "France"
-  ],
+  "dc_identifier_s": "wp988n290",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Le Royaume de France : distingue\u0301 suivant l'estendu\u0308e de toutes ses provinces, et ses acquisitions, dans l'Espagne, dans l'Italie, dans l'Allemagne et dans la Flandre, l'Artois, l'Haynaut, le Namur, et le Luxembourg, provinces des Pays Bas",
+  "layer_slug_s": "princeton-wp988n290",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/wp988n290/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/wp/98/8n/29/0/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "51.268318 -178.3873748 51.268318 172.3057152 -50.2187168 172.3057152 -50.2187168 -178.3873748 51.268318 -178.3873748",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1675"
   ],
-  "georss_box_s": "-50.2187168 -178.3873748 51.268318 172.3057152",
-  "georss_polygon_s": "51.268318 -178.3873748 51.268318 172.3057152 -50.2187168 172.3057152 -50.2187168 -178.3873748 51.268318 -178.3873748",
   "solr_geom": "ENVELOPE(-178.3873748, 172.3057152, 51.268318, -50.2187168)",
-  "solr_year_i": "1675"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "France"
+  ]
 }

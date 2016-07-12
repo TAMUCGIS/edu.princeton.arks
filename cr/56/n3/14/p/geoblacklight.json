@@ -1,5 +1,9 @@
 {
+  "solr_year_i": "1619",
   "uuid": "http://arks.princeton.edu/ark:/88435/cr56n314p",
+  "dc_description_s": "Tabula itineraria ex illustri Peutingerorum Bibliotheca quae Augustae Vindel. est",
+  "georss_box_s": "41.6556417 12.2344985 42.1410285 12.8557603",
+  "layer_modified_dt": "2015-01-25T02:06:10Z",
   "dc_creator_sm": [
     "Peutinger, Konrad,",
     "Welser, Marcus,",
@@ -7,26 +11,22 @@
     "Ortelius, Abraham,",
     "Bertius, Petrus,"
   ],
-  "dc_description_s": "Tabula itineraria ex illustri Peutingerorum Bibliotheca quae Augustae Vindel. est",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "cr56n314p",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/cr56n314p/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fcr%2F56%2Fn3%2F14%2Fp%2F00000001.jp2/info.json\"}",
   "layer_id_s": "cr56n314p",
-  "layer_slug_s": "princeton-cr56n314p",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:10Z",
-  "dc_title_s": "Tabula itineraria ex illustri Peutingerorum Bibliotheca quae Augustae Vindel. est",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Rome"
-  ],
+  "dc_identifier_s": "cr56n314p",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Tabula itineraria ex illustri Peutingerorum Bibliotheca quae Augustae Vindel. est",
+  "layer_slug_s": "princeton-cr56n314p",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/cr56n314p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/cr/56/n3/14/p/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "42.1410285 12.2344985 42.1410285 12.8557603 41.6556417 12.8557603 41.6556417 12.2344985 42.1410285 12.2344985",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1619"
   ],
-  "georss_box_s": "41.6556417 12.2344985 42.1410285 12.8557603",
-  "georss_polygon_s": "42.1410285 12.2344985 42.1410285 12.8557603 41.6556417 12.8557603 41.6556417 12.2344985 42.1410285 12.2344985",
   "solr_geom": "ENVELOPE(12.2344985, 12.8557603, 42.1410285, 41.6556417)",
-  "solr_year_i": "1619"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Rome"
+  ]
 }

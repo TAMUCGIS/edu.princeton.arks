@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1831",
   "uuid": "http://arks.princeton.edu/ark:/88435/k930c050f",
+  "dc_description_s": "Marocco, from observations in 1830",
+  "georss_box_s": "30.77536 -10.00000 36.00000 -3.83333",
+  "layer_modified_dt": "2015-01-19T22:37:22Z",
   "dc_creator_sm": [
     "Gardner, J.,"
   ],
-  "dc_description_s": "Marocco, from observations in 1830",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "k930c050f",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/k930c050f/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fk9%2F30%2Fc0%2F50%2Ff%2F00000001.jp2/info.json\"}",
   "layer_id_s": "k930c050f",
-  "layer_slug_s": "princeton-k930c050f",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:22Z",
-  "dc_title_s": "Marocco, from observations in 1830",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Marrakech (Morocco)",
-    "Morocco"
-  ],
+  "dc_identifier_s": "k930c050f",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Marocco, from observations in 1830",
+  "layer_slug_s": "princeton-k930c050f",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/k930c050f/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/k9/30/c0/50/f/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "36.00000 -10.00000 36.00000 -3.83333 30.77536 -3.83333 30.77536 -10.00000 36.00000 -10.00000",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1831"
   ],
-  "georss_box_s": "30.77536 -10.00000 36.00000 -3.83333",
-  "georss_polygon_s": "36.00000 -10.00000 36.00000 -3.83333 30.77536 -3.83333 30.77536 -10.00000 36.00000 -10.00000",
   "solr_geom": "ENVELOPE(-10.00000, -3.83333, 36.00000, 30.77536)",
-  "solr_year_i": "1831"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Marrakech (Morocco)",
+    "Morocco"
+  ]
 }

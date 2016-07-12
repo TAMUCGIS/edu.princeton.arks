@@ -1,34 +1,34 @@
 {
+  "solr_year_i": "1756",
   "uuid": "http://arks.princeton.edu/ark:/88435/9p290c88x",
+  "dc_description_s": "Carte des isles de Maiorque, Minorque et Yvice",
+  "georss_box_s": "38.6403875 1.1572495 40.0945744 4.3277839",
+  "layer_modified_dt": "2015-01-25T02:06:22Z",
   "dc_creator_sm": [
     "Dorn, S.",
     "McCabe, Robert A.,"
   ],
-  "dc_description_s": "Carte des isles de Maiorque, Minorque et Yvice",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "9p290c88x",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/9p290c88x/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F9p%2F29%2F0c%2F88%2Fx%2F00000001.jp2/info.json\"}",
   "layer_id_s": "9p290c88x",
-  "layer_slug_s": "princeton-9p290c88x",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:22Z",
-  "dc_title_s": "Carte des isles de Maiorque, Minorque et Yvice",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Balearic Islands (Spain)",
-    "Ibiza (Spain)",
-    "Mahón (Spain)",
-    "Majorca (Spain)",
-    "Minorca (Spain)",
-    "Spain"
-  ],
+  "dc_identifier_s": "9p290c88x",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Carte des isles de Maiorque, Minorque et Yvice",
+  "layer_slug_s": "princeton-9p290c88x",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/9p290c88x/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/9p/29/0c/88/x/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "40.0945744 1.1572495 40.0945744 4.3277839 38.6403875 4.3277839 38.6403875 1.1572495 40.0945744 1.1572495",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1756"
   ],
-  "georss_box_s": "38.6403875 1.1572495 40.0945744 4.3277839",
-  "georss_polygon_s": "40.0945744 1.1572495 40.0945744 4.3277839 38.6403875 4.3277839 38.6403875 1.1572495 40.0945744 1.1572495",
   "solr_geom": "ENVELOPE(1.1572495, 4.3277839, 40.0945744, 38.6403875)",
-  "solr_year_i": "1756"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Balearic Islands (Spain)",
+    "Ibiza (Spain)",
+    "Maho\u0301n (Spain)",
+    "Majorca (Spain)",
+    "Minorca (Spain)",
+    "Spain"
+  ]
 }

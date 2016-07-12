@@ -1,25 +1,25 @@
 {
+  "solr_year_i": "1904",
   "uuid": "http://arks.princeton.edu/ark:/88435/0r967624d",
   "dc_description_s": "Mexico",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "0r967624d",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/0r967624d/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F0r%2F96%2F76%2F24%2Fd%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "0r967624d",
-  "layer_slug_s": "princeton-0r967624d",
-  "layer_geom_type_s": "Image",
+  "georss_box_s": "14.0 -117.0 34.0 -85.0",
   "layer_modified_dt": "2015-01-19T22:37:35Z",
-  "dc_title_s": "Mexico",
+  "layer_id_s": "0r967624d",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Mexico"
-  ],
+  "dc_identifier_s": "0r967624d",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Mexico",
+  "layer_slug_s": "princeton-0r967624d",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/0r967624d/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/0r/96/76/24/d/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "34.0 -117.0 34.0 -85.0 14.0 -85.0 14.0 -117.0 34.0 -117.0",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1904"
   ],
-  "georss_box_s": "14.0 -117.0 34.0 -85.0",
-  "georss_polygon_s": "34.0 -117.0 34.0 -85.0 14.0 -85.0 14.0 -117.0 34.0 -117.0",
   "solr_geom": "ENVELOPE(-117.0, -85.0, 34.0, 14.0)",
-  "solr_year_i": "1904"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Mexico"
+  ]
 }

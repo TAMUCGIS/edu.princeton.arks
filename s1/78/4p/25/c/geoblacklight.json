@@ -1,26 +1,26 @@
 {
+  "solr_year_i": "1871",
   "uuid": "http://arks.princeton.edu/ark:/88435/s1784p25c",
-  "dc_description_s": "Führer im Wald der Stadt Heidelberg",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "s1784p25c",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/s1784p25c/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2Fs1%2F78%2F4p%2F25%2Fc%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "s1784p25c",
-  "layer_slug_s": "princeton-s1784p25c",
-  "layer_geom_type_s": "Image",
+  "dc_description_s": "Fu\u0308hrer im Wald der Stadt Heidelberg",
+  "georss_box_s": "47.5324787 7.5117461 49.7913277 10.4955731",
   "layer_modified_dt": "2015-01-21T22:24:26Z",
-  "dc_title_s": "Führer im Wald der Stadt Heidelberg",
+  "layer_id_s": "s1784p25c",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Baden-Wur̈ttemberg (Germany)",
-    "Heidelberg (Germany)"
-  ],
+  "dc_identifier_s": "s1784p25c",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Fu\u0308hrer im Wald der Stadt Heidelberg",
+  "layer_slug_s": "princeton-s1784p25c",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/s1784p25c/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/s1/78/4p/25/c/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "49.7913277 7.5117461 49.7913277 10.4955731 47.5324787 10.4955731 47.5324787 7.5117461 49.7913277 7.5117461",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1871"
   ],
-  "georss_box_s": "47.5324787 7.5117461 49.7913277 10.4955731",
-  "georss_polygon_s": "49.7913277 7.5117461 49.7913277 10.4955731 47.5324787 10.4955731 47.5324787 7.5117461 49.7913277 7.5117461",
   "solr_geom": "ENVELOPE(7.5117461, 10.4955731, 49.7913277, 47.5324787)",
-  "solr_year_i": "1871"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Baden-Wur\u0308ttemberg (Germany)",
+    "Heidelberg (Germany)"
+  ]
 }

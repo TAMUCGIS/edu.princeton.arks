@@ -1,31 +1,31 @@
 {
+  "solr_year_i": "1830",
   "uuid": "http://arks.princeton.edu/ark:/88435/70795b11f",
+  "dc_description_s": "Sketch of the Swan River Colony including King George's Sound /",
+  "georss_box_s": "-35.25000 114.66667 -31.66667 118.41667",
+  "layer_modified_dt": "2015-01-19T22:37:22Z",
   "dc_creator_sm": [
     "Barrow, John,",
     "Stirling, James",
     "Nind, Issac Scott."
   ],
-  "dc_description_s": "Sketch of the Swan River Colony including King George's Sound /",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "70795b11f",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/70795b11f/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F70%2F79%2F5b%2F11%2Ff%2F00000001.jp2/info.json\"}",
   "layer_id_s": "70795b11f",
-  "layer_slug_s": "princeton-70795b11f",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-19T22:37:22Z",
-  "dc_title_s": "Sketch of the Swan River Colony including King George's Sound /",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Western Australia",
-    "Western Australia"
-  ],
+  "dc_identifier_s": "70795b11f",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Sketch of the Swan River Colony including King George's Sound /",
+  "layer_slug_s": "princeton-70795b11f",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/70795b11f/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/70/79/5b/11/f/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "-31.66667 114.66667 -31.66667 118.41667 -35.25000 118.41667 -35.25000 114.66667 -31.66667 114.66667",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1830"
   ],
-  "georss_box_s": "-35.25000 114.66667 -31.66667 118.41667",
-  "georss_polygon_s": "-31.66667 114.66667 -31.66667 118.41667 -35.25000 118.41667 -35.25000 114.66667 -31.66667 114.66667",
   "solr_geom": "ENVELOPE(114.66667, 118.41667, -31.66667, -35.25000)",
-  "solr_year_i": "1830"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Western Australia",
+    "Western Australia"
+  ]
 }

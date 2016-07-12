@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1540",
   "uuid": "http://arks.princeton.edu/ark:/88435/6d570009k",
+  "dc_description_s": "Tabula Europae IIII",
+  "georss_box_s": "47.2701114 5.8663153 55.099161 15.0419319",
+  "layer_modified_dt": "2015-01-25T02:06:14Z",
   "dc_creator_sm": [
     "Petri, Heinrich,",
-    "Münster, Sebastian,",
+    "Mu\u0308nster, Sebastian,",
     "Ptolemy,"
   ],
-  "dc_description_s": "Tabula Europae IIII",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "6d570009k",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/6d570009k/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F6d%2F57%2F00%2F09%2Fk%2F00000001.jp2/info.json\"}",
   "layer_id_s": "6d570009k",
-  "layer_slug_s": "princeton-6d570009k",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-25T02:06:14Z",
-  "dc_title_s": "Tabula Europae IIII",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Germany"
-  ],
+  "dc_identifier_s": "6d570009k",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Tabula Europae IIII",
+  "layer_slug_s": "princeton-6d570009k",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/6d570009k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/6d/57/00/09/k/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "55.099161 5.8663153 55.099161 15.0419319 47.2701114 15.0419319 47.2701114 5.8663153 55.099161 5.8663153",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1540"
   ],
-  "georss_box_s": "47.2701114 5.8663153 55.099161 15.0419319",
-  "georss_polygon_s": "55.099161 5.8663153 55.099161 15.0419319 47.2701114 15.0419319 47.2701114 5.8663153 55.099161 5.8663153",
   "solr_geom": "ENVELOPE(5.8663153, 15.0419319, 55.099161, 47.2701114)",
-  "solr_year_i": "1540"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Germany"
+  ]
 }

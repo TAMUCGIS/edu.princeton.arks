@@ -1,37 +1,37 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/8049g702z",
-  "dc_creator_sm": [
-    "Sanborn Map Company"
-  ],
   "dc_description_s": "This a Sanborn map of Hilton",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "8049g702z",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York: Sanborn Map Company",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F80%2F49%2Fg7%2F02%2Fz%2F00000001.jp2/info.json\"}",
-  "layer_id_s": "8049g702z",
-  "layer_slug_s": "princeton-8049g702z",
-  "layer_geom_type_s": "Image",
   "layer_modified_dt": "2015-01-18T17:02:59Z",
+  "solr_geom": "ENVELOPE(-74.004713, -73.973331, 40.422614, 40.388916)",
+  "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/80/49/g7/02/z/00000001.jp2/info.json\"}",
+  "dc_rights_s": "Public",
+  "uuid": "http://arks.princeton.edu/ark:/88435/8049g702z",
+  "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
     "Structure",
     "Fire Insurance",
     "Sanborn"
   ],
-  "dc_title_s": "Hilton, Waverly & Maplewood, N.J. (Sheet 118)",
+  "dc_format_s": "Scanned Map",
+  "dct_temporal_sm": [
+    "1895"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
   "dc_type_s": "Image",
+  "dc_identifier_s": "8049g702z",
+  "georss_polygon_s": "40.422614 -74.004713 40.422614 -73.973331 40.388916 -73.973331 40.388916 -74.004713 40.422614 -74.004713",
+  "dc_publisher_s": "New York: Sanborn Map Company",
+  "solr_year_i": "1895",
   "dct_spatial_sm": [
     "New Jersey",
     "Hilton"
   ],
-  "dct_temporal_sm": [
-    "1895"
-  ],
+  "layer_id_s": "8049g702z",
   "georss_box_s": "40.388916 -74.004713 40.422614 -73.973331",
-  "georss_polygon_s": "40.422614 -74.004713 40.422614 -73.973331 40.388916 -73.973331 40.388916 -74.004713 40.422614 -74.004713",
-  "solr_geom": "ENVELOPE(-74.004713, -73.973331, 40.422614, 40.388916)",
-  "solr_year_i": "1895"
+  "dc_title_s": "Hilton, Waverly & Maplewood, N.J. (Sheet 118)",
+  "layer_slug_s": "princeton-8049g702z",
+  "layer_geom_type_s": "Image",
+  "dc_language_s": "English"
 }

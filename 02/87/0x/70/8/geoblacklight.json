@@ -1,32 +1,32 @@
 {
+  "solr_year_i": "1828",
   "uuid": "http://arks.princeton.edu/ark:/88435/02870x708",
+  "dc_description_s": "Map shewing the discoveries made by British officers in the Arctic regions, from the year 1818 to 1826",
+  "georss_box_s": "51.175092 157.732108 83.9999979 65.6777839",
+  "layer_modified_dt": "2015-01-21T22:23:45Z",
   "dc_creator_sm": [
     "Franklin, John,",
     "Walker, J.,"
   ],
-  "dc_description_s": "Map shewing the discoveries made by British officers in the Arctic regions, from the year 1818 to 1826",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "02870x708",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/02870x708/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F02%2F87%2F0x%2F70%2F8%2F00000001.jp2/info.json\"}",
   "layer_id_s": "02870x708",
-  "layer_slug_s": "princeton-02870x708",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:45Z",
-  "dc_title_s": "Map shewing the discoveries made by British officers in the Arctic regions, from the year 1818 to 1826",
   "dc_type_s": "Image",
+  "dc_identifier_s": "02870x708",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Map shewing the discoveries made by British officers in the Arctic regions, from the year 1818 to 1826",
+  "layer_slug_s": "princeton-02870x708",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/02870x708/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/02/87/0x/70/8/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "83.9999979 157.732108 83.9999979 65.6777839 51.175092 65.6777839 51.175092 157.732108 83.9999979 157.732108",
+  "layer_geom_type_s": "Image",
+  "dct_temporal_sm": [
+    "1828"
+  ],
+  "solr_geom": "ENVELOPE(157.732108, 65.6777839, 83.9999979, 51.175092)",
+  "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Arctic regions",
     "Northwest, Canadian",
     "Arctic regions",
     "Polar regions"
-  ],
-  "dct_temporal_sm": [
-    "1828"
-  ],
-  "georss_box_s": "51.175092 157.732108 83.9999979 65.6777839",
-  "georss_polygon_s": "83.9999979 157.732108 83.9999979 65.6777839 51.175092 65.6777839 51.175092 157.732108 83.9999979 157.732108",
-  "solr_geom": "ENVELOPE(157.732108, 65.6777839, 83.9999979, 51.175092)",
-  "solr_year_i": "1828"
+  ]
 }

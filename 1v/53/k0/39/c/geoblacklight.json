@@ -1,30 +1,30 @@
 {
+  "solr_year_i": "1576",
   "uuid": "http://arks.princeton.edu/ark:/88435/1v53k039c",
+  "dc_description_s": "Scarpanto",
+  "georss_box_s": "35.3965234 27.0612692 35.8304376 27.2426242",
+  "layer_modified_dt": "2015-01-21T22:23:59Z",
   "dc_creator_sm": [
     "Porro, Girolamo,",
     "Porcacchi, Thomaso,"
   ],
-  "dc_description_s": "Scarpanto",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "1v53k039c",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/1v53k039c/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F1v%2F53%2Fk0%2F39%2Fc%2F00000001.jp2/info.json\"}",
   "layer_id_s": "1v53k039c",
-  "layer_slug_s": "princeton-1v53k039c",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:59Z",
-  "dc_title_s": "Scarpanto",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "Karpathos Island (Greece)",
-    "Greece"
-  ],
+  "dc_identifier_s": "1v53k039c",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "Scarpanto",
+  "layer_slug_s": "princeton-1v53k039c",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/1v53k039c/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/1v/53/k0/39/c/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "35.8304376 27.0612692 35.8304376 27.2426242 35.3965234 27.2426242 35.3965234 27.0612692 35.8304376 27.0612692",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1576"
   ],
-  "georss_box_s": "35.3965234 27.0612692 35.8304376 27.2426242",
-  "georss_polygon_s": "35.8304376 27.0612692 35.8304376 27.2426242 35.3965234 27.2426242 35.3965234 27.0612692 35.8304376 27.0612692",
   "solr_geom": "ENVELOPE(27.0612692, 27.2426242, 35.8304376, 35.3965234)",
-  "solr_year_i": "1576"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "Karpathos Island (Greece)",
+    "Greece"
+  ]
 }

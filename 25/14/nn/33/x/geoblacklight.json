@@ -1,29 +1,29 @@
 {
+  "solr_year_i": "1845",
   "uuid": "http://arks.princeton.edu/ark:/88435/2514nn33x",
+  "dc_description_s": "America",
+  "georss_box_s": "18.9110642 172.4458955 71.389888 -66.9453947",
+  "layer_modified_dt": "2015-01-21T22:23:44Z",
   "dc_creator_sm": [
     "Stieler, Adolf,"
   ],
-  "dc_description_s": "America",
-  "dc_format_s": "Scanned Map",
-  "dc_identifier_s": "2514nn33x",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Princeton",
-  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\":\"https://geowebservices.princeton.edu/download/items/2514nn33x/marc.xml\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/pulmap%2F25%2F14%2Fnn%2F33%2Fx%2F00000001.jp2/info.json\"}",
   "layer_id_s": "2514nn33x",
-  "layer_slug_s": "princeton-2514nn33x",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2015-01-21T22:23:44Z",
-  "dc_title_s": "America",
   "dc_type_s": "Image",
-  "dct_spatial_sm": [
-    "America",
-    "Western Hemisphere"
-  ],
+  "dc_identifier_s": "2514nn33x",
+  "dct_provenance_s": "Princeton",
+  "dc_title_s": "America",
+  "layer_slug_s": "princeton-2514nn33x",
+  "dc_format_s": "Scanned Map",
+  "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/2514nn33x/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/25/14/nn/33/x/00000001.jp2/info.json\"}",
+  "georss_polygon_s": "71.389888 172.4458955 71.389888 -66.9453947 18.9110642 -66.9453947 18.9110642 172.4458955 71.389888 172.4458955",
+  "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1845"
   ],
-  "georss_box_s": "18.9110642 172.4458955 71.389888 -66.9453947",
-  "georss_polygon_s": "71.389888 172.4458955 71.389888 -66.9453947 18.9110642 -66.9453947 18.9110642 172.4458955 71.389888 172.4458955",
   "solr_geom": "ENVELOPE(172.4458955, -66.9453947, 71.389888, 18.9110642)",
-  "solr_year_i": "1845"
+  "dc_rights_s": "Public",
+  "dct_spatial_sm": [
+    "America",
+    "Western Hemisphere"
+  ]
 }
