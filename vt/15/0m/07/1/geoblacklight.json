@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1938",
-  "uuid": "http://arks.princeton.edu/ark:/88435/vt150m071",
   "dc_description_s": "Carte geologique detaillee de la France [a 1/80 000]: Evreux.",
-  "georss_box_s": "48.77800 1.02130 49.13770 1.89850",
   "layer_modified_dt": "2015-01-19T22:36:37Z",
   "dc_creator_sm": [
     "Granjean, F.",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-vt150m071",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/vt150m071/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/vt/15/0m/07/1/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "49.13770 1.02130 49.13770 1.89850 48.77800 1.89850 48.77800 1.02130 49.13770 1.02130",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1938"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "France"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

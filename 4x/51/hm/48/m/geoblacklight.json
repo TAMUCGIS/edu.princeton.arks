@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1675",
-  "uuid": "http://arks.princeton.edu/ark:/88435/4x51hm48m",
   "dc_description_s": "A new map of the kingdom of England & dominon [sic] of Wales : whereon are projected all ye principal roads",
-  "georss_box_s": "49.674 -6.7047493 55.917 2.0919117",
   "layer_modified_dt": "2015-01-21T22:24:13Z",
   "dc_creator_sm": [
     "Moxon, J.",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-4x51hm48m",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/4x51hm48m/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/4x/51/hm/48/m/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "55.917 -6.7047493 55.917 2.0919117 49.674 2.0919117 49.674 -6.7047493 55.917 -6.7047493",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1675"
@@ -26,5 +23,6 @@
   "dct_spatial_sm": [
     "England",
     "Wales"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

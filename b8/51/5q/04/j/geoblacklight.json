@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-74.746, -74.661, 40.208, 40.176)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/b8515q04j/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/b8/51/5q/04/j/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/b8515q04j/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/b8515q04j",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
@@ -17,7 +16,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "b8515q04j",
-  "georss_polygon_s": "40.208 -74.746 40.208 -74.661 40.176 -74.661 40.176 -74.746 40.208 -74.746",
   "dc_publisher_s": "Sanborn Map Company",
   "solr_year_i": "1927",
   "dct_spatial_sm": [
@@ -27,9 +25,9 @@
     "United States"
   ],
   "layer_id_s": "b8515q04j",
-  "georss_box_s": "40.176 -74.746 40.208 -74.661",
   "dc_title_s": "White Horse (Sheet 5), Mercer County, New Jersey",
   "dct_issued_s": "1927",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

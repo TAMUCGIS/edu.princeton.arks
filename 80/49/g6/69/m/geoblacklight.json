@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-74.6333, -74.1833, 40.9667, 40.4667)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/8049g669m/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/80/49/g6/69/m/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/8049g669m/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/8049g669m",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "historical maps",
@@ -22,7 +21,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "8049g669m",
-  "georss_polygon_s": "40.9667 -74.6333 40.9667 -74.1833 40.4667 -74.1833 40.4667 -74.6333 40.9667 -74.6333",
   "dc_publisher_s": "Geological Survey of New Jersey. New Jersey Geological Survey.",
   "solr_year_i": "1900",
   "dct_spatial_sm": [
@@ -34,9 +32,9 @@
     "Essex"
   ],
   "layer_id_s": "8049g669m",
-  "georss_box_s": "40.4667 -74.6333 40.9667 -74.1833",
   "dc_title_s": "A topographical map of the valley of the Passaic with the country eastward to Newark and southward to the Raritan River.",
   "dct_issued_s": "1900",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

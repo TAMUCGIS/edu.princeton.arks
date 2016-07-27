@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1912",
-  "uuid": "http://arks.princeton.edu/ark:/88435/st74cs95c",
   "dc_description_s": "The Rand-McNally new library atlas map of German Empire (western sheet)",
-  "georss_box_s": "47.2701114 5.8663153 55.099161 15.0419319",
   "layer_modified_dt": "2015-01-21T22:24:20Z",
   "layer_id_s": "st74cs95c",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-st74cs95c",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/st74cs95c/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/st/74/cs/95/c/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "55.099161 5.8663153 55.099161 15.0419319 47.2701114 15.0419319 47.2701114 5.8663153 55.099161 5.8663153",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1912"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Germany",
     "Germany"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-74.819582, -74.728904, 40.248298, 40.183834)",
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/fx/71/9p/74/c/00000001.jp2/info.json\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/fx719p74c",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
@@ -21,7 +20,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "fx719p74c",
-  "georss_polygon_s": "40.248298 -74.819582 40.248298 -74.728904 40.183834 -74.728904 40.183834 -74.819582 40.248298 -74.819582",
   "dc_publisher_s": "New York: Sanborn Map Company",
   "solr_year_i": "1927",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "Trenton"
   ],
   "layer_id_s": "fx719p74c",
-  "georss_box_s": "40.183834 -74.819582 40.248298 -74.728904",
   "dc_title_s": "Insurance maps of Trenton, New Jersey, volume two (Sheet 264).",
   "layer_slug_s": "princeton-fx719p74c",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

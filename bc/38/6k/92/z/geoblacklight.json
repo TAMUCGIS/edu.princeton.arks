@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-180, 180, 90, -90)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/bc386k92z\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/bc386k92z/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/bc386k92z",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Oil",
@@ -16,14 +15,13 @@
   "dc_creator_sm": "Oilfield Publications Limited",
   "dc_type_s": "Image",
   "dc_identifier_s": "bc386k92z",
-  "georss_polygon_s": "90 -180 90 180 -90 180 -90 -180 90 -180",
   "dc_publisher_s": "Oilfield Publications Limited",
   "solr_year_i": "1984",
   "dct_spatial_sm": "World",
   "layer_id_s": "bc386k92z",
-  "georss_box_s": "-90 -180 90 180",
   "dc_title_s": "The world oil and gas activity map.",
   "layer_slug_s": "princeton-bc386k92z",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

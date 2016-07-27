@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-74.879239, -74.828908, 40.09805, 40.062631)",
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/12/57/9v/15/w/00000001.jp2/info.json\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/12579v15w",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
@@ -21,7 +20,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "12579v15w",
-  "georss_polygon_s": "40.09805 -74.879239 40.09805 -74.828908 40.062631 -74.828908 40.062631 -74.879239 40.09805 -74.879239",
   "dc_publisher_s": "New York: Sanborn Map Company",
   "solr_year_i": "1902",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "Burlington"
   ],
   "layer_id_s": "12579v15w",
-  "georss_box_s": "40.062631 -74.879239 40.09805 -74.828908",
   "dc_title_s": "Insurance maps of Burlington, Burlington Co., New Jersey (Sheet 9).",
   "layer_slug_s": "princeton-12579v15w",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

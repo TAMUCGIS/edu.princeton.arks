@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1847",
-  "uuid": "http://arks.princeton.edu/ark:/88435/08612r056",
   "dc_description_s": "Topographical map of the city of Newark, Essex County, N.J. Drawn from surveys made by order of the Common Council /",
-  "georss_box_s": "40.673903 -74.2513239 40.7881387 -74.1127869",
   "layer_modified_dt": "2015-01-21T22:24:26Z",
   "dc_creator_sm": [
     "Smith, E. C."
@@ -15,12 +13,14 @@
   "layer_slug_s": "princeton-08612r056",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/08612r056/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/08/61/2r/05/6/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.7881387 -74.2513239 40.7881387 -74.1127869 40.673903 -74.1127869 40.673903 -74.2513239 40.7881387 -74.2513239",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1847"
   ],
   "solr_geom": "ENVELOPE(-74.2513239, -74.1127869, 40.7881387, 40.673903)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

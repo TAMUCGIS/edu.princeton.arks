@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-74.1167, -74.0000, 39.7500, 39.6167)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/tb09j729c/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/tb/09/j7/29/c/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/tb09j729c/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/tb09j729c",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "historical maps",
@@ -22,7 +21,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "tb09j729c",
-  "georss_polygon_s": "39.7500 -74.1167 39.7500 -74.0000 39.6167 -74.0000 39.6167 -74.1167 39.7500 -74.1167",
   "dc_publisher_s": "New Jersey Department of Environmental Protection. Division of Coastal Resources",
   "solr_year_i": "1981",
   "dct_spatial_sm": [
@@ -32,9 +30,9 @@
     "New Jersey"
   ],
   "layer_id_s": "tb09j729c",
-  "georss_box_s": "39.6167 -74.1167 39.7500 -74.0000",
   "dc_title_s": "Historical shoreline changes in New Jersey 1835-1972. 7) Long Beach NE Quadrangle, New Jersey-Ocean Co. 7.5 minute series (topographic)",
   "dct_issued_s": "1981",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-75.200, -74.7667, 41.400, 40.9333)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/mg74qn84m/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/mg/74/qn/84/m/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/mg74qn84m/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/mg74qn84m",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "historical maps",
@@ -22,7 +21,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "mg74qn84m",
-  "georss_polygon_s": "41.400 -75.200 41.400 -74.7667 40.9333 -74.7667 40.9333 -75.200 41.400 -75.200",
   "dc_publisher_s": "New Jersey. Department of Conservation and Development. Division of Geology and Topography.",
   "solr_year_i": "1931",
   "dct_spatial_sm": [
@@ -32,9 +30,9 @@
     "New Jersey"
   ],
   "layer_id_s": "mg74qn84m",
-  "georss_box_s": "40.9333 -75.200 41.400 -74.7667",
   "dc_title_s": "[New Jersey.] Atlas sheet no. 21.",
   "dct_issued_s": "1931",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

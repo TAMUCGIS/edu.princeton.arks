@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1897",
-  "uuid": "http://arks.princeton.edu/ark:/88435/2227ms20t",
   "dc_description_s": "A topographical map of the northeastern highlands including the country lying between Deckertown, Dover, Paterson and Suffern : from original surveys and levelings, based on the triangulation of the U.S. Coast and Geodetic Survey /",
-  "georss_box_s": "40.0 -74.0 41.0 -74.0",
   "layer_modified_dt": "2015-01-23T17:48:40Z",
   "dc_creator_sm": [
     "Smock, John C.",
@@ -16,12 +14,14 @@
   "layer_slug_s": "princeton-2227ms20t",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/2227ms20t/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/22/27/ms/20/t/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "41.0 -74.0 41.0 -74.0 40.0 -74.0 40.0 -74.0 41.0 -74.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1897"
   ],
   "solr_geom": "ENVELOPE(-74.0, -74.0, 41.0, 40.0)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

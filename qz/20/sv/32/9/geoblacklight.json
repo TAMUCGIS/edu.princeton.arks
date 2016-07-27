@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1911",
-  "uuid": "http://arks.princeton.edu/ark:/88435/qz20sv329",
   "dc_description_s": "Carte geologique detaillee de la France [a 1/80 000]: La Fleche.",
-  "georss_box_s": "47.68050 -0.68540 48.04010 0.19060",
   "layer_modified_dt": "2015-01-19T22:36:38Z",
   "dc_creator_sm": [
     "Michel-Levy, Mr."
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-qz20sv329",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/qz20sv329/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/qz/20/sv/32/9/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "48.04010 -0.68540 48.04010 0.19060 47.68050 0.19060 47.68050 -0.68540 48.04010 -0.68540",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1911"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "France"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

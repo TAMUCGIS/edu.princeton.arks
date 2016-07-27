@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1840",
-  "uuid": "http://arks.princeton.edu/ark:/88435/c821gn22c",
   "dc_description_s": "South America, west coast : sheet V, Chile : Pt. S. Antonio to Pt. Tucapel",
-  "georss_box_s": "-41.0 -76.0 -37.0 -73.0",
   "layer_modified_dt": "2015-01-19T22:37:11Z",
   "dc_creator_sm": [
     "Fitzroy, Robert,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-c821gn22c",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/c821gn22c/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/c8/21/gn/22/c/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "-37.0 -76.0 -37.0 -73.0 -41.0 -73.0 -41.0 -76.0 -37.0 -76.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1840"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "Chile",
     "Pacific Coast (Chile)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1856",
-  "uuid": "http://arks.princeton.edu/ark:/88435/0c483m32f",
   "dc_description_s": "Chapman's new sectional map of Minnesota",
-  "georss_box_s": "43.4994288 -97.2392618 49.3844901 -89.4833849",
   "layer_modified_dt": "2015-01-21T22:23:52Z",
   "layer_id_s": "0c483m32f",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-0c483m32f",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/0c483m32f/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/0c/48/3m/32/f/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "49.3844901 -97.2392618 49.3844901 -89.4833849 43.4994288 -89.4833849 43.4994288 -97.2392618 49.3844901 -97.2392618",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1856"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Minnesota"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

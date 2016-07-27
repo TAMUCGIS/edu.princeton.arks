@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1923",
-  "uuid": "http://arks.princeton.edu/ark:/88435/np193c688",
   "dc_description_s": "Map of New Jersey showing the original counties together with the present county boundaries with date of incorporation",
-  "georss_box_s": "38.7911303 -75.5633859 41.357423 -73.8939789",
   "layer_modified_dt": "2015-01-21T22:24:24Z",
   "layer_id_s": "np193c688",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-np193c688",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/np193c688/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/np/19/3c/68/8/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "41.357423 -75.5633859 41.357423 -73.8939789 38.7911303 -73.8939789 38.7911303 -75.5633859 41.357423 -75.5633859",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1923"
@@ -23,5 +20,6 @@
     "New Jersey",
     "New Jersey",
     "New Jersey"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

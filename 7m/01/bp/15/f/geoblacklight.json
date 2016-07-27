@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1897",
-  "uuid": "http://arks.princeton.edu/ark:/88435/7m01bp15f",
   "dc_description_s": "Belgique, Hollande & bords du Rhin",
-  "georss_box_s": "49.0 -1.0 54.0 6.0",
   "layer_modified_dt": "2015-01-19T22:37:16Z",
   "dc_creator_sm": [
     "Rousset, P.,",
@@ -20,7 +18,6 @@
   "layer_slug_s": "princeton-7m01bp15f",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/7m01bp15f/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/7m/01/bp/15/f/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "54.0 -1.0 54.0 6.0 49.0 6.0 49.0 -1.0 54.0 -1.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1897"
@@ -30,5 +27,6 @@
   "dct_spatial_sm": [
     "Belgium",
     "Netherlands"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

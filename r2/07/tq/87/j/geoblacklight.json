@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-74.6658, -74.6414, 40.3547, 40.3353)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/r207tq87j/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/r2/07/tq/87/j/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/r207tq87j/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/r207tq87j",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Princeton University",
@@ -18,7 +17,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "r207tq87j",
-  "georss_polygon_s": "40.3547 -74.6658 40.3547 -74.6414 40.3353 -74.6414 40.3353 -74.6658 40.3547 -74.6658",
   "solr_year_i": "1890",
   "dct_spatial_sm": [
     "Princeton",
@@ -27,9 +25,9 @@
     "United States"
   ],
   "layer_id_s": "r207tq87j",
-  "georss_box_s": "40.3353 -74.6658 40.3547 -74.6414",
   "dc_title_s": "Princeton Campus Map 1889-1890",
   "dct_issued_s": "1890",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

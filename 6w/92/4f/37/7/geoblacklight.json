@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1854",
-  "uuid": "http://arks.princeton.edu/ark:/88435/6w924f377",
   "dc_description_s": "Italy, south part",
-  "georss_box_s": "36.0 8.0 41.0 19.0",
   "layer_modified_dt": "2015-01-23T17:48:40Z",
   "layer_id_s": "6w924f377",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-6w924f377",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/6w924f377/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/6w/92/4f/37/7/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "41.0 8.0 41.0 19.0 36.0 19.0 36.0 8.0 41.0 8.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1854"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Italy, Southern",
     "Malta"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

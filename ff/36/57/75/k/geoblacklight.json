@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1778",
-  "uuid": "http://arks.princeton.edu/ark:/88435/ff365775k",
   "dc_description_s": "A new and accurate map of Ireland",
-  "georss_box_s": "51.0 -11.0 56.0 -5.0",
   "layer_modified_dt": "2015-01-19T22:37:34Z",
   "dc_creator_sm": [
     "Cooke, John,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-ff365775k",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/ff365775k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ff/36/57/75/k/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "56.0 -11.0 56.0 -5.0 51.0 -5.0 51.0 -11.0 56.0 -11.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1778"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Ireland"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

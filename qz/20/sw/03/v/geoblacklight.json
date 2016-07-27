@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1892",
-  "uuid": "http://arks.princeton.edu/ark:/88435/qz20sw03v",
   "dc_description_s": "Ulm",
-  "georss_box_s": "47.5324787 7.5117461 49.7913277 10.4955731",
   "layer_modified_dt": "2015-01-21T22:24:30Z",
   "dc_creator_sm": [
     "Woerl, Leo,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-qz20sw03v",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/qz20sw03v/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/qz/20/sw/03/v/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "49.7913277 7.5117461 49.7913277 10.4955731 47.5324787 10.4955731 47.5324787 7.5117461 49.7913277 7.5117461",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1892"
@@ -23,7 +20,8 @@
   "solr_geom": "ENVELOPE(7.5117461, 10.4955731, 49.7913277, 47.5324787)",
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
-    "Baden-Wu\u0308rttemberg (Germany)",
+    "Baden-Württemberg (Germany)",
     "Ulm (Germany)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

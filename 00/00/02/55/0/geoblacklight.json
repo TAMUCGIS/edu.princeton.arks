@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1806",
-  "uuid": "http://arks.princeton.edu/ark:/88435/000002550",
   "dc_description_s": "Italia in regiones undecim ab Augusto descripta, cum insulis Corsica et Sardinia",
-  "georss_box_s": "38.0 6.0 48.0 20.0",
   "layer_modified_dt": "2015-01-23T17:48:40Z",
   "dc_creator_sm": [
     "Macpherson, David,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-000002550",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/000002550/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/00/00/02/55/0/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "48.0 6.0 48.0 20.0 38.0 20.0 38.0 6.0 48.0 6.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1806"
@@ -26,5 +23,6 @@
     "Italy",
     "Corsica (France)",
     "Sardinia (Italy)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

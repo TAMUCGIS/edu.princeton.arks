@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1827",
-  "uuid": "http://arks.princeton.edu/ark:/88435/9593tx50d",
   "dc_description_s": "Partie du Mexique et de Guatemala",
-  "georss_box_s": "12.0 -97.6666666667 18.0 -89.6666666667",
   "layer_modified_dt": "2015-01-19T22:37:03Z",
   "dc_creator_sm": [
     "Vandermaelen, Philippe, 1795-1869."
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-9593tx50d",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/9593tx50d/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/95/93/tx/50/d/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "18.0 -97.6666666667 18.0 -89.6666666667 12.0 -89.6666666667 12.0 -97.6666666667 18.0 -97.6666666667",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1827"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "Guatemala",
     "Mexico (State)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-0.8167, -0.1667, 51.3167, 51.0500)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/8c97ks02m\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/8c97ks02m/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/8c97ks02m",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
@@ -19,7 +18,6 @@
   "dc_creator_sm": "Great Britain Ordnance Survey",
   "dc_type_s": "Image",
   "dc_identifier_s": "8c97ks02m",
-  "georss_polygon_s": "51.3167 -0.8167 51.3167 -0.1667 51.0500 -0.1667 51.0500 -0.8167 51.3167 -0.8167",
   "dc_publisher_s": "Great Britain Ordnance Survey",
   "solr_year_i": "1934",
   "dct_spatial_sm": [
@@ -31,9 +29,9 @@
     "G5741.C2.s63.O7S8 sh124"
   ],
   "layer_id_s": "8c97ks02m",
-  "georss_box_s": "51.0500 -0.8167 51.3167 -0.1667",
   "dc_title_s": "Ordnance Survey of England and Wales: popular edition one-inch map.  Guildford. Sheet 124.",
   "layer_slug_s": "princeton-8c97ks02m",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

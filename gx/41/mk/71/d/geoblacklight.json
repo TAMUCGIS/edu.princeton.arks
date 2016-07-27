@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1915",
-  "uuid": "http://arks.princeton.edu/ark:/88435/gx41mk71d",
   "dc_description_s": "Asia Minor : Aidin",
-  "georss_box_s": "37.336109 27.0035219 38.126058 28.8435989",
   "layer_modified_dt": "2015-01-21T22:23:46Z",
   "layer_id_s": "gx41mk71d",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-gx41mk71d",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/gx41mk71d/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/gx/41/mk/71/d/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "38.126058 27.0035219 38.126058 28.8435989 37.336109 28.8435989 37.336109 27.0035219 38.126058 27.0035219",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1915"
@@ -20,6 +17,7 @@
   "solr_geom": "ENVELOPE(27.0035219, 28.8435989, 38.126058, 37.336109)",
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
-    "Ayd\u0131n I\u0307li (Turkey)"
-  ]
+    "Aydın İli (Turkey)"
+  ],
+  "geoblacklight_version": "1.0"
 }

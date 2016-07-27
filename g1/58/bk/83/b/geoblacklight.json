@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1710",
-  "uuid": "http://arks.princeton.edu/ark:/88435/g158bk83b",
   "dc_description_s": "Novissima & exactissima totius regni Neapolis tabula",
-  "georss_box_s": "40.7919337 14.1394899 40.9159348 14.3537148",
   "layer_modified_dt": "2015-01-25T02:06:20Z",
   "dc_creator_sm": [
     "McCabe, Robert A.,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-g158bk83b",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/g158bk83b/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/g1/58/bk/83/b/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.9159348 14.1394899 40.9159348 14.3537148 40.7919337 14.3537148 40.7919337 14.1394899 40.9159348 14.1394899",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1710"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "Naples (Italy : Province)",
     "Naples (Kingdom)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

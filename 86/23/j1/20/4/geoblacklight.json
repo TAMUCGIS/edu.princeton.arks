@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1640",
-  "uuid": "http://arks.princeton.edu/ark:/88435/8623j1204",
-  "dc_description_s": "Vtriusque Castili\u00e6 nova descriptio",
-  "georss_box_s": "40.0824504 -7.0770536 43.2386326 -1.7753716",
+  "dc_description_s": "Vtriusque Castiliæ nova descriptio",
   "layer_modified_dt": "2015-01-21T22:24:10Z",
   "dc_creator_sm": [
     "Blaeu, Joan,",
@@ -12,11 +10,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "8623j1204",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Vtriusque Castili\u00e6 nova descriptio",
+  "dc_title_s": "Vtriusque Castiliæ nova descriptio",
   "layer_slug_s": "princeton-8623j1204",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/8623j1204/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/86/23/j1/20/4/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "43.2386326 -7.0770536 43.2386326 -1.7753716 40.0824504 -1.7753716 40.0824504 -7.0770536 43.2386326 -7.0770536",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1640"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Castile (Spain)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

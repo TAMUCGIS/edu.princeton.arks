@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-74.3667, -74.3167, 40.200, 40.1500)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/9z903138z/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/9z/90/31/38/z/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/9z903138z/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/9z903138z",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "historical maps",
@@ -23,7 +22,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "9z903138z",
-  "georss_polygon_s": "40.200 -74.3667 40.200 -74.3167 40.1500 -74.3167 40.1500 -74.3667 40.200 -74.3667",
   "dc_publisher_s": "Geological Survey of New Jersey. New Jersey Geological Survey.",
   "solr_year_i": "1948",
   "dct_spatial_sm": [
@@ -31,9 +29,9 @@
     "Freehold"
   ],
   "layer_id_s": "9z903138z",
-  "georss_box_s": "40.1500 -74.3667 40.200 -74.3167",
   "dc_title_s": "New Jersey, Freehold Soil Conservation District, Monmouth County, physical land conditions. Sheet no. 24. ",
   "dct_issued_s": "1948",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

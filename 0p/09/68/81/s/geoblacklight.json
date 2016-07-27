@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-74.465242, -74.413737, 40.641576, 40.602216)",
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/0p/09/68/81/s/00000001.jp2/info.json\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/0p096881s",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
@@ -21,7 +20,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "0p096881s",
-  "georss_polygon_s": "40.641576 -74.465242 40.641576 -74.413737 40.602216 -74.413737 40.602216 -74.465242 40.641576 -74.465242",
   "dc_publisher_s": "New York: Sanborn Map Company",
   "solr_year_i": "1910",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "North Plainfield"
   ],
   "layer_id_s": "0p096881s",
-  "georss_box_s": "40.602216 -74.465242 40.641576 -74.413737",
   "dc_title_s": "North Plainfield (Sheet 9)",
   "layer_slug_s": "princeton-0p096881s",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1841",
-  "uuid": "http://arks.princeton.edu/ark:/88435/3x816q14v",
   "dc_description_s": "Map of the Peninsula of Mount Sinai and Arabia Petraea from the itineraries of E. Robinson and E. Smith /",
-  "georss_box_s": "24.7137693396 -9.503203125 52.4939114872 52.569625",
   "layer_modified_dt": "2015-01-21T22:24:28Z",
   "dc_creator_sm": [
     "Smith, Eli,",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-3x816q14v",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/3x816q14v/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/3x/81/6q/14/v/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "52.4939114872 -9.503203125 52.4939114872 52.569625 24.7137693396 52.569625 24.7137693396 -9.503203125 52.4939114872 -9.503203125",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1841"
@@ -27,5 +24,6 @@
   "dct_spatial_sm": [
     "Arabia, Roman",
     "Sinai, Mount (Egypt)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

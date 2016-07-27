@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1558",
-  "uuid": "http://arks.princeton.edu/ark:/88435/hx11xh719",
   "dc_description_s": "Descriptio totius Galliae Belgicae",
-  "georss_box_s": "49.4969821 2.3889137 51.5516667 6.4080405",
   "layer_modified_dt": "2015-01-21T22:24:11Z",
   "dc_creator_sm": [
     "Tramezzino, Michele,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-hx11xh719",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/hx11xh719/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/hx/11/xh/71/9/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.5516667 2.3889137 51.5516667 6.4080405 49.4969821 6.4080405 49.4969821 2.3889137 51.5516667 2.3889137",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1558"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Belgium"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

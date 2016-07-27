@@ -1,8 +1,6 @@
 {
   "layer_modified_dt": "2014-12-19T16:18:31Z",
-  "uuid": "http://arks.princeton.edu/ark:/88435/x633f274g",
   "dc_description_s": "Digital map of village boundaries in Punjab, India, 2011. Boundaries of all villages are shown linked to Primary Census Abstract 2011. Additionally, the Village Panchayat (Gram Panchayat) name is indicated.",
-  "georss_box_s": "29.542290 73.880783 32.514351 76.943916",
   "layer_slug_s": "princeton-x633f274g",
   "dct_spatial_sm": [
     "Punjab",
@@ -12,7 +10,6 @@
     "ML Infomap Pvt. Ltd."
   ],
   "layer_id_s": "pulmap-restricted:x633f274g",
-  "georss_polygon_s": "32.514351 73.880783 32.514351 76.943916 29.542290 76.943916 29.542290 73.880783 32.514351 73.880783",
   "dc_type_s": "Dataset",
   "dc_identifier_s": "x633f274g",
   "dct_provenance_s": "Princeton",
@@ -61,5 +58,6 @@
   "layer_geom_type_s": "Polygon",
   "solr_geom": "ENVELOPE(73.880783, 76.943916, 32.514351, 29.542290)",
   "dc_rights_s": "Restricted",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

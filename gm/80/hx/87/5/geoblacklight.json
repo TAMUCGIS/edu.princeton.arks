@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1847",
-  "uuid": "http://arks.princeton.edu/ark:/88435/gm80hx875",
   "dc_description_s": "Wind and current chart of the North Atlantic",
-  "georss_box_s": "39.99995 -40.00005 40.00005 -39.99995",
   "layer_modified_dt": "2015-01-25T02:06:19Z",
   "dc_creator_sm": [
     "Maury, Matthew Fontaine,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-gm80hx875",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/gm80hx875/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/gm/80/hx/87/5/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.00005 -40.00005 40.00005 -39.99995 39.99995 -39.99995 39.99995 -40.00005 40.00005 -40.00005",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1847"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "North Atlantic Ocean"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

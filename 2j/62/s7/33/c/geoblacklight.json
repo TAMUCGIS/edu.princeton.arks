@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1700",
-  "uuid": "http://arks.princeton.edu/ark:/88435/2j62s733c",
   "dc_description_s": "France",
-  "georss_box_s": "43.0 -6.0 52.0 9.0",
   "layer_modified_dt": "2015-01-19T22:37:24Z",
   "dc_creator_sm": [
     "Morden, Robert,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-2j62s733c",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/2j62s733c/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/2j/62/s7/33/c/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "52.0 -6.0 52.0 9.0 43.0 9.0 43.0 -6.0 52.0 -6.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1700"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "France"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

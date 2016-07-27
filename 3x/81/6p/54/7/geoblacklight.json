@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1711",
-  "uuid": "http://arks.princeton.edu/ark:/88435/3x816p547",
   "dc_description_s": "The principal islands of the East Indies, according to ye newest observations",
-  "georss_box_s": "-14.4378244695 90.7730169 20.5211462787 140.6227129",
   "layer_modified_dt": "2015-01-21T22:23:52Z",
   "dc_creator_sm": [
     "Moll, Herman,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-3x816p547",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/3x816p547/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/3x/81/6p/54/7/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "20.5211462787 90.7730169 20.5211462787 140.6227129 -14.4378244695 140.6227129 -14.4378244695 90.7730169 20.5211462787 90.7730169",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1711"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "East Indies"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

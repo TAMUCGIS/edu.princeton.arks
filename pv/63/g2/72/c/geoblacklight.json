@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1794",
-  "uuid": "http://arks.princeton.edu/ark:/88435/pv63g272c",
   "dc_description_s": "Carte geographique representant le cours entier du Rhin, de la Moselle, de la Meuse et de l'Escaut avec les pays confins specialement l'etat actuel de toutes les possessions de la Maison d'Autriche dans les Pays Bas et une grande partie de la France",
-  "georss_box_s": "50.9999503 9.9999497 51.0000503 10.0000497",
   "layer_modified_dt": "2015-01-25T02:06:14Z",
   "dc_creator_sm": [
     "Lotter, Georg Friedrich.",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-pv63g272c",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/pv63g272c/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/pv/63/g2/72/c/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.0000503 9.9999497 51.0000503 10.0000497 50.9999503 10.0000497 50.9999503 9.9999497 51.0000503 9.9999497",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1794"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Europe"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

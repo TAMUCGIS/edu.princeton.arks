@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1711",
-  "uuid": "http://arks.princeton.edu/ark:/88435/sb397b807",
   "dc_description_s": "A new and exact map of Spain & Portugal divided into its kingdoms and principalities &c with ye principal roads and considerable improvements /",
-  "georss_box_s": "36.2380667008 -9.5035614375 43.7923795 4.3277839",
   "layer_modified_dt": "2015-01-25T02:06:20Z",
   "dc_creator_sm": [
     "Bowles, Thomas,",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-sb397b807",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/sb397b807/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/sb/39/7b/80/7/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "43.7923795 -9.5035614375 43.7923795 4.3277839 36.2380667008 4.3277839 36.2380667008 -9.5035614375 43.7923795 -9.5035614375",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1711"
@@ -28,5 +25,6 @@
     "Iberian Peninsula",
     "Spain",
     "Portugal"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

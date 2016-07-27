@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(11.2355, 11.401634, 51.0371, 50.9143)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/j6731549t\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/j6731549t/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/j6731549t",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Dewag-Werbung",
   "dc_type_s": "Image",
   "dc_identifier_s": "j6731549t",
-  "georss_polygon_s": "51.0371 11.2355 51.0371 11.401634 50.9143 11.401634 50.9143 11.2355 51.0371 11.2355",
   "dc_publisher_s": "Dewag-Werbung",
   "solr_year_i": "1958",
   "dct_spatial_sm": [
@@ -27,9 +25,9 @@
     "Thueringen Freistaat"
   ],
   "layer_id_s": "j6731549t",
-  "georss_box_s": "50.9143 11.2355 51.0371 11.401634",
   "dc_title_s": "Plan der Stadt Weimar",
   "layer_slug_s": "princeton-j6731549t",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

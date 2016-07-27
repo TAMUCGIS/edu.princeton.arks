@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1910",
-  "uuid": "http://arks.princeton.edu/ark:/88435/8k71nk55j",
-  "dc_description_s": "Aufnahmen in der o\u0308stlichen Wu\u0308ste von Aegypten ...",
-  "georss_box_s": "27.943496 31.96187 27.983496 32.00187",
+  "dc_description_s": "Aufnahmen in der östlichen Wüste von Aegypten ...",
   "layer_modified_dt": "2015-01-25T02:06:14Z",
   "dc_creator_sm": [
     "Reimer, Dietrich,"
@@ -11,11 +9,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "8k71nk55j",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Aufnahmen in der o\u0308stlichen Wu\u0308ste von Aegypten ...",
+  "dc_title_s": "Aufnahmen in der östlichen Wüste von Aegypten ...",
   "layer_slug_s": "princeton-8k71nk55j",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/8k71nk55j/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/8k/71/nk/55/j/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "27.983496 31.96187 27.983496 32.00187 27.943496 32.00187 27.943496 31.96187 27.983496 31.96187",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1910"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Eastern Desert (Egypt)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

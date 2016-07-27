@@ -1,11 +1,9 @@
 {
   "solr_year_i": "1788",
-  "uuid": "http://arks.princeton.edu/ark:/88435/g445cg19q",
   "dc_description_s": "Carte des Isles des Amis",
-  "georss_box_s": "-24.1611591 -179.399435 -15.3655721 -173.5295457",
   "layer_modified_dt": "2015-01-21T22:23:53Z",
   "dc_creator_sm": [
-    "Andre\u0301,",
+    "André,",
     "Bonne, Rigobert,"
   ],
   "layer_id_s": "g445cg19q",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-g445cg19q",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/g445cg19q/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/g4/45/cg/19/q/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "-15.3655721 -179.399435 -15.3655721 -173.5295457 -24.1611591 -173.5295457 -24.1611591 -179.399435 -15.3655721 -179.399435",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1788"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Tonga"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

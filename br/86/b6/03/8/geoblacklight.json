@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1837",
-  "uuid": "http://arks.princeton.edu/ark:/88435/br86b6038",
   "dc_description_s": "Map of Oman in Arabia",
-  "georss_box_s": "21.25000 54.45833 26.41667 60.16667",
   "layer_modified_dt": "2015-01-19T22:37:22Z",
   "layer_id_s": "br86b6038",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-br86b6038",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/br86b6038/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/br/86/b6/03/8/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "26.41667 54.45833 26.41667 60.16667 21.25000 60.16667 21.25000 54.45833 26.41667 54.45833",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1837"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Oman",
     "United Arab Emirates"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

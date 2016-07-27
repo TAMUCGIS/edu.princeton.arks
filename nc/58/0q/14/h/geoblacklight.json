@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1695",
-  "uuid": "http://arks.princeton.edu/ark:/88435/nc580q14h",
   "dc_description_s": "Hereford Shire",
-  "georss_box_s": "51.8259619 -3.1419149 52.3954996 -2.3379668",
   "layer_modified_dt": "2015-01-21T22:24:17Z",
   "dc_creator_sm": [
     "Camden, William,",
@@ -19,7 +17,6 @@
   "layer_slug_s": "princeton-nc580q14h",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/nc580q14h/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/nc/58/0q/14/h/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "52.3954996 -3.1419149 52.3954996 -2.3379668 51.8259619 -2.3379668 51.8259619 -3.1419149 52.3954996 -3.1419149",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1695"
@@ -28,5 +25,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Herefordshire (England)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

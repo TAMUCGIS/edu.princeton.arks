@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1807",
-  "uuid": "http://arks.princeton.edu/ark:/88435/rj430702c",
-  "dc_description_s": "Carte des provinces me\u0301ridionales des E\u0301tats-Unis",
-  "georss_box_s": "24.5248244719 -106.6456461 39.7493368813 -74.2160467125",
+  "dc_description_s": "Carte des provinces méridionales des États-Unis",
   "layer_modified_dt": "2015-01-21T22:24:13Z",
   "dc_creator_sm": [
     "Marshall, John,"
@@ -11,11 +9,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "rj430702c",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Carte des provinces me\u0301ridionales des E\u0301tats-Unis",
+  "dc_title_s": "Carte des provinces méridionales des États-Unis",
   "layer_slug_s": "princeton-rj430702c",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/rj430702c/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/rj/43/07/02/c/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "39.7493368813 -106.6456461 39.7493368813 -74.2160467125 24.5248244719 -74.2160467125 24.5248244719 -106.6456461 39.7493368813 -106.6456461",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1807"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Southern States"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

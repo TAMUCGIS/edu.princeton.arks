@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1900",
-  "uuid": "http://arks.princeton.edu/ark:/88435/n583xx52m",
   "dc_description_s": "Bernburg",
-  "georss_box_s": "51.7178054 11.646335 51.8480564 11.9044149",
   "layer_modified_dt": "2015-01-21T22:24:30Z",
   "dc_creator_sm": [
     "Woerl, Leo,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-n583xx52m",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/n583xx52m/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/n5/83/xx/52/m/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.8480564 11.646335 51.8480564 11.9044149 51.7178054 11.9044149 51.7178054 11.646335 51.8480564 11.646335",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1900"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "Bernburg (Germany)",
     "Saxony-Anhalt (Germany)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

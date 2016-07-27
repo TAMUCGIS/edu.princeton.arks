@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1849",
-  "uuid": "http://arks.princeton.edu/ark:/88435/wh246v06f",
   "dc_description_s": "Map of the route pursued in 1849 by the U.S. troops, under the command of Bvt. Lieut. Col. Jno. M. Washington, Governor of New Mexico, in an expedition against the Navajos Indians",
-  "georss_box_s": "31.332301 -109.0501729 37.000139 -103.0008688",
   "layer_modified_dt": "2015-01-21T22:23:52Z",
   "dc_creator_sm": [
     "Kern, Edward Meyer,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-wh246v06f",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/wh246v06f/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/wh/24/6v/06/f/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "37.000139 -109.0501729 37.000139 -103.0008688 31.332301 -103.0008688 31.332301 -109.0501729 37.000139 -109.0501729",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1849"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "New Mexico"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

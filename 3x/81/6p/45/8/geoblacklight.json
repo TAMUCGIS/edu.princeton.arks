@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1690",
-  "uuid": "http://arks.princeton.edu/ark:/88435/3x816p458",
-  "dc_description_s": "Recentissima novi orbis, sive, Americ\u00e6 Septentrionalis et Meridionalis tabula",
-  "georss_box_s": "-90 -180 90 0",
+  "dc_description_s": "Recentissima novi orbis, sive, Americæ Septentrionalis et Meridionalis tabula",
   "layer_modified_dt": "2015-01-21T22:23:44Z",
   "dc_creator_sm": [
     "Tidemann, Philipp,",
@@ -13,11 +11,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "3x816p458",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Recentissima novi orbis, sive, Americ\u00e6 Septentrionalis et Meridionalis tabula",
+  "dc_title_s": "Recentissima novi orbis, sive, Americæ Septentrionalis et Meridionalis tabula",
   "layer_slug_s": "princeton-3x816p458",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/3x816p458/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/3x/81/6p/45/8/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "90 -180 90 0 -90 0 -90 -180 90 -180",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1690"
@@ -27,5 +24,6 @@
   "dct_spatial_sm": [
     "Western Hemisphere",
     "Atlantic Ocean"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

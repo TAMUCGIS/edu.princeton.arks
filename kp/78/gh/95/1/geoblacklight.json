@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(13.99, 14.09, 57.22, 57.16)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/kp78gh951\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/kp78gh951/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/kp78gh951",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -19,7 +18,6 @@
   "dc_creator_sm": "Generalstabens litografiska anstalt",
   "dc_type_s": "Image",
   "dc_identifier_s": "kp78gh951",
-  "georss_polygon_s": "57.22 13.99 57.22 14.09 57.16 14.09 57.16 13.99 57.22 13.99",
   "dc_publisher_s": "Generalstabens litografiska anstalt",
   "solr_year_i": "1964",
   "dct_spatial_sm": [
@@ -27,9 +25,9 @@
     "Sweden"
   ],
   "layer_id_s": "kp78gh951",
-  "georss_box_s": "57.16 13.99 57.22 14.09",
   "dc_title_s": "Stadsingenjorskontorets turistkarta over Varnamo",
   "layer_slug_s": "princeton-kp78gh951",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

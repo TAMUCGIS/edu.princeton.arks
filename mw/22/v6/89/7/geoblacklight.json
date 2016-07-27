@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-81.6957, -34.6046, 12.8633, -55.9818)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/mw22v6897/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/mw/22/v6/89/7/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/mw22v6897/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/mw22v6897",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Aministrative and Political Boundaries",
@@ -17,15 +16,14 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "mw22v6897",
-  "georss_polygon_s": "12.8633 -81.6957 12.8633 -34.6046 -55.9818 -34.6046 -55.9818 -81.6957 12.8633 -81.6957",
   "dc_publisher_s": "Central Intelligence Agency",
   "dct_spatial_sm": [
     "South America"
   ],
   "layer_id_s": "mw22v6897",
-  "georss_box_s": "-55.9818 -81.6957 12.8633 -34.6046",
   "dc_title_s": "South America, 1998",
   "dct_issued_s": "June 1998",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

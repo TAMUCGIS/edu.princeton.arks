@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1908",
-  "uuid": "http://arks.princeton.edu/ark:/88435/bn9998938",
   "dc_description_s": "Trolley wayfinder : birds eye view of trolley routes in New England",
-  "georss_box_s": "40.950943 -73.727775 47.459686 -66.8850751",
   "layer_modified_dt": "2015-01-21T22:23:55Z",
   "dc_creator_sm": [
     "Lane, John J."
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-bn9998938",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/bn9998938/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/bn/99/98/93/8/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "47.459686 -73.727775 47.459686 -66.8850751 40.950943 -66.8850751 40.950943 -73.727775 47.459686 -73.727775",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1908"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "New England",
     "New England"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

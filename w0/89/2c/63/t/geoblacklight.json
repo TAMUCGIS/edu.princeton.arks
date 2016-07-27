@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-3.8337, -3.5267, 40.5629, 40.3146)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/w0892c63t\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/w0892c63t/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/w0892c63t",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Almax",
   "dc_type_s": "Image",
   "dc_identifier_s": "w0892c63t",
-  "georss_polygon_s": "40.5629 -3.8337 40.5629 -3.5267 40.3146 -3.5267 40.3146 -3.8337 40.5629 -3.8337",
   "dc_publisher_s": "Almax",
   "solr_year_i": "1979",
   "dct_spatial_sm": [
@@ -28,9 +26,9 @@
     "Madrid Autonomous Community"
   ],
   "layer_id_s": "w0892c63t",
-  "georss_box_s": "40.3146 -3.8337 40.5629 -3.5267",
   "dc_title_s": "Madrid (plano del metro)",
   "layer_slug_s": "princeton-w0892c63t",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

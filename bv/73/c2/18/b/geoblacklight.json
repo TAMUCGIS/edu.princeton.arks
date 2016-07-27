@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(78.0703, 102.025, 37.3255, 10.1597)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/bv73c218b/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/bv/73/c2/18/b/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/bv73c218b/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/bv73c218b",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Elevation",
@@ -18,7 +17,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "bv73c218b",
-  "georss_polygon_s": "37.3255 78.0703 37.3255 102.025 10.1597 102.025 10.1597 78.0703 37.3255 78.0703",
   "dc_publisher_s": "apud Vincentium Valgrisium",
   "solr_year_i": "1562",
   "dct_spatial_sm": [
@@ -28,9 +26,9 @@
     "Asia"
   ],
   "layer_id_s": "bv73c218b",
-  "georss_box_s": "10.1597 78.0703 37.3255 102.025",
   "dc_title_s": "Tabula Asiae XI",
   "dct_issued_s": "1562",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

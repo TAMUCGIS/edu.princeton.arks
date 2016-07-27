@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-77.5, -77.25, 40.5, 40.25)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/z316q3161/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/z3/16/q3/16/1/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/z316q3161/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/z316q3161",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "historical maps",
@@ -20,7 +19,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "z316q3161",
-  "georss_polygon_s": "40.5 -77.5 40.5 -77.25 40.25 -77.25 40.25 -77.5 40.5 -77.5",
   "dc_publisher_s": "US Geological Survey",
   "solr_year_i": "1933",
   "dct_spatial_sm": [
@@ -32,9 +30,9 @@
     "United States"
   ],
   "layer_id_s": "z316q3161",
-  "georss_box_s": "40.25 -77.5 40.5 -77.25",
   "dc_title_s": "Pennsylvania: Loysville Quadrangle, 1933",
   "dct_issued_s": "1933",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

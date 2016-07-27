@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1806",
-  "uuid": "http://arks.princeton.edu/ark:/88435/7m01bn588",
-  "dc_description_s": "Peloponnesus, (qu\u00e6 antea Apia, Pelasgia, et Argos), antequem Roman\u00e6 ditionis fuit : cum insulis adjacentibus",
-  "georss_box_s": "36.2864096 19.2477876 40.0018586 23.454616",
+  "dc_description_s": "Peloponnesus, (quæ antea Apia, Pelasgia, et Argos), antequem Romanæ ditionis fuit : cum insulis adjacentibus",
   "layer_modified_dt": "2015-01-21T22:23:49Z",
   "dc_creator_sm": [
     "Macpherson, David,",
@@ -13,11 +11,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "7m01bn588",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Peloponnesus, (qu\u00e6 antea Apia, Pelasgia, et Argos), antequem Roman\u00e6 ditionis fuit : cum insulis adjacentibus",
+  "dc_title_s": "Peloponnesus, (quæ antea Apia, Pelasgia, et Argos), antequem Romanæ ditionis fuit : cum insulis adjacentibus",
   "layer_slug_s": "princeton-7m01bn588",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/7m01bn588/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/7m/01/bn/58/8/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.0018586 19.2477876 40.0018586 23.454616 36.2864096 23.454616 36.2864096 19.2477876 40.0018586 19.2477876",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1806"
@@ -26,5 +23,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Peloponnesus (Greece : Peninsula)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

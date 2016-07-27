@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1804",
-  "uuid": "http://arks.princeton.edu/ark:/88435/np193c62c",
   "dc_description_s": "A map of Lewis and Clark's track across the western portion of North America, from the Mississippi to the Pacific Ocean : by order of the executive of the United States in 1804, 5 & 6",
-  "georss_box_s": "38.0 -123.0 50.0 -90.0",
   "layer_modified_dt": "2015-01-19T22:37:13Z",
   "dc_creator_sm": [
     "Clark, William,",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-np193c62c",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/np193c62c/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/np/19/3c/62/c/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "50.0 -123.0 50.0 -90.0 38.0 -90.0 38.0 -123.0 50.0 -123.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1804"
@@ -26,5 +23,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Northwestern States"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

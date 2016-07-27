@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1693",
-  "uuid": "http://arks.princeton.edu/ark:/88435/3x816q15b",
   "dc_description_s": "Italia",
-  "georss_box_s": "37.0 6.0 48.0 22.0",
   "layer_modified_dt": "2015-01-23T17:48:40Z",
   "dc_creator_sm": [
     "Morden, Robert,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-3x816q15b",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/3x816q15b/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/3x/81/6q/15/b/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "48.0 6.0 48.0 22.0 37.0 22.0 37.0 6.0 48.0 6.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1693"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Italy"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

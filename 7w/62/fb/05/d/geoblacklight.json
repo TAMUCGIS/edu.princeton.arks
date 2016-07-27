@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1849",
-  "uuid": "http://arks.princeton.edu/ark:/88435/7w62fb05d",
   "dc_description_s": "Waterloo Bay",
-  "georss_box_s": "-34.967 11.4697 -16.9634855 33.0469",
   "layer_modified_dt": "2015-01-21T22:23:44Z",
   "layer_id_s": "7w62fb05d",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-7w62fb05d",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/7w62fb05d/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/7w/62/fb/05/d/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "-16.9634855 11.4697 -16.9634855 33.0469 -34.967 33.0469 -34.967 11.4697 -16.9634855 11.4697",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1849"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Africa, Southern"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

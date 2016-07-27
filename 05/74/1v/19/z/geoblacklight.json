@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1853",
-  "uuid": "http://arks.princeton.edu/ark:/88435/05741v19z",
   "dc_description_s": "Map of the City of Newark",
-  "georss_box_s": "40.673903 -74.2513239 40.7881387 -74.1127869",
   "layer_modified_dt": "2015-01-21T22:24:18Z",
   "dc_creator_sm": [
     "Scudder, Richard B."
@@ -15,12 +13,14 @@
   "layer_slug_s": "princeton-05741v19z",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/05741v19z/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/05/74/1v/19/z/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.7881387 -74.2513239 40.7881387 -74.1127869 40.673903 -74.1127869 40.673903 -74.2513239 40.7881387 -74.2513239",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1853"
   ],
   "solr_geom": "ENVELOPE(-74.2513239, -74.1127869, 40.7881387, 40.673903)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

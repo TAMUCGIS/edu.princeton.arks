@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1676",
-  "uuid": "http://arks.princeton.edu/ark:/88435/k643b3538",
   "dc_description_s": "A map of New England and New York",
-  "georss_box_s": "40.950943 -73.727775 47.459686 -66.8850751",
   "layer_modified_dt": "2015-01-21T22:23:56Z",
   "dc_creator_sm": [
     "Lamb, Francis.",
@@ -19,7 +17,6 @@
   "layer_slug_s": "princeton-k643b3538",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/k643b3538/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/k6/43/b3/53/8/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "47.459686 -73.727775 47.459686 -66.8850751 40.950943 -66.8850751 40.950943 -73.727775 47.459686 -73.727775",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1676"
@@ -30,5 +27,6 @@
     "New England",
     "New York (State)",
     "New Jersey"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

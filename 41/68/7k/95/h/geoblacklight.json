@@ -1,7 +1,5 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/41687k95h",
   "dc_description_s": "Landau und Umgebung",
-  "georss_box_s": "49.1832631 8.0812905 49.213355 8.1635382",
   "layer_modified_dt": "2015-01-21T22:24:20Z",
   "dc_creator_sm": [
     "Woerl, Leo,"
@@ -14,12 +12,12 @@
   "layer_slug_s": "princeton-41687k95h",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/41687k95h/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/41/68/7k/95/h/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "49.213355 8.0812905 49.213355 8.1635382 49.1832631 8.1635382 49.1832631 8.0812905 49.213355 8.0812905",
   "layer_geom_type_s": "Image",
   "solr_geom": "ENVELOPE(8.0812905, 8.1635382, 49.213355, 49.1832631)",
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Landau in der Pfalz (Germany)",
     "Rhineland-Palatinate (Germany)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

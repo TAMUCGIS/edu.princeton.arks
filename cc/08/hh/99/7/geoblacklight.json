@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1774",
-  "uuid": "http://arks.princeton.edu/ark:/88435/cc08hh997",
-  "dc_description_s": "Carte de la Nle. Zelande visite\u0301e en 1769 et 1770 par le Lieutenant J. Cook Commandant de l'Endeavour, vaisseau de sa Majeste\u0301",
-  "georss_box_s": "-52.8213686 -179.0591529 -29.0303302 179.3643594",
+  "dc_description_s": "Carte de la Nle. Zelande visitée en 1769 et 1770 par le Lieutenant J. Cook Commandant de l'Endeavour, vaisseau de sa Majesté",
   "layer_modified_dt": "2015-01-21T22:23:57Z",
   "dc_creator_sm": [
     "Hawkesworth, John,"
@@ -11,11 +9,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "cc08hh997",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Carte de la Nle. Zelande visite\u0301e en 1769 et 1770 par le Lieutenant J. Cook Commandant de l'Endeavour, vaisseau de sa Majeste\u0301",
+  "dc_title_s": "Carte de la Nle. Zelande visitée en 1769 et 1770 par le Lieutenant J. Cook Commandant de l'Endeavour, vaisseau de sa Majesté",
   "layer_slug_s": "princeton-cc08hh997",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/cc08hh997/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/cc/08/hh/99/7/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "-29.0303302 -179.0591529 -29.0303302 179.3643594 -52.8213686 179.3643594 -52.8213686 -179.0591529 -29.0303302 -179.0591529",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1774"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "New Zealand"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

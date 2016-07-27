@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1450",
-  "uuid": "http://arks.princeton.edu/ark:/88435/8049g748n",
   "dc_description_s": "Portolani : carta nautica C.G.A. 5d (Maiorca, 1450 ca)",
-  "georss_box_s": "35.8076804 29.0876878 38.5861136 37.7518928",
   "layer_modified_dt": "2015-01-21T22:24:00Z",
   "dc_creator_sm": [
     "Bini, Roberto."
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-8049g748n",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/8049g748n/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/80/49/g7/48/n/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "38.5861136 29.0876878 38.5861136 37.7518928 35.8076804 37.7518928 35.8076804 29.0876878 38.5861136 29.0876878",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1450"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "Mediterranean Region",
     "Atlantic Coast (Europe)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

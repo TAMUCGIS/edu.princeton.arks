@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(13.5810, 13.9614, 51.1781, 50.9762)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/3n204054s\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/3n204054s/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/3n204054s",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Leop. Kraatz; Greiben's Guide Books",
   "dc_type_s": "Image",
   "dc_identifier_s": "3n204054s",
-  "georss_polygon_s": "51.1781 13.5810 51.1781 13.9614 50.9762 13.9614 50.9762 13.5810 51.1781 13.5810",
   "dc_publisher_s": "Greiben's Guide Books",
   "solr_year_i": "1930",
   "dct_spatial_sm": [
@@ -28,9 +26,9 @@
     "Freistaat Sachsen"
   ],
   "layer_id_s": "3n204054s",
-  "georss_box_s": "50.9762 13.5810 51.1781 13.9614",
   "dc_title_s": "Dresden",
   "layer_slug_s": "princeton-3n204054s",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

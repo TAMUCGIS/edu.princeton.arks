@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1820",
-  "uuid": "http://arks.princeton.edu/ark:/88435/3484zk46j",
   "dc_description_s": "Genealogical, historical, and chronological map of Portugal from the founding of the monarchy, under Count Henry of Burgundy, 1092, to the year 1815.",
-  "georss_box_s": "29.8288021 -31.5575302 42.1550376 -6.1893447",
   "layer_modified_dt": "2015-01-25T02:06:22Z",
   "dc_creator_sm": [
     "Palmer, Thomas H.,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-3484zk46j",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/3484zk46j/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/34/84/zk/46/j/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "42.1550376 -31.5575302 42.1550376 -6.1893447 29.8288021 -6.1893447 29.8288021 -31.5575302 42.1550376 -31.5575302",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1820"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Portugal"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

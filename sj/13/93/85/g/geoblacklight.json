@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1854",
-  "uuid": "http://arks.princeton.edu/ark:/88435/sj139385g",
   "dc_description_s": "Moral & statistical chart showing the geographical distribution of man according to religious belief : with the principal Protestant mission stations in the middle of the 19th century",
-  "georss_box_s": "-75.0 -180.0 80.0 180.0",
   "layer_modified_dt": "2015-01-19T22:36:53Z",
   "dc_creator_sm": [
     "Johnston, Alexander Keith,"
@@ -15,11 +13,11 @@
   "layer_slug_s": "princeton-sj139385g",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/sj139385g/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/sj/13/93/85/g/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "80.0 -180.0 80.0 180.0 -75.0 180.0 -75.0 -180.0 80.0 -180.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1854"
   ],
   "solr_geom": "ENVELOPE(-180.0, 180.0, 80.0, -75.0)",
-  "dc_rights_s": "Public"
+  "dc_rights_s": "Public",
+  "geoblacklight_version": "1.0"
 }

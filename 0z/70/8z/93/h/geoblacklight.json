@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1784",
-  "uuid": "http://arks.princeton.edu/ark:/88435/0z708z93h",
   "dc_description_s": "A chart of the bar of Sandy Hook, the entrance of Hudsons River in the Province of New Jersey",
-  "georss_box_s": "40.4706627 -74.1376442 40.6095877 -74.0112045",
   "layer_modified_dt": "2015-01-21T22:24:19Z",
   "dc_creator_sm": [
     "Faden, William,"
@@ -15,12 +13,14 @@
   "layer_slug_s": "princeton-0z708z93h",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/0z708z93h/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/0z/70/8z/93/h/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.6095877 -74.1376442 40.6095877 -74.0112045 40.4706627 -74.0112045 40.4706627 -74.1376442 40.6095877 -74.1376442",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1784"
   ],
   "solr_geom": "ENVELOPE(-74.1376442, -74.0112045, 40.6095877, 40.4706627)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

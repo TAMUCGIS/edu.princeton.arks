@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(16.7320, 17.0692, 52.5082, 52.2929)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/r781wh50w\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/r781wh50w/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/r781wh50w",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -19,7 +18,6 @@
   "dc_creator_sm": "Powszechna Wystawa Krajowa",
   "dc_type_s": "Image",
   "dc_identifier_s": "r781wh50w",
-  "georss_polygon_s": "52.5082 16.7320 52.5082 17.0692 52.2929 17.0692 52.2929 16.7320 52.5082 16.7320",
   "dc_publisher_s": "Powszechna Wystawa Krajowa",
   "solr_year_i": "1929",
   "dct_spatial_sm": [
@@ -28,9 +26,9 @@
     "Posen"
   ],
   "layer_id_s": "r781wh50w",
-  "georss_box_s": "52.2929 16.7320 52.5082 17.0692",
   "dc_title_s": "Powszechna Wystawa Krajowa w Roky 1929",
   "layer_slug_s": "princeton-r781wh50w",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

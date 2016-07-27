@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1910",
-  "uuid": "http://arks.princeton.edu/ark:/88435/2514np030",
   "dc_description_s": "Italie, section nord",
-  "georss_box_s": "42.6792426623 6.6267201 47.092 18.5205015",
   "layer_modified_dt": "2015-01-25T02:06:22Z",
   "dc_creator_sm": [
     "Taride, A."
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-2514np030",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/2514np030/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/25/14/np/03/0/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "47.092 6.6267201 47.092 18.5205015 42.6792426623 18.5205015 42.6792426623 6.6267201 47.092 6.6267201",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1910"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Italy, Northern"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

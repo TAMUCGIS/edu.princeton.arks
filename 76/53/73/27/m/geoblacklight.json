@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-74.055286, -74.004269, 41.000036, 40.973332)",
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/76/53/73/27/m/00000001.jp2/info.json\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/76537327m",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
@@ -21,7 +20,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "76537327m",
-  "georss_polygon_s": "41.000036 -74.055286 41.000036 -74.004269 40.973332 -74.004269 40.973332 -74.055286 41.000036 -74.055286",
   "dc_publisher_s": "New York: Sanborn Map Company",
   "solr_year_i": "1928",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "Westwood"
   ],
   "layer_id_s": "76537327m",
-  "georss_box_s": "40.973332 -74.055286 41.000036 -74.004269",
   "dc_title_s": "Westwood, Bergen County, New Jersey (Sheet 3)",
   "layer_slug_s": "princeton-76537327m",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

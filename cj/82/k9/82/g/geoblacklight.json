@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1898",
-  "uuid": "http://arks.princeton.edu/ark:/88435/cj82k982g",
   "dc_description_s": "Plan von Gotha",
-  "georss_box_s": "50.892809 10.6223035 50.9920007 10.7817997",
   "layer_modified_dt": "2015-01-21T22:24:28Z",
   "dc_creator_sm": [
     "Woerl, Leo,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-cj82k982g",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/cj82k982g/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/cj/82/k9/82/g/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "50.9920007 10.6223035 50.9920007 10.7817997 50.892809 10.7817997 50.892809 10.6223035 50.9920007 10.6223035",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1898"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "Gotha (Germany)",
     "Thuringia (Germany)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

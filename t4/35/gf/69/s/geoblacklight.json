@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-72.00, -71.50, -14.00, -14.30)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/t435gf69s\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/t435gf69s/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/t435gf69s",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "geoscientificInformation",
@@ -16,7 +15,6 @@
   "dc_creator_sm": "Instituto Geologico Minero y Metalurgico",
   "dc_type_s": "Image",
   "dc_identifier_s": "t435gf69s",
-  "georss_polygon_s": "-14.00 -72.00 -14.00 -71.50 -14.30 -71.50 -14.30 -72.00 -14.00 -72.00",
   "dc_publisher_s": "Instituto Geologico Minero y Metalurgico",
   "solr_year_i": "1987",
   "dct_spatial_sm": [
@@ -24,9 +22,9 @@
     "Livitaca"
   ],
   "layer_id_s": "t435gf69s",
-  "georss_box_s": "-14.30 -72.00 -14.00 -71.50",
   "dc_title_s": "Peru 1:100 000: Mapa geologico del cuadrangulo de Livitaca",
   "layer_slug_s": "princeton-t435gf69s",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1904",
-  "uuid": "http://arks.princeton.edu/ark:/88435/dr26z090t",
   "dc_description_s": "Route followed by British expedition 1903-1904 from base at Siiliguri, Darjiling, Nathang Jelep Pass (Jelep La), Yatung, Chumbi, Phari Jong, Tuna Guru, Khang Ma, Gyangtse Jong, Kharo La",
-  "georss_box_s": "27.305403 78.393465 36.4857903 99.1109179",
   "layer_modified_dt": "2015-01-21T22:24:23Z",
   "layer_id_s": "dr26z090t",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-dr26z090t",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/dr26z090t/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/dr/26/z0/90/t/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "36.4857903 78.393465 36.4857903 99.1109179 27.305403 99.1109179 27.305403 78.393465 36.4857903 78.393465",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1904"
@@ -23,5 +20,6 @@
     "Tibet Autonomous Region (China)",
     "Sikkim",
     "Bhutan"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

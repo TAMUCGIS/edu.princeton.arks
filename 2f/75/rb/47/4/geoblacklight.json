@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1723",
-  "uuid": "http://arks.princeton.edu/ark:/88435/2f75rb474",
   "dc_description_s": "The great province of Rio de la Plata",
-  "georss_box_s": "-36.3430285 -58.5062719 -33.9162336 -54.9410904",
   "layer_modified_dt": "2015-01-21T22:24:08Z",
   "dc_creator_sm": [
     "McCabe, Robert A.,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-2f75rb474",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/2f75rb474/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/2f/75/rb/47/4/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "-33.9162336 -58.5062719 -33.9162336 -54.9410904 -36.3430285 -54.9410904 -36.3430285 -58.5062719 -33.9162336 -58.5062719",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1723"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "Rio de la Plata (Argentina and Uruguay)",
     "Paraguay"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

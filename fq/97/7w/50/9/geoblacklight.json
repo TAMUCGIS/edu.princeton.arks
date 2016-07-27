@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(121.119520, 121.893299, 31.791106, 30.698409)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/fq977w509/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/fq977w509/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/fq977w509/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/fq977w509",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Business and Economy",
@@ -18,7 +17,6 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "fq977w509",
-  "georss_polygon_s": "31.791106 121.119520 31.791106 121.893299 30.698409 121.893299 30.698409 121.119520 31.791106 121.119520",
   "dc_publisher_s": "LeadDog Consulting, LLC",
   "solr_year_i": "2006",
   "dct_spatial_sm": [
@@ -26,9 +24,9 @@
     "China"
   ],
   "layer_id_s": "pulmap-restricted:fq977w509",
-  "georss_box_s": "30.698409 121.119520 31.791106 121.893299",
   "dc_title_s": "Shanghai factories",
   "layer_slug_s": "princeton-fq977w509",
   "layer_geom_type_s": "Point",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

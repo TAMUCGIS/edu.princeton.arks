@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1870",
-  "uuid": "http://arks.princeton.edu/ark:/88435/qb98mj00b",
   "dc_description_s": "Plan von Leipzig",
-  "georss_box_s": "51.1791827 12.2210549 51.4991827 12.5410549",
   "layer_modified_dt": "2015-01-21T22:24:27Z",
   "dc_creator_sm": [
     "Rocca, Louis,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-qb98mj00b",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/qb98mj00b/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/qb/98/mj/00/b/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.4991827 12.2210549 51.4991827 12.5410549 51.1791827 12.5410549 51.1791827 12.2210549 51.4991827 12.2210549",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1870"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Leipzig (Germany)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

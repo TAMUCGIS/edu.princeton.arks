@@ -1,18 +1,15 @@
 {
   "solr_year_i": "1895",
-  "uuid": "http://arks.princeton.edu/ark:/88435/4j03d2174",
-  "dc_description_s": "Mu\u0308nchens Strassen und Pla\u0308tze",
-  "georss_box_s": "47.2701114 8.9763497 50.5647142 13.8396373",
+  "dc_description_s": "Münchens Strassen und Plätze",
   "layer_modified_dt": "2015-01-21T22:24:27Z",
   "layer_id_s": "4j03d2174",
   "dc_type_s": "Image",
   "dc_identifier_s": "4j03d2174",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Mu\u0308nchens Strassen und Pla\u0308tze",
+  "dc_title_s": "Münchens Strassen und Plätze",
   "layer_slug_s": "princeton-4j03d2174",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/4j03d2174/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/4j/03/d2/17/4/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "50.5647142 8.9763497 50.5647142 13.8396373 47.2701114 13.8396373 47.2701114 8.9763497 50.5647142 8.9763497",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1895"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Bavaria (Germany)",
     "Munich (Germany)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1884",
-  "uuid": "http://arks.princeton.edu/ark:/88435/k0698b04p",
   "dc_description_s": "A topographical map of the counties of Bergen, Hudson and Essex with parts of Passaic and Union ; from original surveys and levelings, supplemented by various local surveys, based on the triangulation of the U.S. Coast and Geodetic Survey /",
-  "georss_box_s": "40.6333333333 -74.35 41.1333333333 -73.8833333333",
   "layer_modified_dt": "2015-01-23T17:48:40Z",
   "dc_creator_sm": [
     "Cook, George Hammell,",
@@ -18,12 +16,14 @@
   "layer_slug_s": "princeton-k0698b04p",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/k0698b04p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/k0/69/8b/04/p/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "41.1333333333 -74.35 41.1333333333 -73.8833333333 40.6333333333 -73.8833333333 40.6333333333 -74.35 41.1333333333 -74.35",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1884"
   ],
   "solr_geom": "ENVELOPE(-74.35, -73.8833333333, 41.1333333333, 40.6333333333)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

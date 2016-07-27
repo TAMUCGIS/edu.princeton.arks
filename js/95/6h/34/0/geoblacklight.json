@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-75.5, -75.25, 38.75, 38.5)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/js956h340/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/js/95/6h/34/0/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/js956h340/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/js956h340",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "historical maps",
@@ -20,7 +19,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "js956h340",
-  "georss_polygon_s": "38.75 -75.5 38.75 -75.25 38.5 -75.25 38.5 -75.5 38.75 -75.5",
   "dc_publisher_s": "US Geological Survey",
   "solr_year_i": "1917",
   "dct_spatial_sm": [
@@ -30,9 +28,9 @@
     "United States"
   ],
   "layer_id_s": "js956h340",
-  "georss_box_s": "38.5 -75.5 38.75 -75.25",
   "dc_title_s": "Delaware (Sussex County): Millsboro Quadrangle [1917]",
   "dct_issued_s": "1917",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

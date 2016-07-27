@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(36.844466, 36.923331, 0.523339, 0.302354)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/3t945s30s\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/3t945s30s/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/3t945s30s",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Zebra",
@@ -17,7 +16,6 @@
   "dc_creator_sm": "Mpala Researcher",
   "dc_type_s": "Image",
   "dc_identifier_s": "3t945s30s",
-  "georss_polygon_s": "0.523339 36.844466 0.523339 36.923331 0.302354 36.923331 0.302354 36.844466 0.523339 36.844466",
   "solr_year_i": "2005",
   "dct_spatial_sm": [
     "Kenya",
@@ -25,9 +23,9 @@
     "East Africa"
   ],
   "layer_id_s": "3t945s30s",
-  "georss_box_s": "0.302354 36.844466 0.523339 36.923331",
   "dc_title_s": "Zebra location in Mpala area, 2005",
   "layer_slug_s": "princeton-3t945s30s",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

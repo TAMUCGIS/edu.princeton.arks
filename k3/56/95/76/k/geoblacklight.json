@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-73.25, -73, 42.5, 42.25)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/k3569576k/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/k3/56/95/76/k/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/k3569576k/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/k3569576k",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "historical maps",
@@ -20,7 +19,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "k3569576k",
-  "georss_polygon_s": "42.5 -73.25 42.5 -73 42.25 -73 42.25 -73.25 42.5 -73.25",
   "dc_publisher_s": "US Geological Survey",
   "dct_spatial_sm": [
     "Becket",
@@ -29,9 +27,9 @@
     "United States"
   ],
   "layer_id_s": "k3569576k",
-  "georss_box_s": "42.25 -73.25 42.5 -73",
   "dc_title_s": "Massachusetts: Becket sheet [1901 reprint]",
   "dct_issued_s": "October 1897",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

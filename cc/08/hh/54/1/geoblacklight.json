@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-74.835124, -74.7996, 38.998783, 38.974196)",
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/cc/08/hh/54/1/00000001.jp2/info.json\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/cc08hh541",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
@@ -21,7 +20,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "cc08hh541",
-  "georss_polygon_s": "38.998783 -74.835124 38.998783 -74.7996 38.974196 -74.7996 38.974196 -74.835124 38.998783 -74.835124",
   "dc_publisher_s": "New York: Sanborn Map Company",
   "solr_year_i": "1909",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "Holly Beach"
   ],
   "layer_id_s": "cc08hh541",
-  "georss_box_s": "38.974196 -74.835124 38.998783 -74.7996",
   "dc_title_s": "Holly Beach (Sheet 35).",
   "layer_slug_s": "princeton-cc08hh541",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

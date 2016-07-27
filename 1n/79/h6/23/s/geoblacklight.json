@@ -1,11 +1,9 @@
 {
   "solr_year_i": "1552",
-  "uuid": "http://arks.princeton.edu/ark:/88435/1n79h623s",
   "dc_description_s": "La table de la region orientale, comprenant les dernieres terres & royaumes d'Asie",
-  "georss_box_s": "55.9999502 103.9999498 56.0000502 104.0000498",
   "layer_modified_dt": "2015-01-21T22:23:52Z",
   "dc_creator_sm": [
-    "Mu\u0308nster, Sebastian,",
+    "Münster, Sebastian,",
     "Petri, Heinrich,",
     "McCabe, Robert A.,"
   ],
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-1n79h623s",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/1n79h623s/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/1n/79/h6/23/s/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "56.0000502 103.9999498 56.0000502 104.0000498 55.9999502 104.0000498 55.9999502 103.9999498 56.0000502 103.9999498",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1552"
@@ -26,5 +23,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Asia"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

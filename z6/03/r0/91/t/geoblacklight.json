@@ -1,18 +1,15 @@
 {
   "solr_year_i": "1885",
-  "uuid": "http://arks.princeton.edu/ark:/88435/z603r091t",
-  "dc_description_s": "Carte commerciale de la province de Thrace (Roume\u0301lie Turque) : Turquie d'Europe",
-  "georss_box_s": "39.8680655 21.704198 41.7488862 26.6355754",
+  "dc_description_s": "Carte commerciale de la province de Thrace (Roumélie Turque) : Turquie d'Europe",
   "layer_modified_dt": "2015-01-21T22:24:19Z",
   "layer_id_s": "z603r091t",
   "dc_type_s": "Image",
   "dc_identifier_s": "z603r091t",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Carte commerciale de la province de Thrace (Roume\u0301lie Turque) : Turquie d'Europe",
+  "dc_title_s": "Carte commerciale de la province de Thrace (Roumélie Turque) : Turquie d'Europe",
   "layer_slug_s": "princeton-z603r091t",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/z603r091t/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/z6/03/r0/91/t/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "41.7488862 21.704198 41.7488862 26.6355754 39.8680655 26.6355754 39.8680655 21.704198 41.7488862 21.704198",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1885"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Thrace, Western (Greece)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

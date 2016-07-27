@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1806",
-  "uuid": "http://arks.princeton.edu/ark:/88435/gx41mm400",
   "dc_description_s": "Hispania Romana cum viis militaribus /",
-  "georss_box_s": "36.0 -10.0 44.0 5.0",
   "layer_modified_dt": "2015-01-23T17:48:41Z",
   "dc_creator_sm": [
     "Macpherson, David,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-gx41mm400",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/gx41mm400/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/gx/41/mm/40/0/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "44.0 -10.0 44.0 5.0 36.0 5.0 36.0 -10.0 44.0 -10.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1806"
@@ -27,5 +24,6 @@
     "Iberian Peninsula",
     "Portugal",
     "Spain"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

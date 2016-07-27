@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1852",
-  "uuid": "http://arks.princeton.edu/ark:/88435/k643b365p",
   "dc_description_s": "Index to the Ordnance Survey, of England and Wales",
-  "georss_box_s": "49.674 -6.7047493 55.917 2.0919117",
   "layer_modified_dt": "2015-01-21T22:24:16Z",
   "dc_creator_sm": [
     "Arrowsmith, John,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-k643b365p",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/k643b365p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/k6/43/b3/65/p/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "55.917 -6.7047493 55.917 2.0919117 49.674 2.0919117 49.674 -6.7047493 55.917 -6.7047493",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1852"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "England",
     "Wales"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

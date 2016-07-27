@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1912",
-  "uuid": "http://arks.princeton.edu/ark:/88435/h702q8902",
   "dc_description_s": "The Rand-McNally new library atlas map of Ireland",
-  "georss_box_s": "51.0 -11.0 56.0 -5.0",
   "layer_modified_dt": "2015-01-19T22:37:36Z",
   "layer_id_s": "h702q8902",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-h702q8902",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/h702q8902/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/h7/02/q8/90/2/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "56.0 -11.0 56.0 -5.0 51.0 -5.0 51.0 -11.0 56.0 -11.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1912"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Ireland"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

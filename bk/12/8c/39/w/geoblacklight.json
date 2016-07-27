@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(11.1544, 11.3292, 43.8251, 43.7274)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/bk128c39w\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/bk128c39w/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/bk128c39w",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "R. Bartolini",
   "dc_type_s": "Image",
   "dc_identifier_s": "bk128c39w",
-  "georss_polygon_s": "43.8251 11.1544 43.8251 11.3292 43.7274 11.3292 43.7274 11.1544 43.8251 11.1544",
   "dc_publisher_s": "R. Bartolini",
   "dct_spatial_sm": [
     "Florence",
@@ -28,9 +26,9 @@
     "Regione Toscana"
   ],
   "layer_id_s": "bk128c39w",
-  "georss_box_s": "43.7274 11.1544 43.8251 11.3292",
   "dc_title_s": "Florence and its hills",
   "layer_slug_s": "princeton-bk128c39w",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

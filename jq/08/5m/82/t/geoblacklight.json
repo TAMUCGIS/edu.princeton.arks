@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-74.085448, -74.063659, 39.981561, 39.959078)",
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/jq/08/5m/82/t/00000001.jp2/info.json\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/jq085m82t",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
@@ -21,7 +20,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "jq085m82t",
-  "georss_polygon_s": "39.981561 -74.085448 39.981561 -74.063659 39.959078 -74.063659 39.959078 -74.085448 39.981561 -74.085448",
   "dc_publisher_s": "New York: Sanborn Map Company",
   "solr_year_i": "1905",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "Lavallette"
   ],
   "layer_id_s": "jq085m82t",
-  "georss_box_s": "39.959078 -74.085448 39.981561 -74.063659",
   "dc_title_s": "Lavallette and Ortley (Sheet 60), Ocean Co., New Jersey",
   "layer_slug_s": "princeton-jq085m82t",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

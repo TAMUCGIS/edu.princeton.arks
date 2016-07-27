@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1796",
-  "uuid": "http://arks.princeton.edu/ark:/88435/8049g714c",
   "dc_description_s": "A New and accurate plan of the cities of London and Westminster and [borough of Southwark]",
-  "georss_box_s": "51.2867602 -0.510375 51.6918741 0.3340155",
   "layer_modified_dt": "2015-01-21T22:23:53Z",
   "layer_id_s": "8049g714c",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-8049g714c",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/8049g714c/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/80/49/g7/14/c/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.6918741 -0.510375 51.6918741 0.3340155 51.2867602 0.3340155 51.2867602 -0.510375 51.6918741 -0.510375",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1796"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "London (England)",
     "Westminster (London, England)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

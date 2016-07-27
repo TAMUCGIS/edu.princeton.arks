@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1850",
-  "uuid": "http://arks.princeton.edu/ark:/88435/g445cg651",
   "dc_description_s": "California, Mexico, Guatimala, &c.",
-  "georss_box_s": "5.0 -125.0 41.0 -70.0",
   "layer_modified_dt": "2015-01-19T22:37:34Z",
   "dc_creator_sm": [
     "Dower, John,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-g445cg651",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/g445cg651/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/g4/45/cg/65/1/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "41.0 -125.0 41.0 -70.0 5.0 -70.0 5.0 -125.0 41.0 -125.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1850"
@@ -26,5 +23,6 @@
     "Mexico",
     "Guatemala",
     "California"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

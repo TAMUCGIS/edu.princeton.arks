@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1836",
-  "uuid": "http://arks.princeton.edu/ark:/88435/6108vd79x",
   "dc_description_s": "Map of the Bergen meadows with the adjoining country",
-  "georss_box_s": "40.762114 -74.2724839 41.133995 -73.8939789",
   "layer_modified_dt": "2015-01-21T22:24:30Z",
   "layer_id_s": "6108vd79x",
   "dc_type_s": "Image",
@@ -12,12 +10,14 @@
   "layer_slug_s": "princeton-6108vd79x",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/6108vd79x/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/61/08/vd/79/x/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "41.133995 -74.2724839 41.133995 -73.8939789 40.762114 -73.8939789 40.762114 -74.2724839 41.133995 -74.2724839",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1836"
   ],
   "solr_geom": "ENVELOPE(-74.2724839, -73.8939789, 41.133995, 40.762114)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

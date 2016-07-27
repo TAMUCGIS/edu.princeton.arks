@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-8.74, -8.7126, 42.2454, 42.2246)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/tx31qk10g/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/tx/31/qk/10/g/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/tx31qk10g/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/tx31qk10g",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
@@ -23,7 +22,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "tx31qk10g",
-  "georss_polygon_s": "42.2454 -8.74 42.2454 -8.7126 42.2246 -8.7126 42.2246 -8.74 42.2454 -8.74",
   "dc_publisher_s": "Army Map Service",
   "solr_year_i": "1943",
   "dct_spatial_sm": [
@@ -33,9 +31,9 @@
     "Spain"
   ],
   "layer_id_s": "tx31qk10g",
-  "georss_box_s": "42.2246 -8.74 42.2454 -8.7126",
   "dc_title_s": "Spain 1:7,500. Vigo city plan. A.M.S. M981.",
   "dct_issued_s": "1943",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

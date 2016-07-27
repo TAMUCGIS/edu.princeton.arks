@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1815",
-  "uuid": "http://arks.princeton.edu/ark:/88435/hq37vq41q",
   "dc_description_s": "Umgebungen der Stadt Algier",
-  "georss_box_s": "36.615348 2.9000655 36.935348 3.2200655",
   "layer_modified_dt": "2015-01-21T22:23:42Z",
   "layer_id_s": "hq37vq41q",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-hq37vq41q",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/hq37vq41q/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/hq/37/vq/41/q/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "36.935348 2.9000655 36.935348 3.2200655 36.615348 3.2200655 36.615348 2.9000655 36.935348 2.9000655",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1815"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Algiers (Algeria)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

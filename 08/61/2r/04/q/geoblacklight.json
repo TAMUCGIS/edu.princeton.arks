@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1874",
-  "uuid": "http://arks.princeton.edu/ark:/88435/08612r04q",
   "dc_description_s": "Trenton, N.J.",
-  "georss_box_s": "40.1838339 -74.8195815 40.248298 -74.7289039",
   "layer_modified_dt": "2015-01-21T22:24:24Z",
   "dc_creator_sm": [
     "Bailey, H. H."
@@ -15,12 +13,14 @@
   "layer_slug_s": "princeton-08612r04q",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/08612r04q/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/08/61/2r/04/q/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.248298 -74.8195815 40.248298 -74.7289039 40.1838339 -74.7289039 40.1838339 -74.8195815 40.248298 -74.8195815",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1874"
   ],
   "solr_geom": "ENVELOPE(-74.8195815, -74.7289039, 40.248298, 40.1838339)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

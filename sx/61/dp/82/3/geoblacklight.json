@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1847",
-  "uuid": "http://arks.princeton.edu/ark:/88435/sx61dp823",
   "dc_description_s": "Oyster or Syosset Bay",
-  "georss_box_s": "40.899091 -73.5832339 40.915782 -73.5280349",
   "layer_modified_dt": "2015-01-21T22:24:28Z",
   "dc_creator_sm": [
     "Hassler, F. R.",
@@ -19,12 +17,14 @@
   "layer_slug_s": "princeton-sx61dp823",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/sx61dp823/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/sx/61/dp/82/3/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.915782 -73.5832339 40.915782 -73.5280349 40.899091 -73.5280349 40.899091 -73.5832339 40.915782 -73.5832339",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1847"
   ],
   "solr_geom": "ENVELOPE(-73.5832339, -73.5280349, 40.915782, 40.899091)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

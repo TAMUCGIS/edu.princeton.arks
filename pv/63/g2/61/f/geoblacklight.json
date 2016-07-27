@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1935",
-  "uuid": "http://arks.princeton.edu/ark:/88435/pv63g261f",
   "dc_description_s": "Rodi = Rhodes = Rhodos = Rodos = Rhodus",
-  "georss_box_s": "35.8767211 27.6834947 36.4586052 28.2475278",
   "layer_modified_dt": "2015-01-21T22:23:57Z",
   "layer_id_s": "pv63g261f",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-pv63g261f",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/pv63g261f/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/pv/63/g2/61/f/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "36.4586052 27.6834947 36.4586052 28.2475278 35.8767211 28.2475278 35.8767211 27.6834947 36.4586052 27.6834947",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1935"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Rhodes (Greece : Island)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

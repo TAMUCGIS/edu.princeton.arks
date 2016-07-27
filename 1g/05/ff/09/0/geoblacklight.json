@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1841",
-  "uuid": "http://arks.princeton.edu/ark:/88435/1g05ff090",
   "dc_description_s": "Map of Palestine : chiefly from the itineraries and measurements of E. Robinson and E. Smith",
-  "georss_box_s": "29.4533796 34.2676025 33.3356317 35.8950234",
   "layer_modified_dt": "2015-01-21T22:24:15Z",
   "dc_creator_sm": [
     "Robinson, Edward,",
@@ -18,7 +16,6 @@
   "layer_slug_s": "princeton-1g05ff090",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/1g05ff090/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/1g/05/ff/09/0/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "33.3356317 34.2676025 33.3356317 35.8950234 29.4533796 35.8950234 29.4533796 34.2676025 33.3356317 34.2676025",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1841"
@@ -27,5 +24,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Palestine"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

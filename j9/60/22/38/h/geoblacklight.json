@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(121.338872, 121.803647, 31.190632, 31.129599)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/j9602238h/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/j9602238h/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/j9602238h/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/j9602238h",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Transportation networks",
@@ -17,7 +16,6 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "j9602238h",
-  "georss_polygon_s": "31.190632 121.338872 31.190632 121.803647 31.129599 121.803647 31.129599 121.338872 31.190632 121.338872",
   "dc_publisher_s": "LeadDog Consulting, LLC",
   "solr_year_i": "2006",
   "dct_spatial_sm": [
@@ -25,9 +23,9 @@
     "China"
   ],
   "layer_id_s": "pulmap-restricted:j9602238h",
-  "georss_box_s": "31.129599 121.338872 31.190632 121.803647",
   "dc_title_s": "Shanghai airport",
   "layer_slug_s": "princeton-j9602238h",
   "layer_geom_type_s": "Point",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

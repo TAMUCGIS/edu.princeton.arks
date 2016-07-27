@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(15.047209, 23.477161, 54.107808, 49.619058)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/s7526f08r/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/s7526f08r/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/s7526f08r/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/s7526f08r",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "City",
@@ -21,16 +20,15 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "s7526f08r",
-  "georss_polygon_s": "54.107808 15.047209 54.107808 23.477161 49.619058 23.477161 49.619058 15.047209 54.107808 15.047209",
   "dc_publisher_s": "Gfk MACON Company",
   "solr_year_i": "2006",
   "dct_spatial_sm": [
     "Poland"
   ],
   "layer_id_s": "pulmap-restricted:s7526f08r",
-  "georss_box_s": "49.619058 15.047209 54.107808 23.477161",
   "dc_title_s": "Poland Cities With Population From 50 Thousand To 100 Thousand, 2005",
   "layer_slug_s": "princeton-s7526f08r",
   "layer_geom_type_s": "Point",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

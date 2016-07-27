@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(10.7422, 10.8164, 51.8592, 51.8169)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/nz8061418\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/nz8061418/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/nz8061418",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "VEB Landkartenverlag",
   "dc_type_s": "Image",
   "dc_identifier_s": "nz8061418",
-  "georss_polygon_s": "51.8592 10.7422 51.8592 10.8164 51.8169 10.8164 51.8169 10.7422 51.8592 10.7422",
   "dc_publisher_s": "VEB Landkartenverlag",
   "solr_year_i": "1967",
   "dct_spatial_sm": [
@@ -27,9 +25,9 @@
     "Sachsen-Anhalt Land"
   ],
   "layer_id_s": "nz8061418",
-  "georss_box_s": "51.8169 10.7422 51.8592 10.8164",
   "dc_title_s": "Stadtplan Wernigerode",
   "layer_slug_s": "princeton-nz8061418",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

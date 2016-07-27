@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1818",
-  "uuid": "http://arks.princeton.edu/ark:/88435/2z10ws68z",
   "dc_description_s": "The Netherlands and the countries to the left bank of the Rhine",
-  "georss_box_s": "49.0 2.0 52.0 9.0",
   "layer_modified_dt": "2015-01-19T22:37:16Z",
   "dc_creator_sm": [
     "Hebert, L.",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-2z10ws68z",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/2z10ws68z/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/2z/10/ws/68/z/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "52.0 2.0 52.0 9.0 49.0 9.0 49.0 2.0 52.0 2.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1818"
@@ -28,5 +25,6 @@
     "Belgium",
     "Germany",
     "Luxembourg"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

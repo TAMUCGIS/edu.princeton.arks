@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1899",
-  "uuid": "http://arks.princeton.edu/ark:/88435/m039k744z",
   "dc_description_s": "Hildesheim",
-  "georss_box_s": "52.0935785 9.8462672 52.1938772 10.0429089",
   "layer_modified_dt": "2015-01-21T22:24:28Z",
   "layer_id_s": "m039k744z",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-m039k744z",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/m039k744z/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/m0/39/k7/44/z/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "52.1938772 9.8462672 52.1938772 10.0429089 52.0935785 10.0429089 52.0935785 9.8462672 52.1938772 9.8462672",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1899"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Hildesheim (Germany)",
     "Lower Saxony (Germany)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

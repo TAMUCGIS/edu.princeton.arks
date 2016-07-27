@@ -1,10 +1,9 @@
 {
-  "dc_description_s": "This is a city map of Naestved, Denmark, shown at a ca. 1:7.880 scale. This city map was created by Georg Christensen Boghandel for Geod\u00e6tisk Institut.",
+  "dc_description_s": "This is a city map of Naestved, Denmark, shown at a ca. 1:7.880 scale. This city map was created by Georg Christensen Boghandel for Geodætisk Institut.",
   "layer_modified_dt": "2015-01-11T18:24:43Z",
   "solr_geom": "ENVELOPE(11.5375, 11.9392, 55.3123, 55.1357)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/jq085m47f\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/jq085m47f/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/jq085m47f",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -16,20 +15,19 @@
   ],
   "dc_format_s": "Scanned Map",
   "dct_issued_s": "1964",
-  "dc_creator_sm": "Geod\u00e6tisk Institut",
+  "dc_creator_sm": "Geodætisk Institut",
   "dc_type_s": "Image",
   "dc_identifier_s": "jq085m47f",
-  "georss_polygon_s": "55.3123 11.5375 55.3123 11.9392 55.1357 11.9392 55.1357 11.5375 55.3123 11.5375",
-  "dc_publisher_s": "Geod\u00e6tisk Institut",
+  "dc_publisher_s": "Geodætisk Institut",
   "solr_year_i": "1964",
   "dct_spatial_sm": [
-    "N\u00e6stved",
+    "Næstved",
     "Denmark"
   ],
   "layer_id_s": "jq085m47f",
-  "georss_box_s": "55.1357 11.5375 55.3123 11.9392",
-  "dc_title_s": "Byplan over N\u00e6stved",
+  "dc_title_s": "Byplan over Næstved",
   "layer_slug_s": "princeton-jq085m47f",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

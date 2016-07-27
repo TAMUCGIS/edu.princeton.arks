@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1835",
-  "uuid": "http://arks.princeton.edu/ark:/88435/dn39x399j",
   "dc_description_s": "Karte von Syrien : den Manen Jacotin's und Burckhardt's gewidmet",
-  "georss_box_s": "29.4533796 34.2676025 33.3356317 35.8950234",
   "layer_modified_dt": "2015-01-21T22:24:11Z",
   "dc_creator_sm": [
     "Berghaus, Heinrich Karl Wilhelm,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-dn39x399j",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/dn39x399j/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/dn/39/x3/99/j/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "33.3356317 34.2676025 33.3356317 35.8950234 29.4533796 35.8950234 29.4533796 34.2676025 33.3356317 34.2676025",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1835"
@@ -26,5 +23,6 @@
     "Israel",
     "Lebanon",
     "Syria"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

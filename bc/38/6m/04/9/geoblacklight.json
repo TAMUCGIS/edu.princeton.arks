@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1893",
-  "uuid": "http://arks.princeton.edu/ark:/88435/bc386m049",
   "dc_description_s": "Rhode Island: Sakonnet Sheet",
-  "georss_box_s": "41.75000 -71.25000 42.00000 -71.00000",
   "layer_modified_dt": "2015-01-19T22:36:42Z",
   "layer_id_s": "bc386m049",
   "dc_type_s": "Image",
@@ -12,11 +10,11 @@
   "layer_slug_s": "princeton-bc386m049",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/bc386m049/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/bc/38/6m/04/9/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "42.00000 -71.25000 42.00000 -71.00000 41.75000 -71.00000 41.75000 -71.25000 42.00000 -71.25000",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1893"
   ],
   "solr_geom": "ENVELOPE(-71.25000, -71.00000, 42.00000, 41.75000)",
-  "dc_rights_s": "Public"
+  "dc_rights_s": "Public",
+  "geoblacklight_version": "1.0"
 }

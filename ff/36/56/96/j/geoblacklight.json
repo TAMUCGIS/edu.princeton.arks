@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(120.300, 120.3333, 16.6500, 16.600)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/ff365696j/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ff/36/56/96/j/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/ff365696j/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/ff365696j",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
@@ -23,7 +22,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "ff365696j",
-  "georss_polygon_s": "16.6500 120.300 16.6500 120.3333 16.600 120.3333 16.600 120.300 16.6500 120.300",
   "dc_publisher_s": "Army Map Service",
   "solr_year_i": "1944",
   "dct_spatial_sm": [
@@ -31,9 +29,9 @@
     "Philippines"
   ],
   "layer_id_s": "ff365696j",
-  "georss_box_s": "16.600 120.300 16.6500 120.3333",
   "dc_title_s": "San Fernando, Philippine Islands, La Union Province. A.M.S. S901.",
   "dct_issued_s": "1944",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

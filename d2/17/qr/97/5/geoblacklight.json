@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1829",
-  "uuid": "http://arks.princeton.edu/ark:/88435/d217qr975",
   "dc_description_s": "Introductory map : to accompany Willards History of the United States",
-  "georss_box_s": "29.0 -94.0 49.0 -67.0",
   "layer_modified_dt": "2015-01-19T22:37:14Z",
   "dc_creator_sm": [
     "Maverick, Samuel,",
@@ -16,12 +14,14 @@
   "layer_slug_s": "princeton-d217qr975",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/d217qr975/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/d2/17/qr/97/5/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "49.0 -94.0 49.0 -67.0 29.0 -67.0 29.0 -94.0 49.0 -94.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1829"
   ],
   "solr_geom": "ENVELOPE(-94.0, -67.0, 49.0, 29.0)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

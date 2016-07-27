@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1849",
-  "uuid": "http://arks.princeton.edu/ark:/88435/4t64gq69c",
   "dc_description_s": "Harbors of Captain's Island East and Captain's Island West",
-  "georss_box_s": "40.9666666667 -73.6666666667 41.0333333333 -73.5833333333",
   "layer_modified_dt": "2015-01-19T22:37:38Z",
   "dc_creator_sm": [
     "Hassler, F. R.",
@@ -12,7 +10,7 @@
     "Humphreys, A. A.",
     "Luce, William",
     "Barney, W. C.",
-    "Rolle\u0301, A.",
+    "Rollé, A.",
     "Smith, W.",
     "Pettit, S. T."
   ],
@@ -24,12 +22,14 @@
   "layer_slug_s": "princeton-4t64gq69c",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/4t64gq69c/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/4t/64/gq/69/c/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "41.0333333333 -73.6666666667 41.0333333333 -73.5833333333 40.9666666667 -73.5833333333 40.9666666667 -73.6666666667 41.0333333333 -73.6666666667",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1849"
   ],
   "solr_geom": "ENVELOPE(-73.6666666667, -73.5833333333, 41.0333333333, 40.9666666667)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

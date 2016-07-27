@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-0.4385, 0.2585, 51.6781, 51.2276)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/3484zj65j\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/3484zj65j/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/3484zj65j",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Metropolitan Railway",
   "dc_type_s": "Image",
   "dc_identifier_s": "3484zj65j",
-  "georss_polygon_s": "51.6781 -0.4385 51.6781 0.2585 51.2276 0.2585 51.2276 -0.4385 51.6781 -0.4385",
   "dc_publisher_s": "Metropolitan Railway",
   "solr_year_i": "1932",
   "dct_spatial_sm": [
@@ -26,9 +24,9 @@
     "England"
   ],
   "layer_id_s": "3484zj65j",
-  "georss_box_s": "51.2276 -0.4385 51.6781 0.2585",
   "dc_title_s": "Metropolitan railway map of London",
   "layer_slug_s": "princeton-3484zj65j",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

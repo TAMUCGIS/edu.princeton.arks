@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(116.745987, 117.904677, 40.182563, 38.616694)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/1g05fd23k/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/1g05fd23k/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/1g05fd23k/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/1g05fd23k",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "census",
@@ -56,7 +55,6 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "1g05fd23k",
-  "georss_polygon_s": "40.182563 116.745987 40.182563 117.904677 38.616694 117.904677 38.616694 116.745987 40.182563 116.745987",
   "solr_year_i": "2000",
   "dct_spatial_sm": [
     "China",
@@ -64,9 +62,9 @@
     "Tianjin Municipality"
   ],
   "layer_id_s": "pulmap-restricted:1g05fd23k",
-  "georss_box_s": "38.616694 116.745987 40.182563 117.904677",
   "dc_title_s": "Township map of Tianjin with 2000 Census short form data",
   "layer_slug_s": "princeton-1g05fd23k",
   "layer_geom_type_s": "Point",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

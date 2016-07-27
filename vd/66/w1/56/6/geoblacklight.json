@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-5.7167, -5.700, 34.2333, 34.2167)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/vd66w1566/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/vd/66/w1/56/6/00000001.jp2/info.json\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/vd66w1566\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/vd66w1566",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
@@ -21,7 +20,6 @@
   "dc_creator_sm": "Army Map Service",
   "dc_type_s": "Image",
   "dc_identifier_s": "vd66w1566",
-  "georss_polygon_s": "34.2333 -5.7167 34.2333 -5.700 34.2167 -5.700 34.2167 -5.7167 34.2333 -5.7167",
   "dc_publisher_s": "Army Map Service",
   "solr_year_i": "1943",
   "dct_spatial_sm": [
@@ -32,9 +30,9 @@
     "G8234.P4.1943.A7M3"
   ],
   "layer_id_s": "vd66w1566",
-  "georss_box_s": "34.2167 -5.7167 34.2333 -5.700",
   "dc_title_s": "Petitjean city plan. G.S.G.S. 4241. ",
   "dct_issued_s": "1943",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

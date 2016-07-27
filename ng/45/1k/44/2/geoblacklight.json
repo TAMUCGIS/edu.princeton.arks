@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1601",
-  "uuid": "http://arks.princeton.edu/ark:/88435/ng451k442",
   "dc_description_s": "Descripcion de las Indias del Poniente",
-  "georss_box_s": "-11.1083 92.171808 28.5478351 141.0425",
   "layer_modified_dt": "2015-01-21T22:23:52Z",
   "dc_creator_sm": [
     "Herrera y Tordesillas, Antonio de,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-ng451k442",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/ng451k442/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ng/45/1k/44/2/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "28.5478351 92.171808 28.5478351 141.0425 -11.1083 141.0425 -11.1083 92.171808 28.5478351 92.171808",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1601"
@@ -28,5 +25,6 @@
     "New Guinea",
     "Northern Mariana Islands",
     "Solomon Islands"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

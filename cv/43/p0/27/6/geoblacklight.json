@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1914",
-  "uuid": "http://arks.princeton.edu/ark:/88435/cv43p0276",
   "dc_description_s": "Spain and Portugal",
-  "georss_box_s": "36.0 -10.0 44.0 4.0",
   "layer_modified_dt": "2015-01-19T22:37:17Z",
   "layer_id_s": "cv43p0276",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-cv43p0276",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/cv43p0276/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/cv/43/p0/27/6/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "44.0 -10.0 44.0 4.0 36.0 4.0 36.0 -10.0 44.0 -10.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1914"
@@ -23,5 +20,6 @@
     "Iberian Peninsula",
     "Portugal",
     "Spain"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

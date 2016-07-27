@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1829",
-  "uuid": "http://arks.princeton.edu/ark:/88435/m613n103x",
   "dc_description_s": "Principal seats of the war of 1812-13-14",
-  "georss_box_s": "-14.7608357 -179.9999999 71.6048217 180",
   "layer_modified_dt": "2015-01-21T22:24:06Z",
   "dc_creator_sm": [
     "Maverick, Samuel,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-m613n103x",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/m613n103x/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/m6/13/n1/03/x/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "71.6048217 -179.9999999 71.6048217 180 -14.7608357 180 -14.7608357 -179.9999999 71.6048217 -179.9999999",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1829"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "United States"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

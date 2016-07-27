@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1889",
-  "uuid": "http://arks.princeton.edu/ark:/88435/xs55mf57g",
-  "dc_description_s": "Karte vom Thu\u0308ringer Wald : nach den neuesten und besten Hu\u0308lfsquellen",
-  "georss_box_s": "50.4816979 10.1757224 51.0127587 11.0559825",
+  "dc_description_s": "Karte vom Thüringer Wald : nach den neuesten und besten Hülfsquellen",
   "layer_modified_dt": "2015-01-21T22:24:23Z",
   "dc_creator_sm": [
     "Keller, C. L.,",
@@ -12,11 +10,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "xs55mf57g",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Karte vom Thu\u0308ringer Wald : nach den neuesten und besten Hu\u0308lfsquellen",
+  "dc_title_s": "Karte vom Thüringer Wald : nach den neuesten und besten Hülfsquellen",
   "layer_slug_s": "princeton-xs55mf57g",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/xs55mf57g/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/xs/55/mf/57/g/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.0127587 10.1757224 51.0127587 11.0559825 50.4816979 11.0559825 50.4816979 10.1757224 51.0127587 10.1757224",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1889"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Thuringian Forest (Germany)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

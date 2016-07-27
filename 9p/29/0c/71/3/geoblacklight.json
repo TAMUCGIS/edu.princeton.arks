@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1841",
-  "uuid": "http://arks.princeton.edu/ark:/88435/9p290c713",
-  "dc_description_s": "Paris, divise\u0301 en 12 arrondissemens et 48 quartiers",
-  "georss_box_s": "48.8155755 2.224122 48.902156 2.4697602",
+  "dc_description_s": "Paris, divisé en 12 arrondissemens et 48 quartiers",
   "layer_modified_dt": "2015-01-21T22:23:59Z",
   "dc_creator_sm": [
     "Malo, Abel."
@@ -11,11 +9,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "9p290c713",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Paris, divise\u0301 en 12 arrondissemens et 48 quartiers",
+  "dc_title_s": "Paris, divisé en 12 arrondissemens et 48 quartiers",
   "layer_slug_s": "princeton-9p290c713",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/9p290c713/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/9p/29/0c/71/3/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "48.902156 2.224122 48.902156 2.4697602 48.8155755 2.4697602 48.8155755 2.224122 48.902156 2.224122",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1841"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Paris (France)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

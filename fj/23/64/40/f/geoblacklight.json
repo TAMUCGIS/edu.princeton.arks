@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1660",
-  "uuid": "http://arks.princeton.edu/ark:/88435/fj236440f",
   "dc_description_s": "Belgii Novi, Angliae Novae, et partis Virginiae : novissima delineatio",
-  "georss_box_s": "40.950943 -73.727775 47.459686 -66.8850751",
   "layer_modified_dt": "2015-01-21T22:23:55Z",
   "layer_id_s": "fj236440f",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-fj236440f",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/fj236440f/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/fj/23/64/40/f/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "47.459686 -73.727775 47.459686 -66.8850751 40.950943 -66.8850751 40.950943 -73.727775 47.459686 -73.727775",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1660"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "New England",
     "Middle Atlantic States"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

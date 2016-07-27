@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1893",
-  "uuid": "http://arks.princeton.edu/ark:/88435/1j92g9954",
-  "dc_description_s": "Neue Handkarte von Pala\u0308stina im Massstabe von 1:700 000 : nebst alphabetischem Namen-Verzeichnis und Quellen-Nachweis /",
-  "georss_box_s": "29.4533796 34.2676025 33.3356317 35.8950234",
+  "dc_description_s": "Neue Handkarte von Palästina im Massstabe von 1:700 000 : nebst alphabetischem Namen-Verzeichnis und Quellen-Nachweis /",
   "layer_modified_dt": "2015-01-25T02:06:16Z",
   "dc_creator_sm": [
     "Guthe, Hermann."
@@ -11,11 +9,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "1j92g9954",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Neue Handkarte von Pala\u0308stina im Massstabe von 1:700 000 : nebst alphabetischem Namen-Verzeichnis und Quellen-Nachweis /",
+  "dc_title_s": "Neue Handkarte von Palästina im Massstabe von 1:700 000 : nebst alphabetischem Namen-Verzeichnis und Quellen-Nachweis /",
   "layer_slug_s": "princeton-1j92g9954",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/1j92g9954/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/1j/92/g9/95/4/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "33.3356317 34.2676025 33.3356317 35.8950234 29.4533796 35.8950234 29.4533796 34.2676025 33.3356317 34.2676025",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1893"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Palestine"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

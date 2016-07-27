@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1860",
-  "uuid": "http://arks.princeton.edu/ark:/88435/j3860930t",
   "dc_description_s": "A new and complete rail road map of the United States",
-  "georss_box_s": "24.4110356374 -91.7756124125 47.5887446096 -66.8711891",
   "layer_modified_dt": "2015-01-21T22:23:57Z",
   "layer_id_s": "j3860930t",
   "dc_type_s": "Image",
@@ -12,12 +10,14 @@
   "layer_slug_s": "princeton-j3860930t",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/j3860930t/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/j3/86/09/30/t/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "47.5887446096 -91.7756124125 47.5887446096 -66.8711891 24.4110356374 -66.8711891 24.4110356374 -91.7756124125 47.5887446096 -91.7756124125",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1860"
   ],
   "solr_geom": "ENVELOPE(-91.7756124125, -66.8711891, 47.5887446096, 24.4110356374)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

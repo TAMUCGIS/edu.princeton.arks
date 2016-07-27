@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1912",
-  "uuid": "http://arks.princeton.edu/ark:/88435/vd66w2376",
   "dc_description_s": "The Rand-McNally new library atlas map of Egpyt",
-  "georss_box_s": "21.9999975 24.706389 31.8330854 37.1153517",
   "layer_modified_dt": "2015-01-21T22:24:11Z",
   "layer_id_s": "vd66w2376",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-vd66w2376",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/vd66w2376/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/vd/66/w2/37/6/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "31.8330854 24.706389 31.8330854 37.1153517 21.9999975 37.1153517 21.9999975 24.706389 31.8330854 24.706389",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1912"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Egypt",
     "Nile River Delta (Egypt)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

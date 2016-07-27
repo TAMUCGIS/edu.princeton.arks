@@ -1,10 +1,9 @@
 {
-  "dc_description_s": "This is a city map of Helsing\u00f8r, Denmark, shown at a 1:10,000 scale. This city map was created by Landinspektor Erik Steenbrandt for Vejviserens Forl.",
+  "dc_description_s": "This is a city map of Helsingør, Denmark, shown at a 1:10,000 scale. This city map was created by Landinspektor Erik Steenbrandt for Vejviserens Forl.",
   "layer_modified_dt": "2015-01-11T18:24:44Z",
   "solr_geom": "ENVELOPE(12.5078, 12.6251, 56.0712, 56.0056)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/br86b507s\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/br86b507s/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/br86b507s",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,17 +17,16 @@
   "dc_creator_sm": "Vejviserens Forl",
   "dc_type_s": "Image",
   "dc_identifier_s": "br86b507s",
-  "georss_polygon_s": "56.0712 12.5078 56.0712 12.6251 56.0056 12.6251 56.0056 12.5078 56.0712 12.5078",
   "dc_publisher_s": "Vejviserens Forl",
   "solr_year_i": "1963",
   "dct_spatial_sm": [
-    "Helsing\u00f8r",
+    "Helsingør",
     "Denmark"
   ],
   "layer_id_s": "br86b507s",
-  "georss_box_s": "56.0056 12.5078 56.0712 12.6251",
-  "dc_title_s": "Helsing\u00f8r",
+  "dc_title_s": "Helsingør",
   "layer_slug_s": "princeton-br86b507s",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

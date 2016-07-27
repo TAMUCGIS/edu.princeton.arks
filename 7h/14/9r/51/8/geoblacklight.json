@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(10.5, 11, 30.3333, 30.0000)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/7h149r518/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/7h/14/9r/51/8/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/7h149r518/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/7h149r518",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
@@ -25,7 +24,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "7h149r518",
-  "georss_polygon_s": "30.3333 10.5 30.3333 11 30.0000 11 30.0000 10.5 30.3333 10.5",
   "dc_publisher_s": "Army Map Service",
   "solr_year_i": "1941",
   "dct_spatial_sm": [
@@ -39,9 +37,9 @@
     "Libya"
   ],
   "layer_id_s": "7h149r518",
-  "georss_box_s": "30.0000 10.5 30.3333 11",
   "dc_title_s": "Tripoli 1:100,000. Bir Umm el-Fraa. Sheet 2169. Series Provisional G.S.G.S. 3980.",
   "dct_issued_s": "1941",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1818",
-  "uuid": "http://arks.princeton.edu/ark:/88435/kw52jb56c",
   "dc_description_s": "Germany north of the Mayn",
-  "georss_box_s": "47.8333333333 6.0 50.3333333333 15.6666666667",
   "layer_modified_dt": "2015-01-19T22:37:29Z",
   "dc_creator_sm": [
     "Hebert, L.",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-kw52jb56c",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/kw52jb56c/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/kw/52/jb/56/c/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "50.3333333333 6.0 50.3333333333 15.6666666667 47.8333333333 15.6666666667 47.8333333333 6.0 50.3333333333 6.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1818"
@@ -27,5 +24,6 @@
   "dct_spatial_sm": [
     "Germany, Northern",
     "Poland"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

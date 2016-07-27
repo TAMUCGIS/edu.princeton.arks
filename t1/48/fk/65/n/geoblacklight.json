@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1826",
-  "uuid": "http://arks.princeton.edu/ark:/88435/t148fk65n",
   "dc_description_s": "A new chart of the Mediterranean Sea, comprehending the coasts from Cape St. Mary, (in Portugal) to Constantinople, and from Rabat, in Africa, to Alexandretto, or Iskenderoon, in Asia, &c.",
-  "georss_box_s": "34.9999535 19.9999457 35.0000535 20.0000457",
   "layer_modified_dt": "2015-01-21T22:24:23Z",
   "dc_creator_sm": [
     "Beaufort, Francis,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-t148fk65n",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/t148fk65n/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/t1/48/fk/65/n/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "35.0000535 19.9999457 35.0000535 20.0000457 34.9999535 20.0000457 34.9999535 19.9999457 35.0000535 19.9999457",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1826"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Mediterranean Sea"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

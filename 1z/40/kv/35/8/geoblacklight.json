@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-77.5, -77.25, 39.75, 39.5)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/1z40kv358/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/1z/40/kv/35/8/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/1z40kv358/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/1z40kv358",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "historical maps",
@@ -20,7 +19,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "1z40kv358",
-  "georss_polygon_s": "39.75 -77.5 39.75 -77.25 39.5 -77.25 39.5 -77.5 39.75 -77.5",
   "dc_publisher_s": "US Geological Survey",
   "dct_spatial_sm": [
     "Emmitsburg",
@@ -34,9 +32,9 @@
     "United States"
   ],
   "layer_id_s": "1z40kv358",
-  "georss_box_s": "39.5 -77.5 39.75 -77.25",
   "dc_title_s": "Maryland--Pennsylvania: Emmitsburg Quadrangle [1924 reprint] ",
   "dct_issued_s": "March 1911",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

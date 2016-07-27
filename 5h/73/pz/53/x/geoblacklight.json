@@ -1,12 +1,10 @@
 {
   "solr_year_i": "1540",
-  "uuid": "http://arks.princeton.edu/ark:/88435/5h73pz53x",
   "dc_description_s": "Tabula Europae VI",
-  "georss_box_s": "35.2889616 6.6272658 47.0921462 18.7844746",
   "layer_modified_dt": "2015-01-25T02:06:14Z",
   "dc_creator_sm": [
     "Petri, Heinrich,",
-    "Mu\u0308nster, Sebastian,",
+    "Münster, Sebastian,",
     "Ptolemy,"
   ],
   "layer_id_s": "5h73pz53x",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-5h73pz53x",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/5h73pz53x/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/5h/73/pz/53/x/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "47.0921462 6.6272658 47.0921462 18.7844746 35.2889616 18.7844746 35.2889616 6.6272658 47.0921462 6.6272658",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1540"
@@ -27,5 +24,6 @@
   "dct_spatial_sm": [
     "Italy",
     "Corsica (France)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(28.504, 16.323, 46.55, 36.01)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/vq27zq015/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/vq/27/zq/01/5/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/vq27zq015/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/vq27zq015",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Imagery, basemaps, and land cover",
@@ -17,7 +16,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "vq27zq015",
-  "georss_polygon_s": "46.55 28.504 46.55 16.323 36.01 16.323 36.01 28.504 46.55 28.504",
   "dc_publisher_s": "Sanborn Map Company",
   "solr_year_i": "1954",
   "dct_spatial_sm": [
@@ -25,9 +23,9 @@
     "Balkan"
   ],
   "layer_id_s": "vq27zq015",
-  "georss_box_s": "36.01 28.504 46.55 16.323",
   "dc_title_s": "Balkanskii poluostrov v XIX v. (do 1878 g.) (Sheet 2) ",
   "dct_issued_s": "1954",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

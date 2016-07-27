@@ -1,9 +1,6 @@
 {
   "dc_publisher_s": "New York: Sanborn Map Company",
-  "uuid": "http://arks.princeton.edu/ark:/88435/5d86p244q",
   "dc_description_s": "This a Sanborn map of Manville",
-  "georss_box_s": "40.526691 -74.608914 40.557713 -74.566073",
-  "georss_polygon_s": "40.557713 -74.608914 40.557713 -74.566073 40.526691 -74.566073 40.526691 -74.608914 40.557713 -74.608914",
   "layer_modified_dt": "2015-01-18T17:08:13Z",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -29,5 +26,6 @@
   "layer_geom_type_s": "Image",
   "solr_geom": "ENVELOPE(-74.608914, -74.566073, 40.557713, 40.526691)",
   "dc_rights_s": "Public",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

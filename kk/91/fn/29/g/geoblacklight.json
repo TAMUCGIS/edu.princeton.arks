@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(40.700306, 48.452024, 37.189711, 29.157996)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/kk91fn29g\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/kk91fn29g/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/kk91fn29g",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Oil",
@@ -21,7 +20,6 @@
   "dc_creator_sm": "Robert Fargo",
   "dc_type_s": "Image",
   "dc_identifier_s": "kk91fn29g",
-  "georss_polygon_s": "37.189711 40.700306 37.189711 48.452024 29.157996 48.452024 29.157996 40.700306 37.189711 40.700306",
   "dc_publisher_s": "ESOC Group",
   "solr_year_i": "2009",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "Middle East"
   ],
   "layer_id_s": "kk91fn29g",
-  "georss_box_s": "29.157996 40.700306 37.189711 48.452024",
   "dc_title_s": "Iraq Oil and Gas Fields",
   "layer_slug_s": "princeton-kk91fn29g",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

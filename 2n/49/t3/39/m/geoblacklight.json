@@ -1,8 +1,6 @@
 {
   "layer_modified_dt": "2014-12-19T16:18:36Z",
-  "uuid": "http://arks.princeton.edu/ark:/88435/2n49t339m",
   "dc_description_s": "Digital map of village boundaries in Jharkhand, 2011. Boundaries of all villages are shown linked to Primary Census Abstract 2011. Additionally, the Village Panchayat (Gram Panchayat) name is indicated.",
-  "georss_box_s": "21.969900 83.331901 25.348450 87.919167",
   "layer_slug_s": "princeton-2n49t339m",
   "dct_spatial_sm": [
     "Jharkhand",
@@ -12,7 +10,6 @@
     "ML Infomap Pvt. Ltd."
   ],
   "layer_id_s": "pulmap-restricted:2n49t339m",
-  "georss_polygon_s": "25.348450 83.331901 25.348450 87.919167 21.969900 87.919167 21.969900 83.331901 25.348450 83.331901",
   "dc_type_s": "Dataset",
   "dc_identifier_s": "2n49t339m",
   "dct_provenance_s": "Princeton",
@@ -60,5 +57,6 @@
   "layer_geom_type_s": "Polygon",
   "solr_geom": "ENVELOPE(83.331901, 87.919167, 25.348450, 21.969900)",
   "dc_rights_s": "Restricted",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

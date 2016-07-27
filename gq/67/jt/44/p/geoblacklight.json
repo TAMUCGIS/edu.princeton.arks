@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-74.305049, -74.22089, 40.826557, 40.757392)",
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/gq/67/jt/44/p/00000001.jp2/info.json\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/gq67jt44p",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
@@ -21,7 +20,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "gq67jt44p",
-  "georss_polygon_s": "40.826557 -74.305049 40.826557 -74.22089 40.757392 -74.22089 40.757392 -74.305049 40.826557 -74.305049",
   "dc_publisher_s": "New York: Sanborn Map Company",
   "solr_year_i": "1939",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "West Orange"
   ],
   "layer_id_s": "gq67jt44p",
-  "georss_box_s": "40.757392 -74.305049 40.826557 -74.22089",
   "dc_title_s": "Insurance maps of West Orange, New Jersey (Overview).",
   "layer_slug_s": "princeton-gq67jt44p",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

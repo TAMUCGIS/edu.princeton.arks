@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1913",
-  "uuid": "http://arks.princeton.edu/ark:/88435/zc77ss60t",
   "dc_description_s": "Map of the Winchester district",
-  "georss_box_s": "50.7057404 -1.9572805 51.3839153 -0.7293436",
   "layer_modified_dt": "2015-01-25T02:06:16Z",
   "layer_id_s": "zc77ss60t",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-zc77ss60t",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/zc77ss60t/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/zc/77/ss/60/t/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.3839153 -1.9572805 51.3839153 -0.7293436 50.7057404 -0.7293436 50.7057404 -1.9572805 51.3839153 -1.9572805",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1913"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Hampshire (England)",
     "Winchester (England)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

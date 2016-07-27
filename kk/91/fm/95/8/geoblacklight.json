@@ -1,8 +1,6 @@
 {
   "layer_modified_dt": "2014-12-19T16:18:33Z",
-  "uuid": "http://arks.princeton.edu/ark:/88435/kk91fm958",
   "dc_description_s": "Points representing bus stations in Cairo.",
-  "georss_box_s": "29.787825 30.904872 30.271166 31.735256",
   "layer_slug_s": "princeton-kk91fm958",
   "dct_spatial_sm": [
     "Egypt",
@@ -12,7 +10,6 @@
     "Globe Telecom"
   ],
   "layer_id_s": "pulmap-restricted:kk91fm958",
-  "georss_polygon_s": "30.271166 30.904872 30.271166 31.735256 29.787825 31.735256 29.787825 30.904872 30.271166 30.904872",
   "dc_type_s": "Dataset",
   "dc_identifier_s": "kk91fm958",
   "dct_provenance_s": "Princeton",
@@ -29,5 +26,6 @@
   "layer_geom_type_s": "Point",
   "solr_geom": "ENVELOPE(30.904872, 31.735256, 30.271166, 29.787825)",
   "dc_rights_s": "Restricted",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1566",
-  "uuid": "http://arks.princeton.edu/ark:/88435/tx31qm159",
   "dc_description_s": "Geldriae, Cliuiae, Iuliae, necnon aliarum region adiacentium",
-  "georss_box_s": "51.7335807 4.9938547 52.522025 6.8328017",
   "layer_modified_dt": "2015-01-21T22:24:11Z",
   "dc_creator_sm": [
     "Tramezzino, Michele,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-tx31qm159",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/tx31qm159/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/tx/31/qm/15/9/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "52.522025 4.9938547 52.522025 6.8328017 51.7335807 6.8328017 51.7335807 4.9938547 52.522025 4.9938547",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1566"
@@ -25,6 +22,7 @@
   "dct_spatial_sm": [
     "Gelderland (Netherlands)",
     "Kleve (Duchy)",
-    "Ju\u0308lich (Duchy)"
-  ]
+    "Jülich (Duchy)"
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,10 +1,9 @@
 {
-  "dc_description_s": "China Province boundaries, National level boundaries with generalized coastline corresponding to 2000 year GB administrative geography used for statistical reporting, used for population census.\u00a0",
+  "dc_description_s": "China Province boundaries, National level boundaries with generalized coastline corresponding to 2000 year GB administrative geography used for statistical reporting, used for population census. ",
   "layer_modified_dt": "2014-12-19T16:18:33Z",
   "solr_geom": "ENVELOPE(73.446960, 135.085831, 53.557926, 6.318641)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/k35695861/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/k35695861/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/k35695861/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/k35695861",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Administrative units",
@@ -23,15 +22,14 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "k35695861",
-  "georss_polygon_s": "53.557926 73.446960 53.557926 135.085831 6.318641 135.085831 6.318641 73.446960 53.557926 73.446960",
   "solr_year_i": "2005",
   "dct_spatial_sm": [
     "China"
   ],
   "layer_id_s": "pulmap-restricted:k35695861",
-  "georss_box_s": "6.318641 73.446960 53.557926 135.085831",
   "dc_title_s": "China Province Boundaries, 2000",
   "layer_slug_s": "princeton-k35695861",
   "layer_geom_type_s": "Polygon",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

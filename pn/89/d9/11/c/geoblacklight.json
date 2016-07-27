@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1877",
-  "uuid": "http://arks.princeton.edu/ark:/88435/pn89d911c",
   "dc_description_s": "Delaware, Camden Co., N.J.",
-  "georss_box_s": "40.882173 -75.0742639 40.8989219 -75.0590906",
   "layer_modified_dt": "2015-01-21T22:24:24Z",
   "layer_id_s": "pn89d911c",
   "dc_type_s": "Image",
@@ -12,12 +10,14 @@
   "layer_slug_s": "princeton-pn89d911c",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/pn89d911c/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/pn/89/d9/11/c/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.8989219 -75.0742639 40.8989219 -75.0590906 40.882173 -75.0590906 40.882173 -75.0742639 40.8989219 -75.0742639",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1877"
   ],
   "solr_geom": "ENVELOPE(-75.0742639, -75.0590906, 40.8989219, 40.882173)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

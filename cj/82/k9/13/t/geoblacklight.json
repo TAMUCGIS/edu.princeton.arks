@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1772",
-  "uuid": "http://arks.princeton.edu/ark:/88435/cj82k913t",
-  "dc_description_s": "Carte ge\u0301ne\u0301rale des de\u0301couvertes de l'amiral De Fonte repre\u0301sentant la grande probabilite\u0301 d'un passage au nord ouest",
-  "georss_box_s": "0 -180 90 180",
+  "dc_description_s": "Carte générale des découvertes de l'amiral De Fonte représentant la grande probabilité d'un passage au nord ouest",
   "layer_modified_dt": "2015-01-21T22:23:44Z",
   "dc_creator_sm": [
     "Jefferys, Thomas,"
@@ -11,11 +9,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "cj82k913t",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Carte ge\u0301ne\u0301rale des de\u0301couvertes de l'amiral De Fonte repre\u0301sentant la grande probabilite\u0301 d'un passage au nord ouest",
+  "dc_title_s": "Carte générale des découvertes de l'amiral De Fonte représentant la grande probabilité d'un passage au nord ouest",
   "layer_slug_s": "princeton-cj82k913t",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/cj82k913t/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/cj/82/k9/13/t/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "90 -180 90 180 0 180 0 -180 90 -180",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1772"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "Northern Hemisphere",
     "Northwest Passage"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

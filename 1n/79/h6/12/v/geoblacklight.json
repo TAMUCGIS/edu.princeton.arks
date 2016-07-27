@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1918",
-  "uuid": "http://arks.princeton.edu/ark:/88435/1n79h612v",
   "dc_description_s": "Delaware (Sussex County): Rehoboth Quadrangle",
-  "georss_box_s": "38.50000 -75.25000 38.75000 -75.00000",
   "layer_modified_dt": "2015-01-19T22:36:39Z",
   "dc_creator_sm": [
     "Floore, S. P.",
@@ -19,11 +17,11 @@
   "layer_slug_s": "princeton-1n79h612v",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/1n79h612v/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/1n/79/h6/12/v/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "38.75000 -75.25000 38.75000 -75.00000 38.50000 -75.00000 38.50000 -75.25000 38.75000 -75.25000",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1918"
   ],
   "solr_geom": "ENVELOPE(-75.25000, -75.00000, 38.75000, 38.50000)",
-  "dc_rights_s": "Public"
+  "dc_rights_s": "Public",
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1855",
-  "uuid": "http://arks.princeton.edu/ark:/88435/08612q99r",
-  "dc_description_s": "Nouvelle carte physique, politique & routie\u0300re de l'Europe : indiquant les grandes voies de communication par mer et par terre",
-  "georss_box_s": "50.9999503 9.9999497 51.0000503 10.0000497",
+  "dc_description_s": "Nouvelle carte physique, politique & routière de l'Europe : indiquant les grandes voies de communication par mer et par terre",
   "layer_modified_dt": "2015-01-21T22:24:13Z",
   "dc_creator_sm": [
     "Logerot, A.",
@@ -12,11 +10,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "08612q99r",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Nouvelle carte physique, politique & routie\u0300re de l'Europe : indiquant les grandes voies de communication par mer et par terre",
+  "dc_title_s": "Nouvelle carte physique, politique & routière de l'Europe : indiquant les grandes voies de communication par mer et par terre",
   "layer_slug_s": "princeton-08612q99r",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/08612q99r/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/08/61/2q/99/r/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.0000503 9.9999497 51.0000503 10.0000497 50.9999503 10.0000497 50.9999503 9.9999497 51.0000503 9.9999497",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1855"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Europe"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

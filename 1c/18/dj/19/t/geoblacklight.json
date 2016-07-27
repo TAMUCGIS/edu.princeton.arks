@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1749",
-  "uuid": "http://arks.princeton.edu/ark:/88435/1c18dj19t",
   "dc_description_s": "Plan of St. Petersburg : with it's [sic] fortifications, built by Peter the Great in 1703",
-  "georss_box_s": "59.7441481 30.0433427 60.0907368 30.5673028",
   "layer_modified_dt": "2015-01-21T22:24:00Z",
   "layer_id_s": "1c18dj19t",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-1c18dj19t",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/1c18dj19t/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/1c/18/dj/19/t/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "60.0907368 30.0433427 60.0907368 30.5673028 59.7441481 30.5673028 59.7441481 30.0433427 60.0907368 30.0433427",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1749"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Saint Petersburg (Russia)",
     "Neva River (Russia)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

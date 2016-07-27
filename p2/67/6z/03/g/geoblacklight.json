@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1620",
-  "uuid": "http://arks.princeton.edu/ark:/88435/p2676z03g",
   "dc_description_s": "Eboracensis comitatus (cuius incolae olim Brigantes appellabantur) pars Orientalis, vulgo East Riding",
-  "georss_box_s": "53.5705882 -1.1035671 54.176519 0.1498318",
   "layer_modified_dt": "2015-01-21T22:24:18Z",
   "dc_creator_sm": [
     "Bishop, George,",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-p2676z03g",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/p2676z03g/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/p2/67/6z/03/g/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "54.176519 -1.1035671 54.176519 0.1498318 53.5705882 0.1498318 53.5705882 -1.1035671 54.176519 -1.1035671",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1620"
@@ -26,5 +23,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "East Riding of Yorkshire (England)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

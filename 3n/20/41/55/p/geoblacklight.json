@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1623",
-  "uuid": "http://arks.princeton.edu/ark:/88435/3n204155p",
-  "dc_description_s": "Castili\u00e6 veteris et nov\u00e6 descriptio : anno 1606",
-  "georss_box_s": "38.0 12.0 44.0 22.0",
+  "dc_description_s": "Castiliæ veteris et novæ descriptio : anno 1606",
   "layer_modified_dt": "2015-01-19T22:37:17Z",
   "dc_creator_sm": [
     "Hondius, Hendrik,",
@@ -13,11 +11,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "3n204155p",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Castili\u00e6 veteris et nov\u00e6 descriptio : anno 1606",
+  "dc_title_s": "Castiliæ veteris et novæ descriptio : anno 1606",
   "layer_slug_s": "princeton-3n204155p",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/3n204155p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/3n/20/41/55/p/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "44.0 12.0 44.0 22.0 38.0 22.0 38.0 12.0 44.0 12.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1623"
@@ -26,5 +23,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Castile (Spain)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

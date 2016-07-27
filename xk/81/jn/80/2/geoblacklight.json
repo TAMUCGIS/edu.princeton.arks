@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1748",
-  "uuid": "http://arks.princeton.edu/ark:/88435/xk81jn802",
   "dc_description_s": "A prospect of the city of Genoa",
-  "georss_box_s": "44.3784709 8.6657195 44.5198419 9.0955805",
   "layer_modified_dt": "2015-01-21T22:24:00Z",
   "dc_creator_sm": [
     "Harris, John,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-xk81jn802",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/xk81jn802/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/xk/81/jn/80/2/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "44.5198419 8.6657195 44.5198419 9.0955805 44.3784709 9.0955805 44.3784709 8.6657195 44.5198419 8.6657195",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1748"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Genoa (Italy)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1840",
-  "uuid": "http://arks.princeton.edu/ark:/88435/c534fr46k",
-  "dc_description_s": "Carte de la Chine et des e\u0301tats-tributaires",
-  "georss_box_s": "3.966232 73.4997347 53.5608154 134.7754563",
+  "dc_description_s": "Carte de la Chine et des états-tributaires",
   "layer_modified_dt": "2015-01-21T22:24:25Z",
   "dc_creator_sm": [
     "Dufour, A.-H."
@@ -11,11 +9,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "c534fr46k",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Carte de la Chine et des e\u0301tats-tributaires",
+  "dc_title_s": "Carte de la Chine et des états-tributaires",
   "layer_slug_s": "princeton-c534fr46k",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/c534fr46k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/c5/34/fr/46/k/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "53.5608154 73.4997347 53.5608154 134.7754563 3.966232 134.7754563 3.966232 73.4997347 53.5608154 73.4997347",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1840"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "China"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

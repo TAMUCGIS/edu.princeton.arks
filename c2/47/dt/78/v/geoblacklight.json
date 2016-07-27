@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-75.1114, -75.1041, 39.892, 39.8849)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/c247dt78v/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/c2/47/dt/78/v/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/c247dt78v/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/c247dt78v",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "c247dt78v",
-  "georss_polygon_s": "39.892 -75.1114 39.892 -75.1041 39.8849 -75.1041 39.8849 -75.1114 39.892 -75.1114",
   "dc_publisher_s": "Sanborn Map Company",
   "solr_year_i": "1923",
   "dct_spatial_sm": [
@@ -28,9 +26,9 @@
     "New Jersey"
   ],
   "layer_id_s": "c247dt78v",
-  "georss_box_s": "39.8849 -75.1114 39.892 -75.1041",
   "dc_title_s": "Gloucester City, Highland Park",
   "dct_issued_s": "1923",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

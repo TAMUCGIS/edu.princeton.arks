@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1851",
-  "uuid": "http://arks.princeton.edu/ark:/88435/7p88cj430",
   "dc_description_s": "Asia Minor",
-  "georss_box_s": "34.0 25.0 43.0 41.0",
   "layer_modified_dt": "2015-01-19T22:36:50Z",
   "dc_creator_sm": [
     "Warren, H.",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-7p88cj430",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/7p88cj430/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/7p/88/cj/43/0/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "43.0 25.0 43.0 41.0 34.0 41.0 34.0 25.0 43.0 25.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1851"
@@ -27,5 +24,6 @@
   "dct_spatial_sm": [
     "Turkey",
     "Cyprus"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

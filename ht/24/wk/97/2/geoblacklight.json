@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(8.4575, 8.6387, 47.4492, 47.2883)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/ht24wk972\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/ht24wk972/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/ht24wk972",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Kartographia Winterthur A.G.",
   "dc_type_s": "Image",
   "dc_identifier_s": "ht24wk972",
-  "georss_polygon_s": "47.4492 8.4575 47.4492 8.6387 47.2883 8.6387 47.2883 8.4575 47.4492 8.4575",
   "dc_publisher_s": "Kartographia Winterthur A.G.",
   "solr_year_i": "1920",
   "dct_spatial_sm": [
@@ -28,9 +26,9 @@
     "Schweizerische Eidgenossenschaft"
   ],
   "layer_id_s": "ht24wk972",
-  "georss_box_s": "47.2883 8.4575 47.4492 8.6387",
   "dc_title_s": "Ubersichtsplan der Stadt Zurich mit den Kreisgrenzen",
   "layer_slug_s": "princeton-ht24wk972",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

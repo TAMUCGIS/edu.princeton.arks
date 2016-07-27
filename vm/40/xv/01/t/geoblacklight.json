@@ -1,7 +1,5 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/vm40xv01t",
   "dc_description_s": "Yosemite : Wawona route via Mariposa Big Trees, Inspiration Point and Glacier Point ...",
-  "georss_box_s": "37.4948419 -119.8863376 38.1863499 -119.1995074",
   "layer_modified_dt": "2015-01-25T02:06:11Z",
   "dc_creator_sm": [
     "Henkenius, J. C."
@@ -14,9 +12,11 @@
   "layer_slug_s": "princeton-vm40xv01t",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/vm40xv01t/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/vm/40/xv/01/t/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "38.1863499 -119.8863376 38.1863499 -119.1995074 37.4948419 -119.1995074 37.4948419 -119.8863376 38.1863499 -119.8863376",
   "layer_geom_type_s": "Image",
   "solr_geom": "ENVELOPE(-119.8863376, -119.1995074, 38.1863499, 37.4948419)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

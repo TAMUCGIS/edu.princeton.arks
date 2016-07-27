@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-075.570555, -073.901666, 41.356944, 38.927499)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/j96022085/fgdc.xml\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/j96022085\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/j96022085",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "digital orthophoto",
@@ -29,7 +28,6 @@
   "dc_creator_sm": "BAE SYSTEMS ADR",
   "dc_type_s": "Dataset",
   "dc_identifier_s": "j96022085",
-  "georss_polygon_s": "41.356944 -075.570555 41.356944 -073.901666 38.927499 -073.901666 38.927499 -075.570555 41.356944 -075.570555",
   "dc_publisher_s": "State of New Jersey, Office of Information Technology",
   "dct_spatial_sm": [
     "Atlantic County",
@@ -57,9 +55,9 @@
     "Mid Atlantic"
   ],
   "layer_id_s": "j96022085",
-  "georss_box_s": "38.927499 -075.570555 41.356944 -073.901666",
   "dc_title_s": "New Jersey Digital Orthophotography, 2002",
   "layer_slug_s": "princeton-j96022085",
   "layer_geom_type_s": "Raster",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

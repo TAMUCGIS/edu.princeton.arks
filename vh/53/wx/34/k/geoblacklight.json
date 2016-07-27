@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-1.0500, -0.4167, 51.4833, 51.2167)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/vh53wx34k\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/vh53wx34k/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/vh53wx34k",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
@@ -19,7 +18,6 @@
   "dc_creator_sm": "Great Britain Ordnance Survey",
   "dc_type_s": "Image",
   "dc_identifier_s": "vh53wx34k",
-  "georss_polygon_s": "51.4833 -1.0500 51.4833 -0.4167 51.2167 -0.4167 51.2167 -1.0500 51.4833 -1.0500",
   "dc_publisher_s": "Great Britain Ordnance Survey",
   "solr_year_i": "1925",
   "dct_spatial_sm": [
@@ -32,9 +30,9 @@
     "G5741.C2.s63.O7S8 sh116"
   ],
   "layer_id_s": "vh53wx34k",
-  "georss_box_s": "51.2167 -1.0500 51.4833 -0.4167",
   "dc_title_s": "Ordnance Survey of England and Wales: popular edition one-inch map.  Chatham & Maidstone. Sheet 116.",
   "layer_slug_s": "princeton-vh53wx34k",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

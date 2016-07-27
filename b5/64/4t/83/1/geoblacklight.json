@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1827",
-  "uuid": "http://arks.princeton.edu/ark:/88435/b5644t831",
   "dc_description_s": "Partie de l'Egypte",
-  "georss_box_s": "30.0 24.3333333333 36.0 32.3333333333",
   "layer_modified_dt": "2015-01-19T22:36:59Z",
   "dc_creator_sm": [
     "Vandermaelen, Philippe, 1795-1869."
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-b5644t831",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/b5644t831/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/b5/64/4t/83/1/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "36.0 24.3333333333 36.0 32.3333333333 30.0 32.3333333333 30.0 24.3333333333 36.0 24.3333333333",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1827"
@@ -26,5 +23,6 @@
     "Egypt",
     "Crete (Greece)",
     "Karpathos Island (Greece)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

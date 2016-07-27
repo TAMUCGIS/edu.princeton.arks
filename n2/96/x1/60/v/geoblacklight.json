@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1775",
-  "uuid": "http://arks.princeton.edu/ark:/88435/n296x160v",
   "dc_description_s": "A map of the most inhabited part of Virginia : containing the whole province of Maryland with part of Pensilvania, New Jersey and North Carolina",
-  "georss_box_s": "37.8856427 -79.4871911 39.7229331 -74.9851722",
   "layer_modified_dt": "2015-01-25T02:06:15Z",
   "dc_creator_sm": [
     "Jefferson, Peter,",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-n296x160v",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/n296x160v/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/n2/96/x1/60/v/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "39.7229331 -79.4871911 39.7229331 -74.9851722 37.8856427 -74.9851722 37.8856427 -79.4871911 39.7229331 -79.4871911",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1775"
@@ -31,5 +28,6 @@
     "North Carolina",
     "Pennsylvania",
     "Virginia"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

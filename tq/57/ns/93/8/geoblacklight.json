@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1778",
-  "uuid": "http://arks.princeton.edu/ark:/88435/tq57ns938",
   "dc_description_s": "A new & accurate map of North America : drawn from the most authentic modern maps and charts",
-  "georss_box_s": "0.0 140.0 80.0 -0.0",
   "layer_modified_dt": "2015-01-19T22:36:53Z",
   "dc_creator_sm": [
     "Middleton, Charles Theodore."
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-tq57ns938",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/tq57ns938/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/tq/57/ns/93/8/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "80.0 140.0 80.0 -0.0 0.0 -0.0 0.0 140.0 80.0 140.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1778"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "North America"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1796",
-  "uuid": "http://arks.princeton.edu/ark:/88435/9g54xm170",
-  "dc_description_s": "A plan of the city and harbour of Macao a colony of the Portugueze, situated at the southern extremity of the Chinese Empire in lat. 22 \u00b012\u02b944\u02ba N., long. 113\u00b035\u02b90\u02ba east of Greenwich /",
-  "georss_box_s": "22.1091111 113.5277455 22.2170199 113.5997333",
+  "dc_description_s": "A plan of the city and harbour of Macao a colony of the Portugueze, situated at the southern extremity of the Chinese Empire in lat. 22 °12ʹ44ʺ N., long. 113°35ʹ0ʺ east of Greenwich /",
   "layer_modified_dt": "2015-01-21T22:24:25Z",
   "dc_creator_sm": [
     "Nicol, G.",
@@ -12,11 +10,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "9g54xm170",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "A plan of the city and harbour of Macao a colony of the Portugueze, situated at the southern extremity of the Chinese Empire in lat. 22 \u00b012\u02b944\u02ba N., long. 113\u00b035\u02b90\u02ba east of Greenwich /",
+  "dc_title_s": "A plan of the city and harbour of Macao a colony of the Portugueze, situated at the southern extremity of the Chinese Empire in lat. 22 °12ʹ44ʺ N., long. 113°35ʹ0ʺ east of Greenwich /",
   "layer_slug_s": "princeton-9g54xm170",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/9g54xm170/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/9g/54/xm/17/0/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "22.2170199 113.5277455 22.2170199 113.5997333 22.1091111 113.5997333 22.1091111 113.5277455 22.2170199 113.5277455",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1796"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Macau (China)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

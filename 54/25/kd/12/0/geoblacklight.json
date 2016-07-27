@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1859",
-  "uuid": "http://arks.princeton.edu/ark:/88435/5425kd120",
   "dc_description_s": "A description of the Towne of Mannados or New Amsterdam : as it was in September 1661, lying in latitude 40 de: and 40 m:, anno Domini 1664",
-  "georss_box_s": "40.7702778 -73.9797222 40.8102778 -73.9397222",
   "layer_modified_dt": "2015-01-25T02:06:11Z",
   "dc_creator_sm": [
     "Fox, N. B.,",
@@ -17,12 +15,14 @@
   "layer_slug_s": "princeton-5425kd120",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/5425kd120/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/54/25/kd/12/0/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.8102778 -73.9797222 40.8102778 -73.9397222 40.7702778 -73.9397222 40.7702778 -73.9797222 40.8102778 -73.9797222",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1859"
   ],
   "solr_geom": "ENVELOPE(-73.9797222, -73.9397222, 40.8102778, 40.7702778)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

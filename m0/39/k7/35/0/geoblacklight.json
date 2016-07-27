@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1912",
-  "uuid": "http://arks.princeton.edu/ark:/88435/m039k7350",
   "dc_description_s": "The Rand-McNally new library atlas map of Colombia and Venezuela",
-  "georss_box_s": "-4.2316871 -82.0000001 16.1219145 -66.8511906",
   "layer_modified_dt": "2015-01-21T22:24:05Z",
   "layer_id_s": "m039k7350",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-m039k7350",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/m039k7350/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/m0/39/k7/35/0/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "16.1219145 -82.0000001 16.1219145 -66.8511906 -4.2316871 -66.8511906 -4.2316871 -82.0000001 16.1219145 -82.0000001",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1912"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Colombia",
     "Venezuela"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

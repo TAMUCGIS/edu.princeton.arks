@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1769",
-  "uuid": "http://arks.princeton.edu/ark:/88435/cj82k973h",
   "dc_description_s": "Landkaart van de volkplantingen Suriname en Berbice",
-  "georss_box_s": "5.6616198 -55.3371974 5.9816198 -55.0171974",
   "layer_modified_dt": "2015-01-21T22:24:07Z",
   "dc_creator_sm": [
     "Tirion, Isaak."
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-cj82k973h",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/cj82k973h/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/cj/82/k9/73/h/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "5.9816198 -55.3371974 5.9816198 -55.0171974 5.6616198 -55.0171974 5.6616198 -55.3371974 5.9816198 -55.3371974",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1769"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "Paramaribo (Suriname)",
     "Suriname"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

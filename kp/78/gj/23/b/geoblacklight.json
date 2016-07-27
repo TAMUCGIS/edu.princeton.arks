@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1692",
-  "uuid": "http://arks.princeton.edu/ark:/88435/kp78gj23b",
   "dc_description_s": "Acamantis insula, hoggidi Cipro : posseduta dalla Republica Veneta sin' all' anno 1571",
-  "georss_box_s": "34.632303 32.2687076 35.7072 34.6045",
   "layer_modified_dt": "2015-01-21T22:23:46Z",
   "dc_creator_sm": [
     "Coronelli, Vincenzo,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-kp78gj23b",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/kp78gj23b/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/kp/78/gj/23/b/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "35.7072 32.2687076 35.7072 34.6045 34.632303 34.6045 34.632303 32.2687076 35.7072 32.2687076",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1692"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Cyprus"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

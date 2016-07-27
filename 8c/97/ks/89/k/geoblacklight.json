@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1575",
-  "uuid": "http://arks.princeton.edu/ark:/88435/8c97ks89k",
   "dc_description_s": "Hierosolyma urbs sancta : Judeae totius que orientis longe clarissima qua amplitudine ac magnificentia hoc nostro aevo conspicua est",
-  "georss_box_s": "31.7087672 35.0854203 31.8826765 35.2630682",
   "layer_modified_dt": "2015-01-25T02:06:14Z",
   "dc_creator_sm": [
     "Braun, Georg,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-8c97ks89k",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/8c97ks89k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/8c/97/ks/89/k/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "31.8826765 35.0854203 31.8826765 35.2630682 31.7087672 35.2630682 31.7087672 35.0854203 31.8826765 35.0854203",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1575"
@@ -26,5 +23,6 @@
   "dct_spatial_sm": [
     "Jerusalem",
     "Palestine"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

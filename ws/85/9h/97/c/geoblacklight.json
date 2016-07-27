@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1897",
-  "uuid": "http://arks.princeton.edu/ark:/88435/ws859h97c",
   "dc_description_s": "Millroy's map of Alaska and the Klondyke gold fields",
-  "georss_box_s": "52.0 -176.0 72.0 -120.0",
   "layer_modified_dt": "2015-01-23T17:48:34Z",
   "layer_id_s": "ws859h97c",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-ws859h97c",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/ws859h97c/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ws/85/9h/97/c/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "72.0 -176.0 72.0 -120.0 52.0 -120.0 52.0 -176.0 72.0 -176.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1897"
@@ -23,5 +20,6 @@
     "Alaska",
     "Yukon",
     "Klondike River Valley (Yukon)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

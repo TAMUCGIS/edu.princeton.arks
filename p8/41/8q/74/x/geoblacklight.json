@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1849",
-  "uuid": "http://arks.princeton.edu/ark:/88435/p8418q74x",
   "dc_description_s": "Huntington Bay",
-  "georss_box_s": "40.892098 -73.4344639 40.914256 -73.3881389",
   "layer_modified_dt": "2015-01-21T22:24:28Z",
   "dc_creator_sm": [
     "Hassler, F. R.",
@@ -22,12 +20,14 @@
   "layer_slug_s": "princeton-p8418q74x",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/p8418q74x/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/p8/41/8q/74/x/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.914256 -73.4344639 40.914256 -73.3881389 40.892098 -73.3881389 40.892098 -73.4344639 40.914256 -73.4344639",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1849"
   ],
   "solr_geom": "ENVELOPE(-73.4344639, -73.3881389, 40.914256, 40.892098)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

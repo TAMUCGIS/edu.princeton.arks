@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1777",
-  "uuid": "http://arks.princeton.edu/ark:/88435/zg64tn72f",
   "dc_description_s": "The Province of New Jersey, divided into east and west, commonly called the Jerseys.",
-  "georss_box_s": "38.76667 -76.15000 41.50000 -73.75000",
   "layer_modified_dt": "2015-01-23T17:48:33Z",
   "dc_creator_sm": [
     "Faden, William.",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-zg64tn72f",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/zg64tn72f/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/zg/64/tn/72/f/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "41.50000 -76.15000 41.50000 -73.75000 38.76667 -73.75000 38.76667 -76.15000 41.50000 -76.15000",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1777"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "New Jersey"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

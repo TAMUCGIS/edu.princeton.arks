@@ -1,8 +1,6 @@
 {
   "layer_modified_dt": "2014-12-19T16:18:33Z",
-  "uuid": "http://arks.princeton.edu/ark:/88435/p5547s91b",
   "dc_description_s": "Points representing shops in Cairo.",
-  "georss_box_s": "29.847021 30.917479 30.193641 31.655652",
   "layer_slug_s": "princeton-p5547s91b",
   "dct_spatial_sm": [
     "Egypt",
@@ -12,7 +10,6 @@
     "Globe Telecom"
   ],
   "layer_id_s": "pulmap-restricted:p5547s91b",
-  "georss_polygon_s": "30.193641 30.917479 30.193641 31.655652 29.847021 31.655652 29.847021 30.917479 30.193641 30.917479",
   "dc_type_s": "Dataset",
   "dc_identifier_s": "p5547s91b",
   "dct_provenance_s": "Princeton",
@@ -27,5 +24,6 @@
   "layer_geom_type_s": "Point",
   "solr_geom": "ENVELOPE(30.917479, 31.655652, 30.193641, 29.847021)",
   "dc_rights_s": "Restricted",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(2.2397, 2.3195, 41.6513, 41.5753)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/3f4627056\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/3f4627056/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/3f4627056",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Alpina",
   "dc_type_s": "Image",
   "dc_identifier_s": "3f4627056",
-  "georss_polygon_s": "41.6513 2.2397 41.6513 2.3195 41.5753 2.3195 41.5753 2.2397 41.6513 2.2397",
   "dc_publisher_s": "Alpina",
   "solr_year_i": "1947",
   "dct_spatial_sm": [
@@ -28,9 +26,9 @@
     "Comunidad Autonoma de Cataluna"
   ],
   "layer_id_s": "3f4627056",
-  "georss_box_s": "41.5753 2.2397 41.6513 2.3195",
   "dc_title_s": "Ciudad de Granollers",
   "layer_slug_s": "princeton-3f4627056",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

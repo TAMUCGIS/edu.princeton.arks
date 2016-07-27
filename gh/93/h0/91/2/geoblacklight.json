@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(77.98334, 78.05, 27.2, 27.15)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/gh93h0912\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/gh93h0912/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/gh93h0912",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
@@ -21,7 +20,6 @@
   "dc_creator_sm": "Newell, Herbert Andrews",
   "dc_type_s": "Image",
   "dc_identifier_s": "gh93h0912",
-  "georss_polygon_s": "27.2 77.98334 27.2 78.05 27.15 78.05 27.15 77.98334 27.2 77.98334",
   "dc_publisher_s": "Harrison & Sons",
   "solr_year_i": "1920",
   "dct_spatial_sm": [
@@ -31,9 +29,9 @@
     "MAX  G7654.A2.1920.H3"
   ],
   "layer_id_s": "gh93h0912",
-  "georss_box_s": "27.15 77.98334 27.2 78.05",
   "dc_title_s": "Map of Agra City and cantonments",
   "layer_slug_s": "princeton-gh93h0912",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

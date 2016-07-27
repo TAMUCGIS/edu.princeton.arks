@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1902",
-  "uuid": "http://arks.princeton.edu/ark:/88435/h128ng59c",
-  "dc_description_s": "Karte von Kleinasien meist nach noch nicht oder in kleinstem Massstabe vero\u0308ffentlichen Aufnahmen",
-  "georss_box_s": "35.8076804 25.6212891 42.297 44.8176638",
+  "dc_description_s": "Karte von Kleinasien meist nach noch nicht oder in kleinstem Massstabe veröffentlichen Aufnahmen",
   "layer_modified_dt": "2015-01-25T02:06:09Z",
   "dc_creator_sm": [
     "Clarke, Dumont,"
@@ -11,11 +9,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "h128ng59c",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Karte von Kleinasien meist nach noch nicht oder in kleinstem Massstabe vero\u0308ffentlichen Aufnahmen",
+  "dc_title_s": "Karte von Kleinasien meist nach noch nicht oder in kleinstem Massstabe veröffentlichen Aufnahmen",
   "layer_slug_s": "princeton-h128ng59c",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/h128ng59c/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/h1/28/ng/59/c/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "42.297 25.6212891 42.297 44.8176638 35.8076804 44.8176638 35.8076804 25.6212891 42.297 25.6212891",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1902"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Turkey"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

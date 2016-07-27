@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(2.0104, 2.2769, 41.4812, 41.2766)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/h702q809c\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/h702q809c/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/h702q809c",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Libreria Calderon",
   "dc_type_s": "Image",
   "dc_identifier_s": "h702q809c",
-  "georss_polygon_s": "41.4812 2.0104 41.4812 2.2769 41.2766 2.2769 41.2766 2.0104 41.4812 2.0104",
   "dc_publisher_s": "Libreria Calderon",
   "solr_year_i": "1956",
   "dct_spatial_sm": [
@@ -28,9 +26,9 @@
     "Comunidad Autonoma de Cataluna"
   ],
   "layer_id_s": "h702q809c",
-  "georss_box_s": "41.2766 2.0104 41.4812 2.2769",
   "dc_title_s": "Map of Barcelona Showing Monuments and Lines of Communications",
   "layer_slug_s": "princeton-h702q809c",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

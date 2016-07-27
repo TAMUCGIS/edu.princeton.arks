@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(122.700, 122.7333, 11.6167, 11.5833)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/rn301291q/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/rn/30/12/91/q/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/rn301291q/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/rn301291q",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
@@ -23,7 +22,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "rn301291q",
-  "georss_polygon_s": "11.6167 122.700 11.6167 122.7333 11.5833 122.7333 11.5833 122.700 11.6167 122.700",
   "dc_publisher_s": "Army Map Service",
   "solr_year_i": "1944",
   "dct_spatial_sm": [
@@ -32,9 +30,9 @@
     "Philippines"
   ],
   "layer_id_s": "rn301291q",
-  "georss_box_s": "11.5833 122.700 11.6167 122.7333",
   "dc_title_s": "Capiz, Philippine Islands, Capiz Province. A.M.S. S901.",
   "dct_issued_s": "1944",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

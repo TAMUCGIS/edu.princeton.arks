@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(15.471857, 16.032888, -15.951544, -16.662907)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/h989r4748\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/h989r4748/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/h989r4748",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Topographic maps",
@@ -15,7 +14,6 @@
   "dc_creator_sm": "Instituto de Geodesia e Cartografia de Angola",
   "dc_type_s": "Image",
   "dc_identifier_s": "h989r4748",
-  "georss_polygon_s": "-15.951544 15.471857 -15.951544 16.032888 -16.662907 16.032888 -16.662907 15.471857 -15.951544 15.471857",
   "dc_publisher_s": "Instituto de Geodesia e Cartografia de Angola",
   "solr_year_i": "1982",
   "dct_spatial_sm": [
@@ -24,9 +22,9 @@
     "Angola"
   ],
   "layer_id_s": "h989r4748",
-  "georss_box_s": "-16.662907 15.471857 -15.951544 16.032888",
   "dc_title_s": "Republica Popular de Angola. Folha No.402 : Mupa",
   "layer_slug_s": "princeton-h989r4748",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

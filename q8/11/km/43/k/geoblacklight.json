@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1964",
-  "uuid": "http://arks.princeton.edu/ark:/88435/q811km43k",
   "dc_description_s": "Carte geologique detaillee de la France [a 1/80 000]: Boulogne-Calais.",
-  "georss_box_s": "50.57660 1.26620 51.03540 1.88170",
   "layer_modified_dt": "2015-01-19T22:36:36Z",
   "dc_creator_sm": [
     "Goguel, Jean"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-q811km43k",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/q811km43k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/q8/11/km/43/k/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.03540 1.26620 51.03540 1.88170 50.57660 1.88170 50.57660 1.26620 51.03540 1.26620",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1964"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "France"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(50.2833, 50.833, 26.3, 25.7833)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/ht24wk94m/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ht/24/wk/94/m/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/ht24wk94m/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/ht24wk94m",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
@@ -20,7 +19,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "ht24wk94m",
-  "georss_polygon_s": "26.3 50.2833 26.3 50.833 25.7833 50.833 25.7833 50.2833 26.3 50.2833",
   "dc_publisher_s": "Central Intelligence Agency",
   "solr_year_i": "1991",
   "dct_spatial_sm": [
@@ -28,9 +26,9 @@
     "Middle East"
   ],
   "layer_id_s": "ht24wk94m",
-  "georss_box_s": "25.7833 50.2833 26.3 50.833",
   "dc_title_s": "Bahrain, 1991",
   "dct_issued_s": "1991",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

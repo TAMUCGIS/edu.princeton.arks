@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1895",
-  "uuid": "http://arks.princeton.edu/ark:/88435/h989r5666",
-  "dc_description_s": "Carte de l'E\u0301lam : Kourdista\u0302n (pars), Lourista\u0302n, Khouzista\u0302n ou Arabista\u0302n, \u02bbIrak-\u02bbArabi (pars), \u02bbIra\u0302n (pars)",
-  "georss_box_s": "33.4779365 46.2602743 33.7979365 46.5802743",
+  "dc_description_s": "Carte de l'Élam : Kourdistân (pars), Louristân, Khouzistân ou Arabistân, ʻIrak-ʻArabi (pars), ʻIrân (pars)",
   "layer_modified_dt": "2015-01-21T22:24:11Z",
   "dc_creator_sm": [
     "Kiepert, Heinrich,",
@@ -13,11 +11,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "h989r5666",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Carte de l'E\u0301lam : Kourdista\u0302n (pars), Lourista\u0302n, Khouzista\u0302n ou Arabista\u0302n, \u02bbIrak-\u02bbArabi (pars), \u02bbIra\u0302n (pars)",
+  "dc_title_s": "Carte de l'Élam : Kourdistân (pars), Louristân, Khouzistân ou Arabistân, ʻIrak-ʻArabi (pars), ʻIrân (pars)",
   "layer_slug_s": "princeton-h989r5666",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/h989r5666/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/h9/89/r5/66/6/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "33.7979365 46.2602743 33.7979365 46.5802743 33.4779365 46.5802743 33.4779365 46.2602743 33.7979365 46.2602743",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1895"
@@ -25,7 +22,8 @@
   "solr_geom": "ENVELOPE(46.2602743, 46.5802743, 33.7979365, 33.4779365)",
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
-    "I\u0304la\u0304m (Iran)",
-    "Kurdista\u0304n (Iran : Province)"
-  ]
+    "Īlām (Iran)",
+    "Kurdistān (Iran : Province)"
+  ],
+  "geoblacklight_version": "1.0"
 }

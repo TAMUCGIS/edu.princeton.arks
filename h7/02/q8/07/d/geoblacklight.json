@@ -1,10 +1,9 @@
 {
-  "dc_description_s": "This is a city map of Szeged, Hungary shown at an unknown scale. This city map was created by \u00c1llami F\u00f6ldm\u00e9r\u00e9si \u00e9s T\u00e9rk\u00e9p\u00e9szeti Hivatal Kartogr\u00e1fiai V\u00e1llalat.",
+  "dc_description_s": "This is a city map of Szeged, Hungary shown at an unknown scale. This city map was created by Állami Földmérési és Térképészeti Hivatal Kartográfiai Vállalat.",
   "layer_modified_dt": "2015-01-11T18:25:13Z",
   "solr_geom": "ENVELOPE(20.0635, 20.2254, 46.319, 46.1873)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/h702q807d\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/h702q807d/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/h702q807d",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -15,20 +14,19 @@
   ],
   "dc_format_s": "Scanned Map",
   "dct_issued_s": "1961",
-  "dc_creator_sm": "\u00c1llami F\u00f6ldm\u00e9r\u00e9si \u00e9s T\u00e9rk\u00e9p\u00e9szeti Hivatal Kartogr\u00e1fiai V\u00e1llalat",
+  "dc_creator_sm": "Állami Földmérési és Térképészeti Hivatal Kartográfiai Vállalat",
   "dc_type_s": "Image",
   "dc_identifier_s": "h702q807d",
-  "georss_polygon_s": "46.319 20.0635 46.319 20.2254 46.1873 20.2254 46.1873 20.0635 46.319 20.0635",
-  "dc_publisher_s": "\u00c1llami F\u00f6ldm\u00e9r\u00e9si \u00e9s T\u00e9rk\u00e9p\u00e9szeti Hivatal Kartogr\u00e1fiai V\u00e1llalat",
+  "dc_publisher_s": "Állami Földmérési és Térképészeti Hivatal Kartográfiai Vállalat",
   "solr_year_i": "1961",
   "dct_spatial_sm": [
     "Szeged",
     "Hungary"
   ],
   "layer_id_s": "h702q807d",
-  "georss_box_s": "46.1873 20.0635 46.319 20.2254",
-  "dc_title_s": "Szeged,  megyei jog\u00fa v\u00e1ros",
+  "dc_title_s": "Szeged,  megyei jogú város",
   "layer_slug_s": "princeton-h702q807d",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

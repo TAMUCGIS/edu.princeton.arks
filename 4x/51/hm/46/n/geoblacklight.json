@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1671",
-  "uuid": "http://arks.princeton.edu/ark:/88435/4x51hm46n",
   "dc_description_s": "Paraquaria vulgo Paraguay : cum adjacentibus",
-  "georss_box_s": "-27.6012696 -62.6442035 -19.2876463 -54.2579999",
   "layer_modified_dt": "2015-01-21T22:24:05Z",
   "dc_creator_sm": [
     "Ogilby, John,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-4x51hm46n",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/4x51hm46n/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/4x/51/hm/46/n/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "-19.2876463 -62.6442035 -19.2876463 -54.2579999 -27.6012696 -54.2579999 -27.6012696 -62.6442035 -19.2876463 -62.6442035",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1671"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Paraguay"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

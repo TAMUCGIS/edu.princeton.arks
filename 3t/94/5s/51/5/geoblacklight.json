@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(11.7512, 13.2906, 42.2909, 41.4274)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/3t945s515\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/3t945s515/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/3t945s515",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Istituto Geografico Visceglia for Prima's Department Store",
   "dc_type_s": "Image",
   "dc_identifier_s": "3t945s515",
-  "georss_polygon_s": "42.2909 11.7512 42.2909 13.2906 41.4274 13.2906 41.4274 11.7512 42.2909 11.7512",
   "dc_publisher_s": "Istituto Geografico Visceglia for Prima's Department Store",
   "dct_spatial_sm": [
     "Rome",
@@ -28,9 +26,9 @@
     "Roma Prov."
   ],
   "layer_id_s": "3t945s515",
-  "georss_box_s": "41.4274 11.7512 42.2909 13.2906",
   "dc_title_s": "Prima's Map of Rome",
   "layer_slug_s": "princeton-3t945s515",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

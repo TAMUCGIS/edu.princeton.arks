@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1913",
-  "uuid": "http://arks.princeton.edu/ark:/88435/8k71nk580",
   "dc_description_s": "Makedonien, Altserbien und Albanien",
-  "georss_box_s": "39.6448625 19.1246095 42.6611669 21.0574335",
   "layer_modified_dt": "2015-01-25T02:06:16Z",
   "layer_id_s": "8k71nk580",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-8k71nk580",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/8k71nk580/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/8k/71/nk/58/0/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "42.6611669 19.1246095 42.6611669 21.0574335 39.6448625 21.0574335 39.6448625 19.1246095 42.6611669 19.1246095",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1913"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Albania",
     "Balkan Peninsula"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

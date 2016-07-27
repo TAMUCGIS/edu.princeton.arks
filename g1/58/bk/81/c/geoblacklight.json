@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1908",
-  "uuid": "http://arks.princeton.edu/ark:/88435/g158bk81c",
   "dc_description_s": "Nagato Strait western entrance to the Inland-Sea, Japan.",
-  "georss_box_s": "20.2145811 122.7154546 45.7053097 154.205541",
   "layer_modified_dt": "2015-01-21T22:24:25Z",
   "layer_id_s": "g158bk81c",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-g158bk81c",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/g158bk81c/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/g1/58/bk/81/c/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "45.7053097 122.7154546 45.7053097 154.205541 20.2145811 154.205541 20.2145811 122.7154546 45.7053097 122.7154546",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1908"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Japan"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

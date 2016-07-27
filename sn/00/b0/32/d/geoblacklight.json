@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(40.554921, 46.967349, 37.337791, 29.078560)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/sn00b032d\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/sn00b032d/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/sn00b032d",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Oil",
@@ -19,16 +18,15 @@
   "dc_creator_sm": "Iraq Ministry of Oil",
   "dc_type_s": "Image",
   "dc_identifier_s": "sn00b032d",
-  "georss_polygon_s": "37.337791 40.554921 37.337791 46.967349 29.078560 46.967349 29.078560 40.554921 37.337791 40.554921",
   "dc_publisher_s": "ESOC Group",
   "dct_spatial_sm": [
     "Iraq",
     "Middle East"
   ],
   "layer_id_s": "sn00b032d",
-  "georss_box_s": "29.078560 40.554921 37.337791 46.967349",
   "dc_title_s": "Oil and Gas Prospects",
   "layer_slug_s": "princeton-sn00b032d",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

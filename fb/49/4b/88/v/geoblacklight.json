@@ -1,7 +1,5 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/fb494b88v",
   "dc_description_s": "Persici sive Sophorum regni typus",
-  "georss_box_s": "29.388333 60.503889 38.4899217 74.889862",
   "layer_modified_dt": "2015-01-21T22:24:11Z",
   "dc_creator_sm": [
     "Ortelius, Abraham,",
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-fb494b88v",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/fb494b88v/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/fb/49/4b/88/v/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "38.4899217 60.503889 38.4899217 74.889862 29.388333 74.889862 29.388333 60.503889 38.4899217 60.503889",
   "layer_geom_type_s": "Image",
   "solr_geom": "ENVELOPE(60.503889, 74.889862, 38.4899217, 29.388333)",
   "dc_rights_s": "Public",
@@ -23,5 +20,6 @@
     "Afghanistan",
     "Iran",
     "Pakistan"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

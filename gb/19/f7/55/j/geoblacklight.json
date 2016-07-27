@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(10.4867, 10.9358, 60.1589, 59.8108)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/gb19f755j\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/gb19f755j/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/gb19f755j",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -19,7 +18,6 @@
   "dc_creator_sm": "J.W. Cappelens forlag",
   "dc_type_s": "Image",
   "dc_identifier_s": "gb19f755j",
-  "georss_polygon_s": "60.1589 10.4867 60.1589 10.9358 59.8108 10.9358 59.8108 10.4867 60.1589 10.4867",
   "dc_publisher_s": "J.W. Cappelens forlag",
   "solr_year_i": "1971",
   "dct_spatial_sm": [
@@ -27,9 +25,9 @@
     "Norway"
   ],
   "layer_id_s": "gb19f755j",
-  "georss_box_s": "59.8108 10.4867 60.1589 10.9358",
   "dc_title_s": "Cappelens bykart 60: Stor-Oslo og indre by-tourist map",
   "layer_slug_s": "princeton-gb19f755j",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

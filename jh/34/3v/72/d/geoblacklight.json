@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1864",
-  "uuid": "http://arks.princeton.edu/ark:/88435/jh343v72d",
   "dc_description_s": "Maps shewing the residence of Thomas Paine before, and at his death, 8th June 1809, at Greenwich in the City of New York : and also the house where he lived and the site of the building in which he died",
-  "georss_box_s": "40.7702778 -73.9797222 40.8102778 -73.9397222",
   "layer_modified_dt": "2015-01-21T22:24:03Z",
   "dc_creator_sm": [
     "Valentine, D. T."
@@ -15,12 +13,14 @@
   "layer_slug_s": "princeton-jh343v72d",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/jh343v72d/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/jh/34/3v/72/d/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.8102778 -73.9797222 40.8102778 -73.9397222 40.7702778 -73.9397222 40.7702778 -73.9797222 40.8102778 -73.9797222",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1864"
   ],
   "solr_geom": "ENVELOPE(-73.9797222, -73.9397222, 40.8102778, 40.7702778)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

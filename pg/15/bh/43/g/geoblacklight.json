@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1856",
-  "uuid": "http://arks.princeton.edu/ark:/88435/pg15bh43g",
   "dc_description_s": "Griechenland und die Jonischen Inseln",
-  "georss_box_s": "34.7006096 19.2477876 41.7488862 29.7296986",
   "layer_modified_dt": "2015-01-25T02:06:23Z",
   "dc_creator_sm": [
     "Winckelmann, Eduard,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-pg15bh43g",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/pg15bh43g/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/pg/15/bh/43/g/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "41.7488862 19.2477876 41.7488862 29.7296986 34.7006096 29.7296986 34.7006096 19.2477876 41.7488862 19.2477876",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1856"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "Greece",
     "Ionian Islands (Greece)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

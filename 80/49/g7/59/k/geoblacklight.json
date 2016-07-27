@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1808",
-  "uuid": "http://arks.princeton.edu/ark:/88435/8049g759k",
   "dc_description_s": "Castellammare e suoi dintorni",
-  "georss_box_s": "39.9906023 13.7623051 41.5073731 15.8064455",
   "layer_modified_dt": "2015-01-25T02:06:21Z",
   "layer_id_s": "8049g759k",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-8049g759k",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/8049g759k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/80/49/g7/59/k/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "41.5073731 13.7623051 41.5073731 15.8064455 39.9906023 15.8064455 39.9906023 13.7623051 41.5073731 13.7623051",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1808"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Campania (Italy)",
     "Castellammare di Stabia (Italy)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

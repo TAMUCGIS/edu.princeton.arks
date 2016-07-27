@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1872",
-  "uuid": "http://arks.princeton.edu/ark:/88435/t722hb65g",
   "dc_description_s": "Africa septentrionalis",
-  "georss_box_s": "3.4889804 -17.4573 37.5359 38.6938",
   "layer_modified_dt": "2015-01-21T22:23:45Z",
   "dc_creator_sm": [
     "Smith, William,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-t722hb65g",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/t722hb65g/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/t7/22/hb/65/g/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "37.5359 -17.4573 37.5359 38.6938 3.4889804 38.6938 3.4889804 -17.4573 37.5359 -17.4573",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1872"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Africa, North"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

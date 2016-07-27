@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(16.84, 16.88, 41.15, 41.12)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/qr46r240x\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/qr46r240x/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/qr46r240x",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Great Britain War Office, General Staff, Geographical Section",
   "dc_type_s": "Image",
   "dc_identifier_s": "qr46r240x",
-  "georss_polygon_s": "41.15 16.84 41.15 16.88 41.12 16.88 41.12 16.84 41.15 16.84",
   "dc_publisher_s": "Great Britain War Office, General Staff, Geographical Section",
   "solr_year_i": "1943",
   "dct_spatial_sm": [
@@ -27,9 +25,9 @@
     "Port of Bari"
   ],
   "layer_id_s": "qr46r240x",
-  "georss_box_s": "41.12 16.84 41.15 16.88",
   "dc_title_s": "Bari",
   "layer_slug_s": "princeton-qr46r240x",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

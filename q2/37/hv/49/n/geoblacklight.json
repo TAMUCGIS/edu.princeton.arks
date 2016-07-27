@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1857",
-  "uuid": "http://arks.princeton.edu/ark:/88435/q237hv49n",
   "dc_description_s": "Viaggio ai tre laghi",
-  "georss_box_s": "42.6792426623 6.6267201 47.092 18.5205015",
   "layer_modified_dt": "2015-01-25T02:06:22Z",
   "layer_id_s": "q237hv49n",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-q237hv49n",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/q237hv49n/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/q2/37/hv/49/n/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "47.092 6.6267201 47.092 18.5205015 42.6792426623 18.5205015 42.6792426623 6.6267201 47.092 6.6267201",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1857"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Italy, Northern",
     "Lombardy (Italy)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

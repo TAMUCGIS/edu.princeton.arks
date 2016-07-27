@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1875",
-  "uuid": "http://arks.princeton.edu/ark:/88435/fn107147f",
   "dc_description_s": "China and Japan",
-  "georss_box_s": "18.0 96.0 46.0 144.0",
   "layer_modified_dt": "2015-01-19T22:37:38Z",
   "dc_creator_sm": [
     "Johnston, Alexander Keith,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-fn107147f",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/fn107147f/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/fn/10/71/47/f/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "46.0 96.0 46.0 144.0 18.0 144.0 18.0 96.0 46.0 96.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1875"
@@ -26,5 +23,6 @@
   "dct_spatial_sm": [
     "China",
     "Japan"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

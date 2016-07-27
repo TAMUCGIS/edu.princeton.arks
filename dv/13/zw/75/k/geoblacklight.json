@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1854",
-  "uuid": "http://arks.princeton.edu/ark:/88435/dv13zw75k",
   "dc_description_s": "Physical map of the Crimea, with enlarged maps of the seat of war, and views of Sebastopol & Balaklava, from the best authorities",
-  "georss_box_s": "44.3864399 32.4792759 46.229161 36.6467392",
   "layer_modified_dt": "2015-01-21T22:24:29Z",
   "layer_id_s": "dv13zw75k",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-dv13zw75k",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/dv13zw75k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/dv/13/zw/75/k/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "46.229161 32.4792759 46.229161 36.6467392 44.3864399 36.6467392 44.3864399 32.4792759 46.229161 32.4792759",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1854"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Crimea (Ukraine)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

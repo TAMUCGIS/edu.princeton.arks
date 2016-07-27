@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(8.4920, 8.5601, 49.3956, 49.3372)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/wh246t64r\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/wh246t64r/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/wh246t64r",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Stadte-Verlag",
   "dc_type_s": "Image",
   "dc_identifier_s": "wh246t64r",
-  "georss_polygon_s": "49.3956 8.4920 49.3956 8.5601 49.3372 8.5601 49.3372 8.4920 49.3956 8.4920",
   "dc_publisher_s": "Stadte-Verlag",
   "solr_year_i": "1956",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "Baden-Wuerttemberg Land"
   ],
   "layer_id_s": "wh246t64r",
-  "georss_box_s": "49.3372 8.4920 49.3956 8.5601",
   "dc_title_s": "Ortsplan Ketsch",
   "layer_slug_s": "princeton-wh246t64r",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

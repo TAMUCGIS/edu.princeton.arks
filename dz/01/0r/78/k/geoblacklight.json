@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(115.978838, 117.107044, 40.460822, 39.698997)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/dz010r78k/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/dz010r78k/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/dz010r78k/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/dz010r78k",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Utility and communication networks",
@@ -17,7 +16,6 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "dz010r78k",
-  "georss_polygon_s": "40.460822 115.978838 40.460822 117.107044 39.698997 117.107044 39.698997 115.978838 40.460822 115.978838",
   "dc_publisher_s": "LeadDog Consulting, LLC",
   "solr_year_i": "2006",
   "dct_spatial_sm": [
@@ -25,9 +23,9 @@
     "Beijing"
   ],
   "layer_id_s": "pulmap-restricted:dz010r78k",
-  "georss_box_s": "39.698997 115.978838 40.460822 117.107044",
   "dc_title_s": "Beijing Post Offices",
   "layer_slug_s": "princeton-dz010r78k",
   "layer_geom_type_s": "Point",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

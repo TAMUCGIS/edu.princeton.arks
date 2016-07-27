@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1866",
-  "uuid": "http://arks.princeton.edu/ark:/88435/6682x641s",
   "dc_description_s": "South-West Africa Map of the principal part of the Damara Land ; based on the prismatic compass triangulation checked by observed latitudes /",
-  "georss_box_s": "-23.00000 13.83333 -17.41667 19.00000",
   "layer_modified_dt": "2015-01-19T22:37:21Z",
   "dc_creator_sm": [
     "Baines, Thomas,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-6682x641s",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/6682x641s/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/66/82/x6/41/s/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "-17.41667 13.83333 -17.41667 19.00000 -23.00000 19.00000 -23.00000 13.83333 -17.41667 13.83333",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1866"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "Namibia",
     "Namibia"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

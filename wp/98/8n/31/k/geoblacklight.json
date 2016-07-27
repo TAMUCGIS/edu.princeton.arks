@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1847",
-  "uuid": "http://arks.princeton.edu/ark:/88435/wp988n31k",
   "dc_description_s": "Seat of war & battles",
-  "georss_box_s": "16.0 -115.0 32.0 -94.0",
   "layer_modified_dt": "2015-01-19T22:37:33Z",
   "layer_id_s": "wp988n31k",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-wp988n31k",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/wp988n31k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/wp/98/8n/31/k/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "32.0 -115.0 32.0 -94.0 16.0 -94.0 16.0 -115.0 32.0 -115.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1847"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Mexico"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

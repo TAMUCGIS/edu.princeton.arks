@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1694",
-  "uuid": "http://arks.princeton.edu/ark:/88435/12579v11z",
-  "dc_description_s": "Gr\u00e6ci\u00e6 antiqu\u00e6 tabula geographica",
-  "georss_box_s": "34.7006096 19.2477876 41.7488862 29.7296986",
+  "dc_description_s": "Græciæ antiquæ tabula geographica",
   "layer_modified_dt": "2015-01-21T22:23:46Z",
   "dc_creator_sm": [
     "Bertin, I.,"
@@ -11,11 +9,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "12579v11z",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Gr\u00e6ci\u00e6 antiqu\u00e6 tabula geographica",
+  "dc_title_s": "Græciæ antiquæ tabula geographica",
   "layer_slug_s": "princeton-12579v11z",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/12579v11z/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/12/57/9v/11/z/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "41.7488862 19.2477876 41.7488862 29.7296986 34.7006096 29.7296986 34.7006096 19.2477876 41.7488862 19.2477876",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1694"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Greece"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(88.300, 88.400, 22.6334, 22.48334)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/q811km09p\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/q811km09p/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/q811km09p",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "City plan",
@@ -20,7 +19,6 @@
   "dc_creator_sm": "Calcutta Improvement Trust",
   "dc_type_s": "Image",
   "dc_identifier_s": "q811km09p",
-  "georss_polygon_s": "22.6334 88.300 22.6334 88.400 22.48334 88.400 22.48334 88.300 22.6334 88.300",
   "dc_publisher_s": "Calcutta Improvement Trust",
   "solr_year_i": "1956",
   "dct_spatial_sm": [
@@ -31,9 +29,9 @@
     "MAX  G7654.C2P2.1958.C3"
   ],
   "layer_id_s": "q811km09p",
-  "georss_box_s": "22.48334 88.300 22.6334 88.400",
   "dc_title_s": "Calcutta Improvement Trust. Schemes and alignments, 1956-1957",
   "layer_slug_s": "princeton-q811km09p",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

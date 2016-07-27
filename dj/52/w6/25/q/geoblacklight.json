@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(36.814, 23.251, 32.696, 3.813)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/dj52w625q/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/dj/52/w6/25/q/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/dj52w625q/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/dj52w625q",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Administrative and political boundaries",
@@ -17,7 +16,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "dj52w625q",
-  "georss_polygon_s": "32.696 36.814 32.696 23.251 3.813 23.251 3.813 36.814 32.696 36.814",
   "dc_publisher_s": "Sanborn Map Company",
   "solr_year_i": "1603",
   "dct_spatial_sm": [
@@ -27,9 +25,9 @@
     "Nubia"
   ],
   "layer_id_s": "dj52w625q",
-  "georss_box_s": "3.813 36.814 32.696 23.251",
   "dc_title_s": "Presbiteri Iohannis, sive, Abissinorum imperii descriptio ",
   "dct_issued_s": "1603",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

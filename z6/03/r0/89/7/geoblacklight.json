@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1895",
-  "uuid": "http://arks.princeton.edu/ark:/88435/z603r0897",
   "dc_description_s": "Carte de la partie centrale du Kurdistan",
-  "georss_box_s": "35.430909 44.390333 35.470909 44.430333",
   "layer_modified_dt": "2015-01-25T02:06:14Z",
   "dc_creator_sm": [
     "Leroux, Ernest,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-z603r0897",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/z603r0897/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/z6/03/r0/89/7/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "35.470909 44.390333 35.470909 44.430333 35.430909 44.430333 35.430909 44.390333 35.470909 44.390333",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1895"
@@ -24,6 +21,7 @@
   "solr_geom": "ENVELOPE(44.390333, 44.430333, 35.470909, 35.430909)",
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
-    "Kurdista\u0304n (Iran : Province)"
-  ]
+    "Kurdistān (Iran : Province)"
+  ],
+  "geoblacklight_version": "1.0"
 }

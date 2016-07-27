@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1866",
-  "uuid": "http://arks.princeton.edu/ark:/88435/c821gm59p",
   "dc_description_s": "Cretaceous formation : including the green-sand marl beds /",
-  "georss_box_s": "39.41666 -75.70000 40.66666 -73.95000",
   "layer_modified_dt": "2015-01-23T17:48:33Z",
   "dc_creator_sm": [
     "Smock, John C.",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-c821gm59p",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/c821gm59p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/c8/21/gm/59/p/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.66666 -75.70000 40.66666 -73.95000 39.41666 -73.95000 39.41666 -75.70000 40.66666 -75.70000",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1866"
@@ -26,5 +23,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "New Jersey"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

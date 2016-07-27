@@ -1,18 +1,15 @@
 {
   "solr_year_i": "1898",
-  "uuid": "http://arks.princeton.edu/ark:/88435/th83m186p",
-  "dc_description_s": "Go\u0308ttingen",
-  "georss_box_s": "51.4830119 9.8002642 51.5909972 10.0539056",
+  "dc_description_s": "Göttingen",
   "layer_modified_dt": "2015-01-21T22:24:28Z",
   "layer_id_s": "th83m186p",
   "dc_type_s": "Image",
   "dc_identifier_s": "th83m186p",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Go\u0308ttingen",
+  "dc_title_s": "Göttingen",
   "layer_slug_s": "princeton-th83m186p",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/th83m186p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/th/83/m1/86/p/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.5909972 9.8002642 51.5909972 10.0539056 51.4830119 10.0539056 51.4830119 9.8002642 51.5909972 9.8002642",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1898"
@@ -20,7 +17,8 @@
   "solr_geom": "ENVELOPE(9.8002642, 10.0539056, 51.5909972, 51.4830119)",
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
-    "Go\u0308ttingen (Germany)",
+    "Göttingen (Germany)",
     "Lower Saxony (Germany)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

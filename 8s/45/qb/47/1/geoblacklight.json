@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(12.346666, 18.158472, 50.794418, 48.620888)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/8s45qb471/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/8s45qb471/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/8s45qb471/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/8s45qb471",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Cities",
@@ -21,16 +20,15 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "8s45qb471",
-  "georss_polygon_s": "50.794418 12.346666 50.794418 18.158472 48.620888 18.158472 48.620888 12.346666 50.794418 12.346666",
   "dc_publisher_s": "Gfk MACON Company",
   "solr_year_i": "2006",
   "dct_spatial_sm": [
     "Czech Republic"
   ],
   "layer_id_s": "pulmap-restricted:8s45qb471",
-  "georss_box_s": "48.620888 12.346666 50.794418 18.158472",
   "dc_title_s": "Czech Republic Cities With Population 5 Thousand and More, 2005",
   "layer_slug_s": "princeton-8s45qb471",
   "layer_geom_type_s": "Point",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

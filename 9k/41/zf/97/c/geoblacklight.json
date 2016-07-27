@@ -1,8 +1,6 @@
 {
   "layer_modified_dt": "2014-12-19T16:18:35Z",
-  "uuid": "http://arks.princeton.edu/ark:/88435/9k41zf97c",
   "dc_description_s": "Points representing ATMs in Cairo.",
-  "georss_box_s": "29.765688 30.879807 30.200130 31.732999",
   "layer_slug_s": "princeton-9k41zf97c",
   "dct_spatial_sm": [
     "Egypt",
@@ -12,7 +10,6 @@
     "Globe Telecom"
   ],
   "layer_id_s": "pulmap-restricted:9k41zf97c",
-  "georss_polygon_s": "30.200130 30.879807 30.200130 31.732999 29.765688 31.732999 29.765688 30.879807 30.200130 30.879807",
   "dc_type_s": "Dataset",
   "dc_identifier_s": "9k41zf97c",
   "dct_provenance_s": "Princeton",
@@ -28,5 +25,6 @@
   "layer_geom_type_s": "Point",
   "solr_geom": "ENVELOPE(30.879807, 31.732999, 30.200130, 29.765688)",
   "dc_rights_s": "Restricted",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

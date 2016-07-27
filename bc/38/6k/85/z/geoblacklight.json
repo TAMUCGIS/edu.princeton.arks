@@ -1,8 +1,6 @@
 {
   "layer_modified_dt": "2014-12-19T16:18:35Z",
-  "uuid": "http://arks.princeton.edu/ark:/88435/bc386k85z",
   "dc_description_s": "Polylines representing metro lines in Cairo.",
-  "georss_box_s": "29.849168 31.197193 30.163696 31.338286",
   "layer_slug_s": "princeton-bc386k85z",
   "dct_spatial_sm": [
     "Egypt",
@@ -12,7 +10,6 @@
     "Globe Telecom"
   ],
   "layer_id_s": "pulmap-restricted:bc386k85z",
-  "georss_polygon_s": "30.163696 31.197193 30.163696 31.338286 29.849168 31.338286 29.849168 31.197193 30.163696 31.197193",
   "dc_type_s": "Dataset",
   "dc_identifier_s": "bc386k85z",
   "dct_provenance_s": "Princeton",
@@ -34,5 +31,6 @@
   "layer_geom_type_s": "Line",
   "solr_geom": "ENVELOPE(31.197193, 31.338286, 30.163696, 29.849168)",
   "dc_rights_s": "Restricted",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

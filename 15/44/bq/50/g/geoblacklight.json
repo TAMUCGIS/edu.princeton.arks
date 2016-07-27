@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-99.359457, -98.828100, 19.861811, 19.164689)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/1544bq50g/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/1544bq50g/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/1544bq50g/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/1544bq50g",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Transportation networks",
@@ -18,7 +17,6 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "1544bq50g",
-  "georss_polygon_s": "19.861811 -99.359457 19.861811 -98.828100 19.164689 -98.828100 19.164689 -99.359457 19.861811 -99.359457",
   "dc_publisher_s": "LeadDog Consulting, LLC",
   "solr_year_i": "2006",
   "dct_spatial_sm": [
@@ -26,9 +24,9 @@
     "Mexico City "
   ],
   "layer_id_s": "pulmap-restricted:1544bq50g",
-  "georss_box_s": "19.164689 -99.359457 19.861811 -98.828100",
   "dc_title_s": "Mexico City streets and roads",
   "layer_slug_s": "princeton-1544bq50g",
   "layer_geom_type_s": "Line",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

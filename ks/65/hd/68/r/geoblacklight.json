@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(75.800, 75.8333, 26.9167, 26.900)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/ks65hd68r\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/ks65hd68r/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/ks65hd68r",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "City plan",
@@ -15,7 +14,6 @@
   "dc_creator_sm": "India. Department of Tourism",
   "dc_type_s": "Image",
   "dc_identifier_s": "ks65hd68r",
-  "georss_polygon_s": "26.9167 75.800 26.9167 75.8333 26.900 75.8333 26.900 75.800 26.9167 75.800",
   "dc_publisher_s": "India. Department of Tourism",
   "dct_spatial_sm": [
     "Jaipur",
@@ -26,9 +24,9 @@
     "MAX  G7654.J2.1967.T6"
   ],
   "layer_id_s": "ks65hd68r",
-  "georss_box_s": "26.900 75.800 26.9167 75.8333",
   "dc_title_s": "Guide map of Jaipur.",
   "layer_slug_s": "princeton-ks65hd68r",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

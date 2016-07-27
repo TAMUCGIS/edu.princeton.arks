@@ -1,12 +1,10 @@
 {
   "solr_year_i": "1741",
-  "uuid": "http://arks.princeton.edu/ark:/88435/pv63g2154",
   "dc_description_s": "A map of the British Empire in America : with the French, Spanish and Hollandish settlements adjacent thereto",
-  "georss_box_s": "5.84000 -106.54000 55.15000 -52.62000",
   "layer_modified_dt": "2015-01-19T22:36:54Z",
   "dc_creator_sm": [
     "Condet, J.",
-    "Co\u0301vens, Jean.",
+    "Cóvens, Jean.",
     "Mortier, Corneille.",
     "L'Isle, Guillaume de,",
     "Fox, N. B.,"
@@ -19,7 +17,6 @@
   "layer_slug_s": "princeton-pv63g2154",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/pv63g2154/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/pv/63/g2/15/4/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "55.15000 -106.54000 55.15000 -52.62000 5.84000 -52.62000 5.84000 -106.54000 55.15000 -106.54000",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1741"
@@ -32,5 +29,6 @@
     "France",
     "Netherlands",
     "Spain"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-74.152084, -74.093876, 41.022369, 41.005263)",
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/cr/56/n2/90/x/00000001.jp2/info.json\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/cr56n290x",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
@@ -21,7 +20,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "cr56n290x",
-  "georss_polygon_s": "41.022369 -74.152084 41.022369 -74.093876 41.005263 -74.093876 41.005263 -74.152084 41.022369 -74.152084",
   "dc_publisher_s": "New York: Sanborn Map Company",
   "solr_year_i": "1925",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "Waldwick"
   ],
   "layer_id_s": "cr56n290x",
-  "georss_box_s": "41.005263 -74.152084 41.022369 -74.093876",
   "dc_title_s": "Waldwick, Bergen County, New Jersey (Sheet 1)",
   "layer_slug_s": "princeton-cr56n290x",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

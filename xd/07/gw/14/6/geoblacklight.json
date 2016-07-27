@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1818",
-  "uuid": "http://arks.princeton.edu/ark:/88435/xd07gw146",
   "dc_description_s": "Persia",
-  "georss_box_s": "24.0 42.0 43.0 70.0",
   "layer_modified_dt": "2015-01-19T22:37:19Z",
   "dc_creator_sm": [
     "Hebert, L.",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-xd07gw146",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/xd07gw146/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/xd/07/gw/14/6/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "43.0 42.0 43.0 70.0 24.0 70.0 24.0 42.0 43.0 42.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1818"
@@ -27,5 +24,6 @@
   "dct_spatial_sm": [
     "Iran",
     "Middle East"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

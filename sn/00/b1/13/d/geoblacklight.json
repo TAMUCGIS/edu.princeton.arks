@@ -1,21 +1,18 @@
 {
   "solr_year_i": "1762",
-  "uuid": "http://arks.princeton.edu/ark:/88435/sn00b113d",
-  "dc_description_s": "Carte re\u0301duite de l'isle de Cube",
-  "georss_box_s": "20.7059846 -80.700194 27.4734551 -72.447752",
+  "dc_description_s": "Carte réduite de l'isle de Cube",
   "layer_modified_dt": "2015-01-21T22:23:57Z",
   "dc_creator_sm": [
-    "Choiseul, Etienne-Franc\u0327ois,"
+    "Choiseul, Etienne-François,"
   ],
   "layer_id_s": "sn00b113d",
   "dc_type_s": "Image",
   "dc_identifier_s": "sn00b113d",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Carte re\u0301duite de l'isle de Cube",
+  "dc_title_s": "Carte réduite de l'isle de Cube",
   "layer_slug_s": "princeton-sn00b113d",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/sn00b113d/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/sn/00/b1/13/d/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "27.4734551 -80.700194 27.4734551 -72.447752 20.7059846 -72.447752 20.7059846 -80.700194 27.4734551 -80.700194",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1762"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "Bahamas",
     "Cuba"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

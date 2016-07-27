@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1636",
-  "uuid": "http://arks.princeton.edu/ark:/88435/qr46r2727",
   "dc_description_s": "America Septentrionalis",
-  "georss_box_s": "9.9930001 -85.1715 27.263412 -59.4174957",
   "layer_modified_dt": "2015-01-21T22:23:50Z",
   "dc_creator_sm": [
     "Jansson, Jan,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-qr46r2727",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/qr46r2727/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/qr/46/r2/72/7/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "27.263412 -85.1715 27.263412 -59.4174957 9.9930001 -59.4174957 9.9930001 -85.1715 27.263412 -85.1715",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1636"
@@ -26,5 +23,6 @@
     "Caribbean Area",
     "Central America",
     "North America"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

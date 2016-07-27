@@ -1,12 +1,10 @@
 {
   "solr_year_i": "1841",
-  "uuid": "http://arks.princeton.edu/ark:/88435/d791sj66d",
   "dc_description_s": "Gaule",
-  "georss_box_s": "41.3423276 -5.1412279 51.089166 9.5600678",
   "layer_modified_dt": "2015-01-21T22:24:15Z",
   "dc_creator_sm": [
     "Andriveau-Goujon, J.",
-    "Hase, Charles Benoi\u0302t,",
+    "Hase, Charles Benoît,",
     "Soulier, E."
   ],
   "layer_id_s": "d791sj66d",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-d791sj66d",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/d791sj66d/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/d7/91/sj/66/d/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.089166 -5.1412279 51.089166 9.5600678 41.3423276 9.5600678 41.3423276 -5.1412279 51.089166 -5.1412279",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1841"
@@ -30,5 +27,6 @@
     "Great Britain",
     "France",
     "Great Britian"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-72, -71.75, 42.75, 42.5)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/h702q7806/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/h7/02/q7/80/6/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/h702q7806/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/h702q7806",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "historical maps",
@@ -20,7 +19,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "h702q7806",
-  "georss_polygon_s": "42.75 -72 42.75 -71.75 42.5 -71.75 42.5 -72 42.75 -72",
   "dc_publisher_s": "US Geological Survey",
   "dct_spatial_sm": [
     "Fitchburg",
@@ -33,9 +31,9 @@
     "United States"
   ],
   "layer_id_s": "h702q7806",
-  "georss_box_s": "42.5 -72 42.75 -71.75",
   "dc_title_s": "Massachusetts-New Hampshire: Fitchburg sheet [1927 reprint]",
   "dct_issued_s": "October 1893",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-1.4500, -0.8333, 51.2667, 51.000)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/c821gm29b\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/c821gm29b/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/c821gm29b",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
@@ -19,7 +18,6 @@
   "dc_creator_sm": "Great Britain Ordnance Survey",
   "dc_type_s": "Image",
   "dc_identifier_s": "c821gm29b",
-  "georss_polygon_s": "51.2667 -1.4500 51.2667 -0.8333 51.000 -0.8333 51.000 -1.4500 51.2667 -1.4500",
   "dc_publisher_s": "Great Britain Ordnance Survey",
   "solr_year_i": "1929",
   "dct_spatial_sm": [
@@ -32,9 +30,9 @@
     "G5741.C2.s63.O7S8 sh123"
   ],
   "layer_id_s": "c821gm29b",
-  "georss_box_s": "51.000 -1.4500 51.2667 -0.8333",
   "dc_title_s": "Ordnance Survey of England and Wales: popular edition one-inch map.  Winchester. Sheet 123.",
   "layer_slug_s": "princeton-c821gm29b",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

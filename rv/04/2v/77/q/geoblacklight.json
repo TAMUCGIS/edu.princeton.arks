@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(44.1768, 44.5795, 33.4535, 33.1825)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/rv042v77q\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/rv042v77q/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/rv042v77q",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -20,7 +19,6 @@
   "dc_creator_sm": "National Geospatial-Intelligence Agency",
   "dc_type_s": "Image",
   "dc_identifier_s": "rv042v77q",
-  "georss_polygon_s": "33.4535 44.1768 33.4535 44.5795 33.1825 44.5795 33.1825 44.1768 33.4535 44.1768",
   "dc_publisher_s": "National Geospatial-Intelligence Agency",
   "solr_year_i": "2006",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "Muhafazat Baghdad"
   ],
   "layer_id_s": "rv042v77q",
-  "georss_box_s": "33.1825 44.1768 33.4535 44.5795",
   "dc_title_s": "Baghdad",
   "layer_slug_s": "princeton-rv042v77q",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

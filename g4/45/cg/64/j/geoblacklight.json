@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1897",
-  "uuid": "http://arks.princeton.edu/ark:/88435/g445cg64j",
   "dc_description_s": "Schwarzburg und Umgegend",
-  "georss_box_s": "50.6183147 11.1601412 50.6681408 11.2567987",
   "layer_modified_dt": "2015-01-21T22:24:21Z",
   "layer_id_s": "g445cg64j",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-g445cg64j",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/g445cg64j/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/g4/45/cg/64/j/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "50.6681408 11.1601412 50.6681408 11.2567987 50.6183147 11.2567987 50.6183147 11.1601412 50.6681408 11.1601412",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1897"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Schwarzburg (Germany)",
     "Thuringia (Germany)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

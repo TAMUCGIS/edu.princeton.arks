@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1773",
-  "uuid": "http://arks.princeton.edu/ark:/88435/rx913s40v",
   "dc_description_s": "A map of the British and French dominions in North America, with the roads, distances, limits, and extent of the settlements, humbly inscribed to the Right Honourable the Earl of Halifax, and the other Right Honourable the Lords Commissioners for Trade & Plantations",
-  "georss_box_s": "50.9999502 -109.0000502 51.0000502 -108.9999502",
   "layer_modified_dt": "2015-01-21T22:24:23Z",
   "dc_creator_sm": [
     "Kitchin, Thomas,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-rx913s40v",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/rx913s40v/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/rx/91/3s/40/v/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.0000502 -109.0000502 51.0000502 -108.9999502 50.9999502 -108.9999502 50.9999502 -109.0000502 51.0000502 -109.0000502",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1773"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "North America"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1882",
-  "uuid": "http://arks.princeton.edu/ark:/88435/d217qs005",
   "dc_description_s": "English Channel",
-  "georss_box_s": "49.0 -12.0 52.0 1.0",
   "layer_modified_dt": "2015-01-19T22:37:28Z",
   "dc_creator_sm": [
     "Weller, Edward,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-d217qs005",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/d217qs005/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/d2/17/qs/00/5/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "52.0 -12.0 52.0 1.0 49.0 1.0 49.0 -12.0 52.0 -12.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1882"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "English Channel"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

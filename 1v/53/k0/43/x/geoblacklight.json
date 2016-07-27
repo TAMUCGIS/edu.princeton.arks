@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1545",
-  "uuid": "http://arks.princeton.edu/ark:/88435/1v53k043x",
   "dc_description_s": "Hispania III : nova tabula",
-  "georss_box_s": "36.2380667008 -9.5035614375 43.7923795 4.3277839",
   "layer_modified_dt": "2015-01-21T22:24:10Z",
   "dc_creator_sm": [
     "Ptolemy,",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-1v53k043x",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/1v53k043x/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/1v/53/k0/43/x/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "43.7923795 -9.5035614375 43.7923795 4.3277839 36.2380667008 4.3277839 36.2380667008 -9.5035614375 43.7923795 -9.5035614375",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1545"
@@ -28,5 +25,6 @@
     "Iberian Peninsula",
     "Portugal",
     "Spain"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

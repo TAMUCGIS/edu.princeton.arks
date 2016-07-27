@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1887",
-  "uuid": "http://arks.princeton.edu/ark:/88435/v692t8656",
   "dc_description_s": "County and township map of Arizona and New Mexico",
-  "georss_box_s": "32.3333333333 -114.866666667 37.0 -103.0",
   "layer_modified_dt": "2015-01-19T22:37:14Z",
   "layer_id_s": "v692t8656",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-v692t8656",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/v692t8656/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/v6/92/t8/65/6/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "37.0 -114.866666667 37.0 -103.0 32.3333333333 -103.0 32.3333333333 -114.866666667 37.0 -114.866666667",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1887"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Arizona",
     "New Mexico"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

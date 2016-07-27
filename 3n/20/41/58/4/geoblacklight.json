@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1890",
-  "uuid": "http://arks.princeton.edu/ark:/88435/3n2041584",
   "dc_description_s": "Palestine : from the surveys conducted for the Committee of the Palestine Exploration Fund and other sources",
-  "georss_box_s": "29.4533796 34.2676025 33.3356317 35.8950234",
   "layer_modified_dt": "2015-01-25T02:06:15Z",
   "dc_creator_sm": [
     "Wilson, Charles William,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-3n2041584",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/3n2041584/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/3n/20/41/58/4/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "33.3356317 34.2676025 33.3356317 35.8950234 29.4533796 35.8950234 29.4533796 34.2676025 33.3356317 34.2676025",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1890"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Palestine"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

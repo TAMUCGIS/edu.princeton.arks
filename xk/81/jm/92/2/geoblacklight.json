@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(13.5314, 19.3542, 46.5135, 42.3747)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/xk81jm922/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/xk81jm922/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/xk81jm922/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/xk81jm922",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "City",
@@ -22,16 +21,15 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "xk81jm922",
-  "georss_polygon_s": "46.5135 13.5314 46.5135 19.3542 42.3747 19.3542 42.3747 13.5314 46.5135 13.5314",
   "dc_publisher_s": "Gfk MACON Company",
   "solr_year_i": "2006",
   "dct_spatial_sm": [
     "Croatia"
   ],
   "layer_id_s": "pulmap-restricted:xk81jm922",
-  "georss_box_s": "42.3747 13.5314 46.5135 19.3542",
   "dc_title_s": "Croatia Cities With Population From 50 Thousand To 100 Thousand, 2005",
   "layer_slug_s": "princeton-xk81jm922",
   "layer_geom_type_s": "Point",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

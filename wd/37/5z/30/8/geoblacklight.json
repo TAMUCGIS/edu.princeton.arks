@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-74.258177, -74.230009, 39.581824, 39.54701)",
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/wd/37/5z/30/8/00000001.jp2/info.json\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/wd375z308",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
@@ -21,7 +20,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "wd375z308",
-  "georss_polygon_s": "39.581824 -74.258177 39.581824 -74.230009 39.54701 -74.230009 39.54701 -74.258177 39.581824 -74.258177",
   "dc_publisher_s": "New York: Sanborn Map Company",
   "solr_year_i": "1938",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "Belleville"
   ],
   "layer_id_s": "wd375z308",
-  "georss_box_s": "39.54701 -74.258177 39.581824 -74.230009",
   "dc_title_s": "Insurance maps of Belleville, New Jersey (Sheet 19).",
   "layer_slug_s": "princeton-wd375z308",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-87.1333, -87.100, 12.6333, 12.600)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/zw12z6791/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/zw/12/z6/79/1/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/zw12z6791/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/zw12z6791",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
@@ -22,7 +21,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "zw12z6791",
-  "georss_polygon_s": "12.6333 -87.1333 12.6333 -87.100 12.600 -87.100 12.600 -87.1333 12.6333 -87.1333",
   "dc_publisher_s": "Defense Mapping Agency",
   "solr_year_i": "1989",
   "dct_spatial_sm": [
@@ -30,9 +28,9 @@
     "Nicaragua"
   ],
   "layer_id_s": "zw12z6791",
-  "georss_box_s": "12.600 -87.1333 12.6333 -87.100",
   "dc_title_s": "Nicaragua city graphic 1:10,000. Chinandega. Series E956.",
   "dct_issued_s": "1989",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

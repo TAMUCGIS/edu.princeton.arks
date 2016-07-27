@@ -1,7 +1,5 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/v692t807g",
   "dc_description_s": "[Asia Minor]",
-  "georss_box_s": "35.8076804 25.6212891 42.297 44.8176638",
   "layer_modified_dt": "2015-01-21T22:23:46Z",
   "layer_id_s": "v692t807g",
   "dc_type_s": "Image",
@@ -11,11 +9,11 @@
   "layer_slug_s": "princeton-v692t807g",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/v692t807g/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/v6/92/t8/07/g/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "42.297 25.6212891 42.297 44.8176638 35.8076804 44.8176638 35.8076804 25.6212891 42.297 25.6212891",
   "layer_geom_type_s": "Image",
   "solr_geom": "ENVELOPE(25.6212891, 44.8176638, 42.297, 35.8076804)",
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Turkey"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

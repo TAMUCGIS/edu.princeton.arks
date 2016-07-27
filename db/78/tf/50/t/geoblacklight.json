@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1710",
-  "uuid": "http://arks.princeton.edu/ark:/88435/db78tf50t",
   "dc_description_s": "A new map of Great Britain, according to the newest and most exact observations",
-  "georss_box_s": "49.674 -14.0155169 61.061 2.0919117",
   "layer_modified_dt": "2015-01-21T22:24:15Z",
   "dc_creator_sm": [
     "King, John."
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-db78tf50t",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/db78tf50t/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/db/78/tf/50/t/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "61.061 -14.0155169 61.061 2.0919117 49.674 2.0919117 49.674 -14.0155169 61.061 -14.0155169",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1710"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "Great Britain",
     "Ireland"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

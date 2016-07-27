@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(9.2424, 9.2913, 48.8597, 48.7969)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/qf85nd00j\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/qf85nd00j/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/qf85nd00j",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Stadte-Verlag",
   "dc_type_s": "Image",
   "dc_identifier_s": "qf85nd00j",
-  "georss_polygon_s": "48.8597 9.2424 48.8597 9.2913 48.7969 9.2913 48.7969 9.2424 48.8597 9.2424",
   "dc_publisher_s": "Stadte-Verlag",
   "solr_year_i": "1970",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "West Germany"
   ],
   "layer_id_s": "qf85nd00j",
-  "georss_box_s": "48.7969 9.2424 48.8597 9.2913",
   "dc_title_s": "Ortsplan Schmiden",
   "layer_slug_s": "princeton-qf85nd00j",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

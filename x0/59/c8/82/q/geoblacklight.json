@@ -1,8 +1,6 @@
 {
   "layer_modified_dt": "2014-12-19T16:18:31Z",
-  "uuid": "http://arks.princeton.edu/ark:/88435/x059c882q",
   "dc_description_s": "Points representing mosques in Cairo.",
-  "georss_box_s": "29.724515 30.877920 30.285979 31.769721",
   "layer_slug_s": "princeton-x059c882q",
   "dct_spatial_sm": [
     "Egypt",
@@ -12,7 +10,6 @@
     "Globe Telecom"
   ],
   "layer_id_s": "pulmap-restricted:x059c882q",
-  "georss_polygon_s": "30.285979 30.877920 30.285979 31.769721 29.724515 31.769721 29.724515 30.877920 30.285979 30.877920",
   "dc_type_s": "Dataset",
   "dc_identifier_s": "x059c882q",
   "dct_provenance_s": "Princeton",
@@ -30,5 +27,6 @@
   "layer_geom_type_s": "Point",
   "solr_geom": "ENVELOPE(30.877920, 31.769721, 30.285979, 29.724515)",
   "dc_rights_s": "Restricted",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

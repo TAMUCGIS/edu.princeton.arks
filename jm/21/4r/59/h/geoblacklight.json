@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1892",
-  "uuid": "http://arks.princeton.edu/ark:/88435/jm214r59h",
   "dc_description_s": "Rand, McNally & Co.'s indexed atlas of the world map of Bolivia, Ecuador, and Peru",
-  "georss_box_s": "-25.0 -84.0 2.0 -63.0",
   "layer_modified_dt": "2015-01-19T22:37:14Z",
   "layer_id_s": "jm214r59h",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-jm214r59h",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/jm214r59h/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/jm/21/4r/59/h/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "2.0 -84.0 2.0 -63.0 -25.0 -63.0 -25.0 -84.0 2.0 -84.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1892"
@@ -23,5 +20,6 @@
     "Bolivia",
     "Ecuador",
     "Peru"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

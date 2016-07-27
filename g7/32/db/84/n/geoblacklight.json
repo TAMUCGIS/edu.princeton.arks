@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1743",
-  "uuid": "http://arks.princeton.edu/ark:/88435/g732db84n",
   "dc_description_s": "A map of the King of Great Britain's dominions in Europe, Africa, and America",
-  "georss_box_s": "9.9999501 -25.0000501 10.0000501 -24.9999501",
   "layer_modified_dt": "2015-01-21T22:23:46Z",
   "dc_creator_sm": [
     "Bickham, George,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-g732db84n",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/g732db84n/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/g7/32/db/84/n/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "10.0000501 -25.0000501 10.0000501 -24.9999501 9.9999501 -24.9999501 9.9999501 -25.0000501 10.0000501 -25.0000501",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1743"
@@ -28,5 +25,6 @@
     "Europe, Western",
     "North America",
     "Africa"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

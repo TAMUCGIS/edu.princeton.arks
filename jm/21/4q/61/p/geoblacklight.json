@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(12.3018, 12.3857, 45.4493, 45.3847)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/jm214q61p\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/jm214q61p/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/jm214q61p",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Ufficio comunale di turismo",
   "dc_type_s": "Image",
   "dc_identifier_s": "jm214q61p",
-  "georss_polygon_s": "45.4493 12.3018 45.4493 12.3857 45.3847 12.3857 45.3847 12.3018 45.4493 12.3018",
   "dc_publisher_s": "Ufficio comunale di turismo",
   "solr_year_i": "1939",
   "dct_spatial_sm": [
@@ -32,9 +30,9 @@
     "Lido"
   ],
   "layer_id_s": "jm214q61p",
-  "georss_box_s": "45.3847 12.3018 45.4493 12.3857",
   "dc_title_s": "Venezia e Lido",
   "layer_slug_s": "princeton-jm214q61p",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

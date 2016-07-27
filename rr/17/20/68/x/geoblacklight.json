@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1634",
-  "uuid": "http://arks.princeton.edu/ark:/88435/rr172068x",
   "dc_description_s": "Virginiae item et Floridae Americae provinciarum, nova descriptio",
-  "georss_box_s": "30.0 -82.0 38.0 -75.0",
   "layer_modified_dt": "2015-01-23T17:48:36Z",
   "dc_creator_sm": [
     "Jansson, Jan,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-rr172068x",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/rr172068x/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/rr/17/20/68/x/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "38.0 -82.0 38.0 -75.0 30.0 -75.0 30.0 -82.0 38.0 -82.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1634"
@@ -27,5 +24,6 @@
     "Florida",
     "South Atlantic States",
     "Virginia"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

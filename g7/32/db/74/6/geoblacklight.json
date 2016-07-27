@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(36.750817, 37.000792, 0.247246, -0.002695)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/g732db746\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/g732db746/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/g732db746",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "imageryBaseMapsEarthCover",
@@ -16,7 +15,6 @@
   "dc_creator_sm": "Directorate of Overseas Survey",
   "dc_type_s": "Image",
   "dc_identifier_s": "g732db746",
-  "georss_polygon_s": "0.247246 36.750817 0.247246 37.000792 -0.002695 37.000792 -0.002695 36.750817 0.247246 36.750817",
   "dc_publisher_s": "Directorate of Overseas Survey for the Survey of Kenya",
   "solr_year_i": "1973",
   "dct_spatial_sm": [
@@ -26,9 +24,9 @@
     "Kenya"
   ],
   "layer_id_s": "g732db746",
-  "georss_box_s": "-0.002695 36.750817 0.247246 37.000792",
   "dc_title_s": "Ol Pejeta: East Africa 1:50,000 (Kenya)",
   "layer_slug_s": "princeton-g732db746",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

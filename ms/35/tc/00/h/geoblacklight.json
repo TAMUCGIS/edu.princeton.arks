@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1757",
-  "uuid": "http://arks.princeton.edu/ark:/88435/ms35tc00h",
   "dc_description_s": "Carte des Nouvelles Philippines = Kaart der Nieuwe Philippynsche Eylanden",
-  "georss_box_s": "4.3833541 112.16672 21.5296298 127.0737203",
   "layer_modified_dt": "2015-01-21T22:23:58Z",
   "dc_creator_sm": [
     "Schley, Jacobus van der,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-ms35tc00h",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/ms35tc00h/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ms/35/tc/00/h/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "21.5296298 112.16672 21.5296298 127.0737203 4.3833541 127.0737203 4.3833541 112.16672 21.5296298 112.16672",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1757"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "Philippines",
     "Maluku (Indonesia)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

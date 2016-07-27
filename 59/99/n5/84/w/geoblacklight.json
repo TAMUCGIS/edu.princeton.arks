@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1705",
-  "uuid": "http://arks.princeton.edu/ark:/88435/5999n584w",
   "dc_description_s": "Cadis son port, sa rade, et ses environs",
-  "georss_box_s": "36.4436702 -6.3175067 36.5455042 -6.2256634",
   "layer_modified_dt": "2015-01-21T22:24:06Z",
   "dc_creator_sm": [
     "Fer, Nicolas de,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-5999n584w",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/5999n584w/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/59/99/n5/84/w/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "36.5455042 -6.3175067 36.5455042 -6.2256634 36.4436702 -6.2256634 36.4436702 -6.3175067 36.5455042 -6.3175067",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1705"
@@ -23,7 +20,8 @@
   "solr_geom": "ENVELOPE(-6.3175067, -6.2256634, 36.5455042, 36.4436702)",
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
-    "Ca\u0301diz (Spain)",
-    "Ca\u0301diz (Spain : Province)"
-  ]
+    "Cádiz (Spain)",
+    "Cádiz (Spain : Province)"
+  ],
+  "geoblacklight_version": "1.0"
 }

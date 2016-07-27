@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(88.1569, 88.3636, 22.6754, 22.5328)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/gh93h104w\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/gh93h104w/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/gh93h104w",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "City plan",
@@ -16,7 +15,6 @@
   "dc_creator_sm": "Khan, A. R.",
   "dc_type_s": "Image",
   "dc_identifier_s": "gh93h104w",
-  "georss_polygon_s": "22.6754 88.1569 22.6754 88.3636 22.5328 88.3636 22.5328 88.1569 22.6754 88.1569",
   "dc_publisher_s": "Imperial Art Cottage",
   "solr_year_i": "1955",
   "dct_spatial_sm": [
@@ -27,9 +25,9 @@
     "MAX  G7654.H9F7.1955.I4"
   ],
   "layer_id_s": "gh93h104w",
-  "georss_box_s": "22.5328 88.1569 22.6754 88.3636",
   "dc_title_s": "Howrah City",
   "layer_slug_s": "princeton-gh93h104w",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

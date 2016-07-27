@@ -1,11 +1,9 @@
 {
   "solr_year_i": "1730",
-  "uuid": "http://arks.princeton.edu/ark:/88435/3x816q09t",
   "dc_description_s": "Carte de la Louisiane et du cours du Mississipi",
-  "georss_box_s": "26.0 -107.0 46.0 -73.0",
   "layer_modified_dt": "2015-01-19T22:37:23Z",
   "dc_creator_sm": [
-    "Le Maire, Franc\u0327ois,",
+    "Le Maire, François,",
     "L'Isle, Guillaume de,",
     "Fox, N. B.,"
   ],
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-3x816q09t",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/3x816q09t/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/3x/81/6q/09/t/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "46.0 -107.0 46.0 -73.0 26.0 -73.0 26.0 -107.0 46.0 -107.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1730"
@@ -28,5 +25,6 @@
     "Louisiana",
     "Mississippi River Valley",
     "United States"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

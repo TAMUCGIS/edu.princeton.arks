@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1855",
-  "uuid": "http://arks.princeton.edu/ark:/88435/c534fr415",
   "dc_description_s": "Palestine",
-  "georss_box_s": "30.6666666667 34.1666666667 34.0 37.0",
   "layer_modified_dt": "2015-01-19T22:37:23Z",
   "dc_creator_sm": [
     "Colton, J. H."
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-c534fr415",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/c534fr415/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/c5/34/fr/41/5/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "34.0 34.1666666667 34.0 37.0 30.6666666667 37.0 30.6666666667 34.1666666667 34.0 34.1666666667",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1855"
@@ -26,5 +23,6 @@
     "Israel",
     "Palestine",
     "Sinai (Egypt)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1850",
-  "uuid": "http://arks.princeton.edu/ark:/88435/1831cn03q",
   "dc_description_s": "A plan of London and its environs : shewing the boundaries of the cities of London and Westminster, metropolitan boroughs and parishes and distances in miles & quarters of the principal roads from the General Post Office",
-  "georss_box_s": "51.2867602 -0.510375 51.6918741 0.3340155",
   "layer_modified_dt": "2015-01-21T22:23:54Z",
   "dc_creator_sm": [
     "Dower, John,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-1831cn03q",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/1831cn03q/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/18/31/cn/03/q/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.6918741 -0.510375 51.6918741 0.3340155 51.2867602 0.3340155 51.2867602 -0.510375 51.6918741 -0.510375",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1850"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "London (England)",
     "Westminster (London, England)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

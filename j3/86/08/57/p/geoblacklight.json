@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-74.599, -74.576, 40.185, 40.172)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/j3860857p/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/j3/86/08/57/p/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/j3860857p/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/j3860857p",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
@@ -17,7 +16,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "j3860857p",
-  "georss_polygon_s": "40.185 -74.599 40.185 -74.576 40.172 -74.576 40.172 -74.599 40.185 -74.599",
   "dc_publisher_s": "Sanborn Map Company",
   "solr_year_i": "1922",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "United States"
   ],
   "layer_id_s": "j3860857p",
-  "georss_box_s": "40.172 -74.599 40.185 -74.576",
   "dc_title_s": "Allentown, Monmouth, Burlington & Mercer Counties, New Jersey (Sheet 6)",
   "dct_issued_s": "1922",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

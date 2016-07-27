@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1898",
-  "uuid": "http://arks.princeton.edu/ark:/88435/4j03d214p",
   "dc_description_s": "York",
-  "georss_box_s": "53.7990555 -1.2415361 54.1190555 -0.9215361",
   "layer_modified_dt": "2015-01-21T22:24:17Z",
   "layer_id_s": "4j03d214p",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-4j03d214p",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/4j03d214p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/4j/03/d2/14/p/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "54.1190555 -1.2415361 54.1190555 -0.9215361 53.7990555 -0.9215361 53.7990555 -1.2415361 54.1190555 -1.2415361",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1898"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "York (England)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "2012",
-  "uuid": "http://arks.princeton.edu/ark:/88435/q811kn093",
   "dc_description_s": "Follow the Revolution : the route of Washington and the Continental Army, December 25, 1776 to January 6, 1777",
-  "georss_box_s": "38.7911303 -75.5633859 41.357423 -73.8939789",
   "layer_modified_dt": "2015-01-25T02:06:16Z",
   "dc_creator_sm": [
     "Faden, William,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-q811kn093",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/q811kn093/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/q8/11/kn/09/3/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "41.357423 -75.5633859 41.357423 -73.8939789 38.7911303 -73.8939789 38.7911303 -75.5633859 41.357423 -75.5633859",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "2012"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "New Jersey"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1782",
-  "uuid": "http://arks.princeton.edu/ark:/88435/zg64tn84v",
   "dc_description_s": "North America, agreeable to the most approved maps and charts",
-  "georss_box_s": "50.9999502 -109.0000502 51.0000502 -108.9999502",
   "layer_modified_dt": "2015-01-21T22:23:50Z",
   "dc_creator_sm": [
     "Millar, George Henry."
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-zg64tn84v",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/zg64tn84v/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/zg/64/tn/84/v/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.0000502 -109.0000502 51.0000502 -108.9999502 50.9999502 -108.9999502 50.9999502 -109.0000502 51.0000502 -109.0000502",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1782"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "North America"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

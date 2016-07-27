@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1845",
-  "uuid": "http://arks.princeton.edu/ark:/88435/jm214r66h",
   "dc_description_s": "Aachen",
-  "georss_box_s": "50.6621399 5.9748624 50.8572577 6.2180747",
   "layer_modified_dt": "2015-01-21T22:24:27Z",
   "dc_creator_sm": [
     "Meyer, Joseph, 1796-1856."
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-jm214r66h",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/jm214r66h/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/jm/21/4r/66/h/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "50.8572577 5.9748624 50.8572577 6.2180747 50.6621399 6.2180747 50.6621399 5.9748624 50.8572577 5.9748624",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1845"
@@ -26,5 +23,6 @@
     "Aachen (Germany)",
     "Aachen (Germany)",
     "North Rhine-Westphalia (Germany)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

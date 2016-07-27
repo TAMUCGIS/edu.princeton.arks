@@ -1,14 +1,12 @@
 {
   "solr_year_i": "1950",
-  "uuid": "http://arks.princeton.edu/ark:/88435/g732dc518",
   "dc_description_s": "Reconnoissance of the western coast of the United States from Monterey to the Columbia River in three sheets, sheet no. 1 /",
-  "georss_box_s": "36.5 -125.0 40.5 -121.0",
   "layer_modified_dt": "2015-01-19T22:37:36Z",
   "dc_creator_sm": [
     "McArthur, W. P.",
     "Bartlett, Washington A.",
     "McMurtrie, W. B.",
-    "Rolle\u0301, A.",
+    "Rollé, A.",
     "Dankworth, Frederick,",
     "Lawson, Oscar A.,",
     "McCoy, G.",
@@ -23,12 +21,14 @@
   "layer_slug_s": "princeton-g732dc518",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/g732dc518/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/g7/32/dc/51/8/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.5 -125.0 40.5 -121.0 36.5 -121.0 36.5 -125.0 40.5 -125.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1950"
   ],
   "solr_geom": "ENVELOPE(-125.0, -121.0, 40.5, 36.5)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

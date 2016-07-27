@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1620",
-  "uuid": "http://arks.princeton.edu/ark:/88435/xg94hs027",
-  "dc_description_s": "Comitatus Bercheri\u00e6 vulgo Barkshyre : qui olim sedes Atrebatum",
-  "georss_box_s": "51.328963 -1.588088 51.5778253 -0.4900443",
+  "dc_description_s": "Comitatus Bercheriæ vulgo Barkshyre : qui olim sedes Atrebatum",
   "layer_modified_dt": "2015-01-21T22:24:18Z",
   "dc_creator_sm": [
     "Bishop, George,",
@@ -13,11 +11,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "xg94hs027",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Comitatus Bercheri\u00e6 vulgo Barkshyre : qui olim sedes Atrebatum",
+  "dc_title_s": "Comitatus Bercheriæ vulgo Barkshyre : qui olim sedes Atrebatum",
   "layer_slug_s": "princeton-xg94hs027",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/xg94hs027/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/xg/94/hs/02/7/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.5778253 -1.588088 51.5778253 -0.4900443 51.328963 -0.4900443 51.328963 -1.588088 51.5778253 -1.588088",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1620"
@@ -26,5 +23,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Berkshire (England)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

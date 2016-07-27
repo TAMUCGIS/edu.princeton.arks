@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1891",
-  "uuid": "http://arks.princeton.edu/ark:/88435/xp68kj71v",
   "dc_description_s": "Specialkarte vom Fichtelgebirge",
-  "georss_box_s": "47.2701114 8.9763497 50.5647142 13.8396373",
   "layer_modified_dt": "2015-01-21T22:24:23Z",
   "layer_id_s": "xp68kj71v",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-xp68kj71v",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/xp68kj71v/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/xp/68/kj/71/v/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "50.5647142 8.9763497 50.5647142 13.8396373 47.2701114 13.8396373 47.2701114 8.9763497 50.5647142 8.9763497",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1891"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Bavaria (Germany)",
     "Fichtelgebirge (Germany and Czech Republic)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

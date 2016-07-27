@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1756",
-  "uuid": "http://arks.princeton.edu/ark:/88435/9p290c88x",
   "dc_description_s": "Carte des isles de Maiorque, Minorque et Yvice",
-  "georss_box_s": "38.6403875 1.1572495 40.0945744 4.3277839",
   "layer_modified_dt": "2015-01-25T02:06:22Z",
   "dc_creator_sm": [
     "Dorn, S.",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-9p290c88x",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/9p290c88x/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/9p/29/0c/88/x/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.0945744 1.1572495 40.0945744 4.3277839 38.6403875 4.3277839 38.6403875 1.1572495 40.0945744 1.1572495",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1756"
@@ -26,9 +23,10 @@
   "dct_spatial_sm": [
     "Balearic Islands (Spain)",
     "Ibiza (Spain)",
-    "Maho\u0301n (Spain)",
+    "Mahón (Spain)",
     "Majorca (Spain)",
     "Minorca (Spain)",
     "Spain"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

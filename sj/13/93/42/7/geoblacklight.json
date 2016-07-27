@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(22.454875, 28.071454, 44.213072, 41.265241)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/sj1393427/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/sj1393427/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/sj1393427/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/sj1393427",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Rivers",
@@ -21,16 +20,15 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "sj1393427",
-  "georss_polygon_s": "44.213072 22.454875 44.213072 28.071454 41.265241 28.071454 41.265241 22.454875 44.213072 22.454875",
   "dc_publisher_s": "Gfk MACON Company",
   "solr_year_i": "2006",
   "dct_spatial_sm": [
     "Bulgaria"
   ],
   "layer_id_s": "pulmap-restricted:sj1393427",
-  "georss_box_s": "41.265241 22.454875 44.213072 28.071454",
   "dc_title_s": "Bulgaria Major Rivers, 2005",
   "layer_slug_s": "princeton-sj1393427",
   "layer_geom_type_s": "Line",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

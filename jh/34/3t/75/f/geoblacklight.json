@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(8.6935, 8.8202, 50.3642, 50.2904)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/jh343t75f\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/jh343t75f/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/jh343t75f",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Stadte-Verlag",
   "dc_type_s": "Image",
   "dc_identifier_s": "jh343t75f",
-  "georss_polygon_s": "50.3642 8.6935 50.3642 8.8202 50.2904 8.8202 50.2904 8.6935 50.3642 8.6935",
   "dc_publisher_s": "Stadte-Verlag",
   "solr_year_i": "1969",
   "dct_spatial_sm": [
@@ -33,9 +31,9 @@
     "Friedberg in Hessen"
   ],
   "layer_id_s": "jh343t75f",
-  "georss_box_s": "50.2904 8.6935 50.3642 8.8202",
   "dc_title_s": "Stadtplan Friedberg/Hessen",
   "layer_slug_s": "princeton-jh343t75f",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

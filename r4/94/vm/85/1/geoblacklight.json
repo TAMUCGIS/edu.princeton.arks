@@ -1,8 +1,6 @@
 {
   "layer_modified_dt": "2014-12-19T16:18:32Z",
-  "uuid": "http://arks.princeton.edu/ark:/88435/r494vm851",
   "dc_description_s": "Roads and highways in York County, Pennsylvania, 2005.",
-  "georss_box_s": "39.719989 -77.125864 40.225392 -76.251192",
   "layer_slug_s": "princeton-r494vm851",
   "dct_spatial_sm": [
     "Pennsylvania",
@@ -14,7 +12,6 @@
     "Boundary Solutions, Inc."
   ],
   "layer_id_s": "pulmap-restricted:r494vm851",
-  "georss_polygon_s": "40.225392 -77.125864 40.225392 -76.251192 39.719989 -76.251192 39.719989 -77.125864 40.225392 -77.125864",
   "dc_type_s": "Dataset",
   "dc_identifier_s": "r494vm851",
   "dct_provenance_s": "Princeton",
@@ -31,5 +28,6 @@
   "layer_geom_type_s": "Line",
   "solr_geom": "ENVELOPE(-77.125864, -76.251192, 40.225392, 39.719989)",
   "dc_rights_s": "Restricted",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

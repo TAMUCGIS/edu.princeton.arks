@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(12.7296, 13.0516, 50.9035, 50.7421)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/rj430621c\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/rj430621c/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/rj430621c",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Dewag-Werbung",
   "dc_type_s": "Image",
   "dc_identifier_s": "rj430621c",
-  "georss_polygon_s": "50.9035 12.7296 50.9035 13.0516 50.7421 13.0516 50.7421 12.7296 50.9035 12.7296",
   "dc_publisher_s": "Dewag-Werbung",
   "solr_year_i": "1959",
   "dct_spatial_sm": [
@@ -33,9 +31,9 @@
     "Sachsen Freistaat"
   ],
   "layer_id_s": "rj430621c",
-  "georss_box_s": "50.7421 12.7296 50.9035 13.0516",
   "dc_title_s": "Karl-Marx-Stadt",
   "layer_slug_s": "princeton-rj430621c",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

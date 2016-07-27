@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1730",
-  "uuid": "http://arks.princeton.edu/ark:/88435/9p290c69h",
   "dc_description_s": "Recens edita totius Novi Belgii, in America Septentrionali siti",
-  "georss_box_s": "38.0020724983 -80.6300211 45.4767372853 -73.1174139",
   "layer_modified_dt": "2015-01-25T02:06:10Z",
   "dc_creator_sm": [
     "Fox, N. B.,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-9p290c69h",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/9p290c69h/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/9p/29/0c/69/h/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "45.4767372853 -80.6300211 45.4767372853 -73.1174139 38.0020724983 -73.1174139 38.0020724983 -80.6300211 45.4767372853 -80.6300211",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1730"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "Middle Atlantic States",
     "New England"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

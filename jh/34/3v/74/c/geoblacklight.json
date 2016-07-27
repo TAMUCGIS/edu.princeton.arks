@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1705",
-  "uuid": "http://arks.princeton.edu/ark:/88435/jh343v74c",
   "dc_description_s": "Lisbonne",
-  "georss_box_s": "38.6914845 -9.2294567 38.7957485 -9.0895574",
   "layer_modified_dt": "2015-01-21T22:24:06Z",
   "dc_creator_sm": [
     "Coquart, A.",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-jh343v74c",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/jh343v74c/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/jh/34/3v/74/c/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "38.7957485 -9.2294567 38.7957485 -9.0895574 38.6914845 -9.0895574 38.6914845 -9.2294567 38.7957485 -9.2294567",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1705"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Lisbon (Portugal)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

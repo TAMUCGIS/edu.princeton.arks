@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(14.3667, 14.4667, 45.3500, 45.300)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/vm40xt11v/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/vm/40/xt/11/v/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/vm40xt11v/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/vm40xt11v",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
@@ -22,7 +21,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "vm40xt11v",
-  "georss_polygon_s": "45.3500 14.3667 45.3500 14.4667 45.300 14.4667 45.300 14.3667 45.3500 14.3667",
   "dc_publisher_s": "National Imagery and Mapping Agency",
   "solr_year_i": "1997",
   "dct_spatial_sm": [
@@ -32,9 +30,9 @@
     "Croatia"
   ],
   "layer_id_s": "vm40xt11v",
-  "georss_box_s": "45.300 14.3667 45.3500 14.4667",
   "dc_title_s": "Croatia city graphic 1:12,500. Rijeka. Series M903.",
   "dct_issued_s": "1997",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

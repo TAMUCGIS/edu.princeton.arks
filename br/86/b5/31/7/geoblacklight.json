@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(10.2851, 10.3836, 44.8405, 44.7566)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/br86b5317\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/br86b5317/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/br86b5317",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Studio F.M.B.",
   "dc_type_s": "Image",
   "dc_identifier_s": "br86b5317",
-  "georss_polygon_s": "44.8405 10.2851 44.8405 10.3836 44.7566 10.3836 44.7566 10.2851 44.8405 10.2851",
   "dc_publisher_s": "Studio F.M.B.",
   "solr_year_i": "1966",
   "dct_spatial_sm": [
@@ -30,9 +28,9 @@
     "Provincia di Parma"
   ],
   "layer_id_s": "br86b5317",
-  "georss_box_s": "44.7566 10.2851 44.8405 10.3836",
   "dc_title_s": "Parma: pianta turistica",
   "layer_slug_s": "princeton-br86b5317",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

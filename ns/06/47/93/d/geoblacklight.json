@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1804",
-  "uuid": "http://arks.princeton.edu/ark:/88435/ns064793d",
   "dc_description_s": "A New map of the county of Middlesex : divided into hundreds",
-  "georss_box_s": "51.3849401 -0.3514683 51.6723432 0.148271",
   "layer_modified_dt": "2015-01-21T22:23:49Z",
   "dc_creator_sm": [
     "Smith, Charles,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-ns064793d",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/ns064793d/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ns/06/47/93/d/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.6723432 -0.3514683 51.6723432 0.148271 51.3849401 0.148271 51.3849401 -0.3514683 51.6723432 -0.3514683",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1804"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Middlesex (England)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

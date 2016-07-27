@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-179.147401, 179.761411, 71.332234, -14.605210)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/zp38wf105/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/zp38wf105/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/zp38wf105/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/zp38wf105",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "polygon",
@@ -23,7 +22,6 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "zp38wf105",
-  "georss_polygon_s": "71.332234 -179.147401 71.332234 179.761411 -14.605210 179.761411 -14.605210 -179.147401 71.332234 -179.147401",
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "solr_year_i": "1999",
   "dct_spatial_sm": [
@@ -31,9 +29,9 @@
     "Congressional Districts"
   ],
   "layer_id_s": "pulmap-restricted:zp38wf105",
-  "georss_box_s": "-14.605210 -179.147401 71.332234 179.761411",
   "dc_title_s": "U.S. 106th Congressional Districts 2000",
   "layer_slug_s": "princeton-zp38wf105",
   "layer_geom_type_s": "Polygon",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

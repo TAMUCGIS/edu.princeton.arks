@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1914",
-  "uuid": "http://arks.princeton.edu/ark:/88435/8623j1261",
   "dc_description_s": "Ludwigshafen a. Rh.",
-  "georss_box_s": "49.3192355 8.2791173 49.6392355 8.5991173",
   "layer_modified_dt": "2015-01-21T22:24:27Z",
   "layer_id_s": "8623j1261",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-8623j1261",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/8623j1261/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/86/23/j1/26/1/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "49.6392355 8.2791173 49.6392355 8.5991173 49.3192355 8.5991173 49.3192355 8.2791173 49.6392355 8.2791173",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1914"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Ludwigshafen (Germany)",
     "Rhineland-Palatinate (Germany)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

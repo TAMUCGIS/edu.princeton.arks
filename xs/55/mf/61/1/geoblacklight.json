@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1860",
-  "uuid": "http://arks.princeton.edu/ark:/88435/xs55mf611",
   "dc_description_s": "Map of the vicinity of Philadelphia and Trenton from actual surveys /",
-  "georss_box_s": "40.136843 -74.941622 40.424156 -74.481202",
   "layer_modified_dt": "2015-01-25T02:06:23Z",
   "dc_creator_sm": [
     "Beers, S. N.",
@@ -18,12 +16,14 @@
   "layer_slug_s": "princeton-xs55mf611",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/xs55mf611/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/xs/55/mf/61/1/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.424156 -74.941622 40.424156 -74.481202 40.136843 -74.481202 40.136843 -74.941622 40.424156 -74.941622",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1860"
   ],
   "solr_geom": "ENVELOPE(-74.941622, -74.481202, 40.424156, 40.136843)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

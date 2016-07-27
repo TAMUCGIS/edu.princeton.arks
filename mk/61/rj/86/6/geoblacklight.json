@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1676",
-  "uuid": "http://arks.princeton.edu/ark:/88435/mk61rj866",
   "dc_description_s": "A newe mape of Tartary",
-  "georss_box_s": "41.185353 60.861056525 81.8581221 -169.045286",
   "layer_modified_dt": "2015-01-21T22:23:52Z",
   "dc_creator_sm": [
     "Bassett, Thomas",
@@ -19,7 +17,6 @@
   "layer_slug_s": "princeton-mk61rj866",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/mk61rj866/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/mk/61/rj/86/6/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "81.8581221 60.861056525 81.8581221 -169.045286 41.185353 -169.045286 41.185353 60.861056525 81.8581221 60.861056525",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1676"
@@ -31,5 +28,6 @@
     "Korea",
     "Astrakhan (Russia)",
     "Samarqand (Uzbekistan)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

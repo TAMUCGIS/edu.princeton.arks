@@ -1,18 +1,15 @@
 {
   "solr_year_i": "1844",
-  "uuid": "http://arks.princeton.edu/ark:/88435/vh53wz19h",
-  "dc_description_s": "Karte des petra\u0308ischen Arabien und des su\u0308dlichen Theiles von Sirien",
-  "georss_box_s": "24.7137693396 -9.503203125 52.4939114872 52.569625",
+  "dc_description_s": "Karte des peträischen Arabien und des südlichen Theiles von Sirien",
   "layer_modified_dt": "2015-01-21T22:24:11Z",
   "layer_id_s": "vh53wz19h",
   "dc_type_s": "Image",
   "dc_identifier_s": "vh53wz19h",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Karte des petra\u0308ischen Arabien und des su\u0308dlichen Theiles von Sirien",
+  "dc_title_s": "Karte des peträischen Arabien und des südlichen Theiles von Sirien",
   "layer_slug_s": "princeton-vh53wz19h",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/vh53wz19h/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/vh/53/wz/19/h/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "52.4939114872 -9.503203125 52.4939114872 52.569625 24.7137693396 52.569625 24.7137693396 -9.503203125 52.4939114872 -9.503203125",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1844"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Arabia, Roman"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

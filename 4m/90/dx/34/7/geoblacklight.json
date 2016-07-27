@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1878",
-  "uuid": "http://arks.princeton.edu/ark:/88435/4m90dx347",
   "dc_description_s": "1878 Progress map of the U.S. Geographical Surveys West of the 100th Meridian : to accompany the special report of 1st Lieut, George M. Wheeler, Corps of Engineers, U.S. Army, to Brig. Gen. A.A. Humphreys, Chief of Engineers, U.S. Army, in response to resolution of House of Representatives, March 8th, 1878.",
-  "georss_box_s": "28.0 -126.0 49.0 -86.0",
   "layer_modified_dt": "2015-01-19T22:36:47Z",
   "dc_creator_sm": [
     "Wheeler, George M.",
@@ -16,12 +14,14 @@
   "layer_slug_s": "princeton-4m90dx347",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/4m90dx347/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/4m/90/dx/34/7/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "49.0 -126.0 49.0 -86.0 28.0 -86.0 28.0 -126.0 49.0 -126.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1878"
   ],
   "solr_geom": "ENVELOPE(-126.0, -86.0, 49.0, 28.0)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-76.5, -76.25, 39.75, 39.5)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/hd76s153h/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/hd/76/s1/53/h/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/hd76s153h/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/hd76s153h",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "historical maps",
@@ -20,7 +19,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "hd76s153h",
-  "georss_polygon_s": "39.75 -76.5 39.75 -76.25 39.5 -76.25 39.5 -76.5 39.75 -76.5",
   "dc_publisher_s": "US Geological Survey",
   "dct_spatial_sm": [
     "Belair",
@@ -32,9 +30,9 @@
     "United States"
   ],
   "layer_id_s": "hd76s153h",
-  "georss_box_s": "39.5 -76.5 39.75 -76.25",
   "dc_title_s": "Maryland--Pennsylvania: Belair Quadrangle [1913 reprint]",
   "dct_issued_s": "December 1901",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

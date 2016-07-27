@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-74.625, -74.500, 40.250, 40.125)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/gh93h126r/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/gh/93/h1/26/r/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/gh93h126r/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/gh93h126r",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Topographic map",
@@ -20,7 +19,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "gh93h126r",
-  "georss_polygon_s": "40.250 -74.625 40.250 -74.500 40.125 -74.500 40.125 -74.625 40.250 -74.625",
   "dc_publisher_s": "United States Geological Survey",
   "dct_spatial_sm": [
     "Allentown",
@@ -36,9 +34,9 @@
     "New Jersey"
   ],
   "layer_id_s": "gh93h126r",
-  "georss_box_s": "40.125 -74.625 40.250 -74.500",
   "dc_title_s": "Allentown Quadrangle, New Jersey, 7.5 Minute series (topographic) (1970)",
   "dct_issued_s": "1957 (photorevised 1970)",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

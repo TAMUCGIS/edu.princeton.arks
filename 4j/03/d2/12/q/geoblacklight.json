@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1918",
-  "uuid": "http://arks.princeton.edu/ark:/88435/4j03d212q",
   "dc_description_s": "Adana",
-  "georss_box_s": "36.538639 34.7765051 38.422703 36.4008341",
   "layer_modified_dt": "2015-01-21T22:24:12Z",
   "layer_id_s": "4j03d212q",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-4j03d212q",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/4j03d212q/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/4j/03/d2/12/q/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "38.422703 34.7765051 38.422703 36.4008341 36.538639 36.4008341 36.538639 34.7765051 38.422703 34.7765051",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1918"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Adana Ili (Turkey)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

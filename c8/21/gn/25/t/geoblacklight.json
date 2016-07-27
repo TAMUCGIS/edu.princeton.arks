@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1558",
-  "uuid": "http://arks.princeton.edu/ark:/88435/c821gn25t",
   "dc_description_s": "Brabantiae Belgarum provinciae recens exactaque descriptio",
-  "georss_box_s": "51.2209373 4.190081 51.8307142 6.047724",
   "layer_modified_dt": "2015-01-21T22:24:12Z",
   "dc_creator_sm": [
     "Tramezzino, Michele,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-c821gn25t",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/c821gn25t/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/c8/21/gn/25/t/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.8307142 4.190081 51.8307142 6.047724 51.2209373 6.047724 51.2209373 4.190081 51.8307142 4.190081",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1558"
@@ -27,5 +24,6 @@
     "Brabant (Belgium)",
     "North Brabant (Netherlands)",
     "Maps"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

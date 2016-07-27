@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1908",
-  "uuid": "http://arks.princeton.edu/ark:/88435/1j92gb003",
   "dc_description_s": "Plan von Jena u. Wenigenjena",
-  "georss_box_s": "50.7731401 11.4233091 51.0931401 11.7433091",
   "layer_modified_dt": "2015-01-21T22:24:26Z",
   "layer_id_s": "1j92gb003",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-1j92gb003",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/1j92gb003/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/1j/92/gb/00/3/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.0931401 11.4233091 51.0931401 11.7433091 50.7731401 11.7433091 50.7731401 11.4233091 51.0931401 11.4233091",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1908"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Jena (Germany)",
     "Thuringia (Germany)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

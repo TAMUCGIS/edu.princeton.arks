@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1904",
-  "uuid": "http://arks.princeton.edu/ark:/88435/02870z32v",
   "dc_description_s": "Argentine Republic, Chile, Paraguay, and Uruguay",
-  "georss_box_s": "-55.1906485 -73.5665893 -21.7811679 -53.6374514",
   "layer_modified_dt": "2015-01-21T22:24:06Z",
   "layer_id_s": "02870z32v",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-02870z32v",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/02870z32v/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/02/87/0z/32/v/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "-21.7811679 -73.5665893 -21.7811679 -53.6374514 -55.1906485 -53.6374514 -55.1906485 -73.5665893 -21.7811679 -73.5665893",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1904"
@@ -24,5 +21,6 @@
     "Chile",
     "Paraguay",
     "Uruguay"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

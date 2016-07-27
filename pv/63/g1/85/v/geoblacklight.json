@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(5.866256, 15.041256, 55.056816, 47.270238)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/pv63g185v/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/pv63g185v/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/pv63g185v/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/pv63g185v",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "administrative units",
@@ -23,16 +22,15 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "pv63g185v",
-  "georss_polygon_s": "55.056816 5.866256 55.056816 15.041256 47.270238 15.041256 47.270238 5.866256 55.056816 5.866256",
   "dc_publisher_s": "Gfk MACON Company",
   "solr_year_i": "2006",
   "dct_spatial_sm": [
     "Germany"
   ],
   "layer_id_s": "pulmap-restricted:pv63g185v",
-  "georss_box_s": "47.270238 5.866256 55.056816 15.041256",
   "dc_title_s": "germany Health Insurance Unit Boundaries, 2006",
   "layer_slug_s": "princeton-pv63g185v",
   "layer_geom_type_s": "Polygon",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

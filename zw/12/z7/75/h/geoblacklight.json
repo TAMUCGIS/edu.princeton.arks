@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1926",
-  "uuid": "http://arks.princeton.edu/ark:/88435/zw12z775h",
   "dc_description_s": "[Monterey Peninsula] : California's playground",
-  "georss_box_s": "36.5520446591 -121.9801030269 36.6400033332 -121.8081099",
   "layer_modified_dt": "2015-01-21T22:24:08Z",
   "layer_id_s": "zw12z775h",
   "dc_type_s": "Image",
@@ -12,12 +10,14 @@
   "layer_slug_s": "princeton-zw12z775h",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/zw12z775h/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/zw/12/z7/75/h/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "36.6400033332 -121.9801030269 36.6400033332 -121.8081099 36.5520446591 -121.8081099 36.5520446591 -121.9801030269 36.6400033332 -121.9801030269",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1926"
   ],
   "solr_geom": "ENVELOPE(-121.9801030269, -121.8081099, 36.6400033332, 36.5520446591)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1898",
-  "uuid": "http://arks.princeton.edu/ark:/88435/mc87ps77d",
   "dc_description_s": "Plan von Wiesbaden",
-  "georss_box_s": "49.3952611 7.7724063 51.657817 10.2364858",
   "layer_modified_dt": "2015-01-21T22:24:26Z",
   "layer_id_s": "mc87ps77d",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-mc87ps77d",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/mc87ps77d/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/mc/87/ps/77/d/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.657817 7.7724063 51.657817 10.2364858 49.3952611 10.2364858 49.3952611 7.7724063 51.657817 7.7724063",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1898"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Hesse (Germany)",
     "Wiesbaden (Germany)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

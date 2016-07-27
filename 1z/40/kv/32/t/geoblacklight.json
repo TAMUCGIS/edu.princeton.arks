@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-74.6697, -74.6313, 40.3696, 40.3197)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/1z40kv32t/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/1z/40/kv/32/t/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/1z40kv32t/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/1z40kv32t",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Aerial Photograph",
@@ -18,7 +17,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "1z40kv32t",
-  "georss_polygon_s": "40.3696 -74.6697 40.3696 -74.6313 40.3197 -74.6313 40.3197 -74.6697 40.3696 -74.6697",
   "dc_publisher_s": "Princeton University Facilities",
   "solr_year_i": "2004",
   "dct_spatial_sm": [
@@ -27,9 +25,9 @@
     "Mercer"
   ],
   "layer_id_s": "1z40kv32t",
-  "georss_box_s": "40.3197 -74.6697 40.3696 -74.6313",
   "dc_title_s": "2003 Princeton University Aerial Photograph",
   "dct_issued_s": "2004",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

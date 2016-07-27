@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1900",
-  "uuid": "http://arks.princeton.edu/ark:/88435/sb397b78n",
   "dc_description_s": "Plan von Erfurt ; Umgebungskarte von Erfurt",
-  "georss_box_s": "50.8178285 10.8696459 51.1378285 11.1896459",
   "layer_modified_dt": "2015-01-25T02:06:19Z",
   "layer_id_s": "sb397b78n",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-sb397b78n",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/sb397b78n/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/sb/39/7b/78/n/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.1378285 10.8696459 51.1378285 11.1896459 50.8178285 11.1896459 50.8178285 10.8696459 51.1378285 10.8696459",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1900"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Erfurt (Germany)",
     "Thuringia (Germany)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

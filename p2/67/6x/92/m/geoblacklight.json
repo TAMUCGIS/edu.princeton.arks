@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1833",
-  "uuid": "http://arks.princeton.edu/ark:/88435/p2676x92m",
   "dc_description_s": "A map of the State of New Jersey with part of the adjoining states : compiled under the patronage of the Legislature of said state",
-  "georss_box_s": "38.7911303 -75.5633859 41.357423 -73.8939789",
   "layer_modified_dt": "2015-01-25T02:06:11Z",
   "dc_creator_sm": [
     "Tanner, Henry Schenck,",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-p2676x92m",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/p2676x92m/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/p2/67/6x/92/m/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "41.357423 -75.5633859 41.357423 -73.8939789 38.7911303 -73.8939789 38.7911303 -75.5633859 41.357423 -75.5633859",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1833"
@@ -26,5 +23,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "New Jersey"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1865",
-  "uuid": "http://arks.princeton.edu/ark:/88435/ns0648480",
   "dc_description_s": "Rio de la Plata",
-  "georss_box_s": "-37.0 -59.0 -34.0 -53.0",
   "layer_modified_dt": "2015-01-19T22:37:11Z",
   "dc_creator_sm": [
     "Fitzroy, Robert,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-ns0648480",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/ns0648480/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ns/06/48/48/0/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "-34.0 -59.0 -34.0 -53.0 -37.0 -53.0 -37.0 -59.0 -34.0 -59.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1865"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Rio de la Plata (Argentina and Uruguay)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-0.1002, 0.2354, 51.509, 51.202)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/rb68xd56j\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/rb68xd56j/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/rb68xd56j",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -19,7 +18,6 @@
   "dc_creator_sm": "Kelly's Directories Limited",
   "dc_type_s": "Image",
   "dc_identifier_s": "rb68xd56j",
-  "georss_polygon_s": "51.509 -0.1002 51.509 0.2354 51.202 0.2354 51.202 -0.1002 51.509 -0.1002",
   "dc_publisher_s": "Kelly's Directories Limited",
   "solr_year_i": "1938",
   "dct_spatial_sm": [
@@ -27,9 +25,9 @@
     "England"
   ],
   "layer_id_s": "rb68xd56j",
-  "georss_box_s": "51.202 -0.1002 51.509 0.2354",
   "dc_title_s": "Kelly's post office directory map of London. South Eastern Section. (4/4)",
   "layer_slug_s": "princeton-rb68xd56j",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

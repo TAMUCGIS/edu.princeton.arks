@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-74.5, -74.15, 43, 42.75)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/4q77ft02p/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/4q/77/ft/02/p/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/4q77ft02p/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/4q77ft02p",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "historical maps",
@@ -20,7 +19,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "4q77ft02p",
-  "georss_polygon_s": "43 -74.5 43 -74.15 42.75 -74.15 42.75 -74.5 43 -74.5",
   "dc_publisher_s": "US Geological Survey",
   "dct_spatial_sm": [
     "Fonda",
@@ -30,9 +28,9 @@
     "United States"
   ],
   "layer_id_s": "4q77ft02p",
-  "georss_box_s": "42.75 -74.5 43 -74.15",
   "dc_title_s": "New York: Fonda Quadrangle, 1905 reprint",
   "dct_issued_s": "May 1902",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

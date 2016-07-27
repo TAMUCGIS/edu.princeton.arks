@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1933",
-  "uuid": "http://arks.princeton.edu/ark:/88435/m613n0388",
   "dc_description_s": "Special military map, 2665:2152:/76. New Jersey: Princeton and vicinity. Grid zone \"A\" 838.1978.",
-  "georss_box_s": "40.31667 -74.73333 40.40000 -74.63333",
   "layer_modified_dt": "2015-01-19T22:36:33Z",
   "layer_id_s": "m613n0388",
   "dc_type_s": "Image",
@@ -12,12 +10,14 @@
   "layer_slug_s": "princeton-m613n0388",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/m613n0388/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/m6/13/n0/38/8/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.40000 -74.73333 40.40000 -74.63333 40.31667 -74.63333 40.31667 -74.73333 40.40000 -74.73333",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1933"
   ],
   "solr_geom": "ENVELOPE(-74.73333, -74.63333, 40.40000, 40.31667)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

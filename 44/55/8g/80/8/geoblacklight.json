@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1636",
-  "uuid": "http://arks.princeton.edu/ark:/88435/44558g808",
   "dc_description_s": "Plans of the principal towns, forts and harbours in Ireland",
-  "georss_box_s": "53.3846463 -7.9805485 53.4646463 -7.9005485",
   "layer_modified_dt": "2015-01-21T22:24:23Z",
   "dc_creator_sm": [
     "Tindal, N.",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-44558g808",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/44558g808/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/44/55/8g/80/8/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "53.4646463 -7.9805485 53.4646463 -7.9005485 53.3846463 -7.9005485 53.3846463 -7.9805485 53.4646463 -7.9805485",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1636"
@@ -40,5 +37,6 @@
     "Kinsale (Ireland)",
     "Limerick (Limerick, Ireland)",
     "Waterford (Ireland)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

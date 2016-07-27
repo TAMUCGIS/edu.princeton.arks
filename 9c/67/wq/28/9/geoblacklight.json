@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1815",
-  "uuid": "http://arks.princeton.edu/ark:/88435/9c67wq289",
-  "dc_description_s": "Holland, from the map executed at the Dutch Military De\u0301po\u0302t",
-  "georss_box_s": "11.825 -68.6255318 53.7253321 7.2274985",
+  "dc_description_s": "Holland, from the map executed at the Dutch Military Dépôt",
   "layer_modified_dt": "2015-01-25T02:06:13Z",
   "dc_creator_sm": [
     "Arrowsmith, Aaron,"
@@ -11,11 +9,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "9c67wq289",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Holland, from the map executed at the Dutch Military De\u0301po\u0302t",
+  "dc_title_s": "Holland, from the map executed at the Dutch Military Dépôt",
   "layer_slug_s": "princeton-9c67wq289",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/9c67wq289/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/9c/67/wq/28/9/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "53.7253321 -68.6255318 53.7253321 7.2274985 11.825 7.2274985 11.825 -68.6255318 53.7253321 -68.6255318",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1815"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Netherlands"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

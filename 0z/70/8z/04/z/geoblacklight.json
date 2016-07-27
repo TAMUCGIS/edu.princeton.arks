@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(08.84, 08.87, 48.29, 48.26)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/0z708z04z\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/0z708z04z/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/0z708z04z",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Stadte-Verlag",
   "dc_type_s": "Image",
   "dc_identifier_s": "0z708z04z",
-  "georss_polygon_s": "48.29 08.84 48.29 08.87 48.26 08.87 48.26 08.84 48.29 08.84",
   "dc_publisher_s": "Stadte-Verlag",
   "solr_year_i": "1956",
   "dct_spatial_sm": [
@@ -26,9 +24,9 @@
     "Germany"
   ],
   "layer_id_s": "0z708z04z",
-  "georss_box_s": "48.26 08.84 48.29 08.87",
   "dc_title_s": "Stadtplan Balingen",
   "layer_slug_s": "princeton-0z708z04z",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

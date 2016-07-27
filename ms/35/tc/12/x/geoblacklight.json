@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1610",
-  "uuid": "http://arks.princeton.edu/ark:/88435/ms35tc12x",
   "dc_description_s": "Caermarden, both shyre and towne described",
-  "georss_box_s": "51.6449541 -4.721562 52.1421061 -3.6471251",
   "layer_modified_dt": "2015-01-25T02:06:16Z",
   "dc_creator_sm": [
     "Hondius, Jodocus,",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-ms35tc12x",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/ms35tc12x/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ms/35/tc/12/x/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "52.1421061 -4.721562 52.1421061 -3.6471251 51.6449541 -3.6471251 51.6449541 -4.721562 52.1421061 -4.721562",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1610"
@@ -26,5 +23,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Carmarthenshire (Wales)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

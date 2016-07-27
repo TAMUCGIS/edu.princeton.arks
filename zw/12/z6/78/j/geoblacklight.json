@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-76.5, -76.25, 38.5, 38.25)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/zw12z678j/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/zw/12/z6/78/j/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/zw12z678j/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/zw12z678j",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "historical maps",
@@ -20,7 +19,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "zw12z678j",
-  "georss_polygon_s": "38.5 -76.5 38.5 -76.25 38.25 -76.25 38.25 -76.5 38.5 -76.5",
   "dc_publisher_s": "US Geological Survey",
   "dct_spatial_sm": [
     "Drum Point",
@@ -31,9 +29,9 @@
     "United States"
   ],
   "layer_id_s": "zw12z678j",
-  "georss_box_s": "38.25 -76.5 38.5 -76.25",
   "dc_title_s": "Maryland: Drum Point Quadrangle [1905] ",
   "dct_issued_s": "October 1905",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

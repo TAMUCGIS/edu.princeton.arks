@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1827",
-  "uuid": "http://arks.princeton.edu/ark:/88435/3n204146q",
   "dc_description_s": "Partie de Madagascar",
-  "georss_box_s": "-18.0 43.3333333333 -11.0 51.3333333333",
   "layer_modified_dt": "2015-01-19T22:37:02Z",
   "dc_creator_sm": [
     "Vandermaelen, Philippe, 1795-1869."
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-3n204146q",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/3n204146q/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/3n/20/41/46/q/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "-11.0 43.3333333333 -11.0 51.3333333333 -18.0 51.3333333333 -18.0 43.3333333333 -11.0 43.3333333333",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1827"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "Comoros",
     "Madagascar"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

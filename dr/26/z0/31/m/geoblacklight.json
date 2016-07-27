@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-75.253033, -75.20384, 39.455303, 39.402758)",
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/dr/26/z0/31/m/00000001.jp2/info.json\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/dr26z031m",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
@@ -21,7 +20,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "dr26z031m",
-  "georss_polygon_s": "39.455303 -75.253033 39.455303 -75.20384 39.402758 -75.20384 39.402758 -75.253033 39.455303 -75.253033",
   "dc_publisher_s": "New York: Sanborn Map Company",
   "solr_year_i": "1903",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "Bridgeton"
   ],
   "layer_id_s": "dr26z031m",
-  "georss_box_s": "39.402758 -75.253033 39.455303 -75.20384",
   "dc_title_s": "Insurance maps of Bridgeton, Cumberland County, New Jersey (Sheet 18).",
   "layer_slug_s": "princeton-dr26z031m",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

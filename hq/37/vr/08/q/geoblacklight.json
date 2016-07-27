@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1611",
-  "uuid": "http://arks.princeton.edu/ark:/88435/hq37vr08q",
   "dc_description_s": "Leicester both countye and citie described, the honorable famylies that have had the titles of Earls thereof, with other accidents therein observed",
-  "georss_box_s": "52.392171 -1.5971173 52.9776545 -0.664111",
   "layer_modified_dt": "2015-01-25T02:06:17Z",
   "dc_creator_sm": [
     "Hondius, Jodocus,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-hq37vr08q",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/hq37vr08q/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/hq/37/vr/08/q/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "52.9776545 -1.5971173 52.9776545 -0.664111 52.392171 -0.664111 52.392171 -1.5971173 52.9776545 -1.5971173",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1611"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Leicestershire (England)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

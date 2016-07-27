@@ -1,12 +1,9 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/3197xn470",
   "dc_description_s": "Map of the world in Arabic.",
-  "georss_box_s": "-90 -180 90 180",
   "layer_slug_s": "princeton-3197xn470",
   "layer_modified_dt": "2015-01-11T18:24:36Z",
   "dc_creator_sm": "Petroleum Economist Ltd.",
   "layer_id_s": "3197xn470",
-  "georss_polygon_s": "90 -180 90 180 -90 180 -90 -180 90 -180",
   "dc_type_s": "Image",
   "dc_identifier_s": "3197xn470",
   "dct_provenance_s": "Princeton",
@@ -24,5 +21,6 @@
   "solr_year_i": "2003",
   "solr_geom": "ENVELOPE(-180, 180, 90, -90)",
   "dc_rights_s": "Restricted",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

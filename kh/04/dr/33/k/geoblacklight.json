@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(22.14, 22.34, 60.54, 60.40)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/kh04dr33k\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/kh04dr33k/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/kh04dr33k",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -19,7 +18,6 @@
   "dc_creator_sm": "Turun kaupungin Mittausosasto",
   "dc_type_s": "Image",
   "dc_identifier_s": "kh04dr33k",
-  "georss_polygon_s": "60.54 22.14 60.54 22.34 60.40 22.34 60.40 22.14 60.54 22.14",
   "dc_publisher_s": "Turun kaupungin Mittausosasto",
   "solr_year_i": "1964",
   "dct_spatial_sm": [
@@ -27,9 +25,9 @@
     "Finland"
   ],
   "layer_id_s": "kh04dr33k",
-  "georss_box_s": "60.40 22.14 60.54 22.34",
   "dc_title_s": "Turku Abo",
   "layer_slug_s": "princeton-kh04dr33k",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

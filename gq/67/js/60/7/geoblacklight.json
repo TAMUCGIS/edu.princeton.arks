@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(20.2222, 20.6184, 44.9429, 44.6886)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/gq67js607\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/gq67js607/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/gq67js607",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Geokarta",
   "dc_type_s": "Image",
   "dc_identifier_s": "gq67js607",
-  "georss_polygon_s": "44.9429 20.2222 44.9429 20.6184 44.6886 20.6184 44.6886 20.2222 44.9429 20.2222",
   "dc_publisher_s": "Geokarta",
   "solr_year_i": "1953",
   "dct_spatial_sm": [
@@ -30,9 +28,9 @@
     "Singidunum"
   ],
   "layer_id_s": "gq67js607",
-  "georss_box_s": "44.6886 20.2222 44.9429 20.6184",
   "dc_title_s": "Plan Beograda",
   "layer_slug_s": "princeton-gq67js607",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

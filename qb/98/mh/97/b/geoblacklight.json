@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1894",
-  "uuid": "http://arks.princeton.edu/ark:/88435/qb98mh97b",
   "dc_description_s": "Usedom (Wolgaster Ort)",
-  "georss_box_s": "53.1098405 10.5938299 54.8849662 14.4125172",
   "layer_modified_dt": "2015-01-21T22:24:23Z",
   "layer_id_s": "qb98mh97b",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-qb98mh97b",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/qb98mh97b/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/qb/98/mh/97/b/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "54.8849662 10.5938299 54.8849662 14.4125172 53.1098405 14.4125172 53.1098405 10.5938299 54.8849662 10.5938299",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1894"
@@ -21,7 +18,8 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Mecklenburg-Vorpommern (Germany)",
-    "Peenemu\u0308nde (Germany)",
+    "Peenemünde (Germany)",
     "Usedom Island (Germany)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

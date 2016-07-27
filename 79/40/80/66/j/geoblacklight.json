@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1898",
-  "uuid": "http://arks.princeton.edu/ark:/88435/79408066j",
   "dc_description_s": "Walchensee-Garmisch=Partenkn.-Reutte-Oberinntal",
-  "georss_box_s": "47.2701115 9.6794747 47.8562624898 13.8396371",
   "layer_modified_dt": "2015-01-21T22:24:23Z",
   "dc_creator_sm": [
     "Zeller, Kurt,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-79408066j",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/79408066j/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/79/40/80/66/j/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "47.8562624898 9.6794747 47.8562624898 13.8396371 47.2701115 13.8396371 47.2701115 9.6794747 47.8562624898 9.6794747",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1898"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Alps, Bavarian (Germany)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

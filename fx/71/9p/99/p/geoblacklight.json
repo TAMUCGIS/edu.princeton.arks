@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1700",
-  "uuid": "http://arks.princeton.edu/ark:/88435/fx719p99p",
   "dc_description_s": "Suchuen, et Xensi, provinciae seu praefecturae Regni Sinensis versus caurum id est inter occidentem et septentrionem sitae",
-  "georss_box_s": "33.44 106.44 38.56 111.56",
   "layer_modified_dt": "2015-01-21T22:24:25Z",
   "dc_creator_sm": [
     "Jansson, Jan,",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-fx719p99p",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/fx719p99p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/fx/71/9p/99/p/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "38.56 106.44 38.56 111.56 33.44 111.56 33.44 106.44 38.56 106.44",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1700"
@@ -27,5 +24,6 @@
   "dct_spatial_sm": [
     "Shaanxi Sheng (China)",
     "Sichuan Sheng (China)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

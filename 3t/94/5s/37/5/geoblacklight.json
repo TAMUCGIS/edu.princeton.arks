@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-74.028, -73.996, 40.232, 40.213)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/3t945s375/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/3t/94/5s/37/5/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/3t945s375/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/3t945s375",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
@@ -18,7 +17,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "3t945s375",
-  "georss_polygon_s": "40.232 -74.028 40.232 -73.996 40.213 -73.996 40.213 -74.028 40.232 -74.028",
   "dc_publisher_s": "Sanborn-Perris Map Company",
   "solr_year_i": "1890",
   "dct_spatial_sm": [
@@ -28,9 +26,9 @@
     "United States"
   ],
   "layer_id_s": "3t945s375",
-  "georss_box_s": "40.213 -74.028 40.232 -73.996",
   "dc_title_s": "Asbury Park, Monmouth Co., New Jersey (Sheet 38)",
   "dct_issued_s": "1890",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

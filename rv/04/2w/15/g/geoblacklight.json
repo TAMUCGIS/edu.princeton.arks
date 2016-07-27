@@ -1,11 +1,9 @@
 {
   "solr_year_i": "1777",
-  "uuid": "http://arks.princeton.edu/ark:/88435/rv042w15g",
   "dc_description_s": "A map of the provinces of New-York and New-Jersey : with a part of Pennsylvania and the Province of Quebec",
-  "georss_box_s": "40.4913686 -79.7621438 45.015865 -71.8562643",
   "layer_modified_dt": "2015-01-21T22:23:54Z",
   "dc_creator_sm": [
-    "Lotter, Mattha\u0308us Albrecht,",
+    "Lotter, Matthäus Albrecht,",
     "Fox, N. B.,"
   ],
   "layer_id_s": "rv042w15g",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-rv042w15g",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/rv042w15g/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/rv/04/2w/15/g/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "45.015865 -79.7621438 45.015865 -71.8562643 40.4913686 -71.8562643 40.4913686 -79.7621438 45.015865 -79.7621438",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1777"
@@ -29,6 +26,7 @@
     "New Jersey",
     "New Jersey",
     "Northeastern States",
-    "Que\u0301bec (Province)"
-  ]
+    "Québec (Province)"
+  ],
+  "geoblacklight_version": "1.0"
 }

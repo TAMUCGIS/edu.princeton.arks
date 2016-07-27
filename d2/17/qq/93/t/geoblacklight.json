@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-70.00, -69.50, -14.00, -14.50)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/d217qq93t\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/d217qq93t/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/d217qq93t",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "geoscientificInformation",
@@ -17,7 +16,6 @@
   "dc_creator_sm": "Instituto Geologico Minero y Metalurgico",
   "dc_type_s": "Image",
   "dc_identifier_s": "d217qq93t",
-  "georss_polygon_s": "-14.00 -70.00 -14.00 -69.50 -14.50 -69.50 -14.50 -70.00 -14.00 -70.00",
   "dc_publisher_s": "Instituto Geologico Minero y Metalurgico",
   "solr_year_i": "1996",
   "dct_spatial_sm": [
@@ -26,9 +24,9 @@
     "Limbani Quad."
   ],
   "layer_id_s": "d217qq93t",
-  "georss_box_s": "-14.50 -70.00 -14.00 -69.50",
-  "dc_title_s": "Peru 1:100 000: Perfiles secciones ge\u00f3logicas del cuadr\u00e1ngulo de Limbani",
+  "dc_title_s": "Peru 1:100 000: Perfiles secciones geólogicas del cuadrángulo de Limbani",
   "layer_slug_s": "princeton-d217qq93t",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

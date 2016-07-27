@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-72, -71.75, 42, 41.75)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/sn00b0529/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/sn/00/b0/52/9/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/sn00b0529/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/sn00b0529",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "historical maps",
@@ -20,7 +19,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "sn00b0529",
-  "georss_polygon_s": "42 -72 42 -71.75 41.75 -71.75 41.75 -72 42 -72",
   "dc_publisher_s": "US Geological Survey",
   "dct_spatial_sm": [
     "Putnam",
@@ -31,9 +29,9 @@
     "United States"
   ],
   "layer_id_s": "sn00b0529",
-  "georss_box_s": "41.75 -72 42 -71.75",
   "dc_title_s": "Connecticut-Rhode Island: Putnam sheet [1928 reprint]",
   "dct_issued_s": "April 1893",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

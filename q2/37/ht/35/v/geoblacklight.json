@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(97.573631, 106.074303, 28.919423, 21.236832)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/q237ht35v/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/q237ht35v/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/q237ht35v/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/q237ht35v",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "demographic",
@@ -49,7 +48,6 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "q237ht35v",
-  "georss_polygon_s": "28.919423 97.573631 28.919423 106.074303 21.236832 106.074303 21.236832 97.573631 28.919423 97.573631",
   "solr_year_i": "2000",
   "dct_spatial_sm": [
     "China",
@@ -57,9 +55,9 @@
     "Yunnan Province"
   ],
   "layer_id_s": "pulmap-restricted:q237ht35v",
-  "georss_box_s": "21.236832 97.573631 28.919423 106.074303",
   "dc_title_s": "Township map of Yunnan with 2000 Census long form data (L7-L8)",
   "layer_slug_s": "princeton-q237ht35v",
   "layer_geom_type_s": "Point",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

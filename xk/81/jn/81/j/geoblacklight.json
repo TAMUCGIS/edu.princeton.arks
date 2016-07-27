@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1820",
-  "uuid": "http://arks.princeton.edu/ark:/88435/xk81jn81j",
   "dc_description_s": "Effigies antiquae Romae ex vestigiis aedificiorum ruinis : testimonio veterum auctorum fide : numismatum monumentis, aeneis, plumbaeis, saxeis, tiglinisque",
-  "georss_box_s": "41.6556417 12.2344985 42.1410285 12.8557603",
   "layer_modified_dt": "2015-01-25T02:06:11Z",
   "dc_creator_sm": [
     "Tramezini, Michael.",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-xk81jn81j",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/xk81jn81j/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/xk/81/jn/81/j/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "42.1410285 12.2344985 42.1410285 12.8557603 41.6556417 12.8557603 41.6556417 12.2344985 42.1410285 12.2344985",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1820"
@@ -27,5 +24,6 @@
     "Rome (Italy)",
     "Rome (Italy)",
     "Rome (Italy)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

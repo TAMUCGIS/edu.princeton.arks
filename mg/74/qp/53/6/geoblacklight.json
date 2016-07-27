@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1918",
-  "uuid": "http://arks.princeton.edu/ark:/88435/mg74qp536",
   "dc_description_s": "Denver, the gateway to twelve national parks and thirty-two national monuments",
-  "georss_box_s": "-14.7608357 -179.9999999 71.6048217 180",
   "layer_modified_dt": "2015-01-21T22:24:00Z",
   "dc_creator_sm": [
     "Yard, Robert Sterling,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-mg74qp536",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/mg74qp536/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/mg/74/qp/53/6/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "71.6048217 -179.9999999 71.6048217 180 -14.7608357 180 -14.7608357 -179.9999999 71.6048217 -179.9999999",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1918"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "United States"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

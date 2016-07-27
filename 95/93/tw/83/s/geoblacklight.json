@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(47.643882, 47.857330, 30.580319, 30.469102)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/9593tw83s/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/9593tw83s/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/9593tw83s/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/9593tw83s",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Facilities and structures",
@@ -23,7 +22,6 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "9593tw83s",
-  "georss_polygon_s": "30.580319 47.643882 30.580319 47.857330 30.469102 47.857330 30.469102 47.643882 30.580319 47.643882",
   "dc_publisher_s": "LeadDog Consulting, LLC",
   "solr_year_i": "2006",
   "dct_spatial_sm": [
@@ -31,9 +29,9 @@
     "Iraq"
   ],
   "layer_id_s": "pulmap-restricted:9593tw83s",
-  "georss_box_s": "30.469102 47.643882 30.580319 47.857330",
   "dc_title_s": "Basra points of interest",
   "layer_slug_s": "princeton-9593tw83s",
   "layer_geom_type_s": "Point",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

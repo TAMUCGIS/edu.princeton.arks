@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(2.4333, 2.4667, 41.5500, 41.5167)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/v405sb838/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/v4/05/sb/83/8/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/v405sb838/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/v405sb838",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
@@ -23,7 +22,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "v405sb838",
-  "georss_polygon_s": "41.5500 2.4333 41.5500 2.4667 41.5167 2.4667 41.5167 2.4333 41.5500 2.4333",
   "dc_publisher_s": "Army Map Service",
   "solr_year_i": "1943",
   "dct_spatial_sm": [
@@ -33,9 +31,9 @@
     "Spain"
   ],
   "layer_id_s": "v405sb838",
-  "georss_box_s": "41.5167 2.4333 41.5500 2.4667",
   "dc_title_s": "Spain 1:10,000. Mataro city plan. A.M.S. M981.",
   "dct_issued_s": "1943",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

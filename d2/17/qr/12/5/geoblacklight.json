@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(18.0500, 18.1500, 42.6833, 42.6167)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/d217qr125/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/d2/17/qr/12/5/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/d217qr125/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/d217qr125",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
@@ -22,21 +21,20 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "d217qr125",
-  "georss_polygon_s": "42.6833 18.0500 42.6833 18.1500 42.6167 18.1500 42.6167 18.0500 42.6833 18.0500",
   "dc_publisher_s": "Defense Mapping Agency",
   "solr_year_i": "1995",
   "dct_spatial_sm": [
     "Dubrovnik",
     "Hrvatska",
-    "Dubrova\u00a1ko",
+    "Dubrova¡ko",
     "Neretvanska  Zupanija",
     "Ragusa",
     "Croatia"
   ],
   "layer_id_s": "d217qr125",
-  "georss_box_s": "42.6167 18.0500 42.6833 18.1500",
   "dc_title_s": "Croatia city graphic 1:12,500. Dubrovnik. Series M903.",
   "dct_issued_s": "1995",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

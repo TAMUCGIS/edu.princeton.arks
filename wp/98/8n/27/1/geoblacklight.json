@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1889",
-  "uuid": "http://arks.princeton.edu/ark:/88435/wp988n271",
   "dc_description_s": "Brazil, Uruguay, Paraguay & Guyana",
-  "georss_box_s": "-35.0 -67.0 8.0 -37.0",
   "layer_modified_dt": "2015-01-19T22:37:15Z",
   "layer_id_s": "wp988n271",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-wp988n271",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/wp988n271/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/wp/98/8n/27/1/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "8.0 -67.0 8.0 -37.0 -35.0 -37.0 -35.0 -67.0 8.0 -67.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1889"
@@ -24,5 +21,6 @@
     "Guiana",
     "Paraguay",
     "Uruguay"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,18 +1,15 @@
 {
   "solr_year_i": "1750",
-  "uuid": "http://arks.princeton.edu/ark:/88435/kw52jb52f",
-  "dc_description_s": "Recens elaborata mappa geographica regni Brasili\u00e6 in America Meridionali",
-  "georss_box_s": "-33.8689055 -73.9830624 5.2834573 -28.6341163",
+  "dc_description_s": "Recens elaborata mappa geographica regni Brasiliæ in America Meridionali",
   "layer_modified_dt": "2015-01-21T22:24:07Z",
   "layer_id_s": "kw52jb52f",
   "dc_type_s": "Image",
   "dc_identifier_s": "kw52jb52f",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Recens elaborata mappa geographica regni Brasili\u00e6 in America Meridionali",
+  "dc_title_s": "Recens elaborata mappa geographica regni Brasiliæ in America Meridionali",
   "layer_slug_s": "princeton-kw52jb52f",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/kw52jb52f/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/kw/52/jb/52/f/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "5.2834573 -73.9830624 5.2834573 -28.6341163 -33.8689055 -28.6341163 -33.8689055 -73.9830624 5.2834573 -73.9830624",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1750"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Brazil"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

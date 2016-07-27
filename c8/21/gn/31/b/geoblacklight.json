@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1905",
-  "uuid": "http://arks.princeton.edu/ark:/88435/c821gn31b",
   "dc_description_s": "Erlangen",
-  "georss_box_s": "49.4381208 10.8436532 49.7581208 11.1636532",
   "layer_modified_dt": "2015-01-21T22:24:27Z",
   "dc_creator_sm": [
     "Woerl, Leo,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-c821gn31b",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/c821gn31b/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/c8/21/gn/31/b/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "49.7581208 10.8436532 49.7581208 11.1636532 49.4381208 11.1636532 49.4381208 10.8436532 49.7581208 10.8436532",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1905"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "Erlangen (Germany)",
     "Bavaria (Germany)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

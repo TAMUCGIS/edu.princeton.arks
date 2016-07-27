@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-74.085809, -74.070891, 39.937538, 39.912738)",
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/sj/13/94/11/t/00000001.jp2/info.json\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/sj139411t",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
@@ -21,7 +20,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "sj139411t",
-  "georss_polygon_s": "39.937538 -74.085809 39.937538 -74.070891 39.912738 -74.070891 39.912738 -74.085809 39.937538 -74.085809",
   "dc_publisher_s": "New York: Sanborn Map Company",
   "solr_year_i": "1905",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "Seaside Park"
   ],
   "layer_id_s": "sj139411t",
-  "georss_box_s": "39.912738 -74.085809 39.937538 -74.070891",
   "dc_title_s": "Sea Side Park, Ocean County, New Jersey (Sheet 62).",
   "layer_slug_s": "princeton-sj139411t",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

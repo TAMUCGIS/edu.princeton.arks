@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1782",
-  "uuid": "http://arks.princeton.edu/ark:/88435/nk322g830",
   "dc_description_s": "Der Fraenkische Kreis",
-  "georss_box_s": "48.858336 10.0695475 49.7882495 11.6016272",
   "layer_modified_dt": "2015-01-21T22:24:19Z",
   "layer_id_s": "nk322g830",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-nk322g830",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/nk322g830/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/nk/32/2g/83/0/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "49.7882495 10.0695475 49.7882495 11.6016272 48.858336 11.6016272 48.858336 10.0695475 49.7882495 10.0695475",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1782"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Franconia (Germany)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

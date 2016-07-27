@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1732",
-  "uuid": "http://arks.princeton.edu/ark:/88435/2801pj80b",
   "dc_description_s": "Persia, the Caspian Sea : done by ye Czar, and part of Independent Tartary by ... with his tract from Astracan to Gilan in Persia above 2700 Eng[lish] miles",
-  "georss_box_s": "29.388333 60.503889 38.4899217 74.889862",
   "layer_modified_dt": "2015-01-21T22:24:11Z",
   "dc_creator_sm": [
     "Bowles, John,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-2801pj80b",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/2801pj80b/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/28/01/pj/80/b/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "38.4899217 60.503889 38.4899217 74.889862 29.388333 74.889862 29.388333 60.503889 38.4899217 60.503889",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1732"
@@ -27,5 +24,6 @@
     "Afghanistan",
     "Caspian Sea",
     "Iran"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

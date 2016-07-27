@@ -1,11 +1,9 @@
 {
   "solr_year_i": "1901",
-  "uuid": "http://arks.princeton.edu/ark:/88435/0z708z98x",
   "dc_description_s": "Proyecto de abastecimiento de aguas para la ciudad de Mexico : acueducto de Xochimilco : plano general",
-  "georss_box_s": "19.2725301 -99.2932102 19.5925301 -98.9732102",
   "layer_modified_dt": "2015-01-25T02:06:20Z",
   "dc_creator_sm": [
-    "Marroqui\u0301n y Rivera, Manuel."
+    "Marroquín y Rivera, Manuel."
   ],
   "layer_id_s": "0z708z98x",
   "dc_type_s": "Image",
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-0z708z98x",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/0z708z98x/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/0z/70/8z/98/x/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "19.5925301 -99.2932102 19.5925301 -98.9732102 19.2725301 -98.9732102 19.2725301 -99.2932102 19.5925301 -99.2932102",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1901"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Mexico City (Mexico)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

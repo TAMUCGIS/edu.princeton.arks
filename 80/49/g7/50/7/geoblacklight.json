@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1745",
-  "uuid": "http://arks.princeton.edu/ark:/88435/8049g7507",
   "dc_description_s": "A map of South America with all the European settlements & whatever else is remarkable from the latest & best observations",
-  "georss_box_s": "-60.0 -100.0 15.0 -20.0",
   "layer_modified_dt": "2015-01-19T22:37:10Z",
   "dc_creator_sm": [
     "Rapin de Thoyras,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-8049g7507",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/8049g7507/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/80/49/g7/50/7/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "15.0 -100.0 15.0 -20.0 -60.0 -20.0 -60.0 -100.0 15.0 -100.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1745"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "South America"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

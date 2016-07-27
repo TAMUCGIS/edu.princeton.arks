@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1898",
-  "uuid": "http://arks.princeton.edu/ark:/88435/zg64tn74d",
   "dc_description_s": "Carte geologique detaillee de la France [a 1/80 000]: Chatillon.",
-  "georss_box_s": "47.68050 4.48380 48.04010 5.34180",
   "layer_modified_dt": "2015-01-19T22:36:38Z",
   "layer_id_s": "zg64tn74d",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-zg64tn74d",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/zg64tn74d/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/zg/64/tn/74/d/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "48.04010 4.48380 48.04010 5.34180 47.68050 5.34180 47.68050 4.48380 48.04010 4.48380",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1898"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "France"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

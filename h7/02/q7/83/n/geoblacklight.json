@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(77.1667, 77.2833, 28.7167, 28.5333)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/h702q783n\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/h702q783n/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/h702q783n",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Land use",
@@ -16,7 +15,6 @@
   "dc_creator_sm": "Dehli Development Authority",
   "dc_type_s": "Image",
   "dc_identifier_s": "h702q783n",
-  "georss_polygon_s": "28.7167 77.1667 28.7167 77.2833 28.5333 77.2833 28.5333 77.1667 28.7167 77.1667",
   "dc_publisher_s": "Dehli Development Authority",
   "solr_year_i": "1956",
   "dct_spatial_sm": [
@@ -27,9 +25,9 @@
     "MAX  G7654.D5G44.1956.D4"
   ],
   "layer_id_s": "h702q783n",
-  "georss_box_s": "28.5333 77.1667 28.7167 77.2833",
   "dc_title_s": "Delhi urban area: zonal map.",
   "layer_slug_s": "princeton-h702q783n",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

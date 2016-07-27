@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-74.6500, -74.6208, 40.2083, 40.1875)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/4b29b751c/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/4b/29/b7/51/c/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/4b29b751c/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/4b29b751c",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Aerial photograph",
@@ -20,16 +19,15 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "4b29b751c",
-  "georss_polygon_s": "40.2083 -74.6500 40.2083 -74.6208 40.1875 -74.6208 40.1875 -74.6500 40.2083 -74.6500",
   "dc_publisher_s": "NJDEP Bureau of Tidelands Management",
   "dct_spatial_sm": [
     "Hamilton",
     "Mercer county"
   ],
   "layer_id_s": "4b29b751c",
-  "georss_box_s": "40.1875 -74.6500 40.2083 -74.6208",
   "dc_title_s": "1951 Mercer County Aerial Photograph (289-1899)",
   "dct_issued_s": "March 27, 1951",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

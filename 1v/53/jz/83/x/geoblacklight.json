@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1856",
-  "uuid": "http://arks.princeton.edu/ark:/88435/1v53jz83x",
-  "dc_description_s": "Carte ge\u0301ne\u0301rale de l'Afrique, d'apre\u0300s les dernie\u0300res de\u0301couvertes",
-  "georss_box_s": "1.9999503 15.9999497 2.0000503 16.0000497",
+  "dc_description_s": "Carte générale de l'Afrique, d'après les dernières découvertes",
   "layer_modified_dt": "2015-01-21T22:23:46Z",
   "dc_creator_sm": [
     "Andriveau-Goujon, J."
@@ -11,11 +9,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "1v53jz83x",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Carte ge\u0301ne\u0301rale de l'Afrique, d'apre\u0300s les dernie\u0300res de\u0301couvertes",
+  "dc_title_s": "Carte générale de l'Afrique, d'après les dernières découvertes",
   "layer_slug_s": "princeton-1v53jz83x",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/1v53jz83x/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/1v/53/jz/83/x/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "2.0000503 15.9999497 2.0000503 16.0000497 1.9999503 16.0000497 1.9999503 15.9999497 2.0000503 15.9999497",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1856"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Africa"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

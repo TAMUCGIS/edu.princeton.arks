@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1806",
-  "uuid": "http://arks.princeton.edu/ark:/88435/h128ng60g",
-  "dc_description_s": "Populi, urbes, &c. in Gr\u00e6cia, Thracia, et Asia, quorum meminit Homerus : exceptis iis quorum silus ignoratur",
-  "georss_box_s": "34.7006096 19.2477876 41.7488862 29.7296986",
+  "dc_description_s": "Populi, urbes, &c. in Græcia, Thracia, et Asia, quorum meminit Homerus : exceptis iis quorum silus ignoratur",
   "layer_modified_dt": "2015-01-21T22:23:49Z",
   "dc_creator_sm": [
     "Macpherson, David,"
@@ -11,11 +9,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "h128ng60g",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Populi, urbes, &c. in Gr\u00e6cia, Thracia, et Asia, quorum meminit Homerus : exceptis iis quorum silus ignoratur",
+  "dc_title_s": "Populi, urbes, &c. in Græcia, Thracia, et Asia, quorum meminit Homerus : exceptis iis quorum silus ignoratur",
   "layer_slug_s": "princeton-h128ng60g",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/h128ng60g/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/h1/28/ng/60/g/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "41.7488862 19.2477876 41.7488862 29.7296986 34.7006096 29.7296986 34.7006096 19.2477876 41.7488862 19.2477876",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1806"
@@ -26,5 +23,6 @@
     "Greece",
     "Thrace",
     "Turkey"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

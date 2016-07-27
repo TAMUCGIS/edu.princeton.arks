@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1930",
-  "uuid": "http://arks.princeton.edu/ark:/88435/2z10ws05t",
   "dc_description_s": "Virginia: Max Meadows Quadrangle",
-  "georss_box_s": "36.75000 -81.00000 37.00000 -80.75000",
   "layer_modified_dt": "2015-01-19T22:36:42Z",
   "dc_creator_sm": [
     "Ireland, E. I.",
@@ -17,11 +15,11 @@
   "layer_slug_s": "princeton-2z10ws05t",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/2z10ws05t/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/2z/10/ws/05/t/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "37.00000 -81.00000 37.00000 -80.75000 36.75000 -80.75000 36.75000 -81.00000 37.00000 -81.00000",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1930"
   ],
   "solr_geom": "ENVELOPE(-81.00000, -80.75000, 37.00000, 36.75000)",
-  "dc_rights_s": "Public"
+  "dc_rights_s": "Public",
+  "geoblacklight_version": "1.0"
 }

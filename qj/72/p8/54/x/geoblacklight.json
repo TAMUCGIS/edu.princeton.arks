@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(138.2333, 138.2833, 37.1333, 37.0833)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/qj72p854x/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/qj/72/p8/54/x/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/qj72p854x/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/qj72p854x",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
@@ -23,7 +22,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "qj72p854x",
-  "georss_polygon_s": "37.1333 138.2333 37.1333 138.2833 37.0833 138.2833 37.0833 138.2333 37.1333 138.2333",
   "dc_publisher_s": "Army Map Service",
   "solr_year_i": "1945",
   "dct_spatial_sm": [
@@ -33,9 +31,9 @@
     "Japan"
   ],
   "layer_id_s": "qj72p854x",
-  "georss_box_s": "37.0833 138.2333 37.1333 138.2833",
   "dc_title_s": "Takada, Niigata Prefecture, Honshu, Japan. A.M.S. L902.",
   "dct_issued_s": "1945",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

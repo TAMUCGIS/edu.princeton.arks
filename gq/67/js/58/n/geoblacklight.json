@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(47.623274, 47.864018, 30.580033, 30.362322)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/gq67js58n/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/gq67js58n/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/gq67js58n/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/gq67js58n",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Cultural, society, and demographic",
@@ -17,7 +16,6 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "gq67js58n",
-  "georss_polygon_s": "30.580033 47.623274 30.580033 47.864018 30.362322 47.864018 30.362322 47.623274 30.580033 47.623274",
   "dc_publisher_s": "LeadDog Consulting, LLC",
   "solr_year_i": "2006",
   "dct_spatial_sm": [
@@ -25,9 +23,9 @@
     "Iraq"
   ],
   "layer_id_s": "pulmap-restricted:gq67js58n",
-  "georss_box_s": "30.362322 47.623274 30.580033 47.864018",
   "dc_title_s": "Basra parks",
   "layer_slug_s": "princeton-gq67js58n",
   "layer_geom_type_s": "Polygon",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

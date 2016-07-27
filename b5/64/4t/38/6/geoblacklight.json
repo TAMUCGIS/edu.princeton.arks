@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1892",
-  "uuid": "http://arks.princeton.edu/ark:/88435/b5644t386",
   "dc_description_s": "Rand, McNally & Co.'s indexed atlas of the world map of Abyssinia and surrounding countries",
-  "georss_box_s": "3.397448 32.997734 14.8944684 47.9823797",
   "layer_modified_dt": "2015-01-21T22:23:45Z",
   "layer_id_s": "b5644t386",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-b5644t386",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/b5644t386/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/b5/64/4t/38/6/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "14.8944684 32.997734 14.8944684 47.9823797 3.397448 47.9823797 3.397448 32.997734 14.8944684 32.997734",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1892"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Ethiopia",
     "Africa, East"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

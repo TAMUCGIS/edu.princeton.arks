@@ -1,18 +1,15 @@
 {
   "solr_year_i": "1878",
-  "uuid": "http://arks.princeton.edu/ark:/88435/sj139437m",
-  "dc_description_s": "De\u0301partement de la Seine",
-  "georss_box_s": "47.4859522 0.2281 49.5225833 4.7169896",
+  "dc_description_s": "Département de la Seine",
   "layer_modified_dt": "2015-01-21T22:24:01Z",
   "layer_id_s": "sj139437m",
   "dc_type_s": "Image",
   "dc_identifier_s": "sj139437m",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "De\u0301partement de la Seine",
+  "dc_title_s": "Département de la Seine",
   "layer_slug_s": "princeton-sj139437m",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/sj139437m/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/sj/13/94/37/m/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "49.5225833 0.2281 49.5225833 4.7169896 47.4859522 4.7169896 47.4859522 0.2281 49.5225833 0.2281",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1878"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Seine (France)",
     "Paris (France)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

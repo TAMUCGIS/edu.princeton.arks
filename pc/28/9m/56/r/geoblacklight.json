@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1806",
-  "uuid": "http://arks.princeton.edu/ark:/88435/pc289m56r",
-  "dc_description_s": "Germania Magna : qu\u00e6 nunquam Romanis paruit",
-  "georss_box_s": "47.2701114 5.8663153 55.099161 15.0419319",
+  "dc_description_s": "Germania Magna : quæ nunquam Romanis paruit",
   "layer_modified_dt": "2015-01-21T22:24:19Z",
   "dc_creator_sm": [
     "Jones, Benjamin,",
@@ -12,11 +10,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "pc289m56r",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Germania Magna : qu\u00e6 nunquam Romanis paruit",
+  "dc_title_s": "Germania Magna : quæ nunquam Romanis paruit",
   "layer_slug_s": "princeton-pc289m56r",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/pc289m56r/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/pc/28/9m/56/r/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "55.099161 5.8663153 55.099161 15.0419319 47.2701114 15.0419319 47.2701114 5.8663153 55.099161 5.8663153",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1806"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Germany"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

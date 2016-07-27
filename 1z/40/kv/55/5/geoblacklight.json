@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-71.25, -71, 42.5, 42.25)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/1z40kv555/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/1z/40/kv/55/5/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/1z40kv555/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/1z40kv555",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "historical maps",
@@ -20,7 +19,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "1z40kv555",
-  "georss_polygon_s": "42.5 -71.25 42.5 -71 42.25 -71 42.25 -71.25 42.5 -71.25",
   "dc_publisher_s": "US Geological Survey",
   "dct_spatial_sm": [
     "Boston Bay",
@@ -32,9 +30,9 @@
     "United States"
   ],
   "layer_id_s": "1z40kv555",
-  "georss_box_s": "42.25 -71.25 42.5 -71",
   "dc_title_s": "Massachusetts: Boston Quadrangle [1931 reprint]",
   "dct_issued_s": "July 1903",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

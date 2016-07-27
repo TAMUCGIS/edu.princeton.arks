@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1814",
-  "uuid": "http://arks.princeton.edu/ark:/88435/cf95jd91t",
   "dc_description_s": "Peru",
-  "georss_box_s": "-20.0 -82.0 -0.0 -68.0",
   "layer_modified_dt": "2015-01-19T22:37:11Z",
   "layer_id_s": "cf95jd91t",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-cf95jd91t",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/cf95jd91t/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/cf/95/jd/91/t/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "-0.0 -82.0 -0.0 -68.0 -20.0 -68.0 -20.0 -82.0 -0.0 -82.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1814"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Ecuador",
     "Peru"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

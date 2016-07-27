@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1825",
-  "uuid": "http://arks.princeton.edu/ark:/88435/vd66w2395",
   "dc_description_s": "Stati settentrionali della Confederazione Germanica",
-  "georss_box_s": "50.8332126 14.7963776 50.8333126 14.7964776",
   "layer_modified_dt": "2015-01-21T22:24:18Z",
   "layer_id_s": "vd66w2395",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-vd66w2395",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/vd66w2395/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/vd/66/w2/39/5/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "50.8333126 14.7963776 50.8333126 14.7964776 50.8332126 14.7964776 50.8332126 14.7963776 50.8333126 14.7963776",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1825"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Germany, Northern"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-74.07, -74.02, 41.049, 41.02)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/st74cs10c/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/st/74/cs/10/c/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/st74cs10c/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/st74cs10c",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "st74cs10c",
-  "georss_polygon_s": "41.049 -74.07 41.049 -74.02 41.02 -74.02 41.02 -74.07 41.049 -74.07",
   "dc_publisher_s": "Sanborn Map Company",
   "solr_year_i": "1913",
   "dct_spatial_sm": [
@@ -28,9 +26,9 @@
     "United States"
   ],
   "layer_id_s": "st74cs10c",
-  "georss_box_s": "41.02 -74.07 41.049 -74.02",
   "dc_title_s": "Park Ridge, Bergen County, New Jersey (Sheet 2)",
   "dct_issued_s": "1913",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

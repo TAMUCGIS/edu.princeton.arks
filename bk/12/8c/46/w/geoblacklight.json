@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-81, -80.75, 37.25, 37)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/bk128c46w/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/bk/12/8c/46/w/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/bk128c46w/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/bk128c46w",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "historical maps",
@@ -20,7 +19,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "bk128c46w",
-  "georss_polygon_s": "37.25 -81 37.25 -80.75 37 -80.75 37 -81 37.25 -81",
   "dc_publisher_s": "US Geological Survey",
   "solr_year_i": "1940",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "United States"
   ],
   "layer_id_s": "bk128c46w",
-  "georss_box_s": "37 -81 37.25 -80.75",
   "dc_title_s": "Virginia: Pulaski Quadrangle [1940] ",
   "dct_issued_s": "1940",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

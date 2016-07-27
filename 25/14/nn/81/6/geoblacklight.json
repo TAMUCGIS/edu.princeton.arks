@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1866",
-  "uuid": "http://arks.princeton.edu/ark:/88435/2514nn816",
   "dc_description_s": "Topographical map showing the locations of the Sutro Tunnel and the Comstock Lode, State of Nevada, United States of America",
-  "georss_box_s": "39.2935408439 -119.6580749741 39.2999759486 -119.6503776942",
   "layer_modified_dt": "2015-01-21T22:23:55Z",
   "layer_id_s": "2514nn816",
   "dc_type_s": "Image",
@@ -12,12 +10,14 @@
   "layer_slug_s": "princeton-2514nn816",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/2514nn816/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/25/14/nn/81/6/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "39.2999759486 -119.6580749741 39.2999759486 -119.6503776942 39.2935408439 -119.6503776942 39.2935408439 -119.6580749741 39.2999759486 -119.6580749741",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1866"
   ],
   "solr_geom": "ENVELOPE(-119.6580749741, -119.6503776942, 39.2999759486, 39.2935408439)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

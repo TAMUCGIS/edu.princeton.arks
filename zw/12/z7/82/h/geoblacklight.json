@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1925",
-  "uuid": "http://arks.princeton.edu/ark:/88435/zw12z782h",
   "dc_description_s": "Stadtplan von Meiningen ; Umgebung von Meiningen",
-  "georss_box_s": "50.5348359 10.3031546 50.617661 10.4685784",
   "layer_modified_dt": "2015-01-25T02:06:19Z",
   "layer_id_s": "zw12z782h",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-zw12z782h",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/zw12z782h/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/zw/12/z7/82/h/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "50.617661 10.3031546 50.617661 10.4685784 50.5348359 10.4685784 50.5348359 10.3031546 50.617661 10.3031546",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1925"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Meiningen (Germany)",
     "Thuringia (Germany)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,10 +1,9 @@
 {
-  "dc_description_s": "This is a city map of Nyborg, Denmark, shown at a ca. 1:9,300 scale. This city map was created by C. Sch\u00f8nemanns Eftf.",
+  "dc_description_s": "This is a city map of Nyborg, Denmark, shown at a ca. 1:9,300 scale. This city map was created by C. Schønemanns Eftf.",
   "layer_modified_dt": "2015-01-11T18:25:15Z",
   "solr_geom": "ENVELOPE(10.6893, 10.8558, 55.3571, 55.2797)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/k643b2874\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/k643b2874/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/k643b2874",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -15,19 +14,18 @@
   ],
   "dc_format_s": "Scanned Map",
   "dct_issued_s": "Unknown",
-  "dc_creator_sm": "C. Sch\u00f8nemanns Eftf.",
+  "dc_creator_sm": "C. Schønemanns Eftf.",
   "dc_type_s": "Image",
   "dc_identifier_s": "k643b2874",
-  "georss_polygon_s": "55.3571 10.6893 55.3571 10.8558 55.2797 10.8558 55.2797 10.6893 55.3571 10.6893",
-  "dc_publisher_s": "C. Sch\u00f8nemanns Eftf.",
+  "dc_publisher_s": "C. Schønemanns Eftf.",
   "dct_spatial_sm": [
     "Nyborg",
     "Denmark"
   ],
   "layer_id_s": "k643b2874",
-  "georss_box_s": "55.2797 10.6893 55.3571 10.8558",
   "dc_title_s": "Kort over Nyborg",
   "layer_slug_s": "princeton-k643b2874",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

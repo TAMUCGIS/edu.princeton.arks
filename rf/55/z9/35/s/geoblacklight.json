@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(14.356902, 17.964065, -17.396368, -19.249932)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/rf55z935s\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/rf55z935s/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/rf55z935s",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Populated Places",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Data received through Emmanuel Kreike",
   "dc_type_s": "Image",
   "dc_identifier_s": "rf55z935s",
-  "georss_polygon_s": "-17.396368 14.356902 -17.396368 17.964065 -19.249932 17.964065 -19.249932 14.356902 -17.396368 14.356902",
   "solr_year_i": "2005",
   "dct_spatial_sm": [
     "Owambo",
@@ -26,9 +24,9 @@
     "Namibia"
   ],
   "layer_id_s": "rf55z935s",
-  "georss_box_s": "-19.249932 14.356902 -17.396368 17.964065",
   "dc_title_s": "Populated Places of Owambo Region, Namibia",
   "layer_slug_s": "princeton-rf55z935s",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

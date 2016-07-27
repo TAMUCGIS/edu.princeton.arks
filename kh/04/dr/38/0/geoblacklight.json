@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-75.5, -75.25, 42, 41.75)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/kh04dr380/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/kh/04/dr/38/0/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/kh04dr380/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/kh04dr380",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "historical maps",
@@ -20,7 +19,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "kh04dr380",
-  "georss_polygon_s": "42 -75.5 42 -75.25 41.75 -75.25 41.75 -75.5 42 -75.5",
   "dc_publisher_s": "US Geological Survey",
   "solr_year_i": "1933",
   "dct_spatial_sm": [
@@ -34,9 +32,9 @@
     "United States"
   ],
   "layer_id_s": "kh04dr380",
-  "georss_box_s": "41.75 -75.5 42 -75.25",
   "dc_title_s": "Pennsylvania-New York: Starrucca Quadrangle, 1933",
   "dct_issued_s": "1933",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

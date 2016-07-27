@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1807",
-  "uuid": "http://arks.princeton.edu/ark:/88435/x920g029p",
-  "dc_description_s": "Sie\u0301ge de Charlestown",
-  "georss_box_s": "32.668505 -80.1438458 32.973515 -79.7970639",
+  "dc_description_s": "Siége de Charlestown",
   "layer_modified_dt": "2015-01-21T22:24:04Z",
   "dc_creator_sm": [
     "Marshall, John,"
@@ -11,16 +9,18 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "x920g029p",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Sie\u0301ge de Charlestown",
+  "dc_title_s": "Siége de Charlestown",
   "layer_slug_s": "princeton-x920g029p",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/x920g029p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/x9/20/g0/29/p/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "32.973515 -80.1438458 32.973515 -79.7970639 32.668505 -79.7970639 32.668505 -80.1438458 32.973515 -80.1438458",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1807"
   ],
   "solr_geom": "ENVELOPE(-80.1438458, -79.7970639, 32.973515, 32.668505)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

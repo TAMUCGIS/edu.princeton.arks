@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1743",
-  "uuid": "http://arks.princeton.edu/ark:/88435/g158bk193",
-  "dc_description_s": "Carte de l'Asie Mineure ou de la Natolie et du Pont Euxin Asiae Minoris Veteris et Novae, itemque Ponti Euxini et Paludis Maeotidis / mappa vel tabula, ad legitimae projectionis stereographic\u00e6 normam, veterum  auctorum et recentiorum itinerariorum ac observationum fidem descripta a Ioh. Matth. Hasio ...",
-  "georss_box_s": "35.8076804 25.6212891 42.297 44.8176638",
+  "dc_description_s": "Carte de l'Asie Mineure ou de la Natolie et du Pont Euxin Asiae Minoris Veteris et Novae, itemque Ponti Euxini et Paludis Maeotidis / mappa vel tabula, ad legitimae projectionis stereographicæ normam, veterum  auctorum et recentiorum itinerariorum ac observationum fidem descripta a Ioh. Matth. Hasio ...",
   "layer_modified_dt": "2015-01-21T22:23:49Z",
   "dc_creator_sm": [
     "Beaurain, Jean de,"
@@ -11,11 +9,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "g158bk193",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Carte de l'Asie Mineure ou de la Natolie et du Pont Euxin Asiae Minoris Veteris et Novae, itemque Ponti Euxini et Paludis Maeotidis / mappa vel tabula, ad legitimae projectionis stereographic\u00e6 normam, veterum  auctorum et recentiorum itinerariorum ac observationum fidem descripta a Ioh. Matth. Hasio ...",
+  "dc_title_s": "Carte de l'Asie Mineure ou de la Natolie et du Pont Euxin Asiae Minoris Veteris et Novae, itemque Ponti Euxini et Paludis Maeotidis / mappa vel tabula, ad legitimae projectionis stereographicæ normam, veterum  auctorum et recentiorum itinerariorum ac observationum fidem descripta a Ioh. Matth. Hasio ...",
   "layer_slug_s": "princeton-g158bk193",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/g158bk193/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/g1/58/bk/19/3/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "42.297 25.6212891 42.297 44.8176638 35.8076804 44.8176638 35.8076804 25.6212891 42.297 25.6212891",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1743"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "Turkey",
     "Black Sea"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

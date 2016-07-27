@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1886",
-  "uuid": "http://arks.princeton.edu/ark:/88435/4x51hm55m",
   "dc_description_s": "A topographical map of the peninsula of Cape May with the country westward to Maurice River ; from original surveys and levelings, excepting the shore-lines of bays and beaches from Cape May Court House southward which are from the plane-table sheets of the U.S. Coast and Geodetic Survey ; based on the triangulation of the U.S. Coast and Geodetic Survey /",
-  "georss_box_s": "38.0 -75.0 39.0 -74.0",
   "layer_modified_dt": "2015-01-23T17:48:40Z",
   "dc_creator_sm": [
     "Cook, George Hammell,",
@@ -17,12 +15,14 @@
   "layer_slug_s": "princeton-4x51hm55m",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/4x51hm55m/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/4x/51/hm/55/m/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "39.0 -75.0 39.0 -74.0 38.0 -74.0 38.0 -75.0 39.0 -75.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1886"
   ],
   "solr_geom": "ENVELOPE(-75.0, -74.0, 39.0, 38.0)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

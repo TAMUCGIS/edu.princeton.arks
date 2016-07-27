@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(126.6500, 126.7667, 36.0167, 35.9500)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/zg64tn423/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/zg/64/tn/42/3/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/zg64tn423/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/zg64tn423",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
@@ -22,7 +21,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "zg64tn423",
-  "georss_polygon_s": "36.0167 126.6500 36.0167 126.7667 35.9500 126.7667 35.9500 126.6500 36.0167 126.6500",
   "dc_publisher_s": "Army Map Service",
   "solr_year_i": "1946",
   "dct_spatial_sm": [
@@ -35,9 +33,9 @@
     "South Korea"
   ],
   "layer_id_s": "zg64tn423",
-  "georss_box_s": "35.9500 126.6500 36.0167 126.7667",
   "dc_title_s": "Kunsan (Gunzan), Cholla-pukto (Zenra-hokudo) and Ch'unch'ong-namdo (Chusei-nando) Korea. A.M.S. L951.",
   "dct_issued_s": "1946",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

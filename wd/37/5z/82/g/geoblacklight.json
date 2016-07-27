@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1642",
-  "uuid": "http://arks.princeton.edu/ark:/88435/wd375z82g",
   "dc_description_s": "Campus inter Bohum et Borystenem",
-  "georss_box_s": "46.4962594 30.0211119 55.8719494 35.1971066",
   "layer_modified_dt": "2015-01-25T02:06:19Z",
   "dc_creator_sm": [
     "Blaeu, Joan,",
@@ -18,7 +16,6 @@
   "layer_slug_s": "princeton-wd375z82g",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/wd375z82g/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/wd/37/5z/82/g/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "55.8719494 30.0211119 55.8719494 35.1971066 46.4962594 35.1971066 46.4962594 30.0211119 55.8719494 30.0211119",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1642"
@@ -27,5 +24,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Dnieper River"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

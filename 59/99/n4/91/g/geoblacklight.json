@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(9.2387, 9.3438, 48.5618, 48.4936)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/5999n491g\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/5999n491g/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/5999n491g",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Stadte-Verlag",
   "dc_type_s": "Image",
   "dc_identifier_s": "5999n491g",
-  "georss_polygon_s": "48.5618 9.2387 48.5618 9.3438 48.4936 9.3438 48.4936 9.2387 48.5618 9.2387",
   "dc_publisher_s": "Stadte-Verlag",
   "solr_year_i": "1970",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "West Germany"
   ],
   "layer_id_s": "5999n491g",
-  "georss_box_s": "48.4936 9.2387 48.5618 9.3438",
   "dc_title_s": "Stadtplan Metzingen",
   "layer_slug_s": "princeton-5999n491g",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

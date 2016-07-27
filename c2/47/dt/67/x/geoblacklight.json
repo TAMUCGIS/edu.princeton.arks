@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-75, -74.75, 42, 41.45)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/c247dt67x/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/c2/47/dt/67/x/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/c247dt67x/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/c247dt67x",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "historical maps",
@@ -20,7 +19,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "c247dt67x",
-  "georss_polygon_s": "42 -75 42 -74.75 41.45 -74.75 41.45 -75 42 -75",
   "dc_publisher_s": "US Geological Survey",
   "solr_year_i": "1923",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "USA"
   ],
   "layer_id_s": "c247dt67x",
-  "georss_box_s": "41.45 -75 42 -74.75",
   "dc_title_s": "New York: Livingston Manor",
   "dct_issued_s": "1923",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

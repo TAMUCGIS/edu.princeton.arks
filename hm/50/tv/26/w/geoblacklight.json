@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1834",
-  "uuid": "http://arks.princeton.edu/ark:/88435/hm50tv26w",
   "dc_description_s": "St. Petersburg = (Sanktpeterburga)",
-  "georss_box_s": "59.7441481 30.0433427 60.0907368 30.5673028",
   "layer_modified_dt": "2015-01-21T22:24:29Z",
   "dc_creator_sm": [
     "Davies, Benjamin Rees,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-hm50tv26w",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/hm50tv26w/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/hm/50/tv/26/w/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "60.0907368 30.0433427 60.0907368 30.5673028 59.7441481 30.5673028 59.7441481 30.0433427 60.0907368 30.0433427",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1834"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Saint Petersburg (Russia)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

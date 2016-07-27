@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1764",
-  "uuid": "http://arks.princeton.edu/ark:/88435/w9505283k",
   "dc_description_s": "Port de Rhode",
-  "georss_box_s": "36.4128963 28.2054335 36.4582939 28.2407983",
   "layer_modified_dt": "2015-01-21T22:23:57Z",
   "dc_creator_sm": [
     "Roux, Joseph."
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-w9505283k",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/w9505283k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/w9/50/52/83/k/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "36.4582939 28.2054335 36.4582939 28.2407983 36.4128963 28.2407983 36.4128963 28.2054335 36.4582939 28.2054335",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1764"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Rhodes (Greece)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1893",
-  "uuid": "http://arks.princeton.edu/ark:/88435/9306t1130",
   "dc_description_s": "Massachusetts: Yarmouth sheet",
-  "georss_box_s": "41.50000 -70.25000 41.75000 -70.00000",
   "layer_modified_dt": "2015-01-19T22:36:40Z",
   "dc_creator_sm": [
     "Clark, E. B."
@@ -15,11 +13,11 @@
   "layer_slug_s": "princeton-9306t1130",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/9306t1130/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/93/06/t1/13/0/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "41.75000 -70.25000 41.75000 -70.00000 41.50000 -70.00000 41.50000 -70.25000 41.75000 -70.25000",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1893"
   ],
   "solr_geom": "ENVELOPE(-70.25000, -70.00000, 41.75000, 41.50000)",
-  "dc_rights_s": "Public"
+  "dc_rights_s": "Public",
+  "geoblacklight_version": "1.0"
 }

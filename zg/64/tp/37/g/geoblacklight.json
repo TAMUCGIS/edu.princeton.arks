@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1638",
-  "uuid": "http://arks.princeton.edu/ark:/88435/zg64tp37g",
   "dc_description_s": "Terra Firma et Novum Regnum Granatense et Popayan",
-  "georss_box_s": "0.0 -90.0 13.0 -68.0",
   "layer_modified_dt": "2015-01-19T22:37:10Z",
   "dc_creator_sm": [
     "McClure, Robert A.,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-zg64tp37g",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/zg64tp37g/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/zg/64/tp/37/g/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "13.0 -90.0 13.0 -68.0 0.0 -68.0 0.0 -90.0 13.0 -90.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1638"
@@ -27,5 +24,6 @@
     "Colombia",
     "Panama",
     "South America"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

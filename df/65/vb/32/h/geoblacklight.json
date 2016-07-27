@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1868",
-  "uuid": "http://arks.princeton.edu/ark:/88435/df65vb32h",
   "dc_description_s": "Map illustrating the climate & physical geography of North East Australia to accompany the paper by Dr. A. Rattray, M.D. R.N. /",
-  "georss_box_s": "-46.18182 17.14286 37.60000 180.00000",
   "layer_modified_dt": "2015-01-19T22:37:22Z",
   "dc_creator_sm": [
     "Rattray, Alexander.",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-df65vb32h",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/df65vb32h/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/df/65/vb/32/h/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "37.60000 17.14286 37.60000 180.00000 -46.18182 180.00000 -46.18182 17.14286 37.60000 17.14286",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1868"
@@ -26,5 +23,6 @@
   "dct_spatial_sm": [
     "Indian Ocean",
     "Pacific Ocean"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

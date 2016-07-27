@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1889",
-  "uuid": "http://arks.princeton.edu/ark:/88435/w66346156",
-  "dc_description_s": "Du\u0308rkheim",
-  "georss_box_s": "49.3983675 7.9518051 49.5057492 8.2544777",
+  "dc_description_s": "Dürkheim",
   "layer_modified_dt": "2015-01-21T22:24:27Z",
   "dc_creator_sm": [
     "Woerl, Leo,"
@@ -11,11 +9,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "w66346156",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Du\u0308rkheim",
+  "dc_title_s": "Dürkheim",
   "layer_slug_s": "princeton-w66346156",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/w66346156/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/w6/63/46/15/6/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "49.5057492 7.9518051 49.5057492 8.2544777 49.3983675 8.2544777 49.3983675 7.9518051 49.5057492 7.9518051",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1889"
@@ -23,7 +20,8 @@
   "solr_geom": "ENVELOPE(7.9518051, 8.2544777, 49.5057492, 49.3983675)",
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
-    "Bad Du\u0308rkheim (Germany)",
+    "Bad Dürkheim (Germany)",
     "Rhineland-Palatinate (Germany)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

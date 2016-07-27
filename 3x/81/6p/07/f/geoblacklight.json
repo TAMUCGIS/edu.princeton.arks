@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(9.529923, 17.159856, 48.020364, 46.372056)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/3x816p07f/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/3x816p07f/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/3x816p07f/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/3x816p07f",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "administrative units",
@@ -21,16 +20,15 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "3x816p07f",
-  "georss_polygon_s": "48.020364 9.529923 48.020364 17.159856 46.372056 17.159856 46.372056 9.529923 48.020364 9.529923",
   "solr_year_i": "2006",
   "dct_spatial_sm": [
     "Austria",
     "Osterreich"
   ],
   "layer_id_s": "pulmap-restricted:3x816p07f",
-  "georss_box_s": "46.372056 9.529923 48.020364 17.159856",
   "dc_title_s": "Austria Jurisdiction Districts 2006",
   "layer_slug_s": "princeton-3x816p07f",
   "layer_geom_type_s": "Polygon",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

@@ -1,12 +1,10 @@
 {
   "solr_year_i": "1558",
-  "uuid": "http://arks.princeton.edu/ark:/88435/8623j1223",
   "dc_description_s": "Della Germania : descrittione della Frisia Orientale",
-  "georss_box_s": "52.7648052 4.8183758 53.5397134 6.4276148",
   "layer_modified_dt": "2015-01-25T02:06:16Z",
   "dc_creator_sm": [
     "Deventer, Jacob van,",
-    "Mu\u0308nster, Sebastian,",
+    "Münster, Sebastian,",
     "McCabe, Robert A.,"
   ],
   "layer_id_s": "8623j1223",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-8623j1223",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/8623j1223/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/86/23/j1/22/3/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "53.5397134 4.8183758 53.5397134 6.4276148 52.7648052 6.4276148 52.7648052 4.8183758 53.5397134 4.8183758",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1558"
@@ -26,5 +23,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Friesland (Netherlands)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "layer_modified_dt": "2014-12-19T16:18:32Z",
-  "uuid": "http://arks.princeton.edu/ark:/88435/qv33rz29m",
   "dc_description_s": "Polygons representing water bodies in Cairo.",
-  "georss_box_s": "29.723395 30.819827 30.280867 31.780551",
   "layer_slug_s": "princeton-qv33rz29m",
   "dct_spatial_sm": [
     "Egypt",
@@ -12,7 +10,6 @@
     "Globe Telecom"
   ],
   "layer_id_s": "pulmap-restricted:qv33rz29m",
-  "georss_polygon_s": "30.280867 30.819827 30.280867 31.780551 29.723395 31.780551 29.723395 30.819827 30.280867 30.819827",
   "dc_type_s": "Dataset",
   "dc_identifier_s": "qv33rz29m",
   "dct_provenance_s": "Princeton",
@@ -31,5 +28,6 @@
   "layer_geom_type_s": "Polygon",
   "solr_geom": "ENVELOPE(30.819827, 31.780551, 30.280867, 29.723395)",
   "dc_rights_s": "Restricted",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

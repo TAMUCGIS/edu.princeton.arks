@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1763",
-  "uuid": "http://arks.princeton.edu/ark:/88435/47429c57x",
-  "dc_description_s": "Carte de la Guyane franc\u0327oise et l'isle de Cayenne",
-  "georss_box_s": "2.112222 -54.6027779 5.7507111 -51.6345298",
+  "dc_description_s": "Carte de la Guyane françoise et l'isle de Cayenne",
   "layer_modified_dt": "2015-01-21T22:24:05Z",
   "dc_creator_sm": [
     "Croisey, P.",
@@ -12,11 +10,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "47429c57x",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Carte de la Guyane franc\u0327oise et l'isle de Cayenne",
+  "dc_title_s": "Carte de la Guyane françoise et l'isle de Cayenne",
   "layer_slug_s": "princeton-47429c57x",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/47429c57x/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/47/42/9c/57/x/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "5.7507111 -54.6027779 5.7507111 -51.6345298 2.112222 -51.6345298 2.112222 -54.6027779 5.7507111 -54.6027779",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1763"
@@ -26,5 +23,6 @@
   "dct_spatial_sm": [
     "French Guiana",
     "Cayenne (French Guiana)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1626",
-  "uuid": "http://arks.princeton.edu/ark:/88435/zw12z7239",
   "dc_description_s": "Asia with the islands adioyning described, the atire of the people, & townes of importance, all of them newly augmented",
-  "georss_box_s": "-10.0 20.0 70.0 170.0",
   "layer_modified_dt": "2015-01-23T17:48:34Z",
   "dc_creator_sm": [
     "Goos, Abraham.",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-zw12z7239",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/zw12z7239/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/zw/12/z7/23/9/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "70.0 20.0 70.0 170.0 -10.0 170.0 -10.0 20.0 70.0 20.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1626"
@@ -26,5 +23,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Asia"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

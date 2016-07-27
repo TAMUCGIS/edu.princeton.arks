@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(73.6667, 73.7333, 24.6167, 24.5500)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/xw42n964p\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/xw42n964p/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/xw42n964p",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Topography",
@@ -15,7 +14,6 @@
   "dc_creator_sm": "Survey of India",
   "dc_type_s": "Image",
   "dc_identifier_s": "xw42n964p",
-  "georss_polygon_s": "24.6167 73.6667 24.6167 73.7333 24.5500 73.7333 24.5500 73.6667 24.6167 73.6667",
   "dc_publisher_s": "Survey of India",
   "solr_year_i": "1935",
   "dct_spatial_sm": [
@@ -26,9 +24,9 @@
     "MAX  G7654.U2C2.1935.S9I5"
   ],
   "layer_id_s": "xw42n964p",
-  "georss_box_s": "24.5500 73.6667 24.6167 73.7333",
   "dc_title_s": "Udaipur guide map. Surveyed 1934-35.",
   "layer_slug_s": "princeton-xw42n964p",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

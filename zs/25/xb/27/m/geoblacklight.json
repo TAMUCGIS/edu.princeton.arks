@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1968",
-  "uuid": "http://arks.princeton.edu/ark:/88435/zs25xb27m",
   "dc_description_s": "Residential land use1965, Glasgow",
-  "georss_box_s": "55.81667 -4.35000 55.90000 -4.16667",
   "layer_modified_dt": "2015-01-19T22:36:36Z",
   "dc_creator_sm": [
     "Wood, Michael."
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-zs25xb27m",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/zs25xb27m/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/zs/25/xb/27/m/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "55.90000 -4.35000 55.90000 -4.16667 55.81667 -4.16667 55.81667 -4.35000 55.90000 -4.35000",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1968"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Scotland"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

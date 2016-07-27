@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(10.9145, 11.0690, 45.4813, 45.3753)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/b5644t09b\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/b5644t09b/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/b5644t09b",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Studio F.M.B Bologna",
   "dc_type_s": "Image",
   "dc_identifier_s": "b5644t09b",
-  "georss_polygon_s": "45.4813 10.9145 45.4813 11.0690 45.3753 11.0690 45.3753 10.9145 45.4813 10.9145",
   "dc_publisher_s": "Studio F.M.B Bologna",
   "solr_year_i": "1970",
   "dct_spatial_sm": [
@@ -30,9 +28,9 @@
     "Veneto Region"
   ],
   "layer_id_s": "b5644t09b",
-  "georss_box_s": "45.3753 10.9145 45.4813 11.0690",
   "dc_title_s": "Verona: pianta della citta",
   "layer_slug_s": "princeton-b5644t09b",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

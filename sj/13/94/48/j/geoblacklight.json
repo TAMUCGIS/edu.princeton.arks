@@ -1,11 +1,9 @@
 {
   "solr_year_i": "1578",
-  "uuid": "http://arks.princeton.edu/ark:/88435/sj139448j",
   "dc_description_s": "Moscowyterland",
-  "georss_box_s": "41.1858711 -179.9999999 82.0586232 180",
   "layer_modified_dt": "2015-01-21T22:24:28Z",
   "dc_creator_sm": [
-    "Mu\u0308nster, Sebastian,",
+    "Münster, Sebastian,",
     "McCabe, Robert A.,"
   ],
   "layer_id_s": "sj139448j",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-sj139448j",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/sj139448j/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/sj/13/94/48/j/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "82.0586232 -179.9999999 82.0586232 180 41.1858711 180 41.1858711 -179.9999999 82.0586232 -179.9999999",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1578"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Russia"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

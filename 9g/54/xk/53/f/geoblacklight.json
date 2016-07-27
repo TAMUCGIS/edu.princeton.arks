@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1838",
-  "uuid": "http://arks.princeton.edu/ark:/88435/9g54xk53f",
-  "dc_description_s": "Venice = Vene\u0300zia = Vene\u0300dig",
-  "georss_box_s": "45.2313141 12.1667974 45.5780573 12.5965713",
+  "dc_description_s": "Venice = Venèzia = Venèdig",
   "layer_modified_dt": "2015-01-21T22:23:47Z",
   "dc_creator_sm": [
     "Davies, Benjamin Rees."
@@ -11,11 +9,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "9g54xk53f",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Venice = Vene\u0300zia = Vene\u0300dig",
+  "dc_title_s": "Venice = Venèzia = Venèdig",
   "layer_slug_s": "princeton-9g54xk53f",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/9g54xk53f/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/9g/54/xk/53/f/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "45.5780573 12.1667974 45.5780573 12.5965713 45.2313141 12.5965713 45.2313141 12.1667974 45.5780573 12.1667974",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1838"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Venice (Italy)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

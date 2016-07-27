@@ -1,12 +1,10 @@
 {
   "solr_year_i": "1819",
-  "uuid": "http://arks.princeton.edu/ark:/88435/s1784p28t",
   "dc_description_s": "Indicazione del piu rimarcabile in Napoli e contorni",
-  "georss_box_s": "40.7919337 14.1394899 40.9159348 14.3537148",
   "layer_modified_dt": "2015-01-25T02:06:21Z",
   "dc_creator_sm": [
     "Ricci, Nicola,",
-    "Russo, Giosue\u0301,"
+    "Russo, Giosué,"
   ],
   "layer_id_s": "s1784p28t",
   "dc_type_s": "Image",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-s1784p28t",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/s1784p28t/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/s1/78/4p/28/t/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.9159348 14.1394899 40.9159348 14.3537148 40.7919337 14.3537148 40.7919337 14.1394899 40.9159348 14.1394899",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1819"
@@ -26,5 +23,6 @@
   "dct_spatial_sm": [
     "Naples (Italy)",
     "Naples, Bay of (Italy)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

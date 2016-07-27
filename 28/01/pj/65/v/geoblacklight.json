@@ -1,7 +1,5 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/2801pj65v",
   "dc_description_s": "The Roads from Boston to Connecticut River in 1642",
-  "georss_box_s": "41.1888589 -73.5081419 42.8867135 -69.8601041",
   "layer_modified_dt": "2015-01-21T22:23:55Z",
   "dc_creator_sm": [
     "Woodward, Nath.",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-2801pj65v",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/2801pj65v/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/28/01/pj/65/v/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "42.8867135 -73.5081419 42.8867135 -69.8601041 41.1888589 -69.8601041 41.1888589 -73.5081419 42.8867135 -73.5081419",
   "layer_geom_type_s": "Image",
   "solr_geom": "ENVELOPE(-73.5081419, -69.8601041, 42.8867135, 41.1888589)",
   "dc_rights_s": "Public",
@@ -25,5 +22,6 @@
     "Connecticut",
     "Massachusetts",
     "Connecticut"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

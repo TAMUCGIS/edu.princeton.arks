@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-87.2775, -87.1364, 14.1425, 14.0256)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/dz010r627\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/dz010r627/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/dz010r627",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -19,7 +18,6 @@
   "dc_creator_sm": "Instituto Geografico Nacional",
   "dc_type_s": "Image",
   "dc_identifier_s": "dz010r627",
-  "georss_polygon_s": "14.1425 -87.2775 14.1425 -87.1364 14.0256 -87.1364 14.0256 -87.2775 14.1425 -87.2775",
   "dc_publisher_s": "Instituto Geografico Nacional",
   "solr_year_i": "1985",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "Departamento Francisco Morazan"
   ],
   "layer_id_s": "dz010r627",
-  "georss_box_s": "14.0256 -87.2775 14.1425 -87.1364",
   "dc_title_s": "Tegucigalpa escala 1:10,000: Tegucigalpa. (3/4 S.E.)",
   "layer_slug_s": "princeton-dz010r627",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

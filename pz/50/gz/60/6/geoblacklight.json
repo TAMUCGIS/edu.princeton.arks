@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1903",
-  "uuid": "http://arks.princeton.edu/ark:/88435/pz50gz606",
-  "dc_description_s": "Karte des japanischen Reiches nach den neuesten Ergebnissen der Kaiserlich Japanischen Landesaufnahme, deutschen und englischen Quellen und perso\u0308nlichen Mitteilungen des Geh. Regierungsrat Prof. Dr. J. Rein /",
-  "georss_box_s": "20.2145811 122.7154546 45.7053097 154.205541",
+  "dc_description_s": "Karte des japanischen Reiches nach den neuesten Ergebnissen der Kaiserlich Japanischen Landesaufnahme, deutschen und englischen Quellen und persönlichen Mitteilungen des Geh. Regierungsrat Prof. Dr. J. Rein /",
   "layer_modified_dt": "2015-01-21T22:24:23Z",
   "dc_creator_sm": [
     "Rein, J. J."
@@ -11,11 +9,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "pz50gz606",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Karte des japanischen Reiches nach den neuesten Ergebnissen der Kaiserlich Japanischen Landesaufnahme, deutschen und englischen Quellen und perso\u0308nlichen Mitteilungen des Geh. Regierungsrat Prof. Dr. J. Rein /",
+  "dc_title_s": "Karte des japanischen Reiches nach den neuesten Ergebnissen der Kaiserlich Japanischen Landesaufnahme, deutschen und englischen Quellen und persönlichen Mitteilungen des Geh. Regierungsrat Prof. Dr. J. Rein /",
   "layer_slug_s": "princeton-pz50gz606",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/pz50gz606/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/pz/50/gz/60/6/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "45.7053097 122.7154546 45.7053097 154.205541 20.2145811 154.205541 20.2145811 122.7154546 45.7053097 122.7154546",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1903"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "Japan",
     "Taiwan"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

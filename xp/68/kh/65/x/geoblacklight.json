@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-0.539, -0.444, 38.371, 38.321)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/xp68kh65x/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/xp/68/kh/65/x/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/xp68kh65x/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/xp68kh65x",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
@@ -19,7 +18,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "xp68kh65x",
-  "georss_polygon_s": "38.371 -0.539 38.371 -0.444 38.321 -0.444 38.321 -0.539 38.371 -0.539",
   "dc_publisher_s": "Bellin, Jacques Nicolas",
   "solr_year_i": "1764",
   "dct_spatial_sm": [
@@ -28,9 +26,9 @@
     "Alicant"
   ],
   "layer_id_s": "xp68kh65x",
-  "georss_box_s": "38.321 -0.539 38.371 -0.444",
   "dc_title_s": "Plan de la rade et ville d'Alicant ",
   "dct_issued_s": "1764",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

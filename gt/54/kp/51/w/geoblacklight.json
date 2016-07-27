@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-74.5, -74.25, 40.75, 40.5)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/gt54kp51w/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/gt/54/kp/51/w/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/gt54kp51w/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/gt54kp51w",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Topographic map",
@@ -21,7 +20,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "gt54kp51w",
-  "georss_polygon_s": "40.75 -74.5 40.75 -74.25 40.5 -74.25 40.5 -74.5 40.75 -74.5",
   "dc_publisher_s": "United States Geological Survey",
   "solr_year_i": "1905",
   "dct_spatial_sm": [
@@ -31,9 +29,9 @@
     "New Jersey"
   ],
   "layer_id_s": "gt54kp51w",
-  "georss_box_s": "40.5 -74.5 40.75 -74.25",
   "dc_title_s": "New Jersey, Plainfield Quadrangle (1905)",
   "dct_issued_s": "1905",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

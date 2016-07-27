@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-80.3806, -80.3386, 8.5357, 8.4814)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/wd375x97x\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/wd375x97x/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/wd375x97x",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -19,7 +18,6 @@
   "dc_creator_sm": "Instituto Geografico Nacional",
   "dc_type_s": "Image",
   "dc_identifier_s": "wd375x97x",
-  "georss_polygon_s": "8.5357 -80.3806 8.5357 -80.3386 8.4814 -80.3386 8.4814 -80.3806 8.5357 -80.3806",
   "dc_publisher_s": "Instituto Geografico Nacional",
   "solr_year_i": "1996",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "Cocle Province"
   ],
   "layer_id_s": "wd375x97x",
-  "georss_box_s": "8.4814 -80.3806 8.5357 -80.3386",
   "dc_title_s": "Mapa especial 1:12,500. Penonome",
   "layer_slug_s": "princeton-wd375x97x",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

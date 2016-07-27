@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1905",
-  "uuid": "http://arks.princeton.edu/ark:/88435/ws859j176",
   "dc_description_s": "Province of Shan-tung",
-  "georss_box_s": "34.0 114.0 39.0 123.0",
   "layer_modified_dt": "2015-01-19T22:37:33Z",
   "layer_id_s": "ws859j176",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-ws859j176",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/ws859j176/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ws/85/9j/17/6/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "39.0 114.0 39.0 123.0 34.0 123.0 34.0 114.0 39.0 114.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1905"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Shandong Sheng (China)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

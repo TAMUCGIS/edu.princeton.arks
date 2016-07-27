@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1846",
-  "uuid": "http://arks.princeton.edu/ark:/88435/x920g030s",
   "dc_description_s": "The west coast of South America, from Valparaiso to Lima and Panama : with the principal harbours on an enlarged scale, compiled from the latest surveys",
-  "georss_box_s": "-34.0 -84.0 9.0 -70.0",
   "layer_modified_dt": "2015-01-19T22:37:11Z",
   "dc_creator_sm": [
     "Blachford, Wm."
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-x920g030s",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/x920g030s/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/x9/20/g0/30/s/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "9.0 -84.0 9.0 -70.0 -34.0 -70.0 -34.0 -84.0 9.0 -84.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1846"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "Pacific Coast (Chile)",
     "Pacific Coast (Peru)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

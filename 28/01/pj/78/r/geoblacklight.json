@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1818",
-  "uuid": "http://arks.princeton.edu/ark:/88435/2801pj78r",
   "dc_description_s": "South America",
-  "georss_box_s": "-56.0 -83.0 12.0 -34.0",
   "layer_modified_dt": "2015-01-19T22:37:10Z",
   "dc_creator_sm": [
     "Hebert, L.",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-2801pj78r",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/2801pj78r/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/28/01/pj/78/r/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "12.0 -83.0 12.0 -34.0 -56.0 -34.0 -56.0 -83.0 12.0 -83.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1818"
@@ -26,5 +23,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "South America"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

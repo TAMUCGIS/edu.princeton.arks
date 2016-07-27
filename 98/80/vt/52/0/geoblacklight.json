@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1745",
-  "uuid": "http://arks.princeton.edu/ark:/88435/9880vt520",
   "dc_description_s": "Plan of the town and fortifications of Gibraltar, exactly taken on the spot in the year 1738",
-  "georss_box_s": "36.1 -5.36666666667 36.15 -5.33333333333",
   "layer_modified_dt": "2015-01-23T17:48:40Z",
   "dc_creator_sm": [
     "Basire, Isaac,",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-9880vt520",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/9880vt520/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/98/80/vt/52/0/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "36.15 -5.36666666667 36.15 -5.33333333333 36.1 -5.33333333333 36.1 -5.36666666667 36.15 -5.36666666667",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1745"
@@ -27,5 +24,6 @@
   "dct_spatial_sm": [
     "Gibraltar",
     "Gibraltar"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

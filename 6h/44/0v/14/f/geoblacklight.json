@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(116.385344, 116.587154, 40.080156, 39.794807)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/6h440v14f/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/6h440v14f/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/6h440v14f/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/6h440v14f",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Transportation networks",
@@ -18,7 +17,6 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "6h440v14f",
-  "georss_polygon_s": "40.080156 116.385344 40.080156 116.587154 39.794807 116.587154 39.794807 116.385344 40.080156 116.385344",
   "dc_publisher_s": "LeadDog Consulting, LLC",
   "solr_year_i": "2006",
   "dct_spatial_sm": [
@@ -26,9 +24,9 @@
     "Beijing"
   ],
   "layer_id_s": "pulmap-restricted:6h440v14f",
-  "georss_box_s": "39.794807 116.385344 40.080156 116.587154",
   "dc_title_s": "Beijing Airports",
   "layer_slug_s": "princeton-6h440v14f",
   "layer_geom_type_s": "Point",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1895",
-  "uuid": "http://arks.princeton.edu/ark:/88435/8910jx10x",
-  "dc_description_s": "Plan von Mu\u0308nchen",
-  "georss_box_s": "47.2701114 8.9763497 50.5647142 13.8396373",
+  "dc_description_s": "Plan von München",
   "layer_modified_dt": "2015-01-21T22:24:27Z",
   "dc_creator_sm": [
     "Gsell-Fels, Th."
@@ -11,11 +9,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "8910jx10x",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Plan von Mu\u0308nchen",
+  "dc_title_s": "Plan von München",
   "layer_slug_s": "princeton-8910jx10x",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/8910jx10x/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/89/10/jx/10/x/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "50.5647142 8.9763497 50.5647142 13.8396373 47.2701114 13.8396373 47.2701114 8.9763497 50.5647142 8.9763497",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1895"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "Bavaria (Germany)",
     "Munich (Germany)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

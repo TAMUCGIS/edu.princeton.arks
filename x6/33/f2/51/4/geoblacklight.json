@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-74.433, -74, 40.1, 39.633)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/x633f2514/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/x6/33/f2/51/4/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/x633f2514/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/x633f2514",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Geological map",
@@ -21,7 +20,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "x633f2514",
-  "georss_polygon_s": "40.1 -74.433 40.1 -74 39.633 -74 39.633 -74.433 40.1 -74.433",
   "dc_publisher_s": "Geological Survey of New Jersey",
   "solr_year_i": "1886",
   "dct_spatial_sm": [
@@ -30,9 +28,9 @@
     "New Jersey"
   ],
   "layer_id_s": "x633f2514",
-  "georss_box_s": "39.633 -74.433 40.1 -74",
   "dc_title_s": "A Topographical Map of the Vicinity of Barnegat Bay with the Greater Part of Ocean County",
   "dct_issued_s": "1886",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1935",
-  "uuid": "http://arks.princeton.edu/ark:/88435/g445cg62k",
   "dc_description_s": "Britain in the Dark Ages.",
-  "georss_box_s": "49.0 -6.0 56.0 2.0",
   "layer_modified_dt": "2015-01-19T22:37:25Z",
   "dc_creator_sm": [
     "Elsasser, Albert,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-g445cg62k",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/g445cg62k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/g4/45/cg/62/k/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "56.0 -6.0 56.0 2.0 49.0 2.0 49.0 -6.0 56.0 -6.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1935"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Great Britain"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

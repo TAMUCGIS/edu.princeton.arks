@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(7.3024, 7.6371, 51.5992, 51.4176)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/fj236371v\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/fj236371v/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/fj236371v",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Falk-Verlag",
   "dc_type_s": "Image",
   "dc_identifier_s": "fj236371v",
-  "georss_polygon_s": "51.5992 7.3024 51.5992 7.6371 51.4176 7.6371 51.4176 7.3024 51.5992 7.3024",
   "dc_publisher_s": "Falk-Verlag",
   "solr_year_i": "1965",
   "dct_spatial_sm": [
@@ -27,9 +25,9 @@
     "Land Nordrhein-Westfalen"
   ],
   "layer_id_s": "fj236371v",
-  "georss_box_s": "51.4176 7.3024 51.5992 7.6371",
   "dc_title_s": "Falkplan Dortmund",
   "layer_slug_s": "princeton-fj236371v",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1925",
-  "uuid": "http://arks.princeton.edu/ark:/88435/9k41zg354",
   "dc_description_s": "Teubners Weltwirtschaftskarten. Erdoel",
-  "georss_box_s": "-60.00000 -172.45000 71.50000 160.00000",
   "layer_modified_dt": "2015-01-19T22:36:50Z",
   "dc_creator_sm": [
     "Fabian, Erich.",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-9k41zg354",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/9k41zg354/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/9k/41/zg/35/4/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "71.50000 -172.45000 71.50000 160.00000 -60.00000 160.00000 -60.00000 -172.45000 71.50000 -172.45000",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1925"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "World"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

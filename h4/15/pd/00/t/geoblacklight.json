@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1821",
-  "uuid": "http://arks.princeton.edu/ark:/88435/h415pd00t",
   "dc_description_s": "United States of America",
-  "georss_box_s": "23.0 -120.0 52.0 -64.0",
   "layer_modified_dt": "2015-01-19T22:37:13Z",
   "dc_creator_sm": [
     "Tanner, Benjamin,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-h415pd00t",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/h415pd00t/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/h4/15/pd/00/t/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "52.0 -120.0 52.0 -64.0 23.0 -64.0 23.0 -120.0 52.0 -120.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1821"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "United States"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

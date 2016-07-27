@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(98.625796, 125.209442, 52.188354, 37.460929)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/3x816p18c/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/3x816p18c/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/3x816p18c/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/3x816p18c",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "census",
@@ -56,7 +55,6 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "3x816p18c",
-  "georss_polygon_s": "52.188354 98.625796 52.188354 125.209442 37.460929 125.209442 37.460929 98.625796 52.188354 98.625796",
   "solr_year_i": "2000",
   "dct_spatial_sm": [
     "China",
@@ -64,9 +62,9 @@
     "inner_mongolia"
   ],
   "layer_id_s": "pulmap-restricted:3x816p18c",
-  "georss_box_s": "37.460929 98.625796 52.188354 125.209442",
   "dc_title_s": "Township map of Inner Mongolia with 2000 Census short form data",
   "layer_slug_s": "princeton-3x816p18c",
   "layer_geom_type_s": "Point",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

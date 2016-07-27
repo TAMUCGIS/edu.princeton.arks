@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1619",
-  "uuid": "http://arks.princeton.edu/ark:/88435/1544br597",
   "dc_description_s": "Tabula itineraria ex illustri Peutingerorum Bibliotheca quae Augustae Vindel. est",
-  "georss_box_s": "41.6556417 12.2344985 42.1410285 12.8557603",
   "layer_modified_dt": "2015-01-25T02:06:17Z",
   "dc_creator_sm": [
     "Peutinger, Konrad,",
@@ -19,7 +17,6 @@
   "layer_slug_s": "princeton-1544br597",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/1544br597/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/15/44/br/59/7/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "42.1410285 12.2344985 42.1410285 12.8557603 41.6556417 12.8557603 41.6556417 12.2344985 42.1410285 12.2344985",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1619"
@@ -28,5 +25,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Rome"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

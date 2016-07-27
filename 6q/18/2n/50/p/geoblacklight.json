@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1676",
-  "uuid": "http://arks.princeton.edu/ark:/88435/6q182n50p",
   "dc_description_s": "A map of Virginia and Maryland",
-  "georss_box_s": "37.8856427 -79.4871911 39.7229331 -74.9851722",
   "layer_modified_dt": "2015-01-21T22:23:58Z",
   "dc_creator_sm": [
     "Lamb, Francis.",
@@ -18,7 +16,6 @@
   "layer_slug_s": "princeton-6q182n50p",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/6q182n50p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/6q/18/2n/50/p/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "39.7229331 -79.4871911 39.7229331 -74.9851722 37.8856427 -74.9851722 37.8856427 -79.4871911 39.7229331 -79.4871911",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1676"
@@ -29,5 +26,6 @@
     "Maryland",
     "Middle Atlantic States",
     "Virginia"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

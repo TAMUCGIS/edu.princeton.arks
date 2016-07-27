@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1938",
-  "uuid": "http://arks.princeton.edu/ark:/88435/9c67wp657",
   "dc_description_s": "Pennsylvania: Allensville Quadrangle",
-  "georss_box_s": "40.50000 -78.00000 40.75000 -77.75000",
   "layer_modified_dt": "2015-01-19T22:36:39Z",
   "dc_creator_sm": [
     "Warner, H. G.",
@@ -17,12 +15,14 @@
   "layer_slug_s": "princeton-9c67wp657",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/9c67wp657/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/9c/67/wp/65/7/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.75000 -78.00000 40.75000 -77.75000 40.50000 -77.75000 40.50000 -78.00000 40.75000 -78.00000",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1938"
   ],
   "solr_geom": "ENVELOPE(-78.00000, -77.75000, 40.75000, 40.50000)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1934",
-  "uuid": "http://arks.princeton.edu/ark:/88435/n870zs63r",
   "dc_description_s": "Carte geolgique de la France a 1/80,000; Verdun.",
-  "georss_box_s": "49.11910 4.53000 49.47880 5.40630",
   "layer_modified_dt": "2015-01-19T22:36:37Z",
   "dc_creator_sm": [
     "De-Launay, Louis"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-n870zs63r",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/n870zs63r/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/n8/70/zs/63/r/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "49.47880 4.53000 49.47880 5.40630 49.11910 5.40630 49.11910 4.53000 49.47880 4.53000",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1934"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "France"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

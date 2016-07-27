@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-76.75, -76.5, 39.5, 39.25)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/2r36tz975/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/2r/36/tz/97/5/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/2r36tz975/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/2r36tz975",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "historical maps",
@@ -20,7 +19,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "2r36tz975",
-  "georss_polygon_s": "39.5 -76.75 39.5 -76.5 39.25 -76.5 39.25 -76.75 39.5 -76.75",
   "dc_publisher_s": "US Geological Survey",
   "dct_spatial_sm": [
     "Baltimore",
@@ -30,9 +28,9 @@
     "United States"
   ],
   "layer_id_s": "2r36tz975",
-  "georss_box_s": "39.25 -76.75 39.5 -76.5",
   "dc_title_s": "Maryland: Baltimore Quadrangle [1924 reprint] ",
   "dct_issued_s": "June 1904",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

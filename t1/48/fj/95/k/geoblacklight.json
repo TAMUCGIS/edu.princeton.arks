@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1964",
-  "uuid": "http://arks.princeton.edu/ark:/88435/t148fj95k",
   "dc_description_s": "Carte geologique detaillee de la France [a 1/80 000]: Mezieres.",
-  "georss_box_s": "49.47880 4.56240 49.83830 5.45160",
   "layer_modified_dt": "2015-01-19T22:36:37Z",
   "dc_creator_sm": [
     "Goguel, Jean"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-t148fj95k",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/t148fj95k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/t1/48/fj/95/k/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "49.83830 4.56240 49.83830 5.45160 49.47880 5.45160 49.47880 4.56240 49.83830 4.56240",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1964"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "France"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

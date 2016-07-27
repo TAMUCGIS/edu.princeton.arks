@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(16.10, 16.25, 58.63, 58.56)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/0z708z12f\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/0z708z12f/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/0z708z12f",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Stadsingenjorkontoret i Norrkoping",
   "dc_type_s": "Image",
   "dc_identifier_s": "0z708z12f",
-  "georss_polygon_s": "58.63 16.10 58.63 16.25 58.56 16.25 58.56 16.10 58.63 16.10",
   "dc_publisher_s": "Stadsingenjorkontoret i Norrkoping",
   "solr_year_i": "1966",
   "dct_spatial_sm": [
@@ -26,9 +24,9 @@
     "Sweden"
   ],
   "layer_id_s": "0z708z12f",
-  "georss_box_s": "58.56 16.10 58.63 16.25",
   "dc_title_s": "Karta over Norrkoping",
   "layer_slug_s": "princeton-0z708z12f",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-74.3333, -73.900, 41.3667, 40.9333)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/fj236358b/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/fj/23/63/58/b/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/fj236358b/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/fj236358b",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "historical maps",
@@ -22,16 +21,15 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "fj236358b",
-  "georss_polygon_s": "41.3667 -74.3333 41.3667 -73.900 40.9333 -73.900 40.9333 -74.3333 41.3667 -74.3333",
   "dc_publisher_s": "Geological Survey of New Jersey",
   "solr_year_i": "1900",
   "dct_spatial_sm": [
     "New Jersey, north"
   ],
   "layer_id_s": "fj236358b",
-  "georss_box_s": "40.9333 -74.3333 41.3667 -73.900",
   "dc_title_s": "Forest of northern New Jersey: north northeast sheet.",
   "dct_issued_s": "1900",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

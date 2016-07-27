@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1886",
-  "uuid": "http://arks.princeton.edu/ark:/88435/08612r075",
   "dc_description_s": "A topographical map of the vicinity of Barnegat Bay with the greater part of Ocean County",
-  "georss_box_s": "39.6333333333 -74.45 40.1333333333 -74.0",
   "layer_modified_dt": "2015-01-23T17:48:40Z",
   "dc_creator_sm": [
     "Cook, George Hammell,",
@@ -17,12 +15,14 @@
   "layer_slug_s": "princeton-08612r075",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/08612r075/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/08/61/2r/07/5/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.1333333333 -74.45 40.1333333333 -74.0 39.6333333333 -74.0 39.6333333333 -74.45 40.1333333333 -74.45",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1886"
   ],
   "solr_geom": "ENVELOPE(-74.45, -74.0, 40.1333333333, 39.6333333333)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

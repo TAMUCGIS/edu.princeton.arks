@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-77.25, -77, 38, 37.75)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/5138jg33b/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/51/38/jg/33/b/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/5138jg33b/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/5138jg33b",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "historical maps",
@@ -20,7 +19,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "5138jg33b",
-  "georss_polygon_s": "38 -77.25 38 -77 37.75 -77 37.75 -77.25 38 -77.25",
   "dc_publisher_s": "US Geological Survey",
   "solr_year_i": "1918",
   "dct_spatial_sm": [
@@ -33,9 +31,9 @@
     "United States"
   ],
   "layer_id_s": "5138jg33b",
-  "georss_box_s": "37.75 -77.25 38 -77",
   "dc_title_s": "Virginia: Aylett Quadrangle [1918] ",
   "dct_issued_s": "1918",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

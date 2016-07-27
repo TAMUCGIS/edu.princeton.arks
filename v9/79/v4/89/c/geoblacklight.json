@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1925",
-  "uuid": "http://arks.princeton.edu/ark:/88435/v979v489c",
   "dc_description_s": "New York: Sangerfield Quadrangle",
-  "georss_box_s": "42.75000 -75.50000 43.00000 -75.25000",
   "layer_modified_dt": "2015-01-19T22:36:39Z",
   "dc_creator_sm": [
     "Jennings, J. H."
@@ -15,12 +13,14 @@
   "layer_slug_s": "princeton-v979v489c",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/v979v489c/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/v9/79/v4/89/c/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "43.00000 -75.50000 43.00000 -75.25000 42.75000 -75.25000 42.75000 -75.50000 43.00000 -75.50000",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1925"
   ],
   "solr_geom": "ENVELOPE(-75.50000, -75.25000, 43.00000, 42.75000)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

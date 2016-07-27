@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(10.1035, 10.2206, 49.4067, 49.3269)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/pk02cc36p\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/pk02cc36p/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/pk02cc36p",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Stadte-Verlag",
   "dc_type_s": "Image",
   "dc_identifier_s": "pk02cc36p",
-  "georss_polygon_s": "49.4067 10.1035 49.4067 10.2206 49.3269 10.2206 49.3269 10.1035 49.4067 10.1035",
   "dc_publisher_s": "Stadte-Verlag",
   "solr_year_i": "1967",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "West Germany"
   ],
   "layer_id_s": "pk02cc36p",
-  "georss_box_s": "49.3269 10.1035 49.4067 10.2206",
   "dc_title_s": "Stadtplan Rothenburg ob der Tauber",
   "layer_slug_s": "princeton-pk02cc36p",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

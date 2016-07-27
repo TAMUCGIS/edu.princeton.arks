@@ -1,14 +1,12 @@
 {
   "solr_year_i": "1752",
-  "uuid": "http://arks.princeton.edu/ark:/88435/r207tr259",
   "dc_description_s": "North America, performed under the patronage of Louis Duke of Orleans, First Prince of the Blood",
-  "georss_box_s": "50.9999502 -109.0000502 51.0000502 -108.9999502",
   "layer_modified_dt": "2015-01-25T02:06:10Z",
   "dc_creator_sm": [
     "Anville, Jean Baptiste Bourguignon d',",
     "Seale, Richard William.",
     "Postlethwayt, Malachy,",
-    "Gravelot, Hubert Franc\u0327ois,",
+    "Gravelot, Hubert François,",
     "Walker, Anthony,",
     "Fox, N. B.,"
   ],
@@ -20,7 +18,6 @@
   "layer_slug_s": "princeton-r207tr259",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/r207tr259/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/r2/07/tr/25/9/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.0000502 -109.0000502 51.0000502 -108.9999502 50.9999502 -108.9999502 50.9999502 -109.0000502 51.0000502 -109.0000502",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1752"
@@ -29,5 +26,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "North America"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

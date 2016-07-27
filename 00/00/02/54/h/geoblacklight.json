@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1888",
-  "uuid": "http://arks.princeton.edu/ark:/88435/00000254h",
-  "dc_description_s": "Wetzlar mit na\u0308chster Umgebung",
-  "georss_box_s": "49.3952611 7.7724063 51.657817 10.2364858",
+  "dc_description_s": "Wetzlar mit nächster Umgebung",
   "layer_modified_dt": "2015-01-21T22:24:27Z",
   "dc_creator_sm": [
     "Woerl, Leo,"
@@ -11,11 +9,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "00000254h",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Wetzlar mit na\u0308chster Umgebung",
+  "dc_title_s": "Wetzlar mit nächster Umgebung",
   "layer_slug_s": "princeton-00000254h",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/00000254h/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/00/00/02/54/h/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.657817 7.7724063 51.657817 10.2364858 49.3952611 10.2364858 49.3952611 7.7724063 51.657817 7.7724063",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1888"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "Hesse (Germany)",
     "Wetzlar (Germany)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

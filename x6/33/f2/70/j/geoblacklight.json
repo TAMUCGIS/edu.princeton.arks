@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(23.5979, 23.8971, 38.157, 37.8239)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/x633f270j\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/x633f270j/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/x633f270j",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Olympic Airways",
   "dc_type_s": "Image",
   "dc_identifier_s": "x633f270j",
-  "georss_polygon_s": "38.157 23.5979 38.157 23.8971 37.8239 23.8971 37.8239 23.5979 38.157 23.5979",
   "dc_publisher_s": "Olympic Airways",
   "solr_year_i": "1974",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "Nomos Athinon"
   ],
   "layer_id_s": "x633f270j",
-  "georss_box_s": "37.8239 23.5979 38.157 23.8971",
   "dc_title_s": "Karte von Athen",
   "layer_slug_s": "princeton-x633f270j",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

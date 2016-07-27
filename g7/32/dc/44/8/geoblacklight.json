@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1671",
-  "uuid": "http://arks.princeton.edu/ark:/88435/g732dc448",
-  "dc_description_s": "Venezuela cum parte australi Nov\u00e6 Andalusi\u00e6",
-  "georss_box_s": "0.647529 -73.3529631 15.9158431 -59.5427078",
+  "dc_description_s": "Venezuela cum parte australi Novæ Andalusiæ",
   "layer_modified_dt": "2015-01-21T22:24:05Z",
   "dc_creator_sm": [
     "Meurs, Jacob van,",
@@ -12,11 +10,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "g732dc448",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Venezuela cum parte australi Nov\u00e6 Andalusi\u00e6",
+  "dc_title_s": "Venezuela cum parte australi Novæ Andalusiæ",
   "layer_slug_s": "princeton-g732dc448",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/g732dc448/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/g7/32/dc/44/8/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "15.9158431 -73.3529631 15.9158431 -59.5427078 0.647529 -59.5427078 0.647529 -73.3529631 15.9158431 -73.3529631",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1671"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Venezuela"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

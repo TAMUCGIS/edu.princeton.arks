@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1904",
-  "uuid": "http://arks.princeton.edu/ark:/88435/x920g0375",
   "dc_description_s": "China, French Indo-China, Siam, Malaysia and Korea",
-  "georss_box_s": "15.0 90.0 50.0 145.0",
   "layer_modified_dt": "2015-01-23T17:48:38Z",
   "layer_id_s": "x920g0375",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-x920g0375",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/x920g0375/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/x9/20/g0/37/5/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "50.0 90.0 50.0 145.0 15.0 145.0 15.0 90.0 50.0 90.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1904"
@@ -28,5 +25,6 @@
     "Southeast Asia",
     "Thailand",
     "Japan"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

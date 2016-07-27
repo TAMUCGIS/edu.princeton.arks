@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-75.25, -75, 38.5, 38.25)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/r781wh578/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/r7/81/wh/57/8/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/r781wh578/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/r781wh578",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "historical maps",
@@ -20,7 +19,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "r781wh578",
-  "georss_polygon_s": "38.5 -75.25 38.5 -75 38.25 -75 38.25 -75.25 38.5 -75.25",
   "dc_publisher_s": "US Geological Survey",
   "solr_year_i": "1901",
   "dct_spatial_sm": [
@@ -31,9 +29,9 @@
     "United States"
   ],
   "layer_id_s": "r781wh578",
-  "georss_box_s": "38.25 -75.25 38.5 -75",
   "dc_title_s": "Maryland--Delaware: Ocean City Quadrangle [1901] ",
   "dct_issued_s": "1901",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

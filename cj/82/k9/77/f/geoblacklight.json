@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1620",
-  "uuid": "http://arks.princeton.edu/ark:/88435/cj82k977f",
-  "dc_description_s": "Lecestri\u00e6 : comitatus sive Leicestershyre pars olim Coritanorum",
-  "georss_box_s": "52.392171 -1.5971173 52.9776545 -0.664111",
+  "dc_description_s": "Lecestriæ : comitatus sive Leicestershyre pars olim Coritanorum",
   "layer_modified_dt": "2015-01-21T22:24:18Z",
   "dc_creator_sm": [
     "Bishop, George,",
@@ -13,11 +11,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "cj82k977f",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Lecestri\u00e6 : comitatus sive Leicestershyre pars olim Coritanorum",
+  "dc_title_s": "Lecestriæ : comitatus sive Leicestershyre pars olim Coritanorum",
   "layer_slug_s": "princeton-cj82k977f",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/cj82k977f/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/cj/82/k9/77/f/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "52.9776545 -1.5971173 52.9776545 -0.664111 52.392171 -0.664111 52.392171 -1.5971173 52.9776545 -1.5971173",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1620"
@@ -26,5 +23,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Leicestershire (England)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

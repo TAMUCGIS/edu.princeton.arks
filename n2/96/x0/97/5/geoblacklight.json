@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1943",
-  "uuid": "http://arks.princeton.edu/ark:/88435/n296x0975",
   "dc_description_s": "The Hellenic world, from 480 B.C. to 1940 A.D. /",
-  "georss_box_s": "35.8076804 29.0876878 38.5861136 37.7518928",
   "layer_modified_dt": "2015-01-21T22:23:46Z",
   "dc_creator_sm": [
     "Guthridge, Richard C.",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-n296x0975",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/n296x0975/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/n2/96/x0/97/5/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "38.5861136 29.0876878 38.5861136 37.7518928 35.8076804 37.7518928 35.8076804 29.0876878 38.5861136 29.0876878",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1943"
@@ -26,5 +23,6 @@
   "dct_spatial_sm": [
     "Mediterranean Region",
     "Greece"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

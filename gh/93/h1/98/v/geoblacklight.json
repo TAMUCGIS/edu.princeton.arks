@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1854",
-  "uuid": "http://arks.princeton.edu/ark:/88435/gh93h198v",
   "dc_description_s": "England and Wales",
-  "georss_box_s": "50.0 -6.0 56.0 2.0",
   "layer_modified_dt": "2015-01-23T17:48:37Z",
   "layer_id_s": "gh93h198v",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-gh93h198v",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/gh93h198v/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/gh/93/h1/98/v/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "56.0 -6.0 56.0 2.0 50.0 2.0 50.0 -6.0 56.0 -6.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1854"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "England",
     "Wales"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1885",
-  "uuid": "http://arks.princeton.edu/ark:/88435/x920g0407",
   "dc_description_s": "A topographical map of the Valley of the Passaic with the country eastward to Newark and southward to the Raritan River /",
-  "georss_box_s": "40.4666666667 -74.6333333333 40.9666666667 -74.2",
   "layer_modified_dt": "2015-01-23T17:48:40Z",
   "dc_creator_sm": [
     "Cook, George Hammell,",
@@ -18,12 +16,14 @@
   "layer_slug_s": "princeton-x920g0407",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/x920g0407/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/x9/20/g0/40/7/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.9666666667 -74.6333333333 40.9666666667 -74.2 40.4666666667 -74.2 40.4666666667 -74.6333333333 40.9666666667 -74.6333333333",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1885"
   ],
   "solr_geom": "ENVELOPE(-74.6333333333, -74.2, 40.9666666667, 40.4666666667)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1676",
-  "uuid": "http://arks.princeton.edu/ark:/88435/5q47rq57t",
   "dc_description_s": "America with those known parts in that unknowne worlde both people and manner of buildings",
-  "georss_box_s": "-60.0 -40.0 70.0 -140.0",
   "layer_modified_dt": "2015-01-19T22:36:46Z",
   "dc_creator_sm": [
     "Goos, Abraham,",
@@ -19,7 +17,6 @@
   "layer_slug_s": "princeton-5q47rq57t",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/5q47rq57t/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/5q/47/rq/57/t/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "70.0 -40.0 70.0 -140.0 -60.0 -140.0 -60.0 -40.0 70.0 -40.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1676"
@@ -28,5 +25,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "America"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

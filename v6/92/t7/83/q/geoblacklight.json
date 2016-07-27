@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-05.02, -04.95, 34.05, 34.01)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/v692t783q\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/v692t783q/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/v692t783q",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -20,7 +19,6 @@
   "dc_creator_sm": "Institut Geographique National, Annexe du Maroc",
   "dc_type_s": "Image",
   "dc_identifier_s": "v692t783q",
-  "georss_polygon_s": "34.05 -05.02 34.05 -04.95 34.01 -04.95 34.01 -05.02 34.05 -05.02",
   "dc_publisher_s": "Institut Geographique National, Annexe du Maroc",
   "solr_year_i": "1953",
   "dct_spatial_sm": [
@@ -28,9 +26,9 @@
     "Morocco"
   ],
   "layer_id_s": "v692t783q",
-  "georss_box_s": "34.01 -05.02 34.05 -04.95",
   "dc_title_s": "Plan de Fe`s, 1953",
   "layer_slug_s": "princeton-v692t783q",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

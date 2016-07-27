@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(9.6065, 9.7125, 54.3379, 54.2592)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/v118rg26t\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/v118rg26t/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/v118rg26t",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Alfred Burkhardt",
   "dc_type_s": "Image",
   "dc_identifier_s": "v118rg26t",
-  "georss_polygon_s": "54.3379 9.6065 54.3379 9.7125 54.2592 9.7125 54.2592 9.6065 54.3379 9.6065",
   "dc_publisher_s": "Alfred Burkhardt",
   "solr_year_i": "1954",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "West Germany"
   ],
   "layer_id_s": "v118rg26t",
-  "georss_box_s": "54.2592 9.6065 54.3379 9.7125",
   "dc_title_s": "Plan der Stadt Rendsburg",
   "layer_slug_s": "princeton-v118rg26t",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

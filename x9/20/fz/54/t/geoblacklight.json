@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(9.8182, 9.9222, 48.2663, 48.1908)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/x920fz54t\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/x920fz54t/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/x920fz54t",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Stadte-Verlag",
   "dc_type_s": "Image",
   "dc_identifier_s": "x920fz54t",
-  "georss_polygon_s": "48.2663 9.8182 48.2663 9.9222 48.1908 9.9222 48.1908 9.8182 48.2663 9.8182",
   "dc_publisher_s": "Stadte-Verlag",
   "solr_year_i": "1959",
   "dct_spatial_sm": [
@@ -30,9 +28,9 @@
     "Baden-Wuerttemberg Land"
   ],
   "layer_id_s": "x920fz54t",
-  "georss_box_s": "48.1908 9.8182 48.2663 9.9222",
   "dc_title_s": "Stadtplan Laupheim",
   "layer_slug_s": "princeton-x920fz54t",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

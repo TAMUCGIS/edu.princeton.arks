@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(37.000822, 37.250806, 0.247246, -0.002728)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/k643b260v\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/k643b260v/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/k643b260v",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "imageryBaseMapsEarthCover",
@@ -16,7 +15,6 @@
   "dc_creator_sm": "French National Geographic Institute",
   "dc_type_s": "Image",
   "dc_identifier_s": "k643b260v",
-  "georss_polygon_s": "0.247246 37.000822 0.247246 37.250806 -0.002728 37.250806 -0.002728 37.000822 0.247246 37.000822",
   "dc_publisher_s": "French National Geographic Institute",
   "solr_year_i": "1997",
   "dct_spatial_sm": [
@@ -28,9 +26,9 @@
     "Kenya"
   ],
   "layer_id_s": "k643b260v",
-  "georss_box_s": "-0.002728 37.000822 0.247246 37.250806",
   "dc_title_s": "Nanyuki: Kenya 1:50,000",
   "layer_slug_s": "princeton-k643b260v",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

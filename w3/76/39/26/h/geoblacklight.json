@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1648",
-  "uuid": "http://arks.princeton.edu/ark:/88435/w3763926h",
   "dc_description_s": "Ducatus Eboracensis pars borealis : the Northriding of York shire",
-  "georss_box_s": "53.6210943 -2.5647389 54.5601224 -0.2124959",
   "layer_modified_dt": "2015-01-21T22:24:19Z",
   "layer_id_s": "w3763926h",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-w3763926h",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/w3763926h/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/w3/76/39/26/h/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "54.5601224 -2.5647389 54.5601224 -0.2124959 53.6210943 -0.2124959 53.6210943 -2.5647389 54.5601224 -2.5647389",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1648"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "North Riding of Yorkshire (England)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

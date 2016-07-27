@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1836",
-  "uuid": "http://arks.princeton.edu/ark:/88435/76537381d",
   "dc_description_s": "Plan of the rivers Ucayali & Amazon from the Mission of Sarayacu to the Rio Negro from the observations of Lieut. Wm. Smyth & Mr. Fredk. Lowe, R.N., 1835 /",
-  "georss_box_s": "-6.15000 -75.00000 -2.26000 -59.00000",
   "layer_modified_dt": "2015-01-19T22:37:21Z",
   "dc_creator_sm": [
     "Lowe, Frederick,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-76537381d",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/76537381d/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/76/53/73/81/d/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "-2.26000 -75.00000 -2.26000 -59.00000 -6.15000 -59.00000 -6.15000 -75.00000 -2.26000 -75.00000",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1836"
@@ -25,10 +22,11 @@
   "dct_spatial_sm": [
     "Peru",
     "Brazil",
-    "Solimo\u0303es River",
+    "Solimões River",
     "Amazon River",
     "Ucayali River (Peru)",
-    "Maran\u0303o\u0301n River (Peru)",
+    "Marañón River (Peru)",
     "Rio Negro (Amazonas, Brazil)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

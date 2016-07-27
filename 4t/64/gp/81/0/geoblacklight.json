@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(9.0664, 9.2764, 45.5367, 45.3927)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/4t64gp810\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/4t64gp810/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/4t64gp810",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Studio Cartografico Ortelio",
   "dc_type_s": "Image",
   "dc_identifier_s": "4t64gp810",
-  "georss_polygon_s": "45.5367 9.0664 45.5367 9.2764 45.3927 9.2764 45.3927 9.0664 45.5367 9.0664",
   "dc_publisher_s": "Studio Cartografico Ortelio",
   "dct_spatial_sm": [
     "Milan",
@@ -30,9 +28,9 @@
     "Lombardy"
   ],
   "layer_id_s": "4t64gp810",
-  "georss_box_s": "45.3927 9.0664 45.5367 9.2764",
   "dc_title_s": "Nord Milano",
   "layer_slug_s": "princeton-4t64gp810",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

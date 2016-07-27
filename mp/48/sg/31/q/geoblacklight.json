@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1850",
-  "uuid": "http://arks.princeton.edu/ark:/88435/mp48sg31q",
   "dc_description_s": "Pilot chart of the coast of Brazil",
-  "georss_box_s": "-25.0 -39.0 -1.0 -29.0",
   "layer_modified_dt": "2015-01-19T22:37:41Z",
   "dc_creator_sm": [
     "Maury, Matthew Fontaine,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-mp48sg31q",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/mp48sg31q/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/mp/48/sg/31/q/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "-1.0 -39.0 -1.0 -29.0 -25.0 -29.0 -25.0 -39.0 -1.0 -39.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1850"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Atlantic Coast (Brazil)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

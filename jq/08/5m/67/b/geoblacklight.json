@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(8.9572, 9.0496, 48.8273, 48.7573)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/jq085m67b\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/jq085m67b/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/jq085m67b",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Stadte-Verlag",
   "dc_type_s": "Image",
   "dc_identifier_s": "jq085m67b",
-  "georss_polygon_s": "48.8273 8.9572 48.8273 9.0496 48.7573 9.0496 48.7573 8.9572 48.8273 8.9572",
   "dc_publisher_s": "Stadte-Verlag",
   "solr_year_i": "1968",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "Baden-Wuerttemberg"
   ],
   "layer_id_s": "jq085m67b",
-  "georss_box_s": "48.7573 8.9572 48.8273 9.0496",
   "dc_title_s": "Stadtplan Leonberg",
   "layer_slug_s": "princeton-jq085m67b",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

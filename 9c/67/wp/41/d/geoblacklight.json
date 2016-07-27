@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(11.8666, 12.0626, 51.5424, 51.4136)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/9c67wp41d\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/9c67wp41d/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/9c67wp41d",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "VEB Landkartenverlag",
   "dc_type_s": "Image",
   "dc_identifier_s": "9c67wp41d",
-  "georss_polygon_s": "51.5424 11.8666 51.5424 12.0626 51.4136 12.0626 51.4136 11.8666 51.5424 11.8666",
   "dc_publisher_s": "VEB Landkartenverlag",
   "solr_year_i": "1965",
   "dct_spatial_sm": [
@@ -32,9 +30,9 @@
     "Sachsen-Anhalt Land"
   ],
   "layer_id_s": "9c67wp41d",
-  "georss_box_s": "51.4136 11.8666 51.5424 12.0626",
-  "dc_title_s": "Strassen\u00fcbersichtsplan Halle/Saale mit Strassenverzeichnis",
+  "dc_title_s": "Strassenübersichtsplan Halle/Saale mit Strassenverzeichnis",
   "layer_slug_s": "princeton-9c67wp41d",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

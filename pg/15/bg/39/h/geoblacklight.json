@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(15.466056, 16.033367, -14.445369, -15.160726)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/pg15bg39h\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/pg15bg39h/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/pg15bg39h",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Topographic maps",
@@ -15,7 +14,6 @@
   "dc_creator_sm": "Instituto de Geodesia e Cartografia de Angola",
   "dc_type_s": "Image",
   "dc_identifier_s": "pg15bg39h",
-  "georss_polygon_s": "-14.445369 15.466056 -14.445369 16.033367 -15.160726 16.033367 -15.160726 15.466056 -14.445369 15.466056",
   "dc_publisher_s": "Instituto de Geodesia e Cartografia de Angola",
   "solr_year_i": "1982",
   "dct_spatial_sm": [
@@ -24,9 +22,9 @@
     "Angola"
   ],
   "layer_id_s": "pg15bg39h",
-  "georss_box_s": "-15.160726 15.466056 -14.445369 16.033367",
   "dc_title_s": "Republica Popular de Angola. Folha No.340 : Dongo",
   "layer_slug_s": "princeton-pg15bg39h",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

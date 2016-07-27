@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1835",
-  "uuid": "http://arks.princeton.edu/ark:/88435/dr26z082b",
   "dc_description_s": "[Map of Randel's Island and vicinity]",
-  "georss_box_s": "40.4767677 -74.2420815 41.1167677 -73.6020815",
   "layer_modified_dt": "2015-01-21T22:24:03Z",
   "dc_creator_sm": [
     "Fox, N. B.,"
@@ -15,12 +13,14 @@
   "layer_slug_s": "princeton-dr26z082b",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/dr26z082b/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/dr/26/z0/82/b/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "41.1167677 -74.2420815 41.1167677 -73.6020815 40.4767677 -73.6020815 40.4767677 -74.2420815 41.1167677 -74.2420815",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1835"
   ],
   "solr_geom": "ENVELOPE(-74.2420815, -73.6020815, 41.1167677, 40.4767677)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

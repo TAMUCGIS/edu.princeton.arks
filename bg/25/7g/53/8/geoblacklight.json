@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(19.200, 19.3167, 42.4667, 42.3333)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/bg257g538/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/bg/25/7g/53/8/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/bg257g538/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/bg257g538",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
@@ -22,7 +21,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "bg257g538",
-  "georss_polygon_s": "42.4667 19.200 42.4667 19.3167 42.3333 19.3167 42.3333 19.200 42.4667 19.200",
   "dc_publisher_s": "Defense Mapping Agency",
   "solr_year_i": "1995",
   "dct_spatial_sm": [
@@ -33,9 +31,9 @@
     "Montenegro"
   ],
   "layer_id_s": "bg257g538",
-  "georss_box_s": "42.3333 19.200 42.4667 19.3167",
   "dc_title_s": "Montenegro city graphic 1:20,000. Podgorica. Series M903. ",
   "dct_issued_s": "1995",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

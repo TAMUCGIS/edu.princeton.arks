@@ -1,17 +1,16 @@
 {
-  "dc_description_s": "Canada Regional Municipalities represents the regional municipalities (counties) within Canada including regional districts and municipalities, counties, communaut\u00e9, regions, and districts. The boundaries are digitized from CanMap\u00ae.",
+  "dc_description_s": "Canada Regional Municipalities represents the regional municipalities (counties) within Canada including regional districts and municipalities, counties, communauté, regions, and districts. The boundaries are digitized from CanMap®.",
   "layer_modified_dt": "2014-12-19T16:18:34Z",
   "solr_geom": "ENVELOPE(-141.002121, -52.619172, 83.115061, 41.687971)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/hm50tt31h/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/hm50tt31h/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/hm50tt31h/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/hm50tt31h",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "polygon",
     "regional municipalities",
     "regional districts",
     "counties",
-    "communaut\u00e9",
+    "communauté",
     "regions",
     "districts"
   ],
@@ -26,16 +25,15 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "hm50tt31h",
-  "georss_polygon_s": "83.115061 -141.002121 83.115061 -52.619172 41.687971 -52.619172 41.687971 -141.002121 83.115061 -141.002121",
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "solr_year_i": "2000",
   "dct_spatial_sm": [
     "Canada"
   ],
   "layer_id_s": "pulmap-restricted:hm50tt31h",
-  "georss_box_s": "41.687971 -141.002121 83.115061 -52.619172",
   "dc_title_s": "Canada Regional Municipalities 2000",
   "layer_slug_s": "princeton-hm50tt31h",
   "layer_geom_type_s": "Polygon",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

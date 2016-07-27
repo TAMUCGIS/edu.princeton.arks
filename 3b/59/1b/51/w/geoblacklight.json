@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-75.087129, -74.896626, 39.568643, 39.377715)",
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/3b/59/1b/51/w/00000001.jp2/info.json\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/3b591b51w",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
@@ -21,7 +20,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "3b591b51w",
-  "georss_polygon_s": "39.568643 -75.087129 39.568643 -74.896626 39.377715 -74.896626 39.377715 -75.087129 39.568643 -75.087129",
   "dc_publisher_s": "New York: Sanborn Map Company",
   "solr_year_i": "1912",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "Vineland"
   ],
   "layer_id_s": "3b591b51w",
-  "georss_box_s": "39.377715 -75.087129 39.568643 -74.896626",
   "dc_title_s": "Insurance maps of Vineland, Cumberland County, New Jersey (Sheet 19)",
   "layer_slug_s": "princeton-3b591b51w",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

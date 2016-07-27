@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-76.8952, -76.6152, 18.1172, 17.9232)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/z316q3053\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/z316q3053/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/z316q3053",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -17,7 +16,6 @@
   "dc_creator_sm": "General Drafting Co., Inc. / ESSO Standard Oil S.A. Ltd.",
   "dc_type_s": "Image",
   "dc_identifier_s": "z316q3053",
-  "georss_polygon_s": "18.1172 -76.8952 18.1172 -76.6152 17.9232 -76.6152 17.9232 -76.8952 18.1172 -76.8952",
   "dc_publisher_s": "General Drafting Co., Inc. / ESSO Standard Oil S.A. Ltd.",
   "solr_year_i": "1972",
   "dct_spatial_sm": [
@@ -26,9 +24,9 @@
     "St. Andrew"
   ],
   "layer_id_s": "z316q3053",
-  "georss_box_s": "17.9232 -76.8952 18.1172 -76.6152",
   "dc_title_s": "Kingston and Lower St. Andrew",
   "layer_slug_s": "princeton-z316q3053",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

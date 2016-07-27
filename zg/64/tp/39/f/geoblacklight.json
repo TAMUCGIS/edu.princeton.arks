@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1752",
-  "uuid": "http://arks.princeton.edu/ark:/88435/zg64tp39f",
   "dc_description_s": "The place of Paradise, the habitation of Adam and Seth, and the Land of Nod",
-  "georss_box_s": "38.8404775 43.4471395 41.300712 46.6333087",
   "layer_modified_dt": "2015-01-21T22:24:11Z",
   "dc_creator_sm": [
     "Stackhouse, Thomas,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-zg64tp39f",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/zg64tp39f/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/zg/64/tp/39/f/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "41.300712 43.4471395 41.300712 46.6333087 38.8404775 46.6333087 38.8404775 43.4471395 41.300712 43.4471395",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1752"
@@ -27,5 +24,6 @@
     "Caucasus",
     "Iran",
     "Turkey"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

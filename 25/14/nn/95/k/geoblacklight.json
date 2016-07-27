@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1640",
-  "uuid": "http://arks.princeton.edu/ark:/88435/2514nn95k",
   "dc_description_s": "Virginiae partis australis, et Floridae partis orientalis, interjacentiumq[ue] regionum nova descriptio",
-  "georss_box_s": "30.0 -86.0 38.0 -75.0",
   "layer_modified_dt": "2015-01-23T17:48:36Z",
   "dc_creator_sm": [
     "Blaeu, Joan,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-2514nn95k",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/2514nn95k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/25/14/nn/95/k/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "38.0 -86.0 38.0 -75.0 30.0 -75.0 30.0 -86.0 38.0 -86.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1640"
@@ -30,5 +27,6 @@
     "South Atlantic States",
     "South Carolina",
     "Virginia"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

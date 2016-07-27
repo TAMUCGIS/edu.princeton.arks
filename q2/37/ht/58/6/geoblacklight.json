@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(12.4453, 12.5641, 51.1797, 51.0668)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/q237ht586\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/q237ht586/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/q237ht586",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Vermessungsdienst Ost",
   "dc_type_s": "Image",
   "dc_identifier_s": "q237ht586",
-  "georss_polygon_s": "51.1797 12.4453 51.1797 12.5641 51.0668 12.5641 51.0668 12.4453 51.1797 12.4453",
   "dc_publisher_s": "Vermessungsdienst Ost",
   "solr_year_i": "1959",
   "dct_spatial_sm": [
@@ -26,9 +24,9 @@
     "Germany"
   ],
   "layer_id_s": "q237ht586",
-  "georss_box_s": "51.0668 12.4453 51.1797 12.5641",
-  "dc_title_s": "Strassen\u00fcbersichtsplan Borna",
+  "dc_title_s": "Strassenübersichtsplan Borna",
   "layer_slug_s": "princeton-q237ht586",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

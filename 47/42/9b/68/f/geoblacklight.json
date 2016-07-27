@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(16.968495, 17.538140, -14.948388, -15.661462)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/47429b68f\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/47429b68f/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/47429b68f",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Topographic maps",
@@ -15,7 +14,6 @@
   "dc_creator_sm": "Instituto de Geodesia e Cartografia de Angola",
   "dc_type_s": "Image",
   "dc_identifier_s": "47429b68f",
-  "georss_polygon_s": "-14.948388 16.968495 -14.948388 17.538140 -15.661462 17.538140 -15.661462 16.968495 -14.948388 16.968495",
   "dc_publisher_s": "Instituto de Geodesia e Cartografia de Angola",
   "solr_year_i": "1982",
   "dct_spatial_sm": [
@@ -25,9 +23,9 @@
     "Angola"
   ],
   "layer_id_s": "47429b68f",
-  "georss_box_s": "-15.661462 16.968495 -14.948388 17.538140",
   "dc_title_s": "Republica Popular de Angola. Folha No.363 : Nguvulo",
   "layer_slug_s": "princeton-47429b68f",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

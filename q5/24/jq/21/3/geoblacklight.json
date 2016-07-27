@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(7.6278, 7.8702, 49.4948, 49.3600)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/q524jq213\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/q524jq213/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/q524jq213",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Stadte-Verlag",
   "dc_type_s": "Image",
   "dc_identifier_s": "q524jq213",
-  "georss_polygon_s": "49.4948 7.6278 49.4948 7.8702 49.3600 7.8702 49.3600 7.6278 49.4948 7.6278",
   "dc_publisher_s": "Stadte-Verlag",
   "dct_spatial_sm": [
     "Kaiserslautern",
@@ -28,9 +26,9 @@
     "Rheinland-Pfalz Land"
   ],
   "layer_id_s": "q524jq213",
-  "georss_box_s": "49.3600 7.6278 49.4948 7.8702",
   "dc_title_s": "Stadtplan Kaiserslautern",
   "layer_slug_s": "princeton-q524jq213",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

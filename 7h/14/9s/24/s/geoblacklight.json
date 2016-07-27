@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1836",
-  "uuid": "http://arks.princeton.edu/ark:/88435/7h149s24s",
   "dc_description_s": "Map showing the lands assigned to emigrant Indians west of Arkansas & Missouri",
-  "georss_box_s": "33.6158158 -103.002455 37.0023119 -94.430662",
   "layer_modified_dt": "2015-01-25T02:06:11Z",
   "dc_creator_sm": [
     "Dodge, Henry,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-7h149s24s",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/7h149s24s/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/7h/14/9s/24/s/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "37.0023119 -103.002455 37.0023119 -94.430662 33.6158158 -94.430662 33.6158158 -103.002455 37.0023119 -103.002455",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1836"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Indian Territory"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

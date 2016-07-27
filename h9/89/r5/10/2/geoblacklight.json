@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1760",
-  "uuid": "http://arks.princeton.edu/ark:/88435/h989r5102",
   "dc_description_s": "An accurate map of all the countries bordering on the eastern parts of the Mediterranean Sea : from the latest improvements",
-  "georss_box_s": "34.9999535 19.9999457 35.0000535 20.0000457",
   "layer_modified_dt": "2015-01-21T22:23:49Z",
   "dc_creator_sm": [
     "Hinton, John,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-h989r5102",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/h989r5102/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/h9/89/r5/10/2/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "35.0000535 19.9999457 35.0000535 20.0000457 34.9999535 20.0000457 34.9999535 19.9999457 35.0000535 19.9999457",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1760"
@@ -28,5 +25,6 @@
     "Turkey",
     "Greece",
     "Balkan Peninsula"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

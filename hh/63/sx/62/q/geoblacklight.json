@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(10.4952, 10.938, 60.132, 59.8116)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/hh63sx62q\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/hh63sx62q/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/hh63sx62q",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -17,7 +16,6 @@
   "dc_creator_sm": "Oslo Byplankontor, Generalplanavdelingen",
   "dc_type_s": "Image",
   "dc_identifier_s": "hh63sx62q",
-  "georss_polygon_s": "60.132 10.4952 60.132 10.938 59.8116 10.938 59.8116 10.4952 60.132 10.4952",
   "dc_publisher_s": "Oslo Byplankontor, Generalplanavdelingen",
   "solr_year_i": "1952",
   "dct_spatial_sm": [
@@ -27,9 +25,9 @@
     "Kristiania"
   ],
   "layer_id_s": "hh63sx62q",
-  "georss_box_s": "59.8116 10.4952 60.132 10.938",
-  "dc_title_s": "H\u00f8ydeforhold i Oslo",
+  "dc_title_s": "Høydeforhold i Oslo",
   "layer_slug_s": "princeton-hh63sx62q",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

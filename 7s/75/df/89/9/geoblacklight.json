@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1852",
-  "uuid": "http://arks.princeton.edu/ark:/88435/7s75df899",
   "dc_description_s": "Kelley's and Bass Islands showing the harbors of refuge in their vicinity, being an extract from the survey of the west end of Lake Erie made under the direction of the Bureau of Topographical Engineers, War Department in obedience to acts of Congress requiring the survey of the northern and northwestern lakes /",
-  "georss_box_s": "41.5333333333 -82.9166666667 41.75 -82.55",
   "layer_modified_dt": "2015-01-19T22:37:36Z",
   "dc_creator_sm": [
     "Macomb, J. N.",
@@ -22,7 +20,6 @@
   "layer_slug_s": "princeton-7s75df899",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/7s75df899/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/7s/75/df/89/9/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "41.75 -82.9166666667 41.75 -82.55 41.5333333333 -82.55 41.5333333333 -82.9166666667 41.75 -82.9166666667",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1852"
@@ -33,5 +30,6 @@
     "Bass Islands (Ohio)",
     "Erie, Lake",
     "Kelleys Island (Ohio)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

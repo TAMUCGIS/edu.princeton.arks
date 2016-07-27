@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1977",
-  "uuid": "http://arks.princeton.edu/ark:/88435/8336h4399",
   "dc_description_s": "Lancastria palatinatus, Anglis Lancaster et Lancasshire",
-  "georss_box_s": "53.4827602 -3.0845487 54.2395551 -2.0461308",
   "layer_modified_dt": "2015-01-21T22:24:20Z",
   "layer_id_s": "8336h4399",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-8336h4399",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/8336h4399/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/83/36/h4/39/9/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "54.2395551 -3.0845487 54.2395551 -2.0461308 53.4827602 -2.0461308 53.4827602 -3.0845487 54.2395551 -3.0845487",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1977"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Lancashire (England)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

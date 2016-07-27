@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-121.4319, -118.95, 35.865683, 33.2149)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/0g354g90c/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/0g/35/4g/90/c/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/0g354g90c/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/0g354g90c",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Geology",
@@ -20,16 +19,15 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "0g354g90c",
-  "georss_polygon_s": "35.865683 -121.4319 35.865683 -118.95 33.2149 -118.95 33.2149 -121.4319 35.865683 -121.4319",
   "solr_year_i": "1938",
   "dct_spatial_sm": [
     "California",
     "United States"
   ],
   "layer_id_s": "0g354g90c",
-  "georss_box_s": "33.2149 -121.4319 35.865683 -118.95",
   "dc_title_s": "Geologic Map of California. Sheet no. III: Southwestern Coast Section",
   "dct_issued_s": "1938",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

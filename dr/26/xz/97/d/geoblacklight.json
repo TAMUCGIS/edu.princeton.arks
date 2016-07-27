@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(13.5810, 13.9614, 51.1781, 50.9762)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/dr26xz97d\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/dr26xz97d/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/dr26xz97d",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "VEB Kartographischer Dienst Potsdam",
   "dc_type_s": "Image",
   "dc_identifier_s": "dr26xz97d",
-  "georss_polygon_s": "51.1781 13.5810 51.1781 13.9614 50.9762 13.9614 50.9762 13.5810 51.1781 13.5810",
   "dc_publisher_s": "VEB Kartographischer Dienst Potsdam",
   "solr_year_i": "1968",
   "dct_spatial_sm": [
@@ -28,9 +26,9 @@
     "Freistaat Sachsen"
   ],
   "layer_id_s": "dr26xz97d",
-  "georss_box_s": "50.9762 13.5810 51.1781 13.9614",
   "dc_title_s": "Stadtplan Dresden",
   "layer_slug_s": "princeton-dr26xz97d",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

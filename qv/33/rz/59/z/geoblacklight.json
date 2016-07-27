@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1906",
-  "uuid": "http://arks.princeton.edu/ark:/88435/qv33rz59z",
   "dc_description_s": "Kauai, Hawaiian Islands",
-  "georss_box_s": "21.8682776 -159.7878256 22.2349961 -159.292317",
   "layer_modified_dt": "2015-01-21T22:23:52Z",
   "layer_id_s": "qv33rz59z",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-qv33rz59z",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/qv33rz59z/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/qv/33/rz/59/z/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "22.2349961 -159.7878256 22.2349961 -159.292317 21.8682776 -159.292317 21.8682776 -159.7878256 22.2349961 -159.7878256",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1906"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Kauai (Hawaii)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

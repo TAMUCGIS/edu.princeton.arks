@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-75.0403, -75.0359, 39.899, 39.8948)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/9019s3960/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/90/19/s3/96/0/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/9019s3960/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/9019s3960",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "9019s3960",
-  "georss_polygon_s": "39.899 -75.0403 39.899 -75.0359 39.8948 -75.0359 39.8948 -75.0403 39.899 -75.0403",
   "dc_publisher_s": "Sanborn Map Company",
   "solr_year_i": "1908",
   "dct_spatial_sm": [
@@ -28,9 +26,9 @@
     "United States"
   ],
   "layer_id_s": "9019s3960",
-  "georss_box_s": "39.8948 -75.0403 39.899 -75.0359",
   "dc_title_s": "Haddonfield, Camden Co., N. J. (Sheet 10)",
   "dct_issued_s": "1908",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(80.8833, 80.9833, 26.8667, 26.800)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/sf268653j\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/sf268653j/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/sf268653j",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "City plan",
@@ -16,7 +15,6 @@
   "dc_creator_sm": "Survey of India",
   "dc_type_s": "Image",
   "dc_identifier_s": "sf268653j",
-  "georss_polygon_s": "26.8667 80.8833 26.8667 80.9833 26.800 80.9833 26.800 80.8833 26.8667 80.8833",
   "dc_publisher_s": "Survey of India",
   "solr_year_i": "1933",
   "dct_spatial_sm": [
@@ -26,9 +24,9 @@
     "MAX  G7654.L8C1.1933.S9I5"
   ],
   "layer_id_s": "sf268653j",
-  "georss_box_s": "26.800 80.8833 26.8667 80.9833",
   "dc_title_s": "Lucknow guide map. Surveyed 1929-31.",
   "layer_slug_s": "princeton-sf268653j",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

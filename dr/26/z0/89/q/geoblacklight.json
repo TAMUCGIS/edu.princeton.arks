@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1891",
-  "uuid": "http://arks.princeton.edu/ark:/88435/dr26z089q",
-  "dc_description_s": "Uebersichtskarte zu Buchner's Lahnfu\u0308hrer",
-  "georss_box_s": "49.3952611 7.7724063 51.657817 10.2364858",
+  "dc_description_s": "Uebersichtskarte zu Buchner's Lahnführer",
   "layer_modified_dt": "2015-01-21T22:24:23Z",
   "dc_creator_sm": [
     "Buchner, Otto."
@@ -11,11 +9,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "dr26z089q",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Uebersichtskarte zu Buchner's Lahnfu\u0308hrer",
+  "dc_title_s": "Uebersichtskarte zu Buchner's Lahnführer",
   "layer_slug_s": "princeton-dr26z089q",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/dr26z089q/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/dr/26/z0/89/q/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.657817 7.7724063 51.657817 10.2364858 49.3952611 10.2364858 49.3952611 7.7724063 51.657817 7.7724063",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1891"
@@ -26,5 +23,6 @@
     "Hesse (Germany)",
     "Lahn River Valley (Germany)",
     "Maps"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

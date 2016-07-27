@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1851",
-  "uuid": "http://arks.princeton.edu/ark:/88435/dr26z092s",
   "dc_description_s": "Chart showing the positions and comparisons of the observations in and across the Gulf Stream, in 1845-46-47 & 48",
-  "georss_box_s": "32.0 -77.0 42.0 -65.0",
   "layer_modified_dt": "2015-01-19T22:37:39Z",
   "dc_creator_sm": [
     "Bache, A. D.",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-dr26z092s",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/dr26z092s/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/dr/26/z0/92/s/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "42.0 -77.0 42.0 -65.0 32.0 -65.0 32.0 -77.0 42.0 -77.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1851"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Gulf Stream"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

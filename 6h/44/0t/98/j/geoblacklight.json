@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(88.300, 88.400, 22.6334, 22.48334)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/6h440t98j\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/6h440t98j/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/6h440t98j",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "City plan",
@@ -17,7 +16,6 @@
   "dc_creator_sm": "S.N.",
   "dc_type_s": "Image",
   "dc_identifier_s": "6h440t98j",
-  "georss_polygon_s": "22.6334 88.300 22.6334 88.400 22.48334 88.400 22.48334 88.300 22.6334 88.300",
   "dc_publisher_s": "S.N.",
   "solr_year_i": "1953",
   "dct_spatial_sm": [
@@ -30,9 +28,9 @@
     "MAX  G7654.C2.1953"
   ],
   "layer_id_s": "6h440t98j",
-  "georss_box_s": "22.48334 88.300 22.6334 88.400",
   "dc_title_s": "Guide map of Calcutta & Howrah",
   "layer_slug_s": "princeton-6h440t98j",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

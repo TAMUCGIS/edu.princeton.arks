@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1805",
-  "uuid": "http://arks.princeton.edu/ark:/88435/mc87ps74z",
   "dc_description_s": "A map of Suffolk : from the best authorities",
-  "georss_box_s": "51.9323088 0.3399748 52.5502218 1.7634774",
   "layer_modified_dt": "2015-01-21T22:24:17Z",
   "dc_creator_sm": [
     "Stockdale, John,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-mc87ps74z",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/mc87ps74z/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/mc/87/ps/74/z/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "52.5502218 0.3399748 52.5502218 1.7634774 51.9323088 1.7634774 51.9323088 0.3399748 52.5502218 0.3399748",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1805"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Suffolk (England)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

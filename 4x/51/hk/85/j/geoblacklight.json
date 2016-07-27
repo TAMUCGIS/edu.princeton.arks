@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1812",
-  "uuid": "http://arks.princeton.edu/ark:/88435/4x51hk85j",
   "dc_description_s": "Thompson's new map of America : divided into its kingdoms, states, governments and other subdivisions, from the latest observations",
-  "georss_box_s": "18.9110642 172.4458955 71.389888 -66.9453947",
   "layer_modified_dt": "2015-01-21T22:23:44Z",
   "dc_creator_sm": [
     "Fox, N. B.,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-4x51hk85j",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/4x51hk85j/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/4x/51/hk/85/j/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "71.389888 172.4458955 71.389888 -66.9453947 18.9110642 -66.9453947 18.9110642 172.4458955 71.389888 172.4458955",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1812"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "America",
     "Western Hemisphere"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

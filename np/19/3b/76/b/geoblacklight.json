@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(9.637377, 16.931180, 48.812433, 46.527073)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/np193b76b/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/np193b76b/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/np193b76b/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/np193b76b",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "City",
@@ -21,16 +20,15 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "np193b76b",
-  "georss_polygon_s": "48.812433 9.637377 48.812433 16.931180 46.527073 16.931180 46.527073 9.637377 48.812433 9.637377",
   "dc_publisher_s": "Gfk MACON Company",
   "solr_year_i": "2006",
   "dct_spatial_sm": [
     "Austria"
   ],
   "layer_id_s": "pulmap-restricted:np193b76b",
-  "georss_box_s": "46.527073 9.637377 48.812433 16.931180",
   "dc_title_s": "Austria Cities With Population From 5 Thousand To 10 Thousand, 2006",
   "layer_slug_s": "princeton-np193b76b",
   "layer_geom_type_s": "Point",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

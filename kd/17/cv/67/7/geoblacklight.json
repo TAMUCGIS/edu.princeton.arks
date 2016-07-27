@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1924",
-  "uuid": "http://arks.princeton.edu/ark:/88435/kd17cv677",
   "dc_description_s": "Carte geologique detaillee de la France [a 1/80 000]: Alencon.",
-  "georss_box_s": "48.39980 -0.70990 48.75950 0.16010",
   "layer_modified_dt": "2015-01-19T22:36:37Z",
   "dc_creator_sm": [
     "Termier, Pierre"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-kd17cv677",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/kd17cv677/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/kd/17/cv/67/7/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "48.75950 -0.70990 48.75950 0.16010 48.39980 0.16010 48.39980 -0.70990 48.75950 -0.70990",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1924"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "France"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

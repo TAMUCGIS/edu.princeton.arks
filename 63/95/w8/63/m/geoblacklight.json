@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-180, 0, 90, 0)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/6395w863m/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/63/95/w8/63/m/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/6395w863m/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/6395w863m",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "World maps",
@@ -18,15 +17,14 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "6395w863m",
-  "georss_polygon_s": "90 -180 90 0 0 0 0 -180 90 -180",
   "dc_publisher_s": "W. & A. K. Johnston Limited",
   "dct_spatial_sm": [
     "World"
   ],
   "layer_id_s": "6395w863m",
-  "georss_box_s": "0 -180 90 0",
   "dc_title_s": "Imperial map of the world in hemispheres / constructed & engraved by W. & E. K. Johnston, Limited ... (Sheet 3)",
   "dct_issued_s": "1905 (?)",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

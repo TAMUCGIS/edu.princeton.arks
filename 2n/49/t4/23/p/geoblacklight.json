@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1845",
-  "uuid": "http://arks.princeton.edu/ark:/88435/2n49t423p",
   "dc_description_s": "Map of New-York Bay and Harbor and the environs",
-  "georss_box_s": "40.3 -74.3166666667 40.75 -73.4666666667",
   "layer_modified_dt": "2015-01-19T22:37:41Z",
   "dc_creator_sm": [
     "Hassler, F. R.",
@@ -15,7 +13,7 @@
     "Bache, A. D.",
     "Humphreys, A. A.",
     "Siebert, Selmar.",
-    "Rolle\u0301, A.",
+    "Rollé, A.",
     "Lawson, Oscar A.,",
     "Farley, John,",
     "Dankworth, Frederick,",
@@ -29,12 +27,14 @@
   "layer_slug_s": "princeton-2n49t423p",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/2n49t423p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/2n/49/t4/23/p/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.75 -74.3166666667 40.75 -73.4666666667 40.3 -73.4666666667 40.3 -74.3166666667 40.75 -74.3166666667",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1845"
   ],
   "solr_geom": "ENVELOPE(-74.3166666667, -73.4666666667, 40.75, 40.3)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

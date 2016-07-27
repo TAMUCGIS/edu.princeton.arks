@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1626",
-  "uuid": "http://arks.princeton.edu/ark:/88435/6d5700134",
   "dc_description_s": "The kingdome of China",
-  "georss_box_s": "15.5 105.0 62.5 -173.0",
   "layer_modified_dt": "2015-01-19T22:37:37Z",
   "dc_creator_sm": [
     "Humble, George,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-6d5700134",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/6d5700134/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/6d/57/00/13/4/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "62.5 105.0 62.5 -173.0 15.5 -173.0 15.5 105.0 62.5 105.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1626"
@@ -28,5 +25,6 @@
     "China",
     "Macau (China)",
     "Pegu (Burma)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

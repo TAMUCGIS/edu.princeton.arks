@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(47.744503, 47.804096, 30.562991, 30.535892)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/6h440t96k/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/6h440t96k/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/6h440t96k/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/6h440t96k",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Transportation networks",
@@ -18,7 +17,6 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "6h440t96k",
-  "georss_polygon_s": "30.562991 47.744503 30.562991 47.804096 30.535892 47.804096 30.535892 47.744503 30.562991 47.744503",
   "dc_publisher_s": "LeadDog Consulting, LLC",
   "solr_year_i": "2006",
   "dct_spatial_sm": [
@@ -26,9 +24,9 @@
     "Basra"
   ],
   "layer_id_s": "pulmap-restricted:6h440t96k",
-  "georss_box_s": "30.535892 47.744503 30.562991 47.804096",
   "dc_title_s": "Basra railway",
   "layer_slug_s": "princeton-6h440t96k",
   "layer_geom_type_s": "Line",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

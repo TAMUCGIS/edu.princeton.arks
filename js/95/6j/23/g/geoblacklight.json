@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1576",
-  "uuid": "http://arks.princeton.edu/ark:/88435/js956j23g",
   "dc_description_s": "Nicsia",
-  "georss_box_s": "36.9162617 25.33292 37.203594 25.6064953",
   "layer_modified_dt": "2015-01-21T22:23:59Z",
   "dc_creator_sm": [
     "Porro, Girolamo,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-js956j23g",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/js956j23g/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/js/95/6j/23/g/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "37.203594 25.33292 37.203594 25.6064953 36.9162617 25.6064953 36.9162617 25.33292 37.203594 25.33292",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1576"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Naxos Island (Greece)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

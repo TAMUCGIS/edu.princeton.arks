@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1943",
-  "uuid": "http://arks.princeton.edu/ark:/88435/4b29b846r",
   "dc_description_s": "A Map of some of the south and east bounds of Pennsylvania in America, being partly inhabited",
-  "georss_box_s": "39.7197662 -80.5210832 42.5146891 -74.6895019",
   "layer_modified_dt": "2015-01-21T22:24:16Z",
   "dc_creator_sm": [
     "Seller, John,",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-4b29b846r",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/4b29b846r/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/4b/29/b8/46/r/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "42.5146891 -80.5210832 42.5146891 -74.6895019 39.7197662 -74.6895019 39.7197662 -80.5210832 42.5146891 -80.5210832",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1943"
@@ -26,5 +23,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Pennsylvania"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

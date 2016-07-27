@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1620",
-  "uuid": "http://arks.princeton.edu/ark:/88435/dj52w7184",
-  "dc_description_s": "Cumbria, sive, Cumberlandia qu\u00e6 olim pars Brigantum",
-  "georss_box_s": "53.0868348 -0.5351732 53.1068348 -0.5151732",
+  "dc_description_s": "Cumbria, sive, Cumberlandia quæ olim pars Brigantum",
   "layer_modified_dt": "2015-01-21T22:24:18Z",
   "dc_creator_sm": [
     "Bishop, George,",
@@ -13,11 +11,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "dj52w7184",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Cumbria, sive, Cumberlandia qu\u00e6 olim pars Brigantum",
+  "dc_title_s": "Cumbria, sive, Cumberlandia quæ olim pars Brigantum",
   "layer_slug_s": "princeton-dj52w7184",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/dj52w7184/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/dj/52/w7/18/4/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "53.1068348 -0.5351732 53.1068348 -0.5151732 53.0868348 -0.5151732 53.0868348 -0.5351732 53.1068348 -0.5351732",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1620"
@@ -26,5 +23,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Cumberland (England)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

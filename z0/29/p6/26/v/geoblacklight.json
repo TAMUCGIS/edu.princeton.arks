@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(6.9178, 7.1828, 51.5809, 51.4745)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/z029p626v\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/z029p626v/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/z029p626v",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Falk-Verlag",
   "dc_type_s": "Image",
   "dc_identifier_s": "z029p626v",
-  "georss_polygon_s": "51.5809 6.9178 51.5809 7.1828 51.4745 7.1828 51.4745 6.9178 51.5809 6.9178",
   "dc_publisher_s": "Falk-Verlag",
   "solr_year_i": "1971",
   "dct_spatial_sm": [
@@ -31,9 +29,9 @@
     "Nordrhein-Westfalen"
   ],
   "layer_id_s": "z029p626v",
-  "georss_box_s": "51.4745 6.9178 51.5809 7.1828",
   "dc_title_s": "Gelsenkirchen, Gladbeck, Bottrop",
   "layer_slug_s": "princeton-z029p626v",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

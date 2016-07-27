@@ -1,8 +1,6 @@
 {
   "layer_modified_dt": "2014-12-19T16:18:33Z",
-  "uuid": "http://arks.princeton.edu/ark:/88435/nk322f99x",
   "dc_description_s": "Land parcels in Mesa County, Colorado, 2009.",
-  "georss_box_s": "38.500020 -109.060080 39.366707 -107.379764",
   "layer_slug_s": "princeton-nk322f99x",
   "dct_spatial_sm": [
     "Mesa",
@@ -13,7 +11,6 @@
     "Boundary Solutions, Inc."
   ],
   "layer_id_s": "pulmap-restricted:nk322f99x",
-  "georss_polygon_s": "39.366707 -109.060080 39.366707 -107.379764 38.500020 -107.379764 38.500020 -109.060080 39.366707 -109.060080",
   "dc_type_s": "Dataset",
   "dc_identifier_s": "nk322f99x",
   "dct_provenance_s": "Princeton",
@@ -42,5 +39,6 @@
   "layer_geom_type_s": "Polygon",
   "solr_geom": "ENVELOPE(-109.060080, -107.379764, 39.366707, 38.500020)",
   "dc_rights_s": "Restricted",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

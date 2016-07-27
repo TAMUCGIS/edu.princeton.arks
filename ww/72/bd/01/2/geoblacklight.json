@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(9.3333, 17.25, 49.2, 46.2)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/ww72bd012/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ww/72/bd/01/2/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/ww72bd012/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/ww72bd012",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
@@ -23,7 +22,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "ww72bd012",
-  "georss_polygon_s": "49.2 9.3333 49.2 17.25 46.2 17.25 46.2 9.3333 49.2 9.3333",
   "dc_publisher_s": "Central Intelligence Agency",
   "solr_year_i": "1970",
   "dct_spatial_sm": [
@@ -31,9 +29,9 @@
     "Europe"
   ],
   "layer_id_s": "ww72bd012",
-  "georss_box_s": "46.2 9.3333 49.2 17.25",
   "dc_title_s": "Austria, 1970 (with relief)",
   "dct_issued_s": "1970",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

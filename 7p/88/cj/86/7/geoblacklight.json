@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1877",
-  "uuid": "http://arks.princeton.edu/ark:/88435/7p88cj867",
   "dc_description_s": "The State of New Jersey : from U.S. Coast survey records, N.J. geological and topographical survey and various local surveys to date",
-  "georss_box_s": "38.7911303 -75.5633859 41.357423 -73.8939789",
   "layer_modified_dt": "2015-01-21T22:23:56Z",
   "dc_creator_sm": [
     "Cook, George Hammell,",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-7p88cj867",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/7p88cj867/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/7p/88/cj/86/7/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "41.357423 -75.5633859 41.357423 -73.8939789 38.7911303 -73.8939789 38.7911303 -75.5633859 41.357423 -75.5633859",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1877"
@@ -28,5 +25,6 @@
     "New Jersey",
     "New Jersey",
     "New Jersey"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

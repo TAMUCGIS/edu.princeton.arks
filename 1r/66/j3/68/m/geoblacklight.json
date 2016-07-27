@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1855",
-  "uuid": "http://arks.princeton.edu/ark:/88435/1r66j368m",
   "dc_description_s": "Pianta della Campagna Romana nello stato antico e moderno sulla proporzione di 1 a 110000 /",
-  "georss_box_s": "42.094995 12.3060877 42.1748758 12.4277219",
   "layer_modified_dt": "2015-01-25T02:06:23Z",
   "dc_creator_sm": [
     "Fornari, Augusto,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-1r66j368m",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/1r66j368m/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/1r/66/j3/68/m/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "42.1748758 12.3060877 42.1748758 12.4277219 42.094995 12.4277219 42.094995 12.3060877 42.1748758 12.3060877",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1855"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Campagna di Roma (Italy)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

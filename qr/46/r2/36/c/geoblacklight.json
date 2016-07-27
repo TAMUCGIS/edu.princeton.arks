@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-75.8667, -74.600, 45.0333, 44.1333)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/qr46r236c/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/qr/46/r2/36/c/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/qr46r236c/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/qr46r236c",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "historical maps",
@@ -21,16 +20,15 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "qr46r236c",
-  "georss_polygon_s": "45.0333 -75.8667 45.0333 -74.600 44.1333 -74.600 44.1333 -75.8667 45.0333 -75.8667",
   "dc_publisher_s": "U.S. Department of Agriculture. Bureau of Chemistry and Soils",
   "solr_year_i": "1925",
   "dct_spatial_sm": [
     "New York"
   ],
   "layer_id_s": "qr46r236c",
-  "georss_box_s": "44.1333 -75.8667 45.0333 -74.600",
   "dc_title_s": "Soil map St. Lawrence County, New York. ",
   "dct_issued_s": "1925",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

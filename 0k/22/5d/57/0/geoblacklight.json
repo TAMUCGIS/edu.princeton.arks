@@ -1,18 +1,15 @@
 {
   "solr_year_i": "1908",
-  "uuid": "http://arks.princeton.edu/ark:/88435/0k225d570",
-  "dc_description_s": "Plan der Stadt Jena und ihrer na\u0308chsten Umgebung",
-  "georss_box_s": "50.7731401 11.4233091 51.0931401 11.7433091",
+  "dc_description_s": "Plan der Stadt Jena und ihrer nächsten Umgebung",
   "layer_modified_dt": "2015-01-21T22:24:26Z",
   "layer_id_s": "0k225d570",
   "dc_type_s": "Image",
   "dc_identifier_s": "0k225d570",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Plan der Stadt Jena und ihrer na\u0308chsten Umgebung",
+  "dc_title_s": "Plan der Stadt Jena und ihrer nächsten Umgebung",
   "layer_slug_s": "princeton-0k225d570",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/0k225d570/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/0k/22/5d/57/0/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.0931401 11.4233091 51.0931401 11.7433091 50.7731401 11.7433091 50.7731401 11.4233091 51.0931401 11.4233091",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1908"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Jena (Germany)",
     "Thuringia (Germany)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-82.5, -82.25, 37.25, 37)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/pg15bg381/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/pg/15/bg/38/1/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/pg15bg381/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/pg15bg381",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "historical maps",
@@ -20,7 +19,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "pg15bg381",
-  "georss_polygon_s": "37.25 -82.5 37.25 -82.25 37 -82.25 37 -82.5 37.25 -82.5",
   "dc_publisher_s": "US Geological Survey",
   "dct_spatial_sm": [
     "Clintwood",
@@ -32,9 +30,9 @@
     "United States"
   ],
   "layer_id_s": "pg15bg381",
-  "georss_box_s": "37 -82.5 37.25 -82.25",
   "dc_title_s": "Virginia--Kentucky: Clintwood Quadrangle [1915]",
   "dct_issued_s": "May 1915",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

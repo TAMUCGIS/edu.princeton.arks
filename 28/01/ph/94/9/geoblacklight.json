@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(17.900, 17.9833, 43.6833, 43.6167)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/2801ph949/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/28/01/ph/94/9/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/2801ph949/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/2801ph949",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
@@ -22,7 +21,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "2801ph949",
-  "georss_polygon_s": "43.6833 17.900 43.6833 17.9833 43.6167 17.9833 43.6167 17.900 43.6833 17.900",
   "dc_publisher_s": "Defense Mapping Agency",
   "solr_year_i": "1995",
   "dct_spatial_sm": [
@@ -30,9 +28,9 @@
     "Bosnia and Herzegovina"
   ],
   "layer_id_s": "2801ph949",
-  "georss_box_s": "43.6167 17.900 43.6833 17.9833",
   "dc_title_s": "Bosnia and Herzegovina city graphic 1:15,000. Konjic. Series M903. ",
   "dct_issued_s": "1995",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

@@ -1,11 +1,9 @@
 {
   "solr_year_i": "1572",
-  "uuid": "http://arks.princeton.edu/ark:/88435/ns064787w",
   "dc_description_s": "Nouae insulae",
-  "georss_box_s": "18.9110642 172.4458955 71.389888 -66.9453947",
   "layer_modified_dt": "2015-01-21T22:23:44Z",
   "dc_creator_sm": [
-    "Mu\u0308nster, Sebastian,",
+    "Münster, Sebastian,",
     "Petri, Heinrich,"
   ],
   "layer_id_s": "ns064787w",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-ns064787w",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/ns064787w/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ns/06/47/87/w/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "71.389888 172.4458955 71.389888 -66.9453947 18.9110642 -66.9453947 18.9110642 172.4458955 71.389888 172.4458955",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1572"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "America"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(17.469124, 18.030273, -15.445920, -16.162711)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/mp48sf376\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/mp48sf376/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/mp48sf376",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Topographic maps",
@@ -15,7 +14,6 @@
   "dc_creator_sm": "Instituto de Geodesia e Cartografia de Angola",
   "dc_type_s": "Image",
   "dc_identifier_s": "mp48sf376",
-  "georss_polygon_s": "-15.445920 17.469124 -15.445920 18.030273 -16.162711 18.030273 -16.162711 17.469124 -15.445920 17.469124",
   "dc_publisher_s": "Instituto de Geodesia e Cartografia de Angola",
   "solr_year_i": "1982",
   "dct_spatial_sm": [
@@ -24,9 +22,9 @@
     "Angola"
   ],
   "layer_id_s": "mp48sf376",
-  "georss_box_s": "-16.162711 17.469124 -15.445920 18.030273",
   "dc_title_s": "Republica Popular de Angola. Folha No.385 : Missao Catolica do Capico",
   "layer_slug_s": "princeton-mp48sf376",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

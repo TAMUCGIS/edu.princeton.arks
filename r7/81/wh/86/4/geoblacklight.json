@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1834",
-  "uuid": "http://arks.princeton.edu/ark:/88435/r781wh864",
-  "dc_description_s": "Carte topographique de l'Ile de Te\u0301ne\u0301riffe /",
-  "georss_box_s": "27.9980751 -16.9259265 28.6053951 -16.1193832",
+  "dc_description_s": "Carte topographique de l'Ile de Ténériffe /",
   "layer_modified_dt": "2015-01-21T22:23:45Z",
   "dc_creator_sm": [
     "Webb, Philip Barker,"
@@ -11,11 +9,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "r781wh864",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Carte topographique de l'Ile de Te\u0301ne\u0301riffe /",
+  "dc_title_s": "Carte topographique de l'Ile de Ténériffe /",
   "layer_slug_s": "princeton-r781wh864",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/r781wh864/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/r7/81/wh/86/4/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "28.6053951 -16.9259265 28.6053951 -16.1193832 27.9980751 -16.1193832 27.9980751 -16.9259265 28.6053951 -16.9259265",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1834"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Tenerife (Canary Islands)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

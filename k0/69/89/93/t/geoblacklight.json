@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1924",
-  "uuid": "http://arks.princeton.edu/ark:/88435/k0698993t",
   "dc_description_s": "Map of the battle ground on Bemis Heights, 19th Sept. & 7th Oct., 1777 : the British and American camps, including a part of the surrounding country as it was at the time",
-  "georss_box_s": "-14.7608357 -179.9999999 71.6048217 180",
   "layer_modified_dt": "2015-01-21T22:24:01Z",
   "dc_creator_sm": [
     "Hall, John H.,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-k0698993t",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/k0698993t/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/k0/69/89/93/t/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "71.6048217 -179.9999999 71.6048217 180 -14.7608357 180 -14.7608357 -179.9999999 71.6048217 -179.9999999",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1924"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "United States"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(7.4877, 7.6916, 50.4085, 50.2858)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/ns064766h\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/ns064766h/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/ns064766h",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -19,7 +18,6 @@
   "dc_creator_sm": "Pharus-Verlag G.m.b.H.",
   "dc_type_s": "Image",
   "dc_identifier_s": "ns064766h",
-  "georss_polygon_s": "50.4085 7.4877 50.4085 7.6916 50.2858 7.6916 50.2858 7.4877 50.4085 7.4877",
   "dc_publisher_s": "Pharus-Verlag G.m.b.H.",
   "solr_year_i": "1920",
   "dct_spatial_sm": [
@@ -32,9 +30,9 @@
     "Rheinland-Pfalz Land"
   ],
   "layer_id_s": "ns064766h",
-  "georss_box_s": "50.2858 7.4877 50.4085 7.6916",
   "dc_title_s": "Pharus-plan Coblenz",
   "layer_slug_s": "princeton-ns064766h",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

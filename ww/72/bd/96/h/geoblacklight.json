@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1720",
-  "uuid": "http://arks.princeton.edu/ark:/88435/ww72bd96h",
   "dc_description_s": "A new map of the city of Amsterdam : most humbly inscrib'd to John Hedworth Esqr.",
-  "georss_box_s": "52.2781742 4.728759 52.4310638 5.0791623",
   "layer_modified_dt": "2015-01-21T22:24:08Z",
   "dc_creator_sm": [
     "Parker, Samuel,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-ww72bd96h",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/ww72bd96h/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ww/72/bd/96/h/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "52.4310638 4.728759 52.4310638 5.0791623 52.2781742 5.0791623 52.2781742 4.728759 52.4310638 4.728759",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1720"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Amsterdam (Netherlands)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

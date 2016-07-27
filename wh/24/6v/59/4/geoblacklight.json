@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1903",
-  "uuid": "http://arks.princeton.edu/ark:/88435/wh246v594",
   "dc_description_s": "Syria : route of the American Archaeological Expedition of 1899-1900",
-  "georss_box_s": "33.0 35.0 37.0 38.0",
   "layer_modified_dt": "2015-01-23T17:48:36Z",
   "layer_id_s": "wh246v594",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-wh246v594",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/wh246v594/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/wh/24/6v/59/4/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "37.0 35.0 37.0 38.0 33.0 38.0 33.0 35.0 37.0 35.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1903"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Syria"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

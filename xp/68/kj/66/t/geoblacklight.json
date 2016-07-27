@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1802",
-  "uuid": "http://arks.princeton.edu/ark:/88435/xp68kj66t",
-  "dc_description_s": "Ame\u0301rique Me\u0301ridionale",
-  "georss_box_s": "-21.0000498 -61.0000502 -20.9999498 -60.9999502",
+  "dc_description_s": "Amérique Méridionale",
   "layer_modified_dt": "2015-01-21T22:24:08Z",
   "dc_creator_sm": [
     "Guthrie, William,"
@@ -11,11 +9,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "xp68kj66t",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Ame\u0301rique Me\u0301ridionale",
+  "dc_title_s": "Amérique Méridionale",
   "layer_slug_s": "princeton-xp68kj66t",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/xp68kj66t/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/xp/68/kj/66/t/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "-20.9999498 -61.0000502 -20.9999498 -60.9999502 -21.0000498 -60.9999502 -21.0000498 -61.0000502 -20.9999498 -61.0000502",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1802"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "South America"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

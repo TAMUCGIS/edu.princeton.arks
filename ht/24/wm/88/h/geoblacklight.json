@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1925",
-  "uuid": "http://arks.princeton.edu/ark:/88435/ht24wm88h",
   "dc_description_s": "Mapa de los ferrocarriles de Chile : zona central",
-  "georss_box_s": "-43.0 -75.0 -32.0 -69.0",
   "layer_modified_dt": "2015-01-19T22:37:12Z",
   "layer_id_s": "ht24wm88h",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-ht24wm88h",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/ht24wm88h/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ht/24/wm/88/h/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "-32.0 -75.0 -32.0 -69.0 -43.0 -69.0 -43.0 -75.0 -32.0 -75.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1925"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Chile"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

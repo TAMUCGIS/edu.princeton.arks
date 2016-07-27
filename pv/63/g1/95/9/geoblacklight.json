@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-22.0360, -21.7276, 64.1751, 64.0821)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/pv63g1959\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/pv63g1959/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/pv63g1959",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -19,7 +18,6 @@
   "dc_creator_sm": "Kortasmiojan",
   "dc_type_s": "Image",
   "dc_identifier_s": "pv63g1959",
-  "georss_polygon_s": "64.1751 -22.0360 64.1751 -21.7276 64.0821 -21.7276 64.0821 -22.0360 64.1751 -22.0360",
   "dc_publisher_s": "Kortasmiojan",
   "solr_year_i": "1975",
   "dct_spatial_sm": [
@@ -27,9 +25,9 @@
     "Iceland"
   ],
   "layer_id_s": "pv63g1959",
-  "georss_box_s": "64.0821 -22.0360 64.1751 -21.7276",
   "dc_title_s": "Reykjavik",
   "layer_slug_s": "princeton-pv63g1959",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

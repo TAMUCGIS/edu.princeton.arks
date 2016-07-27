@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1884",
-  "uuid": "http://arks.princeton.edu/ark:/88435/b2773z145",
   "dc_description_s": "South America (northern sheet)",
-  "georss_box_s": "-22.9005473 -69.6442909 -9.6695718 -57.4529999",
   "layer_modified_dt": "2015-01-21T22:24:08Z",
   "dc_creator_sm": [
     "Johnston, Alexander Keith,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-b2773z145",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/b2773z145/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/b2/77/3z/14/5/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "-9.6695718 -69.6442909 -9.6695718 -57.4529999 -22.9005473 -57.4529999 -22.9005473 -69.6442909 -9.6695718 -69.6442909",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1884"
@@ -28,5 +25,6 @@
     "Guiana",
     "Peru",
     "South America"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

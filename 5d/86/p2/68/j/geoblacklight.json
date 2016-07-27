@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1717",
-  "uuid": "http://arks.princeton.edu/ark:/88435/5d86p268j",
-  "dc_description_s": "La banlieu\u0308e de Paris",
-  "georss_box_s": "48.8155755 2.224122 48.902156 2.4697602",
+  "dc_description_s": "La banlieüe de Paris",
   "layer_modified_dt": "2015-01-21T22:24:12Z",
   "dc_creator_sm": [
     "Starckman, P."
@@ -11,11 +9,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "5d86p268j",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "La banlieu\u0308e de Paris",
+  "dc_title_s": "La banlieüe de Paris",
   "layer_slug_s": "princeton-5d86p268j",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/5d86p268j/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/5d/86/p2/68/j/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "48.902156 2.224122 48.902156 2.4697602 48.8155755 2.4697602 48.8155755 2.224122 48.902156 2.224122",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1717"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Paris (France)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

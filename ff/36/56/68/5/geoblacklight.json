@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(15.4652, 15.6519, 38.3012, 38.0637)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/ff3656685\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/ff3656685/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/ff3656685",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Research and Analysis, O.S.S.",
   "dc_type_s": "Image",
   "dc_identifier_s": "ff3656685",
-  "georss_polygon_s": "38.3012 15.4652 38.3012 15.6519 38.0637 15.6519 38.0637 15.4652 38.3012 15.4652",
   "dc_publisher_s": "Research and Analysis, O.S.S.",
   "solr_year_i": "1942",
   "dct_spatial_sm": [
@@ -30,9 +28,9 @@
     "Province of Messina"
   ],
   "layer_id_s": "ff3656685",
-  "georss_box_s": "38.0637 15.4652 38.3012 15.6519",
   "dc_title_s": "Messina Harbor",
   "layer_slug_s": "princeton-ff3656685",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

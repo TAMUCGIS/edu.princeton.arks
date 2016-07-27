@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(121.261388, 121.791600, 31.397527, 31.166157)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/j9602209n/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/j9602209n/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/j9602209n/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/j9602209n",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Business and Economy",
@@ -18,7 +17,6 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "j9602209n",
-  "georss_polygon_s": "31.397527 121.261388 31.397527 121.791600 31.166157 121.791600 31.166157 121.261388 31.397527 121.261388",
   "dc_publisher_s": "LeadDog Consulting, LLC",
   "solr_year_i": "2006",
   "dct_spatial_sm": [
@@ -26,9 +24,9 @@
     "China"
   ],
   "layer_id_s": "pulmap-restricted:j9602209n",
-  "georss_box_s": "31.166157 121.261388 31.397527 121.791600",
   "dc_title_s": "Shanghai gas stations",
   "layer_slug_s": "princeton-j9602209n",
   "layer_geom_type_s": "Point",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

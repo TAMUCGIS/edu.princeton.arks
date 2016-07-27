@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1737",
-  "uuid": "http://arks.princeton.edu/ark:/88435/fj2363946",
   "dc_description_s": "Africa secundum legitimas projectionis stereographicae regulas et juxta recentissimas relationes et observationes in subsidium vocatis quoque veterum Leonis Africani ...",
-  "georss_box_s": "1.9999503 15.9999497 2.0000503 16.0000497",
   "layer_modified_dt": "2015-01-21T22:23:46Z",
   "layer_id_s": "fj2363946",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-fj2363946",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/fj2363946/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/fj/23/63/94/6/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "2.0000503 15.9999497 2.0000503 16.0000497 1.9999503 16.0000497 1.9999503 15.9999497 2.0000503 15.9999497",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1737"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Africa"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

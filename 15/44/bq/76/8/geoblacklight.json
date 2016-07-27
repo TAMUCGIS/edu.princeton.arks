@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-72.000, -71.7500, 44.500, 44.2500)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/1544bq768/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/15/44/bq/76/8/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/1544bq768/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/1544bq768",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "historical maps",
@@ -21,7 +20,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "1544bq768",
-  "georss_polygon_s": "44.500 -72.000 44.500 -71.7500 44.2500 -71.7500 44.2500 -72.000 44.500 -72.000",
   "dc_publisher_s": "United States Geological Survey",
   "solr_year_i": "1935",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "Vermont"
   ],
   "layer_id_s": "1544bq768",
-  "georss_box_s": "44.2500 -72.000 44.500 -71.7500",
   "dc_title_s": "Vermont-New Hampshire: Littleton Quadrangle. [1935] ",
   "dct_issued_s": "1935",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

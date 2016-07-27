@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-72.5667, -70.5833, 45.3500, 42.700)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/wd375x803/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/wd/37/5x/80/3/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/wd375x803/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/wd375x803",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Topographic map",
@@ -20,7 +19,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "wd375x803",
-  "georss_polygon_s": "45.3500 -72.5667 45.3500 -70.5833 42.700 -70.5833 42.700 -72.5667 45.3500 -72.5667",
   "dc_publisher_s": "William Faden, Geographer to the King",
   "solr_year_i": "1784",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "United States"
   ],
   "layer_id_s": "wd375x803",
-  "georss_box_s": "42.700 -72.5667 45.3500 -70.5833",
   "dc_title_s": "A topographical map of the state of New Hampshire surveyed under the direction of Samuel Holland esqr surveyor general of lands for the northern district of North America.",
   "dct_issued_s": "1784",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1648",
-  "uuid": "http://arks.princeton.edu/ark:/88435/sf268759v",
   "dc_description_s": "Oxonium comitatus : vulgo Oxford shire",
-  "georss_box_s": "51.4594132 -1.7195007 52.1684702 -0.8700659",
   "layer_modified_dt": "2015-01-25T02:06:16Z",
   "dc_creator_sm": [
     "Haselton, Norris S.,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-sf268759v",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/sf268759v/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/sf/26/87/59/v/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "52.1684702 -1.7195007 52.1684702 -0.8700659 51.4594132 -0.8700659 51.4594132 -1.7195007 52.1684702 -1.7195007",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1648"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Oxfordshire (England)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

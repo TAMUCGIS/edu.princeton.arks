@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(36.235544, 37.394966, 0.870660, -0.253394)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/pc289k75r\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/pc289k75r/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/pc289k75r",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "River",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Mpala Research Center",
   "dc_type_s": "Image",
   "dc_identifier_s": "pc289k75r",
-  "georss_polygon_s": "0.870660 36.235544 0.870660 37.394966 -0.253394 37.394966 -0.253394 36.235544 0.870660 36.235544",
   "solr_year_i": "2006",
   "dct_spatial_sm": [
     "Laikipai",
@@ -26,9 +24,9 @@
     "Kenya"
   ],
   "layer_id_s": "pc289k75r",
-  "georss_box_s": "-0.253394 36.235544 0.870660 37.394966",
   "dc_title_s": "Rivers of Laikipia area, Rift Valley Province,  Kenya",
   "layer_slug_s": "princeton-pc289k75r",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

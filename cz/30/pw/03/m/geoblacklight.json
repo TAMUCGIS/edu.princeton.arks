@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1661",
-  "uuid": "http://arks.princeton.edu/ark:/88435/cz30pw03m",
   "dc_description_s": "Scenographia systematis Copernicani",
-  "georss_box_s": "36.2324742 -115.1588944 36.2360328 -115.1583345",
   "layer_modified_dt": "2015-01-21T22:23:58Z",
   "dc_creator_sm": [
     "Jansson, Jan,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-cz30pw03m",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/cz30pw03m/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/cz/30/pw/03/m/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "36.2360328 -115.1588944 36.2360328 -115.1583345 36.2324742 -115.1583345 36.2324742 -115.1588944 36.2360328 -115.1588944",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1661"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Solar system"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

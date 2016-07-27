@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(139.800, 139.8667, 38.9333, 38.900)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/12579t78m/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/12/57/9t/78/m/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/12579t78m/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/12579t78m",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
@@ -23,7 +22,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "12579t78m",
-  "georss_polygon_s": "38.9333 139.800 38.9333 139.8667 38.900 139.8667 38.900 139.800 38.9333 139.800",
   "dc_publisher_s": "Army Map Service",
   "solr_year_i": "1945",
   "dct_spatial_sm": [
@@ -32,9 +30,9 @@
     "Japan"
   ],
   "layer_id_s": "12579t78m",
-  "georss_box_s": "38.900 139.800 38.9333 139.8667",
   "dc_title_s": "Sakata, Yamagata Prefecture, Honshu, Japan. A.M.S. L902.",
   "dct_issued_s": "1945",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

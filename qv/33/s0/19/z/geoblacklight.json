@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1645",
-  "uuid": "http://arks.princeton.edu/ark:/88435/qv33s019z",
-  "dc_description_s": "Sarnia Insula, vulgo Garnsey, et Insula C\u00e6sarea, vernacule Iarsey",
-  "georss_box_s": "60.2967942 -146.1196671 60.9367942 -145.4796671",
+  "dc_description_s": "Sarnia Insula, vulgo Garnsey, et Insula Cæsarea, vernacule Iarsey",
   "layer_modified_dt": "2015-01-25T02:06:22Z",
   "dc_creator_sm": [
     "Blaeu, Willem Janszoon,"
@@ -11,11 +9,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "qv33s019z",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Sarnia Insula, vulgo Garnsey, et Insula C\u00e6sarea, vernacule Iarsey",
+  "dc_title_s": "Sarnia Insula, vulgo Garnsey, et Insula Cæsarea, vernacule Iarsey",
   "layer_slug_s": "princeton-qv33s019z",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/qv33s019z/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/qv/33/s0/19/z/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "60.9367942 -146.1196671 60.9367942 -145.4796671 60.2967942 -145.4796671 60.2967942 -146.1196671 60.9367942 -146.1196671",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1645"
@@ -27,5 +24,6 @@
     "Guernsey",
     "Jersey",
     "Sark (Guernsey)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-74.807, -74.768, 40.011, 39.979)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/j6731542f/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/j6/73/15/42/f/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/j6731542f/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/j6731542f",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
@@ -17,7 +16,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "j6731542f",
-  "georss_polygon_s": "40.011 -74.807 40.011 -74.768 39.979 -74.768 39.979 -74.807 40.011 -74.807",
   "dc_publisher_s": "Sanborn Map Company",
   "solr_year_i": "1922",
   "dct_spatial_sm": [
@@ -27,9 +25,9 @@
     "United States"
   ],
   "layer_id_s": "j6731542f",
-  "georss_box_s": "39.979 -74.807 40.011 -74.768",
   "dc_title_s": "Mount Holly, Burlington County, New Jersey (Sheet 16)",
   "dct_issued_s": "1922",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

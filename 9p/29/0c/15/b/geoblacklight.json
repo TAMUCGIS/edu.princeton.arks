@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1940",
-  "uuid": "http://arks.princeton.edu/ark:/88435/9p290c15b",
   "dc_description_s": "Carte geologique detaillee de la France [a 1/80 000]: Blois.",
-  "georss_box_s": "47.33870 1.06670 47.69860 1.91370",
   "layer_modified_dt": "2015-01-19T22:36:39Z",
   "dc_creator_sm": [
     "Grandjean, F."
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-9p290c15b",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/9p290c15b/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/9p/29/0c/15/b/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "47.69860 1.06670 47.69860 1.91370 47.33870 1.91370 47.33870 1.06670 47.69860 1.06670",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1940"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "France"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

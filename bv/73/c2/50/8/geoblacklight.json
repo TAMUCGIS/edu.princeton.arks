@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-74.032699, -74.001327, 40.780685, 40.756601)",
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/bv/73/c2/50/8/00000001.jp2/info.json\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/bv73c2508",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
@@ -21,7 +20,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "bv73c2508",
-  "georss_polygon_s": "40.780685 -74.032699 40.780685 -74.001327 40.756601 -74.001327 40.756601 -74.032699 40.780685 -74.032699",
   "dc_publisher_s": "New York: Sanborn Map Company",
   "solr_year_i": "1910",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "Weehawken"
   ],
   "layer_id_s": "bv73c2508",
-  "georss_box_s": "40.756601 -74.032699 40.780685 -74.001327",
   "dc_title_s": "Weehawken (Title)",
   "layer_slug_s": "princeton-bv73c2508",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

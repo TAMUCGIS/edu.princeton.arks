@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-3.9333, -3.3167, 51.000, 50.500)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/8s45qb255\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/8s45qb255/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/8s45qb255",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
@@ -19,7 +18,6 @@
   "dc_creator_sm": "Great Britain Ordnance Survey",
   "dc_type_s": "Image",
   "dc_identifier_s": "8s45qb255",
-  "georss_polygon_s": "51.000 -3.9333 51.000 -3.3167 50.500 -3.3167 50.500 -3.9333 51.000 -3.9333",
   "dc_publisher_s": "Great Britain Ordnance Survey",
   "solr_year_i": "1927",
   "dct_spatial_sm": [
@@ -32,9 +30,9 @@
     "G5741.C2.s63.O7S8 sh128"
   ],
   "layer_id_s": "8s45qb255",
-  "georss_box_s": "50.500 -3.9333 51.000 -3.3167",
   "dc_title_s": "Ordnance Survey of England and Wales: popular edition one-inch map.  Tiverton. Sheet 128.",
   "layer_slug_s": "princeton-8s45qb255",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

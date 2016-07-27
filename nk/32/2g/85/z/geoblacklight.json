@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1636",
-  "uuid": "http://arks.princeton.edu/ark:/88435/nk322g85z",
   "dc_description_s": "Nova Hispania et Nova Galicia",
-  "georss_box_s": "14.5333037 -118.36443 32.7187629 -86.7105711",
   "layer_modified_dt": "2015-01-21T22:24:24Z",
   "dc_creator_sm": [
     "Hondius, Hendrik,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-nk322g85z",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/nk322g85z/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/nk/32/2g/85/z/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "32.7187629 -118.36443 32.7187629 -86.7105711 14.5333037 -86.7105711 14.5333037 -118.36443 32.7187629 -118.36443",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1636"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Mexico"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

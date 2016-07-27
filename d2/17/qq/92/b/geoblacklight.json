@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(44.189236, 44.435829, 33.452846, 33.185973)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/d217qq92b/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/d217qq92b/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/d217qq92b/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/d217qq92b",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Transportation networks",
@@ -18,7 +17,6 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "d217qq92b",
-  "georss_polygon_s": "33.452846 44.189236 33.452846 44.435829 33.185973 44.435829 33.185973 44.189236 33.452846 44.189236",
   "dc_publisher_s": "LeadDog Consulting, LLC",
   "solr_year_i": "2006",
   "dct_spatial_sm": [
@@ -26,9 +24,9 @@
     "Baghdad"
   ],
   "layer_id_s": "pulmap-restricted:d217qq92b",
-  "georss_box_s": "33.185973 44.189236 33.452846 44.435829",
   "dc_title_s": "Baghdad rail",
   "layer_slug_s": "princeton-d217qq92b",
   "layer_geom_type_s": "Line",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

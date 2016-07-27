@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-80, -74, 28, 20)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/4x51hk58n/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/4x/51/hk/58/n/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/4x51hk58n/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/4x51hk58n",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
@@ -19,16 +18,15 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "4x51hk58n",
-  "georss_polygon_s": "28 -80 28 -74 20 -74 20 -80 28 -80",
   "dc_publisher_s": "Central Intelligence Agency",
   "dct_spatial_sm": [
     "Bahamas",
     "Cuba"
   ],
   "layer_id_s": "4x51hk58n",
-  "georss_box_s": "20 -80 28 -74",
   "dc_title_s": "The Bahamas, 1986",
   "dct_issued_s": "July 1986",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

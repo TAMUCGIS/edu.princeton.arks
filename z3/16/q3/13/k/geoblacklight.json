@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(0.3833, 1.0167, 51.0500, 50.7833)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/z316q313k\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/z316q313k/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/z316q313k",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
@@ -19,7 +18,6 @@
   "dc_creator_sm": "Great Britain Ordnance Survey",
   "dc_type_s": "Image",
   "dc_identifier_s": "z316q313k",
-  "georss_polygon_s": "51.0500 0.3833 51.0500 1.0167 50.7833 1.0167 50.7833 0.3833 51.0500 0.3833",
   "dc_publisher_s": "Great Britain Ordnance Survey",
   "solr_year_i": "1928",
   "dct_spatial_sm": [
@@ -32,9 +30,9 @@
     "G5741.C2.s63.O7S8 sh135"
   ],
   "layer_id_s": "z316q313k",
-  "georss_box_s": "50.7833 0.3833 51.0500 1.0167",
   "dc_title_s": "Ordnance Survey of England and Wales: popular edition one-inch map.  Hastings. Sheet 135.",
   "layer_slug_s": "princeton-z316q313k",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

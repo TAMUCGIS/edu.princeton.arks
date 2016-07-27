@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-96.2701, -50.9513, 27.8075, 2.0158)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/4x51hk556/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/4x/51/hk/55/6/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/4x51hk556/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/4x51hk556",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "British Empire",
@@ -18,7 +17,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "4x51hk556",
-  "georss_polygon_s": "27.8075 -96.2701 27.8075 -50.9513 2.0158 -50.9513 2.0158 -96.2701 27.8075 -96.2701",
   "dc_publisher_s": "s.n.",
   "solr_year_i": "1719",
   "dct_spatial_sm": [
@@ -32,9 +30,9 @@
     "Port Royall"
   ],
   "layer_id_s": "4x51hk556",
-  "georss_box_s": "2.0158 -96.2701 27.8075 -50.9513",
   "dc_title_s": "A new map of the English empire in the ocean of America or West Indies",
   "dct_issued_s": "1719",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

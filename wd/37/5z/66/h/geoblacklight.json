@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1759",
-  "uuid": "http://arks.princeton.edu/ark:/88435/wd375z66h",
   "dc_description_s": "Dominia Anglorum in America Septentrionali",
-  "georss_box_s": "43.3739381693 -67.8693624125 47.4066675999 -57.7745094125",
   "layer_modified_dt": "2015-01-21T22:23:57Z",
   "dc_creator_sm": [
     "Fox, N. B.,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-wd375z66h",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/wd375z66h/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/wd/37/5z/66/h/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "47.4066675999 -67.8693624125 47.4066675999 -57.7745094125 43.3739381693 -57.7745094125 43.3739381693 -67.8693624125 47.4066675999 -67.8693624125",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1759"
@@ -32,5 +29,6 @@
     "South Carolina",
     "Southern States",
     "Virginia"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

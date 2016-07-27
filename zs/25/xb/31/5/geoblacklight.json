@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1968",
-  "uuid": "http://arks.princeton.edu/ark:/88435/zs25xb315",
   "dc_description_s": "International and overseas air routes of United States carriers, including Hawaii and Alaska mainland routes: December 31, 1968",
-  "georss_box_s": "-60.00000 -180.00000 80.00000 180.00000",
   "layer_modified_dt": "2015-01-19T22:36:50Z",
   "layer_id_s": "zs25xb315",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-zs25xb315",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/zs25xb315/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/zs/25/xb/31/5/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "80.00000 -180.00000 80.00000 180.00000 -60.00000 180.00000 -60.00000 -180.00000 80.00000 -180.00000",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1968"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "World"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

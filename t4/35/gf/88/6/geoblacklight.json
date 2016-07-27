@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1646",
-  "uuid": "http://arks.princeton.edu/ark:/88435/t435gf886",
-  "dc_description_s": "Carta particolare della parte ocidentale della nuova Spagnia, e\u0300 del la California",
-  "georss_box_s": "27.9081714 -117.5377299 32.7186553 -111.8267365",
+  "dc_description_s": "Carta particolare della parte ocidentale della nuova Spagnia, è del la California",
   "layer_modified_dt": "2015-01-21T22:23:49Z",
   "dc_creator_sm": [
     "Dudley, Robert,",
@@ -12,11 +10,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "t435gf886",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Carta particolare della parte ocidentale della nuova Spagnia, e\u0300 del la California",
+  "dc_title_s": "Carta particolare della parte ocidentale della nuova Spagnia, è del la California",
   "layer_slug_s": "princeton-t435gf886",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/t435gf886/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/t4/35/gf/88/6/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "32.7186553 -117.5377299 32.7186553 -111.8267365 27.9081714 -111.8267365 27.9081714 -117.5377299 32.7186553 -117.5377299",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1646"
@@ -27,5 +24,6 @@
     "Baja California (Mexico : Peninsula)",
     "Mexico",
     "Pacific Coast (Mexico)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

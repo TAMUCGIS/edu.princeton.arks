@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1849",
-  "uuid": "http://arks.princeton.edu/ark:/88435/9306t1764",
   "dc_description_s": "Azores, or Western Isles",
-  "georss_box_s": "36.25 -31.5 40.0 -24.5",
   "layer_modified_dt": "2015-01-19T22:37:17Z",
   "layer_id_s": "9306t1764",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-9306t1764",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/9306t1764/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/93/06/t1/76/4/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.0 -31.5 40.0 -24.5 36.25 -24.5 36.25 -31.5 40.0 -31.5",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1849"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Azores",
     "North Atlantic Ocean"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

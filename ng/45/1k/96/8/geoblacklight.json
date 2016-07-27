@@ -1,11 +1,9 @@
 {
   "solr_year_i": "1952",
-  "uuid": "http://arks.princeton.edu/ark:/88435/ng451k968",
   "dc_description_s": "Deutschland im Jahre 1789 : Staats- und Verwaltungsgrenzen",
-  "georss_box_s": "44.0 2.0 56.0 23.0",
   "layer_modified_dt": "2015-01-19T22:37:12Z",
   "dc_creator_sm": [
-    "Franz, Gu\u0308nther,"
+    "Franz, Günther,"
   ],
   "layer_id_s": "ng451k968",
   "dc_type_s": "Image",
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-ng451k968",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/ng451k968/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ng/45/1k/96/8/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "56.0 2.0 56.0 23.0 44.0 23.0 44.0 2.0 56.0 2.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1952"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Germany"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

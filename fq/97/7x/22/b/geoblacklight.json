@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1775",
-  "uuid": "http://arks.princeton.edu/ark:/88435/fq977x22b",
   "dc_description_s": "North America from the French of Mr. d'Anville improved with the English surveys made since the peace",
-  "georss_box_s": "24.4110356374 -91.7756124125 47.5887446096 -66.8711891",
   "layer_modified_dt": "2015-01-21T22:24:08Z",
   "dc_creator_sm": [
     "Jefferys, Thomas,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-fq977x22b",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/fq977x22b/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/fq/97/7x/22/b/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "47.5887446096 -91.7756124125 47.5887446096 -66.8711891 24.4110356374 -66.8711891 24.4110356374 -91.7756124125 47.5887446096 -91.7756124125",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1775"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Canada"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1597",
-  "uuid": "http://arks.princeton.edu/ark:/88435/6w924d675",
   "dc_description_s": "Estotilandia et Laboratoris terra",
-  "georss_box_s": "46.6148345 -59.4166695 52.007122 -52.6177919",
   "layer_modified_dt": "2015-01-21T22:23:44Z",
   "dc_creator_sm": [
     "Wytfliet, Corneille."
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-6w924d675",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/6w924d675/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/6w/92/4d/67/5/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "52.007122 -59.4166695 52.007122 -52.6177919 46.6148345 -52.6177919 46.6148345 -59.4166695 52.007122 -59.4166695",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1597"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "Newfoundland",
     "Greenland"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1601",
-  "uuid": "http://arks.princeton.edu/ark:/88435/np193c64b",
   "dc_description_s": "Palaestinae sive totius terrae promissionis nova descriptio auctore Tilemanno Stella Sigenensi",
-  "georss_box_s": "11.7975 24.6967748 42.3667 63.3333366",
   "layer_modified_dt": "2015-01-21T22:24:13Z",
   "dc_creator_sm": [
     "Ortelius, Abraham,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-np193c64b",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/np193c64b/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/np/19/3c/64/b/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "42.3667 24.6967748 42.3667 63.3333366 11.7975 63.3333366 11.7975 24.6967748 42.3667 24.6967748",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1601"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Middle East"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

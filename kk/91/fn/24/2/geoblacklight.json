@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(115.973921, 117.126749, 40.462597, 39.720047)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/kk91fn242/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/kk91fn242/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/kk91fn242/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/kk91fn242",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Business and economic",
@@ -18,7 +17,6 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "kk91fn242",
-  "georss_polygon_s": "40.462597 115.973921 40.462597 117.126749 39.720047 117.126749 39.720047 115.973921 40.462597 115.973921",
   "dc_publisher_s": "LeadDog Consulting, LLC",
   "solr_year_i": "2006",
   "dct_spatial_sm": [
@@ -26,9 +24,9 @@
     "Beijing"
   ],
   "layer_id_s": "pulmap-restricted:kk91fn242",
-  "georss_box_s": "39.720047 115.973921 40.462597 117.126749",
   "dc_title_s": "Beijing Restaurants",
   "layer_slug_s": "princeton-kk91fn242",
   "layer_geom_type_s": "Point",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

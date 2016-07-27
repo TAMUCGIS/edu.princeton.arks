@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(12.63, 12.64, 43.73, 43.72)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/td96k411h\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/td96k411h/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/td96k411h",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,16 +17,15 @@
   "dc_creator_sm": "unknown",
   "dc_type_s": "Image",
   "dc_identifier_s": "td96k411h",
-  "georss_polygon_s": "43.73 12.63 43.73 12.64 43.72 12.64 43.72 12.63 43.73 12.63",
   "dc_publisher_s": "unknown",
   "dct_spatial_sm": [
     "Urbino",
     "Italy"
   ],
   "layer_id_s": "td96k411h",
-  "georss_box_s": "43.72 12.63 43.73 12.64",
   "dc_title_s": "Urbino",
   "layer_slug_s": "princeton-td96k411h",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

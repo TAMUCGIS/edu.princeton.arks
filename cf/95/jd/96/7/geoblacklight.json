@@ -1,7 +1,5 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/cf95jd967",
   "dc_description_s": "Karte der Fahrwege im Siebengebirge",
-  "georss_box_s": "50.322567 5.8663153 52.5314932 9.4615941",
   "layer_modified_dt": "2015-01-21T22:24:20Z",
   "dc_creator_sm": [
     "Woerl, Leo,"
@@ -14,12 +12,12 @@
   "layer_slug_s": "princeton-cf95jd967",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/cf95jd967/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/cf/95/jd/96/7/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "52.5314932 5.8663153 52.5314932 9.4615941 50.322567 9.4615941 50.322567 5.8663153 52.5314932 5.8663153",
   "layer_geom_type_s": "Image",
   "solr_geom": "ENVELOPE(5.8663153, 9.4615941, 52.5314932, 50.322567)",
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "North Rhine-Westphalia (Germany)",
     "Siebengebirge (Germany)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

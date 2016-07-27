@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1705",
-  "uuid": "http://arks.princeton.edu/ark:/88435/5425kd11h",
-  "dc_description_s": "Amsterdam, ville captitale du comte\u0301 de Hollande, fameux port de mer sur le Zuiderze\u0301e, a l'embouchure de l'Amstel a 52 d. 24 m. de lat. et 22. d. 53 m. de long.",
-  "georss_box_s": "52.2781742 4.728759 52.4310638 5.0791623",
+  "dc_description_s": "Amsterdam, ville captitale du comté de Hollande, fameux port de mer sur le Zuiderzée, a l'embouchure de l'Amstel a 52 d. 24 m. de lat. et 22. d. 53 m. de long.",
   "layer_modified_dt": "2015-01-21T22:24:00Z",
   "dc_creator_sm": [
     "Fer, Nicolas de,"
@@ -11,11 +9,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "5425kd11h",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Amsterdam, ville captitale du comte\u0301 de Hollande, fameux port de mer sur le Zuiderze\u0301e, a l'embouchure de l'Amstel a 52 d. 24 m. de lat. et 22. d. 53 m. de long.",
+  "dc_title_s": "Amsterdam, ville captitale du comté de Hollande, fameux port de mer sur le Zuiderzée, a l'embouchure de l'Amstel a 52 d. 24 m. de lat. et 22. d. 53 m. de long.",
   "layer_slug_s": "princeton-5425kd11h",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/5425kd11h/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/54/25/kd/11/h/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "52.4310638 4.728759 52.4310638 5.0791623 52.2781742 5.0791623 52.2781742 4.728759 52.4310638 4.728759",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1705"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Amsterdam (Netherlands)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(6.6864, 6.8643, 51.6077, 51.5337)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/1v53jz57h\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/1v53jz57h/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/1v53jz57h",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Stadtvermessungsamt Dinslaken",
   "dc_type_s": "Image",
   "dc_identifier_s": "1v53jz57h",
-  "georss_polygon_s": "51.6077 6.6864 51.6077 6.8643 51.5337 6.8643 51.5337 6.6864 51.6077 6.6864",
   "dc_publisher_s": "Stadtvermessungsamt Dinslaken",
   "solr_year_i": "1963",
   "dct_spatial_sm": [
@@ -27,9 +25,9 @@
     "Land Nordrhein-Westfalen"
   ],
   "layer_id_s": "1v53jz57h",
-  "georss_box_s": "51.5337 6.6864 51.6077 6.8643",
   "dc_title_s": "Dinslaken Stadtplan",
   "layer_slug_s": "princeton-1v53jz57h",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

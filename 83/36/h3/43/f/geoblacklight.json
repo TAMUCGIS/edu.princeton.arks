@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(10.2902, 10.5176, 63.4585, 63.3275)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/8336h343f\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/8336h343f/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/8336h343f",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -19,7 +18,6 @@
   "dc_creator_sm": "Trondheim Bygningssjefkontor",
   "dc_type_s": "Image",
   "dc_identifier_s": "8336h343f",
-  "georss_polygon_s": "63.4585 10.2902 63.4585 10.5176 63.3275 10.5176 63.3275 10.2902 63.4585 10.2902",
   "dc_publisher_s": "Trondheim Bygningssjefkontor",
   "solr_year_i": "1940",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "Nidaros"
   ],
   "layer_id_s": "8336h343f",
-  "georss_box_s": "63.3275 10.2902 63.4585 10.5176",
   "dc_title_s": "Bruns kart over Trondheim med byggebelte",
   "layer_slug_s": "princeton-8336h343f",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

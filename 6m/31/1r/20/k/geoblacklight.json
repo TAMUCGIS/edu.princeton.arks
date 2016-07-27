@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1800",
-  "uuid": "http://arks.princeton.edu/ark:/88435/6m311r20k",
   "dc_description_s": "[Ottoman Empire]",
-  "georss_box_s": "36.3854134 13.4285022 45.9089096 29.619427",
   "layer_modified_dt": "2015-01-21T22:23:49Z",
   "layer_id_s": "6m311r20k",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-6m311r20k",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/6m311r20k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/6m/31/1r/20/k/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "45.9089096 13.4285022 45.9089096 29.619427 36.3854134 29.619427 36.3854134 13.4285022 45.9089096 13.4285022",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1800"
@@ -25,5 +22,6 @@
     "Middle East",
     "Turkey",
     "Turkey"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

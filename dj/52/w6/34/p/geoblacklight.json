@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(17.91, 18.03, 40.68, 40.62)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/dj52w634p\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/dj52w634p/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/dj52w634p",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "United States Office of Strategic Services, Research and Analysis Branch",
   "dc_type_s": "Image",
   "dc_identifier_s": "dj52w634p",
-  "georss_polygon_s": "40.68 17.91 40.68 18.03 40.62 18.03 40.62 17.91 40.68 17.91",
   "dc_publisher_s": "United States Office of Strategic Services, Research and Analysis Branch",
   "solr_year_i": "1943",
   "dct_spatial_sm": [
@@ -27,9 +25,9 @@
     "Port of Brindisi"
   ],
   "layer_id_s": "dj52w634p",
-  "georss_box_s": "40.62 17.91 40.68 18.03",
   "dc_title_s": "Brindisi, plan of port",
   "layer_slug_s": "princeton-dj52w634p",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

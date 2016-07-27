@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(11.4339, 11.5839, 51.0741, 50.9843)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/db78td44w\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/db78td44w/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/db78td44w",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Dewag-Werbung",
   "dc_type_s": "Image",
   "dc_identifier_s": "db78td44w",
-  "georss_polygon_s": "51.0741 11.4339 51.0741 11.5839 50.9843 11.5839 50.9843 11.4339 51.0741 11.4339",
   "dc_publisher_s": "Dewag-Werbung",
   "solr_year_i": "1964",
   "dct_spatial_sm": [
@@ -26,9 +24,9 @@
     "Germany"
   ],
   "layer_id_s": "db78td44w",
-  "georss_box_s": "50.9843 11.4339 51.0741 11.5839",
   "dc_title_s": "Apolda",
   "layer_slug_s": "princeton-db78td44w",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

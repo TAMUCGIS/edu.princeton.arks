@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1889",
-  "uuid": "http://arks.princeton.edu/ark:/88435/jm214r670",
   "dc_description_s": "Russia in Europe",
-  "georss_box_s": "35.0 15.0 70.0 70.0",
   "layer_modified_dt": "2015-01-19T22:37:41Z",
   "layer_id_s": "jm214r670",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-jm214r670",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/jm214r670/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/jm/21/4r/67/0/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "70.0 15.0 70.0 70.0 35.0 70.0 35.0 15.0 70.0 15.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1889"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Russia, Western"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

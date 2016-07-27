@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1889",
-  "uuid": "http://arks.princeton.edu/ark:/88435/37720g19m",
   "dc_description_s": "Persia, Afghanistan & Beloochistan",
-  "georss_box_s": "25.0 43.0 40.0 74.0",
   "layer_modified_dt": "2015-01-19T22:37:18Z",
   "layer_id_s": "37720g19m",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-37720g19m",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/37720g19m/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/37/72/0g/19/m/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.0 43.0 40.0 74.0 25.0 74.0 25.0 43.0 40.0 43.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1889"
@@ -22,6 +19,7 @@
   "dct_spatial_sm": [
     "Afghanistan",
     "Iran",
-    "Balochista\u0304n (Pakistan)"
-  ]
+    "Balochistān (Pakistan)"
+  ],
+  "geoblacklight_version": "1.0"
 }

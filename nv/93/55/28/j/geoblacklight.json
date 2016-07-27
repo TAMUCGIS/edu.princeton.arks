@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1807",
-  "uuid": "http://arks.princeton.edu/ark:/88435/nv935528j",
   "dc_description_s": "A map of part of Rhode Island shewing the positions of the American and British armies at the siege of Newport, and the subsequent action on the 29th of August, 1778",
-  "georss_box_s": "41.601163 -71.3220458 41.601263 -71.3219458",
   "layer_modified_dt": "2015-01-21T22:24:04Z",
   "dc_creator_sm": [
     "Jones, Benjamin,",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-nv935528j",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/nv935528j/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/nv/93/55/28/j/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "41.601263 -71.3220458 41.601263 -71.3219458 41.601163 -71.3219458 41.601163 -71.3220458 41.601263 -71.3220458",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1807"
@@ -27,5 +24,6 @@
   "dct_spatial_sm": [
     "Rhode Island",
     "Rhode Island"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

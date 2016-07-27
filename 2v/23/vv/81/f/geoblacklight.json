@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(24.89, 25.03, 60.26, 60.16)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/2v23vv81f\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/2v23vv81f/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/2v23vv81f",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Helsinki City Tourist Office",
   "dc_type_s": "Image",
   "dc_identifier_s": "2v23vv81f",
-  "georss_polygon_s": "60.26 24.89 60.26 25.03 60.16 25.03 60.16 24.89 60.26 24.89",
   "dc_publisher_s": "Helsinki City Tourist Office",
   "solr_year_i": "1972",
   "dct_spatial_sm": [
@@ -26,9 +24,9 @@
     "Finland"
   ],
   "layer_id_s": "2v23vv81f",
-  "georss_box_s": "60.16 24.89 60.26 25.03",
   "dc_title_s": "Helsinki, daughter of the Baltic, Finland",
   "layer_slug_s": "princeton-2v23vv81f",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

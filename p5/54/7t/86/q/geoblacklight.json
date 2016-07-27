@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1983",
-  "uuid": "http://arks.princeton.edu/ark:/88435/p5547t86q",
   "dc_description_s": "The county of Bedford",
-  "georss_box_s": "51.8166666667 -0.65 52.0 -0.133333333333",
   "layer_modified_dt": "2015-01-23T17:48:37Z",
   "dc_creator_sm": [
     "Chambers, Betty."
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-p5547t86q",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/p5547t86q/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/p5/54/7t/86/q/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "52.0 -0.65 52.0 -0.133333333333 51.8166666667 -0.133333333333 51.8166666667 -0.65 52.0 -0.65",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1983"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "Bedford (England)",
     "Bedfordshire (England)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(16.8096, 17.1728, 51.2111, 51.0444)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/rb68xd41p\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/rb68xd41p/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/rb68xd41p",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Panstwowe Przedsiebiorstwo Wydawnictw Kartograficznych",
   "dc_type_s": "Image",
   "dc_identifier_s": "rb68xd41p",
-  "georss_polygon_s": "51.2111 16.8096 51.2111 17.1728 51.0444 17.1728 51.0444 16.8096 51.2111 16.8096",
   "dc_publisher_s": "Panstwowe Przedsiebiorstwo Wydawnictw Kartograficznych",
   "solr_year_i": "1967",
   "dct_spatial_sm": [
@@ -30,9 +28,9 @@
     "Breslavl'"
   ],
   "layer_id_s": "rb68xd41p",
-  "georss_box_s": "51.0444 16.8096 51.2111 17.1728",
   "dc_title_s": "Plan Wroclawia",
   "layer_slug_s": "princeton-rb68xd41p",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(23.5979, 23.8971, 38.157, 37.8239)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/s4655j03q\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/s4655j03q/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/s4655j03q",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -19,7 +18,6 @@
   "dc_creator_sm": "Trans World Airlines",
   "dc_type_s": "Image",
   "dc_identifier_s": "s4655j03q",
-  "georss_polygon_s": "38.157 23.5979 38.157 23.8971 37.8239 23.8971 37.8239 23.5979 38.157 23.5979",
   "dc_publisher_s": "Trans World Airlines",
   "solr_year_i": "1953",
   "dct_spatial_sm": [
@@ -30,9 +28,9 @@
     "Nomoarchia Athinon"
   ],
   "layer_id_s": "s4655j03q",
-  "georss_box_s": "37.8239 23.5979 38.157 23.8971",
   "dc_title_s": "Athens city map",
   "layer_slug_s": "princeton-s4655j03q",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "layer_modified_dt": "2014-12-19T16:18:32Z",
-  "uuid": "http://arks.princeton.edu/ark:/88435/tx31qk40t",
   "dc_description_s": "Digital map of village boundaries in Madhya Pradesh, 2011. Boundaries of all villages are shown linked to Primary Census Abstract 2011. Additionally, the Village Panchayat (Gram Panchayat) name is indicated.",
-  "georss_box_s": "21.070400 74.029358 26.869640 82.816368",
   "layer_slug_s": "princeton-tx31qk40t",
   "dct_spatial_sm": [
     "Madhya Pradesh",
@@ -12,7 +10,6 @@
     "ML Infomap Pvt. Ltd."
   ],
   "layer_id_s": "pulmap-restricted:tx31qk40t",
-  "georss_polygon_s": "26.869640 74.029358 26.869640 82.816368 21.070400 82.816368 21.070400 74.029358 26.869640 74.029358",
   "dc_type_s": "Dataset",
   "dc_identifier_s": "tx31qk40t",
   "dct_provenance_s": "Princeton",
@@ -60,5 +57,6 @@
   "layer_geom_type_s": "Polygon",
   "solr_geom": "ENVELOPE(74.029358, 82.816368, 26.869640, 21.070400)",
   "dc_rights_s": "Restricted",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

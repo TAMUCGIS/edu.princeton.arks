@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-124, -114, 44, 30)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/8623j026m\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/8623j026m/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/8623j026m",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Transportation",
@@ -25,7 +24,6 @@
   "dc_creator_sm": "National Geographic Society",
   "dc_type_s": "Image",
   "dc_identifier_s": "8623j026m",
-  "georss_polygon_s": "44 -124 44 -114 30 -114 30 -124 44 -124",
   "dc_publisher_s": "National Geographic Society",
   "solr_year_i": "1993",
   "dct_spatial_sm": [
@@ -33,9 +31,9 @@
     "United States"
   ],
   "layer_id_s": "8623j026m",
-  "georss_box_s": "30 -124 44 -114",
   "dc_title_s": "California, 1993",
   "layer_slug_s": "princeton-8623j026m",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

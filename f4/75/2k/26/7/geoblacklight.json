@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1688",
-  "uuid": "http://arks.princeton.edu/ark:/88435/f4752k267",
   "dc_description_s": "Navarino ; Modon",
-  "georss_box_s": "36.7818191 21.6660687 36.8618191 21.7460687",
   "layer_modified_dt": "2015-01-21T22:24:27Z",
   "dc_creator_sm": [
     "Zeiller, Martin,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-f4752k267",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/f4752k267/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/f4/75/2k/26/7/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "36.8618191 21.6660687 36.8618191 21.7460687 36.7818191 21.7460687 36.7818191 21.6660687 36.8618191 21.6660687",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1688"
@@ -23,7 +20,8 @@
   "solr_geom": "ENVELOPE(21.6660687, 21.7460687, 36.8618191, 36.7818191)",
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
-    "Metho\u0304ne\u0304 (Greece)",
+    "Methōnē (Greece)",
     "Pylos (Greece)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

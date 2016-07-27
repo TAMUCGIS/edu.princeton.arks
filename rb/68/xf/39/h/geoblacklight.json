@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1645",
-  "uuid": "http://arks.princeton.edu/ark:/88435/rb68xf39h",
   "dc_description_s": "Ducato di Mantova",
-  "georss_box_s": "45.1372793 10.7404198 45.1863062 10.8060815",
   "layer_modified_dt": "2015-01-25T02:06:20Z",
   "dc_creator_sm": [
     "Blaeu, Joan,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-rb68xf39h",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/rb68xf39h/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/rb/68/xf/39/h/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "45.1863062 10.7404198 45.1863062 10.8060815 45.1372793 10.8060815 45.1372793 10.7404198 45.1863062 10.7404198",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1645"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Mantua (Italy : Province)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

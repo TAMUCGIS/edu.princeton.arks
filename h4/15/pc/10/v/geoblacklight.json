@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(72.800, 72.8667, 19.05, 18.88334)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/h415pc10v\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/h415pc10v/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/h415pc10v",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "City plan",
@@ -16,7 +15,6 @@
   "dc_creator_sm": "Kolaskat, S. D.",
   "dc_type_s": "Image",
   "dc_identifier_s": "h415pc10v",
-  "georss_polygon_s": "19.05 72.800 19.05 72.8667 18.88334 72.8667 18.88334 72.800 19.05 72.800",
   "dc_publisher_s": "India. Bombay Housing Panel",
   "solr_year_i": "1946",
   "dct_spatial_sm": [
@@ -27,9 +25,9 @@
     "MAX  G7654.B8.1946.I5(c)"
   ],
   "layer_id_s": "h415pc10v",
-  "georss_box_s": "18.88334 72.800 19.05 72.8667",
   "dc_title_s": "Map of the Island of Bombay",
   "layer_slug_s": "princeton-h415pc10v",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

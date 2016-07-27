@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1756",
-  "uuid": "http://arks.princeton.edu/ark:/88435/ht24wm34b",
   "dc_description_s": "A map of the Britisch [sic] Empire in America with the French, Spanish and the Dutch settlements adjacent thereto /",
-  "georss_box_s": "5.0 -107.0 55.0 -79.0",
   "layer_modified_dt": "2015-01-19T22:36:55Z",
   "dc_creator_sm": [
     "Back, Jean Conr.",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-ht24wm34b",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/ht24wm34b/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ht/24/wm/34/b/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "55.0 -107.0 55.0 -79.0 5.0 -79.0 5.0 -107.0 55.0 -107.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1756"
@@ -30,5 +27,6 @@
     "Netherlands",
     "North America",
     "Spain"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

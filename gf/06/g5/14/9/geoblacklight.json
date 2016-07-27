@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1814",
-  "uuid": "http://arks.princeton.edu/ark:/88435/gf06g5149",
   "dc_description_s": "Remote British Isles",
-  "georss_box_s": "60.2967942 -146.1196671 60.9367942 -145.4796671",
   "layer_modified_dt": "2015-01-21T22:24:16Z",
   "dc_creator_sm": [
     "Hebert, L.",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-gf06g5149",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/gf06g5149/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/gf/06/g5/14/9/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "60.9367942 -146.1196671 60.9367942 -145.4796671 60.2967942 -145.4796671 60.2967942 -146.1196671 60.9367942 -146.1196671",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1814"
@@ -28,5 +25,6 @@
     "Channel Islands",
     "Isles of Scilly (England)",
     "Shetland (Scotland)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

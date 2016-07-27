@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(10.3463, 10.4558, 43.7386, 43.6766)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/sx61dp011\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/sx61dp011/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/sx61dp011",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Studio F.M.B Bologna",
   "dc_type_s": "Image",
   "dc_identifier_s": "sx61dp011",
-  "georss_polygon_s": "43.7386 10.3463 43.7386 10.4558 43.6766 10.4558 43.6766 10.3463 43.7386 10.3463",
   "dc_publisher_s": "Studio F.M.B Bologna",
   "solr_year_i": "1970",
   "dct_spatial_sm": [
@@ -30,9 +28,9 @@
     "Provincia di Pisa"
   ],
   "layer_id_s": "sx61dp011",
-  "georss_box_s": "43.6766 10.3463 43.7386 10.4558",
   "dc_title_s": "Pisa, pianta della citta",
   "layer_slug_s": "princeton-sx61dp011",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

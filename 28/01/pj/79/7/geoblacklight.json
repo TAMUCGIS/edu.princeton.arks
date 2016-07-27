@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1639",
-  "uuid": "http://arks.princeton.edu/ark:/88435/2801pj797",
   "dc_description_s": "Chili",
-  "georss_box_s": "-56.7249999 -109.6795788 -17.4983855 -66.0745052",
   "layer_modified_dt": "2015-01-21T22:24:07Z",
   "dc_creator_sm": [
     "Jansson, Jan,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-2801pj797",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/2801pj797/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/28/01/pj/79/7/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "-17.4983855 -109.6795788 -17.4983855 -66.0745052 -56.7249999 -66.0745052 -56.7249999 -109.6795788 -17.4983855 -109.6795788",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1639"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Chile"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

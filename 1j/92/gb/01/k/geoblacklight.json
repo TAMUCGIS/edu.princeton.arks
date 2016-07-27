@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1854",
-  "uuid": "http://arks.princeton.edu/ark:/88435/1j92gb01k",
   "dc_description_s": "Karte von Georgien, Armenien und Kurdistan aus Heft IV des Atlas von Asien zu C. Ritter's Erdkunde /",
-  "georss_box_s": "36.0 38.0 43.0 50.0",
   "layer_modified_dt": "2015-01-23T17:48:39Z",
   "dc_creator_sm": [
     "Ritter, Carl,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-1j92gb01k",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/1j92gb01k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/1j/92/gb/01/k/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "43.0 38.0 43.0 50.0 36.0 50.0 36.0 38.0 43.0 38.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1854"
@@ -27,5 +24,6 @@
     "Armenia",
     "Azerbaijan",
     "Georgia (Republic)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

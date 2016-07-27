@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-70.75, -70.5, 42.75, 42.5)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/th83m101p/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/th/83/m1/01/p/00000001.jp2/info.json\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/th83m101p\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/th83m101p",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "historical maps",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "United States. Geological Survey",
   "dc_type_s": "Image",
   "dc_identifier_s": "th83m101p",
-  "georss_polygon_s": "42.75 -70.75 42.75 -70.5 42.5 -70.5 42.5 -70.75 42.75 -70.75",
   "dc_publisher_s": "US Geological Survey",
   "dct_spatial_sm": [
     "Gloucester",
@@ -28,9 +26,9 @@
     "MC  G3761.C2.s62.U5G4 Gloucester [1933]"
   ],
   "layer_id_s": "th83m101p",
-  "georss_box_s": "42.5 -70.75 42.75 -70.5",
   "dc_title_s": "Massachusetts: Gloucester sheet [1933] ",
   "dct_issued_s": "August 1893",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

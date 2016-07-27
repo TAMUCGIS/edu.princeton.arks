@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1640",
-  "uuid": "http://arks.princeton.edu/ark:/88435/d504rn79v",
-  "dc_description_s": "Regnorum Hispani\u00e6 nova descriptio",
-  "georss_box_s": "36.2380667008 -9.5035614375 43.7923795 4.3277839",
+  "dc_description_s": "Regnorum Hispaniæ nova descriptio",
   "layer_modified_dt": "2015-01-21T22:24:10Z",
   "dc_creator_sm": [
     "Chalmers, William S.,"
@@ -11,11 +9,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "d504rn79v",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Regnorum Hispani\u00e6 nova descriptio",
+  "dc_title_s": "Regnorum Hispaniæ nova descriptio",
   "layer_slug_s": "princeton-d504rn79v",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/d504rn79v/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/d5/04/rn/79/v/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "43.7923795 -9.5035614375 43.7923795 4.3277839 36.2380667008 4.3277839 36.2380667008 -9.5035614375 43.7923795 -9.5035614375",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1640"
@@ -26,5 +23,6 @@
     "Iberian Peninsula",
     "Portugal",
     "Spain"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

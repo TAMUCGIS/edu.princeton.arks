@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1836",
-  "uuid": "http://arks.princeton.edu/ark:/88435/gq67jt64k",
   "dc_description_s": "Map of the discoveries and route of the Arctic Land Expedition in the years 1833 & 1834 /",
-  "georss_box_s": "61.00000 -117.00000 68.50000 -90.00000",
   "layer_modified_dt": "2015-01-19T22:37:21Z",
   "layer_id_s": "gq67jt64k",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-gq67jt64k",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/gq67jt64k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/gq/67/jt/64/k/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "68.50000 -117.00000 68.50000 -90.00000 61.00000 -90.00000 61.00000 -117.00000 68.50000 -117.00000",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1836"
@@ -25,5 +22,6 @@
     "Nunavut",
     "Polar regions",
     "Canada, Northern"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

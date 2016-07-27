@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(12.090395, 18.863887, 51.055699, 48.551563)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/qn59q550r/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/qn59q550r/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/qn59q550r/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/qn59q550r",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "administrative units",
@@ -22,16 +21,15 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "qn59q550r",
-  "georss_polygon_s": "51.055699 12.090395 51.055699 18.863887 48.551563 18.863887 48.551563 12.090395 51.055699 12.090395",
   "dc_publisher_s": "Gfk MACON Company",
   "solr_year_i": "2006",
   "dct_spatial_sm": [
     "Czech Republic"
   ],
   "layer_id_s": "pulmap-restricted:qn59q550r",
-  "georss_box_s": "48.551563 12.090395 51.055699 18.863887",
   "dc_title_s": "Czech Republic Region Boundaries, 2005",
   "layer_slug_s": "princeton-qn59q550r",
   "layer_geom_type_s": "Polygon",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

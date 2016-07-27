@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-75.199635, -75.159635, 39.885968, 39.845968)",
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/pr/76/f5/43/w/00000001.jp2/info.json\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/pr76f543w",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
@@ -21,7 +20,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "pr76f543w",
-  "georss_polygon_s": "39.885968 -75.199635 39.885968 -75.159635 39.845968 -75.159635 39.845968 -75.199635 39.885968 -75.199635",
   "dc_publisher_s": "New York: Sanborn Map Company",
   "solr_year_i": "1926",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "National Park"
   ],
   "layer_id_s": "pr76f543w",
-  "georss_box_s": "39.845968 -75.199635 39.885968 -75.159635",
   "dc_title_s": "National Park, Gloucester County, New Jersey (Sheet 4)",
   "layer_slug_s": "princeton-pr76f543w",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

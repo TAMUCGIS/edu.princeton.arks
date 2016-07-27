@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1904",
-  "uuid": "http://arks.princeton.edu/ark:/88435/0v8382380",
   "dc_description_s": "A map of the clay formations in northeastern Middlesex County.",
-  "georss_box_s": "40.40000 -74.43333 40.56667 -74.25000",
   "layer_modified_dt": "2015-01-19T22:36:35Z",
   "dc_creator_sm": [
     "Kummel, Henry Barnard",
@@ -16,12 +14,14 @@
   "layer_slug_s": "princeton-0v8382380",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/0v8382380/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/0v/83/82/38/0/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.56667 -74.43333 40.56667 -74.25000 40.40000 -74.25000 40.40000 -74.43333 40.56667 -74.43333",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1904"
   ],
   "solr_geom": "ENVELOPE(-74.43333, -74.25000, 40.56667, 40.40000)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1848",
-  "uuid": "http://arks.princeton.edu/ark:/88435/6682x6485",
   "dc_description_s": "Nantucket Harbor",
-  "georss_box_s": "41.1888589 -70.3973558 41.4433863 -69.8936438",
   "layer_modified_dt": "2015-01-21T22:24:28Z",
   "dc_creator_sm": [
     "Bache, A. D.",
@@ -28,12 +26,14 @@
   "layer_slug_s": "princeton-6682x6485",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/6682x6485/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/66/82/x6/48/5/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "41.4433863 -70.3973558 41.4433863 -69.8936438 41.1888589 -69.8936438 41.1888589 -70.3973558 41.4433863 -70.3973558",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1848"
   ],
   "solr_geom": "ENVELOPE(-70.3973558, -69.8936438, 41.4433863, 41.1888589)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

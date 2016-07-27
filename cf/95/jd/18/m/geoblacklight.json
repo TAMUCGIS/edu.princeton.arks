@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(115.700504, 116.659218, 40.453863, 39.634087)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/cf95jd18m/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/cf95jd18m/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/cf95jd18m/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/cf95jd18m",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Cultural, society, and demographic",
@@ -18,7 +17,6 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "cf95jd18m",
-  "georss_polygon_s": "40.453863 115.700504 40.453863 116.659218 39.634087 116.659218 39.634087 115.700504 40.453863 115.700504",
   "dc_publisher_s": "LeadDog Consulting, LLC",
   "solr_year_i": "2006",
   "dct_spatial_sm": [
@@ -26,9 +24,9 @@
     "Beijing"
   ],
   "layer_id_s": "pulmap-restricted:cf95jd18m",
-  "georss_box_s": "39.634087 115.700504 40.453863 116.659218",
   "dc_title_s": "Beijing Religious Sites",
   "layer_slug_s": "princeton-cf95jd18m",
   "layer_geom_type_s": "Point",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-8.026070, -2.823973, 58.453451, 54.131611)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/zg64tn512/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/zg64tn512/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/zg64tn512/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/zg64tn512",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Lakes",
@@ -21,7 +20,6 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "zg64tn512",
-  "georss_polygon_s": "58.453451 -8.026070 58.453451 -2.823973 54.131611 -2.823973 54.131611 -8.026070 58.453451 -8.026070",
   "dc_publisher_s": "Gfk MACON Company",
   "solr_year_i": "2006",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "UK"
   ],
   "layer_id_s": "pulmap-restricted:zg64tn512",
-  "georss_box_s": "54.131611 -8.026070 58.453451 -2.823973",
   "dc_title_s": "United Kingdom Major Lakes, 2005",
   "layer_slug_s": "princeton-zg64tn512",
   "layer_geom_type_s": "Polygon",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

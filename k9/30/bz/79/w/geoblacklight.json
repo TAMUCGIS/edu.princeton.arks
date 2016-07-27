@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-08.58, 08.65, 49.71, -49.66)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/k930bz79w\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/k930bz79w/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/k930bz79w",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Holler u. Reif",
   "dc_type_s": "Image",
   "dc_identifier_s": "k930bz79w",
-  "georss_polygon_s": "49.71 -08.58 49.71 08.65 -49.66 08.65 -49.66 -08.58 49.71 -08.58",
   "dc_publisher_s": "Holler u. Reif",
   "solr_year_i": "1961",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "Zell"
   ],
   "layer_id_s": "k930bz79w",
-  "georss_box_s": "-49.66 -08.58 49.71 08.65",
-  "dc_title_s": "Stadtplan von Bensheim a.d.B. einschliesslich der Stadtteile Auerbach, Sch\u00f6nberg und Zell",
+  "dc_title_s": "Stadtplan von Bensheim a.d.B. einschliesslich der Stadtteile Auerbach, Schönberg und Zell",
   "layer_slug_s": "princeton-k930bz79w",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1744",
-  "uuid": "http://arks.princeton.edu/ark:/88435/st74cs88c",
   "dc_description_s": "The Gallapagos Islands : discovered and described by Capt. Cowley in 1684",
-  "georss_box_s": "-1.4115146 -92.0084893 1.6815752 -89.2407955",
   "layer_modified_dt": "2015-01-21T22:24:00Z",
   "dc_creator_sm": [
     "Harris, John,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-st74cs88c",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/st74cs88c/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/st/74/cs/88/c/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "1.6815752 -92.0084893 1.6815752 -89.2407955 -1.4115146 -89.2407955 -1.4115146 -92.0084893 1.6815752 -92.0084893",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1744"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Galapagos Islands"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

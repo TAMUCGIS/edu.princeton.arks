@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1957",
-  "uuid": "http://arks.princeton.edu/ark:/88435/pc289k99k",
   "dc_description_s": "Map of Athos",
-  "georss_box_s": "37.9488181 23.6869862 38.0328563 23.7896925",
   "layer_modified_dt": "2015-01-21T22:23:52Z",
   "dc_creator_sm": [
     "Loch, Sydney."
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-pc289k99k",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/pc289k99k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/pc/28/9k/99/k/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "38.0328563 23.6869862 38.0328563 23.7896925 37.9488181 23.7896925 37.9488181 23.6869862 38.0328563 23.6869862",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1957"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Athos (Greece)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(36.500812, 36.750803, 0.997180, 0.747227)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/4m90dx03d\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/4m90dx03d/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/4m90dx03d",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "imageryBaseMapsEarthCover",
@@ -16,7 +15,6 @@
   "dc_creator_sm": "Directorate of Overseas Survey",
   "dc_type_s": "Image",
   "dc_identifier_s": "4m90dx03d",
-  "georss_polygon_s": "0.997180 36.500812 0.997180 36.750803 0.747227 36.750803 0.747227 36.500812 0.997180 36.500812",
   "dc_publisher_s": "Directorate of Overseas Survey for the Survey of Kenya",
   "solr_year_i": "1981",
   "dct_spatial_sm": [
@@ -27,9 +25,9 @@
     "Kenya"
   ],
   "layer_id_s": "4m90dx03d",
-  "georss_box_s": "0.747227 36.500812 0.997180 36.750803",
   "dc_title_s": "Sukuta Marmar: East Africa 1:50,000 (Kenya)",
   "layer_slug_s": "princeton-4m90dx03d",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

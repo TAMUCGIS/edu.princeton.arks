@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1850",
-  "uuid": "http://arks.princeton.edu/ark:/88435/1544br60b",
   "dc_description_s": "Cat and Ship Island harbors from a trigonometrical survey /",
-  "georss_box_s": "30.1877195 -89.1574114 30.2495106 -89.0642574",
   "layer_modified_dt": "2015-01-21T22:24:25Z",
   "dc_creator_sm": [
     "Bache, A. D.",
@@ -19,7 +17,6 @@
   "layer_slug_s": "princeton-1544br60b",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/1544br60b/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/15/44/br/60/b/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "30.2495106 -89.1574114 30.2495106 -89.0642574 30.1877195 -89.0642574 30.1877195 -89.1574114 30.2495106 -89.1574114",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1850"
@@ -28,5 +25,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Mississippi Sound"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

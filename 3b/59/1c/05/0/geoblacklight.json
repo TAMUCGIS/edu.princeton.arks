@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1871",
-  "uuid": "http://arks.princeton.edu/ark:/88435/3b591c050",
   "dc_description_s": "Ordnance survey of Jerusalem",
-  "georss_box_s": "31.7087672 35.0854203 31.8826765 35.2630682",
   "layer_modified_dt": "2015-01-21T22:24:14Z",
   "layer_id_s": "3b591c050",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-3b591c050",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/3b591c050/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/3b/59/1c/05/0/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "31.8826765 35.0854203 31.8826765 35.2630682 31.7087672 35.2630682 31.7087672 35.0854203 31.8826765 35.0854203",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1871"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Jerusalem"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

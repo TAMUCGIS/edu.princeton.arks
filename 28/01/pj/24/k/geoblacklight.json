@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1745",
-  "uuid": "http://arks.princeton.edu/ark:/88435/2801pj24k",
   "dc_description_s": "A chart of the Streights of Magellan",
-  "georss_box_s": "-56.7249999 -109.6795788 -17.4983855 -66.0745052",
   "layer_modified_dt": "2015-01-21T22:23:50Z",
   "dc_creator_sm": [
     "Moll, Herman,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-2801pj24k",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/2801pj24k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/28/01/pj/24/k/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "-17.4983855 -109.6795788 -17.4983855 -66.0745052 -56.7249999 -66.0745052 -56.7249999 -109.6795788 -17.4983855 -109.6795788",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1745"
@@ -26,5 +23,6 @@
     "Chile",
     "Argentina",
     "Magellan, Strait of (Chile and Argentina)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

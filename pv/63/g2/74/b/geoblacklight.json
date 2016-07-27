@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1805",
-  "uuid": "http://arks.princeton.edu/ark:/88435/pv63g274b",
   "dc_description_s": "A map of Durham : from the best authorities",
-  "georss_box_s": "54.6164152 -1.7358539 54.9364152 -1.4158539",
   "layer_modified_dt": "2015-01-21T22:24:18Z",
   "dc_creator_sm": [
     "Morris, William H.,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-pv63g274b",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/pv63g274b/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/pv/63/g2/74/b/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "54.9364152 -1.7358539 54.9364152 -1.4158539 54.6164152 -1.4158539 54.6164152 -1.7358539 54.9364152 -1.7358539",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1805"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Durham (England : County)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

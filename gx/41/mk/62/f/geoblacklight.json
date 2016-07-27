@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-20.57, 21.07, 52.18, -52.09)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/gx41mk62f\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/gx41mk62f/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/gx41mk62f",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Panstwowe Przedsiebiorstwo Wydawnictw Kartograficznych/Falk-Verlag",
   "dc_type_s": "Image",
   "dc_identifier_s": "gx41mk62f",
-  "georss_polygon_s": "52.18 -20.57 52.18 21.07 -52.09 21.07 -52.09 -20.57 52.18 -20.57",
   "dc_publisher_s": "Panstwowe Przedsiebiorstwo Wydawnictw Kartograficznych/Falk-Verlag",
   "solr_year_i": "1977",
   "dct_spatial_sm": [
@@ -28,9 +26,9 @@
     "Varsovie"
   ],
   "layer_id_s": "gx41mk62f",
-  "georss_box_s": "-52.09 -20.57 52.18 21.07",
   "dc_title_s": "Warszawa",
   "layer_slug_s": "princeton-gx41mk62f",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

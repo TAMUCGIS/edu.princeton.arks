@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1684",
-  "uuid": "http://arks.princeton.edu/ark:/88435/fb494b78d",
   "dc_description_s": "Isles de Salomon",
-  "georss_box_s": "-11.8555738 140.8416553 -0.5573575 159.692724",
   "layer_modified_dt": "2015-01-21T22:23:57Z",
   "dc_creator_sm": [
     "Manesson-Mallet, Allain,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-fb494b78d",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/fb494b78d/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/fb/49/4b/78/d/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "-0.5573575 140.8416553 -0.5573575 159.692724 -11.8555738 159.692724 -11.8555738 140.8416553 -0.5573575 140.8416553",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1684"
@@ -26,5 +23,6 @@
   "dct_spatial_sm": [
     "Papua New Guinea",
     "Solomon Islands"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

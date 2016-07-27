@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1828",
-  "uuid": "http://arks.princeton.edu/ark:/88435/j3860938p",
   "dc_description_s": "Principal seat of the Revolutionary War in the southern section of the U.S.",
-  "georss_box_s": "24.4510460732 -88.4357686625 47.7071655681 -66.959079725",
   "layer_modified_dt": "2015-01-21T22:24:04Z",
   "dc_creator_sm": [
     "Willard, Emma,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-j3860938p",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/j3860938p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/j3/86/09/38/p/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "47.7071655681 -88.4357686625 47.7071655681 -66.959079725 24.4510460732 -66.959079725 24.4510460732 -88.4357686625 47.7071655681 -88.4357686625",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1828"
@@ -27,5 +24,6 @@
     "North Carolina",
     "South Carolina",
     "United States"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

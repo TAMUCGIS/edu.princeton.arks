@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(14.142, 14.2068, 45.1668, 45.1166)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/vt150k857\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/vt150k857/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/vt150k857",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "unknown",
   "dc_type_s": "Image",
   "dc_identifier_s": "vt150k857",
-  "georss_polygon_s": "45.1668 14.142 45.1668 14.2068 45.1166 14.2068 45.1166 14.142 45.1668 14.142",
   "dc_publisher_s": "unknown",
   "dct_spatial_sm": [
     "Plomin",
@@ -28,9 +26,9 @@
     "Fianona"
   ],
   "layer_id_s": "vt150k857",
-  "georss_box_s": "45.1166 14.142 45.1668 14.2068",
   "dc_title_s": "Plomin",
   "layer_slug_s": "princeton-vt150k857",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

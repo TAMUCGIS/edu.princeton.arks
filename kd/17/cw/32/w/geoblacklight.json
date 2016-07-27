@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1764",
-  "uuid": "http://arks.princeton.edu/ark:/88435/kd17cw32w",
   "dc_description_s": "[Map of the passage of the moon's shadow in the annular eclipse of the sun, April 1st, 1764]",
-  "georss_box_s": "49.674 -14.0155169 61.061 2.0919117",
   "layer_modified_dt": "2015-01-21T22:24:11Z",
   "layer_id_s": "kd17cw32w",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-kd17cw32w",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/kd17cw32w/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/kd/17/cw/32/w/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "61.061 -14.0155169 61.061 2.0919117 49.674 2.0919117 49.674 -14.0155169 61.061 -14.0155169",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1764"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Great Britain"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

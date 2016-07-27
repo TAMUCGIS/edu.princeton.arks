@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1905",
-  "uuid": "http://arks.princeton.edu/ark:/88435/bv73c295g",
   "dc_description_s": "Umbegung von Eisenach",
-  "georss_box_s": "50.9433 10.2766999 51.0233 10.3566999",
   "layer_modified_dt": "2015-01-21T22:24:26Z",
   "layer_id_s": "bv73c295g",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-bv73c295g",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/bv73c295g/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/bv/73/c2/95/g/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.0233 10.2766999 51.0233 10.3566999 50.9433 10.3566999 50.9433 10.2766999 51.0233 10.2766999",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1905"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Eisenach (Germany)",
     "Thuringia (Germany)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

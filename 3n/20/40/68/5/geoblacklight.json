@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(38.793603, 48.627752, 37.381556, 29.061208)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/3n2040685\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/3n2040685/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/3n2040685",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Population",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Robert Fargo",
   "dc_type_s": "Image",
   "dc_identifier_s": "3n2040685",
-  "georss_polygon_s": "37.381556 38.793603 37.381556 48.627752 29.061208 48.627752 29.061208 38.793603 37.381556 38.793603",
   "dc_publisher_s": "ESOC Group",
   "solr_year_i": "2009",
   "dct_spatial_sm": [
@@ -26,9 +24,9 @@
     "Middle East"
   ],
   "layer_id_s": "3n2040685",
-  "georss_box_s": "29.061208 38.793603 37.381556 48.627752",
   "dc_title_s": "District Level Population & Statistics",
   "layer_slug_s": "princeton-3n2040685",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

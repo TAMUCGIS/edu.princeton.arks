@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1871",
-  "uuid": "http://arks.princeton.edu/ark:/88435/ws859j18p",
   "dc_description_s": "Heidelberg",
-  "georss_box_s": "47.5324787 7.5117461 49.7913277 10.4955731",
   "layer_modified_dt": "2015-01-21T22:24:26Z",
   "layer_id_s": "ws859j18p",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-ws859j18p",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/ws859j18p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ws/85/9j/18/p/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "49.7913277 7.5117461 49.7913277 10.4955731 47.5324787 10.4955731 47.5324787 7.5117461 49.7913277 7.5117461",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1871"
@@ -20,7 +17,8 @@
   "solr_geom": "ENVELOPE(7.5117461, 10.4955731, 49.7913277, 47.5324787)",
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
-    "Baden-Wu\u0308rttemberg (German)",
+    "Baden-Württemberg (German)",
     "Heidelberg (Germany)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

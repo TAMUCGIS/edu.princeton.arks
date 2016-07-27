@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1889",
-  "uuid": "http://arks.princeton.edu/ark:/88435/xd07gv603",
   "dc_description_s": "Indian Archipelago and Further India, including Burma, Siam, Anam, &c",
-  "georss_box_s": "-12.0 88.0 27.0 146.0",
   "layer_modified_dt": "2015-01-19T22:36:55Z",
   "layer_id_s": "xd07gv603",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-xd07gv603",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/xd07gv603/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/xd/07/gv/60/3/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "27.0 88.0 27.0 146.0 -12.0 146.0 -12.0 88.0 27.0 88.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1889"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "East Indies",
     "Southeast Asia"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

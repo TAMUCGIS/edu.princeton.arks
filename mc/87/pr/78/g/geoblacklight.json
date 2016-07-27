@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(10.6220, 10.7813, 50.9904, 50.8928)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/mc87pr78g\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/mc87pr78g/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/mc87pr78g",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -19,7 +18,6 @@
   "dc_creator_sm": "Dewag-Werbung",
   "dc_type_s": "Image",
   "dc_identifier_s": "mc87pr78g",
-  "georss_polygon_s": "50.9904 10.6220 50.9904 10.7813 50.8928 10.7813 50.8928 10.6220 50.9904 10.6220",
   "dc_publisher_s": "Dewag-Werbung",
   "solr_year_i": "1960",
   "dct_spatial_sm": [
@@ -32,9 +30,9 @@
     "Thueringen Freistaat"
   ],
   "layer_id_s": "mc87pr78g",
-  "georss_box_s": "50.8928 10.6220 50.9904 10.7813",
   "dc_title_s": "Gotha",
   "layer_slug_s": "princeton-mc87pr78g",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

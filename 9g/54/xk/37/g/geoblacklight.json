@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(9.08429, 9.1409, 48.8687, 48.8248)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/9g54xk37g\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/9g54xk37g/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/9g54xk37g",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Stadte-Verlag",
   "dc_type_s": "Image",
   "dc_identifier_s": "9g54xk37g",
-  "georss_polygon_s": "48.8687 9.08429 48.8687 9.1409 48.8248 9.1409 48.8248 9.08429 48.8687 9.08429",
   "dc_publisher_s": "Stadte-Verlag",
   "solr_year_i": "1969",
   "dct_spatial_sm": [
@@ -30,9 +28,9 @@
     "Baden-Wuerttemberg"
   ],
   "layer_id_s": "9g54xk37g",
-  "georss_box_s": "48.8248 9.08429 48.8687 9.1409",
   "dc_title_s": "Stadtplan Korntal",
   "layer_slug_s": "princeton-9g54xk37g",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

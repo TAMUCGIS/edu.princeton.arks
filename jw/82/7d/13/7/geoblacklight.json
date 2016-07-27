@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(12.8, 13.8, 52.66, 52.33)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/jw827d137/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/jw/82/7d/13/7/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/jw827d137/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/jw827d137",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
@@ -20,7 +19,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "jw827d137",
-  "georss_polygon_s": "52.66 12.8 52.66 13.8 52.33 13.8 52.33 12.8 52.66 12.8",
   "dc_publisher_s": "Central Intelligence Agency",
   "dct_spatial_sm": [
     "Berlin",
@@ -30,9 +28,9 @@
     "Europe"
   ],
   "layer_id_s": "jw827d137",
-  "georss_box_s": "52.33 12.8 52.66 13.8",
   "dc_title_s": "The Berlin Region, 1989",
   "dct_issued_s": "June 1989",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

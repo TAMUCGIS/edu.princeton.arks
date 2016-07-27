@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1892",
-  "uuid": "http://arks.princeton.edu/ark:/88435/1v53k044d",
   "dc_description_s": "Rand, McNally & Co.'s indexed atlas of the world map of Palestine",
-  "georss_box_s": "31.2 34.3833333333 35.0 38.0",
   "layer_modified_dt": "2015-01-23T17:48:36Z",
   "layer_id_s": "1v53k044d",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-1v53k044d",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/1v53k044d/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/1v/53/k0/44/d/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "35.0 34.3833333333 35.0 38.0 31.2 38.0 31.2 34.3833333333 35.0 34.3833333333",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1892"
@@ -23,5 +20,6 @@
     "Jerusalem",
     "Israel",
     "Middle East"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

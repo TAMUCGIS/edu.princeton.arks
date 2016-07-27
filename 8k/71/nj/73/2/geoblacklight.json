@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(115.939881, 120.421280, 28.250688, 23.594932)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/8k71nj732/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/8k71nj732/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/8k71nj732/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/8k71nj732",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "laborers",
@@ -61,7 +60,6 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "8k71nj732",
-  "georss_polygon_s": "28.250688 115.939881 28.250688 120.421280 23.594932 120.421280 23.594932 115.939881 28.250688 115.939881",
   "solr_year_i": "2000",
   "dct_spatial_sm": [
     "China",
@@ -69,9 +67,9 @@
     "Fujian Province"
   ],
   "layer_id_s": "pulmap-restricted:8k71nj732",
-  "georss_box_s": "23.594932 115.939881 28.250688 120.421280",
   "dc_title_s": "Township map of Fujian with 2000 Census long form data (L1-L6)",
   "layer_slug_s": "princeton-8k71nj732",
   "layer_geom_type_s": "Point",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

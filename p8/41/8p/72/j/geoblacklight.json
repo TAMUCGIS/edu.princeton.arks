@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-0.5275, 0.3382, 51.673, 51.2804)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/p8418p72j\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/p8418p72j/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/p8418p72j",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "John Bartholomew & Son, Ltd./Great Britain Automobile Association",
   "dc_type_s": "Image",
   "dc_identifier_s": "p8418p72j",
-  "georss_polygon_s": "51.673 -0.5275 51.673 0.3382 51.2804 0.3382 51.2804 -0.5275 51.673 -0.5275",
   "dc_publisher_s": "John Bartholomew & Son Ltd./Great Britain Automobile Association",
   "solr_year_i": "1935",
   "dct_spatial_sm": [
@@ -26,9 +24,9 @@
     "England"
   ],
   "layer_id_s": "p8418p72j",
-  "georss_box_s": "51.2804 -0.5275 51.673 0.3382",
   "dc_title_s": "AA London Route Map",
   "layer_slug_s": "princeton-p8418p72j",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

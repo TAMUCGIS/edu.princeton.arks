@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(112.4243, 112.643, 37.8543, 37.7289)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/tm70mw91j/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/tm/70/mw/91/j/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/tm70mw91j/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/tm70mw91j",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
@@ -21,7 +20,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "tm70mw91j",
-  "georss_polygon_s": "37.8543 112.4243 37.8543 112.643 37.7289 112.643 37.7289 112.4243 37.8543 112.4243",
   "dc_publisher_s": "East View Cartographic",
   "solr_year_i": "1974",
   "dct_spatial_sm": [
@@ -32,9 +30,9 @@
     "China"
   ],
   "layer_id_s": "tm70mw91j",
-  "georss_box_s": "37.7289 112.4243 37.8543 112.643",
   "dc_title_s": "Kitai provintsiia Shan'si. Taiiuan' (J-49-69, 70, 81, 82). Sheet 2",
   "dct_issued_s": "1974",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

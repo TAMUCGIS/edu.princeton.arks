@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1610",
-  "uuid": "http://arks.princeton.edu/ark:/88435/gt54kq519",
   "dc_description_s": "Brecknoc : comitatus pars olim Silurum",
-  "georss_box_s": "51.6817371591 -4.0139965584 52.1526852893 -2.8694119082",
   "layer_modified_dt": "2015-01-25T02:06:16Z",
   "dc_creator_sm": [
     "Kip, William,",
@@ -19,7 +17,6 @@
   "layer_slug_s": "princeton-gt54kq519",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/gt54kq519/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/gt/54/kq/51/9/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "52.1526852893 -4.0139965584 52.1526852893 -2.8694119082 51.6817371591 -2.8694119082 51.6817371591 -4.0139965584 52.1526852893 -4.0139965584",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1610"
@@ -28,5 +25,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Breconshire (Wales)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

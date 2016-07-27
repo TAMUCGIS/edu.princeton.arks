@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1898",
-  "uuid": "http://arks.princeton.edu/ark:/88435/sj139431q",
   "dc_description_s": "Map of the United States",
-  "georss_box_s": "24.4110356374 -91.7756124125 47.5887446096 -66.8711891",
   "layer_modified_dt": "2015-01-21T22:23:57Z",
   "dc_creator_sm": [
     "Haines, D.",
@@ -17,12 +15,14 @@
   "layer_slug_s": "princeton-sj139431q",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/sj139431q/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/sj/13/94/31/q/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "47.5887446096 -91.7756124125 47.5887446096 -66.8711891 24.4110356374 -66.8711891 24.4110356374 -91.7756124125 47.5887446096 -91.7756124125",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1898"
   ],
   "solr_geom": "ENVELOPE(-91.7756124125, -66.8711891, 47.5887446096, 24.4110356374)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

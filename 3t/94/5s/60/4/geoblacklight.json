@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1905",
-  "uuid": "http://arks.princeton.edu/ark:/88435/3t945s604",
   "dc_description_s": "Sketch map of central and southern Africa : showing the main lines of migration followed by the various races now inhabiting the southern portion of the continent",
-  "georss_box_s": "-18.0391039 5.5419 23.449235 31.3146115",
   "layer_modified_dt": "2015-01-21T22:23:43Z",
   "dc_creator_sm": [
     "Stow, G. W."
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-3t945s604",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/3t945s604/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/3t/94/5s/60/4/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "23.449235 5.5419 23.449235 31.3146115 -18.0391039 31.3146115 -18.0391039 5.5419 23.449235 5.5419",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1905"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "Africa, Central",
     "Africa, Southern"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

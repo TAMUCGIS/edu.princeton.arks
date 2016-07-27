@@ -1,8 +1,6 @@
 {
   "layer_modified_dt": "2014-12-19T16:18:37Z",
-  "uuid": "http://arks.princeton.edu/ark:/88435/1c18dh44b",
   "dc_description_s": "Polylines representing roads in Cairo.",
-  "georss_box_s": "29.722872 30.799714 30.289201 31.781494",
   "layer_slug_s": "princeton-1c18dh44b",
   "dct_spatial_sm": [
     "Egypt",
@@ -12,7 +10,6 @@
     "Globe Telecom"
   ],
   "layer_id_s": "pulmap-restricted:1c18dh44b",
-  "georss_polygon_s": "30.289201 30.799714 30.289201 31.781494 29.722872 31.781494 29.722872 30.799714 30.289201 30.799714",
   "dc_type_s": "Dataset",
   "dc_identifier_s": "1c18dh44b",
   "dct_provenance_s": "Princeton",
@@ -31,5 +28,6 @@
   "layer_geom_type_s": "Line",
   "solr_geom": "ENVELOPE(30.799714, 31.781494, 30.289201, 29.722872)",
   "dc_rights_s": "Restricted",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

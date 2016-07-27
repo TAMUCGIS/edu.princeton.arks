@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1817",
-  "uuid": "http://arks.princeton.edu/ark:/88435/bn9999190",
   "dc_description_s": "A survey of the harbour of Jacmel in the Island of St. Domingo",
-  "georss_box_s": "18.0752587 -72.6975127 18.3952587 -72.3775127",
   "layer_modified_dt": "2015-01-21T22:24:09Z",
   "dc_creator_sm": [
     "Hurd, Thomas,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-bn9999190",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/bn9999190/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/bn/99/99/19/0/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "18.3952587 -72.6975127 18.3952587 -72.3775127 18.0752587 -72.3775127 18.0752587 -72.6975127 18.3952587 -72.6975127",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1817"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Jacmel (Haiti)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

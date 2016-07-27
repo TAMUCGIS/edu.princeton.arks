@@ -1,18 +1,15 @@
 {
   "solr_year_i": "1750",
-  "uuid": "http://arks.princeton.edu/ark:/88435/9306t1815",
-  "dc_description_s": "Partie du Mexique ou de la Nouvlle. Espagne ou\u0300 se trouve l'Audience du Mexique /",
-  "georss_box_s": "5.4961 -92.2714 18.495942 -77.158488",
+  "dc_description_s": "Partie du Mexique ou de la Nouvlle. Espagne où se trouve l'Audience du Mexique /",
   "layer_modified_dt": "2015-01-21T22:24:24Z",
   "layer_id_s": "9306t1815",
   "dc_type_s": "Image",
   "dc_identifier_s": "9306t1815",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Partie du Mexique ou de la Nouvlle. Espagne ou\u0300 se trouve l'Audience du Mexique /",
+  "dc_title_s": "Partie du Mexique ou de la Nouvlle. Espagne où se trouve l'Audience du Mexique /",
   "layer_slug_s": "princeton-9306t1815",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/9306t1815/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/93/06/t1/81/5/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "18.495942 -92.2714 18.495942 -77.158488 5.4961 -77.158488 5.4961 -92.2714 18.495942 -92.2714",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1750"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Central America",
     "Mexico"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

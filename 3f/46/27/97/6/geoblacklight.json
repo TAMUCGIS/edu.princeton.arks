@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1735",
-  "uuid": "http://arks.princeton.edu/ark:/88435/3f4627976",
-  "dc_description_s": "Sicili\u00e6 Regnum cum adjacente insula Sardinia et maxima parte Regni Neapolitani /",
-  "georss_box_s": "35.4929201 6.6267201 42.2523029145 18.6523374375",
+  "dc_description_s": "Siciliæ Regnum cum adjacente insula Sardinia et maxima parte Regni Neapolitani /",
   "layer_modified_dt": "2015-01-21T22:24:28Z",
   "dc_creator_sm": [
     "McCabe, Robert A.,"
@@ -11,11 +9,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "3f4627976",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Sicili\u00e6 Regnum cum adjacente insula Sardinia et maxima parte Regni Neapolitani /",
+  "dc_title_s": "Siciliæ Regnum cum adjacente insula Sardinia et maxima parte Regni Neapolitani /",
   "layer_slug_s": "princeton-3f4627976",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/3f4627976/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/3f/46/27/97/6/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "42.2523029145 6.6267201 42.2523029145 18.6523374375 35.4929201 18.6523374375 35.4929201 6.6267201 42.2523029145 6.6267201",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1735"
@@ -26,5 +23,6 @@
     "Italy, Southern",
     "Sardinia (Italy)",
     "Sicily (Italy)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

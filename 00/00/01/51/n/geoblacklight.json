@@ -1,10 +1,9 @@
 {
-  "dc_description_s": "This is a city map of Bialystok, Poland shown at an unknown scale. This city map was created by Pa\u0144stwowe Przedsiebiorstwo Wydawnictw Kartograficznych.",
+  "dc_description_s": "This is a city map of Bialystok, Poland shown at an unknown scale. This city map was created by Państwowe Przedsiebiorstwo Wydawnictw Kartograficznych.",
   "layer_modified_dt": "2015-01-11T18:24:45Z",
   "solr_geom": "ENVELOPE(23.0647, 23.2466, 53.1885, 53.0670)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/00000151n\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/00000151n/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/00000151n",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -15,11 +14,10 @@
   ],
   "dc_format_s": "Scanned Map",
   "dct_issued_s": "1969",
-  "dc_creator_sm": "Pa\u0144stwowe Przedsiebiorstwo Wydawnictw Kartograficznych",
+  "dc_creator_sm": "Państwowe Przedsiebiorstwo Wydawnictw Kartograficznych",
   "dc_type_s": "Image",
   "dc_identifier_s": "00000151n",
-  "georss_polygon_s": "53.1885 23.0647 53.1885 23.2466 53.0670 23.2466 53.0670 23.0647 53.1885 23.0647",
-  "dc_publisher_s": "Pa\u0144stwowe Przedsiebiorstwo Wydawnictw Kartograficznych",
+  "dc_publisher_s": "Państwowe Przedsiebiorstwo Wydawnictw Kartograficznych",
   "solr_year_i": "1969",
   "dct_spatial_sm": [
     "Bialystok",
@@ -29,9 +27,9 @@
     "Bjelostock"
   ],
   "layer_id_s": "00000151n",
-  "georss_box_s": "53.0670 23.0647 53.1885 23.2466",
   "dc_title_s": "Plan Bialegostoku",
   "layer_slug_s": "princeton-00000151n",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1846",
-  "uuid": "http://arks.princeton.edu/ark:/88435/9k41zh018",
   "dc_description_s": "A map of the United States of Mexico as organized and defined by the several acts of the Congress of that Republic, constructed from a great variety of printed and manuscript documents /",
-  "georss_box_s": "15.0 -45.0 41.0 -9.0",
   "layer_modified_dt": "2015-01-19T22:37:34Z",
   "layer_id_s": "9k41zh018",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-9k41zh018",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/9k41zh018/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/9k/41/zh/01/8/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "41.0 -45.0 41.0 -9.0 15.0 -9.0 15.0 -45.0 41.0 -45.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1846"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Mexico",
     "Texas"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "layer_modified_dt": "2014-12-19T16:18:35Z",
-  "uuid": "http://arks.princeton.edu/ark:/88435/8049g663q",
   "dc_description_s": "Land parcels in Maricopa County, Arizona, 2009.",
-  "georss_box_s": "32.695458 -113.335001 34.046896 -111.081761",
   "layer_slug_s": "princeton-8049g663q",
   "dct_spatial_sm": [
     "Arizona",
@@ -13,7 +11,6 @@
     "Boundary Solutions, Inc."
   ],
   "layer_id_s": "pulmap-restricted:8049g663q",
-  "georss_polygon_s": "34.046896 -113.335001 34.046896 -111.081761 32.695458 -111.081761 32.695458 -113.335001 34.046896 -113.335001",
   "dc_type_s": "Dataset",
   "dc_identifier_s": "8049g663q",
   "dct_provenance_s": "Princeton",
@@ -35,5 +32,6 @@
   "layer_geom_type_s": "Polygon",
   "solr_geom": "ENVELOPE(-113.335001, -111.081761, 34.046896, 32.695458)",
   "dc_rights_s": "Restricted",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

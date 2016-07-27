@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1757",
-  "uuid": "http://arks.princeton.edu/ark:/88435/vh53wz092",
   "dc_description_s": "A new and accurate map of the present war in North America",
-  "georss_box_s": "43.0 -77.0 47.0 -68.0",
   "layer_modified_dt": "2015-01-19T22:37:00Z",
   "dc_creator_sm": [
     "Hinton, John,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-vh53wz092",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/vh53wz092/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/vh/53/wz/09/2/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "47.0 -77.0 47.0 -68.0 43.0 -68.0 43.0 -77.0 47.0 -77.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1757"
@@ -27,5 +24,6 @@
     "New England",
     "Middle Atlantic States",
     "United States"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

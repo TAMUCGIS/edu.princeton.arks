@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1572",
-  "uuid": "http://arks.princeton.edu/ark:/88435/mp48sf63m",
   "dc_description_s": "Il uero disegno del sito di Modon et Nauarino : insule porti et sue fortezze doue hogi si ritrouano le doi armate, con le fattioni fatte per auediar l'armata nemica, et nel sar del aqua si come per li auiusi delli 6. di Ottobre presente 1572 hauti in Roma se intende",
-  "georss_box_s": "36.7818191 21.6660687 36.8618191 21.7460687",
   "layer_modified_dt": "2015-01-21T22:23:46Z",
   "layer_id_s": "mp48sf63m",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-mp48sf63m",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/mp48sf63m/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/mp/48/sf/63/m/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "36.8618191 21.6660687 36.8618191 21.7460687 36.7818191 21.7460687 36.7818191 21.6660687 36.8618191 21.6660687",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1572"
@@ -20,7 +17,8 @@
   "solr_geom": "ENVELOPE(21.6660687, 21.7460687, 36.8618191, 36.7818191)",
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
-    "Metho\u0304ne\u0304 (Greece)",
+    "Methōnē (Greece)",
     "Pylos (Greece)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

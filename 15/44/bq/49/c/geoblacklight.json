@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-77.25, -77, 42.5, 42.25)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/1544bq49c/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/15/44/bq/49/c/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/1544bq49c/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/1544bq49c",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "historical maps",
@@ -20,7 +19,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "1544bq49c",
-  "georss_polygon_s": "42.5 -77.25 42.5 -77 42.25 -77 42.25 -77.25 42.5 -77.25",
   "dc_publisher_s": "US Geological Survey",
   "dct_spatial_sm": [
     "Hammondsport",
@@ -28,9 +26,9 @@
     "USA"
   ],
   "layer_id_s": "1544bq49c",
-  "georss_box_s": "42.25 -77.25 42.5 -77",
   "dc_title_s": "New York: Hammondsport Quadrangle",
   "dct_issued_s": "March 1903",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

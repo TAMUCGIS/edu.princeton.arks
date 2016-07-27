@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(18.9266, 19.3335, 47.6131, 47.3502)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/5712m815n\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/5712m815n/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/5712m815n",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -20,16 +19,15 @@
   "dc_creator_sm": "Royal Hungarian State Cartographical Institute",
   "dc_type_s": "Image",
   "dc_identifier_s": "5712m815n",
-  "georss_polygon_s": "47.6131 18.9266 47.6131 19.3335 47.3502 19.3335 47.3502 18.9266 47.6131 18.9266",
   "dc_publisher_s": "Royal Hungarian State Cartographical Institute",
   "dct_spatial_sm": [
     "Budapest",
     "Hungary"
   ],
   "layer_id_s": "5712m815n",
-  "georss_box_s": "47.3502 18.9266 47.6131 19.3335",
   "dc_title_s": "Budapest belterulete.",
   "layer_slug_s": "princeton-5712m815n",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

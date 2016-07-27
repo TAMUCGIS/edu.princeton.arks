@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(15.5292, 15.6568, 49.4604, 49.3424)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/b5644t08v\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/b5644t08v/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/b5644t08v",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -19,7 +18,6 @@
   "dc_creator_sm": "Ustredni Sprava Geodezie a Kartografie",
   "dc_type_s": "Image",
   "dc_identifier_s": "b5644t08v",
-  "georss_polygon_s": "49.4604 15.5292 49.4604 15.6568 49.3424 15.6568 49.3424 15.5292 49.4604 15.5292",
   "dc_publisher_s": "Ustredni Sprava Geodezie a Kartografie",
   "solr_year_i": "1966",
   "dct_spatial_sm": [
@@ -30,9 +28,9 @@
     "Czech Republic"
   ],
   "layer_id_s": "b5644t08v",
-  "georss_box_s": "49.3424 15.5292 49.4604 15.6568",
   "dc_title_s": "Jihlava",
   "layer_slug_s": "princeton-b5644t08v",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

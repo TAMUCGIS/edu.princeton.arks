@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1863",
-  "uuid": "http://arks.princeton.edu/ark:/88435/gx41mm27g",
   "dc_description_s": "Copy of the survey made May 21st, 1696",
-  "georss_box_s": "40.551042 -74.05663 40.739446 -73.8333651",
   "layer_modified_dt": "2015-01-21T22:24:02Z",
   "dc_creator_sm": [
     "McCloskey, Henry.",
@@ -16,12 +14,14 @@
   "layer_slug_s": "princeton-gx41mm27g",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/gx41mm27g/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/gx/41/mm/27/g/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.739446 -74.05663 40.739446 -73.8333651 40.551042 -73.8333651 40.551042 -74.05663 40.739446 -74.05663",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1863"
   ],
   "solr_geom": "ENVELOPE(-74.05663, -73.8333651, 40.739446, 40.551042)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1815",
-  "uuid": "http://arks.princeton.edu/ark:/88435/js956j27d",
   "dc_description_s": "Port Morant",
-  "georss_box_s": "17.8704371 -76.3463155 17.9104371 -76.3063155",
   "layer_modified_dt": "2015-01-21T22:24:08Z",
   "dc_creator_sm": [
     "Hurd, Thomas,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-js956j27d",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/js956j27d/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/js/95/6j/27/d/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "17.9104371 -76.3463155 17.9104371 -76.3063155 17.8704371 -76.3063155 17.8704371 -76.3463155 17.9104371 -76.3463155",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1815"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Port Morant (Jamaica)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

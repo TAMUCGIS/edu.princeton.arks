@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1822",
-  "uuid": "http://arks.princeton.edu/ark:/88435/8s45qc313",
   "dc_description_s": "Die Insel St. Helena",
-  "georss_box_s": "-16.0306548 -5.7899603 -15.9038562 -5.631452",
   "layer_modified_dt": "2015-01-21T22:24:28Z",
   "layer_id_s": "8s45qc313",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-8s45qc313",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/8s45qc313/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/8s/45/qc/31/3/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "-15.9038562 -5.7899603 -15.9038562 -5.631452 -16.0306548 -5.631452 -16.0306548 -5.7899603 -15.9038562 -5.7899603",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1822"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Saint Helena"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

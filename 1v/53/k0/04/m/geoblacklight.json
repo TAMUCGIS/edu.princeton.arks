@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1911",
-  "uuid": "http://arks.princeton.edu/ark:/88435/1v53k004m",
   "dc_description_s": "The \"lower road to Princeton\" : a map showing the main country roads of to-day, and by a dotted line the route taken by General Washington and his army on the night of January 2, 1777",
-  "georss_box_s": "40.3092744 -74.6992958 40.3892744 -74.6192958",
   "layer_modified_dt": "2015-01-21T22:23:53Z",
   "dc_creator_sm": [
     "West, Joseph H."
@@ -15,12 +13,14 @@
   "layer_slug_s": "princeton-1v53k004m",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/1v53k004m/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/1v/53/k0/04/m/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.3892744 -74.6992958 40.3892744 -74.6192958 40.3092744 -74.6192958 40.3092744 -74.6992958 40.3892744 -74.6992958",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1911"
   ],
   "solr_geom": "ENVELOPE(-74.6992958, -74.6192958, 40.3892744, 40.3092744)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

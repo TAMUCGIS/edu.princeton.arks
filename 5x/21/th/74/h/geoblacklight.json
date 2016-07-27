@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1866",
-  "uuid": "http://arks.princeton.edu/ark:/88435/5x21th74h",
   "dc_description_s": "Map of the State of Nevada : to accompany the annual report of the Commr. Genl. Land Office",
-  "georss_box_s": "35.0 -120.0 42.0 -114.0",
   "layer_modified_dt": "2015-01-19T22:36:59Z",
   "layer_id_s": "5x21th74h",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-5x21th74h",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/5x21th74h/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/5x/21/th/74/h/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "42.0 -120.0 42.0 -114.0 35.0 -114.0 35.0 -120.0 42.0 -120.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1866"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Nevada"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

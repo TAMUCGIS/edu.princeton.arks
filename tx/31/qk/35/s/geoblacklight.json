@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-75.0537, -75.0429, 39.9853, 39.9785)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/tx31qk35s/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/tx/31/qk/35/s/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/tx31qk35s/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/tx31qk35s",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "tx31qk35s",
-  "georss_polygon_s": "39.9853 -75.0537 39.9853 -75.0429 39.9785 -75.0429 39.9785 -75.0537 39.9853 -75.0537",
   "dc_publisher_s": "Sanborn Map Company",
   "solr_year_i": "1925",
   "dct_spatial_sm": [
@@ -28,9 +26,9 @@
     "Delair"
   ],
   "layer_id_s": "tx31qk35s",
-  "georss_box_s": "39.9785 -75.0537 39.9853 -75.0429",
   "dc_title_s": "Delair, Camden County, New Jersey (Sheet 3)",
   "dct_issued_s": "1925",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

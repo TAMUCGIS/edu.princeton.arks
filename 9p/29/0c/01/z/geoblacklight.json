@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(9.7352, 10.3248, 53.7405, 53.3973)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/9p290c01z\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/9p290c01z/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/9p290c01z",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Kartographisches Buero Strom- und Hafenbau",
   "dc_type_s": "Image",
   "dc_identifier_s": "9p290c01z",
-  "georss_polygon_s": "53.7405 9.7352 53.7405 10.3248 53.3973 10.3248 53.3973 9.7352 53.7405 9.7352",
   "dc_publisher_s": "Kartographisches Buero Strom- und Hafenbau",
   "solr_year_i": "1963",
   "dct_spatial_sm": [
@@ -28,9 +26,9 @@
     "Hamburg Land"
   ],
   "layer_id_s": "9p290c01z",
-  "georss_box_s": "53.3973 9.7352 53.7405 10.3248",
   "dc_title_s": "Der Hafen von Hamburg: Freie und Hansestadt Hamburg, Strom- und Hafenbau [Part 2/6]",
   "layer_slug_s": "princeton-9p290c01z",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1645",
-  "uuid": "http://arks.princeton.edu/ark:/88435/m326m426n",
   "dc_description_s": "Contado di Molise et principato vltra",
-  "georss_box_s": "41.6830806 13.0194056 42.8950814 14.7838895",
   "layer_modified_dt": "2015-01-25T02:06:19Z",
   "dc_creator_sm": [
     "Blaeu, Joan,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-m326m426n",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/m326m426n/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/m3/26/m4/26/n/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "42.8950814 13.0194056 42.8950814 14.7838895 41.6830806 14.7838895 41.6830806 13.0194056 42.8950814 13.0194056",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1645"
@@ -27,5 +24,6 @@
     "Abruzzo (Italy)",
     "Lazio (Italy)",
     "Molise (Italy)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1860",
-  "uuid": "http://arks.princeton.edu/ark:/88435/cv43p033q",
   "dc_description_s": "Potsdam",
-  "georss_box_s": "52.3420411 12.8867757 52.5146876 13.168194",
   "layer_modified_dt": "2015-01-21T22:24:26Z",
   "dc_creator_sm": [
     "Zipter, J."
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-cv43p033q",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/cv43p033q/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/cv/43/p0/33/q/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "52.5146876 12.8867757 52.5146876 13.168194 52.3420411 13.168194 52.3420411 12.8867757 52.5146876 12.8867757",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1860"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "Potsdam (Germany)",
     "Potsdam (Germany)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

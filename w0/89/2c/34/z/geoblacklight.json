@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(8.2783, 8.3574, 47.0689, 47.0263)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/w0892c34z\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/w0892c34z/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/w0892c34z",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Edtions Creations Publicitaires N.E.T.",
   "dc_type_s": "Image",
   "dc_identifier_s": "w0892c34z",
-  "georss_polygon_s": "47.0689 8.2783 47.0689 8.3574 47.0263 8.3574 47.0263 8.2783 47.0689 8.2783",
   "dc_publisher_s": "Edtions Creations Publicitaires N.E.T.",
   "solr_year_i": "1966",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "Lucerne"
   ],
   "layer_id_s": "w0892c34z",
-  "georss_box_s": "47.0263 8.2783 47.0689 8.3574",
   "dc_title_s": "Plan der Stadt Luzern",
   "layer_slug_s": "princeton-w0892c34z",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

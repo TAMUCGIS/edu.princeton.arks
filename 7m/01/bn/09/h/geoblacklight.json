@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-75.000, -74.875, 39.375, 39.250)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/7m01bn09h/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/7m/01/bn/09/h/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/7m01bn09h/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/7m01bn09h",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Topographic map",
@@ -20,7 +19,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "7m01bn09h",
-  "georss_polygon_s": "39.375 -75.000 39.375 -74.875 39.250 -74.875 39.250 -75.000 39.375 -75.000",
   "dc_publisher_s": "United States Geological Survey",
   "solr_year_i": "1956",
   "dct_spatial_sm": [
@@ -34,9 +32,9 @@
     "New Jersey"
   ],
   "layer_id_s": "7m01bn09h",
-  "georss_box_s": "39.250 -75.000 39.375 -74.875",
   "dc_title_s": "Port Elizabeth Quadrangle, New Jersey, 7.5 minute series (topographic) (1956)",
   "dct_issued_s": "1956",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

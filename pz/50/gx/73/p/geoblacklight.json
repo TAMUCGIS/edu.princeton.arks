@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(16.160488, 19.226669, 45.176819, 43.512549)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/pz50gx73p/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/pz50gx73p/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/pz50gx73p/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/pz50gx73p",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "City",
@@ -21,7 +20,6 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "pz50gx73p",
-  "georss_polygon_s": "45.176819 16.160488 45.176819 19.226669 43.512549 19.226669 43.512549 16.160488 45.176819 16.160488",
   "dc_publisher_s": "Gfk MACON Company",
   "solr_year_i": "2006",
   "dct_spatial_sm": [
@@ -30,9 +28,9 @@
     "Herzegovina"
   ],
   "layer_id_s": "pulmap-restricted:pz50gx73p",
-  "georss_box_s": "43.512549 16.160488 45.176819 19.226669",
   "dc_title_s": "Bosnia-Herzegovina Cities With Population From 10 Thousand To 20 Thousand, 2005",
   "layer_slug_s": "princeton-pz50gx73p",
   "layer_geom_type_s": "Point",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-74.501444, -74.456181, 40.818361, 40.780231)",
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/vx/02/1h/25/k/00000001.jp2/info.json\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/vx021h25k",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
@@ -21,7 +20,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "vx021h25k",
-  "georss_polygon_s": "40.818361 -74.501444 40.818361 -74.456181 40.780231 -74.456181 40.780231 -74.501444 40.818361 -74.501444",
   "dc_publisher_s": "New York: Sanborn Map Company",
   "solr_year_i": "1896",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "Morristown"
   ],
   "layer_id_s": "vx021h25k",
-  "georss_box_s": "40.780231 -74.501444 40.818361 -74.456181",
   "dc_title_s": "Insurance maps of Morristown, Morris Co., New Jersey: including Whippany (Sheet 12)",
   "layer_slug_s": "princeton-vx021h25k",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

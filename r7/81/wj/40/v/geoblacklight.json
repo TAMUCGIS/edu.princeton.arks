@@ -1,11 +1,9 @@
 {
   "solr_year_i": "1588",
-  "uuid": "http://arks.princeton.edu/ark:/88435/r781wj40v",
   "dc_description_s": "Regenspurg",
-  "georss_box_s": "48.8595333 11.9374869 49.1795333 12.2574869",
   "layer_modified_dt": "2015-01-21T22:23:58Z",
   "dc_creator_sm": [
-    "Mu\u0308nster, Sebastian,",
+    "Münster, Sebastian,",
     "Petri, Heinrich,"
   ],
   "layer_id_s": "r781wj40v",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-r781wj40v",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/r781wj40v/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/r7/81/wj/40/v/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "49.1795333 11.9374869 49.1795333 12.2574869 48.8595333 12.2574869 48.8595333 11.9374869 49.1795333 11.9374869",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1588"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Regensburg (Germany)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

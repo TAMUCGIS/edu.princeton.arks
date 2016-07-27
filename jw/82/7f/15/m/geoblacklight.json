@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1833",
-  "uuid": "http://arks.princeton.edu/ark:/88435/jw827f15m",
   "dc_description_s": "English Channel",
-  "georss_box_s": "49.0 -6.0 51.0 1.0",
   "layer_modified_dt": "2015-01-23T17:48:37Z",
   "layer_id_s": "jw827f15m",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-jw827f15m",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/jw827f15m/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/jw/82/7f/15/m/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.0 -6.0 51.0 1.0 49.0 1.0 49.0 -6.0 51.0 -6.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1833"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "English Channel"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

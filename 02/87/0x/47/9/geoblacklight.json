@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-70, -58, -10, -23)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/02870x479/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/02/87/0x/47/9/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/02870x479/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/02870x479",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
@@ -22,16 +21,15 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "02870x479",
-  "georss_polygon_s": "-10 -70 -10 -58 -23 -58 -23 -70 -10 -70",
   "dc_publisher_s": "Central Intelligence Agency",
   "dct_spatial_sm": [
     "Bolivia",
     "South America"
   ],
   "layer_id_s": "02870x479",
-  "georss_box_s": "-23 -70 -10 -58",
   "dc_title_s": "Bolivia, 1968 (with relief)",
   "dct_issued_s": "March 1968",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

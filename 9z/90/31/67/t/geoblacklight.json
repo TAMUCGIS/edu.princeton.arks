@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1963",
-  "uuid": "http://arks.princeton.edu/ark:/88435/9z903167t",
   "dc_description_s": "Carte geologique detaillee de la France [a 1/80 000]: Cambrai.",
-  "georss_box_s": "49.85720 2.78570 50.21690 3.68250",
   "layer_modified_dt": "2015-01-19T22:36:36Z",
   "dc_creator_sm": [
     "Goguel, Jean"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-9z903167t",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/9z903167t/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/9z/90/31/67/t/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "50.21690 2.78570 50.21690 3.68250 49.85720 3.68250 49.85720 2.78570 50.21690 2.78570",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1963"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "France"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1849",
-  "uuid": "http://arks.princeton.edu/ark:/88435/k06989879",
   "dc_description_s": "Philadelphia",
-  "georss_box_s": "39.867005 -75.2802908 40.1379593 -74.9558313",
   "layer_modified_dt": "2015-01-21T22:23:57Z",
   "dc_creator_sm": [
     "McElroy, Archibald,",
@@ -16,12 +14,14 @@
   "layer_slug_s": "princeton-k06989879",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/k06989879/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/k0/69/89/87/9/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.1379593 -75.2802908 40.1379593 -74.9558313 39.867005 -74.9558313 39.867005 -75.2802908 40.1379593 -75.2802908",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1849"
   ],
   "solr_geom": "ENVELOPE(-75.2802908, -74.9558313, 40.1379593, 39.867005)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

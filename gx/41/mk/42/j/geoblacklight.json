@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(23.2026, 23.4455, 42.7828, 42.5792)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/gx41mk42j\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/gx41mk42j/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/gx41mk42j",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -19,7 +18,6 @@
   "dc_creator_sm": "Kartproekt",
   "dc_type_s": "Image",
   "dc_identifier_s": "gx41mk42j",
-  "georss_polygon_s": "42.7828 23.2026 42.7828 23.4455 42.5792 23.4455 42.5792 23.2026 42.7828 23.2026",
   "dc_publisher_s": "Kartproekt",
   "solr_year_i": "1966",
   "dct_spatial_sm": [
@@ -32,9 +30,9 @@
     "Serdica"
   ],
   "layer_id_s": "gx41mk42j",
-  "georss_box_s": "42.5792 23.2026 42.7828 23.4455",
   "dc_title_s": "Sofia",
   "layer_slug_s": "princeton-gx41mk42j",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

@@ -1,11 +1,9 @@
 {
   "solr_year_i": "1730",
-  "uuid": "http://arks.princeton.edu/ark:/88435/zs25xb84v",
   "dc_description_s": "Le plan de Paris, ses faubourgs et ses environs /",
-  "georss_box_s": "48.8155755 2.224122 48.902156 2.4697602",
   "layer_modified_dt": "2015-01-21T22:23:59Z",
   "dc_creator_sm": [
-    "Co\u0301vens, Jean.",
+    "Cóvens, Jean.",
     "Mortier, Corneille.",
     "Fox, N. B.,"
   ],
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-zs25xb84v",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/zs25xb84v/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/zs/25/xb/84/v/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "48.902156 2.224122 48.902156 2.4697602 48.8155755 2.4697602 48.8155755 2.224122 48.902156 2.224122",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1730"
@@ -26,5 +23,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Paris (France)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1866",
-  "uuid": "http://arks.princeton.edu/ark:/88435/4j03d209n",
   "dc_description_s": "New York bay and harbor, New York",
-  "georss_box_s": "40.3666666667 -74.3 40.9166666667 -73.6833333333",
   "layer_modified_dt": "2015-01-19T22:37:10Z",
   "dc_creator_sm": [
     "Bache, A. D.",
@@ -21,12 +19,14 @@
   "layer_slug_s": "princeton-4j03d209n",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/4j03d209n/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/4j/03/d2/09/n/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.9166666667 -74.3 40.9166666667 -73.6833333333 40.3666666667 -73.6833333333 40.3666666667 -74.3 40.9166666667 -74.3",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1866"
   ],
   "solr_geom": "ENVELOPE(-74.3, -73.6833333333, 40.9166666667, 40.3666666667)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-87.094649, -82.555464, 11.215760, 5.499074)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/cf95jc90x/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/cf95jc90x/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/cf95jc90x/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/cf95jc90x",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "administrative units",
@@ -22,16 +21,15 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "cf95jc90x",
-  "georss_polygon_s": "11.215760 -87.094649 11.215760 -82.555464 5.499074 -82.555464 5.499074 -87.094649 11.215760 -87.094649",
   "dc_publisher_s": "Gfk MACON Company",
   "solr_year_i": "2006",
   "dct_spatial_sm": [
     "Costa Rica"
   ],
   "layer_id_s": "pulmap-restricted:cf95jc90x",
-  "georss_box_s": "5.499074 -87.094649 11.215760 -82.555464",
   "dc_title_s": "Costa Rica Province Boundaries, 1997",
   "layer_slug_s": "princeton-cf95jc90x",
   "layer_geom_type_s": "Polygon",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

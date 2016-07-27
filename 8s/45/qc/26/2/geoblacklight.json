@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1620",
-  "uuid": "http://arks.princeton.edu/ark:/88435/8s45qc262",
   "dc_description_s": "Cardigan : comitatus pars olim Dimetarum",
-  "georss_box_s": "51.61 -4.64 52.89 -3.36",
   "layer_modified_dt": "2015-01-21T22:24:18Z",
   "dc_creator_sm": [
     "Bishop, George,",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-8s45qc262",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/8s45qc262/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/8s/45/qc/26/2/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "52.89 -4.64 52.89 -3.36 51.61 -3.36 51.61 -4.64 52.89 -4.64",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1620"
@@ -27,5 +24,6 @@
   "dct_spatial_sm": [
     "Cardiganshire (Wales)",
     "Maps"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

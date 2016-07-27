@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(18.927033, 21.967788, 46.107411, 42.376494)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/qr46r239t/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/qr46r239t/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/qr46r239t/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/qr46r239t",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "City",
@@ -21,7 +20,6 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "qr46r239t",
-  "georss_polygon_s": "46.107411 18.927033 46.107411 21.967788 42.376494 21.967788 42.376494 18.927033 46.107411 18.927033",
   "dc_publisher_s": "Gfk MACON Company",
   "solr_year_i": "2006",
   "dct_spatial_sm": [
@@ -30,9 +28,9 @@
     "Montenegro"
   ],
   "layer_id_s": "pulmap-restricted:qr46r239t",
-  "georss_box_s": "42.376494 18.927033 46.107411 21.967788",
   "dc_title_s": "Serbia-Montenegro Cities With Population From 50 Thousand To 100 Thousand, 2005",
   "layer_slug_s": "princeton-qr46r239t",
   "layer_geom_type_s": "Point",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(108.867538, 114.178078, 30.010590, 24.719671)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/3f4627107/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/3f4627107/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/3f4627107/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/3f4627107",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "census",
@@ -56,7 +55,6 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "3f4627107",
-  "georss_polygon_s": "30.010590 108.867538 30.010590 114.178078 24.719671 114.178078 24.719671 108.867538 30.010590 108.867538",
   "solr_year_i": "2000",
   "dct_spatial_sm": [
     "China",
@@ -64,9 +62,9 @@
     "Hunan Province"
   ],
   "layer_id_s": "pulmap-restricted:3f4627107",
-  "georss_box_s": "24.719671 108.867538 30.010590 114.178078",
   "dc_title_s": "Township map of Hunan with 2000 Census short form data",
   "layer_slug_s": "princeton-3f4627107",
   "layer_geom_type_s": "Point",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

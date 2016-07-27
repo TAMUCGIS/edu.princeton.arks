@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1827",
-  "uuid": "http://arks.princeton.edu/ark:/88435/v405sc756",
   "dc_description_s": "Partie de la Nouvelle Bretagne",
-  "georss_box_s": "48.0 -80.6666666667 54.0 -68.6666666667",
   "layer_modified_dt": "2015-01-19T22:37:02Z",
   "dc_creator_sm": [
     "Vandermaelen, Philippe,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-v405sc756",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/v405sc756/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/v4/05/sc/75/6/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "54.0 -80.6666666667 54.0 -68.6666666667 48.0 -68.6666666667 48.0 -80.6666666667 54.0 -80.6666666667",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1827"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Quebec (Province)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1957",
-  "uuid": "http://arks.princeton.edu/ark:/88435/cv43nz62s",
   "dc_description_s": "Carte geologique de la France a1/80,000; Sierck-Sarreguemines.",
-  "georss_box_s": "49.07560 6.28190 49.40370 7.19150",
   "layer_modified_dt": "2015-01-19T22:36:37Z",
   "dc_creator_sm": [
     "Goguel, Jean"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-cv43nz62s",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/cv43nz62s/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/cv/43/nz/62/s/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "49.40370 6.28190 49.40370 7.19150 49.07560 7.19150 49.07560 6.28190 49.40370 6.28190",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1957"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "France"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

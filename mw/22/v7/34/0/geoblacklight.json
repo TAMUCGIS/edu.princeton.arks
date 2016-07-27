@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1741",
-  "uuid": "http://arks.princeton.edu/ark:/88435/mw22v7340",
   "dc_description_s": "Graecia vetus cum reliquis prouinciis Graecis santibus",
-  "georss_box_s": "3.4889804 -17.4573 37.5359 38.6938",
   "layer_modified_dt": "2015-01-21T22:23:47Z",
   "dc_creator_sm": [
     "Franchius, S.",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-mw22v7340",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/mw22v7340/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/mw/22/v7/34/0/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "37.5359 -17.4573 37.5359 38.6938 3.4889804 38.6938 3.4889804 -17.4573 37.5359 -17.4573",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1741"
@@ -29,5 +26,6 @@
     "Italy",
     "Mediterranean Region",
     "Turkey"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

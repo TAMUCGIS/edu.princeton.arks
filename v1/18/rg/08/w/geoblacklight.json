@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(78.4333, 78.5500, 17.4333, 17.3500)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/v118rg08w\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/v118rg08w/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/v118rg08w",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "City plan",
@@ -15,7 +14,6 @@
   "dc_creator_sm": "S.n.",
   "dc_type_s": "Image",
   "dc_identifier_s": "v118rg08w",
-  "georss_polygon_s": "17.4333 78.4333 17.4333 78.5500 17.3500 78.5500 17.3500 78.4333 17.4333 78.4333",
   "dc_publisher_s": "S.n.",
   "solr_year_i": "1953",
   "dct_spatial_sm": [
@@ -28,9 +26,9 @@
     "MAX  G7654.H98.1953"
   ],
   "layer_id_s": "v118rg08w",
-  "georss_box_s": "17.3500 78.4333 17.4333 78.5500",
   "dc_title_s": "Hyderabad, Secunderabad and suburbs.",
   "layer_slug_s": "princeton-v118rg08w",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

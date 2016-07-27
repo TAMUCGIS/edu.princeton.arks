@@ -1,18 +1,15 @@
 {
   "solr_year_i": "1902",
-  "uuid": "http://arks.princeton.edu/ark:/88435/1r66j3655",
-  "dc_description_s": "Neuester Plan von Nu\u0308rnberg",
-  "georss_box_s": "47.2701114 8.9763497 50.5647142 13.8396373",
+  "dc_description_s": "Neuester Plan von Nürnberg",
   "layer_modified_dt": "2015-01-21T22:24:27Z",
   "layer_id_s": "1r66j3655",
   "dc_type_s": "Image",
   "dc_identifier_s": "1r66j3655",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Neuester Plan von Nu\u0308rnberg",
+  "dc_title_s": "Neuester Plan von Nürnberg",
   "layer_slug_s": "princeton-1r66j3655",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/1r66j3655/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/1r/66/j3/65/5/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "50.5647142 8.9763497 50.5647142 13.8396373 47.2701114 13.8396373 47.2701114 8.9763497 50.5647142 8.9763497",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1902"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Bavaria (Germany)",
     "Nuremberg (Germany)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

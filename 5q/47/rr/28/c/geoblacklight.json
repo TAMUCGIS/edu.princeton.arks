@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1639",
-  "uuid": "http://arks.princeton.edu/ark:/88435/5q47rr28c",
   "dc_description_s": "Terra di Bari et Basilicata",
-  "georss_box_s": "41.0530106 16.7307831 41.1695679 17.0333497",
   "layer_modified_dt": "2015-01-25T02:06:20Z",
   "dc_creator_sm": [
     "Jansson, Jan,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-5q47rr28c",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/5q47rr28c/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/5q/47/rr/28/c/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "41.1695679 16.7307831 41.1695679 17.0333497 41.0530106 17.0333497 41.0530106 16.7307831 41.1695679 16.7307831",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1639"
@@ -26,5 +23,6 @@
   "dct_spatial_sm": [
     "Bari (Italy : Province)",
     "Basilicata (Italy)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

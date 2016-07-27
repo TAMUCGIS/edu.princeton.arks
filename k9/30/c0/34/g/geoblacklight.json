@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1753",
-  "uuid": "http://arks.princeton.edu/ark:/88435/k930c034g",
   "dc_description_s": "Insulae Javae pars Occidentalis edente Hadriano relando : Insulae Javae pars Orientalis edente Hadriano relando",
-  "georss_box_s": "-8.7808253 105.2097126 -5.8756509 114.6056347",
   "layer_modified_dt": "2015-01-21T22:23:55Z",
   "dc_creator_sm": [
     "Keulen, Johannes van,",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-k930c034g",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/k930c034g/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/k9/30/c0/34/g/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "-5.8756509 105.2097126 -5.8756509 114.6056347 -8.7808253 114.6056347 -8.7808253 105.2097126 -5.8756509 105.2097126",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1753"
@@ -26,5 +23,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Java (Indonesia)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

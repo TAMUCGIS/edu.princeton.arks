@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1685",
-  "uuid": "http://arks.princeton.edu/ark:/88435/j96023054",
   "dc_description_s": "I. d'Andro et de Tine",
-  "georss_box_s": "37.6818341 24.680626 37.9995618 25.0007208",
   "layer_modified_dt": "2015-01-21T22:24:02Z",
   "dc_creator_sm": [
     "Manesson-Mallet, Allain,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-j96023054",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/j96023054/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/j9/60/23/05/4/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "37.9995618 24.680626 37.9995618 25.0007208 37.6818341 25.0007208 37.6818341 24.680626 37.9995618 24.680626",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1685"
@@ -26,5 +23,6 @@
   "dct_spatial_sm": [
     "Andros Island (Greece)",
     "Tinos Island (Greece)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

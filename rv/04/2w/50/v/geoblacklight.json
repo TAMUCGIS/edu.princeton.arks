@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1683",
-  "uuid": "http://arks.princeton.edu/ark:/88435/rv042w50v",
   "dc_description_s": "Macedoine, Thessalie, Epire",
-  "georss_box_s": "40.8545226 20.4532236 42.3735359 23.034051",
   "layer_modified_dt": "2015-01-21T22:24:03Z",
   "dc_creator_sm": [
     "Manesson-Mallet, Allain,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-rv042w50v",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/rv042w50v/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/rv/04/2w/50/v/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "42.3735359 20.4532236 42.3735359 23.034051 40.8545226 23.034051 40.8545226 20.4532236 42.3735359 20.4532236",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1683"
@@ -26,5 +23,6 @@
     "Macedonia (Greece)",
     "Thessaly (Greece)",
     "Epirus (Greece and Albania)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

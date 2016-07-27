@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(139.0500, 139.100, 36.4167, 36.3667)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/2v23vv86v/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/2v/23/vv/86/v/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/2v23vv86v/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/2v23vv86v",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
@@ -23,7 +22,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "2v23vv86v",
-  "georss_polygon_s": "36.4167 139.0500 36.4167 139.100 36.3667 139.100 36.3667 139.0500 36.4167 139.0500",
   "dc_publisher_s": "Army Map Service",
   "solr_year_i": "1945",
   "dct_spatial_sm": [
@@ -32,9 +30,9 @@
     "Japan"
   ],
   "layer_id_s": "2v23vv86v",
-  "georss_box_s": "36.3667 139.0500 36.4167 139.100",
   "dc_title_s": "Maebashi, Gumma Prefecture, Honshu, Japan. A.M.S. L902.",
   "dct_issued_s": "1945",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(16.32, 16.45, 61.39, 61.32)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/7d278v46m\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/7d278v46m/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/7d278v46m",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Statens Reproduktionsanstalt",
   "dc_type_s": "Image",
   "dc_identifier_s": "7d278v46m",
-  "georss_polygon_s": "61.39 16.32 61.39 16.45 61.32 16.45 61.32 16.32 61.39 16.32",
   "dc_publisher_s": "Statens Reproduktionsanstalt",
   "solr_year_i": "1958",
   "dct_spatial_sm": [
@@ -26,9 +24,9 @@
     "Sweden"
   ],
   "layer_id_s": "7d278v46m",
-  "georss_box_s": "61.32 16.32 61.39 16.45",
   "dc_title_s": "Turistkarta med oversiktskarta over Bollnas upprattad 1958",
   "layer_slug_s": "princeton-7d278v46m",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

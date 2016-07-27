@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-76.85, -73.1, 45, 43.1)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/br86b518q/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/br/86/b5/18/q/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/br86b518q/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/br86b518q",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
@@ -18,7 +17,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "br86b518q",
-  "georss_polygon_s": "45 -76.85 45 -73.1 43.1 -73.1 43.1 -76.85 45 -76.85",
   "dc_publisher_s": "New York State Department of Transportation",
   "solr_year_i": "1995",
   "dct_spatial_sm": [
@@ -26,9 +24,9 @@
     "New York State"
   ],
   "layer_id_s": "br86b518q",
-  "georss_box_s": "43.1 -76.85 45 -73.1",
   "dc_title_s": "New York State map : four sheet, 1:250,000. North sheet.",
   "dct_issued_s": "1995",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

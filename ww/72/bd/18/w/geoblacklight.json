@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(37.000822, 37.250806, 0.747202, 0.497227)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/ww72bd18w\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/ww72bd18w/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/ww72bd18w",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "imageryBaseMapsEarthCover",
@@ -16,7 +15,6 @@
   "dc_creator_sm": "Directorate of Overseas Survey",
   "dc_type_s": "Image",
   "dc_identifier_s": "ww72bd18w",
-  "georss_polygon_s": "0.747202 37.000822 0.747202 37.250806 0.497227 37.250806 0.497227 37.000822 0.747202 37.000822",
   "dc_publisher_s": "Directorate of Overseas Survey for the Survey of Kenya",
   "solr_year_i": "1981",
   "dct_spatial_sm": [
@@ -28,9 +26,9 @@
     "Kenya"
   ],
   "layer_id_s": "ww72bd18w",
-  "georss_box_s": "0.497227 37.000822 0.747202 37.250806",
   "dc_title_s": "Longopito: East Africa 1:50,000 (Kenya)",
   "layer_slug_s": "princeton-ww72bd18w",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-74.197734, -74.117804, 40.899398, 40.819933)",
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/sx/61/dp/51/8/00000001.jp2/info.json\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/sx61dp518",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
@@ -21,7 +20,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "sx61dp518",
-  "georss_polygon_s": "40.899398 -74.197734 40.899398 -74.117804 40.819933 -74.117804 40.819933 -74.197734 40.899398 -74.197734",
   "dc_publisher_s": "New York: Sanborn Map Company",
   "solr_year_i": "1935",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "Clifton"
   ],
   "layer_id_s": "sx61dp518",
-  "georss_box_s": "40.819933 -74.197734 40.899398 -74.117804",
   "dc_title_s": "Insurance maps of Clifton, New Jersey (Title).",
   "layer_slug_s": "princeton-sx61dp518",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

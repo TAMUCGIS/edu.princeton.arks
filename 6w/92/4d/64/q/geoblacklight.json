@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1946",
-  "uuid": "http://arks.princeton.edu/ark:/88435/6w924d64q",
   "dc_description_s": "Carte geologique detaillee de la France [a 1/80 000]: Auxerre.",
-  "georss_box_s": "47.69860 2.76660 48.05820 3.62540",
   "layer_modified_dt": "2015-01-19T22:36:38Z",
   "dc_creator_sm": [
     "Raguin, E."
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-6w924d64q",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/6w924d64q/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/6w/92/4d/64/q/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "48.05820 2.76660 48.05820 3.62540 47.69860 3.62540 47.69860 2.76660 48.05820 2.76660",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1946"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "France"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

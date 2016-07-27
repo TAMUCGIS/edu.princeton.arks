@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1774",
-  "uuid": "http://arks.princeton.edu/ark:/88435/3t945t147",
   "dc_description_s": "Carte et vues de l'Isle Pitcairn",
-  "georss_box_s": "-25.079715 -130.1228695 -25.0595499 -130.0877382",
   "layer_modified_dt": "2015-01-21T22:23:57Z",
   "dc_creator_sm": [
     "Hawkesworth, John,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-3t945t147",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/3t945t147/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/3t/94/5t/14/7/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "-25.0595499 -130.1228695 -25.0595499 -130.0877382 -25.079715 -130.0877382 -25.079715 -130.1228695 -25.0595499 -130.1228695",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1774"
@@ -26,5 +23,6 @@
   "dct_spatial_sm": [
     "Pitcairn Island",
     "Pitcairn Island"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

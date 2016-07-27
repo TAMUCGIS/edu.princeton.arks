@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-0.5539, -0.2536, 39.6206, 39.3401)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/pz50gx834\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/pz50gx834/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/pz50gx834",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Director General of Architecture",
   "dc_type_s": "Image",
   "dc_identifier_s": "pz50gx834",
-  "georss_polygon_s": "39.6206 -0.5539 39.6206 -0.2536 39.3401 -0.2536 39.3401 -0.5539 39.6206 -0.5539",
   "dc_publisher_s": "Director General of Architecture",
   "dct_spatial_sm": [
     "Valencia",
@@ -26,9 +24,9 @@
     "Comunidad Valenciana"
   ],
   "layer_id_s": "pz50gx834",
-  "georss_box_s": "39.3401 -0.5539 39.6206 -0.2536",
   "dc_title_s": "Valencia 45-III",
   "layer_slug_s": "princeton-pz50gx834",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

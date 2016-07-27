@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1705",
-  "uuid": "http://arks.princeton.edu/ark:/88435/q811km99q",
-  "dc_description_s": "Le plan de la ville, cite\u0301, et universite\u0301 de Paris : capitale du Royaume de France",
-  "georss_box_s": "48.8155755 2.224122 48.902156 2.4697602",
+  "dc_description_s": "Le plan de la ville, cité, et université de Paris : capitale du Royaume de France",
   "layer_modified_dt": "2015-01-21T22:23:59Z",
   "dc_creator_sm": [
     "Loon, H. V."
@@ -11,11 +9,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "q811km99q",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Le plan de la ville, cite\u0301, et universite\u0301 de Paris : capitale du Royaume de France",
+  "dc_title_s": "Le plan de la ville, cité, et université de Paris : capitale du Royaume de France",
   "layer_slug_s": "princeton-q811km99q",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/q811km99q/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/q8/11/km/99/q/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "48.902156 2.224122 48.902156 2.4697602 48.8155755 2.4697602 48.8155755 2.224122 48.902156 2.224122",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1705"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Paris (France)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

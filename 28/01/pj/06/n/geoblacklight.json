@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(14.0288, 14.6378, 41.0473, 40.7393)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/2801pj06n\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/2801pj06n/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/2801pj06n",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Casa Editrici Lozzi",
   "dc_type_s": "Image",
   "dc_identifier_s": "2801pj06n",
-  "georss_polygon_s": "41.0473 14.0288 41.0473 14.6378 40.7393 14.6378 40.7393 14.0288 41.0473 14.0288",
   "dc_publisher_s": "Casa Editrici Lozzi",
   "solr_year_i": "1974",
   "dct_spatial_sm": [
@@ -31,9 +29,9 @@
     "Provincia di Napoli"
   ],
   "layer_id_s": "2801pj06n",
-  "georss_box_s": "40.7393 14.0288 41.0473 14.6378",
   "dc_title_s": "Pianta monumentale di Napoli",
   "layer_slug_s": "princeton-2801pj06n",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-83.9599, -83.8777, 17.4320, 17.3830)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/x059c880r\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/x059c880r/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/x059c880r",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -20,7 +19,6 @@
   "dc_creator_sm": "Instituto Geografico Nacional",
   "dc_type_s": "Image",
   "dc_identifier_s": "x059c880r",
-  "georss_polygon_s": "17.4320 -83.9599 17.4320 -83.8777 17.3830 -83.8777 17.3830 -83.9599 17.4320 -83.9599",
   "dc_publisher_s": "Instituto Geografico Nacional",
   "solr_year_i": "1971",
   "dct_spatial_sm": [
@@ -31,12 +29,12 @@
     "Isla Grande",
     "El Cisne Is.",
     "Santanilla Is.",
-    "Departamento Islas de la Bah\u00eda"
+    "Departamento Islas de la Bahía"
   ],
   "layer_id_s": "x059c880r",
-  "georss_box_s": "17.3830 -83.9599 17.4320 -83.8777",
   "dc_title_s": "Islas Santanilla o de El Cisne, Honduras, C.A.: [Isla Grande]",
   "layer_slug_s": "princeton-x059c880r",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

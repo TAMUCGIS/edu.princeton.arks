@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-76, -30, 6, -34)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/td96k408f/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/td/96/k4/08/f/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/td96k408f/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/td96k408f",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
@@ -24,7 +23,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "td96k408f",
-  "georss_polygon_s": "6 -76 6 -30 -34 -30 -34 -76 6 -76",
   "dc_publisher_s": "Central Intelligence Agency",
   "solr_year_i": "1977",
   "dct_spatial_sm": [
@@ -32,9 +30,9 @@
     "South America"
   ],
   "layer_id_s": "td96k408f",
-  "georss_box_s": "-34 -76 6 -30",
   "dc_title_s": "Brazil, 1977 (with relief)",
   "dct_issued_s": "1977",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

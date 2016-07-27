@@ -1,8 +1,6 @@
 {
   "layer_modified_dt": "2015-01-11T18:24:57Z",
-  "uuid": "http://arks.princeton.edu/ark:/88435/3b591b18g",
   "dc_description_s": "Quickbird image covering area around Ewaso Nyiro River, Rift Valley Province, Kenya",
-  "georss_box_s": "0.490001 36.867010 0.549002 37.014683",
   "layer_slug_s": "princeton-3b591b18g",
   "dct_spatial_sm": [
     "Ewaso Nyiro River",
@@ -12,7 +10,6 @@
   ],
   "dc_creator_sm": "DigitalGlobe",
   "layer_id_s": "3b591b18g",
-  "georss_polygon_s": "0.549002 36.867010 0.549002 37.014683 0.490001 37.014683 0.490001 36.867010 0.549002 36.867010",
   "dc_type_s": "Image",
   "dc_identifier_s": "3b591b18g",
   "dct_provenance_s": "Princeton",
@@ -30,5 +27,6 @@
   "layer_geom_type_s": "Image",
   "solr_geom": "ENVELOPE(36.867010, 37.014683, 0.549002, 0.490001)",
   "dc_rights_s": "Restricted",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

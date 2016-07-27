@@ -1,8 +1,6 @@
 {
   "layer_modified_dt": "2014-12-19T16:18:32Z",
-  "uuid": "http://arks.princeton.edu/ark:/88435/w95051981",
   "dc_description_s": "Land parcels in Pope County, Arkansas, 2008.",
-  "georss_box_s": "35.124715 -93.298918 35.727993 -92.809759",
   "layer_slug_s": "princeton-w95051981",
   "dct_spatial_sm": [
     "Arkansas",
@@ -12,7 +10,6 @@
     "Boundary Solutions, Inc."
   ],
   "layer_id_s": "pulmap-restricted:w95051981",
-  "georss_polygon_s": "35.727993 -93.298918 35.727993 -92.809759 35.124715 -92.809759 35.124715 -93.298918 35.727993 -93.298918",
   "dc_type_s": "Dataset",
   "dc_identifier_s": "w95051981",
   "dct_provenance_s": "Princeton",
@@ -34,5 +31,6 @@
   "layer_geom_type_s": "Polygon",
   "solr_geom": "ENVELOPE(-93.298918, -92.809759, 35.727993, 35.124715)",
   "dc_rights_s": "Restricted",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

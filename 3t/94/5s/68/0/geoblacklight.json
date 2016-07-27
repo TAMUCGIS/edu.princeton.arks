@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1812",
-  "uuid": "http://arks.princeton.edu/ark:/88435/3t945s680",
   "dc_description_s": "Ohio",
-  "georss_box_s": "38.4031419 -84.8203367 42.3232365 -80.5189909",
   "layer_modified_dt": "2015-01-21T22:23:50Z",
   "dc_creator_sm": [
     "Lewis, Samuel,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-3t945s680",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/3t945s680/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/3t/94/5s/68/0/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "42.3232365 -84.8203367 42.3232365 -80.5189909 38.4031419 -80.5189909 38.4031419 -84.8203367 42.3232365 -84.8203367",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1812"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Ohio"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

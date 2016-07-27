@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(11.2914, 11.3628, 43.3513, 43.2807)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/8p58pf49c\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/8p58pf49c/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/8p58pf49c",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Litografia Artistica Cartografia",
   "dc_type_s": "Image",
   "dc_identifier_s": "8p58pf49c",
-  "georss_polygon_s": "43.3513 11.2914 43.3513 11.3628 43.2807 11.3628 43.2807 11.2914 43.3513 11.2914",
   "dc_publisher_s": "Litografia Artistica Cartografia",
   "dct_spatial_sm": [
     "Siena",
@@ -27,9 +25,9 @@
     "Tuscany Region"
   ],
   "layer_id_s": "8p58pf49c",
-  "georss_box_s": "43.2807 11.2914 43.3513 11.3628",
   "dc_title_s": "Pianta monumentale di Siena",
   "layer_slug_s": "princeton-8p58pf49c",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

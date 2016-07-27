@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1837",
-  "uuid": "http://arks.princeton.edu/ark:/88435/xk81jn88x",
   "dc_description_s": "The environs of Dublin",
-  "georss_box_s": "53.1894299 -6.4200969 53.5094299 -6.1000969",
   "layer_modified_dt": "2015-01-21T22:24:23Z",
   "layer_id_s": "xk81jn88x",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-xk81jn88x",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/xk81jn88x/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/xk/81/jn/88/x/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "53.5094299 -6.4200969 53.5094299 -6.1000969 53.1894299 -6.1000969 53.1894299 -6.4200969 53.5094299 -6.4200969",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1837"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Dublin (Ireland)",
     "Dublin (Ireland : County)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

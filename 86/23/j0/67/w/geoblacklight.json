@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1929",
-  "uuid": "http://arks.princeton.edu/ark:/88435/8623j067w",
   "dc_description_s": "Poictesme",
-  "georss_box_s": "41.3423276 -5.1412279 46.9271531008 9.5600678",
   "layer_modified_dt": "2015-01-21T22:23:52Z",
   "dc_creator_sm": [
     "Cabell, James Branch,"
@@ -15,12 +13,14 @@
   "layer_slug_s": "princeton-8623j067w",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/8623j067w/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/86/23/j0/67/w/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "46.9271531008 -5.1412279 46.9271531008 9.5600678 41.3423276 9.5600678 41.3423276 -5.1412279 46.9271531008 -5.1412279",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1929"
   ],
   "solr_geom": "ENVELOPE(-5.1412279, 9.5600678, 46.9271531008, 41.3423276)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

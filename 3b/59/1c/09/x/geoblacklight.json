@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1910",
-  "uuid": "http://arks.princeton.edu/ark:/88435/3b591c09x",
   "dc_description_s": "Plan der Grossherzogl. Haupt- u. Residenzstadt Weimar",
-  "georss_box_s": "50.2043467 9.8767193 51.6489423 12.6539178",
   "layer_modified_dt": "2015-01-21T22:24:26Z",
   "dc_creator_sm": [
     "Kettler, J. I."
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-3b591c09x",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/3b591c09x/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/3b/59/1c/09/x/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.6489423 9.8767193 51.6489423 12.6539178 50.2043467 12.6539178 50.2043467 9.8767193 51.6489423 9.8767193",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1910"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "Thuringia (Germany)",
     "Weimar (Germany)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

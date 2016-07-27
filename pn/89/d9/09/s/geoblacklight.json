@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1610",
-  "uuid": "http://arks.princeton.edu/ark:/88435/pn89d909s",
   "dc_description_s": "Rutlandshire, with Oukham and Stanford, her bordering neighbour newely described",
-  "georss_box_s": "52.5247864 -0.8217615 52.7598184 -0.4283755",
   "layer_modified_dt": "2015-01-21T22:24:19Z",
   "dc_creator_sm": [
     "Humble, George,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-pn89d909s",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/pn89d909s/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/pn/89/d9/09/s/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "52.7598184 -0.8217615 52.7598184 -0.4283755 52.5247864 -0.4283755 52.5247864 -0.8217615 52.7598184 -0.8217615",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1610"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Rutland (England)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

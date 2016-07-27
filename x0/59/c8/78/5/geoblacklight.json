@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-180.000000, 180.000000, 83.623596, -90.000000)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/x059c8785/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/x059c8785/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/x059c8785/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/x059c8785",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "polygon",
@@ -30,16 +29,15 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "x059c8785",
-  "georss_polygon_s": "83.623596 -180.000000 83.623596 180.000000 -90.000000 180.000000 -90.000000 -180.000000 83.623596 -180.000000",
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "solr_year_i": "1996",
   "dct_spatial_sm": [
     "World"
   ],
   "layer_id_s": "pulmap-restricted:x059c8785",
-  "georss_box_s": "-90.000000 -180.000000 83.623596 180.000000",
   "dc_title_s": "World Administrative Units 1998",
   "layer_slug_s": "princeton-x059c8785",
   "layer_geom_type_s": "Polygon",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

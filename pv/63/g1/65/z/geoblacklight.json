@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(16.84, 16.88, 41.15, 41.12)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/pv63g165z\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/pv63g165z/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/pv63g165z",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Istituto Geografico Visceglia",
   "dc_type_s": "Image",
   "dc_identifier_s": "pv63g165z",
-  "georss_polygon_s": "41.15 16.84 41.15 16.88 41.12 16.88 41.12 16.84 41.15 16.84",
   "dc_publisher_s": "Istituto Geografico Visceglia",
   "solr_year_i": "1963",
   "dct_spatial_sm": [
@@ -26,9 +24,9 @@
     "Italy"
   ],
   "layer_id_s": "pv63g165z",
-  "georss_box_s": "41.12 16.84 41.15 16.88",
   "dc_title_s": "Bari (Atlante urbanistico foglio No. 71)",
   "layer_slug_s": "princeton-pv63g165z",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

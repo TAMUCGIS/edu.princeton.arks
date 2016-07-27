@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(23.06, 23.16, 60.41, 60.36)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/g445cf56n\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/g445cf56n/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/g445cf56n",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Maanmittaushallituksen kivipaino",
   "dc_type_s": "Image",
   "dc_identifier_s": "g445cf56n",
-  "georss_polygon_s": "60.41 23.06 60.41 23.16 60.36 23.16 60.36 23.06 60.41 23.06",
   "dc_publisher_s": "Maanmittaushallituksen kivipaino",
   "solr_year_i": "1961",
   "dct_spatial_sm": [
@@ -26,9 +24,9 @@
     "Finland"
   ],
   "layer_id_s": "g445cf56n",
-  "georss_box_s": "60.36 23.06 60.41 23.16",
   "dc_title_s": "Salo yleiskartta",
   "layer_slug_s": "princeton-g445cf56n",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

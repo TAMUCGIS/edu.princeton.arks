@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1827",
-  "uuid": "http://arks.princeton.edu/ark:/88435/z603r095r",
-  "dc_description_s": "Plan de Nauplie de Romanie et du fort Palame\u0300de au 15,000e",
-  "georss_box_s": "37.4598871 22.7718924 37.724587 23.1428377",
+  "dc_description_s": "Plan de Nauplie de Romanie et du fort Palamède au 15,000e",
   "layer_modified_dt": "2015-01-21T22:24:26Z",
   "dc_creator_sm": [
     "Flahaut,",
@@ -12,11 +10,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "z603r095r",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Plan de Nauplie de Romanie et du fort Palame\u0300de au 15,000e",
+  "dc_title_s": "Plan de Nauplie de Romanie et du fort Palamède au 15,000e",
   "layer_slug_s": "princeton-z603r095r",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/z603r095r/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/z6/03/r0/95/r/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "37.724587 22.7718924 37.724587 23.1428377 37.4598871 23.1428377 37.4598871 22.7718924 37.724587 22.7718924",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1827"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Nauplion (Greece)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

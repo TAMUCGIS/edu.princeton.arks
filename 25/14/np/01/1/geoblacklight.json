@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1905",
-  "uuid": "http://arks.princeton.edu/ark:/88435/2514np011",
-  "dc_description_s": "U\u0308bersichtskarte von Italien",
-  "georss_box_s": "36.0 6.0 47.0 20.0",
+  "dc_description_s": "Übersichtskarte von Italien",
   "layer_modified_dt": "2015-01-19T22:37:36Z",
   "dc_creator_sm": [
     "Andree, Richard,"
@@ -11,11 +9,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "2514np011",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "U\u0308bersichtskarte von Italien",
+  "dc_title_s": "Übersichtskarte von Italien",
   "layer_slug_s": "princeton-2514np011",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/2514np011/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/25/14/np/01/1/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "47.0 6.0 47.0 20.0 36.0 20.0 36.0 6.0 47.0 6.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1905"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Italy"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

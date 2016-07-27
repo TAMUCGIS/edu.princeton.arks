@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(6.150766, 10.488839, 47.786641, 45.933336)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/tt44pp41p/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/tt44pp41p/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/tt44pp41p/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/tt44pp41p",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Rivers",
@@ -21,16 +20,15 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "tt44pp41p",
-  "georss_polygon_s": "47.786641 6.150766 47.786641 10.488839 45.933336 10.488839 45.933336 6.150766 47.786641 6.150766",
   "dc_publisher_s": "Gfk MACON Company",
   "solr_year_i": "2006",
   "dct_spatial_sm": [
     "Switzerland"
   ],
   "layer_id_s": "pulmap-restricted:tt44pp41p",
-  "georss_box_s": "45.933336 6.150766 47.786641 10.488839",
   "dc_title_s": "Switzerland Minor Rivers, 2006",
   "layer_slug_s": "princeton-tt44pp41p",
   "layer_geom_type_s": "Line",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

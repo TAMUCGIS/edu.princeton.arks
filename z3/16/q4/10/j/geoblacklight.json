@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1901",
-  "uuid": "http://arks.princeton.edu/ark:/88435/z316q410j",
   "dc_description_s": "Thuringen",
-  "georss_box_s": "50.2043467 9.8767193 51.6489423 12.6539178",
   "layer_modified_dt": "2015-01-21T22:24:22Z",
   "dc_creator_sm": [
     "Woerl, Leo,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-z316q410j",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/z316q410j/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/z3/16/q4/10/j/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.6489423 9.8767193 51.6489423 12.6539178 50.2043467 12.6539178 50.2043467 9.8767193 51.6489423 9.8767193",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1901"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Thuringia (Germany)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

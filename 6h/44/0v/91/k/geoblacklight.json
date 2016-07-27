@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1676",
-  "uuid": "http://arks.princeton.edu/ark:/88435/6h440v91k",
   "dc_description_s": "The invasions of England and Ireland : with al their ciuill wars since the Conquest",
-  "georss_box_s": "49.674 -6.7047493 55.917 2.0919117",
   "layer_modified_dt": "2015-01-21T22:24:04Z",
   "dc_creator_sm": [
     "Danckerts, Cornelis,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-6h440v91k",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/6h440v91k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/6h/44/0v/91/k/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "55.917 -6.7047493 55.917 2.0919117 49.674 2.0919117 49.674 -6.7047493 55.917 -6.7047493",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1676"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "England",
     "Ireland"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

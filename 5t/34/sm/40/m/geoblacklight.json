@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1892",
-  "uuid": "http://arks.princeton.edu/ark:/88435/5t34sm40m",
   "dc_description_s": "Rand,McNally & Co.'s indexed atlas of the world map of South Africa.",
-  "georss_box_s": "-46.9813794 16.45194 -22.12503 38.0037335",
   "layer_modified_dt": "2015-01-21T22:23:43Z",
   "layer_id_s": "5t34sm40m",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-5t34sm40m",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/5t34sm40m/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/5t/34/sm/40/m/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "-22.12503 16.45194 -22.12503 38.0037335 -46.9813794 38.0037335 -46.9813794 16.45194 -22.12503 16.45194",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1892"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "South Africa",
     "Namibia"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-79.75, -79.5, 40, 39.75)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/3x816p05g/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/3x/81/6p/05/g/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/3x816p05g/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/3x816p05g",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "historical maps",
@@ -20,7 +19,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "3x816p05g",
-  "georss_polygon_s": "40 -79.75 40 -79.5 39.75 -79.5 39.75 -79.75 40 -79.75",
   "dc_publisher_s": "US Geological Survey",
   "solr_year_i": "1939",
   "dct_spatial_sm": [
@@ -30,9 +28,9 @@
     "United States"
   ],
   "layer_id_s": "3x816p05g",
-  "georss_box_s": "39.75 -79.75 40 -79.5",
   "dc_title_s": "Pennsylvania: (Fayette County) Uniontown Quadrangle, 1939",
   "dct_issued_s": "1939",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

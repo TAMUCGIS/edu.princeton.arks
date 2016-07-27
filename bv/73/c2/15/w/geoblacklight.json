@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(74.909027, 132.523884, 50.573662, 18.190672)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/bv73c215w/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/bv73c215w/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/bv73c215w/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/bv73c215w",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "roads",
@@ -23,15 +22,14 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "bv73c215w",
-  "georss_polygon_s": "50.573662 74.909027 50.573662 132.523884 18.190672 132.523884 18.190672 74.909027 50.573662 74.909027",
   "solr_year_i": "2005",
   "dct_spatial_sm": [
     "China"
   ],
   "layer_id_s": "pulmap-restricted:bv73c215w",
-  "georss_box_s": "18.190672 74.909027 50.573662 132.523884",
   "dc_title_s": "China National Roads, 2000",
   "layer_slug_s": "princeton-bv73c215w",
   "layer_geom_type_s": "Line",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

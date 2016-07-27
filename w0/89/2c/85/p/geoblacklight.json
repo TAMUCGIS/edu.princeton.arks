@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1764",
-  "uuid": "http://arks.princeton.edu/ark:/88435/w0892c85p",
   "dc_description_s": "An improved map of the county of Stafford divided into its hundreds; : collected from the best materials, and ilustrated wth various additional improvements, with historical extracts, relating to its natural produce, trade, manufactures &c.",
-  "georss_box_s": "52.4232438 -2.4706148 53.226224 -1.585356",
   "layer_modified_dt": "2015-01-21T22:23:50Z",
   "dc_creator_sm": [
     "Bowles, John,",
@@ -18,7 +16,6 @@
   "layer_slug_s": "princeton-w0892c85p",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/w0892c85p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/w0/89/2c/85/p/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "53.226224 -2.4706148 53.226224 -1.585356 52.4232438 -1.585356 52.4232438 -2.4706148 53.226224 -2.4706148",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1764"
@@ -27,5 +24,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Staffordshire (England)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

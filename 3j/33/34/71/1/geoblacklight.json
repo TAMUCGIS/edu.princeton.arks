@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1751",
-  "uuid": "http://arks.princeton.edu/ark:/88435/3j3334711",
   "dc_description_s": "Land caerte van 't Verenigde Nederland, met 't gene daer onderhoort, verdeelt in syn provincien, en minder verdelingen",
-  "georss_box_s": "11.825 -68.6255318 53.7253321 7.2274985",
   "layer_modified_dt": "2015-01-25T02:06:14Z",
   "dc_creator_sm": [
     "Fox, N. B.,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-3j3334711",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/3j3334711/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/3j/33/34/71/1/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "53.7253321 -68.6255318 53.7253321 7.2274985 11.825 7.2274985 11.825 -68.6255318 53.7253321 -68.6255318",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1751"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Netherlands"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

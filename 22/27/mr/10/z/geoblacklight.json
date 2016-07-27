@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(121.8333, 121.8667, 24.600, 24.5667)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/2227mr10z/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/22/27/mr/10/z/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/2227mr10z/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/2227mr10z",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
@@ -23,7 +22,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "2227mr10z",
-  "georss_polygon_s": "24.600 121.8333 24.600 121.8667 24.5667 121.8667 24.5667 121.8333 24.600 121.8333",
   "dc_publisher_s": "Army Map Service",
   "solr_year_i": "1944",
   "dct_spatial_sm": [
@@ -33,9 +31,9 @@
     "Taiwan"
   ],
   "layer_id_s": "2227mr10z",
-  "georss_box_s": "24.5667 121.8333 24.600 121.8667",
   "dc_title_s": "Suo, Formosa (Taiwan), Taihoku-Shu. A.M.S. L991.",
   "dct_issued_s": "1944",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

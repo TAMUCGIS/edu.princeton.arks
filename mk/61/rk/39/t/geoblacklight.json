@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1815",
-  "uuid": "http://arks.princeton.edu/ark:/88435/mk61rk39t",
   "dc_description_s": "Port Antonio, Jamaica",
-  "georss_box_s": "18.137722 -76.4923026 18.217722 -76.4123026",
   "layer_modified_dt": "2015-01-21T22:24:08Z",
   "dc_creator_sm": [
     "Seymour, Stephen",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-mk61rk39t",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/mk61rk39t/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/mk/61/rk/39/t/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "18.217722 -76.4923026 18.217722 -76.4123026 18.137722 -76.4123026 18.137722 -76.4923026 18.217722 -76.4923026",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1815"
@@ -26,5 +23,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Port Antonio (Jamaica)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

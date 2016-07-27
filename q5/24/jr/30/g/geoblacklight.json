@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1846",
-  "uuid": "http://arks.princeton.edu/ark:/88435/q524jr30g",
   "dc_description_s": "The harbor of Annapolis",
-  "georss_box_s": "38.9758954 -76.4816769 38.9759954 -76.4815769",
   "layer_modified_dt": "2015-01-21T22:24:28Z",
   "dc_creator_sm": [
     "Bache, A. D.",
@@ -18,12 +16,14 @@
   "layer_slug_s": "princeton-q524jr30g",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/q524jr30g/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/q5/24/jr/30/g/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "38.9759954 -76.4816769 38.9759954 -76.4815769 38.9758954 -76.4815769 38.9758954 -76.4816769 38.9759954 -76.4816769",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1846"
   ],
   "solr_geom": "ENVELOPE(-76.4816769, -76.4815769, 38.9759954, 38.9758954)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

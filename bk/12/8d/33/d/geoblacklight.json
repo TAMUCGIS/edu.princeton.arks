@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1844",
-  "uuid": "http://arks.princeton.edu/ark:/88435/bk128d33d",
   "dc_description_s": "Map of New-York Bay and Harbor and the environs",
-  "georss_box_s": "40.3166666667 -74.3 40.7666666667 -73.7333333333",
   "layer_modified_dt": "2015-01-19T22:37:08Z",
   "dc_creator_sm": [
     "Hassler, F. R.",
@@ -22,12 +20,14 @@
   "layer_slug_s": "princeton-bk128d33d",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/bk128d33d/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/bk/12/8d/33/d/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.7666666667 -74.3 40.7666666667 -73.7333333333 40.3166666667 -73.7333333333 40.3166666667 -74.3 40.7666666667 -74.3",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1844"
   ],
   "solr_geom": "ENVELOPE(-74.3, -73.7333333333, 40.7666666667, 40.3166666667)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

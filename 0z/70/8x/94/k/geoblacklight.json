@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(43.136136, 44.419094, 36.321416, 31.984311)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/0z708x94k/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/0z708x94k/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/0z708x94k/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/0z708x94k",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Transportation networks",
@@ -17,7 +16,6 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "0z708x94k",
-  "georss_polygon_s": "36.321416 43.136136 36.321416 44.419094 31.984311 44.419094 31.984311 43.136136 36.321416 43.136136",
   "dc_publisher_s": "LeadDog Consulting, LLC",
   "solr_year_i": "2006",
   "dct_spatial_sm": [
@@ -25,9 +23,9 @@
     "Mosul"
   ],
   "layer_id_s": "pulmap-restricted:0z708x94k",
-  "georss_box_s": "31.984311 43.136136 36.321416 44.419094",
   "dc_title_s": "Mosul airports",
   "layer_slug_s": "princeton-0z708x94k",
   "layer_geom_type_s": "Polygon",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

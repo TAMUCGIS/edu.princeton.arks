@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1696",
-  "uuid": "http://arks.princeton.edu/ark:/88435/0p096938b",
-  "dc_description_s": "Le comte\u0301 de Flandre divise\u0301 en ses chastellenies et balliages, &c. : le franc de Bruges et le pays de Waes",
-  "georss_box_s": "50.687381 2.5448549 51.5051145 5.9112019",
+  "dc_description_s": "Le comté de Flandre divisé en ses chastellenies et balliages, &c. : le franc de Bruges et le pays de Waes",
   "layer_modified_dt": "2015-01-21T22:24:16Z",
   "dc_creator_sm": [
     "Jaillot, Alexis Hubert,",
@@ -13,11 +11,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "0p096938b",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Le comte\u0301 de Flandre divise\u0301 en ses chastellenies et balliages, &c. : le franc de Bruges et le pays de Waes",
+  "dc_title_s": "Le comté de Flandre divisé en ses chastellenies et balliages, &c. : le franc de Bruges et le pays de Waes",
   "layer_slug_s": "princeton-0p096938b",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/0p096938b/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/0p/09/69/38/b/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.5051145 2.5448549 51.5051145 5.9112019 50.687381 5.9112019 50.687381 2.5448549 51.5051145 2.5448549",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1696"
@@ -27,5 +24,6 @@
   "dct_spatial_sm": [
     "Flanders (Belgium)",
     "Flanders (France)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

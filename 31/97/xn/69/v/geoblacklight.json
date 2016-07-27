@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(17.9284, 18.1553, 59.3841, 59.2823)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/3197xn69v\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/3197xn69v/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/3197xn69v",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -19,7 +18,6 @@
   "dc_creator_sm": "Stockholm Tourist Association",
   "dc_type_s": "Image",
   "dc_identifier_s": "3197xn69v",
-  "georss_polygon_s": "59.3841 17.9284 59.3841 18.1553 59.2823 18.1553 59.2823 17.9284 59.3841 17.9284",
   "dc_publisher_s": "Stockholm Tourist Association",
   "solr_year_i": "1966",
   "dct_spatial_sm": [
@@ -27,9 +25,9 @@
     "Sweden"
   ],
   "layer_id_s": "3197xn69v",
-  "georss_box_s": "59.2823 17.9284 59.3841 18.1553",
   "dc_title_s": "Stockholm and its environs",
   "layer_slug_s": "princeton-3197xn69v",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

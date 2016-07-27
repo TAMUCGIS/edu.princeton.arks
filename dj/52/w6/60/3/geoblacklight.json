@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1720",
-  "uuid": "http://arks.princeton.edu/ark:/88435/dj52w6603",
   "dc_description_s": "To the right honourable John Lord Sommers, Baron of Evesham in ye county of Worcester, president of her Majesty's most honourable Privy Council &c : this map of North America according to ye newest and most exact observations is most humbly dedicated",
-  "georss_box_s": "50.9999502 -109.0000502 51.0000502 -108.9999502",
   "layer_modified_dt": "2015-01-21T22:23:50Z",
   "dc_creator_sm": [
     "Lens, Bernard,",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-dj52w6603",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/dj52w6603/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/dj/52/w6/60/3/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.0000502 -109.0000502 51.0000502 -108.9999502 50.9999502 -108.9999502 50.9999502 -109.0000502 51.0000502 -109.0000502",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1720"
@@ -32,5 +29,6 @@
     "Veracruz (Veracruz-Llave, Mexico)",
     "Cartagena (Colombia)",
     "Acapulco (Mexico)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

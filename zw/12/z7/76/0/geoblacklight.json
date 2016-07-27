@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1575",
-  "uuid": "http://arks.princeton.edu/ark:/88435/zw12z7760",
   "dc_description_s": "Santander",
-  "georss_box_s": "43.436298 -3.8686632 43.4863908 -3.7536109",
   "layer_modified_dt": "2015-01-21T22:24:10Z",
   "dc_creator_sm": [
     "Braun, Georg,",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-zw12z7760",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/zw12z7760/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/zw/12/z7/76/0/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "43.4863908 -3.8686632 43.4863908 -3.7536109 43.436298 -3.7536109 43.436298 -3.8686632 43.4863908 -3.8686632",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1575"
@@ -26,5 +23,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Santander (Spain)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

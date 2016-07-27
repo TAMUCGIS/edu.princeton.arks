@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-124.4167, -114.1167, 42.0000, 32.5333)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/jq085m510/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/jq/08/5m/51/0/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/jq085m510/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/jq085m510",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Topographic map",
@@ -20,7 +19,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "jq085m510",
-  "georss_polygon_s": "42.0000 -124.4167 42.0000 -114.1167 32.5333 -114.1167 32.5333 -124.4167 42.0000 -124.4167",
   "solr_year_i": "1922",
   "dct_spatial_sm": [
     "California ",
@@ -28,9 +26,9 @@
     "United States"
   ],
   "layer_id_s": "jq085m510",
-  "georss_box_s": "32.5333 -124.4167 42.0000 -114.1167",
   "dc_title_s": "Fault map of the state of California, compiled from data assembled by the Seismological Society of America. Sheet 3",
   "dct_issued_s": "1922",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

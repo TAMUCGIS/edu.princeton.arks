@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1901",
-  "uuid": "http://arks.princeton.edu/ark:/88435/jd472z954",
   "dc_description_s": "Germany (western sheet)",
-  "georss_box_s": "47.2701114 5.8663153 55.099161 15.0419319",
   "layer_modified_dt": "2015-01-25T02:06:17Z",
   "layer_id_s": "jd472z954",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-jd472z954",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/jd472z954/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/jd/47/2z/95/4/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "55.099161 5.8663153 55.099161 15.0419319 47.2701114 15.0419319 47.2701114 5.8663153 55.099161 5.8663153",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1901"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Germany",
     "Germany"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

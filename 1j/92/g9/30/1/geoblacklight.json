@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1912",
-  "uuid": "http://arks.princeton.edu/ark:/88435/1j92g9301",
   "dc_description_s": "Carte geologique detaillee de la France [a 1/80 000]: Beauvais.",
-  "georss_box_s": "49.13770 1.89540 49.49750 2.77900",
   "layer_modified_dt": "2015-01-19T22:36:37Z",
   "dc_creator_sm": [
     "Thomas, H."
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-1j92g9301",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/1j92g9301/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/1j/92/g9/30/1/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "49.49750 1.89540 49.49750 2.77900 49.13770 2.77900 49.13770 1.89540 49.49750 1.89540",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1912"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "France"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

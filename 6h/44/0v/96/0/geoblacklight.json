@@ -1,18 +1,15 @@
 {
   "solr_year_i": "1789",
-  "uuid": "http://arks.princeton.edu/ark:/88435/6h440v960",
-  "dc_description_s": "Charte u\u0308ber die saemtlichen zum Westphaelischen Kreis geho\u0308rige Laender",
-  "georss_box_s": "51.2924164 6.3460009 54.1387271 11.598118",
+  "dc_description_s": "Charte über die saemtlichen zum Westphaelischen Kreis gehörige Laender",
   "layer_modified_dt": "2015-01-21T22:24:19Z",
   "layer_id_s": "6h440v960",
   "dc_type_s": "Image",
   "dc_identifier_s": "6h440v960",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Charte u\u0308ber die saemtlichen zum Westphaelischen Kreis geho\u0308rige Laender",
+  "dc_title_s": "Charte über die saemtlichen zum Westphaelischen Kreis gehörige Laender",
   "layer_slug_s": "princeton-6h440v960",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/6h440v960/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/6h/44/0v/96/0/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "54.1387271 6.3460009 54.1387271 11.598118 51.2924164 11.598118 51.2924164 6.3460009 54.1387271 6.3460009",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1789"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Lower Saxony (Germany)",
     "North Rhine-Westphalia (Germany)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

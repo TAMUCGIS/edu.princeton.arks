@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1642",
-  "uuid": "http://arks.princeton.edu/ark:/88435/rv042w38t",
   "dc_description_s": "Nova Belgica et Anglia Nova",
-  "georss_box_s": "40.950943 -73.727775 47.459686 -66.8850751",
   "layer_modified_dt": "2015-01-21T22:23:55Z",
   "dc_creator_sm": [
     "Blaeu, Joan,",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-rv042w38t",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/rv042w38t/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/rv/04/2w/38/t/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "47.459686 -73.727775 47.459686 -66.8850751 40.950943 -66.8850751 40.950943 -73.727775 47.459686 -73.727775",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1642"
@@ -27,5 +24,6 @@
   "dct_spatial_sm": [
     "New England",
     "Middle Atlantic States"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

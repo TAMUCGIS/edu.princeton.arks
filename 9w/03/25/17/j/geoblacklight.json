@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1773",
-  "uuid": "http://arks.princeton.edu/ark:/88435/9w032517j",
   "dc_description_s": "Carte des environs de Batavia = Kaart van de buitenstreeken van Batavia",
-  "georss_box_s": "-6.3353167 106.6671436 -6.0153167 106.9871436",
   "layer_modified_dt": "2015-01-21T22:23:54Z",
   "dc_creator_sm": [
     "Raynal,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-9w032517j",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/9w032517j/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/9w/03/25/17/j/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "-6.0153167 106.6671436 -6.0153167 106.9871436 -6.3353167 106.9871436 -6.3353167 106.6671436 -6.0153167 106.6671436",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1773"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Jakarta (Indonesia)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

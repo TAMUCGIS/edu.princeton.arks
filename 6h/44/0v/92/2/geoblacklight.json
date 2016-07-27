@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1815",
-  "uuid": "http://arks.princeton.edu/ark:/88435/6h440v922",
   "dc_description_s": "The anchorage at Blewfields, Jamaica",
-  "georss_box_s": "18.1563425 -78.0351269 18.1792686 -78.0227137",
   "layer_modified_dt": "2015-01-21T22:24:07Z",
   "dc_creator_sm": [
     "Buller, William.",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-6h440v922",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/6h440v922/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/6h/44/0v/92/2/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "18.1792686 -78.0351269 18.1792686 -78.0227137 18.1563425 -78.0227137 18.1563425 -78.0351269 18.1792686 -78.0351269",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1815"
@@ -26,5 +23,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Bluefields ( Jamaica)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1690",
-  "uuid": "http://arks.princeton.edu/ark:/88435/td96k503f",
   "dc_description_s": "Isola di Corfu posseduta dalla Serenissima Republica di Venetia /",
-  "georss_box_s": "39.3603116 19.6286537 39.8222353 20.1224732",
   "layer_modified_dt": "2015-01-21T22:24:24Z",
   "layer_id_s": "td96k503f",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-td96k503f",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/td96k503f/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/td/96/k5/03/f/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "39.8222353 19.6286537 39.8222353 20.1224732 39.3603116 20.1224732 39.3603116 19.6286537 39.8222353 19.6286537",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1690"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Corfu Island (Greece)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

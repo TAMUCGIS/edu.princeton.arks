@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1865",
-  "uuid": "http://arks.princeton.edu/ark:/88435/ff3657584",
   "dc_description_s": "County map of New Jersey",
-  "georss_box_s": "39.5 -75.5 41.0 -74.0",
   "layer_modified_dt": "2015-01-19T22:36:59Z",
   "layer_id_s": "ff3657584",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-ff3657584",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/ff3657584/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ff/36/57/58/4/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "41.0 -75.5 41.0 -74.0 39.5 -74.0 39.5 -75.5 41.0 -75.5",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1865"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "New Jersey",
     "New Jersey"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

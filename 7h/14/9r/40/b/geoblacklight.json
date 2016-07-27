@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(38.800, 48.5833, 37.400, 29.05)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/7h149r40b/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/7h/14/9r/40/b/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/7h149r40b/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/7h149r40b",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Physical geography",
@@ -22,15 +21,14 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "7h149r40b",
-  "georss_polygon_s": "37.400 38.800 37.400 48.5833 29.05 48.5833 29.05 38.800 37.400 38.800",
   "dc_publisher_s": " United States. Central Intelligence Agency. Cartography Center",
   "dct_spatial_sm": [
     "Iraq"
   ],
   "layer_id_s": "7h149r40b",
-  "georss_box_s": "29.05 38.800 37.400 48.5833",
   "dc_title_s": "Iraq country profile.(November 2003)",
   "dct_issued_s": "2003 (November)",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1951",
-  "uuid": "http://arks.princeton.edu/ark:/88435/5425kc50d",
   "dc_description_s": "Carte geologique detaillee de la France [a 1/80 000]: Chateaudun.",
-  "georss_box_s": "48.05840 1.03990 48.41820 1.90480",
   "layer_modified_dt": "2015-01-19T22:36:38Z",
   "dc_creator_sm": [
     "Raguin, E."
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-5425kc50d",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/5425kc50d/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/54/25/kc/50/d/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "48.41820 1.03990 48.41820 1.90480 48.05840 1.90480 48.05840 1.03990 48.41820 1.03990",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1951"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "France"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

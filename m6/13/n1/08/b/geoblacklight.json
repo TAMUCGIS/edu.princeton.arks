@@ -1,11 +1,9 @@
 {
   "solr_year_i": "1912",
-  "uuid": "http://arks.princeton.edu/ark:/88435/m613n108b",
   "dc_description_s": "Region entre Potsdam et l'Oder",
-  "georss_box_s": "52.3570365 13.2288599 52.6770365 13.5488599",
   "layer_modified_dt": "2015-01-21T22:24:20Z",
   "dc_creator_sm": [
-    "Reboul, Fre\u0301de\u0301ric,"
+    "Reboul, Frédéric,"
   ],
   "layer_id_s": "m613n108b",
   "dc_type_s": "Image",
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-m613n108b",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/m613n108b/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/m6/13/n1/08/b/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "52.6770365 13.2288599 52.6770365 13.5488599 52.3570365 13.5488599 52.3570365 13.2288599 52.6770365 13.2288599",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1912"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "Berlin (Germany)",
     "Brandenburg (Germany : Landkreis)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

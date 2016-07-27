@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1889",
-  "uuid": "http://arks.princeton.edu/ark:/88435/g158bk76b",
   "dc_description_s": "Spain and Portugal",
-  "georss_box_s": "36.0 -10.0 44.0 4.0",
   "layer_modified_dt": "2015-01-19T22:37:19Z",
   "layer_id_s": "g158bk76b",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-g158bk76b",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/g158bk76b/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/g1/58/bk/76/b/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "44.0 -10.0 44.0 4.0 36.0 4.0 36.0 -10.0 44.0 -10.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1889"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Portugal",
     "Spain"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1680",
-  "uuid": "http://arks.princeton.edu/ark:/88435/dn39x404h",
   "dc_description_s": "Isle et royaume de Candie",
-  "georss_box_s": "34.8009319 23.4739911 35.6956944 26.3524769",
   "layer_modified_dt": "2015-01-21T22:24:23Z",
   "dc_creator_sm": [
     "Cordier, Louis,",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-dn39x404h",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/dn39x404h/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/dn/39/x4/04/h/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "35.6956944 23.4739911 35.6956944 26.3524769 34.8009319 26.3524769 34.8009319 23.4739911 35.6956944 23.4739911",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1680"
@@ -27,5 +24,6 @@
   "dct_spatial_sm": [
     "Crete (Greece)",
     "Crete, Sea of (Greece)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

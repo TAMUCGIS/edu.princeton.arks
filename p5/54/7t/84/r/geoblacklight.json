@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1902",
-  "uuid": "http://arks.princeton.edu/ark:/88435/p5547t84r",
   "dc_description_s": "Iran & Turan",
-  "georss_box_s": "24.0 41.0 46.0 78.0",
   "layer_modified_dt": "2015-01-19T22:37:18Z",
   "dc_creator_sm": [
     "Habenicht, Hermann,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-p5547t84r",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/p5547t84r/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/p5/54/7t/84/r/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "46.0 41.0 46.0 78.0 24.0 78.0 24.0 41.0 46.0 41.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1902"
@@ -26,5 +23,6 @@
   "dct_spatial_sm": [
     "Asia, Central",
     "Iran"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

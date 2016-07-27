@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-179.988998, 179.996994, 85.213997, -86.905998)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/g445cf70n/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/g445cf70n/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/g445cf70n/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/g445cf70n",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "point",
@@ -35,16 +34,15 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "g445cf70n",
-  "georss_polygon_s": "85.213997 -179.988998 85.213997 179.996994 -86.905998 179.996994 -86.905998 -179.988998 85.213997 -179.988998",
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "solr_year_i": "1992",
   "dct_spatial_sm": [
     "World"
   ],
   "layer_id_s": "pulmap-restricted:g445cf70n",
-  "georss_box_s": "-86.905998 -179.988998 85.213997 179.996994",
   "dc_title_s": "World Gazetteer 2002",
   "layer_slug_s": "princeton-g445cf70n",
   "layer_geom_type_s": "Point",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

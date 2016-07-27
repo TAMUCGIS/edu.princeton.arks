@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1540",
-  "uuid": "http://arks.princeton.edu/ark:/88435/7w62fb59k",
   "dc_description_s": "Tabula Asiae X",
-  "georss_box_s": "20.3756582 88.0075306 26.6382534 92.6804979",
   "layer_modified_dt": "2015-01-21T22:23:59Z",
   "dc_creator_sm": [
     "Ptolemy,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-7w62fb59k",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/7w62fb59k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/7w/62/fb/59/k/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "26.6382534 88.0075306 26.6382534 92.6804979 20.3756582 92.6804979 20.3756582 88.0075306 26.6382534 88.0075306",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1540"
@@ -26,5 +23,6 @@
     "Bangladesh",
     "India",
     "India"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

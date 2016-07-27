@@ -1,11 +1,9 @@
 {
   "solr_year_i": "1705",
-  "uuid": "http://arks.princeton.edu/ark:/88435/6t053j496",
   "dc_description_s": "'T gebiedt van Guadalajara, Niew Mexico, en Californie, enz.",
-  "georss_box_s": "17.91000 -117.45000 32.87000 -96.93000",
   "layer_modified_dt": "2015-01-19T22:37:34Z",
   "dc_creator_sm": [
-    "La Croix, A. Phe\u0301rote\u0301e de,",
+    "La Croix, A. Phérotée de,",
     "Hasleton, Norris S.,"
   ],
   "layer_id_s": "6t053j496",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-6t053j496",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/6t053j496/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/6t/05/3j/49/6/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "32.87000 -117.45000 32.87000 -96.93000 17.91000 -96.93000 17.91000 -117.45000 32.87000 -117.45000",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1705"
@@ -26,5 +23,6 @@
   "dct_spatial_sm": [
     "California",
     "Mexico"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

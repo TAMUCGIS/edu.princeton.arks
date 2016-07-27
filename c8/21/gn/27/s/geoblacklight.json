@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1647",
-  "uuid": "http://arks.princeton.edu/ark:/88435/c821gn27s",
   "dc_description_s": "Suffolcia : vernacule Suffolke",
-  "georss_box_s": "51.9323088 0.3399748 52.5502218 1.7634774",
   "layer_modified_dt": "2015-01-25T02:06:16Z",
   "dc_creator_sm": [
     "Blaeu, Joan,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-c821gn27s",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/c821gn27s/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/c8/21/gn/27/s/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "52.5502218 0.3399748 52.5502218 1.7634774 51.9323088 1.7634774 51.9323088 0.3399748 52.5502218 0.3399748",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1647"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Suffolk (England)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

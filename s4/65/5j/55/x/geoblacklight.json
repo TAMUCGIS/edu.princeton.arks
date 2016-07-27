@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1848",
-  "uuid": "http://arks.princeton.edu/ark:/88435/s4655j55x",
   "dc_description_s": "Battles of Mexico : survey of the line of operations of the U.S. Army, under command of Major General Winfield Scott, on the 19th & 20th August & on the 8th, 12th & 13th September, 1847",
-  "georss_box_s": "19.2725301 -99.2932102 19.5925301 -98.9732102",
   "layer_modified_dt": "2015-01-21T22:23:53Z",
   "dc_creator_sm": [
     "Turnbull, Wm.",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-s4655j55x",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/s4655j55x/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/s4/65/5j/55/x/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "19.5925301 -99.2932102 19.5925301 -98.9732102 19.2725301 -98.9732102 19.2725301 -99.2932102 19.5925301 -99.2932102",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1848"
@@ -26,5 +23,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Mexico City (Mexico)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

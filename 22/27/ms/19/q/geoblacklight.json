@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1570",
-  "uuid": "http://arks.princeton.edu/ark:/88435/2227ms19q",
   "dc_description_s": "Thusciae descriptio",
-  "georss_box_s": "42.2384378 9.6867213 44.4726899 12.3713555",
   "layer_modified_dt": "2015-01-25T02:06:20Z",
   "dc_creator_sm": [
     "Ortelius, Abraham,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-2227ms19q",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/2227ms19q/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/22/27/ms/19/q/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "44.4726899 9.6867213 44.4726899 12.3713555 42.2384378 12.3713555 42.2384378 9.6867213 44.4726899 9.6867213",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1570"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Tuscany (Italy)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

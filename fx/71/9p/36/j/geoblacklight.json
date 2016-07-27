@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1884",
-  "uuid": "http://arks.princeton.edu/ark:/88435/fx719p36j",
   "dc_description_s": "Turkey in Europe, with Rumania, Servia, Montenegro, Bulgaria &c.",
-  "georss_box_s": "36.3854134 13.4285022 45.9089096 29.619427",
   "layer_modified_dt": "2015-01-21T22:23:49Z",
   "layer_id_s": "fx719p36j",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-fx719p36j",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/fx719p36j/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/fx/71/9p/36/j/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "45.9089096 13.4285022 45.9089096 29.619427 36.3854134 29.619427 36.3854134 13.4285022 45.9089096 13.4285022",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1884"
@@ -23,5 +20,6 @@
     "Balkan Peninsula",
     "Romania",
     "Turkey"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

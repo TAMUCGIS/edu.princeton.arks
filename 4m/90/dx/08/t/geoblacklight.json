@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(77.200, 77.2333, 28.6333, 28.600)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/4m90dx08t\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/4m90dx08t/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/4m90dx08t",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "City plan",
@@ -16,7 +15,6 @@
   "dc_creator_sm": "Survey of India",
   "dc_type_s": "Image",
   "dc_identifier_s": "4m90dx08t",
-  "georss_polygon_s": "28.6333 77.200 28.6333 77.2333 28.600 77.2333 28.600 77.200 28.6333 77.200",
   "dc_publisher_s": "Survey of India",
   "solr_year_i": "1957",
   "dct_spatial_sm": [
@@ -28,9 +26,9 @@
     "MAX  G7654.D5C2.1957.S9I5 sh. 13"
   ],
   "layer_id_s": "4m90dx08t",
-  "georss_box_s": "28.600 77.200 28.6333 77.2333",
   "dc_title_s": "Delhi contour survey. Sheet no. 13.",
   "layer_slug_s": "princeton-4m90dx08t",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(5.904498, 14.985178, 54.903584, 47.387378)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/4m90dx19r/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/4m90dx19r/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/4m90dx19r/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/4m90dx19r",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
@@ -21,16 +20,15 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "4m90dx19r",
-  "georss_polygon_s": "54.903584 5.904498 54.903584 14.985178 47.387378 14.985178 47.387378 5.904498 54.903584 5.904498",
   "dc_publisher_s": "Gfk MACON Company",
   "solr_year_i": "2006",
   "dct_spatial_sm": [
     "Germany"
   ],
   "layer_id_s": "pulmap-restricted:4m90dx19r",
-  "georss_box_s": "47.387378 5.904498 54.903584 14.985178",
   "dc_title_s": "Germany Major Roads, 2006",
   "layer_slug_s": "princeton-4m90dx19r",
   "layer_geom_type_s": "Line",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

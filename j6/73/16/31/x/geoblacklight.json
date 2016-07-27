@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1891",
-  "uuid": "http://arks.princeton.edu/ark:/88435/j6731631x",
   "dc_description_s": "A topographical map of the Central Highlands including all of Morris County west of Boonton and Sussex County south and east of Newton : from original surveys and levelings based on the triangulation of the U.S. Coast and Geodetic Survey /",
-  "georss_box_s": "40.65 -74.85 48.15 -74.4",
   "layer_modified_dt": "2015-01-23T17:48:40Z",
   "dc_creator_sm": [
     "Cook, George Hammell,",
@@ -17,12 +15,14 @@
   "layer_slug_s": "princeton-j6731631x",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/j6731631x/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/j6/73/16/31/x/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "48.15 -74.85 48.15 -74.4 40.65 -74.4 40.65 -74.85 48.15 -74.85",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1891"
   ],
   "solr_geom": "ENVELOPE(-74.85, -74.4, 48.15, 40.65)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

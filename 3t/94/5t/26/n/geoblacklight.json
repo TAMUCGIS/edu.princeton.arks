@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1575",
-  "uuid": "http://arks.princeton.edu/ark:/88435/3t945t26n",
   "dc_description_s": "Cantebrigia, opulentissimi Angli[a]e Regni, urbs celeberrimi nominis, ab Academi[a]e conditore Cantabro, cognomita : a Granta, fluuio vicino, Cairgrant, saxonib. Grauntecestre, et Grantebrige, iam olim nuncupata",
-  "georss_box_s": "52.1579417 0.0686389 52.2372296 0.184552",
   "layer_modified_dt": "2015-01-21T22:24:16Z",
   "dc_creator_sm": [
     "Braun, Georg,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-3t945t26n",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/3t945t26n/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/3t/94/5t/26/n/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "52.2372296 0.0686389 52.2372296 0.184552 52.1579417 0.184552 52.1579417 0.0686389 52.2372296 0.0686389",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1575"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Cambridge (England)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

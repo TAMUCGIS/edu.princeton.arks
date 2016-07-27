@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(16.567, 16.617, 41.217, 41.183)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/0c483m10k/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/0c/48/3m/10/k/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/0c483m10k/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/0c483m10k",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
@@ -23,7 +22,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "0c483m10k",
-  "georss_polygon_s": "41.217 16.567 41.217 16.617 41.183 16.617 41.183 16.567 41.217 16.567",
   "dc_publisher_s": "Army Map Service",
   "solr_year_i": "1943",
   "dct_spatial_sm": [
@@ -32,9 +30,9 @@
     "Italy"
   ],
   "layer_id_s": "0c483m10k",
-  "georss_box_s": "41.183 16.567 41.217 16.617",
   "dc_title_s": "Italy 1:10,000. Molfetta city plan. Provisional G.S.G.S. 4380.",
   "dct_issued_s": "1943",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

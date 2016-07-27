@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1850",
-  "uuid": "http://arks.princeton.edu/ark:/88435/xp68kj679",
   "dc_description_s": "Persia, Arabia &c.",
-  "georss_box_s": "12.0 32.0 38.0 73.0",
   "layer_modified_dt": "2015-01-19T22:37:18Z",
   "dc_creator_sm": [
     "Mitchell, S. Augustus"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-xp68kj679",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/xp68kj679/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/xp/68/kj/67/9/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "38.0 32.0 38.0 73.0 12.0 73.0 12.0 32.0 38.0 32.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1850"
@@ -26,5 +23,6 @@
     "Arab countries",
     "Arabian Peninsula",
     "Middle East"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

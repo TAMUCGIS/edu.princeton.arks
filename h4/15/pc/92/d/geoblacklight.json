@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1732",
-  "uuid": "http://arks.princeton.edu/ark:/88435/h415pc92d",
   "dc_description_s": "Rhodus",
-  "georss_box_s": "36.4128963 28.2054335 36.4582939 28.2407983",
   "layer_modified_dt": "2015-01-21T22:23:57Z",
   "layer_id_s": "h415pc92d",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-h415pc92d",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/h415pc92d/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/h4/15/pc/92/d/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "36.4582939 28.2054335 36.4582939 28.2407983 36.4128963 28.2407983 36.4128963 28.2054335 36.4582939 28.2054335",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1732"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Rhodes (Greece)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(11.1569, 11.4157, 47.5311, 47.3967)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/x346d575b\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/x346d575b/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/x346d575b",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Stadte-Verlag",
   "dc_type_s": "Image",
   "dc_identifier_s": "x346d575b",
-  "georss_polygon_s": "47.5311 11.1569 47.5311 11.4157 47.3967 11.4157 47.3967 11.1569 47.5311 11.1569",
   "dc_publisher_s": "Stadte-Verlag",
   "solr_year_i": "1969",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "West Germany"
   ],
   "layer_id_s": "x346d575b",
-  "georss_box_s": "47.3967 11.1569 47.5311 11.4157",
   "dc_title_s": "Ortsplan Mittenwald",
   "layer_slug_s": "princeton-x346d575b",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

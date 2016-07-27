@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1882",
-  "uuid": "http://arks.princeton.edu/ark:/88435/z890rw79v",
   "dc_description_s": "A topographical map of a part of northern New Jersey",
-  "georss_box_s": "40.4666666667 -74.55 40.9666666667 -73.8833333333",
   "layer_modified_dt": "2015-01-23T17:48:40Z",
   "dc_creator_sm": [
     "Howell, George W.,",
@@ -18,7 +16,6 @@
   "layer_slug_s": "princeton-z890rw79v",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/z890rw79v/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/z8/90/rw/79/v/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.9666666667 -74.55 40.9666666667 -73.8833333333 40.4666666667 -73.8833333333 40.4666666667 -74.55 40.9666666667 -74.55",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1882"
@@ -27,5 +24,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "New Jersey"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

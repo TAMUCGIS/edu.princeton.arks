@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1870",
-  "uuid": "http://arks.princeton.edu/ark:/88435/h989r5755",
   "dc_description_s": "Plan du Forum Romain selon la tradition et l'histoire",
-  "georss_box_s": "41.8911133197 12.4839760197 41.8938112803 12.4866739803",
   "layer_modified_dt": "2015-01-25T02:06:22Z",
   "layer_id_s": "h989r5755",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-h989r5755",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/h989r5755/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/h9/89/r5/75/5/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "41.8938112803 12.4839760197 41.8938112803 12.4866739803 41.8911133197 12.4866739803 41.8911133197 12.4839760197 41.8938112803 12.4839760197",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1870"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Roman Forum (Rome, Italy)",
     "Rome (Italy)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1807",
-  "uuid": "http://arks.princeton.edu/ark:/88435/7d278w56g",
   "dc_description_s": "A new map of Spain and Portugal divided into their respective kingdoms and provinces from the latest authorities /",
-  "georss_box_s": "36.0 -10.0 44.0 4.0",
   "layer_modified_dt": "2015-01-23T17:48:41Z",
   "dc_creator_sm": [
     "Cary, John,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-7d278w56g",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/7d278w56g/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/7d/27/8w/56/g/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "44.0 -10.0 44.0 4.0 36.0 4.0 36.0 -10.0 44.0 -10.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1807"
@@ -26,5 +23,6 @@
     "Iberian Peninsula",
     "Portugal",
     "Spain"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

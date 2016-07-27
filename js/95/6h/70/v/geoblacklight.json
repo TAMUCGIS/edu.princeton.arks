@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1855",
-  "uuid": "http://arks.princeton.edu/ark:/88435/js956h70v",
   "dc_description_s": "Colton's Turkey in Europe",
-  "georss_box_s": "36.3854134 13.4285022 45.9089096 29.619427",
   "layer_modified_dt": "2015-01-21T22:23:48Z",
   "layer_id_s": "js956h70v",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-js956h70v",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/js956h70v/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/js/95/6h/70/v/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "45.9089096 13.4285022 45.9089096 29.619427 36.3854134 29.619427 36.3854134 13.4285022 45.9089096 13.4285022",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1855"
@@ -23,5 +20,6 @@
     "Balkan Peninsula",
     "Crete (Greece)",
     "Turkey"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

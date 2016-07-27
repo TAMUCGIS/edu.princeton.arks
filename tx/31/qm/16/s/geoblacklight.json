@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1867",
-  "uuid": "http://arks.princeton.edu/ark:/88435/tx31qm16s",
   "dc_description_s": "Sketch map of north eastern India, with portions of Burmah & China to accompany the paper by Genl. Sir Arthur Cotton, R.E. /",
-  "georss_box_s": "21.54667 87.00000 30.46667 114.00000",
   "layer_modified_dt": "2015-01-19T22:37:21Z",
   "dc_creator_sm": [
     "Cotton, Arthur,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-tx31qm16s",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/tx31qm16s/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/tx/31/qm/16/s/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "30.46667 87.00000 30.46667 114.00000 21.54667 114.00000 21.54667 87.00000 30.46667 87.00000",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1867"
@@ -30,5 +27,6 @@
     "Burma",
     "Tibet (China)",
     "Sichuan Sheng (China)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

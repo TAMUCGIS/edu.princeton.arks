@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1753",
-  "uuid": "http://arks.princeton.edu/ark:/88435/bk128d38t",
   "dc_description_s": "Cumberland",
-  "georss_box_s": "53.0868348 -0.5351732 53.1068348 -0.5151732",
   "layer_modified_dt": "2015-01-21T22:24:18Z",
   "layer_id_s": "bk128d38t",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-bk128d38t",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/bk128d38t/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/bk/12/8d/38/t/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "53.1068348 -0.5351732 53.1068348 -0.5151732 53.0868348 -0.5151732 53.0868348 -0.5351732 53.1068348 -0.5351732",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1753"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Cumberland (England)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

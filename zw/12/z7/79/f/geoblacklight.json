@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1610",
-  "uuid": "http://arks.princeton.edu/ark:/88435/zw12z779f",
   "dc_description_s": "Breknoke, both shyre and towne described",
-  "georss_box_s": "51.6817371591 -4.0139965584 52.1526852893 -2.8694119082",
   "layer_modified_dt": "2015-01-25T02:06:16Z",
   "layer_id_s": "zw12z779f",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-zw12z779f",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/zw12z779f/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/zw/12/z7/79/f/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "52.1526852893 -4.0139965584 52.1526852893 -2.8694119082 51.6817371591 -2.8694119082 51.6817371591 -4.0139965584 52.1526852893 -4.0139965584",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1610"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Breconshire (Wales)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

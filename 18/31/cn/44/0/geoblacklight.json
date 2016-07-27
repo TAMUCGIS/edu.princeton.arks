@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1620",
-  "uuid": "http://arks.princeton.edu/ark:/88435/1831cn440",
   "dc_description_s": "Oxoniensis : comitatus vulgo Oxfordshyre qui pars olim Dobunorum",
-  "georss_box_s": "51.4594132 -1.7195007 52.1684702 -0.8700659",
   "layer_modified_dt": "2015-01-21T22:24:18Z",
   "dc_creator_sm": [
     "Bishop, George,",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-1831cn440",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/1831cn440/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/18/31/cn/44/0/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "52.1684702 -1.7195007 52.1684702 -0.8700659 51.4594132 -0.8700659 51.4594132 -1.7195007 52.1684702 -1.7195007",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1620"
@@ -26,5 +23,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Oxfordshire (England)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

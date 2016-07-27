@@ -1,12 +1,10 @@
 {
   "solr_year_i": "1540",
-  "uuid": "http://arks.princeton.edu/ark:/88435/x059c981n",
   "dc_description_s": "Tabula Europae VII",
-  "georss_box_s": "38.8590846 8.1308446 41.3131122 9.8293196",
   "layer_modified_dt": "2015-01-25T02:06:14Z",
   "dc_creator_sm": [
     "Petri, Heinrich,",
-    "Mu\u0308nster, Sebastian,",
+    "Münster, Sebastian,",
     "Ptolemy,"
   ],
   "layer_id_s": "x059c981n",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-x059c981n",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/x059c981n/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/x0/59/c9/81/n/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "41.3131122 8.1308446 41.3131122 9.8293196 38.8590846 9.8293196 38.8590846 8.1308446 41.3131122 8.1308446",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1540"
@@ -27,5 +24,6 @@
   "dct_spatial_sm": [
     "Sardinia (Italy)",
     "Sicily (Italy)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

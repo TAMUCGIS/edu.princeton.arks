@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(23.067, 23.2358, 53.1781, 53.0894)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/jm214q81k\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/jm214q81k/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/jm214q81k",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -19,7 +18,6 @@
   "dc_creator_sm": "Panstwowe Przedsiebiorstwo Wydawnictw Kartograficznych",
   "dc_type_s": "Image",
   "dc_identifier_s": "jm214q81k",
-  "georss_polygon_s": "53.1781 23.067 53.1781 23.2358 53.0894 23.2358 53.0894 23.067 53.1781 23.067",
   "dc_publisher_s": "Panstwowe Przedsiebiorstwo Wydawnictw Kartograficznych",
   "solr_year_i": "1975",
   "dct_spatial_sm": [
@@ -30,9 +28,9 @@
     "Bjelostock"
   ],
   "layer_id_s": "jm214q81k",
-  "georss_box_s": "53.0894 23.067 53.1781 23.2358",
   "dc_title_s": "Bialystok",
   "layer_slug_s": "princeton-jm214q81k",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

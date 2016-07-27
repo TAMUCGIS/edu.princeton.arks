@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1701",
-  "uuid": "http://arks.princeton.edu/ark:/88435/td96k434v",
-  "dc_description_s": "Regionum circum polarium Lapponi\u00e6, Islandi\u00e6 et Groenlandi\u00e6 nov\u00e6 et veteris nova descriptio geographica, 1701",
-  "georss_box_s": "51.175092 157.732108 83.9999979 65.6777839",
+  "dc_description_s": "Regionum circum polarium Lapponiæ, Islandiæ et Groenlandiæ novæ et veteris nova descriptio geographica, 1701",
   "layer_modified_dt": "2015-01-21T22:23:44Z",
   "dc_creator_sm": [
     "Scherer, Heinrich,"
@@ -11,11 +9,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "td96k434v",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Regionum circum polarium Lapponi\u00e6, Islandi\u00e6 et Groenlandi\u00e6 nov\u00e6 et veteris nova descriptio geographica, 1701",
+  "dc_title_s": "Regionum circum polarium Lapponiæ, Islandiæ et Groenlandiæ novæ et veteris nova descriptio geographica, 1701",
   "layer_slug_s": "princeton-td96k434v",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/td96k434v/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/td/96/k4/34/v/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "83.9999979 157.732108 83.9999979 65.6777839 51.175092 65.6777839 51.175092 157.732108 83.9999979 157.732108",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1701"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Arctic regions"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

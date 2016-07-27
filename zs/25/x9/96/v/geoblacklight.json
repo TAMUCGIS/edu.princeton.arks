@@ -1,10 +1,9 @@
 {
-  "dc_description_s": "This is a city map of M\u00fcnchen, Germany, shown at a 1:20,000 scale. This city map was created by JRO-Verlag/Ernst Kremling.",
+  "dc_description_s": "This is a city map of München, Germany, shown at a 1:20,000 scale. This city map was created by JRO-Verlag/Ernst Kremling.",
   "layer_modified_dt": "2015-01-11T18:24:43Z",
   "solr_geom": "ENVELOPE(11.3549, 11.7271, 48.2402, 48.0726)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/zs25x996v\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/zs25x996v/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/zs25x996v",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,11 +17,10 @@
   "dc_creator_sm": "JRO-Verlag/Ernst Kremling.",
   "dc_type_s": "Image",
   "dc_identifier_s": "zs25x996v",
-  "georss_polygon_s": "48.2402 11.3549 48.2402 11.7271 48.0726 11.7271 48.0726 11.3549 48.2402 11.3549",
   "dc_publisher_s": "JRO-Verlag",
   "solr_year_i": "1958",
   "dct_spatial_sm": [
-    "M\u00fcnchen",
+    "München",
     "Germany",
     "Bundesrepublik Deutschland",
     "Federal Republic of Germany",
@@ -30,9 +28,9 @@
     "Munich"
   ],
   "layer_id_s": "zs25x996v",
-  "georss_box_s": "48.0726 11.3549 48.2402 11.7271",
-  "dc_title_s": "JRO-Stadtplan M\u00fcnchen mit Sehensw\u00fcrdigkeiten.",
+  "dc_title_s": "JRO-Stadtplan München mit Sehenswürdigkeiten.",
   "layer_slug_s": "princeton-zs25x996v",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

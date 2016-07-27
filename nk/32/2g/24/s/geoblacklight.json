@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1781",
-  "uuid": "http://arks.princeton.edu/ark:/88435/nk322g24s",
   "dc_description_s": "A plan of the cities of London and Westminster, with the Borough of Southwark",
-  "georss_box_s": "51.2867602 -0.510375 51.6918741 0.3340155",
   "layer_modified_dt": "2015-01-21T22:23:50Z",
   "dc_creator_sm": [
     "Jefferys, Thomas,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-nk322g24s",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/nk322g24s/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/nk/32/2g/24/s/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.6918741 -0.510375 51.6918741 0.3340155 51.2867602 0.3340155 51.2867602 -0.510375 51.6918741 -0.510375",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1781"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "London (England)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

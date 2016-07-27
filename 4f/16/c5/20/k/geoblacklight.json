@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1784",
-  "uuid": "http://arks.princeton.edu/ark:/88435/4f16c520k",
   "dc_description_s": "A Chart of Capt'n Carteret's discoveries at New Britain, with part of Capt'n Cook's passage thro Endeavour Streights, & of Capt'n Dampier's tract & discoveries in 1699, & 1700, at New Guinea & New Britain",
-  "georss_box_s": "-54.8337658 110.9510339 20.6584862 -124.5410156",
   "layer_modified_dt": "2015-01-21T22:23:58Z",
   "dc_creator_sm": [
     "Hogg, Alexander,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-4f16c520k",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/4f16c520k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/4f/16/c5/20/k/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "20.6584862 110.9510339 20.6584862 -124.5410156 -54.8337658 -124.5410156 -54.8337658 110.9510339 20.6584862 110.9510339",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1784"
@@ -26,5 +23,6 @@
   "dct_spatial_sm": [
     "Oceania",
     "Papua New Guinea"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1805",
-  "uuid": "http://arks.princeton.edu/ark:/88435/vx021h59v",
   "dc_description_s": "A map of Monmouthshire : from the best authorities",
-  "georss_box_s": "51.5172084 -3.1573444 51.9831411 -2.6498625",
   "layer_modified_dt": "2015-01-21T22:24:17Z",
   "dc_creator_sm": [
     "Stockdale, John,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-vx021h59v",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/vx021h59v/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/vx/02/1h/59/v/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.9831411 -3.1573444 51.9831411 -2.6498625 51.5172084 -2.6498625 51.5172084 -3.1573444 51.9831411 -3.1573444",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1805"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Monmouthshire (Wales)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

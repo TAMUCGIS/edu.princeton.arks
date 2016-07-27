@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1683",
-  "uuid": "http://arks.princeton.edu/ark:/88435/n296x1569",
   "dc_description_s": "Isle de Metelin",
-  "georss_box_s": "38.8874811 25.8142123 39.5274811 26.4542123",
   "layer_modified_dt": "2015-01-21T22:24:03Z",
   "dc_creator_sm": [
     "Manesson-Mallet, Allain,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-n296x1569",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/n296x1569/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/n2/96/x1/56/9/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "39.5274811 25.8142123 39.5274811 26.4542123 38.8874811 26.4542123 38.8874811 25.8142123 39.5274811 25.8142123",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1683"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Lesbos (Island (Greece)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

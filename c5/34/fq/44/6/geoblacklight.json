@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(12.89, 13.12, 55.66, 55.54)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/c534fq446\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/c534fq446/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/c534fq446",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Sydvenska DaGBlet Snallposten",
   "dc_type_s": "Image",
   "dc_identifier_s": "c534fq446",
-  "georss_polygon_s": "55.66 12.89 55.66 13.12 55.54 13.12 55.54 12.89 55.66 12.89",
   "dc_publisher_s": "Sydvenska DaGBlet Snallposten",
   "solr_year_i": "1959",
   "dct_spatial_sm": [
@@ -26,9 +24,9 @@
     "Sweden"
   ],
   "layer_id_s": "c534fq446",
-  "georss_box_s": "55.54 12.89 55.66 13.12",
   "dc_title_s": "SDS:s karta over Malmo med gaturegister buss- o sparvagslinjer",
   "layer_slug_s": "princeton-c534fq446",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

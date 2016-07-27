@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(7.3662, 7.4936, 46.9889, 46.9211)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/gb19f7307\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/gb19f7307/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/gb19f7307",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Verlag Hallwag",
   "dc_type_s": "Image",
   "dc_identifier_s": "gb19f7307",
-  "georss_polygon_s": "46.9889 7.3662 46.9889 7.4936 46.9211 7.4936 46.9211 7.3662 46.9889 7.3662",
   "dc_publisher_s": "Verlag Hallwag",
   "solr_year_i": "1971",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "Berne"
   ],
   "layer_id_s": "gb19f7307",
-  "georss_box_s": "46.9211 7.3662 46.9889 7.4936",
   "dc_title_s": "Stadtplan Bern und umgebung",
   "layer_slug_s": "princeton-gb19f7307",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

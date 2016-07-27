@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1817",
-  "uuid": "http://arks.princeton.edu/ark:/88435/8049g7583",
   "dc_description_s": "Map to illustrate the travels of Elizabeth in Siberia",
-  "georss_box_s": "42.2876587 57.1300707 81.2663089 -168.9996789",
   "layer_modified_dt": "2015-01-21T22:24:28Z",
   "dc_creator_sm": [
     "Cottin,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-8049g7583",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/8049g7583/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/80/49/g7/58/3/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "81.2663089 57.1300707 81.2663089 -168.9996789 42.2876587 -168.9996789 42.2876587 57.1300707 81.2663089 57.1300707",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1817"
@@ -26,5 +23,6 @@
   "dct_spatial_sm": [
     "Siberia (Russia)",
     "China"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

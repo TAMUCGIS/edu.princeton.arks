@@ -1,12 +1,10 @@
 {
   "solr_year_i": "1522",
-  "uuid": "http://arks.princeton.edu/ark:/88435/2z10ws70j",
   "dc_description_s": "Tabula I Euro.",
-  "georss_box_s": "49.674 -14.0155169 61.061 2.0919117",
   "layer_modified_dt": "2015-01-21T22:24:15Z",
   "dc_creator_sm": [
     "Ptolemy,",
-    "Gru\u0308ninger, Johann,",
+    "Grüninger, Johann,",
     "Haselton, Norris S.,"
   ],
   "layer_id_s": "2z10ws70j",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-2z10ws70j",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/2z10ws70j/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/2z/10/ws/70/j/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "61.061 -14.0155169 61.061 2.0919117 49.674 2.0919117 49.674 -14.0155169 61.061 -14.0155169",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1522"
@@ -27,5 +24,6 @@
   "dct_spatial_sm": [
     "Great Britain",
     "Ireland"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

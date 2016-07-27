@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1849",
-  "uuid": "http://arks.princeton.edu/ark:/88435/x920g038n",
-  "dc_description_s": "Plan du mouillage de St. Benoit (I\u0302le de la Re\u0301union)",
-  "georss_box_s": "-21.1723028 55.4951426 -21.0049815 55.7673701",
+  "dc_description_s": "Plan du mouillage de St. Benoit (Île de la Réunion)",
   "layer_modified_dt": "2015-01-21T22:24:26Z",
   "dc_creator_sm": [
     "Blanc, M. R. le.",
@@ -13,11 +11,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "x920g038n",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Plan du mouillage de St. Benoit (I\u0302le de la Re\u0301union)",
+  "dc_title_s": "Plan du mouillage de St. Benoit (Île de la Réunion)",
   "layer_slug_s": "princeton-x920g038n",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/x920g038n/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/x9/20/g0/38/n/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "-21.0049815 55.4951426 -21.0049815 55.7673701 -21.1723028 55.7673701 -21.1723028 55.4951426 -21.0049815 55.4951426",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1849"
@@ -25,6 +22,7 @@
   "solr_geom": "ENVELOPE(55.4951426, 55.7673701, -21.0049815, -21.1723028)",
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
-    "Saint-Benoi\u0302t (Re\u0301union)"
-  ]
+    "Saint-Benoît (Réunion)"
+  ],
+  "geoblacklight_version": "1.0"
 }

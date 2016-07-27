@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1911",
-  "uuid": "http://arks.princeton.edu/ark:/88435/rn3013210",
   "dc_description_s": "De nederzetting aan de Liesbeek in het begin van 1661",
-  "georss_box_s": "-46.9813794 16.45194 -22.12503 38.0037335",
   "layer_modified_dt": "2015-01-21T22:23:43Z",
   "dc_creator_sm": [
     "Botha, C. Graham"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-rn3013210",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/rn3013210/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/rn/30/13/21/0/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "-22.12503 16.45194 -22.12503 38.0037335 -46.9813794 38.0037335 -46.9813794 16.45194 -22.12503 16.45194",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1911"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "South Africa"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

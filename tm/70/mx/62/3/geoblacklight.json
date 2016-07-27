@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1819",
-  "uuid": "http://arks.princeton.edu/ark:/88435/tm70mx623",
   "dc_description_s": "A new and correct map of the United States, including great portions of Missouri Territory, Upper & Lower Canada, Nova Scotia, New Brunswick, the Floridas, Spanish Provinces &c.",
-  "georss_box_s": "23.0 -110.0 51.0 -60.0",
   "layer_modified_dt": "2015-01-19T22:37:15Z",
   "dc_creator_sm": [
     "Charles, Henry."
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-tm70mx623",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/tm70mx623/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/tm/70/mx/62/3/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.0 -110.0 51.0 -60.0 23.0 -60.0 23.0 -110.0 51.0 -110.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1819"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Canada, Eastern"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1849",
-  "uuid": "http://arks.princeton.edu/ark:/88435/pn89d914t",
   "dc_description_s": "Australien (Neu Holland, Australland) im Maasstabe von 1:14400000 d.n.G.",
-  "georss_box_s": "-55.3228174 72.2460938 -9.190427 168.2249543",
   "layer_modified_dt": "2015-01-25T02:06:23Z",
   "dc_creator_sm": [
     "Bauerkeller, Georg,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-pn89d914t",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/pn89d914t/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/pn/89/d9/14/t/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "-9.190427 72.2460938 -9.190427 168.2249543 -55.3228174 168.2249543 -55.3228174 72.2460938 -9.190427 72.2460938",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1849"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "Australia",
     "New Zealand"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

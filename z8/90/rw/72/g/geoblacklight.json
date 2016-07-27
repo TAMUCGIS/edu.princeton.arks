@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1884",
-  "uuid": "http://arks.princeton.edu/ark:/88435/z890rw72g",
   "dc_description_s": "Delaware, Maryland, Virginia and West Virginia",
-  "georss_box_s": "37.0 -83.0 40.0 -75.0",
   "layer_modified_dt": "2015-01-19T22:37:23Z",
   "layer_id_s": "z890rw72g",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-z890rw72g",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/z890rw72g/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/z8/90/rw/72/g/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.0 -83.0 40.0 -75.0 37.0 -75.0 37.0 -83.0 40.0 -83.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1884"
@@ -25,5 +22,6 @@
     "Middle Atlantic States",
     "Virginia",
     "West Virginia"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

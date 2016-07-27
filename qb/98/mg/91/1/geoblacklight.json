@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(22, 30, 46, 40)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/qb98mg911/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/qb/98/mg/91/1/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/qb98mg911/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/qb98mg911",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
@@ -19,7 +18,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "qb98mg911",
-  "georss_polygon_s": "46 22 46 30 40 30 40 22 46 22",
   "dc_publisher_s": "Central Intelligence Agency",
   "solr_year_i": "1994",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "Europe"
   ],
   "layer_id_s": "qb98mg911",
-  "georss_box_s": "40 22 46 30",
   "dc_title_s": "Bulgaria, 1994 (with relief)",
   "dct_issued_s": "1994",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

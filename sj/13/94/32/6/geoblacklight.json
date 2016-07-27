@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1917",
-  "uuid": "http://arks.princeton.edu/ark:/88435/sj1394326",
   "dc_description_s": "Map showing Great Northern Railway system ; Chicago, Burlington & Quincy R.R. ; Spokane, Portland & Seattle Railway ; Spokane & Inland Empire Railroad ; Colorado & Southern Railway lines",
-  "georss_box_s": "25.8371638 -125.2784586 50.3243423493 -103.967023275",
   "layer_modified_dt": "2015-01-21T22:23:58Z",
   "layer_id_s": "sj1394326",
   "dc_type_s": "Image",
@@ -12,12 +10,14 @@
   "layer_slug_s": "princeton-sj1394326",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/sj1394326/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/sj/13/94/32/6/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "50.3243423493 -125.2784586 50.3243423493 -103.967023275 25.8371638 -103.967023275 25.8371638 -125.2784586 50.3243423493 -125.2784586",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1917"
   ],
   "solr_geom": "ENVELOPE(-125.2784586, -103.967023275, 50.3243423493, 25.8371638)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

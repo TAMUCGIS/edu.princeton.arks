@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1893",
-  "uuid": "http://arks.princeton.edu/ark:/88435/fx719p30n",
   "dc_description_s": "Massachusetts: Abington sheet",
-  "georss_box_s": "42.00000 -71.00000 42.25000 -70.75000",
   "layer_modified_dt": "2015-01-19T22:36:39Z",
   "dc_creator_sm": [
     "Bodfish, Summer H."
@@ -15,12 +13,14 @@
   "layer_slug_s": "princeton-fx719p30n",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/fx719p30n/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/fx/71/9p/30/n/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "42.25000 -71.00000 42.25000 -70.75000 42.00000 -70.75000 42.00000 -71.00000 42.25000 -71.00000",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1893"
   ],
   "solr_geom": "ENVELOPE(-71.00000, -70.75000, 42.25000, 42.00000)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

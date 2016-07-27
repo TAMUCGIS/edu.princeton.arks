@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1863",
-  "uuid": "http://arks.princeton.edu/ark:/88435/bg257g913",
   "dc_description_s": "Map of public surveys in Colorado territory : to accompany a report of the Surveyor General /",
-  "georss_box_s": "36.992426 -109.060256 41.00236 -102.0415849",
   "layer_modified_dt": "2015-01-21T22:23:46Z",
   "layer_id_s": "bg257g913",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-bg257g913",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/bg257g913/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/bg/25/7g/91/3/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "41.00236 -109.060256 41.00236 -102.0415849 36.992426 -102.0415849 36.992426 -109.060256 41.00236 -109.060256",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1863"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Colorado"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

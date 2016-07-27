@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(15.95, 16.04, 59.53, 59.49)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/xk81jm960\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/xk81jm960/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/xk81jm960",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Generalstabens litografiska anstalt",
   "dc_type_s": "Image",
   "dc_identifier_s": "xk81jm960",
-  "georss_polygon_s": "59.53 15.95 59.53 16.04 59.49 16.04 59.49 15.95 59.53 15.95",
   "dc_publisher_s": "Generalstabens litografiska anstalt",
   "solr_year_i": "1960",
   "dct_spatial_sm": [
@@ -26,9 +24,9 @@
     "Sweden"
   ],
   "layer_id_s": "xk81jm960",
-  "georss_box_s": "59.49 15.95 59.53 16.04",
   "dc_title_s": "Karta over Koping, upprattad 1959",
   "layer_slug_s": "princeton-xk81jm960",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

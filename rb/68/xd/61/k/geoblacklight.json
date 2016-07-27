@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(43.093646, 44.424534, 36.382190, 31.974927)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/rb68xd61k/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/rb68xd61k/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/rb68xd61k/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/rb68xd61k",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Inland water resources"
@@ -16,7 +15,6 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "rb68xd61k",
-  "georss_polygon_s": "36.382190 43.093646 36.382190 44.424534 31.974927 44.424534 31.974927 43.093646 36.382190 43.093646",
   "dc_publisher_s": "LeadDog Consulting, LLC",
   "solr_year_i": "2006",
   "dct_spatial_sm": [
@@ -24,9 +22,9 @@
     "Iraq"
   ],
   "layer_id_s": "pulmap-restricted:rb68xd61k",
-  "georss_box_s": "31.974927 43.093646 36.382190 44.424534",
   "dc_title_s": "Mosul Linear Water",
   "layer_slug_s": "princeton-rb68xd61k",
   "layer_geom_type_s": "Line",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

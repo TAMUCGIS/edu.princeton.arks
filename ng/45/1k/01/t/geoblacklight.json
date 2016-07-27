@@ -1,8 +1,6 @@
 {
   "layer_modified_dt": "2014-12-19T16:18:33Z",
-  "uuid": "http://arks.princeton.edu/ark:/88435/ng451k01t",
   "dc_description_s": "Points representing jewish temples in Cairo.",
-  "georss_box_s": "29.958416 31.237018 30.091763 31.324259",
   "layer_slug_s": "princeton-ng451k01t",
   "dct_spatial_sm": [
     "Egypt",
@@ -12,7 +10,6 @@
     "Globe Telecom"
   ],
   "layer_id_s": "pulmap-restricted:ng451k01t",
-  "georss_polygon_s": "30.091763 31.237018 30.091763 31.324259 29.958416 31.324259 29.958416 31.237018 30.091763 31.237018",
   "dc_type_s": "Dataset",
   "dc_identifier_s": "ng451k01t",
   "dct_provenance_s": "Princeton",
@@ -32,5 +29,6 @@
   "layer_geom_type_s": "Point",
   "solr_geom": "ENVELOPE(31.237018, 31.324259, 30.091763, 29.958416)",
   "dc_rights_s": "Restricted",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

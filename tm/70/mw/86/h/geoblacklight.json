@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(7.7934, 7.8827, 47.6756, 47.6320)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/tm70mw86h\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/tm70mw86h/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/tm70mw86h",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Stadte-Verlag",
   "dc_type_s": "Image",
   "dc_identifier_s": "tm70mw86h",
-  "georss_polygon_s": "47.6756 7.7934 47.6756 7.8827 47.6320 7.8827 47.6320 7.7934 47.6756 7.7934",
   "dc_publisher_s": "Stadte-Verlag",
   "solr_year_i": "1968",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "West Germany"
   ],
   "layer_id_s": "tm70mw86h",
-  "georss_box_s": "47.6320 7.7934 47.6756 7.8827",
   "dc_title_s": "Stadtplan Schopfheim",
   "layer_slug_s": "princeton-tm70mw86h",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

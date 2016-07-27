@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(18.9182, 19.3412, 47.6108, 47.3695)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/sj139367j\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/sj139367j/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/sj139367j",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -19,16 +18,15 @@
   "dc_creator_sm": "Budapest Municipal Information Office/ Szekesfovaros Hazinyomdaja",
   "dc_type_s": "Image",
   "dc_identifier_s": "sj139367j",
-  "georss_polygon_s": "47.6108 18.9182 47.6108 19.3412 47.3695 19.3412 47.3695 18.9182 47.6108 18.9182",
   "dc_publisher_s": "Budapest Municipal Information Office/ Szekesfovaros Hazinyomdaja",
   "dct_spatial_sm": [
     "Budapest",
     "Hungary"
   ],
   "layer_id_s": "sj139367j",
-  "georss_box_s": "47.3695 18.9182 47.6108 19.3412",
   "dc_title_s": "Plan of Budapest, capital of Hungary",
   "layer_slug_s": "princeton-sj139367j",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

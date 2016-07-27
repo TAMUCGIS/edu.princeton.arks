@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1874",
-  "uuid": "http://arks.princeton.edu/ark:/88435/qr46r3289",
-  "dc_description_s": "\u00c6gyptus",
-  "georss_box_s": "22.0 27.0 32.0 36.0",
+  "dc_description_s": "Ægyptus",
   "layer_modified_dt": "2015-01-19T22:37:18Z",
   "dc_creator_sm": [
     "Smith, William,",
@@ -12,11 +10,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "qr46r3289",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "\u00c6gyptus",
+  "dc_title_s": "Ægyptus",
   "layer_slug_s": "princeton-qr46r3289",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/qr46r3289/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/qr/46/r3/28/9/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "32.0 27.0 32.0 36.0 22.0 36.0 22.0 27.0 32.0 27.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1874"
@@ -26,5 +23,6 @@
   "dct_spatial_sm": [
     "Egypt",
     "Ethiopia"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(130.0333, 130.100, 32.8667, 32.8167)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/02870x37v/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/02/87/0x/37/v/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/02870x37v/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/02870x37v",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
@@ -23,7 +22,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "02870x37v",
-  "georss_polygon_s": "32.8667 130.0333 32.8667 130.100 32.8167 130.100 32.8167 130.0333 32.8667 130.0333",
   "dc_publisher_s": "Army Map Service",
   "solr_year_i": "1946",
   "dct_spatial_sm": [
@@ -34,9 +32,9 @@
     "Japan"
   ],
   "layer_id_s": "02870x37v",
-  "georss_box_s": "32.8167 130.0333 32.8667 130.100",
   "dc_title_s": "Isahaya, Japan: Nagasaki-ken, Kyushu. A.M.S. L902. ",
   "dct_issued_s": "1946",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

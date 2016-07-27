@@ -1,18 +1,15 @@
 {
   "solr_year_i": "1806",
-  "uuid": "http://arks.princeton.edu/ark:/88435/4j03d1491",
-  "dc_description_s": "Liby\u00e6, vel Afric\u00e6, ora borealis",
-  "georss_box_s": "19.5008138 9.391081 33.3512055 25.3541226",
+  "dc_description_s": "Libyæ, vel Africæ, ora borealis",
   "layer_modified_dt": "2015-01-21T22:23:45Z",
   "layer_id_s": "4j03d1491",
   "dc_type_s": "Image",
   "dc_identifier_s": "4j03d1491",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Liby\u00e6, vel Afric\u00e6, ora borealis",
+  "dc_title_s": "Libyæ, vel Africæ, ora borealis",
   "layer_slug_s": "princeton-4j03d1491",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/4j03d1491/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/4j/03/d1/49/1/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "33.3512055 9.391081 33.3512055 25.3541226 19.5008138 25.3541226 19.5008138 9.391081 33.3512055 9.391081",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1806"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Libya"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

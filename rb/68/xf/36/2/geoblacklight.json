@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1825",
-  "uuid": "http://arks.princeton.edu/ark:/88435/rb68xf362",
   "dc_description_s": "Mexico and internal provinces Prepared from Humboldt's map & other documents /",
-  "georss_box_s": "15.0 -115.0 41.0 -86.0",
   "layer_modified_dt": "2015-01-19T22:37:35Z",
   "dc_creator_sm": [
     "Cooper, John C.,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-rb68xf362",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/rb68xf362/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/rb/68/xf/36/2/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "41.0 -115.0 41.0 -86.0 15.0 -86.0 15.0 -115.0 41.0 -115.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1825"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "Mexico",
     "Southwestern States"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(11.98, 11.99, 43.28, 43.27)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/qv33rz21r\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/qv33rz21r/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/qv33rz21r",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Great Britain War Office, General Staff, Geographical Section",
   "dc_type_s": "Image",
   "dc_identifier_s": "qv33rz21r",
-  "georss_polygon_s": "43.28 11.98 43.28 11.99 43.27 11.99 43.27 11.98 43.28 11.98",
   "dc_publisher_s": "Great Britain War Office, General Staff, Geographical Section",
   "solr_year_i": "1943",
   "dct_spatial_sm": [
@@ -27,9 +25,9 @@
     "Cortona Arezzo"
   ],
   "layer_id_s": "qv33rz21r",
-  "georss_box_s": "43.27 11.98 43.28 11.99",
   "dc_title_s": "Cortona",
   "layer_slug_s": "princeton-qv33rz21r",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

@@ -1,12 +1,10 @@
 {
   "solr_year_i": "1756",
-  "uuid": "http://arks.princeton.edu/ark:/88435/8c97ks61t",
   "dc_description_s": "Plan topo-hydrographique de la Baye de Gibraltar",
-  "georss_box_s": "36.065225 -5.4472633 36.1813918 -5.3467121",
   "layer_modified_dt": "2015-01-21T22:23:55Z",
   "dc_creator_sm": [
     "Renau,",
-    "Lattre\u0301, Jean,"
+    "Lattré, Jean,"
   ],
   "layer_id_s": "8c97ks61t",
   "dc_type_s": "Image",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-8c97ks61t",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/8c97ks61t/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/8c/97/ks/61/t/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "36.1813918 -5.4472633 36.1813918 -5.3467121 36.065225 -5.3467121 36.065225 -5.4472633 36.1813918 -5.4472633",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1756"
@@ -26,5 +23,6 @@
   "dct_spatial_sm": [
     "Gibraltar, Bay of (Spain)",
     "Gibraltar, Bay of (Spain)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

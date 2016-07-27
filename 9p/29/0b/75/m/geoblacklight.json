@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-75.5569, -75.3967, 39.6226, 39.4226)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/9p290b75m/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/9p/29/0b/75/m/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/9p290b75m/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/9p290b75m",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Marsh",
@@ -17,7 +16,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "9p290b75m",
-  "georss_polygon_s": "39.6226 -75.5569 39.6226 -75.3967 39.4226 -75.3967 39.4226 -75.5569 39.6226 -75.5569",
   "dc_publisher_s": "New Jersey Geological Survey",
   "solr_year_i": "1869",
   "dct_spatial_sm": [
@@ -25,9 +23,9 @@
     "Salem County"
   ],
   "layer_id_s": "9p290b75m",
-  "georss_box_s": "39.4226 -75.5569 39.6226 -75.3967",
   "dc_title_s": "Map of the marshes on the Delaware in Salem County, N.J.",
   "dct_issued_s": "1869",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

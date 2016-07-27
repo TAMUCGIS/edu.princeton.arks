@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-74.122, -74.031, 40.853, 40.789)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/fn107046j/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/fn/10/70/46/j/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/fn107046j/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/fn107046j",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "fn107046j",
-  "georss_polygon_s": "40.853 -74.122 40.853 -74.031 40.789 -74.031 40.789 -74.122 40.853 -74.122",
   "dc_publisher_s": "Sanborn Map Company",
   "solr_year_i": "1917",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "United States"
   ],
   "layer_id_s": "fn107046j",
-  "georss_box_s": "40.789 -74.122 40.853 -74.031",
   "dc_title_s": "E. Rutherford & Carlstadt (Sheet 53) ",
   "dct_issued_s": "1917",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

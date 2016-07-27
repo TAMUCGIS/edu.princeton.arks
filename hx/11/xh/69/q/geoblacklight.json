@@ -1,11 +1,9 @@
 {
   "solr_year_i": "1838",
-  "uuid": "http://arks.princeton.edu/ark:/88435/hx11xh69q",
   "dc_description_s": "Hydrographical basin of the upper Mississippi River : from astronomical and barometrical observations, surveys and information",
-  "georss_box_s": "38.3 -101.166666667 48.75 -88.6666666667",
   "layer_modified_dt": "2015-01-19T22:37:13Z",
   "dc_creator_sm": [
-    "Fre\u0301mont, John Charles,",
+    "Frémont, John Charles,",
     "Abert, John James,",
     "Emory, William H.",
     "Fox, N. B.,"
@@ -18,7 +16,6 @@
   "layer_slug_s": "princeton-hx11xh69q",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/hx11xh69q/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/hx/11/xh/69/q/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "48.75 -101.166666667 48.75 -88.6666666667 38.3 -88.6666666667 38.3 -101.166666667 48.75 -101.166666667",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1838"
@@ -28,5 +25,6 @@
   "dct_spatial_sm": [
     "Mississippi River Region",
     "Mississippi River Watershed"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

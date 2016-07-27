@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1889",
-  "uuid": "http://arks.princeton.edu/ark:/88435/k0698997r",
   "dc_description_s": "Tennessee and Kentucky",
-  "georss_box_s": "35.0 -92.0 40.0 -81.0",
   "layer_modified_dt": "2015-01-23T17:48:36Z",
   "layer_id_s": "k0698997r",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-k0698997r",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/k0698997r/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/k0/69/89/97/r/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.0 -92.0 40.0 -81.0 35.0 -81.0 35.0 -92.0 40.0 -92.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1889"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Kentucky",
     "Tennessee"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

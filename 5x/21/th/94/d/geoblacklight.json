@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1730",
-  "uuid": "http://arks.princeton.edu/ark:/88435/5x21th94d",
   "dc_description_s": "A new map of Italy distinguishing all the sovereignties in it, whether states, kingdoms, dutchies, principalities, republicks &c. With the post roads, and many remarks not extant in any map. According to ye newest and most exact observations /",
-  "georss_box_s": "37.0 3.0 47.0 23.0",
   "layer_modified_dt": "2015-01-19T22:37:36Z",
   "dc_creator_sm": [
     "Bowles, John,",
@@ -19,7 +17,6 @@
   "layer_slug_s": "princeton-5x21th94d",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/5x21th94d/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/5x/21/th/94/d/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "47.0 3.0 47.0 23.0 37.0 23.0 37.0 3.0 47.0 3.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1730"
@@ -29,5 +26,6 @@
   "dct_spatial_sm": [
     "Italy",
     "Mediterranean Region"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

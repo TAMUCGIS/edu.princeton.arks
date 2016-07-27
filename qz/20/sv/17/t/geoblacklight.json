@@ -1,8 +1,6 @@
 {
   "layer_modified_dt": "2014-12-19T16:18:32Z",
-  "uuid": "http://arks.princeton.edu/ark:/88435/qz20sv17t",
   "dc_description_s": "Land parcels in Lincoln County, New Mexico, 2008.",
-  "georss_box_s": "33.131905 -106.373782 34.347464 -104.885032",
   "layer_slug_s": "princeton-qz20sv17t",
   "dct_spatial_sm": [
     "New Mexico",
@@ -13,7 +11,6 @@
     "Boundary Solutions, Inc."
   ],
   "layer_id_s": "pulmap-restricted:qz20sv17t",
-  "georss_polygon_s": "34.347464 -106.373782 34.347464 -104.885032 33.131905 -104.885032 33.131905 -106.373782 34.347464 -106.373782",
   "dc_type_s": "Dataset",
   "dc_identifier_s": "qz20sv17t",
   "dct_provenance_s": "Princeton",
@@ -40,5 +37,6 @@
   "layer_geom_type_s": "Polygon",
   "solr_geom": "ENVELOPE(-106.373782, -104.885032, 34.347464, 33.131905)",
   "dc_rights_s": "Restricted",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(19.7910, 20.2154, 50.1280, 49.9680)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/x633f2571\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/x633f2571/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/x633f2571",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Panstwowe Przedsiebiorstwo Wydawnictw Kartograficznych",
   "dc_type_s": "Image",
   "dc_identifier_s": "x633f2571",
-  "georss_polygon_s": "50.1280 19.7910 50.1280 20.2154 49.9680 20.2154 49.9680 19.7910 50.1280 19.7910",
   "dc_publisher_s": "Panstwowe Przedsiebiorstwo Wydawnictw Kartograficznych",
   "solr_year_i": "1957",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "Cracovia"
   ],
   "layer_id_s": "x633f2571",
-  "georss_box_s": "49.9680 19.7910 50.1280 20.2154",
   "dc_title_s": "Plan miasta Krakowa",
   "layer_slug_s": "princeton-x633f2571",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

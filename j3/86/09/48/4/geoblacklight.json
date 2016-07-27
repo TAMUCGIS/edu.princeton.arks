@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1639",
-  "uuid": "http://arks.princeton.edu/ark:/88435/j38609484",
   "dc_description_s": "Stato della Republica di Lucca",
-  "georss_box_s": "43.7687028 10.385155 43.9307158 10.5595241",
   "layer_modified_dt": "2015-01-25T02:06:20Z",
   "dc_creator_sm": [
     "Hamersvelt, Evert  Sijmonsz. van,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-j38609484",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/j38609484/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/j3/86/09/48/4/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "43.9307158 10.385155 43.9307158 10.5595241 43.7687028 10.5595241 43.7687028 10.385155 43.9307158 10.385155",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1639"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Lucca (Italy : Province)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

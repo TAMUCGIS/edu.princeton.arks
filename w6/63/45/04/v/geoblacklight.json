@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-80.5, -80.25, 41.75, 41.5)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/w6634504v/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/w6/63/45/04/v/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/w6634504v/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/w6634504v",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "historical maps",
@@ -20,7 +19,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "w6634504v",
-  "georss_polygon_s": "41.75 -80.5 41.75 -80.25 41.5 -80.25 41.5 -80.5 41.75 -80.5",
   "dc_publisher_s": "US Geological Survey",
   "dct_spatial_sm": [
     "Linesville",
@@ -29,9 +27,9 @@
     "United States"
   ],
   "layer_id_s": "w6634504v",
-  "georss_box_s": "41.5 -80.5 41.75 -80.25",
   "dc_title_s": "Pennsylvania: Linesville Quadrangle, 1908",
   "dct_issued_s": "June 1908",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

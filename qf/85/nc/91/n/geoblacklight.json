@@ -1,10 +1,9 @@
 {
-  "dc_description_s": "This is a city map of Stockholm, Sweden, shown at a 1:10,000 scale. This city map was created by Generstabens Litografiska Anstalt/Stockholms Stadsm\u00e4tningsavdelning.",
+  "dc_description_s": "This is a city map of Stockholm, Sweden, shown at a 1:10,000 scale. This city map was created by Generstabens Litografiska Anstalt/Stockholms Stadsmätningsavdelning.",
   "layer_modified_dt": "2015-01-11T18:24:59Z",
   "solr_geom": "ENVELOPE(17.9284, 18.1553, 59.3841, 59.2823)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/qf85nc91n\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/qf85nc91n/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/qf85nc91n",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -15,11 +14,10 @@
   ],
   "dc_format_s": "Scanned Map",
   "dct_issued_s": "1967",
-  "dc_creator_sm": "Generstabens Litografiska Anstalt/Stockholms Stadsm\u00e4tningsavdelning",
+  "dc_creator_sm": "Generstabens Litografiska Anstalt/Stockholms Stadsmätningsavdelning",
   "dc_type_s": "Image",
   "dc_identifier_s": "qf85nc91n",
-  "georss_polygon_s": "59.3841 17.9284 59.3841 18.1553 59.2823 18.1553 59.2823 17.9284 59.3841 17.9284",
-  "dc_publisher_s": "Generstabens Litografiska Anstalt/Stockholms Stadsm\u00e4tningsavdelning",
+  "dc_publisher_s": "Generstabens Litografiska Anstalt/Stockholms Stadsmätningsavdelning",
   "solr_year_i": "1967",
   "dct_spatial_sm": [
     "Stockholm",
@@ -27,9 +25,9 @@
     "Tukholma"
   ],
   "layer_id_s": "qf85nc91n",
-  "georss_box_s": "59.2823 17.9284 59.3841 18.1553",
-  "dc_title_s": "Officiella Stockholmskartan: 42 V\u00e4sterled",
+  "dc_title_s": "Officiella Stockholmskartan: 42 Västerled",
   "layer_slug_s": "princeton-qf85nc91n",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

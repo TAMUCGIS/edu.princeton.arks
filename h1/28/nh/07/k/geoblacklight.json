@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1750",
-  "uuid": "http://arks.princeton.edu/ark:/88435/h128nh07k",
   "dc_description_s": "Isle de Machian, toute remplie de montagnes = 'T eyland Makjan, geheel bergagtig ; Isle de Bachian = 'T eyland Batsjan",
-  "georss_box_s": "-0.7846424 127.2166912 -0.1446424 127.8566912",
   "layer_modified_dt": "2015-01-21T22:23:58Z",
   "dc_creator_sm": [
     "Schley, Jacobus van der,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-h128nh07k",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/h128nh07k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/h1/28/nh/07/k/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "-0.1446424 127.2166912 -0.1446424 127.8566912 -0.7846424 127.8566912 -0.7846424 127.2166912 -0.1446424 127.2166912",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1750"
@@ -26,5 +23,6 @@
     "Bacan Island (Indonesia)",
     "Makian Island (Indonesia)",
     "Maluku (Indonesia)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

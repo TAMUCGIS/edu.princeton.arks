@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1575",
-  "uuid": "http://arks.princeton.edu/ark:/88435/zc77ss48s",
   "dc_description_s": "Candia ; La cita de Corphu",
-  "georss_box_s": "34.8009319 23.4739911 35.6956944 26.3524769",
   "layer_modified_dt": "2015-01-21T22:23:57Z",
   "dc_creator_sm": [
     "Hogenberg, Frans,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-zc77ss48s",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/zc77ss48s/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/zc/77/ss/48/s/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "35.6956944 23.4739911 35.6956944 26.3524769 34.8009319 26.3524769 34.8009319 23.4739911 35.6956944 23.4739911",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1575"
@@ -25,8 +22,9 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Crete (Greece)",
-    "He\u0304rakleion (Greece)",
+    "Hērakleion (Greece)",
     "Corfu Island (Greece)",
     "Kerkyra (Greece)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

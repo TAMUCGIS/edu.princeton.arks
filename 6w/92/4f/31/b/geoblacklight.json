@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1642",
-  "uuid": "http://arks.princeton.edu/ark:/88435/6w924f31b",
   "dc_description_s": "Novam hanc Territorii Francofurtensis tabulam",
-  "georss_box_s": "49.9506529 8.5220934 50.2706529 8.8420934",
   "layer_modified_dt": "2015-01-21T22:24:20Z",
   "dc_creator_sm": [
     "Blaeu, Cornelis,",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-6w924f31b",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/6w924f31b/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/6w/92/4f/31/b/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "50.2706529 8.5220934 50.2706529 8.8420934 49.9506529 8.8420934 49.9506529 8.5220934 50.2706529 8.5220934",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1642"
@@ -27,5 +24,6 @@
   "dct_spatial_sm": [
     "Frankfurt am Main (Germany)",
     "Hesse (Germany)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

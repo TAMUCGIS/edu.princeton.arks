@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1861",
-  "uuid": "http://arks.princeton.edu/ark:/88435/5999n592c",
   "dc_description_s": "The basins of the Mississippi and tributaries, their systems of drainage and downfall",
-  "georss_box_s": "27.0 -115.0 50.0 -78.0",
   "layer_modified_dt": "2015-01-19T22:37:37Z",
   "dc_creator_sm": [
     "Shoemaker, J. C."
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-5999n592c",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/5999n592c/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/59/99/n5/92/c/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "50.0 -115.0 50.0 -78.0 27.0 -78.0 27.0 -115.0 50.0 -115.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1861"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Mississippi River Watershed"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

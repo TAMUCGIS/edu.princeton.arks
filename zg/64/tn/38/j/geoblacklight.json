@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(39.787869, 39.892093, 21.442109, 21.389740)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/zg64tn38j/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/zg64tn38j/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/zg64tn38j/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/zg64tn38j",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Facilities and structures",
@@ -23,7 +22,6 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "zg64tn38j",
-  "georss_polygon_s": "21.442109 39.787869 21.442109 39.892093 21.389740 39.892093 21.389740 39.787869 21.442109 39.787869",
   "dc_publisher_s": "LeadDog Consulting, LLC",
   "solr_year_i": "2006",
   "dct_spatial_sm": [
@@ -31,9 +29,9 @@
     "Saudi Arabia"
   ],
   "layer_id_s": "pulmap-restricted:zg64tn38j",
-  "georss_box_s": "21.389740 39.787869 21.442109 39.892093",
   "dc_title_s": "Mecca points of interest",
   "layer_slug_s": "princeton-zg64tn38j",
   "layer_geom_type_s": "Point",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

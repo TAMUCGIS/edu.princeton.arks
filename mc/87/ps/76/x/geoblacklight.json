@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1930",
-  "uuid": "http://arks.princeton.edu/ark:/88435/mc87ps76x",
   "dc_description_s": "Road map of Mercer County, New Jersey.",
-  "georss_box_s": "40.136843 -74.941622 40.424156 -74.481202",
   "layer_modified_dt": "2015-01-21T22:24:25Z",
   "dc_creator_sm": [
     "Harris, Harry F.",
@@ -16,12 +14,14 @@
   "layer_slug_s": "princeton-mc87ps76x",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/mc87ps76x/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/mc/87/ps/76/x/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.424156 -74.941622 40.424156 -74.481202 40.136843 -74.481202 40.136843 -74.941622 40.424156 -74.941622",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1930"
   ],
   "solr_geom": "ENVELOPE(-74.941622, -74.481202, 40.424156, 40.136843)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(12.04, 12.11, 50.91, 50.84)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/0c483k85q\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/0c483k85q/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/0c483k85q",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -17,7 +16,6 @@
   "dc_creator_sm": "Dewag-Werbung",
   "dc_type_s": "Image",
   "dc_identifier_s": "0c483k85q",
-  "georss_polygon_s": "50.91 12.04 50.91 12.11 50.84 12.11 50.84 12.04 50.91 12.04",
   "dc_publisher_s": "Dewag-Werbung",
   "solr_year_i": "1957",
   "dct_spatial_sm": [
@@ -25,9 +23,9 @@
     "Germany"
   ],
   "layer_id_s": "0c483k85q",
-  "georss_box_s": "50.84 12.04 50.91 12.11",
   "dc_title_s": "Gera",
   "layer_slug_s": "princeton-0c483k85q",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

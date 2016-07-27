@@ -1,18 +1,15 @@
 {
   "solr_year_i": "1920",
-  "uuid": "http://arks.princeton.edu/ark:/88435/bn999921k",
-  "dc_description_s": "Plan de Paris a\u0300 vol d'oiseau : reproduction artistique en e\u0301le\u0301vation de toutes les rues, maisons et richesses artistiques de Paris",
-  "georss_box_s": "48.8155755 2.224122 48.902156 2.4697602",
+  "dc_description_s": "Plan de Paris à vol d'oiseau : reproduction artistique en élévation de toutes les rues, maisons et richesses artistiques de Paris",
   "layer_modified_dt": "2015-01-21T22:24:13Z",
   "layer_id_s": "bn999921k",
   "dc_type_s": "Image",
   "dc_identifier_s": "bn999921k",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Plan de Paris a\u0300 vol d'oiseau : reproduction artistique en e\u0301le\u0301vation de toutes les rues, maisons et richesses artistiques de Paris",
+  "dc_title_s": "Plan de Paris à vol d'oiseau : reproduction artistique en élévation de toutes les rues, maisons et richesses artistiques de Paris",
   "layer_slug_s": "princeton-bn999921k",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/bn999921k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/bn/99/99/21/k/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "48.902156 2.224122 48.902156 2.4697602 48.8155755 2.4697602 48.8155755 2.224122 48.902156 2.224122",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1920"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Paris (France)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

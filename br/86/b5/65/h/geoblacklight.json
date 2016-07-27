@@ -1,18 +1,15 @@
 {
   "solr_year_i": "1745",
-  "uuid": "http://arks.princeton.edu/ark:/88435/br86b565h",
-  "dc_description_s": "Les environs de Londres : a\u0300 sept lieues a\u0300 la ronde",
-  "georss_box_s": "51.2867602 -0.510375 51.6918741 0.3340155",
+  "dc_description_s": "Les environs de Londres : à sept lieues à la ronde",
   "layer_modified_dt": "2015-01-21T22:23:54Z",
   "layer_id_s": "br86b565h",
   "dc_type_s": "Image",
   "dc_identifier_s": "br86b565h",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Les environs de Londres : a\u0300 sept lieues a\u0300 la ronde",
+  "dc_title_s": "Les environs de Londres : à sept lieues à la ronde",
   "layer_slug_s": "princeton-br86b565h",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/br86b565h/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/br/86/b5/65/h/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.6918741 -0.510375 51.6918741 0.3340155 51.2867602 0.3340155 51.2867602 -0.510375 51.6918741 -0.510375",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1745"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "London (England)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

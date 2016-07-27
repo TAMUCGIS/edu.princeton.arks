@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-87.4824, -87.4158, 13.4701, 13.413)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/9306t1041\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/9306t1041/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/9306t1041",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -19,7 +18,6 @@
   "dc_creator_sm": "Instituto Geografico Nacional",
   "dc_type_s": "Image",
   "dc_identifier_s": "9306t1041",
-  "georss_polygon_s": "13.4701 -87.4824 13.4701 -87.4158 13.413 -87.4158 13.413 -87.4824 13.4701 -87.4824",
   "dc_publisher_s": "Instituto Geografico Nacional",
   "solr_year_i": "1993",
   "dct_spatial_sm": [
@@ -27,9 +25,9 @@
     "Honduras"
   ],
   "layer_id_s": "9306t1041",
-  "georss_box_s": "13.413 -87.4824 13.4701 -87.4158",
   "dc_title_s": "San Lorenzo, Honduras, C.A. 1-IGN.",
   "layer_slug_s": "princeton-9306t1041",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

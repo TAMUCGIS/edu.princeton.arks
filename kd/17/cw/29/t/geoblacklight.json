@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1843",
-  "uuid": "http://arks.princeton.edu/ark:/88435/kd17cw29t",
   "dc_description_s": "New York ; City of New York, 1843",
-  "georss_box_s": "40.4913686 -79.7621438 45.015865 -71.8562643",
   "layer_modified_dt": "2015-01-21T22:24:05Z",
   "dc_creator_sm": [
     "Breese, Samuel,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-kd17cw29t",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/kd17cw29t/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/kd/17/cw/29/t/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "45.015865 -79.7621438 45.015865 -71.8562643 40.4913686 -71.8562643 40.4913686 -79.7621438 45.015865 -79.7621438",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1843"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "New York (State)",
     "New York (State)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

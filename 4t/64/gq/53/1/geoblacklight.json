@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1600",
-  "uuid": "http://arks.princeton.edu/ark:/88435/4t64gq531",
   "dc_description_s": "Chica sive Patagonica et Australis Terra, MDC",
-  "georss_box_s": "-85.0511286 -179.9999999 -59.9999999 180.0",
   "layer_modified_dt": "2015-01-21T22:23:57Z",
   "dc_creator_sm": [
     "Bussemacher, Johann,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-4t64gq531",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/4t64gq531/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/4t/64/gq/53/1/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "-59.9999999 -179.9999999 -59.9999999 180.0 -85.0511286 180.0 -85.0511286 -179.9999999 -59.9999999 -179.9999999",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1600"
@@ -26,5 +23,6 @@
   "dct_spatial_sm": [
     "Antarctica",
     "Magellan, Strait of (Chile and Argentina)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1864",
-  "uuid": "http://arks.princeton.edu/ark:/88435/2j62s732w",
   "dc_description_s": "Lugo",
-  "georss_box_s": "42.9896904 -7.5830339 43.0347853 -7.5248148",
   "layer_modified_dt": "2015-01-21T22:24:10Z",
   "dc_creator_sm": [
     "Madoz, Pascual,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-2j62s732w",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/2j62s732w/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/2j/62/s7/32/w/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "43.0347853 -7.5830339 43.0347853 -7.5248148 42.9896904 -7.5248148 42.9896904 -7.5830339 43.0347853 -7.5830339",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1864"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Lugo (Spain : Province)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

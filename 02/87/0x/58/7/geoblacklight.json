@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(18.9182, 19.3412, 47.6052, 47.3695)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/02870x587\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/02870x587/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/02870x587",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Kartografiai Vallalat Szerkeszto Bizottsaga",
   "dc_type_s": "Image",
   "dc_identifier_s": "02870x587",
-  "georss_polygon_s": "47.6052 18.9182 47.6052 19.3412 47.3695 19.3412 47.3695 18.9182 47.6052 18.9182",
   "dc_publisher_s": "Kartografiai Vallalat Szerkeszto Bizottsaga",
   "solr_year_i": "1968",
   "dct_spatial_sm": [
@@ -26,9 +24,9 @@
     "Hungary"
   ],
   "layer_id_s": "02870x587",
-  "georss_box_s": "47.3695 18.9182 47.6052 19.3412",
   "dc_title_s": "Budapest, belso terulete",
   "layer_slug_s": "princeton-02870x587",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

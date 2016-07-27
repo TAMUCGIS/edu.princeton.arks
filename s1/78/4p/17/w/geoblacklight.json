@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1715",
-  "uuid": "http://arks.princeton.edu/ark:/88435/s1784p17w",
-  "dc_description_s": "Embouchure de la Rivie\u0300re du Tage",
-  "georss_box_s": "38.6914845 -9.2294567 38.7957485 -9.0895574",
+  "dc_description_s": "Embouchure de la Rivière du Tage",
   "layer_modified_dt": "2015-01-21T22:24:06Z",
   "dc_creator_sm": [
     "Fer, Nicolas de,"
@@ -11,11 +9,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "s1784p17w",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Embouchure de la Rivie\u0300re du Tage",
+  "dc_title_s": "Embouchure de la Rivière du Tage",
   "layer_slug_s": "princeton-s1784p17w",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/s1784p17w/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/s1/78/4p/17/w/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "38.7957485 -9.2294567 38.7957485 -9.0895574 38.6914845 -9.0895574 38.6914845 -9.2294567 38.7957485 -9.2294567",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1715"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "Lisbon (Portugal)",
     "Tagus River Estuary (Portugal)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

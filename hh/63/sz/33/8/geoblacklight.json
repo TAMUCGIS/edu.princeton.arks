@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1886",
-  "uuid": "http://arks.princeton.edu/ark:/88435/hh63sz338",
   "dc_description_s": "Map of New York City to accompany \"The temperance movement, or, The conflict between man & alcohol,\" copyrighted by Henry William Blair, the William E. Smythe Co., publishers, Boston, Mass.",
-  "georss_box_s": "40.477399 -74.2590899 40.917577 -73.7001714",
   "layer_modified_dt": "2015-01-21T22:24:03Z",
   "dc_creator_sm": [
     "Blair, Henry W."
@@ -15,12 +13,14 @@
   "layer_slug_s": "princeton-hh63sz338",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/hh63sz338/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/hh/63/sz/33/8/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.917577 -74.2590899 40.917577 -73.7001714 40.477399 -73.7001714 40.477399 -74.2590899 40.917577 -74.2590899",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1886"
   ],
   "solr_geom": "ENVELOPE(-74.2590899, -73.7001714, 40.917577, 40.477399)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-77, -76.75, 37.5, 37.25)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/j9602225m/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/j9/60/22/25/m/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/j9602225m/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/j9602225m",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "historical maps",
@@ -20,7 +19,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "j9602225m",
-  "georss_polygon_s": "37.5 -77 37.5 -76.75 37.25 -76.75 37.25 -77 37.5 -77",
   "dc_publisher_s": "US Geological Survey",
   "solr_year_i": "1918",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "United States"
   ],
   "layer_id_s": "j9602225m",
-  "georss_box_s": "37.25 -77 37.5 -76.75",
   "dc_title_s": "Virginia: Toano Quadrangle [1918] ",
   "dct_issued_s": "1918",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

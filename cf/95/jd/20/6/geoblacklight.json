@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-74.000, -73.500, 42.0833, 41.0833)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/cf95jd206/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/cf/95/jd/20/6/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/cf95jd206/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/cf95jd206",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Historical Maps",
@@ -18,7 +17,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "cf95jd206",
-  "georss_polygon_s": "42.0833 -74.000 42.0833 -73.500 41.0833 -73.500 41.0833 -74.000 42.0833 -74.000",
   "dc_publisher_s": "G. W. & C. B. Colton & Co.",
   "solr_year_i": "1890",
   "dct_spatial_sm": [
@@ -28,9 +26,9 @@
     "United States"
   ],
   "layer_id_s": "cf95jd206",
-  "georss_box_s": "41.0833 -74.000 42.0833 -73.500",
   "dc_title_s": "Colton's road map of the counties of Putnam & Dutchess, New York",
   "dct_issued_s": "1890",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

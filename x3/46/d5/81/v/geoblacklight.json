@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(20.2222, 20.6143, 44.9409, 44.6896)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/x346d581v\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/x346d581v/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/x346d581v",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -21,7 +20,6 @@
   "dc_creator_sm": "United States Office of Strategic Services, Research and Analysis Branch",
   "dc_type_s": "Image",
   "dc_identifier_s": "x346d581v",
-  "georss_polygon_s": "44.9409 20.2222 44.9409 20.6143 44.6896 20.6143 44.6896 20.2222 44.9409 20.2222",
   "dc_publisher_s": "United States Office of Strategic Services, Research and Analysis Branch",
   "solr_year_i": "1943",
   "dct_spatial_sm": [
@@ -33,9 +31,9 @@
     "Singidunum"
   ],
   "layer_id_s": "x346d581v",
-  "georss_box_s": "44.6896 20.2222 44.9409 20.6143",
   "dc_title_s": "Town plan of Beograd (before 1937)",
   "layer_slug_s": "princeton-x346d581v",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

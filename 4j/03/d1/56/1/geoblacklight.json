@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1776",
-  "uuid": "http://arks.princeton.edu/ark:/88435/4j03d1561",
   "dc_description_s": "An Accurate map of the present seat of war, between Great-Britain and her colonies in North America",
-  "georss_box_s": "49.674 -14.0155169 61.061 2.0919117",
   "layer_modified_dt": "2015-01-21T22:23:51Z",
   "layer_id_s": "4j03d1561",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-4j03d1561",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/4j03d1561/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/4j/03/d1/56/1/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "61.061 -14.0155169 61.061 2.0919117 49.674 2.0919117 49.674 -14.0155169 61.061 -14.0155169",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1776"
@@ -23,5 +20,6 @@
     "Great Britain",
     "Northeastern States",
     "United States"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

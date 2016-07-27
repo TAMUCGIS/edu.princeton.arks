@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1866",
-  "uuid": "http://arks.princeton.edu/ark:/88435/hh63sz376",
   "dc_description_s": "Map illustrating the overland expedition from Port Denison to Cape York, (Australia) under the command of F & A. Jardin Esq. to accompany Mr. Richardson's paper",
-  "georss_box_s": "-19.00000 139.00000 -10.50000 147.00000",
   "layer_modified_dt": "2015-01-19T22:37:22Z",
   "dc_creator_sm": [
     "Jardine, Frank,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-hh63sz376",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/hh63sz376/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/hh/63/sz/37/6/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "-10.50000 139.00000 -10.50000 147.00000 -19.00000 147.00000 -19.00000 139.00000 -10.50000 139.00000",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1866"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Queensland, North"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

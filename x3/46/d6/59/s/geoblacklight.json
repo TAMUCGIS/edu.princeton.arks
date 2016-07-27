@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1576",
-  "uuid": "http://arks.princeton.edu/ark:/88435/x346d659s",
   "dc_description_s": "Candia",
-  "georss_box_s": "34.8009319 23.4739911 35.6956944 26.3524769",
   "layer_modified_dt": "2015-01-21T22:23:59Z",
   "dc_creator_sm": [
     "Porro, Girolamo,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-x346d659s",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/x346d659s/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/x3/46/d6/59/s/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "35.6956944 23.4739911 35.6956944 26.3524769 34.8009319 26.3524769 34.8009319 23.4739911 35.6956944 23.4739911",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1576"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Crete (Greece)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

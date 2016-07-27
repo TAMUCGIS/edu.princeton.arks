@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(17.029674, 22.188650, 49.503753, 47.860247)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/x059c888m/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/x059c888m/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/x059c888m/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/x059c888m",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "City",
@@ -21,16 +20,15 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "x059c888m",
-  "georss_polygon_s": "49.503753 17.029674 49.503753 22.188650 47.860247 22.188650 47.860247 17.029674 49.503753 17.029674",
   "dc_publisher_s": "Gfk MACON Company",
   "solr_year_i": "2006",
   "dct_spatial_sm": [
     "Slovakia"
   ],
   "layer_id_s": "pulmap-restricted:x059c888m",
-  "georss_box_s": "47.860247 17.029674 49.503753 22.188650",
   "dc_title_s": "Slovakia Cities With Population From 5 Thousand To 10 Thousand, 2005",
   "layer_slug_s": "princeton-x059c888m",
   "layer_geom_type_s": "Point",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

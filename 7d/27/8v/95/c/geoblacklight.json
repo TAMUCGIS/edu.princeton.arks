@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1688",
-  "uuid": "http://arks.princeton.edu/ark:/88435/7d278v95c",
   "dc_description_s": "A new, plaine, and exact map of Asia : described by N.I. Vischer and done into English, enlarged and corrected according to I. Blaeu, with the habits of ye countries and manner of the cheife citties, ye like never before",
-  "georss_box_s": "-10.0 30.0 70.0 150.0",
   "layer_modified_dt": "2015-01-19T22:36:55Z",
   "dc_creator_sm": [
     "Visscher, Nicolaes,",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-7d278v95c",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/7d278v95c/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/7d/27/8v/95/c/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "70.0 30.0 70.0 150.0 -10.0 150.0 -10.0 30.0 70.0 30.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1688"
@@ -26,5 +23,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Asia"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1705",
-  "uuid": "http://arks.princeton.edu/ark:/88435/z603r079s",
   "dc_description_s": "Maison et jardins de St. Cir pres Versailles",
-  "georss_box_s": "48.7898055 2.0483887 48.8230301 2.0830271",
   "layer_modified_dt": "2015-01-21T22:23:58Z",
   "dc_creator_sm": [
     "Fer, Nicolas de,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-z603r079s",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/z603r079s/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/z6/03/r0/79/s/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "48.8230301 2.0483887 48.8230301 2.0830271 48.7898055 2.0830271 48.7898055 2.0483887 48.8230301 2.0483887",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1705"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Saint-Cyr-l'Ecole (France)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

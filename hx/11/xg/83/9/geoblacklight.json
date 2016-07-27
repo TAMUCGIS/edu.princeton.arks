@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-80, -65, 10, -20)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/hx11xg839/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/hx/11/xg/83/9/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/hx11xg839/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/hx11xg839",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Aministrative and Political Boundaries",
@@ -20,16 +19,15 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "hx11xg839",
-  "georss_polygon_s": "10 -80 10 -65 -20 -65 -20 -80 10 -80",
   "dc_publisher_s": "Central Intelligence Agency",
   "dct_spatial_sm": [
     "South America",
     "South America North West"
   ],
   "layer_id_s": "hx11xg839",
-  "georss_box_s": "-20 -80 10 -65",
   "dc_title_s": "South America northwest, 1991",
   "dct_issued_s": "April 1991",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

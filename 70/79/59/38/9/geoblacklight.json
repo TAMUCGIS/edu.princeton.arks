@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(8.1439, 8.4157, 50.2256, 49.9693)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/707959389\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/707959389/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/707959389",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Hessiches Landesvermessungsamt/ Vermessungsamt der Stadt Wiesbaden",
   "dc_type_s": "Image",
   "dc_identifier_s": "707959389",
-  "georss_polygon_s": "50.2256 8.1439 50.2256 8.4157 49.9693 8.4157 49.9693 8.1439 50.2256 8.1439",
   "dc_publisher_s": "Hessiches Landesvermessungsamt/ Vermessungsamt der Stadt Wiesbaden",
   "solr_year_i": "1952",
   "dct_spatial_sm": [
@@ -27,9 +25,9 @@
     "Hessen Land"
   ],
   "layer_id_s": "707959389",
-  "georss_box_s": "49.9693 8.1439 50.2256 8.4157",
   "dc_title_s": "Stadtplan von Wiesbaden",
   "layer_slug_s": "princeton-707959389",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

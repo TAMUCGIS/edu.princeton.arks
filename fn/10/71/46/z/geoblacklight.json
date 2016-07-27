@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1907",
-  "uuid": "http://arks.princeton.edu/ark:/88435/fn107146z",
   "dc_description_s": "Karte von Tschili und Schantung",
-  "georss_box_s": "39.00000 115.00000 41.00000 117.00000",
   "layer_modified_dt": "2015-01-19T22:37:34Z",
   "layer_id_s": "fn107146z",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-fn107146z",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/fn107146z/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/fn/10/71/46/z/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "41.00000 115.00000 41.00000 117.00000 39.00000 117.00000 39.00000 115.00000 41.00000 115.00000",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1907"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Hebei Sheng (China)",
     "Shandong Sheng (China)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1911",
-  "uuid": "http://arks.princeton.edu/ark:/88435/hh63sz41r",
   "dc_description_s": "Production map of China",
-  "georss_box_s": "3.966232 73.4997347 53.5608154 134.7754563",
   "layer_modified_dt": "2015-01-21T22:24:23Z",
   "layer_id_s": "hh63sz41r",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-hh63sz41r",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/hh63sz41r/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/hh/63/sz/41/r/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "53.5608154 73.4997347 53.5608154 134.7754563 3.966232 134.7754563 3.966232 73.4997347 53.5608154 73.4997347",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1911"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "China"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

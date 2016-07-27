@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(108.499962, 116.110293, 33.245083, 29.101075)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/6969z253j/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/6969z253j/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/6969z253j/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/6969z253j",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "census",
@@ -56,7 +55,6 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "6969z253j",
-  "georss_polygon_s": "33.245083 108.499962 33.245083 116.110293 29.101075 116.110293 29.101075 108.499962 33.245083 108.499962",
   "solr_year_i": "2000",
   "dct_spatial_sm": [
     "China",
@@ -64,9 +62,9 @@
     "Hubei Province"
   ],
   "layer_id_s": "pulmap-restricted:6969z253j",
-  "georss_box_s": "29.101075 108.499962 33.245083 116.110293",
   "dc_title_s": "Township map of Hubei with 2000 Census short form data",
   "layer_slug_s": "princeton-6969z253j",
   "layer_geom_type_s": "Point",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-43.38, 43.43, 34.40, -34.35)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/gb19f740p\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/gb19f740p/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/gb19f740p",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -20,7 +19,6 @@
   "dc_creator_sm": "National Imagery and Mapping Agency",
   "dc_type_s": "Image",
   "dc_identifier_s": "gb19f740p",
-  "georss_polygon_s": "34.40 -43.38 34.40 43.43 -34.35 43.43 -34.35 -43.38 34.40 -43.38",
   "dc_publisher_s": "National Imagery and Mapping Agency",
   "solr_year_i": "2003",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "Salah ad Din muhafazah   "
   ],
   "layer_id_s": "gb19f740p",
-  "georss_box_s": "-34.35 -43.38 34.40 43.43",
   "dc_title_s": "Tikrit, Iraq",
   "layer_slug_s": "princeton-gb19f740p",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

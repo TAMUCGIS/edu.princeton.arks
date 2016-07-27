@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(10.4046, 10.4692, 51.9423, 51.8986)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/kh04dr412\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/kh04dr412/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/kh04dr412",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Bollmann Bildkartenverlag",
   "dc_type_s": "Image",
   "dc_identifier_s": "kh04dr412",
-  "georss_polygon_s": "51.9423 10.4046 51.9423 10.4692 51.8986 10.4692 51.8986 10.4046 51.9423 10.4046",
   "dc_publisher_s": "Bollmann Bildkartenverlag",
   "solr_year_i": "1956",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "Niedersachsen Land"
   ],
   "layer_id_s": "kh04dr412",
-  "georss_box_s": "51.8986 10.4046 51.9423 10.4692",
-  "dc_title_s": "Goslar: die tausendj\u00e4hrige Kaiserstadt am Harz",
+  "dc_title_s": "Goslar: die tausendjährige Kaiserstadt am Harz",
   "layer_slug_s": "princeton-kh04dr412",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

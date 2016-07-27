@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-96, -70, 38, 23)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/w9505200j/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/w9/50/52/00/j/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/w9505200j/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/w9505200j",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "historical maps",
@@ -20,16 +19,15 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "w9505200j",
-  "georss_polygon_s": "38 -96 38 -70 23 -70 23 -96 38 -96",
   "dc_publisher_s": "U.S.G.S.",
   "solr_year_i": "1932",
   "dct_spatial_sm": [
     "United States"
   ],
   "layer_id_s": "w9505200j",
-  "georss_box_s": "23 -96 38 -70",
   "dc_title_s": "Geologic map of the United States. (Sheet 4).",
   "dct_issued_s": "1932",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

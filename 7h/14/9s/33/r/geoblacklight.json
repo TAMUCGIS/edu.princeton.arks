@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1633",
-  "uuid": "http://arks.princeton.edu/ark:/88435/7h149s33r",
   "dc_description_s": "Frisia occidentalis",
-  "georss_box_s": "52.7648052 4.8183758 53.5397134 6.4276148",
   "layer_modified_dt": "2015-01-21T22:24:12Z",
   "dc_creator_sm": [
     "Freitag, Gerard.",
@@ -18,7 +16,6 @@
   "layer_slug_s": "princeton-7h149s33r",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/7h149s33r/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/7h/14/9s/33/r/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "53.5397134 4.8183758 53.5397134 6.4276148 52.7648052 6.4276148 52.7648052 4.8183758 53.5397134 4.8183758",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1633"
@@ -27,5 +24,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Friesland (Netherlands)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

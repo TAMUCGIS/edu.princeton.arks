@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1800",
-  "uuid": "http://arks.princeton.edu/ark:/88435/n009w4143",
   "dc_description_s": "Charte von America: nach den neuesten Entdeckungen und astronomischen Ortsbestimmungen  berichtiget und gezeichnet",
-  "georss_box_s": "18.9110642 172.4458955 71.389888 -66.9453947",
   "layer_modified_dt": "2015-01-21T22:23:44Z",
   "layer_id_s": "n009w4143",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-n009w4143",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/n009w4143/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/n0/09/w4/14/3/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "71.389888 172.4458955 71.389888 -66.9453947 18.9110642 -66.9453947 18.9110642 172.4458955 71.389888 172.4458955",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1800"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "America",
     "Western Hemisphere"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

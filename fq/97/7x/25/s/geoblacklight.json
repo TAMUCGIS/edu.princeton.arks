@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1914",
-  "uuid": "http://arks.princeton.edu/ark:/88435/fq977x25s",
   "dc_description_s": "New map of Asbury Park, Ocean Grove : including Bradley Beach, Deal, Wanamassa, Interlaken, Allenhurst and vicinity",
-  "georss_box_s": "40.213125 -74.0272559 40.231222 -73.9946809",
   "layer_modified_dt": "2015-01-21T22:24:16Z",
   "layer_id_s": "fq977x25s",
   "dc_type_s": "Image",
@@ -12,12 +10,14 @@
   "layer_slug_s": "princeton-fq977x25s",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/fq977x25s/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/fq/97/7x/25/s/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.231222 -74.0272559 40.231222 -73.9946809 40.213125 -73.9946809 40.213125 -74.0272559 40.231222 -74.0272559",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1914"
   ],
   "solr_geom": "ENVELOPE(-74.0272559, -73.9946809, 40.231222, 40.213125)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

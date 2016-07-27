@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-3.4511, -3.0762, 56.0024, 55.8171)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/9g54xk33j\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/9g54xk33j/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/9g54xk33j",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "John Bartholomew & Son Ltd.",
   "dc_type_s": "Image",
   "dc_identifier_s": "9g54xk33j",
-  "georss_polygon_s": "56.0024 -3.4511 56.0024 -3.0762 55.8171 -3.0762 55.8171 -3.4511 56.0024 -3.4511",
   "dc_publisher_s": "John Bartholomew & Son Ltd.",
   "solr_year_i": "1925",
   "dct_spatial_sm": [
@@ -27,9 +25,9 @@
     "City of Edinburgh"
   ],
   "layer_id_s": "9g54xk33j",
-  "georss_box_s": "55.8171 -3.4511 56.0024 -3.0762",
   "dc_title_s": "Plan of Edinburgh",
   "layer_slug_s": "princeton-9g54xk33j",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

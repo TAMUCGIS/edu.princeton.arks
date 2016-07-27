@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(11.91, 12.05, 57.74, 57.68)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/3197xn72x\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/3197xn72x/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/3197xn72x",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Goteborgs stad i smrad med trafikkomissionen / Generalstabens litografiska anstalt",
   "dc_type_s": "Image",
   "dc_identifier_s": "3197xn72x",
-  "georss_polygon_s": "57.74 11.91 57.74 12.05 57.68 12.05 57.68 11.91 57.74 11.91",
   "dc_publisher_s": "Goteborgs stad i smrad med trafikkomissionen / Generalstabens litografiska anstalt",
   "solr_year_i": "1967",
   "dct_spatial_sm": [
@@ -26,9 +24,9 @@
     "Sweden"
   ],
   "layer_id_s": "3197xn72x",
-  "georss_box_s": "57.68 11.91 57.74 12.05",
   "dc_title_s": "Goteborg",
   "layer_slug_s": "princeton-3197xn72x",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

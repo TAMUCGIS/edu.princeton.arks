@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1889",
-  "uuid": "http://arks.princeton.edu/ark:/88435/05741v21j",
   "dc_description_s": "Ireland",
-  "georss_box_s": "51.5 -10.5 55.5 -5.5",
   "layer_modified_dt": "2015-01-19T22:37:36Z",
   "layer_id_s": "05741v21j",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-05741v21j",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/05741v21j/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/05/74/1v/21/j/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "55.5 -10.5 55.5 -5.5 51.5 -5.5 51.5 -10.5 55.5 -10.5",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1889"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Ireland"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

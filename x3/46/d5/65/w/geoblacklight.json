@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-75.0697, -75.0564, 39.8891, 39.8806)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/x346d565w/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/x3/46/d5/65/w/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/x346d565w/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/x346d565w",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "x346d565w",
-  "georss_polygon_s": "39.8891 -75.0697 39.8891 -75.0564 39.8806 -75.0564 39.8806 -75.0697 39.8891 -75.0697",
   "dc_publisher_s": "Sanborn Map Company",
   "solr_year_i": "1914",
   "dct_spatial_sm": [
@@ -28,9 +26,9 @@
     "United States"
   ],
   "layer_id_s": "x346d565w",
-  "georss_box_s": "39.8806 -75.0697 39.8891 -75.0564",
   "dc_title_s": "Haddon Heights, Camden County, New Jersey (Sheet 3)",
   "dct_issued_s": "1914",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

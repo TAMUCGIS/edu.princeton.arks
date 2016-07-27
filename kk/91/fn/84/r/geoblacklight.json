@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1827",
-  "uuid": "http://arks.princeton.edu/ark:/88435/kk91fn84r",
   "dc_description_s": "Barca",
-  "georss_box_s": "30.0 16.3333333333 36.0 24.3333333333",
   "layer_modified_dt": "2015-01-19T22:36:58Z",
   "dc_creator_sm": [
     "Vandermaelen, Philippe, 1795-1869."
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-kk91fn84r",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/kk91fn84r/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/kk/91/fn/84/r/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "36.0 16.3333333333 36.0 24.3333333333 30.0 24.3333333333 30.0 16.3333333333 36.0 16.3333333333",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1827"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "Libya",
     "Crete (Greece)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

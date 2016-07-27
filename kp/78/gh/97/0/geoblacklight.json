@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-122, -112, 37, 33)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/kp78gh970/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/kp/78/gh/97/0/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/kp78gh970/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/kp78gh970",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Administrative and Political Boundaries",
@@ -23,7 +22,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "kp78gh970",
-  "georss_polygon_s": "37 -122 37 -112 33 -112 33 -122 37 -122",
   "dc_publisher_s": "Department of the Interior",
   "solr_year_i": "1900",
   "dct_spatial_sm": [
@@ -31,9 +29,9 @@
     "United States"
   ],
   "layer_id_s": "kp78gh970",
-  "georss_box_s": "33 -122 37 -112",
   "dc_title_s": "The State of California (Sheet 2)",
   "dct_issued_s": "1900",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

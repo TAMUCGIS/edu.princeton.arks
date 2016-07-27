@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(104.530373, 107.402541, 39.273424, 35.339402)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/kp78gj11x/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/kp78gj11x/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/kp78gj11x/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/kp78gj11x",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "demographic",
@@ -49,7 +48,6 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "kp78gj11x",
-  "georss_polygon_s": "39.273424 104.530373 39.273424 107.402541 35.339402 107.402541 35.339402 104.530373 39.273424 104.530373",
   "solr_year_i": "2000",
   "dct_spatial_sm": [
     "China",
@@ -57,9 +55,9 @@
     "Ningxia Hui Autonomous Region"
   ],
   "layer_id_s": "pulmap-restricted:kp78gj11x",
-  "georss_box_s": "35.339402 104.530373 39.273424 107.402541",
   "dc_title_s": "Township map of Ningxia with 2000 Census long form data (L7-L8)",
   "layer_slug_s": "princeton-kp78gj11x",
   "layer_geom_type_s": "Point",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

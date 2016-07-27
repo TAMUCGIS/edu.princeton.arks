@@ -1,7 +1,5 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/gb19f827k",
   "dc_description_s": "Carta dell'Egitto antica e della Palestina",
-  "georss_box_s": "21.9999975 24.706389 31.8330854 37.1153517",
   "layer_modified_dt": "2015-01-21T22:24:11Z",
   "dc_creator_sm": [
     "Maggi, Cesare. Atlante di geografia antica ad uso delle scuole."
@@ -14,12 +12,12 @@
   "layer_slug_s": "princeton-gb19f827k",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/gb19f827k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/gb/19/f8/27/k/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "31.8330854 24.706389 31.8330854 37.1153517 21.9999975 37.1153517 21.9999975 24.706389 31.8330854 24.706389",
   "layer_geom_type_s": "Image",
   "solr_geom": "ENVELOPE(24.706389, 37.1153517, 31.8330854, 21.9999975)",
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Egypt",
     "Palestine"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

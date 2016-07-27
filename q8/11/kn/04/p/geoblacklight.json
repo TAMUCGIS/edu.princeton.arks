@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1667",
-  "uuid": "http://arks.princeton.edu/ark:/88435/q811kn04p",
   "dc_description_s": "Pascaerte van Caphalonia, het eylant Zante en de cust van Morea tot aen C. de Sapienza.",
-  "georss_box_s": "38.0568059 20.3368442 38.4752762 20.816034",
   "layer_modified_dt": "2015-01-21T22:24:00Z",
   "dc_creator_sm": [
     "Jacobsz, Theunis,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-q811kn04p",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/q811kn04p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/q8/11/kn/04/p/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "38.4752762 20.3368442 38.4752762 20.816034 38.0568059 20.816034 38.0568059 20.3368442 38.4752762 20.3368442",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1667"
@@ -26,5 +23,6 @@
     "Cephalonia (Greece : Municipality)",
     "Zakynthos Island (Greece)",
     "Peloponnesus (Greece : Peninsula)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

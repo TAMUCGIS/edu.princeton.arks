@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1812",
-  "uuid": "http://arks.princeton.edu/ark:/88435/z890rw74f",
   "dc_description_s": "A view of the course of the Ganges, through the country in the dry season ; Inland navigation of the River Ganges",
-  "georss_box_s": "22.3575259 77.999674 30.1450933 91.2570587",
   "layer_modified_dt": "2015-01-21T22:24:21Z",
   "dc_creator_sm": [
     "Rennell, James,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-z890rw74f",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/z890rw74f/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/z8/90/rw/74/f/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "30.1450933 77.999674 30.1450933 91.2570587 22.3575259 91.2570587 22.3575259 77.999674 30.1450933 77.999674",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1812"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Ganges River (India and Bangladesh)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1624",
-  "uuid": "http://arks.princeton.edu/ark:/88435/6w924f27s",
   "dc_description_s": "Creta, Iouis magni, medio iacet insula ponto",
-  "georss_box_s": "39.6040662 6.5382074 44.7240662 11.6582074",
   "layer_modified_dt": "2015-01-21T22:24:06Z",
   "dc_creator_sm": [
     "Ortelius, Abraham,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-6w924f27s",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/6w924f27s/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/6w/92/4f/27/s/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "44.7240662 6.5382074 44.7240662 11.6582074 39.6040662 11.6582074 39.6040662 6.5382074 44.7240662 6.5382074",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1624"
@@ -27,5 +24,6 @@
     "Crete (Greece)",
     "Ionian Islands (Greece)",
     "Sardinia (Italy)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

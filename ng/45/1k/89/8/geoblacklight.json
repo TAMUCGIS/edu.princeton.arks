@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1827",
-  "uuid": "http://arks.princeton.edu/ark:/88435/ng451k898",
   "dc_description_s": "Partie du Guatemala",
-  "georss_box_s": "6.0 -89.6666666667 12.0 -81.6666666667",
   "layer_modified_dt": "2015-01-19T22:37:03Z",
   "dc_creator_sm": [
     "Vandermaelen, Philippe, 1795-1869."
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-ng451k898",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/ng451k898/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ng/45/1k/89/8/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "12.0 -89.6666666667 12.0 -81.6666666667 6.0 -81.6666666667 6.0 -89.6666666667 12.0 -89.6666666667",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1827"
@@ -26,5 +23,6 @@
     "Costa Rica",
     "Nicaragua",
     "Panama"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

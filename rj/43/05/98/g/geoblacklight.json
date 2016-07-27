@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(11.2594, 11.3477, 48.1358, 48.08702)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/rj430598g\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/rj430598g/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/rj430598g",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Stadte-Verlag",
   "dc_type_s": "Image",
   "dc_identifier_s": "rj430598g",
-  "georss_polygon_s": "48.1358 11.2594 48.1358 11.3477 48.08702 11.3477 48.08702 11.2594 48.1358 11.2594",
   "dc_publisher_s": "Stadte-Verlag",
   "solr_year_i": "1969",
   "dct_spatial_sm": [
@@ -30,9 +28,9 @@
     "Bavaria"
   ],
   "layer_id_s": "rj430598g",
-  "georss_box_s": "48.08702 11.2594 48.1358 11.3477",
   "dc_title_s": "Ortsplan Gilching (Landkreis Starnberg) mit Gemeinde Argelsreid",
   "layer_slug_s": "princeton-rj430598g",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

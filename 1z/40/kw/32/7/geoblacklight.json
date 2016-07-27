@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1610",
-  "uuid": "http://arks.princeton.edu/ark:/88435/1z40kw327",
   "dc_description_s": "The countie of Radnor described and the shyretownes sittuatione.",
-  "georss_box_s": "52.4427049 -3.2761628 52.4827049 -3.2361628",
   "layer_modified_dt": "2015-01-25T02:06:16Z",
   "dc_creator_sm": [
     "Hondius, Jodocus,",
@@ -18,7 +16,6 @@
   "layer_slug_s": "princeton-1z40kw327",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/1z40kw327/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/1z/40/kw/32/7/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "52.4827049 -3.2761628 52.4827049 -3.2361628 52.4427049 -3.2361628 52.4427049 -3.2761628 52.4827049 -3.2761628",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1610"
@@ -27,5 +24,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Radnorshire (Wales)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }
