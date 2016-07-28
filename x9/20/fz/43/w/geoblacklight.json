@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(11.83, 11.90, 49.47, 49.43)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/x920fz43w\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/x920fz43w/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/x920fz43w",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Otto Wirth Verlag",
   "dc_type_s": "Image",
   "dc_identifier_s": "x920fz43w",
-  "georss_polygon_s": "49.47 11.83 49.47 11.90 49.43 11.90 49.43 11.83 49.47 11.83",
   "dc_publisher_s": "Otto Wirth Verlag",
   "solr_year_i": "1947",
   "dct_spatial_sm": [
@@ -26,9 +24,9 @@
     "Germany"
   ],
   "layer_id_s": "x920fz43w",
-  "georss_box_s": "49.43 11.83 49.47 11.90",
   "dc_title_s": "Stadtplan Amberg",
   "layer_slug_s": "princeton-x920fz43w",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1905",
-  "uuid": "http://arks.princeton.edu/ark:/88435/hx11xh06k",
   "dc_description_s": "Flat-globe of the world /",
-  "georss_box_s": "-90 0 90 180",
   "layer_modified_dt": "2015-01-21T22:23:42Z",
   "dc_creator_sm": [
     "Peary, Robert E."
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-hx11xh06k",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/hx11xh06k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/hx/11/xh/06/k/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "90 0 90 180 -90 180 -90 0 90 0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1905"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "Eastern Hemisphere",
     "Western Hemisphere"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

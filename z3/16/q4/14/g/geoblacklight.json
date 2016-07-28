@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1633",
-  "uuid": "http://arks.princeton.edu/ark:/88435/z316q414g",
   "dc_description_s": "Pedemontana regio cum Genuensium territorio & Montisferrati Marchionatu",
-  "georss_box_s": "44.3791252 8.7160912 44.514882 9.065573",
   "layer_modified_dt": "2015-01-25T02:06:23Z",
   "dc_creator_sm": [
     "Mercator, Gerhard,",
@@ -18,7 +16,6 @@
   "layer_slug_s": "princeton-z316q414g",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/z316q414g/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/z3/16/q4/14/g/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "44.514882 8.7160912 44.514882 9.065573 44.3791252 9.065573 44.3791252 8.7160912 44.514882 8.7160912",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1633"
@@ -29,5 +26,6 @@
     "Genoa (Italy : Province)",
     "Monferrato (Italy)",
     "Piedmont (Italy)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

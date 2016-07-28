@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1667",
-  "uuid": "http://arks.princeton.edu/ark:/88435/pn89d842s",
   "dc_description_s": "Pascaerte van Groen-landt, Yslandt, Straet Davids [sic] en Ian Mayen Eylandt : hoemen de selvige van Hitlandt en de noort custen van Schotlandt en Yrlandt beseylen mach",
-  "georss_box_s": "51.175092 157.732108 83.9999979 65.6777839",
   "layer_modified_dt": "2015-01-21T22:23:44Z",
   "dc_creator_sm": [
     "Jacobsz, Theunis,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-pn89d842s",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/pn89d842s/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/pn/89/d8/42/s/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "83.9999979 157.732108 83.9999979 65.6777839 51.175092 65.6777839 51.175092 157.732108 83.9999979 157.732108",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1667"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "Arctic regions",
     "North Atlantic Ocean"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

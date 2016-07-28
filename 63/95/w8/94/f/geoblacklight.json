@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1635",
-  "uuid": "http://arks.princeton.edu/ark:/88435/6395w894f",
   "dc_description_s": "Aethiopia inferior vel exterior",
-  "georss_box_s": "-34.967 11.4697 -16.9634855 33.0469",
   "layer_modified_dt": "2015-01-21T22:23:46Z",
   "dc_creator_sm": [
     "Blaeu, Joan,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-6395w894f",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/6395w894f/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/63/95/w8/94/f/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "-16.9634855 11.4697 -16.9634855 33.0469 -34.967 33.0469 -34.967 11.4697 -16.9634855 11.4697",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1635"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Africa, Southern"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-74.596, -74.543, 39.368, 39.32)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/ns064759h/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ns/06/47/59/h/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/ns064759h/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/ns064759h",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
@@ -18,7 +17,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "ns064759h",
-  "georss_polygon_s": "39.368 -74.596 39.368 -74.543 39.32 -74.543 39.32 -74.596 39.368 -74.596",
   "dc_publisher_s": "Sanborn Map Company",
   "solr_year_i": "1932",
   "dct_spatial_sm": [
@@ -28,9 +26,9 @@
     "United States"
   ],
   "layer_id_s": "ns064759h",
-  "georss_box_s": "39.32 -74.596 39.368 -74.543",
   "dc_title_s": "Linwood, Atlantic County, New Jersey (Sheet 4)",
   "dct_issued_s": "1932",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

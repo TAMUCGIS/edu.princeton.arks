@@ -1,11 +1,9 @@
 {
   "solr_year_i": "1731",
-  "uuid": "http://arks.princeton.edu/ark:/88435/1z40kv663",
   "dc_description_s": "Carte du nord est & du nord west du Pole",
-  "georss_box_s": "80 -0 90 0",
   "layer_modified_dt": "2015-01-21T22:23:44Z",
   "dc_creator_sm": [
-    "Bernard, Jean Fre\u0301de\u0301ric,"
+    "Bernard, Jean Frédéric,"
   ],
   "layer_id_s": "1z40kv663",
   "dc_type_s": "Image",
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-1z40kv663",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/1z40kv663/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/1z/40/kv/66/3/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "90 -0 90 0 80 0 80 -0 90 -0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1731"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "North Pole",
     "Arctic regions"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

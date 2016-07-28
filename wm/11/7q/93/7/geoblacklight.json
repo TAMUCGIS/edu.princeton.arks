@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1755",
-  "uuid": "http://arks.princeton.edu/ark:/88435/wm117q937",
   "dc_description_s": "Baye de Trinquemale = Baay van Tricoenmale",
-  "georss_box_s": "8.4165179 81.0694451 8.7365179 81.3894451",
   "layer_modified_dt": "2015-01-21T22:23:52Z",
   "dc_creator_sm": [
     "Schley, Jacobus van der,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-wm117q937",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/wm117q937/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/wm/11/7q/93/7/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "8.7365179 81.0694451 8.7365179 81.3894451 8.4165179 81.3894451 8.4165179 81.0694451 8.7365179 81.0694451",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1755"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Trincomalee (Sri Lanka)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

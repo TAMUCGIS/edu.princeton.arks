@@ -1,18 +1,15 @@
 {
   "solr_year_i": "1854",
-  "uuid": "http://arks.princeton.edu/ark:/88435/3197xp50g",
-  "dc_description_s": "Egypt and Arabia Petr\u00e6ea",
-  "georss_box_s": "22.0 29.0 32.0 37.0",
+  "dc_description_s": "Egypt and Arabia Petræea",
   "layer_modified_dt": "2015-01-19T22:37:19Z",
   "layer_id_s": "3197xp50g",
   "dc_type_s": "Image",
   "dc_identifier_s": "3197xp50g",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Egypt and Arabia Petr\u00e6ea",
+  "dc_title_s": "Egypt and Arabia Petræea",
   "layer_slug_s": "princeton-3197xp50g",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/3197xp50g/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/31/97/xp/50/g/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "32.0 29.0 32.0 37.0 22.0 37.0 22.0 29.0 32.0 29.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1854"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Arabia, Roman",
     "Egypt"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

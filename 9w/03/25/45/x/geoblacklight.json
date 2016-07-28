@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1807",
-  "uuid": "http://arks.princeton.edu/ark:/88435/9w032545x",
   "dc_description_s": "A map of the country from Rariton River in East Jersey to Elk Head in Maryland : shewing the several operations of the American and British armies, in 1776 & 1777",
-  "georss_box_s": "39.4281633 -75.6153473 41.9390068 -74.6877586",
   "layer_modified_dt": "2015-01-21T22:24:00Z",
   "dc_creator_sm": [
     "Marshall, John,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-9w032545x",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/9w032545x/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/9w/03/25/45/x/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "41.9390068 -75.6153473 41.9390068 -74.6877586 39.4281633 -74.6877586 39.4281633 -75.6153473 41.9390068 -75.6153473",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1807"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "New Jersey"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1867",
-  "uuid": "http://arks.princeton.edu/ark:/88435/00000245j",
   "dc_description_s": "Appomattox Court House",
-  "georss_box_s": "37.198151 -79.0227659 37.557735 -78.5942602",
   "layer_modified_dt": "2015-01-21T22:24:04Z",
   "dc_creator_sm": [
     "Michler, N."
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-00000245j",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/00000245j/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/00/00/02/45/j/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "37.557735 -79.0227659 37.557735 -78.5942602 37.198151 -78.5942602 37.198151 -79.0227659 37.557735 -79.0227659",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1867"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "United States"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

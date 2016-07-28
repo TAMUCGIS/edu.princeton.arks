@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1942",
-  "uuid": "http://arks.princeton.edu/ark:/88435/xw42n9706",
   "dc_description_s": "New Jersey: Princeton Quadrangle",
-  "georss_box_s": "40.25000 -74.75000 40.50000 -74.50000",
   "layer_modified_dt": "2015-01-19T22:36:35Z",
   "dc_creator_sm": [
     "Vermeule, Cornelius Clarkson."
@@ -15,12 +13,14 @@
   "layer_slug_s": "princeton-xw42n9706",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/xw42n9706/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/xw/42/n9/70/6/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.50000 -74.75000 40.50000 -74.50000 40.25000 -74.50000 40.25000 -74.75000 40.50000 -74.75000",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1942"
   ],
   "solr_geom": "ENVELOPE(-74.75000, -74.50000, 40.50000, 40.25000)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

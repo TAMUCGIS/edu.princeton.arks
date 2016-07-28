@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(6.0382, 6.2421, 51.8650, 51.7329)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/m326m325r\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/m326m325r/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/m326m325r",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Great Britain. War Office. General Staff. Geographical Section. G.S.G.S 4480",
   "dc_type_s": "Image",
   "dc_identifier_s": "m326m325r",
-  "georss_polygon_s": "51.8650 6.0382 51.8650 6.2421 51.7329 6.2421 51.7329 6.0382 51.8650 6.0382",
   "dc_publisher_s": "Great Britain. War Office. General Staff. Geographical Section.",
   "solr_year_i": "1944",
   "dct_spatial_sm": [
@@ -32,9 +30,9 @@
     "Nordrhein-Westfalen"
   ],
   "layer_id_s": "m326m325r",
-  "georss_box_s": "51.7329 6.0382 51.8650 6.2421",
   "dc_title_s": "Cleve (Kleve). G.S.G.S. 4480",
   "layer_slug_s": "princeton-m326m325r",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

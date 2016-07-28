@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(10.9449, 11.3404, 59.4157, 59.1167)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/6682x551t\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/6682x551t/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/6682x551t",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "H.C. Wanggard/Emil Mostue A.S.",
   "dc_type_s": "Image",
   "dc_identifier_s": "6682x551t",
-  "georss_polygon_s": "59.4157 10.9449 59.4157 11.3404 59.1167 11.3404 59.1167 10.9449 59.4157 10.9449",
   "dc_publisher_s": "H.C. Wanggard/Emil Mostue A.S.",
   "solr_year_i": "1950",
   "dct_spatial_sm": [
@@ -26,9 +24,9 @@
     "Norway"
   ],
   "layer_id_s": "6682x551t",
-  "georss_box_s": "59.1167 10.9449 59.4157 11.3404",
   "dc_title_s": "Kart over Sarpsborg",
   "layer_slug_s": "princeton-6682x551t",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

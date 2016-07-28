@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1902",
-  "uuid": "http://arks.princeton.edu/ark:/88435/2v23vw234",
   "dc_description_s": "South Africa",
-  "georss_box_s": "-46.9813794 16.45194 -22.12503 38.0037335",
   "layer_modified_dt": "2015-01-21T22:23:45Z",
   "layer_id_s": "2v23vw234",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-2v23vw234",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/2v23vw234/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/2v/23/vw/23/4/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "-22.12503 16.45194 -22.12503 38.0037335 -46.9813794 38.0037335 -46.9813794 16.45194 -22.12503 16.45194",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1902"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "South Africa",
     "Namibia"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

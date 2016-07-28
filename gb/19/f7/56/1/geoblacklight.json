@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-91.55, -91.54, 14.18, -14.17)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/gb19f7561\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/gb19f7561/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/gb19f7561",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "United States Office of Strategic Services, Research and Analysis Branch",
   "dc_type_s": "Image",
   "dc_identifier_s": "gb19f7561",
-  "georss_polygon_s": "14.18 -91.55 14.18 -91.54 -14.17 -91.54 -14.17 -91.55 14.18 -91.55",
   "dc_publisher_s": "United States Office of Strategic Services, Research and Analysis Branch",
   "solr_year_i": "1943",
   "dct_spatial_sm": [
@@ -27,9 +25,9 @@
     "Departamento de Retalhuleu     "
   ],
   "layer_id_s": "gb19f7561",
-  "georss_box_s": "-14.17 -91.55 14.18 -91.54",
   "dc_title_s": "Champerico and environs, Guatemala",
   "layer_slug_s": "princeton-gb19f7561",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

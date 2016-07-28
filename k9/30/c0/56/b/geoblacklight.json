@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1850",
-  "uuid": "http://arks.princeton.edu/ark:/88435/k930c056b",
   "dc_description_s": "Preliminary sketch showing the soundings off the sea coast of Delaware and Maryland",
-  "georss_box_s": "38.1666666667 -75.25 38.6666666667 -74.75",
   "layer_modified_dt": "2015-01-23T17:48:39Z",
   "dc_creator_sm": [
     "Bache, A. D.",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-k930c056b",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/k930c056b/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/k9/30/c0/56/b/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "38.6666666667 -75.25 38.6666666667 -74.75 38.1666666667 -74.75 38.1666666667 -75.25 38.6666666667 -75.25",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1850"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "North Atlantic Ocean"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

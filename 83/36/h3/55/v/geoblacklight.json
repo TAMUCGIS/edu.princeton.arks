@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(38.778552, 49.433333, 37.378982, 28.833333)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/8336h355v\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/8336h355v/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/8336h355v",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Populated Places",
@@ -16,7 +15,6 @@
   "dc_creator_sm": "ESOC Group",
   "dc_type_s": "Image",
   "dc_identifier_s": "8336h355v",
-  "georss_polygon_s": "37.378982 38.778552 37.378982 49.433333 28.833333 49.433333 28.833333 38.778552 37.378982 38.778552",
   "dc_publisher_s": "ESOC Group",
   "solr_year_i": "2009",
   "dct_spatial_sm": [
@@ -24,9 +22,9 @@
     "Middle East"
   ],
   "layer_id_s": "8336h355v",
-  "georss_box_s": "28.833333 38.778552 37.378982 49.433333",
   "dc_title_s": "Geographic Points of Interest (Places)",
   "layer_slug_s": "princeton-8336h355v",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

@@ -1,10 +1,9 @@
 {
-  "dc_description_s": "This is a city map of Stockholm, Sweden, shown at a 1:12,000 scale. This city map was created by Stockholms Stadsm\u00e4tningsavdelning/Generalstabens Litografiska Anstalt.",
+  "dc_description_s": "This is a city map of Stockholm, Sweden, shown at a 1:12,000 scale. This city map was created by Stockholms Stadsmätningsavdelning/Generalstabens Litografiska Anstalt.",
   "layer_modified_dt": "2015-01-11T18:25:20Z",
   "solr_geom": "ENVELOPE(17.9827, 18.1422, 59.3659, 59.2832)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/mw22v719h\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/mw22v719h/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/mw22v719h",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -16,11 +15,10 @@
   ],
   "dc_format_s": "Scanned Map",
   "dct_issued_s": "1969",
-  "dc_creator_sm": "Stockholms Stadsm\u00e4tningsavdelning/Generalstabens Litografiska Anstalt",
+  "dc_creator_sm": "Stockholms Stadsmätningsavdelning/Generalstabens Litografiska Anstalt",
   "dc_type_s": "Image",
   "dc_identifier_s": "mw22v719h",
-  "georss_polygon_s": "59.3659 17.9827 59.3659 18.1422 59.2832 18.1422 59.2832 17.9827 59.3659 17.9827",
-  "dc_publisher_s": "Stockholms Stadsm\u00e4tningsavdelning/Generalstabens Litografiska Anstalt",
+  "dc_publisher_s": "Stockholms Stadsmätningsavdelning/Generalstabens Litografiska Anstalt",
   "solr_year_i": "1969",
   "dct_spatial_sm": [
     "Stockholm",
@@ -28,9 +26,9 @@
     "Tukholma"
   ],
   "layer_id_s": "mw22v719h",
-  "georss_box_s": "59.2832 17.9827 59.3659 18.1422",
-  "dc_title_s": "Stockholm, innerstaden/ med f\u00f6rorter",
+  "dc_title_s": "Stockholm, innerstaden/ med förorter",
   "layer_slug_s": "princeton-mw22v719h",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

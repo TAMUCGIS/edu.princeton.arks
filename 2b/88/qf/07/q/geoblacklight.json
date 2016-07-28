@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1828",
-  "uuid": "http://arks.princeton.edu/ark:/88435/2b88qf07q",
   "dc_description_s": "Carte de la Turquie d'Europe",
-  "georss_box_s": "36.3854134 13.4285022 45.9089096 29.619427",
   "layer_modified_dt": "2015-01-21T22:23:49Z",
   "layer_id_s": "2b88qf07q",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-2b88qf07q",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/2b88qf07q/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/2b/88/qf/07/q/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "45.9089096 13.4285022 45.9089096 29.619427 36.3854134 29.619427 36.3854134 13.4285022 45.9089096 13.4285022",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1828"
@@ -24,5 +21,6 @@
     "Greece",
     "Turkey",
     "Turkey"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

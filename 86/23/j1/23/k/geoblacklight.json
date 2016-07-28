@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1610",
-  "uuid": "http://arks.princeton.edu/ark:/88435/8623j123k",
   "dc_description_s": "Hereford-shire described with the true plot of the citie Hereford as alsoe the armes of thos nobles that have bene intituled with that dignitye",
-  "georss_box_s": "51.74000 -3.20000 52.40000 -2.40000",
   "layer_modified_dt": "2015-01-23T17:48:37Z",
   "dc_creator_sm": [
     "Humble, George,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-8623j123k",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/8623j123k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/86/23/j1/23/k/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "52.40000 -3.20000 52.40000 -2.40000 51.74000 -2.40000 51.74000 -3.20000 52.40000 -3.20000",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1610"
@@ -26,5 +23,6 @@
   "dct_spatial_sm": [
     "Great Britain",
     "Herefordshire (England)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

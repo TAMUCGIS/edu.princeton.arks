@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(13.5776, 13.9587, 51.1755, 50.9736)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/cn69m581b\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/cn69m581b/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/cn69m581b",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Leop. Kraatz; Greiben's Guide Books",
   "dc_type_s": "Image",
   "dc_identifier_s": "cn69m581b",
-  "georss_polygon_s": "51.1755 13.5776 51.1755 13.9587 50.9736 13.9587 50.9736 13.5776 51.1755 13.5776",
   "dc_publisher_s": "Greiben's Guide Books",
   "solr_year_i": "1923",
   "dct_spatial_sm": [
@@ -28,9 +26,9 @@
     "Freistaat Sachsen"
   ],
   "layer_id_s": "cn69m581b",
-  "georss_box_s": "50.9736 13.5776 51.1755 13.9587",
   "dc_title_s": "Plan of Dresden",
   "layer_slug_s": "princeton-cn69m581b",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

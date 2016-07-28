@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1777",
-  "uuid": "http://arks.princeton.edu/ark:/88435/9p290c751",
   "dc_description_s": "A topographical map of the northn. part of New York Island, exhibiting the plan of Fort Washington, now Fort Knyphausen, with the rebels lines to the southward, which were forced by the troops under the command of the Rt. Honble. Earl Percy on the 16th. Novr. 1776, and survey'd immediately after by order of His Lordship",
-  "georss_box_s": "40.8455276564 -73.9482111463 40.8550971254 -73.9330020118",
   "layer_modified_dt": "2015-01-21T22:24:01Z",
   "dc_creator_sm": [
     "Fox, N. B.,"
@@ -15,12 +13,14 @@
   "layer_slug_s": "princeton-9p290c751",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/9p290c751/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/9p/29/0c/75/1/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.8550971254 -73.9482111463 40.8550971254 -73.9330020118 40.8455276564 -73.9330020118 40.8455276564 -73.9482111463 40.8550971254 -73.9482111463",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1777"
   ],
   "solr_geom": "ENVELOPE(-73.9482111463, -73.9330020118, 40.8550971254, 40.8455276564)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

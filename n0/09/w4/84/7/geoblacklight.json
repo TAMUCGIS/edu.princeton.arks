@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1896",
-  "uuid": "http://arks.princeton.edu/ark:/88435/n009w4847",
   "dc_description_s": "A topographical map of the vicinity of Camden to Burlington, Winslow, Elmer and Swedesboro : from original surveys and levelings based on the triangulation of the U.S. Coast and Geodetic Survey /",
-  "georss_box_s": "39.0 -75.0 40.0 -74.0",
   "layer_modified_dt": "2015-01-23T17:48:40Z",
   "dc_creator_sm": [
     "Smock, John C.",
@@ -16,12 +14,14 @@
   "layer_slug_s": "princeton-n009w4847",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/n009w4847/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/n0/09/w4/84/7/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.0 -75.0 40.0 -74.0 39.0 -74.0 39.0 -75.0 40.0 -75.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1896"
   ],
   "solr_geom": "ENVELOPE(-75.0, -74.0, 40.0, 39.0)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

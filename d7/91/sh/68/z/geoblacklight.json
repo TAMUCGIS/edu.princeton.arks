@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(13.8138, 14.0198, 52.6032, 52.5145)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/d791sh68z\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/d791sh68z/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/d791sh68z",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "VEB Landkartenverlag",
   "dc_type_s": "Image",
   "dc_identifier_s": "d791sh68z",
-  "georss_polygon_s": "52.6032 13.8138 52.6032 14.0198 52.5145 14.0198 52.5145 13.8138 52.6032 13.8138",
   "dc_publisher_s": "VEB Landkartenverlag",
   "solr_year_i": "1968",
   "dct_spatial_sm": [
@@ -27,9 +25,9 @@
     "Brandenburg Land"
   ],
   "layer_id_s": "d791sh68z",
-  "georss_box_s": "52.5145 13.8138 52.6032 14.0198",
   "dc_title_s": "Strausberg und Umgebung",
   "layer_slug_s": "princeton-d791sh68z",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

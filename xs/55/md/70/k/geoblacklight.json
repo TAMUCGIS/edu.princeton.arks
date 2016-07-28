@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-75.0381, -75.0317, 39.899, 39.8951)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/xs55md70k/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/xs/55/md/70/k/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/xs55md70k/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/xs55md70k",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "xs55md70k",
-  "georss_polygon_s": "39.899 -75.0381 39.899 -75.0317 39.8951 -75.0317 39.8951 -75.0381 39.899 -75.0381",
   "dc_publisher_s": "Sanborn Map Company",
   "solr_year_i": "1923",
   "dct_spatial_sm": [
@@ -28,9 +26,9 @@
     "United States"
   ],
   "layer_id_s": "xs55md70k",
-  "georss_box_s": "39.8951 -75.0381 39.899 -75.0317",
   "dc_title_s": "Haddonfield, Camden County, New Jersey (Sheet 3)",
   "dct_issued_s": "1923",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

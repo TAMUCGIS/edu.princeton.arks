@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1903",
-  "uuid": "http://arks.princeton.edu/ark:/88435/0r9675569",
   "dc_description_s": "Massachusetts: Boston Quadrangle",
-  "georss_box_s": "42.25000 -71.25000 42.50000 -71.00000",
   "layer_modified_dt": "2015-01-19T22:36:40Z",
   "dc_creator_sm": [
     "Sutton, Frank.",
@@ -19,12 +17,14 @@
   "layer_slug_s": "princeton-0r9675569",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/0r9675569/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/0r/96/75/56/9/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "42.50000 -71.25000 42.50000 -71.00000 42.25000 -71.00000 42.25000 -71.25000 42.50000 -71.25000",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1903"
   ],
   "solr_geom": "ENVELOPE(-71.25000, -71.00000, 42.50000, 42.25000)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

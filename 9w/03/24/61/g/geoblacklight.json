@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(8.5998, 8.6736, 48.1019, 48.0425)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/9w032461g\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/9w032461g/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/9w032461g",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Stadte-Verlag",
   "dc_type_s": "Image",
   "dc_identifier_s": "9w032461g",
-  "georss_polygon_s": "48.1019 8.5998 48.1019 8.6736 48.0425 8.6736 48.0425 8.5998 48.1019 8.5998",
   "dc_publisher_s": "Stadte-Verlag",
   "solr_year_i": "1970",
   "dct_spatial_sm": [
@@ -27,9 +25,9 @@
     "Baden-Wuerttemberg Land"
   ],
   "layer_id_s": "9w032461g",
-  "georss_box_s": "48.0425 8.5998 48.1019 8.6736",
   "dc_title_s": "Stadtplan Trossingen",
   "layer_slug_s": "princeton-9w032461g",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

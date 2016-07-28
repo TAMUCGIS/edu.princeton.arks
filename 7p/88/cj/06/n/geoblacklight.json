@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-77, -76.75, 38.75, 38.5)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/7p88cj06n/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/7p/88/cj/06/n/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/7p88cj06n/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/7p88cj06n",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "historical maps",
@@ -20,7 +19,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "7p88cj06n",
-  "georss_polygon_s": "38.75 -77 38.75 -76.75 38.5 -76.75 38.5 -77 38.75 -77",
   "dc_publisher_s": "US Geological Survey",
   "dct_spatial_sm": [
     "Brandywine",
@@ -30,9 +28,9 @@
     "United States"
   ],
   "layer_id_s": "7p88cj06n",
-  "georss_box_s": "38.5 -77 38.75 -76.75",
   "dc_title_s": "Maryland: Brandywine Quadrangle [1913] ",
   "dct_issued_s": "February 1913",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

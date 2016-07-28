@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1745",
-  "uuid": "http://arks.princeton.edu/ark:/88435/jw827d49g",
-  "dc_description_s": "Septemtrionaliora Americ\u00e6 a\u0300 Groenlandia, per Freta Davidis et Hudson, ad Terram Novam",
-  "georss_box_s": "41.6765556 -141.0027499 83.3362128 -52.323198",
+  "dc_description_s": "Septemtrionaliora Americæ à Groenlandia, per Freta Davidis et Hudson, ad Terram Novam",
   "layer_modified_dt": "2015-01-21T22:23:44Z",
   "dc_creator_sm": [
     "Ottens, J.",
@@ -13,11 +11,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "jw827d49g",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Septemtrionaliora Americ\u00e6 a\u0300 Groenlandia, per Freta Davidis et Hudson, ad Terram Novam",
+  "dc_title_s": "Septemtrionaliora Americæ à Groenlandia, per Freta Davidis et Hudson, ad Terram Novam",
   "layer_slug_s": "princeton-jw827d49g",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/jw827d49g/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/jw/82/7d/49/g/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "83.3362128 -141.0027499 83.3362128 -52.323198 41.6765556 -52.323198 41.6765556 -141.0027499 83.3362128 -141.0027499",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1745"
@@ -28,5 +25,6 @@
     "Canada",
     "Hudson Bay",
     "Labrador"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

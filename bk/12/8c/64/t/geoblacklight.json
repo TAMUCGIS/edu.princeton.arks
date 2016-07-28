@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-82.4617, -82.4134, 8.804, 8.69)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/bk128c64t\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/bk128c64t/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/bk128c64t",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -19,7 +18,6 @@
   "dc_creator_sm": "Instituto Geografico Nacional",
   "dc_type_s": "Image",
   "dc_identifier_s": "bk128c64t",
-  "georss_polygon_s": "8.804 -82.4617 8.804 -82.4134 8.69 -82.4134 8.69 -82.4617 8.804 -82.4617",
   "dc_publisher_s": "Instituto Geografico Nacional",
   "solr_year_i": "1995",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "Chiriqui Province"
   ],
   "layer_id_s": "bk128c64t",
-  "georss_box_s": "8.69 -82.4617 8.804 -82.4134",
   "dc_title_s": "Panama 1:12,500. Boquete. Serie E961",
   "layer_slug_s": "princeton-bk128c64t",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

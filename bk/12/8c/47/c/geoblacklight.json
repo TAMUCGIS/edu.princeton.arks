@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(121.0667, 121.1500, 22.800, 22.7333)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/bk128c47c/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/bk/12/8c/47/c/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/bk128c47c/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/bk128c47c",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
@@ -23,7 +22,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "bk128c47c",
-  "georss_polygon_s": "22.800 121.0667 22.800 121.1500 22.7333 121.1500 22.7333 121.0667 22.800 121.0667",
   "dc_publisher_s": "Army Map Service",
   "solr_year_i": "1944",
   "dct_spatial_sm": [
@@ -36,9 +34,9 @@
     "Taiwan"
   ],
   "layer_id_s": "bk128c47c",
-  "georss_box_s": "22.7333 121.0667 22.800 121.1500",
   "dc_title_s": "Taito, Formosa, Taito-cho, Taito-gun. A.M.S. L991. ",
   "dct_issued_s": "1944",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

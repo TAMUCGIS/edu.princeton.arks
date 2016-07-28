@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1600",
-  "uuid": "http://arks.princeton.edu/ark:/88435/bn999858w",
   "dc_description_s": "Novi orbis pars borealis, America scilicet, complectens Floridam, Baccalaon, Canadam, terram Corterialem, Virginiam, Norombecam, pluresque alias provincias",
-  "georss_box_s": "50.9999502 -109.0000502 51.0000502 -108.9999502",
   "layer_modified_dt": "2015-01-21T22:23:44Z",
   "dc_creator_sm": [
     "Jode, Cornelis de,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-bn999858w",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/bn999858w/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/bn/99/98/58/w/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.0000502 -109.0000502 51.0000502 -108.9999502 50.9999502 -108.9999502 50.9999502 -109.0000502 51.0000502 -109.0000502",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1600"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "North America"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

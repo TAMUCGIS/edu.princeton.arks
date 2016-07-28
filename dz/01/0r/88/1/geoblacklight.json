@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1918",
-  "uuid": "http://arks.princeton.edu/ark:/88435/dz010r881",
   "dc_description_s": "Delaware: Cedar Creek Quadrangle",
-  "georss_box_s": "38.75000 -75.50000 39.00000 -75.25000",
   "layer_modified_dt": "2015-01-19T22:36:39Z",
   "dc_creator_sm": [
     "McBeth, J. F.",
@@ -19,11 +17,11 @@
   "layer_slug_s": "princeton-dz010r881",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/dz010r881/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/dz/01/0r/88/1/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "39.00000 -75.50000 39.00000 -75.25000 38.75000 -75.25000 38.75000 -75.50000 39.00000 -75.50000",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1918"
   ],
   "solr_geom": "ENVELOPE(-75.50000, -75.25000, 39.00000, 38.75000)",
-  "dc_rights_s": "Public"
+  "dc_rights_s": "Public",
+  "geoblacklight_version": "1.0"
 }

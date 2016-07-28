@@ -1,7 +1,5 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/2j62s7379",
   "dc_description_s": "County Roscommon, Province of Connaught, Ireland",
-  "georss_box_s": "53.5912446 -8.23068 53.6712446 -8.15068",
   "layer_modified_dt": "2015-01-21T22:24:24Z",
   "layer_id_s": "2j62s7379",
   "dc_type_s": "Image",
@@ -11,11 +9,11 @@
   "layer_slug_s": "princeton-2j62s7379",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/2j62s7379/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/2j/62/s7/37/9/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "53.6712446 -8.23068 53.6712446 -8.15068 53.5912446 -8.15068 53.5912446 -8.23068 53.6712446 -8.23068",
   "layer_geom_type_s": "Image",
   "solr_geom": "ENVELOPE(-8.23068, -8.15068, 53.6712446, 53.5912446)",
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Roscommon (Ireland : County)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

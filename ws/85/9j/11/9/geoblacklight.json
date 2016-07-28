@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1844",
-  "uuid": "http://arks.princeton.edu/ark:/88435/ws859j119",
   "dc_description_s": "Lissabon (Lisboa) 1844",
-  "georss_box_s": "38.6914845 -9.2294567 38.7957485 -9.0895574",
   "layer_modified_dt": "2015-01-21T22:24:10Z",
   "layer_id_s": "ws859j119",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-ws859j119",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/ws859j119/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ws/85/9j/11/9/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "38.7957485 -9.2294567 38.7957485 -9.0895574 38.6914845 -9.0895574 38.6914845 -9.2294567 38.7957485 -9.2294567",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1844"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Lisbon (Portugal)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

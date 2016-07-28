@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(44.213414, 44.578152, 33.452817, 33.185609)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/js956h22k/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/js956h22k/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/js956h22k/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/js956h22k",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Inland water resources"
@@ -16,7 +15,6 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "js956h22k",
-  "georss_polygon_s": "33.452817 44.213414 33.452817 44.578152 33.185609 44.578152 33.185609 44.213414 33.452817 44.213414",
   "dc_publisher_s": "LeadDog Consulting, LLC",
   "solr_year_i": "2006",
   "dct_spatial_sm": [
@@ -24,9 +22,9 @@
     "Iraq"
   ],
   "layer_id_s": "pulmap-restricted:js956h22k",
-  "georss_box_s": "33.185609 44.213414 33.452817 44.578152",
   "dc_title_s": "Baghdad poly water",
   "layer_slug_s": "princeton-js956h22k",
   "layer_geom_type_s": "Polygon",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

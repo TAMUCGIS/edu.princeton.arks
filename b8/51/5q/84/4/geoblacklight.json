@@ -1,22 +1,19 @@
 {
   "solr_year_i": "1782",
-  "uuid": "http://arks.princeton.edu/ark:/88435/b8515q844",
-  "dc_description_s": "Carte des isles de la Jamai\u0308que et de St. Domingue",
-  "georss_box_s": "17.0 -81.0 23.0 -71.0",
+  "dc_description_s": "Carte des isles de la Jamaïque et de St. Domingue",
   "layer_modified_dt": "2015-01-19T22:37:14Z",
   "dc_creator_sm": [
     "Mentelle, E.",
-    "Andre\u0301, Gaspard,"
+    "André, Gaspard,"
   ],
   "layer_id_s": "b8515q844",
   "dc_type_s": "Image",
   "dc_identifier_s": "b8515q844",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Carte des isles de la Jamai\u0308que et de St. Domingue",
+  "dc_title_s": "Carte des isles de la Jamaïque et de St. Domingue",
   "layer_slug_s": "princeton-b8515q844",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/b8515q844/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/b8/51/5q/84/4/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "23.0 -81.0 23.0 -71.0 17.0 -71.0 17.0 -81.0 23.0 -81.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1782"
@@ -26,5 +23,6 @@
   "dct_spatial_sm": [
     "Hispaniola",
     "Jamaica"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

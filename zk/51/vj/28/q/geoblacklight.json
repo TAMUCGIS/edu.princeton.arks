@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-71.5, -71.25, 41.75, 41.5)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/zk51vj28q/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/zk/51/vj/28/q/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/zk51vj28q/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/zk51vj28q",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "historical maps",
@@ -20,7 +19,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "zk51vj28q",
-  "georss_polygon_s": "41.75 -71.5 41.75 -71.25 41.5 -71.25 41.5 -71.5 41.75 -71.5",
   "dc_publisher_s": "US Geological Survey",
   "dct_spatial_sm": [
     "Narragansett",
@@ -33,9 +31,9 @@
     "United States"
   ],
   "layer_id_s": "zk51vj28q",
-  "georss_box_s": "41.5 -71.5 41.75 -71.25",
   "dc_title_s": "Rhode Island: Narragansett Bay Sheet [1924 reprint] ",
   "dct_issued_s": "June 1892",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

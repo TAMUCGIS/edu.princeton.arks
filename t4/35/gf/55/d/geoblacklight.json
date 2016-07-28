@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(17.6523, 18.5305, 42.9312, 42.3892)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/t435gf55d\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/t435gf55d/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/t435gf55d",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -21,7 +20,6 @@
   "dc_creator_sm": "United States Office of Strategic Services, Research and Analysis Branch",
   "dc_type_s": "Image",
   "dc_identifier_s": "t435gf55d",
-  "georss_polygon_s": "42.9312 17.6523 42.9312 18.5305 42.3892 18.5305 42.3892 17.6523 42.9312 17.6523",
   "dc_publisher_s": "United States Office of Strategic Services, Research and Analysis Branch",
   "solr_year_i": "1943",
   "dct_spatial_sm": [
@@ -31,9 +29,9 @@
     "Ragusa"
   ],
   "layer_id_s": "t435gf55d",
-  "georss_box_s": "42.3892 17.6523 42.9312 18.5305",
   "dc_title_s": "Dubrovnik",
   "layer_slug_s": "princeton-t435gf55d",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

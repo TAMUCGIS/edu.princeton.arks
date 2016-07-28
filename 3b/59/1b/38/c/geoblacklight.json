@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1952",
-  "uuid": "http://arks.princeton.edu/ark:/88435/3b591b38c",
   "dc_description_s": "Carte geologique detaillee de la France [a 1/80 000]: Lauterbourg.",
-  "georss_box_s": "48.64850 8.02970 49.00740 8.46620",
   "layer_modified_dt": "2015-01-19T22:36:37Z",
   "dc_creator_sm": [
     "Raguin, E."
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-3b591b38c",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/3b591b38c/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/3b/59/1b/38/c/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "49.00740 8.02970 49.00740 8.46620 48.64850 8.46620 48.64850 8.02970 49.00740 8.02970",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1952"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "France"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

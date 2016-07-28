@@ -1,14 +1,12 @@
 {
   "solr_year_i": "1787",
-  "uuid": "http://arks.princeton.edu/ark:/88435/8k71nk453",
   "dc_description_s": "Karte der Magellanischen Strasse",
-  "georss_box_s": "-53.1186765 -61.7726771 -50.7973005 -57.3662366",
   "layer_modified_dt": "2015-01-21T22:23:57Z",
   "dc_creator_sm": [
     "Cruz Cano y Olmedilla, Juan de la,",
     "Byron, John,",
     "Wallis, Samuel,",
-    "Schra\u0308mbl, Franz Anton,",
+    "Schrämbl, Franz Anton,",
     "Gerstner, J."
   ],
   "layer_id_s": "8k71nk453",
@@ -19,7 +17,6 @@
   "layer_slug_s": "princeton-8k71nk453",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/8k71nk453/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/8k/71/nk/45/3/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "-50.7973005 -61.7726771 -50.7973005 -57.3662366 -53.1186765 -57.3662366 -53.1186765 -61.7726771 -50.7973005 -61.7726771",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1787"
@@ -30,5 +27,6 @@
     "Falkland Islands",
     "Magellan, Strait of (Chile and Argentina)",
     "Tierra del Fuego (Argentina and Chile)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

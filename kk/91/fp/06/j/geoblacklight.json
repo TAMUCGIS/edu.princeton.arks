@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1889",
-  "uuid": "http://arks.princeton.edu/ark:/88435/kk91fp06j",
   "dc_description_s": "Bayern",
-  "georss_box_s": "47.2701114 8.9763497 50.5647142 13.8396373",
   "layer_modified_dt": "2015-01-21T22:24:23Z",
   "dc_creator_sm": [
     "Hochdanz, E.,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-kk91fp06j",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/kk91fp06j/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/kk/91/fp/06/j/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "50.5647142 8.9763497 50.5647142 13.8396373 47.2701114 13.8396373 47.2701114 8.9763497 50.5647142 8.9763497",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1889"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Bavaria (Germany)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,12 +1,10 @@
 {
   "solr_year_i": "1545",
-  "uuid": "http://arks.princeton.edu/ark:/88435/r494vn65j",
   "dc_description_s": "Tabula nova prima Europa",
-  "georss_box_s": "50.9999503 9.9999497 51.0000503 10.0000497",
   "layer_modified_dt": "2015-01-25T02:06:15Z",
   "dc_creator_sm": [
     "Petri, Heinrich,",
-    "Mu\u0308nster, Sebastian,",
+    "Münster, Sebastian,",
     "Ptolemy,",
     "McCabe, Robert A.,"
   ],
@@ -18,7 +16,6 @@
   "layer_slug_s": "princeton-r494vn65j",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/r494vn65j/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/r4/94/vn/65/j/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.0000503 9.9999497 51.0000503 10.0000497 50.9999503 10.0000497 50.9999503 9.9999497 51.0000503 9.9999497",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1545"
@@ -27,5 +24,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Europe"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

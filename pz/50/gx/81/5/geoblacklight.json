@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(14.2161, 14.7105, 50.1716, 49.9539)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/pz50gx815\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/pz50gx815/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/pz50gx815",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -19,7 +18,6 @@
   "dc_creator_sm": "Ustredni Sprava Geodezie a Kartografie",
   "dc_type_s": "Image",
   "dc_identifier_s": "pz50gx815",
-  "georss_polygon_s": "50.1716 14.2161 50.1716 14.7105 49.9539 14.7105 49.9539 14.2161 50.1716 14.2161",
   "dc_publisher_s": "Ustredni Sprava Geodezie a Kartografie",
   "solr_year_i": "1962",
   "dct_spatial_sm": [
@@ -30,9 +28,9 @@
     "Czech Republic"
   ],
   "layer_id_s": "pz50gx815",
-  "georss_box_s": "49.9539 14.2161 50.1716 14.7105",
   "dc_title_s": "Praha, Tchecoslovaquie",
   "layer_slug_s": "princeton-pz50gx815",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1705",
-  "uuid": "http://arks.princeton.edu/ark:/88435/p2676x971",
-  "dc_description_s": "Hambourg, ville imperiale d'Allemagne, tres fameux port de mer situe\u0301e a l'entre\u0301e de la Riviere d'Elbe a 53. degrez 50. minutes de latitude et a 28. degrez 15. minutes de longitude",
-  "georss_box_s": "53.3951118 9.7304736 53.7394377 10.3253403",
+  "dc_description_s": "Hambourg, ville imperiale d'Allemagne, tres fameux port de mer située a l'entrée de la Riviere d'Elbe a 53. degrez 50. minutes de latitude et a 28. degrez 15. minutes de longitude",
   "layer_modified_dt": "2015-01-21T22:24:00Z",
   "dc_creator_sm": [
     "Inselin, C.,",
@@ -12,11 +10,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "p2676x971",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Hambourg, ville imperiale d'Allemagne, tres fameux port de mer situe\u0301e a l'entre\u0301e de la Riviere d'Elbe a 53. degrez 50. minutes de latitude et a 28. degrez 15. minutes de longitude",
+  "dc_title_s": "Hambourg, ville imperiale d'Allemagne, tres fameux port de mer située a l'entrée de la Riviere d'Elbe a 53. degrez 50. minutes de latitude et a 28. degrez 15. minutes de longitude",
   "layer_slug_s": "princeton-p2676x971",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/p2676x971/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/p2/67/6x/97/1/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "53.7394377 9.7304736 53.7394377 10.3253403 53.3951118 10.3253403 53.3951118 9.7304736 53.7394377 9.7304736",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1705"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Hamburg (Germany)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

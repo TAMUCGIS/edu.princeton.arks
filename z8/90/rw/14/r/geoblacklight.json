@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1700",
-  "uuid": "http://arks.princeton.edu/ark:/88435/z890rw14r",
-  "dc_description_s": "Carte nouvelle de l'Ame\u0301rique angloise : contenant la Virginie, Mary-Land, Caroline, Pensylvania, Nouvelle Iorck, N. Iarsey, N. France, et les terres nouvellement de\u0301couerte dresse\u0301 sur les relations les plus nouvelles",
-  "georss_box_s": "49.674 -14.0155169 61.061 2.0919117",
+  "dc_description_s": "Carte nouvelle de l'Amérique angloise : contenant la Virginie, Mary-Land, Caroline, Pensylvania, Nouvelle Iorck, N. Iarsey, N. France, et les terres nouvellement découerte dressé sur les relations les plus nouvelles",
   "layer_modified_dt": "2015-01-21T22:23:50Z",
   "dc_creator_sm": [
     "Mortier, Pierre."
@@ -11,11 +9,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "z890rw14r",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Carte nouvelle de l'Ame\u0301rique angloise : contenant la Virginie, Mary-Land, Caroline, Pensylvania, Nouvelle Iorck, N. Iarsey, N. France, et les terres nouvellement de\u0301couerte dresse\u0301 sur les relations les plus nouvelles",
+  "dc_title_s": "Carte nouvelle de l'Amérique angloise : contenant la Virginie, Mary-Land, Caroline, Pensylvania, Nouvelle Iorck, N. Iarsey, N. France, et les terres nouvellement découerte dressé sur les relations les plus nouvelles",
   "layer_slug_s": "princeton-z890rw14r",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/z890rw14r/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/z8/90/rw/14/r/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "61.061 -14.0155169 61.061 2.0919117 49.674 2.0919117 49.674 -14.0155169 61.061 -14.0155169",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1700"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "Great Britain",
     "North America"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

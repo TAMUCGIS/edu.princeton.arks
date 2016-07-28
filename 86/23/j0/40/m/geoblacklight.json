@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-75.0325, -75.0222, 39.9036, 39.8937)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/8623j040m/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/86/23/j0/40/m/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/8623j040m/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/8623j040m",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "8623j040m",
-  "georss_polygon_s": "39.9036 -75.0325 39.9036 -75.0222 39.8937 -75.0222 39.8937 -75.0325 39.9036 -75.0325",
   "dc_publisher_s": "Sanborn Map Company",
   "solr_year_i": "1902",
   "dct_spatial_sm": [
@@ -28,9 +26,9 @@
     "United States"
   ],
   "layer_id_s": "8623j040m",
-  "georss_box_s": "39.8937 -75.0325 39.9036 -75.0222",
   "dc_title_s": "Haddonfield, Camden Co., N. J. (Sheet 12)",
   "dct_issued_s": "1902",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1920",
-  "uuid": "http://arks.princeton.edu/ark:/88435/5712m9044",
   "dc_description_s": "Grosses Relief-Panorama des Rheines",
-  "georss_box_s": "46.822878 6.0624861 51.86737 9.6713648",
   "layer_modified_dt": "2015-01-21T22:24:23Z",
   "dc_creator_sm": [
     "Cottier, Hamilton,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-5712m9044",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/5712m9044/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/57/12/m9/04/4/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.86737 6.0624861 51.86737 9.6713648 46.822878 9.6713648 46.822878 6.0624861 51.86737 6.0624861",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1920"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Rhine River"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1866",
-  "uuid": "http://arks.princeton.edu/ark:/88435/n870zt298",
   "dc_description_s": "Map illustrating M. du Chaillu's routes in Equatorial Africa in 1864 & -65",
-  "georss_box_s": "-2.11667 9.00000 0.83333 13.00000",
   "layer_modified_dt": "2015-01-19T22:37:22Z",
   "dc_creator_sm": [
     "Weller, Edward,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-n870zt298",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/n870zt298/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/n8/70/zt/29/8/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "0.83333 9.00000 0.83333 13.00000 -2.11667 13.00000 -2.11667 9.00000 0.83333 9.00000",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1866"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "French Equatorial Africa"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

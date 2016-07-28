@@ -1,13 +1,11 @@
 {
   "solr_year_i": "1520",
-  "uuid": "http://arks.princeton.edu/ark:/88435/jh343v80w",
   "dc_description_s": "Octava Asie tabula",
-  "georss_box_s": "35.12876 46.493672 55.441984 87.315415",
   "layer_modified_dt": "2015-01-21T22:24:23Z",
   "dc_creator_sm": [
     "Ptolemy,",
     "Schott, Johann,",
-    "Waldseemu\u0308ller, Martin,"
+    "Waldseemüller, Martin,"
   ],
   "layer_id_s": "jh343v80w",
   "dc_type_s": "Image",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-jh343v80w",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/jh343v80w/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/jh/34/3v/80/w/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "55.441984 46.493672 55.441984 87.315415 35.12876 87.315415 35.12876 46.493672 55.441984 46.493672",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1520"
@@ -27,5 +24,6 @@
   "dct_spatial_sm": [
     "Asia, Central",
     "Xinjiang Uygur Zizhiqu  (China)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1781",
-  "uuid": "http://arks.princeton.edu/ark:/88435/7m01bp17d",
   "dc_description_s": "A map of East and West Florida, Georgia, and Louisiana : with the islands of Cuba, Bahama, and the countries surrounding the Gulf of Mexico, with the tract of the Spanish galleons, and of our fleets thro' the Straits of Florida, from the best authorities",
-  "georss_box_s": "24.1460306394 -98.8180948375 30.8640719826 -80.628727175",
   "layer_modified_dt": "2015-01-21T22:24:13Z",
   "dc_creator_sm": [
     "Lodge, John,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-7m01bp17d",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/7m01bp17d/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/7m/01/bp/17/d/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "30.8640719826 -98.8180948375 30.8640719826 -80.628727175 24.1460306394 -80.628727175 24.1460306394 -98.8180948375 30.8640719826 -98.8180948375",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1781"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Southern States"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

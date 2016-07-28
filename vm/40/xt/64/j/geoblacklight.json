@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1900",
-  "uuid": "http://arks.princeton.edu/ark:/88435/vm40xt64j",
   "dc_description_s": "Map of the Morven property, Princeton, N.J., 1900",
-  "georss_box_s": "40.3092744 -74.6992958 40.3892744 -74.6192958",
   "layer_modified_dt": "2015-01-21T22:23:53Z",
   "layer_id_s": "vm40xt64j",
   "dc_type_s": "Image",
@@ -12,12 +10,14 @@
   "layer_slug_s": "princeton-vm40xt64j",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/vm40xt64j/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/vm/40/xt/64/j/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.3892744 -74.6992958 40.3892744 -74.6192958 40.3092744 -74.6192958 40.3092744 -74.6992958 40.3892744 -74.6992958",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1900"
   ],
   "solr_geom": "ENVELOPE(-74.6992958, -74.6192958, 40.3892744, 40.3092744)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

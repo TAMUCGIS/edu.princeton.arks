@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(12.66, 12.73, 49.99, 49.94)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/dv13zv74p\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/dv13zv74p/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/dv13zv74p",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -19,7 +18,6 @@
   "dc_creator_sm": "Ustredni Sprava Geodezie a Kartografie",
   "dc_type_s": "Image",
   "dc_identifier_s": "dv13zv74p",
-  "georss_polygon_s": "49.99 12.66 49.99 12.73 49.94 12.73 49.94 12.66 49.99 12.66",
   "dc_publisher_s": "Ustredni Sprava Geodezie a Kartografie",
   "solr_year_i": "1960",
   "dct_spatial_sm": [
@@ -28,9 +26,9 @@
     "Czech Republic"
   ],
   "layer_id_s": "dv13zv74p",
-  "georss_box_s": "49.94 12.66 49.99 12.73",
   "dc_title_s": "Marianske Lazne, Orientacni plan",
   "layer_slug_s": "princeton-dv13zv74p",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1850",
-  "uuid": "http://arks.princeton.edu/ark:/88435/bc386m119",
   "dc_description_s": "Turchia Europea",
-  "georss_box_s": "38.8404775 43.4471395 41.300712 46.6333087",
   "layer_modified_dt": "2015-01-21T22:23:49Z",
   "layer_id_s": "bc386m119",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-bc386m119",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/bc386m119/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/bc/38/6m/11/9/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "41.300712 43.4471395 41.300712 46.6333087 38.8404775 46.6333087 38.8404775 43.4471395 41.300712 43.4471395",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1850"
@@ -24,5 +21,6 @@
     "Balkan Peninsula",
     "Greece",
     "Turkey"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

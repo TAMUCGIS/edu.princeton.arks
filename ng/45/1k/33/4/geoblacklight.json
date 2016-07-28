@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1901",
-  "uuid": "http://arks.princeton.edu/ark:/88435/ng451k334",
   "dc_description_s": "Geologic map of New York exhibiting the structure of the state so far as known: Hudson Mohawk sheet",
-  "georss_box_s": "42.00000 -74.83333 43.50000 -73.25000",
   "layer_modified_dt": "2015-01-19T22:36:36Z",
   "dc_creator_sm": [
     "Evans, A. M.",
@@ -17,12 +15,14 @@
   "layer_slug_s": "princeton-ng451k334",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/ng451k334/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ng/45/1k/33/4/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "43.50000 -74.83333 43.50000 -73.25000 42.00000 -73.25000 42.00000 -74.83333 43.50000 -74.83333",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1901"
   ],
   "solr_geom": "ENVELOPE(-74.83333, -73.25000, 43.50000, 42.00000)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

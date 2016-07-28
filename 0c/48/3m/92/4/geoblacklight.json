@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1870",
-  "uuid": "http://arks.princeton.edu/ark:/88435/0c483m924",
   "dc_description_s": "Campagna di Roma",
-  "georss_box_s": "42.094995 12.3060877 42.1748758 12.4277219",
   "layer_modified_dt": "2015-01-25T02:06:22Z",
   "dc_creator_sm": [
     "Loeillot, W.,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-0c483m924",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/0c483m924/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/0c/48/3m/92/4/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "42.1748758 12.3060877 42.1748758 12.4277219 42.094995 12.4277219 42.094995 12.3060877 42.1748758 12.3060877",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1870"
@@ -26,5 +23,6 @@
   "dct_spatial_sm": [
     "Campagna di Roma (Italy)",
     "Rome (Italy)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

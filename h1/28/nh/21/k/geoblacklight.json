@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1892",
-  "uuid": "http://arks.princeton.edu/ark:/88435/h128nh21k",
   "dc_description_s": "Rand, McNally & Co.'s indexed atlas of the world map of Ireland",
-  "georss_box_s": "51.0 -11.0 56.0 -5.0",
   "layer_modified_dt": "2015-01-23T17:48:38Z",
   "layer_id_s": "h128nh21k",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-h128nh21k",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/h128nh21k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/h1/28/nh/21/k/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "56.0 -11.0 56.0 -5.0 51.0 -5.0 51.0 -11.0 56.0 -11.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1892"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Ireland"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

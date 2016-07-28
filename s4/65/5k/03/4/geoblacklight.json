@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1865",
-  "uuid": "http://arks.princeton.edu/ark:/88435/s4655k034",
   "dc_description_s": "Sanitary & topographical map of the city and island of New York",
-  "georss_box_s": "40.7 -74.0166666667 40.8666666667 -73.9",
   "layer_modified_dt": "2015-01-19T22:37:10Z",
   "layer_id_s": "s4655k034",
   "dc_type_s": "Image",
@@ -12,12 +10,14 @@
   "layer_slug_s": "princeton-s4655k034",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/s4655k034/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/s4/65/5k/03/4/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.8666666667 -74.0166666667 40.8666666667 -73.9 40.7 -73.9 40.7 -74.0166666667 40.8666666667 -74.0166666667",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1865"
   ],
   "solr_geom": "ENVELOPE(-74.0166666667, -73.9, 40.8666666667, 40.7)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

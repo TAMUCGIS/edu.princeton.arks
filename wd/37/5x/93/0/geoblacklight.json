@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(77.5667, 77.600, 12.98334, 12.9667)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/wd375x930\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/wd375x930/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/wd375x930",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "City plan",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "India. Ministry of Transport and Communication",
   "dc_type_s": "Image",
   "dc_identifier_s": "wd375x930",
-  "georss_polygon_s": "12.98334 77.5667 12.98334 77.600 12.9667 77.600 12.9667 77.5667 12.98334 77.5667",
   "dc_publisher_s": "India. Ministry of Transport and Communication",
   "solr_year_i": "1958",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "MAX  G7654.B2.1958.I5M5"
   ],
   "layer_id_s": "wd375x930",
-  "georss_box_s": "12.9667 77.5667 12.98334 77.600",
   "dc_title_s": "Bangalore",
   "layer_slug_s": "princeton-wd375x930",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

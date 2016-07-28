@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-75.6, -73.85, 41.3, 38.85)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/w0892c44d/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/w0/89/2c/44/d/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/w0892c44d/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/w0892c44d",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Administrative boundaries",
@@ -23,16 +22,15 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "w0892c44d",
-  "georss_polygon_s": "41.3 -75.6 41.3 -73.85 38.85 -73.85 38.85 -75.6 41.3 -75.6",
   "dc_publisher_s": "Geological Survey of New Jersey",
   "dct_spatial_sm": [
     "United States",
     "New Jersey"
   ],
   "layer_id_s": "w0892c44d",
-  "georss_box_s": "38.85 -75.6 41.3 -73.85",
   "dc_title_s": "County and municipality map of New Jersey: political, Revised 1956",
   "dct_issued_s": "June 1956",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

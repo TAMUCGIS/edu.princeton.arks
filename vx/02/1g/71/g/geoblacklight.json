@@ -1,8 +1,6 @@
 {
   "layer_modified_dt": "2014-12-19T16:18:32Z",
-  "uuid": "http://arks.princeton.edu/ark:/88435/vx021g71g",
   "dc_description_s": "Points representing parks in Cairo.",
-  "georss_box_s": "29.840834 31.020267 30.174426 31.537957",
   "layer_slug_s": "princeton-vx021g71g",
   "dct_spatial_sm": [
     "Egypt",
@@ -12,7 +10,6 @@
     "Globe Telecom"
   ],
   "layer_id_s": "pulmap-restricted:vx021g71g",
-  "georss_polygon_s": "30.174426 31.020267 30.174426 31.537957 29.840834 31.537957 29.840834 31.020267 30.174426 31.020267",
   "dc_type_s": "Dataset",
   "dc_identifier_s": "vx021g71g",
   "dct_provenance_s": "Princeton",
@@ -27,5 +24,6 @@
   "layer_geom_type_s": "Point",
   "solr_geom": "ENVELOPE(31.020267, 31.537957, 30.174426, 29.840834)",
   "dc_rights_s": "Restricted",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

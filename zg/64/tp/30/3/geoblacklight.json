@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1818",
-  "uuid": "http://arks.princeton.edu/ark:/88435/zg64tp303",
   "dc_description_s": "Asia",
-  "georss_box_s": "-55.00000 45.00000 5.00000 170.00000",
   "layer_modified_dt": "2015-01-19T22:37:01Z",
   "dc_creator_sm": [
     "Hebert, L.",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-zg64tp303",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/zg64tp303/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/zg/64/tp/30/3/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "5.00000 45.00000 5.00000 170.00000 -55.00000 170.00000 -55.00000 45.00000 5.00000 45.00000",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1818"
@@ -26,5 +23,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Asia"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

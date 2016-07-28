@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(8.6369, 8.81990, 50.3634, 50.2910)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/s7526f03b\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/s7526f03b/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/s7526f03b",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Stadte-Verlag",
   "dc_type_s": "Image",
   "dc_identifier_s": "s7526f03b",
-  "georss_polygon_s": "50.3634 8.6369 50.3634 8.81990 50.2910 8.81990 50.2910 8.6369 50.3634 8.6369",
   "dc_publisher_s": "Stadte-Verlag",
   "solr_year_i": "1962",
   "dct_spatial_sm": [
@@ -33,9 +31,9 @@
     "Freistaat Bayern"
   ],
   "layer_id_s": "s7526f03b",
-  "georss_box_s": "50.2910 8.6369 50.3634 8.81990",
   "dc_title_s": "Stadtplan Friedberg",
   "layer_slug_s": "princeton-s7526f03b",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

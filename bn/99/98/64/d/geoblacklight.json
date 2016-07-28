@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1863",
-  "uuid": "http://arks.princeton.edu/ark:/88435/bn999864d",
   "dc_description_s": "South America, west coast : sheet VI, Chile : Tucapel Point to Point Lora",
-  "georss_box_s": "-55.9797808 -74.913785375 -18.3450331206 -68.6813852937",
   "layer_modified_dt": "2015-01-21T22:23:49Z",
   "dc_creator_sm": [
     "Fitzroy, Robert,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-bn999864d",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/bn999864d/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/bn/99/98/64/d/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "-18.3450331206 -74.913785375 -18.3450331206 -68.6813852937 -55.9797808 -68.6813852937 -55.9797808 -74.913785375 -18.3450331206 -74.913785375",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1863"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "Pacific Coast (Chile)",
     "Chile"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

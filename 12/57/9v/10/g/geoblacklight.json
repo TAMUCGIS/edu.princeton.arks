@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1897",
-  "uuid": "http://arks.princeton.edu/ark:/88435/12579v10g",
   "dc_description_s": "The Arctic regions : comprising the most recent explorations of Robert E. Peary, Fridtjof Nansen and F. Jackson",
-  "georss_box_s": "51.175092 157.732108 83.9999979 65.6777839",
   "layer_modified_dt": "2015-01-21T22:23:45Z",
   "dc_creator_sm": [
     "Ross, J. W."
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-12579v10g",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/12579v10g/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/12/57/9v/10/g/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "83.9999979 157.732108 83.9999979 65.6777839 51.175092 65.6777839 51.175092 157.732108 83.9999979 157.732108",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1897"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Arctic regions"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,11 +1,9 @@
 {
   "solr_year_i": "1572",
-  "uuid": "http://arks.princeton.edu/ark:/88435/rn301325x",
   "dc_description_s": "Venetiarum amplissima & maritima urbs : cum multis circumiacentibus insulis",
-  "georss_box_s": "45.2313141 12.1667974 45.5780573 12.5965713",
   "layer_modified_dt": "2015-01-21T22:23:47Z",
   "dc_creator_sm": [
-    "Mu\u0308nster, Sebastian,",
+    "Münster, Sebastian,",
     "Petri, Heinrich,",
     "McCabe, Robert A.,"
   ],
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-rn301325x",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/rn301325x/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/rn/30/13/25/x/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "45.5780573 12.1667974 45.5780573 12.5965713 45.2313141 12.5965713 45.2313141 12.1667974 45.5780573 12.1667974",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1572"
@@ -26,5 +23,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Venice (Italy)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

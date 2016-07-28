@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(15.5895, 15.6994, 46.5961, 46.5128)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/1g05fd21m\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/1g05fd21m/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/1g05fd21m",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -21,7 +20,6 @@
   "dc_creator_sm": "United States Office of Strategic Services, Research and Analysis Branch",
   "dc_type_s": "Image",
   "dc_identifier_s": "1g05fd21m",
-  "georss_polygon_s": "46.5961 15.5895 46.5961 15.6994 46.5128 15.6994 46.5128 15.5895 46.5961 15.5895",
   "dc_publisher_s": "United States Office of Strategic Services, Research and Analysis Branch",
   "solr_year_i": "1943",
   "dct_spatial_sm": [
@@ -30,9 +28,9 @@
     "Yugoslavia"
   ],
   "layer_id_s": "1g05fd21m",
-  "georss_box_s": "46.5128 15.5895 46.5961 15.6994",
   "dc_title_s": "Town plan of Maribor, as of October, 1935",
   "layer_slug_s": "princeton-1g05fd21m",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

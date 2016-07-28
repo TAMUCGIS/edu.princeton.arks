@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1796",
-  "uuid": "http://arks.princeton.edu/ark:/88435/z890rw67f",
   "dc_description_s": "Map of the common lands from 59th to 76th Street : showing the old streets and plots as surveyed and mapped in 1796 by Cassimer T.H. Goerck, City Surveyor, and resurveyed by Isaac T. Ludlam in 1822 and the distance between those old streets and our present streets",
-  "georss_box_s": "40.7702778 -73.9797222 40.8102778 -73.9397222",
   "layer_modified_dt": "2015-01-21T22:24:01Z",
   "dc_creator_sm": [
     "Neumann, Louis E.",
@@ -17,12 +15,14 @@
   "layer_slug_s": "princeton-z890rw67f",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/z890rw67f/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/z8/90/rw/67/f/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.8102778 -73.9797222 40.8102778 -73.9397222 40.7702778 -73.9397222 40.7702778 -73.9797222 40.8102778 -73.9797222",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1796"
   ],
   "solr_geom": "ENVELOPE(-73.9797222, -73.9397222, 40.8102778, 40.7702778)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

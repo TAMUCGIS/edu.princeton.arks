@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1954",
-  "uuid": "http://arks.princeton.edu/ark:/88435/kh04dr501",
   "dc_description_s": "Carte geologique detaillee de la France [a 1/80 000]: Saint-Omer.",
-  "georss_box_s": "50.57660 1.88190 50.93620 2.79250",
   "layer_modified_dt": "2015-01-19T22:36:36Z",
   "dc_creator_sm": [
     "Goguel, Jean"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-kh04dr501",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/kh04dr501/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/kh/04/dr/50/1/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "50.93620 1.88190 50.93620 2.79250 50.57660 2.79250 50.57660 1.88190 50.93620 1.88190",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1954"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "France"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

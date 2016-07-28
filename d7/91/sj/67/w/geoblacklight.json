@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1650",
-  "uuid": "http://arks.princeton.edu/ark:/88435/d791sj67w",
   "dc_description_s": "Shropshyre described : the sittuation of Shrowesbury shewed with the armes of thos Earles, and other memorable things observed",
-  "georss_box_s": "52.6679067 -2.7939829 52.7479067 -2.7139829",
   "layer_modified_dt": "2015-01-25T02:06:16Z",
   "layer_id_s": "d791sj67w",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-d791sj67w",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/d791sj67w/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/d7/91/sj/67/w/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "52.7479067 -2.7939829 52.7479067 -2.7139829 52.6679067 -2.7139829 52.6679067 -2.7939829 52.7479067 -2.7939829",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1650"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Shrewsbury (England)",
     "Shropshire (England)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,7 +1,5 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/rv042w44b",
   "dc_description_s": "Totius Neobelgii nova et accuratissima tabula",
-  "georss_box_s": "38.0020724983 -80.6300211 45.4767372853 -73.1174139",
   "layer_modified_dt": "2015-01-21T22:23:57Z",
   "dc_creator_sm": [
     "Ottens, J."
@@ -14,12 +12,12 @@
   "layer_slug_s": "princeton-rv042w44b",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/rv042w44b/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/rv/04/2w/44/b/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "45.4767372853 -80.6300211 45.4767372853 -73.1174139 38.0020724983 -73.1174139 38.0020724983 -80.6300211 45.4767372853 -80.6300211",
   "layer_geom_type_s": "Image",
   "solr_geom": "ENVELOPE(-80.6300211, -73.1174139, 45.4767372853, 38.0020724983)",
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Middle Atlantic States",
     "New England"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

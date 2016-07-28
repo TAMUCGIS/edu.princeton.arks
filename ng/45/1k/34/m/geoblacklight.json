@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1732",
-  "uuid": "http://arks.princeton.edu/ark:/88435/ng451k34m",
   "dc_description_s": "The west part of Barbary containing Fez, Marocco, Algiers and Tunis The east part of Barbary containing Tripoli, Barca and the north part of Egypt.",
-  "georss_box_s": "-42.0 -40.0 40.0 80.0",
   "layer_modified_dt": "2015-01-19T22:36:39Z",
   "dc_creator_sm": [
     "Bowles, John,",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-ng451k34m",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/ng451k34m/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ng/45/1k/34/m/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.0 -40.0 40.0 80.0 -42.0 80.0 -42.0 -40.0 40.0 -40.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1732"
@@ -26,5 +23,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Africa, North"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

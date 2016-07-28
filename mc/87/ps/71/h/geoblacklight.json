@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1915",
-  "uuid": "http://arks.princeton.edu/ark:/88435/mc87ps71h",
   "dc_description_s": "Mittelbach's neue Rad- Auto- und Verkehrskarte von Belgien und Luxemburg : mit angrenzenden Teilen von Frankreich und Holland",
-  "georss_box_s": "49.4969821 2.3889137 51.5516667 6.4080405",
   "layer_modified_dt": "2015-01-21T22:24:11Z",
   "layer_id_s": "mc87ps71h",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-mc87ps71h",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/mc87ps71h/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/mc/87/ps/71/h/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.5516667 2.3889137 51.5516667 6.4080405 49.4969821 6.4080405 49.4969821 2.3889137 51.5516667 2.3889137",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1915"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Belgium",
     "Luxembourg"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

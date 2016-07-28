@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(105.308386, 110.166654, 32.177185, 28.192044)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/rx913r31g/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/rx913r31g/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/rx913r31g/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/rx913r31g",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "demographic",
@@ -49,7 +48,6 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "rx913r31g",
-  "georss_polygon_s": "32.177185 105.308386 32.177185 110.166654 28.192044 110.166654 28.192044 105.308386 32.177185 105.308386",
   "solr_year_i": "2000",
   "dct_spatial_sm": [
     "China",
@@ -57,9 +55,9 @@
     "Chongqing Municipality"
   ],
   "layer_id_s": "pulmap-restricted:rx913r31g",
-  "georss_box_s": "28.192044 105.308386 32.177185 110.166654",
   "dc_title_s": "Township map of Chongqing with 2000 Census long form data (L7-L8)",
   "layer_slug_s": "princeton-rx913r31g",
   "layer_geom_type_s": "Point",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

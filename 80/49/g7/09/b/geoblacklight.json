@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-75.170823, -75.135095, 39.855007, 39.824056)",
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/80/49/g7/09/b/00000001.jp2/info.json\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/8049g709b",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
@@ -21,7 +20,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "8049g709b",
-  "georss_polygon_s": "39.855007 -75.170823 39.855007 -75.135095 39.824056 -75.135095 39.824056 -75.170823 39.855007 -75.170823",
   "dc_publisher_s": "New York: Sanborn Map Company",
   "solr_year_i": "1902",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "Woodbury"
   ],
   "layer_id_s": "8049g709b",
-  "georss_box_s": "39.824056 -75.170823 39.855007 -75.135095",
   "dc_title_s": "Woodbury, Gloucester Co., New Jersey (Sheet 8)",
   "layer_slug_s": "princeton-8049g709b",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

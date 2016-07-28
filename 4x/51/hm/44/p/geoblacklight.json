@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1702",
-  "uuid": "http://arks.princeton.edu/ark:/88435/4x51hm44p",
   "dc_description_s": "A new and correct chart shewing the variations of the compass in the western & southern oceans as observed in ye year 1700 by his Maties. command",
-  "georss_box_s": "9.9999501 -25.0000501 10.0000501 -24.9999501",
   "layer_modified_dt": "2015-01-21T22:24:01Z",
   "layer_id_s": "4x51hm44p",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-4x51hm44p",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/4x51hm44p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/4x/51/hm/44/p/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "10.0000501 -25.0000501 10.0000501 -24.9999501 9.9999501 -24.9999501 9.9999501 -25.0000501 10.0000501 -25.0000501",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1702"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Atlantic Ocean",
     "South America"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

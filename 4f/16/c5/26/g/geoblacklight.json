@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1887",
-  "uuid": "http://arks.princeton.edu/ark:/88435/4f16c526g",
   "dc_description_s": "Map of the Jumel, Murray, Burrall, Dickey and other estates : showing the farm lines, roads, lanes, streets, &c. as they exhisted [sic] 100 years ago and the present streets, drives and boulevards",
-  "georss_box_s": "40.7702778 -73.9797222 40.8102778 -73.9397222",
   "layer_modified_dt": "2015-01-21T22:24:05Z",
   "dc_creator_sm": [
     "Welcke, Robert A."
@@ -15,12 +13,14 @@
   "layer_slug_s": "princeton-4f16c526g",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/4f16c526g/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/4f/16/c5/26/g/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.8102778 -73.9797222 40.8102778 -73.9397222 40.7702778 -73.9397222 40.7702778 -73.9797222 40.8102778 -73.9797222",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1887"
   ],
   "solr_geom": "ENVELOPE(-73.9797222, -73.9397222, 40.8102778, 40.7702778)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

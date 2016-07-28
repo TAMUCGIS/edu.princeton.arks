@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1817",
-  "uuid": "http://arks.princeton.edu/ark:/88435/5712m861z",
   "dc_description_s": "The strangers guide to London and Westminster : exhibiting all the various alterations & improvements complete to the present time",
-  "georss_box_s": "51.2867602 -0.510375 51.6918741 0.3340155",
   "layer_modified_dt": "2015-01-21T22:23:53Z",
   "layer_id_s": "5712m861z",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-5712m861z",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/5712m861z/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/57/12/m8/61/z/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.6918741 -0.510375 51.6918741 0.3340155 51.2867602 0.3340155 51.2867602 -0.510375 51.6918741 -0.510375",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1817"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "London (England)",
     "Westminster (London, England)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

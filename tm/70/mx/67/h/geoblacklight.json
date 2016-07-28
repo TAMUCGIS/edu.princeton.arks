@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1690",
-  "uuid": "http://arks.princeton.edu/ark:/88435/tm70mx67h",
   "dc_description_s": "Glocester-shire",
-  "georss_box_s": "51.5775306 -2.6875371 52.1125797 -1.6152019",
   "layer_modified_dt": "2015-01-21T22:24:18Z",
   "dc_creator_sm": [
     "Lea, Philip,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-tm70mx67h",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/tm70mx67h/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/tm/70/mx/67/h/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "52.1125797 -2.6875371 52.1125797 -1.6152019 51.5775306 -1.6152019 51.5775306 -2.6875371 52.1125797 -2.6875371",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1690"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Gloucestershire (England)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

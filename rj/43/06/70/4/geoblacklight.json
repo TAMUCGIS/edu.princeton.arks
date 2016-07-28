@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-74.716822, -74.687058, 40.905204, 40.890881)",
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/rj/43/06/70/4/00000001.jp2/info.json\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/rj4306704",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
@@ -21,7 +20,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "rj4306704",
-  "georss_polygon_s": "40.905204 -74.716822 40.905204 -74.687058 40.890881 -74.687058 40.890881 -74.716822 40.905204 -74.716822",
   "dc_publisher_s": "New York: Sanborn Map Company",
   "solr_year_i": "1920",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "Netcong"
   ],
   "layer_id_s": "rj4306704",
-  "georss_box_s": "40.890881 -74.716822 40.905204 -74.687058",
   "dc_title_s": "Netcong, Morris County, New Jersey: including Port Morris (Sheet 2)",
   "layer_slug_s": "princeton-rj4306704",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1839",
-  "uuid": "http://arks.princeton.edu/ark:/88435/pz50gz47p",
-  "dc_description_s": "Carte du de\u0301partement de la Seine",
-  "georss_box_s": "47.4859522 0.2281 49.5225833 4.7169896",
+  "dc_description_s": "Carte du département de la Seine",
   "layer_modified_dt": "2015-01-21T22:23:59Z",
   "dc_creator_sm": [
     "Pelet, Jean Jacques Germain,"
@@ -11,11 +9,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "pz50gz47p",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Carte du de\u0301partement de la Seine",
+  "dc_title_s": "Carte du département de la Seine",
   "layer_slug_s": "princeton-pz50gz47p",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/pz50gz47p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/pz/50/gz/47/p/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "49.5225833 0.2281 49.5225833 4.7169896 47.4859522 4.7169896 47.4859522 0.2281 49.5225833 0.2281",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1839"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "Seine (France)",
     "Paris (France)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

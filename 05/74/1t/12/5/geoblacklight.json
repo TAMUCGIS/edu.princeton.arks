@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(13.7321, 13.8344, 45.6970, 45.6070)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/05741t125\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/05741t125/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/05741t125",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Studio F.M.B Bologna",
   "dc_type_s": "Image",
   "dc_identifier_s": "05741t125",
-  "georss_polygon_s": "45.6970 13.7321 45.6970 13.8344 45.6070 13.8344 45.6070 13.7321 45.6970 13.7321",
   "dc_publisher_s": "Studio F.M.B Bologna",
   "solr_year_i": "1975",
   "dct_spatial_sm": [
@@ -30,9 +28,9 @@
     "Provincia di Trieste"
   ],
   "layer_id_s": "05741t125",
-  "georss_box_s": "45.6070 13.7321 45.6970 13.8344",
   "dc_title_s": "Trieste: pianta della citta",
   "layer_slug_s": "princeton-05741t125",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

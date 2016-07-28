@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-07.34, 07.36, 47.34, -47.32)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/pv63g201r\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/pv63g201r/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/pv63g201r",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Basel-Stadt.; Kantonales Vermessungsamt",
   "dc_type_s": "Image",
   "dc_identifier_s": "pv63g201r",
-  "georss_polygon_s": "47.34 -07.34 47.34 07.36 -47.32 07.36 -47.32 -07.34 47.34 -07.34",
   "dc_publisher_s": "Basel-Stadt.; Kantonales Vermessungsamt",
   "solr_year_i": "1943",
   "dct_spatial_sm": [
@@ -27,12 +25,12 @@
     "Swiss Confederation",
     "Schweizerische Eidgenossenschaft",
     "Basle",
-    "B\u00e2le  "
+    "Bâle  "
   ],
   "layer_id_s": "pv63g201r",
-  "georss_box_s": "-47.32 -07.34 47.34 07.36",
   "dc_title_s": "Stadtplan von Basel und der Gemeinde Riehen",
   "layer_slug_s": "princeton-pv63g201r",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1725",
-  "uuid": "http://arks.princeton.edu/ark:/88435/cf95jd82v",
   "dc_description_s": "Totius Neobelgii nova et accuratissima tabula",
-  "georss_box_s": "36.96000 -77.14000 46.08000 -67.03000",
   "layer_modified_dt": "2015-01-19T22:37:00Z",
   "dc_creator_sm": [
     "Ottens, J.",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-cf95jd82v",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/cf95jd82v/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/cf/95/jd/82/v/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "46.08000 -77.14000 46.08000 -67.03000 36.96000 -67.03000 36.96000 -77.14000 46.08000 -77.14000",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1725"
@@ -26,5 +23,6 @@
   "dct_spatial_sm": [
     "Middle Atlantic States",
     "New England"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

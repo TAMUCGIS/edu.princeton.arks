@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-78.25, -78, 39.25, 39)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/j3860839r/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/j3/86/08/39/r/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/j3860839r/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/j3860839r",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "historical maps",
@@ -20,7 +19,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "j3860839r",
-  "georss_polygon_s": "39.25 -78.25 39.25 -78 39 -78 39 -78.25 39.25 -78.25",
   "dc_publisher_s": "US Geological Survey",
   "solr_year_i": "1947",
   "dct_spatial_sm": [
@@ -30,9 +28,9 @@
     "United States"
   ],
   "layer_id_s": "j3860839r",
-  "georss_box_s": "39 -78.25 39.25 -78",
   "dc_title_s": "Virginia--West Virginia: Winchester Quadrangle [1947] ",
   "dct_issued_s": "1947",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

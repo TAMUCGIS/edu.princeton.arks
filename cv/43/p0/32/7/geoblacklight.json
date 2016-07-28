@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1847",
-  "uuid": "http://arks.princeton.edu/ark:/88435/cv43p0327",
   "dc_description_s": "Siege of Vera Cruz by the U.S. troops under Major General Scott, in March 1847, from surveys made by Major Turnbull, Captains Hughes, McClellan, & Johnston, Lieutenants Derby & Hardcastle, Topl. Engineers /",
-  "georss_box_s": "17.1369649 -98.6815465 22.471417 -93.6079397",
   "layer_modified_dt": "2015-01-21T22:24:24Z",
   "dc_creator_sm": [
     "Hardcastle, E. L. F.",
@@ -18,7 +16,6 @@
   "layer_slug_s": "princeton-cv43p0327",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/cv43p0327/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/cv/43/p0/32/7/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "22.471417 -98.6815465 22.471417 -93.6079397 17.1369649 -93.6079397 17.1369649 -98.6815465 22.471417 -98.6815465",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1847"
@@ -28,5 +25,6 @@
   "dct_spatial_sm": [
     "Veracruz (Veracruz-Llave, Mexico)",
     "Veracruz (Veracruz-Llave, Mexico)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

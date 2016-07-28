@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1844",
-  "uuid": "http://arks.princeton.edu/ark:/88435/j098zd593",
   "dc_description_s": "Wien, 1844",
-  "georss_box_s": "48.0483537 16.2125042 48.3683537 16.5325042",
   "layer_modified_dt": "2015-01-21T22:24:16Z",
   "dc_creator_sm": [
     "Meyer, Joseph,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-j098zd593",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/j098zd593/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/j0/98/zd/59/3/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "48.3683537 16.2125042 48.3683537 16.5325042 48.0483537 16.5325042 48.0483537 16.2125042 48.3683537 16.2125042",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1844"
@@ -26,5 +23,6 @@
   "dct_spatial_sm": [
     "Vienna (Austria)",
     "Vienna (Austria)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

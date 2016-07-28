@@ -1,12 +1,10 @@
 {
   "solr_year_i": "1835",
-  "uuid": "http://arks.princeton.edu/ark:/88435/d217qs03m",
   "dc_description_s": "Confederazione Messicana",
-  "georss_box_s": "15.0 -125.0 42.0 -90.0",
   "layer_modified_dt": "2015-01-19T22:37:35Z",
   "dc_creator_sm": [
     "Tasso, Girolamo.",
-    "Las Cases, Emmanuel-Auguste-Dieudonne\u0301,",
+    "Las Cases, Emmanuel-Auguste-Dieudonné,",
     "Humboldt, Alexander von,",
     "Buchon, J. A. C."
   ],
@@ -18,7 +16,6 @@
   "layer_slug_s": "princeton-d217qs03m",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/d217qs03m/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/d2/17/qs/03/m/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "42.0 -125.0 42.0 -90.0 15.0 -90.0 15.0 -125.0 42.0 -125.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1835"
@@ -27,5 +24,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Mexico"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

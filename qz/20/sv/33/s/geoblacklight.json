@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1847",
-  "uuid": "http://arks.princeton.edu/ark:/88435/qz20sv33s",
   "dc_description_s": "A sketch of Cockburn, George & Chakchak ports",
-  "georss_box_s": "-26.9612 21.9963878 18.0212099 63.8085939",
   "layer_modified_dt": "2015-01-21T22:23:43Z",
   "layer_id_s": "qz20sv33s",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-qz20sv33s",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/qz20sv33s/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/qz/20/sv/33/s/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "18.0212099 21.9963878 18.0212099 63.8085939 -26.9612 63.8085939 -26.9612 21.9963878 18.0212099 21.9963878",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1847"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Africa, East",
     "Pemba Island (Tanzania)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

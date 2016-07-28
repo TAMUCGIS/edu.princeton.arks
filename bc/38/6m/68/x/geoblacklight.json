@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1817",
-  "uuid": "http://arks.princeton.edu/ark:/88435/bc386m68x",
   "dc_description_s": "Egpyt",
-  "georss_box_s": "24.0 29.0 32.0 36.0",
   "layer_modified_dt": "2015-01-19T22:37:19Z",
   "layer_id_s": "bc386m68x",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-bc386m68x",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/bc386m68x/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/bc/38/6m/68/x/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "32.0 29.0 32.0 36.0 24.0 36.0 24.0 29.0 32.0 29.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1817"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Egypt",
     "Nile River"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

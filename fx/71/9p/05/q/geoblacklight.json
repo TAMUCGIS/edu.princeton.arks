@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(8.3391, 8.6152, 48.0083, 47.8882)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/fx719p05q\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/fx719p05q/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/fx719p05q",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Stadte-Verlag",
   "dc_type_s": "Image",
   "dc_identifier_s": "fx719p05q",
-  "georss_polygon_s": "48.0083 8.3391 48.0083 8.6152 47.8882 8.6152 47.8882 8.3391 48.0083 8.3391",
   "dc_publisher_s": "Stadte-Verlag",
   "solr_year_i": "1969",
   "dct_spatial_sm": [
@@ -27,9 +25,9 @@
     "Land Baden-Wurttemberg"
   ],
   "layer_id_s": "fx719p05q",
-  "georss_box_s": "47.8882 8.3391 48.0083 8.6152",
   "dc_title_s": "Stadtplan Donaueschingen",
   "layer_slug_s": "princeton-fx719p05q",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

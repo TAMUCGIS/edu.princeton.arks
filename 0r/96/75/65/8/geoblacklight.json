@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1772",
-  "uuid": "http://arks.princeton.edu/ark:/88435/0r9675658",
   "dc_description_s": "Nieuwe en nauwkeurige kaart van een gedeelte van Noord Amerika : behelzende Nieuw Engeland, New York, Pensylvania, New Jersey, Connecticut, Rhode Island, een stuk van Virginia, Kanada en Halifax, ter opheldering der reizen van den Heer P. Kalm",
-  "georss_box_s": "37.0 -88.0 48.0 -66.0",
   "layer_modified_dt": "2015-01-19T22:36:55Z",
   "dc_creator_sm": [
     "Mol, P.",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-0r9675658",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/0r9675658/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/0r/96/75/65/8/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "48.0 -88.0 48.0 -66.0 37.0 -66.0 37.0 -88.0 48.0 -88.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1772"
@@ -26,5 +23,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Northeastern States"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

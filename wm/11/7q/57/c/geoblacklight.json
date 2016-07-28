@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(14.2256, 14.7035, 50.1751, 49.9503)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/wm117q57c\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/wm117q57c/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/wm117q57c",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -19,7 +18,6 @@
   "dc_creator_sm": "unknown",
   "dc_type_s": "Image",
   "dc_identifier_s": "wm117q57c",
-  "georss_polygon_s": "50.1751 14.2256 50.1751 14.7035 49.9503 14.7035 49.9503 14.2256 50.1751 14.2256",
   "dc_publisher_s": "unknown",
   "solr_year_i": "1959",
   "dct_spatial_sm": [
@@ -30,9 +28,9 @@
     "Czech Republic"
   ],
   "layer_id_s": "wm117q57c",
-  "georss_box_s": "49.9503 14.2256 50.1751 14.7035",
   "dc_title_s": "Hlavni Mesto Praha",
   "layer_slug_s": "princeton-wm117q57c",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

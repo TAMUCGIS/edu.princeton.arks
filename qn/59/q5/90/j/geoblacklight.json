@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1763",
-  "uuid": "http://arks.princeton.edu/ark:/88435/qn59q590j",
   "dc_description_s": "A new and accurate map of North America laid down according to the latest and most approved observations, and discoveries",
-  "georss_box_s": "9.9930001 -85.1715 27.263412 -59.4174957",
   "layer_modified_dt": "2015-01-21T22:23:50Z",
   "dc_creator_sm": [
     "Hinton, John,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-qn59q590j",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/qn59q590j/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/qn/59/q5/90/j/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "27.263412 -85.1715 27.263412 -59.4174957 9.9930001 -59.4174957 9.9930001 -85.1715 27.263412 -85.1715",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1763"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "Caribbean Area",
     "North America"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

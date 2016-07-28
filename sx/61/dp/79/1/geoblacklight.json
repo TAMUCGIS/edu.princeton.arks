@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1890",
-  "uuid": "http://arks.princeton.edu/ark:/88435/sx61dp791",
   "dc_description_s": "Alexandersbad und Umgebung",
-  "georss_box_s": "49.9917071 12.0042715 50.0304076 12.0621007",
   "layer_modified_dt": "2015-01-21T22:24:23Z",
   "dc_creator_sm": [
     "Woerl, Leo,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-sx61dp791",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/sx61dp791/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/sx/61/dp/79/1/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "50.0304076 12.0042715 50.0304076 12.0621007 49.9917071 12.0621007 49.9917071 12.0042715 50.0304076 12.0042715",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1890"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "Alexandersbad (Germany)",
     "Bavaria (Germany)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

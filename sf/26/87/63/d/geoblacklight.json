@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1633",
-  "uuid": "http://arks.princeton.edu/ark:/88435/sf268763d",
-  "dc_description_s": "Reipublic\u00e6 Genuensis Ducatus et Dominii. nova discrip.",
-  "georss_box_s": "43.7757247 7.4948099 44.6764264 10.0710317",
+  "dc_description_s": "Reipublicæ Genuensis Ducatus et Dominii. nova discrip.",
   "layer_modified_dt": "2015-01-25T02:06:20Z",
   "dc_creator_sm": [
     "Hondius, Hendrik,",
@@ -13,11 +11,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "sf268763d",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Reipublic\u00e6 Genuensis Ducatus et Dominii. nova discrip.",
+  "dc_title_s": "Reipublicæ Genuensis Ducatus et Dominii. nova discrip.",
   "layer_slug_s": "princeton-sf268763d",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/sf268763d/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/sf/26/87/63/d/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "44.6764264 7.4948099 44.6764264 10.0710317 43.7757247 10.0710317 43.7757247 7.4948099 44.6764264 7.4948099",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1633"
@@ -27,5 +24,6 @@
   "dct_spatial_sm": [
     "Liguria (Italy)",
     "Genoa (Italy : Province)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

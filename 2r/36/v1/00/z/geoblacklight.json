@@ -1,12 +1,10 @@
 {
   "solr_year_i": "1540",
-  "uuid": "http://arks.princeton.edu/ark:/88435/2r36v100z",
   "dc_description_s": "Tabula Europae V",
-  "georss_box_s": "34.5428 13.3649 48.265274 29.7784",
   "layer_modified_dt": "2015-01-21T22:24:13Z",
   "dc_creator_sm": [
     "Petri, Heinrich,",
-    "Mu\u0308nster, Sebastian,",
+    "Münster, Sebastian,",
     "Ptolemy,"
   ],
   "layer_id_s": "2r36v100z",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-2r36v100z",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/2r36v100z/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/2r/36/v1/00/z/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "48.265274 13.3649 48.265274 29.7784 34.5428 29.7784 34.5428 13.3649 48.265274 13.3649",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1540"
@@ -29,5 +26,6 @@
     "Adriatic Sea",
     "Europe, Southern",
     "Italy"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

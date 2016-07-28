@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1870",
-  "uuid": "http://arks.princeton.edu/ark:/88435/mk61rk46t",
   "dc_description_s": "Plan von Dresden",
-  "georss_box_s": "50.974937 13.5793237 51.1777202 13.9660626",
   "layer_modified_dt": "2015-01-21T22:24:27Z",
   "layer_id_s": "mk61rk46t",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-mk61rk46t",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/mk61rk46t/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/mk/61/rk/46/t/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.1777202 13.5793237 51.1777202 13.9660626 50.974937 13.9660626 50.974937 13.5793237 51.1777202 13.5793237",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1870"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Dresden (Germany)",
     "Saxony (Germany)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

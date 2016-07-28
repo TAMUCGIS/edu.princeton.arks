@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-12.10, 12.12, 14.50, -14.40)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/z603r0193\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/z603r0193/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/z603r0193",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -20,7 +19,6 @@
   "dc_creator_sm": "Philippines Board of Technical Surveys and Maps",
   "dc_type_s": "Image",
   "dc_identifier_s": "z603r0193",
-  "georss_polygon_s": "14.50 -12.10 14.50 12.12 -14.40 12.12 -14.40 -12.10 14.50 -12.10",
   "dc_publisher_s": "Philippines Board of Technical Surveys and Maps",
   "solr_year_i": "1965",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "Luzon"
   ],
   "layer_id_s": "z603r0193",
-  "georss_box_s": "-14.40 -12.10 14.50 12.12",
   "dc_title_s": "Montalban, Luzon, Philippine Islands",
   "layer_slug_s": "princeton-z603r0193",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

@@ -1,11 +1,9 @@
 {
   "solr_year_i": "1717",
-  "uuid": "http://arks.princeton.edu/ark:/88435/h702q8743",
   "dc_description_s": "Carte de l'Isle et royaume de Sicile",
-  "georss_box_s": "35.6029696 13.9324226 36.2852706 14.8267966",
   "layer_modified_dt": "2015-01-21T22:23:58Z",
   "dc_creator_sm": [
-    "Co\u0301vens, Jean.",
+    "Cóvens, Jean.",
     "Mortier, Corneille."
   ],
   "layer_id_s": "h702q8743",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-h702q8743",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/h702q8743/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/h7/02/q8/74/3/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "36.2852706 13.9324226 36.2852706 14.8267966 35.6029696 14.8267966 35.6029696 13.9324226 36.2852706 13.9324226",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1717"
@@ -26,5 +23,6 @@
   "dct_spatial_sm": [
     "Malta",
     "Sicily (Italy)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

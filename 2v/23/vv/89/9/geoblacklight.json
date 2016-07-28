@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-1.4167, -0.800, 52.300, 52.0500)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/2v23vv899\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/2v23vv899/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/2v23vv899",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
@@ -19,7 +18,6 @@
   "dc_creator_sm": "Great Britain Ordnance Survey",
   "dc_type_s": "Image",
   "dc_identifier_s": "2v23vv899",
-  "georss_polygon_s": "52.300 -1.4167 52.300 -0.800 52.0500 -0.800 52.0500 -1.4167 52.300 -1.4167",
   "dc_publisher_s": "Great Britain Ordnance Survey",
   "solr_year_i": "1930",
   "dct_spatial_sm": [
@@ -33,9 +31,9 @@
     "MAX G5741.C2.s63.O7S8 sh83"
   ],
   "layer_id_s": "2v23vv899",
-  "georss_box_s": "52.0500 -1.4167 52.300 -0.800",
   "dc_title_s": "Ordnance Survey of England and Wales: popular edition one-inch map. Northampton. Sheet 83.",
   "layer_slug_s": "princeton-2v23vv899",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

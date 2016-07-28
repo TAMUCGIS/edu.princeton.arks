@@ -1,7 +1,5 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/dj52w715p",
   "dc_description_s": "Map of Aderbeijan : compiled principally from personal observations and surveys made in the years 1851-55 by N. Khanikof and based upon all the points hitherto determined, principally the astronomical observations  of Mr. Lemm and the Caucasian Triangulation",
-  "georss_box_s": "38.3929551 44.7633701 41.9502947 51.0090302",
   "layer_modified_dt": "2015-01-21T22:24:11Z",
   "dc_creator_sm": [
     "Khanykov, N.",
@@ -16,11 +14,11 @@
   "layer_slug_s": "princeton-dj52w715p",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/dj52w715p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/dj/52/w7/15/p/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "41.9502947 44.7633701 41.9502947 51.0090302 38.3929551 51.0090302 38.3929551 44.7633701 41.9502947 44.7633701",
   "layer_geom_type_s": "Image",
   "solr_geom": "ENVELOPE(44.7633701, 51.0090302, 41.9502947, 38.3929551)",
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Azerbaijan (Iran)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

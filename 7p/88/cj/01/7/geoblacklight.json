@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(14.2256, 14.7035, 50.1751, 49.9503)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/7p88cj017\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/7p88cj017/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/7p88cj017",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -19,7 +18,6 @@
   "dc_creator_sm": "Ustredni Sprava Geodezie a Kartografie",
   "dc_type_s": "Image",
   "dc_identifier_s": "7p88cj017",
-  "georss_polygon_s": "50.1751 14.2256 50.1751 14.7035 49.9503 14.7035 49.9503 14.2256 50.1751 14.2256",
   "dc_publisher_s": "Ustredni Sprava Geodezie a Kartografie",
   "solr_year_i": "1957",
   "dct_spatial_sm": [
@@ -30,9 +28,9 @@
     "Czech Republic"
   ],
   "layer_id_s": "7p88cj017",
-  "georss_box_s": "49.9503 14.2256 50.1751 14.7035",
   "dc_title_s": "Orientacni plan, hlavniho mesta Prahy",
   "layer_slug_s": "princeton-7p88cj017",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

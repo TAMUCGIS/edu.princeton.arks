@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1860",
-  "uuid": "http://arks.princeton.edu/ark:/88435/7d278w512",
   "dc_description_s": "Farm map of Greenwich Township, Warren Co., N.J.",
-  "georss_box_s": "39.792795 -75.3420561 39.847959 -75.236957",
   "layer_modified_dt": "2015-01-21T22:24:17Z",
   "layer_id_s": "7d278w512",
   "dc_type_s": "Image",
@@ -12,12 +10,14 @@
   "layer_slug_s": "princeton-7d278w512",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/7d278w512/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/7d/27/8w/51/2/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "39.847959 -75.3420561 39.847959 -75.236957 39.792795 -75.236957 39.792795 -75.3420561 39.847959 -75.3420561",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1860"
   ],
   "solr_geom": "ENVELOPE(-75.3420561, -75.236957, 39.847959, 39.792795)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

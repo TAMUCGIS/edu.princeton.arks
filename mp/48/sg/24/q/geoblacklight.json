@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1904",
-  "uuid": "http://arks.princeton.edu/ark:/88435/mp48sg24q",
   "dc_description_s": "London-Switzerland & Italy via Dover-Ostend ...",
-  "georss_box_s": "49.4969821 2.3889137 51.5516667 6.4080405",
   "layer_modified_dt": "2015-01-21T22:24:12Z",
   "layer_id_s": "mp48sg24q",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-mp48sg24q",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/mp48sg24q/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/mp/48/sg/24/q/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.5516667 2.3889137 51.5516667 6.4080405 49.4969821 6.4080405 49.4969821 2.3889137 51.5516667 2.3889137",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1904"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Belgium"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

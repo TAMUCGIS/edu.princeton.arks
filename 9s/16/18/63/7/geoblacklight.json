@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1801",
-  "uuid": "http://arks.princeton.edu/ark:/88435/9s1618637",
   "dc_description_s": "A new map of Persia, from the latest authorities",
-  "georss_box_s": "24.0 40.0 48.0 76.0",
   "layer_modified_dt": "2015-01-19T22:37:18Z",
   "layer_id_s": "9s1618637",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-9s1618637",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/9s1618637/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/9s/16/18/63/7/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "48.0 40.0 48.0 76.0 24.0 76.0 24.0 40.0 48.0 40.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1801"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Iran",
     "Asia, Central"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

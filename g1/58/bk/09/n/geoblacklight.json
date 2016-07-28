@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1854",
-  "uuid": "http://arks.princeton.edu/ark:/88435/g158bk09n",
   "dc_description_s": "The world as known to the ancients",
-  "georss_box_s": "55.9999502 103.9999498 56.0000502 104.0000498",
   "layer_modified_dt": "2015-01-21T22:23:42Z",
   "layer_id_s": "g158bk09n",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-g158bk09n",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/g158bk09n/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/g1/58/bk/09/n/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "56.0000502 103.9999498 56.0000502 104.0000498 55.9999502 104.0000498 55.9999502 103.9999498 56.0000502 103.9999498",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1854"
@@ -23,5 +20,6 @@
     "Asia",
     "Europe",
     "Middle East"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1691",
-  "uuid": "http://arks.princeton.edu/ark:/88435/k643b300k",
   "dc_description_s": "Terre Artiche",
-  "georss_box_s": "51.175092 157.732108 83.9999979 65.6777839",
   "layer_modified_dt": "2015-01-21T22:23:44Z",
   "dc_creator_sm": [
     "Coronelli, Vincenzo,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-k643b300k",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/k643b300k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/k6/43/b3/00/k/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "83.9999979 157.732108 83.9999979 65.6777839 51.175092 65.6777839 51.175092 157.732108 83.9999979 157.732108",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1691"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Arctic regions"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1913",
-  "uuid": "http://arks.princeton.edu/ark:/88435/w0892d478",
   "dc_description_s": "Regensburg (ost) 1872",
-  "georss_box_s": "47.2701114 8.9763497 50.5647142 13.8396373",
   "layer_modified_dt": "2015-01-21T22:24:29Z",
   "layer_id_s": "w0892d478",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-w0892d478",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/w0892d478/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/w0/89/2d/47/8/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "50.5647142 8.9763497 50.5647142 13.8396373 47.2701114 13.8396373 47.2701114 8.9763497 50.5647142 8.9763497",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1913"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Bavaria (Germany)",
     "Regensburg (Germany)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

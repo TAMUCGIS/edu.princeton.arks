@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1700",
-  "uuid": "http://arks.princeton.edu/ark:/88435/nc580q112",
   "dc_description_s": "A new map of Europe according to the present general divisions and names of its countries together with their capital cities chief rivers mountains &c.",
-  "georss_box_s": "25.0 -25.0 75.0 90.0",
   "layer_modified_dt": "2015-01-19T22:37:21Z",
   "dc_creator_sm": [
     "Burghers, M.",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-nc580q112",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/nc580q112/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/nc/58/0q/11/2/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "75.0 -25.0 75.0 90.0 25.0 90.0 25.0 -25.0 75.0 -25.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1700"
@@ -26,5 +23,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Europe"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

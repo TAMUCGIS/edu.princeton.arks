@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1892",
-  "uuid": "http://arks.princeton.edu/ark:/88435/dr26z085s",
   "dc_description_s": "Rand, McNally & Co.'s indexed atlas of the world map of Brazil and Guiana",
-  "georss_box_s": "-34.0 -68.0 10.0 -35.0",
   "layer_modified_dt": "2015-01-19T22:37:15Z",
   "layer_id_s": "dr26z085s",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-dr26z085s",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/dr26z085s/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/dr/26/z0/85/s/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "10.0 -68.0 10.0 -35.0 -34.0 -35.0 -34.0 -68.0 10.0 -68.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1892"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Brazil",
     "Guiana"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

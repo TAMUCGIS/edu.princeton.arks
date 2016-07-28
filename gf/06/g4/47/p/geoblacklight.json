@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1950",
-  "uuid": "http://arks.princeton.edu/ark:/88435/gf06g447p",
   "dc_description_s": "Carte geologique detaillee de la France [a 1/80 000]: Beaugency.",
-  "georss_box_s": "47.69860 1.04900 48.05840 1.90780",
   "layer_modified_dt": "2015-01-19T22:36:38Z",
   "dc_creator_sm": [
     "Raguin, E."
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-gf06g447p",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/gf06g447p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/gf/06/g4/47/p/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "48.05840 1.04900 48.05840 1.90780 47.69860 1.90780 47.69860 1.04900 48.05840 1.04900",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1950"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "France"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

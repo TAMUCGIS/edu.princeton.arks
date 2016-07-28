@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1805",
-  "uuid": "http://arks.princeton.edu/ark:/88435/70795b13d",
   "dc_description_s": "A map of Dorsetshire : from the best authorities",
-  "georss_box_s": "50.5127244 -2.9615944 51.0809976 -1.6816654",
   "layer_modified_dt": "2015-01-21T22:24:18Z",
   "dc_creator_sm": [
     "Cary, John,",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-70795b13d",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/70795b13d/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/70/79/5b/13/d/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.0809976 -2.9615944 51.0809976 -1.6816654 50.5127244 -1.6816654 50.5127244 -2.9615944 51.0809976 -2.9615944",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1805"
@@ -26,5 +23,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Dorset (England)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

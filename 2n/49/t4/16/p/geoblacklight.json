@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1633",
-  "uuid": "http://arks.princeton.edu/ark:/88435/2n49t416p",
-  "dc_description_s": "Cataloni\u00e6 principatus descriptio nova",
-  "georss_box_s": "40.5230796 0.1591812 42.8615226 3.3323241",
+  "dc_description_s": "Cataloniæ principatus descriptio nova",
   "layer_modified_dt": "2015-01-21T22:24:10Z",
   "dc_creator_sm": [
     "Hondius, Hendrik,",
@@ -12,11 +10,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "2n49t416p",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Cataloni\u00e6 principatus descriptio nova",
+  "dc_title_s": "Cataloniæ principatus descriptio nova",
   "layer_slug_s": "princeton-2n49t416p",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/2n49t416p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/2n/49/t4/16/p/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "42.8615226 0.1591812 42.8615226 3.3323241 40.5230796 3.3323241 40.5230796 0.1591812 42.8615226 0.1591812",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1633"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Catalonia (Spain)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

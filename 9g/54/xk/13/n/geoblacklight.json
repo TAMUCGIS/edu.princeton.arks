@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(5.2363, 5.3813, 60.4476, 60.2801)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/9g54xk13n\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/9g54xk13n/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/9g54xk13n",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,16 +17,15 @@
   "dc_creator_sm": "John Grieg, Lito",
   "dc_type_s": "Image",
   "dc_identifier_s": "9g54xk13n",
-  "georss_polygon_s": "60.4476 5.2363 60.4476 5.3813 60.2801 5.3813 60.2801 5.2363 60.4476 5.2363",
   "dc_publisher_s": "John Grieg, Lito",
   "dct_spatial_sm": [
     "Bergen",
     "Norway"
   ],
   "layer_id_s": "9g54xk13n",
-  "georss_box_s": "60.2801 5.2363 60.4476 5.3813",
   "dc_title_s": "Kart over Bergen",
   "layer_slug_s": "princeton-9g54xk13n",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

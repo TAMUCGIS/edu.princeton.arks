@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(10.3284, 10.9432, 60.1362, 59.7719)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/sb3979984\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/sb3979984/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/sb3979984",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Emil Moestue A.S.",
   "dc_type_s": "Image",
   "dc_identifier_s": "sb3979984",
-  "georss_polygon_s": "60.1362 10.3284 60.1362 10.9432 59.7719 10.9432 59.7719 10.3284 60.1362 10.3284",
   "dc_publisher_s": "Emil Moestue A.S.",
   "solr_year_i": "1951",
   "dct_spatial_sm": [
@@ -28,9 +26,9 @@
     "Kristiania"
   ],
   "layer_id_s": "sb3979984",
-  "georss_box_s": "59.7719 10.3284 60.1362 10.9432",
   "dc_title_s": "[Oslo, Norway]",
   "layer_slug_s": "princeton-sb3979984",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

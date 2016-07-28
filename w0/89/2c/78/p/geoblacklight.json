@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1857",
-  "uuid": "http://arks.princeton.edu/ark:/88435/w0892c78p",
   "dc_description_s": "Territory of Utah /",
-  "georss_box_s": "36.997968 -114.0539319 42.0013862 -109.0410727",
   "layer_modified_dt": "2015-01-21T22:23:45Z",
   "dc_creator_sm": [
     "Johnston, Alexander Keith,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-w0892c78p",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/w0892c78p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/w0/89/2c/78/p/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "42.0013862 -114.0539319 42.0013862 -109.0410727 36.997968 -109.0410727 36.997968 -114.0539319 42.0013862 -114.0539319",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1857"
@@ -27,5 +24,6 @@
     "Utah",
     "Nevada",
     "Colorado"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

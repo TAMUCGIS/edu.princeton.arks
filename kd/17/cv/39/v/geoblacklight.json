@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(80.2833, 80.4167, 26.500, 26.4167)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/kd17cv39v\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/kd17cv39v/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/kd17cv39v",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "City plan",
@@ -17,7 +16,6 @@
   "dc_creator_sm": "Survey of India",
   "dc_type_s": "Image",
   "dc_identifier_s": "kd17cv39v",
-  "georss_polygon_s": "26.500 80.2833 26.500 80.4167 26.4167 80.4167 26.4167 80.2833 26.500 80.2833",
   "dc_publisher_s": "Survey of India",
   "solr_year_i": "1933",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "MAX  G7654.K36C1.1933.S9I5"
   ],
   "layer_id_s": "kd17cv39v",
-  "georss_box_s": "26.4167 80.2833 26.500 80.4167",
   "dc_title_s": "Cawnpore guide map",
   "layer_slug_s": "princeton-kd17cv39v",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

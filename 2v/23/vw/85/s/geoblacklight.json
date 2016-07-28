@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1640",
-  "uuid": "http://arks.princeton.edu/ark:/88435/2v23vw85s",
   "dc_description_s": "Aragonia et Navarra",
-  "georss_box_s": "39.8467782 -2.1736712 42.9244952 0.7713067",
   "layer_modified_dt": "2015-01-21T22:24:10Z",
   "dc_creator_sm": [
     "Blaeu, Joan,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-2v23vw85s",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/2v23vw85s/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/2v/23/vw/85/s/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "42.9244952 -2.1736712 42.9244952 0.7713067 39.8467782 0.7713067 39.8467782 -2.1736712 42.9244952 -2.1736712",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1640"
@@ -26,5 +23,6 @@
   "dct_spatial_sm": [
     "Aragon (Spain)",
     "Navarre (Spain)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

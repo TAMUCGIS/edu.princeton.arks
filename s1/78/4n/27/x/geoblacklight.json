@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(19.2500, 19.3167, 44.1333, 44.0833)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/s1784n27x/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/s1/78/4n/27/x/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/s1784n27x/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/s1784n27x",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
@@ -22,7 +21,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "s1784n27x",
-  "georss_polygon_s": "44.1333 19.2500 44.1333 19.3167 44.0833 19.3167 44.0833 19.2500 44.1333 19.2500",
   "dc_publisher_s": "Defense Mapping Agency",
   "solr_year_i": "1995",
   "dct_spatial_sm": [
@@ -30,9 +28,9 @@
     "Bosnia and Hercegovina"
   ],
   "layer_id_s": "s1784n27x",
-  "georss_box_s": "44.0833 19.2500 44.1333 19.3167",
   "dc_title_s": "Bosnia and Herzegovina city graphic 1:10,000. Srebrenica. Series M903. ",
   "dct_issued_s": "1995",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

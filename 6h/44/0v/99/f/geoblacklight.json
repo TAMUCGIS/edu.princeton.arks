@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1891",
-  "uuid": "http://arks.princeton.edu/ark:/88435/6h440v99f",
   "dc_description_s": "Bayreuth",
-  "georss_box_s": "48.2581444 10.7633615 48.4586541 10.9595189",
   "layer_modified_dt": "2015-01-21T22:24:27Z",
   "dc_creator_sm": [
     "Woerl, Leo,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-6h440v99f",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/6h440v99f/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/6h/44/0v/99/f/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "48.4586541 10.7633615 48.4586541 10.9595189 48.2581444 10.9595189 48.2581444 10.7633615 48.4586541 10.7633615",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1891"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "Augsburg (Germany)",
     "Bavaria (Germany)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

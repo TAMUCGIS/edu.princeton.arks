@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(2.0613, 2.2631, 41.4639, 41.3102)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/8w32r7338\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/8w32r7338/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/8w32r7338",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Servicio del Plano de la Ciudad",
   "dc_type_s": "Image",
   "dc_identifier_s": "8w32r7338",
-  "georss_polygon_s": "41.4639 2.0613 41.4639 2.2631 41.3102 2.2631 41.3102 2.0613 41.4639 2.0613",
   "dc_publisher_s": "Servicio del Plano de la Ciudad",
   "solr_year_i": "1943",
   "dct_spatial_sm": [
@@ -28,9 +26,9 @@
     "Comunidad Autonoma de Cataluna"
   ],
   "layer_id_s": "8w32r7338",
-  "georss_box_s": "41.3102 2.0613 41.4639 2.2631",
   "dc_title_s": "Plano de la Ciudad Barcelona",
   "layer_slug_s": "princeton-8w32r7338",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

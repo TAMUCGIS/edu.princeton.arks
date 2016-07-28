@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-74.164799, -74.075933, 40.786491, 40.710381)",
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ww/72/bd/58/p/00000001.jp2/info.json\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/ww72bd58p",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
@@ -21,7 +20,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "ww72bd58p",
-  "georss_polygon_s": "40.786491 -74.164799 40.786491 -74.075933 40.710381 -74.075933 40.710381 -74.164799 40.786491 -74.164799",
   "dc_publisher_s": "New York: Sanborn Map Company",
   "solr_year_i": "1907",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "Kearny"
   ],
   "layer_id_s": "ww72bd58p",
-  "georss_box_s": "40.710381 -74.164799 40.786491 -74.075933",
   "dc_title_s": "Kearny (Sheet 73)",
   "layer_slug_s": "princeton-ww72bd58p",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

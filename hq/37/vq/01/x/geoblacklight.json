@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-71.25, -71, 42.5, 42.25)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/hq37vq01x/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/hq/37/vq/01/x/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/hq37vq01x/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/hq37vq01x",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "historical maps",
@@ -20,7 +19,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "hq37vq01x",
-  "georss_polygon_s": "42.5 -71.25 42.5 -71 42.25 -71 42.25 -71.25 42.5 -71.25",
   "dc_publisher_s": "US Geological Survey",
   "solr_year_i": "1903",
   "dct_spatial_sm": [
@@ -33,9 +31,9 @@
     "United States"
   ],
   "layer_id_s": "hq37vq01x",
-  "georss_box_s": "42.25 -71.25 42.5 -71",
   "dc_title_s": "Massachusetts: Boston Quadrangle [1909 reprint]",
   "dct_issued_s": "1903",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

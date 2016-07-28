@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1789",
-  "uuid": "http://arks.princeton.edu/ark:/88435/1z40kv733",
   "dc_description_s": "A new map of  Turkey in Asia",
-  "georss_box_s": "11.7975 24.6967748 42.3667 63.3333366",
   "layer_modified_dt": "2015-01-21T22:23:49Z",
   "dc_creator_sm": [
     "Sayer, Robert,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-1z40kv733",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/1z40kv733/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/1z/40/kv/73/3/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "42.3667 24.6967748 42.3667 63.3333366 11.7975 63.3333366 11.7975 24.6967748 42.3667 24.6967748",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1789"
@@ -26,5 +23,6 @@
   "dct_spatial_sm": [
     "Middle East",
     "Turkey"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

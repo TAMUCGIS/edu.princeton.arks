@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(7.5791, 7.7632, 45.1324, 45.0083)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/6t053h69p\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/6t053h69p/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/6t053h69p",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Studio F.M.B Bologna",
   "dc_type_s": "Image",
   "dc_identifier_s": "6t053h69p",
-  "georss_polygon_s": "45.1324 7.5791 45.1324 7.7632 45.0083 7.7632 45.0083 7.5791 45.1324 7.5791",
   "dc_publisher_s": "Studio F.M.B Bologna",
   "solr_year_i": "1971",
   "dct_spatial_sm": [
@@ -31,9 +29,9 @@
     "Piedmont Region"
   ],
   "layer_id_s": "6t053h69p",
-  "georss_box_s": "45.0083 7.5791 45.1324 7.7632",
   "dc_title_s": "Torino, pianta della citta",
   "layer_slug_s": "princeton-6t053h69p",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(39.779220, 39.892609, 21.455011, 21.383588)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/2j62s653v/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/2j62s653v/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/2j62s653v/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/2j62s653v",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Cultural, society, and demographic",
@@ -17,7 +16,6 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "2j62s653v",
-  "georss_polygon_s": "21.455011 39.779220 21.455011 39.892609 21.383588 39.892609 21.383588 39.779220 21.455011 39.779220",
   "dc_publisher_s": "LeadDog Consulting, LLC",
   "solr_year_i": "2006",
   "dct_spatial_sm": [
@@ -25,9 +23,9 @@
     "Saudi Arabia"
   ],
   "layer_id_s": "pulmap-restricted:2j62s653v",
-  "georss_box_s": "21.383588 39.779220 21.455011 39.892609",
   "dc_title_s": "Mecca parks",
   "layer_slug_s": "princeton-2j62s653v",
   "layer_geom_type_s": "Polygon",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

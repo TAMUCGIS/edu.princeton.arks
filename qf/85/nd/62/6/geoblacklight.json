@@ -1,9 +1,6 @@
 {
   "dc_publisher_s": "New York: Sanborn Map Company",
-  "uuid": "http://arks.princeton.edu/ark:/88435/qf85nd626",
   "dc_description_s": "This a Sanborn map of Westfield",
-  "georss_box_s": "40.6244 -74.379359 40.682192 -74.313192",
-  "georss_polygon_s": "40.682192 -74.379359 40.682192 -74.313192 40.6244 -74.313192 40.6244 -74.379359 40.682192 -74.379359",
   "layer_modified_dt": "2015-01-18T17:10:22Z",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -29,5 +26,6 @@
   "layer_geom_type_s": "Image",
   "solr_geom": "ENVELOPE(-74.379359, -74.313192, 40.682192, 40.6244)",
   "dc_rights_s": "Public",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1620",
-  "uuid": "http://arks.princeton.edu/ark:/88435/vx021h60z",
-  "dc_description_s": "Lancastri\u00e6 : comitatus palatinus olim pars Brigantum",
-  "georss_box_s": "53.4827602 -3.0845487 54.2395551 -2.0461308",
+  "dc_description_s": "Lancastriæ : comitatus palatinus olim pars Brigantum",
   "layer_modified_dt": "2015-01-21T22:24:19Z",
   "dc_creator_sm": [
     "Bishop, George,",
@@ -14,11 +12,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "vx021h60z",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Lancastri\u00e6 : comitatus palatinus olim pars Brigantum",
+  "dc_title_s": "Lancastriæ : comitatus palatinus olim pars Brigantum",
   "layer_slug_s": "princeton-vx021h60z",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/vx021h60z/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/vx/02/1h/60/z/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "54.2395551 -3.0845487 54.2395551 -2.0461308 53.4827602 -2.0461308 53.4827602 -3.0845487 54.2395551 -3.0845487",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1620"
@@ -27,5 +24,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Lancashire (England)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

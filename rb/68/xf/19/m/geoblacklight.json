@@ -1,9 +1,6 @@
 {
   "dc_publisher_s": "New York: Sanborn Map Company",
-  "uuid": "http://arks.princeton.edu/ark:/88435/rb68xf19m",
   "dc_description_s": "This a Sanborn map of Hackettstown",
-  "georss_box_s": "40.828052 -74.850452 40.88255 -74.801918",
-  "georss_polygon_s": "40.88255 -74.850452 40.88255 -74.801918 40.828052 -74.801918 40.828052 -74.850452 40.88255 -74.850452",
   "layer_modified_dt": "2015-01-18T17:10:36Z",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -29,5 +26,6 @@
   "layer_geom_type_s": "Image",
   "solr_geom": "ENVELOPE(-74.850452, -74.801918, 40.88255, 40.828052)",
   "dc_rights_s": "Public",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

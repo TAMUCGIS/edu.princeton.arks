@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1874",
-  "uuid": "http://arks.princeton.edu/ark:/88435/rv042v97m",
-  "dc_description_s": "Coasts & islands of the \u00c6g\u00e6an Sea",
-  "georss_box_s": "35.8076804 25.6212891 42.297 44.8176638",
+  "dc_description_s": "Coasts & islands of the Ægæan Sea",
   "layer_modified_dt": "2015-01-21T22:23:49Z",
   "dc_creator_sm": [
     "Smith, William,"
@@ -11,11 +9,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "rv042v97m",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Coasts & islands of the \u00c6g\u00e6an Sea",
+  "dc_title_s": "Coasts & islands of the Ægæan Sea",
   "layer_slug_s": "princeton-rv042v97m",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/rv042v97m/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/rv/04/2v/97/m/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "42.297 25.6212891 42.297 44.8176638 35.8076804 44.8176638 35.8076804 25.6212891 42.297 25.6212891",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1874"
@@ -26,5 +23,6 @@
     "Turkey",
     "Greece",
     "Aegean Sea"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-72.00, -71.50, -15.50, -16.00)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/4f16c4440\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/4f16c4440/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/4f16c4440",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "geoscientificInformation",
@@ -16,7 +15,6 @@
   "dc_creator_sm": "Instituto Geologico Minero y Metalurgico",
   "dc_type_s": "Image",
   "dc_identifier_s": "4f16c4440",
-  "georss_polygon_s": "-15.50 -72.00 -15.50 -71.50 -16.00 -71.50 -16.00 -72.00 -15.50 -72.00",
   "dc_publisher_s": "Instituto Geologico Minero y Metalurgico",
   "solr_year_i": "1985",
   "dct_spatial_sm": [
@@ -25,9 +23,9 @@
     "Chivay Quad."
   ],
   "layer_id_s": "4f16c4440",
-  "georss_box_s": "-16.00 -72.00 -15.50 -71.50",
   "dc_title_s": "Peru 1:100 000: Mapa geologico del cuadrangulo de Chivay",
   "layer_slug_s": "princeton-4f16c4440",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

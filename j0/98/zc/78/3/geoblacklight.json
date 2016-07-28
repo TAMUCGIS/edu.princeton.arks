@@ -1,10 +1,9 @@
 {
-  "dc_description_s": "This is a city map of M\u00fclheim and Oberhausen, Germany, shown at a 1:23,000 scale. This city map was created by Falk-Verlag.",
+  "dc_description_s": "This is a city map of Mülheim and Oberhausen, Germany, shown at a 1:23,000 scale. This city map was created by Falk-Verlag.",
   "layer_modified_dt": "2015-01-11T18:25:08Z",
   "solr_geom": "ENVELOPE(6.7778, 6.9550, 51.5794, 51.3497)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/j098zc783\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/j098zc783/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/j098zc783",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,11 +17,10 @@
   "dc_creator_sm": "Falk-Verlag",
   "dc_type_s": "Image",
   "dc_identifier_s": "j098zc783",
-  "georss_polygon_s": "51.5794 6.7778 51.5794 6.9550 51.3497 6.9550 51.3497 6.7778 51.5794 6.7778",
   "dc_publisher_s": "Falk-Verlag",
   "solr_year_i": "1965",
   "dct_spatial_sm": [
-    "M\u00fclheim",
+    "Mülheim",
     "Germany",
     "Bundesrepublik Deutschland",
     "Federal Republic of Germany",
@@ -32,9 +30,9 @@
     "Muelheim an der Ruhr"
   ],
   "layer_id_s": "j098zc783",
-  "georss_box_s": "51.3497 6.7778 51.5794 6.9550",
-  "dc_title_s": "Falkplan M\u00fclheim, Oberhausen",
+  "dc_title_s": "Falkplan Mülheim, Oberhausen",
   "layer_slug_s": "princeton-j098zc783",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

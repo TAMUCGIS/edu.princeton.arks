@@ -1,8 +1,6 @@
 {
   "layer_modified_dt": "2014-12-19T16:18:34Z",
-  "uuid": "http://arks.princeton.edu/ark:/88435/f4752j33t",
   "dc_description_s": "Land parcels in Union County, New Jersey, 2009.",
-  "georss_box_s": "40.591976 -74.463211 40.738646 -74.138845",
   "layer_slug_s": "princeton-f4752j33t",
   "dct_spatial_sm": [
     "New Jersey",
@@ -14,7 +12,6 @@
     "Boundary Solutions, Inc."
   ],
   "layer_id_s": "pulmap-restricted:f4752j33t",
-  "georss_polygon_s": "40.738646 -74.463211 40.738646 -74.138845 40.591976 -74.138845 40.591976 -74.463211 40.738646 -74.463211",
   "dc_type_s": "Dataset",
   "dc_identifier_s": "f4752j33t",
   "dct_provenance_s": "Princeton",
@@ -41,5 +38,6 @@
   "layer_geom_type_s": "Polygon",
   "solr_geom": "ENVELOPE(-74.463211, -74.138845, 40.738646, 40.591976)",
   "dc_rights_s": "Restricted",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

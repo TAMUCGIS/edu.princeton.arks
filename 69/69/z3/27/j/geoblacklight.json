@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1903",
-  "uuid": "http://arks.princeton.edu/ark:/88435/6969z327j",
   "dc_description_s": "Spezialkarte vom Spessart",
-  "georss_box_s": "47.2701114 8.9763497 50.5647142 13.8396373",
   "layer_modified_dt": "2015-01-21T22:24:23Z",
   "dc_creator_sm": [
     "Woerl, Leo,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-6969z327j",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/6969z327j/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/69/69/z3/27/j/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "50.5647142 8.9763497 50.5647142 13.8396373 47.2701114 13.8396373 47.2701114 8.9763497 50.5647142 8.9763497",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1903"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "Bavaria (Germany)",
     "Spessart (Germany)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1838",
-  "uuid": "http://arks.princeton.edu/ark:/88435/fj2364559",
   "dc_description_s": "West Indies",
-  "georss_box_s": "7.00000 -87.00000 28.00000 -57.00000",
   "layer_modified_dt": "2015-01-23T17:48:36Z",
   "dc_creator_sm": [
     "Bradford, T. G.",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-fj2364559",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/fj2364559/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/fj/23/64/55/9/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "28.00000 -87.00000 28.00000 -57.00000 7.00000 -57.00000 7.00000 -87.00000 28.00000 -87.00000",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1838"
@@ -26,5 +23,6 @@
   "dct_spatial_sm": [
     "Caribbean Area",
     "West Indies"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

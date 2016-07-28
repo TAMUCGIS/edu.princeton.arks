@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1869",
-  "uuid": "http://arks.princeton.edu/ark:/88435/th83m175r",
   "dc_description_s": "Map of the Franklin & Robinson, Janet DeKay, Henry Eckford, Mary Clarke & Clement C. Moore estates",
-  "georss_box_s": "40.7333333333 -74.0 40.7333333333 -73.9833333333",
   "layer_modified_dt": "2015-01-19T22:37:06Z",
   "dc_creator_sm": [
     "Smith, W. V.",
@@ -16,12 +14,14 @@
   "layer_slug_s": "princeton-th83m175r",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/th83m175r/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/th/83/m1/75/r/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.7333333333 -74.0 40.7333333333 -73.9833333333 40.7333333333 -73.9833333333 40.7333333333 -74.0 40.7333333333 -74.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1869"
   ],
   "solr_geom": "ENVELOPE(-74.0, -73.9833333333, 40.7333333333, 40.7333333333)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1567",
-  "uuid": "http://arks.princeton.edu/ark:/88435/qr46r326b",
-  "dc_description_s": "Insul\u00e6 S. Vincetij",
-  "georss_box_s": "-24.2529999 -46.9839999 -23.9389999 -46.6419999",
+  "dc_description_s": "Insulæ S. Vincetij",
   "layer_modified_dt": "2015-01-21T22:24:07Z",
   "dc_creator_sm": [
     "Schmidel, Ulrich,"
@@ -11,11 +9,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "qr46r326b",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Insul\u00e6 S. Vincetij",
+  "dc_title_s": "Insulæ S. Vincetij",
   "layer_slug_s": "princeton-qr46r326b",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/qr46r326b/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/qr/46/r3/26/b/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "-23.9389999 -46.9839999 -23.9389999 -46.6419999 -24.2529999 -46.6419999 -24.2529999 -46.9839999 -23.9389999 -46.9839999",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1567"
@@ -23,7 +20,8 @@
   "solr_geom": "ENVELOPE(-46.9839999, -46.6419999, -23.9389999, -24.2529999)",
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
-    "Itanhae\u0301m (Brazil)",
-    "Sao\u0303 Vicente Island (Brazil)"
-  ]
+    "Itanhaém (Brazil)",
+    "Saõ Vicente Island (Brazil)"
+  ],
+  "geoblacklight_version": "1.0"
 }

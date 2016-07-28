@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(115.950571, 117.128052, 40.471260, 39.686135)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/pn89d8020/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/pn89d8020/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/pn89d8020/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/pn89d8020",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Business and economic",
@@ -18,7 +17,6 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "pn89d8020",
-  "georss_polygon_s": "40.471260 115.950571 40.471260 117.128052 39.686135 117.128052 39.686135 115.950571 40.471260 115.950571",
   "dc_publisher_s": "LeadDog Consulting, LLC",
   "solr_year_i": "2006",
   "dct_spatial_sm": [
@@ -26,9 +24,9 @@
     "Beijing"
   ],
   "layer_id_s": "pulmap-restricted:pn89d8020",
-  "georss_box_s": "39.686135 115.950571 40.471260 117.128052",
   "dc_title_s": "Beijing factories",
   "layer_slug_s": "princeton-pn89d8020",
   "layer_geom_type_s": "Point",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

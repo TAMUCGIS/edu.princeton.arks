@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1855",
-  "uuid": "http://arks.princeton.edu/ark:/88435/vt150m08h",
   "dc_description_s": "Africa : designed to accompany Cornell's high school geography",
-  "georss_box_s": "1.9999503 15.9999497 2.0000503 16.0000497",
   "layer_modified_dt": "2015-01-21T22:23:42Z",
   "dc_creator_sm": [
     "Cornell, S. S.",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-vt150m08h",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/vt150m08h/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/vt/15/0m/08/h/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "2.0000503 15.9999497 2.0000503 16.0000497 1.9999503 16.0000497 1.9999503 15.9999497 2.0000503 15.9999497",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1855"
@@ -28,5 +25,6 @@
     "Liberia",
     "South Africa",
     "Suez (Egypt)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

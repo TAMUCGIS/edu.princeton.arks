@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1873",
-  "uuid": "http://arks.princeton.edu/ark:/88435/x633f349z",
   "dc_description_s": "Colton's Utah & Colorado",
-  "georss_box_s": "36.0 -114.0 42.0 -102.0",
   "layer_modified_dt": "2015-01-19T22:37:13Z",
   "dc_creator_sm": [
     "Colton, G. Woolworth"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-x633f349z",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/x633f349z/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/x6/33/f3/49/z/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "42.0 -114.0 42.0 -102.0 36.0 -102.0 36.0 -114.0 42.0 -114.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1873"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "Colorado",
     "Utah"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

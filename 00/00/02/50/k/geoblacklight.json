@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1853",
-  "uuid": "http://arks.princeton.edu/ark:/88435/00000250k",
   "dc_description_s": "Map of Morris County, New Jersey, from original surveys",
-  "georss_box_s": "40.649516 -74.8897529 41.0860019 -74.266638",
   "layer_modified_dt": "2015-01-21T22:24:17Z",
   "dc_creator_sm": [
     "Geil, Samuel."
@@ -15,12 +13,14 @@
   "layer_slug_s": "princeton-00000250k",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/00000250k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/00/00/02/50/k/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "41.0860019 -74.8897529 41.0860019 -74.266638 40.649516 -74.266638 40.649516 -74.8897529 41.0860019 -74.8897529",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1853"
   ],
   "solr_geom": "ENVELOPE(-74.8897529, -74.266638, 41.0860019, 40.649516)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(13.375336, 16.610884, 46.876538, 45.421340)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/f4752j387/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/f4752j387/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/f4752j387/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/f4752j387",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "administrative units",
@@ -22,16 +21,15 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "f4752j387",
-  "georss_polygon_s": "46.876538 13.375336 46.876538 16.610884 45.421340 16.610884 45.421340 13.375336 46.876538 13.375336",
   "dc_publisher_s": "Gfk MACON Company",
   "solr_year_i": "2006",
   "dct_spatial_sm": [
     "Slovenia"
   ],
   "layer_id_s": "pulmap-restricted:f4752j387",
-  "georss_box_s": "45.421340 13.375336 46.876538 16.610884",
   "dc_title_s": "Slovenia Region Boundaries, 2005",
   "layer_slug_s": "princeton-f4752j387",
   "layer_geom_type_s": "Polygon",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

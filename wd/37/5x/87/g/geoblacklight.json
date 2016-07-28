@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(11.410605, 24.157733, 67.955084, 55.339546)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/wd375x87g/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/wd375x87g/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/wd375x87g/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/wd375x87g",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Cities",
@@ -21,16 +20,15 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "wd375x87g",
-  "georss_polygon_s": "67.955084 11.410605 67.955084 24.157733 55.339546 24.157733 55.339546 11.410605 67.955084 11.410605",
   "dc_publisher_s": "Gfk MACON Company",
   "solr_year_i": "2006",
   "dct_spatial_sm": [
     "Sweden"
   ],
   "layer_id_s": "pulmap-restricted:wd375x87g",
-  "georss_box_s": "55.339546 11.410605 67.955084 24.157733",
   "dc_title_s": "Sweden Major City Areas, 2005",
   "layer_slug_s": "princeton-wd375x87g",
   "layer_geom_type_s": "Polygon",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1818",
-  "uuid": "http://arks.princeton.edu/ark:/88435/3n2041616",
   "dc_description_s": "China",
-  "georss_box_s": "18.0 96.0 43.0 126.0",
   "layer_modified_dt": "2015-01-19T22:37:37Z",
   "dc_creator_sm": [
     "Hebert, L.",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-3n2041616",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/3n2041616/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/3n/20/41/61/6/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "43.0 96.0 43.0 126.0 18.0 126.0 18.0 96.0 43.0 96.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1818"
@@ -26,5 +23,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "China"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(10.71, 10.82, 52.45, 52.41)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/tx31qk24v\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/tx31qk24v/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/tx31qk24v",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,16 +17,15 @@
   "dc_creator_sm": "Industriestadt der Gegenwart",
   "dc_type_s": "Image",
   "dc_identifier_s": "tx31qk24v",
-  "georss_polygon_s": "52.45 10.71 52.45 10.82 52.41 10.82 52.41 10.71 52.45 10.71",
   "dc_publisher_s": "Industriestadt der Gegenwart",
   "dct_spatial_sm": [
     "Wolfsburg",
     "Germany"
   ],
   "layer_id_s": "tx31qk24v",
-  "georss_box_s": "52.41 10.71 52.45 10.82",
   "dc_title_s": "Die Volkswagenstadt Wolfsburg",
   "layer_slug_s": "princeton-tx31qk24v",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

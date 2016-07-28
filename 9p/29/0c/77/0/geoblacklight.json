@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1719",
-  "uuid": "http://arks.princeton.edu/ark:/88435/9p290c770",
   "dc_description_s": "Particularitez curieuses de l'Ile de St. Christophle et de la province de Bemarin dans les Antilles",
-  "georss_box_s": "16.895 -63.0511289 17.6158146 -62.3303518",
   "layer_modified_dt": "2015-01-21T22:24:05Z",
   "dc_creator_sm": [
     "Chatelain, Henri Abraham."
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-9p290c770",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/9p290c770/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/9p/29/0c/77/0/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "17.6158146 -63.0511289 17.6158146 -62.3303518 16.895 -62.3303518 16.895 -63.0511289 17.6158146 -63.0511289",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1719"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Saint Kitts and Nevis"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

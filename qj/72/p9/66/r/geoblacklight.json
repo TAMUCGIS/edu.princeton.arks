@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1846",
-  "uuid": "http://arks.princeton.edu/ark:/88435/qj72p966r",
   "dc_description_s": "Coast of North America from Point Judith to St. Antonio (island of Cuba), including the Bahama Banks",
-  "georss_box_s": "38.881537056 -74.9720235453 40.5233940493 -73.9244117563",
   "layer_modified_dt": "2015-01-25T02:06:19Z",
   "dc_creator_sm": [
     "Blunt, Edmund M.",
@@ -16,12 +14,14 @@
   "layer_slug_s": "princeton-qj72p966r",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/qj72p966r/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/qj/72/p9/66/r/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.5233940493 -74.9720235453 40.5233940493 -73.9244117563 38.881537056 -73.9244117563 38.881537056 -74.9720235453 40.5233940493 -74.9720235453",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1846"
   ],
   "solr_geom": "ENVELOPE(-74.9720235453, -73.9244117563, 40.5233940493, 38.881537056)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

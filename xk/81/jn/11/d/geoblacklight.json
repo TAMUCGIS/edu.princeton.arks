@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-74, -73.75, 41.75, 41.5)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/xk81jn11d/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/xk/81/jn/11/d/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/xk81jn11d/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/xk81jn11d",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "historical maps",
@@ -20,7 +19,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "xk81jn11d",
-  "georss_polygon_s": "41.75 -74 41.75 -73.75 41.5 -73.75 41.5 -74 41.75 -74",
   "dc_publisher_s": "US Geological Survey",
   "dct_spatial_sm": [
     "Poughkeepsie",
@@ -29,9 +27,9 @@
     "USA"
   ],
   "layer_id_s": "xk81jn11d",
-  "georss_box_s": "41.5 -74 41.75 -73.75",
   "dc_title_s": "New York: Poughkeepsie Quadrangle. ",
   "dct_issued_s": "February 1903",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

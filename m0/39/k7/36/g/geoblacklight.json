@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1758",
-  "uuid": "http://arks.princeton.edu/ark:/88435/m039k736g",
   "dc_description_s": "Mappa dell' America Settentrionale : ove sono rappresentati esattam. i paesi e loro limiti controversi che hanno dato motivo alla guerra presente fra la Francia e l'Inghilterra",
-  "georss_box_s": "30.0 -95.0 50.0 -55.0",
   "layer_modified_dt": "2015-01-19T22:37:13Z",
   "dc_creator_sm": [
     "McCabe, Robert A.,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-m039k736g",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/m039k736g/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/m0/39/k7/36/g/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "50.0 -95.0 50.0 -55.0 30.0 -55.0 30.0 -95.0 50.0 -95.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1758"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "North America",
     "United States"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1894",
-  "uuid": "http://arks.princeton.edu/ark:/88435/9880vt47z",
   "dc_description_s": "A topographical map of the vicinity of Trenton, New Brunswick and Bordentown",
-  "georss_box_s": "40.0666666667 -74.8166666667 40.5833333333 -74.35",
   "layer_modified_dt": "2015-01-19T22:37:28Z",
   "dc_creator_sm": [
     "Smock, John C.",
@@ -16,12 +14,14 @@
   "layer_slug_s": "princeton-9880vt47z",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/9880vt47z/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/98/80/vt/47/z/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.5833333333 -74.8166666667 40.5833333333 -74.35 40.0666666667 -74.35 40.0666666667 -74.8166666667 40.5833333333 -74.8166666667",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1894"
   ],
   "solr_geom": "ENVELOPE(-74.8166666667, -74.35, 40.5833333333, 40.0666666667)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

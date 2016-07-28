@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1814",
-  "uuid": "http://arks.princeton.edu/ark:/88435/w0892d31x",
   "dc_description_s": "Germany, west",
-  "georss_box_s": "47.2701114 5.8663153 55.099161 15.0419319",
   "layer_modified_dt": "2015-01-21T22:23:58Z",
   "dc_creator_sm": [
     "Carey, Mathew,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-w0892d31x",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/w0892d31x/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/w0/89/2d/31/x/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "55.099161 5.8663153 55.099161 15.0419319 47.2701114 15.0419319 47.2701114 5.8663153 55.099161 5.8663153",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1814"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Germany"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

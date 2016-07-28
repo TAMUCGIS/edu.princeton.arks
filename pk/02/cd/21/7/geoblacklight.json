@@ -1,12 +1,10 @@
 {
   "solr_year_i": "1540",
-  "uuid": "http://arks.princeton.edu/ark:/88435/pk02cd217",
   "dc_description_s": "Lacus Constan. XX tab. nova",
-  "georss_box_s": "47.4780337 8.8585624 47.8174495 9.7538525",
   "layer_modified_dt": "2015-01-21T22:24:13Z",
   "dc_creator_sm": [
     "Petri, Heinrich,",
-    "Mu\u0308nster, Sebastian,",
+    "Münster, Sebastian,",
     "Ptolemy,"
   ],
   "layer_id_s": "pk02cd217",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-pk02cd217",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/pk02cd217/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/pk/02/cd/21/7/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "47.8174495 8.8585624 47.8174495 9.7538525 47.4780337 9.7538525 47.4780337 8.8585624 47.8174495 8.8585624",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1540"
@@ -26,5 +23,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Constance, Lake"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1549",
-  "uuid": "http://arks.princeton.edu/ark:/88435/rv042v907",
   "dc_description_s": "Cairus, quae olim Babylon : Aegypti maxima urbs.",
-  "georss_box_s": "30.0 31.0 30.0 31.0",
   "layer_modified_dt": "2015-01-19T22:36:44Z",
   "dc_creator_sm": [
     "Hogenberg, Frans,",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-rv042v907",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/rv042v907/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/rv/04/2v/90/7/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "30.0 31.0 30.0 31.0 30.0 31.0 30.0 31.0 30.0 31.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1549"
@@ -26,5 +23,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Cairo (Egypt)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

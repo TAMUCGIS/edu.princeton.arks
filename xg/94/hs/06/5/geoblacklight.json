@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1916",
-  "uuid": "http://arks.princeton.edu/ark:/88435/xg94hs065",
   "dc_description_s": "Map of the lower Mississippi River from the mouth of the Ohio River to the head of the passes in thirty three sheets.",
-  "georss_box_s": "29.0 -92.0 37.0 -89.0",
   "layer_modified_dt": "2015-01-23T17:48:39Z",
   "layer_id_s": "xg94hs065",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-xg94hs065",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/xg94hs065/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/xg/94/hs/06/5/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "37.0 -92.0 37.0 -89.0 29.0 -89.0 29.0 -92.0 37.0 -92.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1916"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Mississippi River"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

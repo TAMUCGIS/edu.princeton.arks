@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(8.7182, 9.0615, 44.5126, 44.3812)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/rb68xd374\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/rb68xd374/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/rb68xd374",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Istituto Geografico de Agostini",
   "dc_type_s": "Image",
   "dc_identifier_s": "rb68xd374",
-  "georss_polygon_s": "44.5126 8.7182 44.5126 9.0615 44.3812 9.0615 44.3812 8.7182 44.5126 8.7182",
   "dc_publisher_s": "Istituto Geografico de Agostini",
   "solr_year_i": "1930",
   "dct_spatial_sm": [
@@ -31,9 +29,9 @@
     "Liguria Region"
   ],
   "layer_id_s": "rb68xd374",
-  "georss_box_s": "44.3812 8.7182 44.5126 9.0615",
   "dc_title_s": "Pianta di Genova",
   "layer_slug_s": "princeton-rb68xd374",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1625",
-  "uuid": "http://arks.princeton.edu/ark:/88435/q811kn074",
   "dc_description_s": "Antwerpiae nobilissimi totius orbis terrarau[m] emporii typus anno M.D.XCVIII",
-  "georss_box_s": "51.1432868 4.2175769 51.3776412 4.497986",
   "layer_modified_dt": "2015-01-21T22:24:10Z",
   "dc_creator_sm": [
     "Guicciardini, Lodovico,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-q811kn074",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/q811kn074/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/q8/11/kn/07/4/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.3776412 4.2175769 51.3776412 4.497986 51.1432868 4.497986 51.1432868 4.2175769 51.3776412 4.2175769",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1625"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Antwerp (Belgium)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

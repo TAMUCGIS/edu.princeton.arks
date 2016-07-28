@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1805",
-  "uuid": "http://arks.princeton.edu/ark:/88435/5x21th90g",
   "dc_description_s": "A map of Kent : from the best authorities",
-  "georss_box_s": "50.9104763 0.0335249 51.4822724 1.4517689",
   "layer_modified_dt": "2015-01-21T22:24:18Z",
   "dc_creator_sm": [
     "Cary, John,",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-5x21th90g",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/5x21th90g/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/5x/21/th/90/g/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.4822724 0.0335249 51.4822724 1.4517689 50.9104763 1.4517689 50.9104763 0.0335249 51.4822724 0.0335249",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1805"
@@ -26,5 +23,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Kent (England)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1967",
-  "uuid": "http://arks.princeton.edu/ark:/88435/tb09j8030",
   "dc_description_s": "Rhodes Island",
-  "georss_box_s": "35.8076804 29.0876878 38.5861136 37.7518928",
   "layer_modified_dt": "2015-01-21T22:23:58Z",
   "dc_creator_sm": [
     "Graves, T.",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-tb09j8030",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/tb09j8030/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/tb/09/j8/03/0/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "38.5861136 29.0876878 38.5861136 37.7518928 35.8076804 37.7518928 35.8076804 29.0876878 38.5861136 29.0876878",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1967"
@@ -27,5 +24,6 @@
     "Mediterranean Region",
     "Rhodes (Greece : Island)",
     "Khalki Island (Greece)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

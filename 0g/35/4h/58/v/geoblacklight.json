@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1540",
-  "uuid": "http://arks.princeton.edu/ark:/88435/0g354h58v",
   "dc_description_s": "Tabula Asiae XII",
-  "georss_box_s": "5.719 79.3741141 10.035 82.0810141",
   "layer_modified_dt": "2015-01-21T22:23:59Z",
   "dc_creator_sm": [
     "Ptolemy,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-0g354h58v",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/0g354h58v/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/0g/35/4h/58/v/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "10.035 79.3741141 10.035 82.0810141 5.719 82.0810141 5.719 79.3741141 10.035 79.3741141",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1540"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Sri Lanka"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

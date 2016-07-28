@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(15.8315, 15.9431, 43.7884, 43.6944)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/8336h351x\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/8336h351x/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/8336h351x",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Putnik-Sibenik",
   "dc_type_s": "Image",
   "dc_identifier_s": "8336h351x",
-  "georss_polygon_s": "43.7884 15.8315 43.7884 15.9431 43.6944 15.9431 43.6944 15.8315 43.7884 15.8315",
   "dc_publisher_s": "Putnik-Sibenik",
   "solr_year_i": "1965",
   "dct_spatial_sm": [
@@ -28,9 +26,9 @@
     "Sebenico"
   ],
   "layer_id_s": "8336h351x",
-  "georss_box_s": "43.6944 15.8315 43.7884 15.9431",
   "dc_title_s": "Sibenik plan grada",
   "layer_slug_s": "princeton-8336h351x",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

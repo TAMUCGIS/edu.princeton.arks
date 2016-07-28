@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1903",
-  "uuid": "http://arks.princeton.edu/ark:/88435/5999n590d",
   "dc_description_s": "Peking",
-  "georss_box_s": "39.4424669 115.4165193 41.0586089 117.5071157",
   "layer_modified_dt": "2015-01-21T22:24:23Z",
   "layer_id_s": "5999n590d",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-5999n590d",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/5999n590d/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/59/99/n5/90/d/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "41.0586089 115.4165193 41.0586089 117.5071157 39.4424669 117.5071157 39.4424669 115.4165193 41.0586089 115.4165193",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1903"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Beijing (China)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

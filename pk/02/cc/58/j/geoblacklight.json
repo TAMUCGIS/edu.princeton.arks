@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1912",
-  "uuid": "http://arks.princeton.edu/ark:/88435/pk02cc58j",
   "dc_description_s": "The Rand-McNally new library atlas map of Union of South Africa, Basutoland and Swaziland",
-  "georss_box_s": "-46.9813794 16.45194 -22.12503 38.0037335",
   "layer_modified_dt": "2015-01-21T22:23:45Z",
   "layer_id_s": "pk02cc58j",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-pk02cc58j",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/pk02cc58j/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/pk/02/cc/58/j/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "-22.12503 16.45194 -22.12503 38.0037335 -46.9813794 38.0037335 -46.9813794 16.45194 -22.12503 16.45194",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1912"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "South Africa"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

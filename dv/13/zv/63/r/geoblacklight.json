@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(19.490485, 20.785189, 42.068911, 40.472967)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/dv13zv63r/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/dv13zv63r/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/dv13zv63r/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/dv13zv63r",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "City",
@@ -21,16 +20,15 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "dv13zv63r",
-  "georss_polygon_s": "42.068911 19.490485 42.068911 20.785189 40.472967 20.785189 40.472967 19.490485 42.068911 19.490485",
   "dc_publisher_s": "Gfk MACON Company",
   "solr_year_i": "2006",
   "dct_spatial_sm": [
     "Albania"
   ],
   "layer_id_s": "pulmap-restricted:dv13zv63r",
-  "georss_box_s": "40.472967 19.490485 42.068911 20.785189",
   "dc_title_s": "Albania Cities With Population From 50 Thousand To 100 Thousand, 2005",
   "layer_slug_s": "princeton-dv13zv63r",
   "layer_geom_type_s": "Point",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

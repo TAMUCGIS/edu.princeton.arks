@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1650",
-  "uuid": "http://arks.princeton.edu/ark:/88435/ft848s54v",
   "dc_description_s": "Mar del Zur Hispanis Mare Pacificum",
-  "georss_box_s": "32.5295236 -124.4820029 42.009499 -114.1307815",
   "layer_modified_dt": "2015-01-21T22:23:51Z",
   "layer_id_s": "ft848s54v",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-ft848s54v",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/ft848s54v/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ft/84/8s/54/v/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "42.009499 -124.4820029 42.009499 -114.1307815 32.5295236 -114.1307815 32.5295236 -124.4820029 42.009499 -124.4820029",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1650"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "California",
     "Pacific Ocean"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

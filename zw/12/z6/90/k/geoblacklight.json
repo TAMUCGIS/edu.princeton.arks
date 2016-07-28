@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(77.200, 77.2333, 28.700, 28.5667)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/zw12z690k\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/zw12z690k/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/zw12z690k",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Land use",
@@ -15,7 +14,6 @@
   "dc_creator_sm": "New Delhi Development Committee",
   "dc_type_s": "Image",
   "dc_identifier_s": "zw12z690k",
-  "georss_polygon_s": "28.700 77.200 28.700 77.2333 28.5667 77.2333 28.5667 77.200 28.700 77.200",
   "dc_publisher_s": "New Delhi Development Committee",
   "solr_year_i": "1939",
   "dct_spatial_sm": [
@@ -26,9 +24,9 @@
     "MAX  G7654.N45G4.1939. N4 (c)"
   ],
   "layer_id_s": "zw12z690k",
-  "georss_box_s": "28.5667 77.200 28.700 77.2333",
   "dc_title_s": "(New Delhi Development Committee's Report 1939.) Map III: Sketch map of New Delhi showing the use of land as proposed by the Development Committee in 1939.",
   "layer_slug_s": "princeton-zw12z690k",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

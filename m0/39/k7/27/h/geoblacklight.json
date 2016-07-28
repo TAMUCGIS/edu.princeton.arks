@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1855",
-  "uuid": "http://arks.princeton.edu/ark:/88435/m039k727h",
   "dc_description_s": "Der warme Meeresstrom des Atlantischen und der kalte Strom des grossen Oceans in Parallele nach geograph. Lage u. Ausdehnung dargestellt",
-  "georss_box_s": "-36.0 -136.0 45.0 -22.0",
   "layer_modified_dt": "2015-01-19T22:37:02Z",
   "dc_creator_sm": [
     "Meyer, Joseph,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-m039k727h",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/m039k727h/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/m0/39/k7/27/h/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "45.0 -136.0 45.0 -22.0 -36.0 -22.0 -36.0 -136.0 45.0 -136.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1855"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Western Hemisphere"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

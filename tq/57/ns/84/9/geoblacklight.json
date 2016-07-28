@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1938",
-  "uuid": "http://arks.princeton.edu/ark:/88435/tq57ns849",
   "dc_description_s": "Carte geologique detaillee de la France [a 1/80 000]: Langres.",
-  "georss_box_s": "47.66230 5.34180 48.02180 6.19890",
   "layer_modified_dt": "2015-01-19T22:36:39Z",
   "layer_id_s": "tq57ns849",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-tq57ns849",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/tq57ns849/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/tq/57/ns/84/9/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "48.02180 5.34180 48.02180 6.19890 47.66230 6.19890 47.66230 5.34180 48.02180 5.34180",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1938"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "France"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

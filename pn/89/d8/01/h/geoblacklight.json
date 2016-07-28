@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-1.283, -1.183, 51.8, 51.717)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/pn89d801h\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/pn89d801h/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/pn89d801h",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "England",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "City of Oxford Planning Office",
   "dc_type_s": "Image",
   "dc_identifier_s": "pn89d801h",
-  "georss_polygon_s": "51.8 -1.283 51.8 -1.183 51.717 -1.183 51.717 -1.283 51.8 -1.283",
   "dc_publisher_s": "City of Oxford Planning Office",
   "solr_year_i": "1955",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "G5754.O9G4.1955.O9"
   ],
   "layer_id_s": "pn89d801h",
-  "georss_box_s": "51.717 -1.283 51.8 -1.183",
   "dc_title_s": "City of Oxford.Town map",
   "layer_slug_s": "princeton-pn89d801h",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

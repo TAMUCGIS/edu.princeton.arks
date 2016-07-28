@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1791",
-  "uuid": "http://arks.princeton.edu/ark:/88435/5q47rr18x",
   "dc_description_s": "A map exhibiting a general view of the roads and inland navigation of Pennsylvania, and part of the adjacent states : respectfully inscribed to Thomas Mifflin, governor, and the General Assembly of the commonwealth of Pennsylvania",
-  "georss_box_s": "38.4511276 -75.7890402 39.839433 -74.9849354",
   "layer_modified_dt": "2015-01-21T22:24:06Z",
   "dc_creator_sm": [
     "Wallis, John,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-5q47rr18x",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/5q47rr18x/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/5q/47/rr/18/x/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "39.839433 -75.7890402 39.839433 -74.9849354 38.4511276 -74.9849354 38.4511276 -75.7890402 39.839433 -75.7890402",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1791"
@@ -28,5 +25,6 @@
     "New Jersey",
     "New York (State)",
     "Pennsylvania"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

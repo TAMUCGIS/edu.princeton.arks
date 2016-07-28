@@ -1,8 +1,6 @@
 {
   "layer_modified_dt": "2014-12-19T16:18:34Z",
-  "uuid": "http://arks.princeton.edu/ark:/88435/h989r484q",
   "dc_description_s": "Polygons representing landmarks in Cairo.",
-  "georss_box_s": "29.722880 30.804361 30.288951 31.777807",
   "layer_slug_s": "princeton-h989r484q",
   "dct_spatial_sm": [
     "Egypt",
@@ -12,7 +10,6 @@
     "Globe Telecom"
   ],
   "layer_id_s": "pulmap-restricted:h989r484q",
-  "georss_polygon_s": "30.288951 30.804361 30.288951 31.777807 29.722880 31.777807 29.722880 30.804361 30.288951 30.804361",
   "dc_type_s": "Dataset",
   "dc_identifier_s": "h989r484q",
   "dct_provenance_s": "Princeton",
@@ -45,5 +42,6 @@
   "layer_geom_type_s": "Polygon",
   "solr_geom": "ENVELOPE(30.804361, 31.777807, 30.288951, 29.722880)",
   "dc_rights_s": "Restricted",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

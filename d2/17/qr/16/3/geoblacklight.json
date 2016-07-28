@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(22.465279, 28.208174, 59.471790, 57.760633)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/d217qr163/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/d217qr163/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/d217qr163/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/d217qr163",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Cities",
@@ -21,16 +20,15 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "d217qr163",
-  "georss_polygon_s": "59.471790 22.465279 59.471790 28.208174 57.760633 28.208174 57.760633 22.465279 59.471790 22.465279",
   "dc_publisher_s": "Gfk MACON Company",
   "solr_year_i": "2006",
   "dct_spatial_sm": [
     "Estonia"
   ],
   "layer_id_s": "pulmap-restricted:d217qr163",
-  "georss_box_s": "57.760633 22.465279 59.471790 28.208174",
   "dc_title_s": "Estonia Major City Areas, 2005",
   "layer_slug_s": "princeton-d217qr163",
   "layer_geom_type_s": "Polygon",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

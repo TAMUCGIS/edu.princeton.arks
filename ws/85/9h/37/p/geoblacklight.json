@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(19.8, 79.2, 48.5, 18.5)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/ws859h37p/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ws/85/9h/37/p/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/ws859h37p/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/ws859h37p",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Geography",
@@ -14,11 +13,10 @@
   "dc_format_s": "Scanned Map",
   "layer_slug_s": "princeton-ws859h37p",
   "dc_creator_sm": [
-    "M\u00fcller, Karl"
+    "Müller, Karl"
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "ws859h37p",
-  "georss_polygon_s": "48.5 19.8 48.5 79.2 18.5 79.2 18.5 19.8 48.5 19.8",
   "dc_publisher_s": "John Murray ",
   "solr_year_i": "1873",
   "dct_spatial_sm": [
@@ -30,9 +28,9 @@
     "Persia"
   ],
   "layer_id_s": "ws859h37p",
-  "georss_box_s": "18.5 19.8 48.5 79.2",
-  "dc_title_s": "Empires of the Babylonians, Lydians, Medes and Persians / drawn by Dr. Charles M\u00fcller ; engraved by Edwd. Weller",
+  "dc_title_s": "Empires of the Babylonians, Lydians, Medes and Persians / drawn by Dr. Charles Müller ; engraved by Edwd. Weller",
   "dct_issued_s": "1873",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

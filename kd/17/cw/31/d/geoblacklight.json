@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1632",
-  "uuid": "http://arks.princeton.edu/ark:/88435/kd17cw31d",
   "dc_description_s": "Naerden",
-  "georss_box_s": "52.2778164 5.0957711 52.3287089 5.2303567",
   "layer_modified_dt": "2015-01-21T22:24:08Z",
   "dc_creator_sm": [
     "Boxhorn, Marcus Zuerius,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-kd17cw31d",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/kd17cw31d/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/kd/17/cw/31/d/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "52.3287089 5.0957711 52.3287089 5.2303567 52.2778164 5.2303567 52.2778164 5.0957711 52.3287089 5.0957711",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1632"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Naarden (Netherlands)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1841",
-  "uuid": "http://arks.princeton.edu/ark:/88435/j3860947n",
   "dc_description_s": "Hamburg",
-  "georss_box_s": "53.3951118 9.7304736 53.7394377 10.3253403",
   "layer_modified_dt": "2015-01-21T22:24:26Z",
   "dc_creator_sm": [
     "Davies, Benjamin Rees."
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-j3860947n",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/j3860947n/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/j3/86/09/47/n/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "53.7394377 9.7304736 53.7394377 10.3253403 53.3951118 10.3253403 53.3951118 9.7304736 53.7394377 9.7304736",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1841"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Hamburg (Germany)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

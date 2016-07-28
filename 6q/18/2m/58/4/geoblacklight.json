@@ -1,8 +1,6 @@
 {
   "layer_modified_dt": "2014-12-19T16:18:36Z",
-  "uuid": "http://arks.princeton.edu/ark:/88435/6q182m584",
   "dc_description_s": "Land parcels in Tulare County, California, 2009.",
-  "georss_box_s": "35.786734 -119.573053 36.753674 -117.980759",
   "layer_slug_s": "princeton-6q182m584",
   "dct_spatial_sm": [
     "California",
@@ -13,7 +11,6 @@
     "Boundary Solutions, Inc."
   ],
   "layer_id_s": "pulmap-restricted:6q182m584",
-  "georss_polygon_s": "36.753674 -119.573053 36.753674 -117.980759 35.786734 -117.980759 35.786734 -119.573053 36.753674 -119.573053",
   "dc_type_s": "Dataset",
   "dc_identifier_s": "6q182m584",
   "dct_provenance_s": "Princeton",
@@ -56,5 +53,6 @@
   "layer_geom_type_s": "Polygon",
   "solr_geom": "ENVELOPE(-119.573053, -117.980759, 36.753674, 35.786734)",
   "dc_rights_s": "Restricted",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

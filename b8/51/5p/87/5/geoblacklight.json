@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(16.467093, 17.033493, -14.445188, -15.160327)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/b8515p875\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/b8515p875/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/b8515p875",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Topographic maps",
@@ -15,7 +14,6 @@
   "dc_creator_sm": "Instituto de Geodesia e Cartografia de Angola",
   "dc_type_s": "Image",
   "dc_identifier_s": "b8515p875",
-  "georss_polygon_s": "-14.445188 16.467093 -14.445188 17.033493 -15.160327 17.033493 -15.160327 16.467093 -14.445188 16.467093",
   "dc_publisher_s": "Instituto de Geodesia e Cartografia de Angola",
   "solr_year_i": "1982",
   "dct_spatial_sm": [
@@ -26,9 +24,9 @@
     "Angola"
   ],
   "layer_id_s": "b8515p875",
-  "georss_box_s": "-15.160327 16.467093 -14.445188 17.033493",
   "dc_title_s": "Republica Popular de Angola. Folha No.342 : Cuchi",
   "layer_slug_s": "princeton-b8515p875",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

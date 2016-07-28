@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1858",
-  "uuid": "http://arks.princeton.edu/ark:/88435/5t34sn007",
   "dc_description_s": "Map of Brooklyn at the time of the Revolutionary War",
-  "georss_box_s": "40.551042 -74.05663 40.739446 -73.8333651",
   "layer_modified_dt": "2015-01-21T22:24:01Z",
   "dc_creator_sm": [
     "Hayward, George,",
@@ -16,12 +14,14 @@
   "layer_slug_s": "princeton-5t34sn007",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/5t34sn007/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/5t/34/sn/00/7/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.739446 -74.05663 40.739446 -73.8333651 40.551042 -73.8333651 40.551042 -74.05663 40.739446 -74.05663",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1858"
   ],
   "solr_geom": "ENVELOPE(-74.05663, -73.8333651, 40.739446, 40.551042)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

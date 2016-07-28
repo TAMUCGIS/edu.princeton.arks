@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1878",
-  "uuid": "http://arks.princeton.edu/ark:/88435/w9505230w",
   "dc_description_s": "Parts of western Wyoming, southeastern Idaho and northeastern Utah /",
-  "georss_box_s": "41.0 -112.0 43.0 109.0",
   "layer_modified_dt": "2015-01-19T22:36:47Z",
   "dc_creator_sm": [
     "Hayden, F. V.",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-w9505230w",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/w9505230w/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/w9/50/52/30/w/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "43.0 -112.0 43.0 109.0 41.0 109.0 41.0 -112.0 43.0 -112.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1878"
@@ -28,5 +25,6 @@
     "Wyoming",
     "Idaho",
     "Utah"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

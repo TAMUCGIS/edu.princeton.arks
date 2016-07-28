@@ -1,7 +1,5 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/pz50gz625",
   "dc_description_s": "Map of the head waters of the rivers Susquehanna & Delaware embracing the early patents on the south side of the Mohawk River : from the original, drawn about the year 1790 /",
-  "georss_box_s": "39.4281633 -75.6153473 41.9390068 -74.6877586",
   "layer_modified_dt": "2015-01-21T22:24:30Z",
   "dc_creator_sm": [
     "O'Callaghan, E. B.",
@@ -15,12 +13,12 @@
   "layer_slug_s": "princeton-pz50gz625",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/pz50gz625/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/pz/50/gz/62/5/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "41.9390068 -75.6153473 41.9390068 -74.6877586 39.4281633 -74.6877586 39.4281633 -75.6153473 41.9390068 -75.6153473",
   "layer_geom_type_s": "Image",
   "solr_geom": "ENVELOPE(-75.6153473, -74.6877586, 41.9390068, 39.4281633)",
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "New York (State)",
     "Susquehanna River Valley"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

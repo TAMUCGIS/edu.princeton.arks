@@ -1,7 +1,5 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/cf95jd30n",
-  "dc_description_s": "Americ\u00e6 nova tabula",
-  "georss_box_s": "18.9110642 172.4458955 71.389888 -66.9453947",
+  "dc_description_s": "Americæ nova tabula",
   "layer_modified_dt": "2015-01-21T22:23:44Z",
   "dc_creator_sm": [
     "Blaeu, Willem Janszoon,",
@@ -11,15 +9,15 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "cf95jd30n",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Americ\u00e6 nova tabula",
+  "dc_title_s": "Americæ nova tabula",
   "layer_slug_s": "princeton-cf95jd30n",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/cf95jd30n/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/cf/95/jd/30/n/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "71.389888 172.4458955 71.389888 -66.9453947 18.9110642 -66.9453947 18.9110642 172.4458955 71.389888 172.4458955",
   "layer_geom_type_s": "Image",
   "solr_geom": "ENVELOPE(172.4458955, -66.9453947, 71.389888, 18.9110642)",
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "America"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1757",
-  "uuid": "http://arks.princeton.edu/ark:/88435/df65vb044",
   "dc_description_s": "Carte des terres Australes : comprises entre le Tropique du Capricorne et le Pole Antarctique ... par les ordres de Mrs. de la Compagnie des Indes ...",
-  "georss_box_s": "-85.0511286 -179.9999999 -59.9999999 180.0",
   "layer_modified_dt": "2015-01-21T22:23:55Z",
   "dc_creator_sm": [
     "Haye, G. de la.",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-df65vb044",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/df65vb044/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/df/65/vb/04/4/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "-59.9999999 -179.9999999 -59.9999999 180.0 -85.0511286 180.0 -85.0511286 -179.9999999 -59.9999999 -179.9999999",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1757"
@@ -29,5 +26,6 @@
     "Southern Hemisphere",
     "Southern Hemisphere",
     "South Pole"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

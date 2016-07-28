@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1620",
-  "uuid": "http://arks.princeton.edu/ark:/88435/6969z3262",
   "dc_description_s": "Cambridge : comitatus quem olim Iceni insederunt",
-  "georss_box_s": "52.005779 -0.499896 52.7399783 0.514455",
   "layer_modified_dt": "2015-01-21T22:24:17Z",
   "dc_creator_sm": [
     "Kip, William,",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-6969z3262",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/6969z3262/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/69/69/z3/26/2/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "52.7399783 -0.499896 52.7399783 0.514455 52.005779 0.514455 52.005779 -0.499896 52.7399783 -0.499896",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1620"
@@ -26,5 +23,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Cambridgeshire (England)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1831",
-  "uuid": "http://arks.princeton.edu/ark:/88435/gx41mm38d",
   "dc_description_s": "China",
-  "georss_box_s": "18.0 95.0 43.0 130.0",
   "layer_modified_dt": "2015-01-19T22:37:37Z",
   "dc_creator_sm": [
     "Lizars, Daniel,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-gx41mm38d",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/gx41mm38d/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/gx/41/mm/38/d/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "43.0 95.0 43.0 130.0 18.0 130.0 18.0 95.0 43.0 95.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1831"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "China",
     "Korea"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

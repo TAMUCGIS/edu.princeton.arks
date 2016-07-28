@@ -1,11 +1,9 @@
 {
   "solr_year_i": "1824",
-  "uuid": "http://arks.princeton.edu/ark:/88435/5425kc51w",
-  "dc_description_s": "Carta dell' Affrica : ridotta sopra quella in 4 fogli di H. Brue\u0301 e secondo la geografia di Malte-Brunn",
-  "georss_box_s": "1.9999503 15.9999497 2.0000503 16.0000497",
+  "dc_description_s": "Carta dell' Affrica : ridotta sopra quella in 4 fogli di H. Brué e secondo la geografia di Malte-Brunn",
   "layer_modified_dt": "2015-01-21T22:23:43Z",
   "dc_creator_sm": [
-    "Brue\u0301, Adrien Hubert,",
+    "Brué, Adrien Hubert,",
     "Malte-Brun, Conrad,",
     "Bossi, Luigi,"
   ],
@@ -13,11 +11,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "5425kc51w",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Carta dell' Affrica : ridotta sopra quella in 4 fogli di H. Brue\u0301 e secondo la geografia di Malte-Brunn",
+  "dc_title_s": "Carta dell' Affrica : ridotta sopra quella in 4 fogli di H. Brué e secondo la geografia di Malte-Brunn",
   "layer_slug_s": "princeton-5425kc51w",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/5425kc51w/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/54/25/kc/51/w/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "2.0000503 15.9999497 2.0000503 16.0000497 1.9999503 16.0000497 1.9999503 15.9999497 2.0000503 15.9999497",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1824"
@@ -26,5 +23,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Africa"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

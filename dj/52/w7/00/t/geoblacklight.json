@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-74.305326, -74.255608, 40.62753, 40.591903)",
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/dj/52/w7/00/t/00000001.jp2/info.json\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/dj52w700t",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
@@ -21,7 +20,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "dj52w700t",
-  "georss_polygon_s": "40.62753 -74.305326 40.62753 -74.255608 40.591903 -74.255608 40.591903 -74.305326 40.62753 -74.305326",
   "dc_publisher_s": "New York: Sanborn Map Company",
   "solr_year_i": "1908",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "Rahway"
   ],
   "layer_id_s": "dj52w700t",
-  "georss_box_s": "40.591903 -74.305326 40.62753 -74.255608",
   "dc_title_s": "Insurance maps of Rahway, Union County, New Jersey (Sheet 13)",
   "layer_slug_s": "princeton-dj52w700t",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(11.8038, 12.1621, 57.7899, 57.6124)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/h702q787k\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/h702q787k/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/h702q787k",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -19,22 +18,21 @@
   "dc_creator_sm": "Swedish American Line",
   "dc_type_s": "Image",
   "dc_identifier_s": "h702q787k",
-  "georss_polygon_s": "57.7899 11.8038 57.7899 12.1621 57.6124 12.1621 57.6124 11.8038 57.7899 11.8038",
   "dc_publisher_s": "Swedish American Line",
   "solr_year_i": "1953",
   "dct_spatial_sm": [
     "Gothenburg",
     "Sweden",
-    "G\u00f6toberg",
-    "G\u00f6teborg",
+    "Götoberg",
+    "Göteborg",
     "Gottenborg",
     "Goeteborg",
     "Goteburg"
   ],
   "layer_id_s": "h702q787k",
-  "georss_box_s": "57.6124 11.8038 57.7899 12.1621",
   "dc_title_s": "Tourist map of Gothenburg",
   "layer_slug_s": "princeton-h702q787k",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

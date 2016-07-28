@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(14.7552, 14.9053, 50.9979, 50.8219)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/j098zc77m\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/j098zc77m/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/j098zc77m",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -19,7 +18,6 @@
   "dc_creator_sm": "VEB Landkartenverlag",
   "dc_type_s": "Image",
   "dc_identifier_s": "j098zc77m",
-  "georss_polygon_s": "50.9979 14.7552 50.9979 14.9053 50.8219 14.9053 50.8219 14.7552 50.9979 14.7552",
   "dc_publisher_s": "VEB Landkartenverlag",
   "solr_year_i": "1966",
   "dct_spatial_sm": [
@@ -28,9 +26,9 @@
     "Sachsen Freistaat"
   ],
   "layer_id_s": "j098zc77m",
-  "georss_box_s": "50.8219 14.7552 50.9979 14.9053",
-  "dc_title_s": "Strassen\u00fcbersichtsplan Zittau mit Strassenverzeichnis",
+  "dc_title_s": "Strassenübersichtsplan Zittau mit Strassenverzeichnis",
   "layer_slug_s": "princeton-j098zc77m",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1870",
-  "uuid": "http://arks.princeton.edu/ark:/88435/8c97ks90p",
   "dc_description_s": "Europa",
-  "georss_box_s": "50.9999503 9.9999497 51.0000503 10.0000497",
   "layer_modified_dt": "2015-01-21T22:24:17Z",
   "dc_creator_sm": [
     "Endert, A."
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-8c97ks90p",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/8c97ks90p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/8c/97/ks/90/p/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.0000503 9.9999497 51.0000503 10.0000497 50.9999503 10.0000497 50.9999503 9.9999497 51.0000503 9.9999497",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1870"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Europe"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

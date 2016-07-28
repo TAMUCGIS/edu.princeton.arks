@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1852",
-  "uuid": "http://arks.princeton.edu/ark:/88435/j9602315k",
   "dc_description_s": "Map of the town of Concord, Middlesex County Mass.",
-  "georss_box_s": "42.4126909 -71.4302758 42.504563 -71.2890488",
   "layer_modified_dt": "2015-01-21T22:24:30Z",
   "dc_creator_sm": [
     "Thoreau, Henry David,"
@@ -15,12 +13,14 @@
   "layer_slug_s": "princeton-j9602315k",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/j9602315k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/j9/60/23/15/k/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "42.504563 -71.4302758 42.504563 -71.2890488 42.4126909 -71.2890488 42.4126909 -71.4302758 42.504563 -71.4302758",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1852"
   ],
   "solr_geom": "ENVELOPE(-71.4302758, -71.2890488, 42.504563, 42.4126909)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

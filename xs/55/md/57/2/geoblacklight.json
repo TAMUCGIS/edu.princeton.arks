@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(5.009540, 29.761642, 70.662914, 58.087409)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/xs55md572/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/xs55md572/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/xs55md572/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/xs55md572",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "City",
@@ -21,16 +20,15 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "xs55md572",
-  "georss_polygon_s": "70.662914 5.009540 70.662914 29.761642 58.087409 29.761642 58.087409 5.009540 70.662914 5.009540",
   "dc_publisher_s": "Gfk MACON Company",
   "solr_year_i": "2006",
   "dct_spatial_sm": [
     "Norway"
   ],
   "layer_id_s": "pulmap-restricted:xs55md572",
-  "georss_box_s": "58.087409 5.009540 70.662914 29.761642",
   "dc_title_s": "Norway Cities With Population From 5 Thousand To 10 Thousand, 2005",
   "layer_slug_s": "princeton-xs55md572",
   "layer_geom_type_s": "Point",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

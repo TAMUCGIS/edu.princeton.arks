@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-74.25, -74.00, 39.75, 39.50)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/m039k651j/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/m0/39/k6/51/j/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/m039k651j/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/m039k651j",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Topographic map",
@@ -21,7 +20,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "m039k651j",
-  "georss_polygon_s": "39.75 -74.25 39.75 -74.00 39.50 -74.00 39.50 -74.25 39.75 -74.25",
   "dc_publisher_s": "United States Geological Survey",
   "solr_year_i": "1913",
   "dct_spatial_sm": [
@@ -33,9 +31,9 @@
     "Lovelady Island"
   ],
   "layer_id_s": "m039k651j",
-  "georss_box_s": "39.50 -74.25 39.75 -74.00",
   "dc_title_s": "New Jersey, Long Beach Sheet (1913)",
   "dct_issued_s": "1913",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

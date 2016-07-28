@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1910",
-  "uuid": "http://arks.princeton.edu/ark:/88435/vq27zq884",
   "dc_description_s": "Rand McNally standard map of Persia, Afghanistan and Baluchistan",
-  "georss_box_s": "26.0 46.0 40.0 72.0",
   "layer_modified_dt": "2015-01-19T22:37:18Z",
   "layer_id_s": "vq27zq884",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-vq27zq884",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/vq27zq884/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/vq/27/zq/88/4/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.0 46.0 40.0 72.0 26.0 72.0 26.0 46.0 40.0 46.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1910"
@@ -23,5 +20,6 @@
     "Afghanistan",
     "Iran",
     "Pakistan"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1540",
-  "uuid": "http://arks.princeton.edu/ark:/88435/44558g687",
   "dc_description_s": "Tabula Asiae XI",
-  "georss_box_s": "-11.1083 92.171808 28.5478351 141.0425",
   "layer_modified_dt": "2015-01-21T22:23:59Z",
   "dc_creator_sm": [
     "Ptolemy,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-44558g687",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/44558g687/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/44/55/8g/68/7/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "28.5478351 92.171808 28.5478351 141.0425 -11.1083 141.0425 -11.1083 92.171808 28.5478351 92.171808",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1540"
@@ -26,5 +23,6 @@
     "Southeast Asia",
     "India",
     "Thailand"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

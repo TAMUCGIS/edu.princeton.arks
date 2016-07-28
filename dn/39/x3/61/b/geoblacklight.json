@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1799",
-  "uuid": "http://arks.princeton.edu/ark:/88435/dn39x361b",
   "dc_description_s": "Wallis's plan of the cities of London and Westminster, 1799",
-  "georss_box_s": "51.2867602 -0.510375 51.6918741 0.3340155",
   "layer_modified_dt": "2015-01-21T22:23:53Z",
   "layer_id_s": "dn39x361b",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-dn39x361b",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/dn39x361b/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/dn/39/x3/61/b/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.6918741 -0.510375 51.6918741 0.3340155 51.2867602 0.3340155 51.2867602 -0.510375 51.6918741 -0.510375",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1799"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "London (England)",
     "Westminster (London, England)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

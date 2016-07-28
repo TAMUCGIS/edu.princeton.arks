@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(139.5667, 139.6833, 35.7500, 35.6833)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/2b88qd62k/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/2b/88/qd/62/k/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/2b88qd62k/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/2b88qd62k",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
@@ -23,7 +22,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "2b88qd62k",
-  "georss_polygon_s": "35.7500 139.5667 35.7500 139.6833 35.6833 139.6833 35.6833 139.5667 35.7500 139.5667",
   "dc_publisher_s": "Army Map Service",
   "solr_year_i": "1946",
   "dct_spatial_sm": [
@@ -33,9 +31,9 @@
     "Japan"
   ],
   "layer_id_s": "2b88qd62k",
-  "georss_box_s": "35.6833 139.5667 35.7500 139.6833",
   "dc_title_s": "Nakano, Japan: Tokyo-to, Honshu. ",
   "dct_issued_s": "1946",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-7.6707, -6.2509, 62.3907, 61.3829)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/jw827d391/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/jw827d391/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/jw827d391/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/jw827d391",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Cities",
@@ -22,7 +21,6 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "jw827d391",
-  "georss_polygon_s": "62.3907 -7.6707 62.3907 -6.2509 61.3829 -6.2509 61.3829 -7.6707 62.3907 -7.6707",
   "dc_publisher_s": "Gfk MACON Company",
   "solr_year_i": "2006",
   "dct_spatial_sm": [
@@ -31,9 +29,9 @@
     "Faroes"
   ],
   "layer_id_s": "pulmap-restricted:jw827d391",
-  "georss_box_s": "61.3829 -7.6707 62.3907 -6.2509",
   "dc_title_s": "Faroe Islands Major Cities, 2005",
   "layer_slug_s": "princeton-jw827d391",
   "layer_geom_type_s": "Point",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

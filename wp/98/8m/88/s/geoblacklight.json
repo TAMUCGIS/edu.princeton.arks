@@ -1,7 +1,5 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/wp988m88s",
   "dc_description_s": "A New & accurate map of the countries thirty miles round London",
-  "georss_box_s": "51.2867602 -0.510375 51.6918741 0.3340155",
   "layer_modified_dt": "2015-01-21T22:23:53Z",
   "layer_id_s": "wp988m88s",
   "dc_type_s": "Image",
@@ -11,11 +9,11 @@
   "layer_slug_s": "princeton-wp988m88s",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/wp988m88s/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/wp/98/8m/88/s/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.6918741 -0.510375 51.6918741 0.3340155 51.2867602 0.3340155 51.2867602 -0.510375 51.6918741 -0.510375",
   "layer_geom_type_s": "Image",
   "solr_geom": "ENVELOPE(-0.510375, 0.3340155, 51.6918741, 51.2867602)",
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "London (England)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

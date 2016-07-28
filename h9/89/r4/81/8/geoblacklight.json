@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-2.0667, -1.4500, 52.0500, 51.800)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/h989r4818\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/h989r4818/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/h989r4818",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
@@ -19,7 +18,6 @@
   "dc_creator_sm": "Great Britain Ordnance Survey",
   "dc_type_s": "Image",
   "dc_identifier_s": "h989r4818",
-  "georss_polygon_s": "52.0500 -2.0667 52.0500 -1.4500 51.800 -1.4500 51.800 -2.0667 52.0500 -2.0667",
   "dc_publisher_s": "Great Britain Ordnance Survey",
   "solr_year_i": "1930",
   "dct_spatial_sm": [
@@ -34,9 +32,9 @@
     "MAX G5741.C2.s63.O7S8 sh93"
   ],
   "layer_id_s": "h989r4818",
-  "georss_box_s": "51.800 -2.0667 52.0500 -1.4500",
   "dc_title_s": "Ordnance Survey of England and Wales: popular edition one-inch map. Stow on the Wold. Sheet 93.",
   "layer_slug_s": "princeton-h989r4818",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

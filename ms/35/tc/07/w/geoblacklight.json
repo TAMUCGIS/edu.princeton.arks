@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1892",
-  "uuid": "http://arks.princeton.edu/ark:/88435/ms35tc07w",
   "dc_description_s": "Rand, McNally & Co.'s indexed atlas of the world map of Colombia and Venezuela",
-  "georss_box_s": "-4.0 -84.0 14.0 -59.0",
   "layer_modified_dt": "2015-01-19T22:37:11Z",
   "layer_id_s": "ms35tc07w",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-ms35tc07w",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/ms35tc07w/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ms/35/tc/07/w/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "14.0 -84.0 14.0 -59.0 -4.0 -59.0 -4.0 -84.0 14.0 -84.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1892"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Colombia",
     "Venezuela"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

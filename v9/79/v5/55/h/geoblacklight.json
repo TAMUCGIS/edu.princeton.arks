@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1913",
-  "uuid": "http://arks.princeton.edu/ark:/88435/v979v555h",
   "dc_description_s": "New \"half-inch\" cycling road maps of England & Wales : reduced by permission from the new Ordnance Survey.",
-  "georss_box_s": "50.9743731 -3.8869332 50.975017 -3.8859432",
   "layer_modified_dt": "2015-01-21T22:24:16Z",
   "dc_creator_sm": [
     "Schmidt, Mary,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-v979v555h",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/v979v555h/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/v9/79/v5/55/h/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "50.975017 -3.8869332 50.975017 -3.8859432 50.9743731 -3.8859432 50.9743731 -3.8869332 50.975017 -3.8869332",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1913"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Lake District (England)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

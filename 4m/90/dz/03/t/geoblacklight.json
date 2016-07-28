@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1908",
-  "uuid": "http://arks.princeton.edu/ark:/88435/4m90dz03t",
   "dc_description_s": "Plan von Suderode",
-  "georss_box_s": "51.9557386 10.6002557 51.9957386 10.6402557",
   "layer_modified_dt": "2015-01-21T22:24:29Z",
   "layer_id_s": "4m90dz03t",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-4m90dz03t",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/4m90dz03t/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/4m/90/dz/03/t/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.9957386 10.6002557 51.9957386 10.6402557 51.9557386 10.6402557 51.9557386 10.6002557 51.9957386 10.6002557",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1908"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Suderode (Germany)",
     "Saxony-Anhalt (Germany)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1963",
-  "uuid": "http://arks.princeton.edu/ark:/88435/p8418q02t",
   "dc_description_s": "Carte geologique detaillee de la France [a 1/80 000]: Barneville.",
-  "georss_box_s": "49.07570 -2.51710 49.43490 -1.63620",
   "layer_modified_dt": "2015-01-19T22:36:37Z",
   "dc_creator_sm": [
     "Goguel, Jean",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-p8418q02t",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/p8418q02t/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/p8/41/8q/02/t/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "49.43490 -2.51710 49.43490 -1.63620 49.07570 -1.63620 49.07570 -2.51710 49.43490 -2.51710",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1963"
@@ -26,5 +23,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "France"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

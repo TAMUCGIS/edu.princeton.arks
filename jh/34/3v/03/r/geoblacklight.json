@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(120.9209, 121.1596, 14.7878, 14.3544)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/jh343v03r\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/jh343v03r/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/jh343v03r",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Philippines Department of Engineering and Public Works, Division of Drafting and Surveys",
   "dc_type_s": "Image",
   "dc_identifier_s": "jh343v03r",
-  "georss_polygon_s": "14.7878 120.9209 14.7878 121.1596 14.3544 121.1596 14.3544 120.9209 14.7878 120.9209",
   "dc_publisher_s": "Philippines Department of Engineering and Public Works, Division of Drafting and Surveys",
   "solr_year_i": "1965",
   "dct_spatial_sm": [
@@ -26,9 +24,9 @@
     "Philippines"
   ],
   "layer_id_s": "jh343v03r",
-  "georss_box_s": "14.3544 120.9209 14.7878 121.1596",
   "dc_title_s": "City of Manila from original surveys 1904-1965, corrected as of March 1, 1965",
   "layer_slug_s": "princeton-jh343v03r",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1700",
-  "uuid": "http://arks.princeton.edu/ark:/88435/pg15bh41h",
   "dc_description_s": "Pecheli, Xansi, Xantung, Honan, Nanking in plaga Regni Sinensis inter septentrionem ac orientem ceciam versus sitae provinciae.",
-  "georss_box_s": "3.966232 73.4997347 53.5608154 134.7754563",
   "layer_modified_dt": "2015-01-21T22:24:26Z",
   "dc_creator_sm": [
     "Jansson, Jan,",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-pg15bh41h",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/pg15bh41h/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/pg/15/bh/41/h/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "53.5608154 73.4997347 53.5608154 134.7754563 3.966232 134.7754563 3.966232 73.4997347 53.5608154 73.4997347",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1700"
@@ -26,5 +23,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "China"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

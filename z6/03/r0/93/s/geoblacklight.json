@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1818",
-  "uuid": "http://arks.princeton.edu/ark:/88435/z603r093s",
   "dc_description_s": "Spanish dominions in North America : middle part",
-  "georss_box_s": "12.6666666667 -106.5 26.0 -86.5",
   "layer_modified_dt": "2015-01-19T22:37:35Z",
   "dc_creator_sm": [
     "Hebert, L.",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-z603r093s",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/z603r093s/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/z6/03/r0/93/s/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "26.0 -106.5 26.0 -86.5 12.6666666667 -86.5 12.6666666667 -106.5 26.0 -106.5",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1818"
@@ -27,5 +24,6 @@
   "dct_spatial_sm": [
     "Mexico",
     "Central America"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

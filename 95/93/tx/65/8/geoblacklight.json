@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1909",
-  "uuid": "http://arks.princeton.edu/ark:/88435/9593tx658",
-  "dc_description_s": "Mapa de las propiedades rusticas del estado de Sinaloa, Me\u0301xico",
-  "georss_box_s": "22.470687 -109.4475839 27.0422491 -105.3922225",
+  "dc_description_s": "Mapa de las propiedades rusticas del estado de Sinaloa, México",
   "layer_modified_dt": "2015-01-21T22:24:29Z",
   "dc_creator_sm": [
     "Rhoades, Nelson,"
@@ -11,11 +9,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "9593tx658",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Mapa de las propiedades rusticas del estado de Sinaloa, Me\u0301xico",
+  "dc_title_s": "Mapa de las propiedades rusticas del estado de Sinaloa, México",
   "layer_slug_s": "princeton-9593tx658",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/9593tx658/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/95/93/tx/65/8/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "27.0422491 -109.4475839 27.0422491 -105.3922225 22.470687 -105.3922225 22.470687 -109.4475839 27.0422491 -109.4475839",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1909"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Sinaloa (Mexico : State)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

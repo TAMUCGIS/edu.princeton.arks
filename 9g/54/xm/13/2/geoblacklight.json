@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1737",
-  "uuid": "http://arks.princeton.edu/ark:/88435/9g54xm132",
   "dc_description_s": "Dominia Anglorum in America Septentrionali.",
-  "georss_box_s": "24.396308 -87.6348959 31.000968 -79.9743059",
   "layer_modified_dt": "2015-01-21T22:24:13Z",
   "dc_creator_sm": [
     "Moll, Herman,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-9g54xm132",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/9g54xm132/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/9g/54/xm/13/2/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "31.000968 -87.6348959 31.000968 -79.9743059 24.396308 -79.9743059 24.396308 -87.6348959 31.000968 -87.6348959",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1737"
@@ -28,5 +25,6 @@
     "South Atlantic States",
     "South Carolina",
     "North Carolina"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

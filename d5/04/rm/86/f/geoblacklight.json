@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-79.5936, -79.3334, 9.1248, 8.9042)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/d504rm86f\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/d504rm86f/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/d504rm86f",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -19,7 +18,6 @@
   "dc_creator_sm": "United States Defense Mapping Agency, Hydrographic/Topographic Center",
   "dc_type_s": "Image",
   "dc_identifier_s": "d504rm86f",
-  "georss_polygon_s": "9.1248 -79.5936 9.1248 -79.3334 8.9042 -79.3334 8.9042 -79.5936 9.1248 -79.5936",
   "dc_publisher_s": "United States Defense Mapping Agency, Hydrographic/Topographic Center",
   "solr_year_i": "1977",
   "dct_spatial_sm": [
@@ -28,9 +26,9 @@
     "Panama Prov."
   ],
   "layer_id_s": "d504rm86f",
-  "georss_box_s": "8.9042 -79.5936 9.1248 -79.3334",
   "dc_title_s": "Panama City Graphic 1:20,000. Panama. Series E965.",
   "layer_slug_s": "princeton-d504rm86f",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

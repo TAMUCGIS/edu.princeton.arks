@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(125.0000, 125.0167, 11.1167, 11.100)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/4q77fs76b/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/4q/77/fs/76/b/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/4q77fs76b/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/4q77fs76b",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
@@ -23,7 +22,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "4q77fs76b",
-  "georss_polygon_s": "11.1167 125.0000 11.1167 125.0167 11.100 125.0167 11.100 125.0000 11.1167 125.0000",
   "dc_publisher_s": "Army Map Service",
   "solr_year_i": "1944",
   "dct_spatial_sm": [
@@ -31,9 +29,9 @@
     "Philippines"
   ],
   "layer_id_s": "4q77fs76b",
-  "georss_box_s": "11.100 125.0000 11.1167 125.0167",
   "dc_title_s": "Tanauan, Philippine Islands, Leyte Province, Leyte. A.M.S. S901.",
   "dct_issued_s": "1944",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

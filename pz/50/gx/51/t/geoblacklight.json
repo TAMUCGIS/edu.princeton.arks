@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(121.840603, 131.083069, 46.273193, 40.924244)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/pz50gx51t/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/pz50gx51t/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/pz50gx51t/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/pz50gx51t",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "laborers",
@@ -61,7 +60,6 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "pz50gx51t",
-  "georss_polygon_s": "46.273193 121.840603 46.273193 131.083069 40.924244 131.083069 40.924244 121.840603 46.273193 121.840603",
   "solr_year_i": "2000",
   "dct_spatial_sm": [
     "China",
@@ -69,9 +67,9 @@
     "Jilin Province"
   ],
   "layer_id_s": "pulmap-restricted:pz50gx51t",
-  "georss_box_s": "40.924244 121.840603 46.273193 131.083069",
   "dc_title_s": "Township map of Jilin with 2000 Census long form data (L1-L6)",
   "layer_slug_s": "princeton-pz50gx51t",
   "layer_geom_type_s": "Point",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

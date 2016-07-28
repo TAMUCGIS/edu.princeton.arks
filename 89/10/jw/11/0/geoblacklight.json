@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(6.758226, 18.458860, 47.078445, 36.726917)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/8910jw110/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/8910jw110/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/8910jw110/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/8910jw110",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Rivers",
@@ -21,16 +20,15 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "8910jw110",
-  "georss_polygon_s": "47.078445 6.758226 47.078445 18.458860 36.726917 18.458860 36.726917 6.758226 47.078445 6.758226",
   "dc_publisher_s": "Gfk MACON Company",
   "solr_year_i": "2006",
   "dct_spatial_sm": [
     "Italy"
   ],
   "layer_id_s": "pulmap-restricted:8910jw110",
-  "georss_box_s": "36.726917 6.758226 47.078445 18.458860",
   "dc_title_s": "Italy Minor Rivers, 2005",
   "layer_slug_s": "princeton-8910jw110",
   "layer_geom_type_s": "Line",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

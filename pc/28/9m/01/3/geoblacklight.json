@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1606",
-  "uuid": "http://arks.princeton.edu/ark:/88435/pc289m013",
-  "dc_description_s": "Tartariae sive Magni Chami Regni ty\u0308pus",
-  "georss_box_s": "55.9999502 103.9999498 56.0000502 104.0000498",
+  "dc_description_s": "Tartariae sive Magni Chami Regni tÿpus",
   "layer_modified_dt": "2015-01-21T22:23:52Z",
   "dc_creator_sm": [
     "Ortelius, Abraham,",
@@ -12,11 +10,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "pc289m013",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Tartariae sive Magni Chami Regni ty\u0308pus",
+  "dc_title_s": "Tartariae sive Magni Chami Regni tÿpus",
   "layer_slug_s": "princeton-pc289m013",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/pc289m013/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/pc/28/9m/01/3/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "56.0000502 103.9999498 56.0000502 104.0000498 55.9999502 104.0000498 55.9999502 103.9999498 56.0000502 103.9999498",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1606"
@@ -28,5 +25,6 @@
     "Alaska",
     "Bering Sea",
     "Bering Strait"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

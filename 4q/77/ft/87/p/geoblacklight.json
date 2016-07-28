@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1906",
-  "uuid": "http://arks.princeton.edu/ark:/88435/4q77ft87p",
   "dc_description_s": "Strategical map of part of Korea and Manchuria",
-  "georss_box_s": "32.0 121.0 46.0 133.0",
   "layer_modified_dt": "2015-01-19T22:37:37Z",
   "dc_creator_sm": [
     "Hoopes, Charles L."
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-4q77ft87p",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/4q77ft87p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/4q/77/ft/87/p/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "46.0 121.0 46.0 133.0 32.0 133.0 32.0 121.0 46.0 121.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1906"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "Korea",
     "Manchuria (China)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

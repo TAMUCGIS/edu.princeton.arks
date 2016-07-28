@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1915",
-  "uuid": "http://arks.princeton.edu/ark:/88435/6d56zz50b",
   "dc_description_s": "Turkey",
-  "georss_box_s": "35.8076804 25.6212891 42.297 44.8176638",
   "layer_modified_dt": "2015-01-21T22:23:49Z",
   "layer_id_s": "6d56zz50b",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-6d56zz50b",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/6d56zz50b/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/6d/56/zz/50/b/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "42.297 25.6212891 42.297 44.8176638 35.8076804 44.8176638 35.8076804 25.6212891 42.297 25.6212891",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1915"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Turkey"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

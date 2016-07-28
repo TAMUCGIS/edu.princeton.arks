@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-74.536411, -74.496905, 40.911764, 40.883449)",
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/td/96/k4/66/5/00000001.jp2/info.json\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/td96k4665",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
@@ -21,7 +20,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "td96k4665",
-  "georss_polygon_s": "40.911764 -74.536411 40.911764 -74.496905 40.883449 -74.496905 40.883449 -74.536411 40.911764 -74.536411",
   "dc_publisher_s": "New York: Sanborn Map Company",
   "solr_year_i": "1886",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "Rockaway"
   ],
   "layer_id_s": "td96k4665",
-  "georss_box_s": "40.883449 -74.536411 40.911764 -74.496905",
   "dc_title_s": "Rockaway, N. J. (Sheet 2)",
   "layer_slug_s": "princeton-td96k4665",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

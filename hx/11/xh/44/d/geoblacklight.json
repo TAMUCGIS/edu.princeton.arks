@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1719",
-  "uuid": "http://arks.princeton.edu/ark:/88435/hx11xh44d",
   "dc_description_s": "Carte de l'Isle de Madagascar, dite aujourd'hui l'Ile Daufine",
-  "georss_box_s": "-25.8054593 42.9729705 -11.7490749 50.6983545",
   "layer_modified_dt": "2015-01-21T22:23:55Z",
   "dc_creator_sm": [
     "Chatelain, Henri Abraham."
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-hx11xh44d",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/hx11xh44d/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/hx/11/xh/44/d/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "-11.7490749 42.9729705 -11.7490749 50.6983545 -25.8054593 50.6983545 -25.8054593 42.9729705 -11.7490749 42.9729705",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1719"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "Madagascar",
     "Madagascar"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

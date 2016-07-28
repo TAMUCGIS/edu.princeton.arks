@@ -1,11 +1,9 @@
 {
   "solr_year_i": "1797",
-  "uuid": "http://arks.princeton.edu/ark:/88435/1831cn332",
-  "dc_description_s": "Plan ge\u0301ome\u0301tral de Paris et de ses fauxbourgs",
-  "georss_box_s": "48.8155755 2.224122 48.902156 2.4697602",
+  "dc_description_s": "Plan géométral de Paris et de ses fauxbourgs",
   "layer_modified_dt": "2015-01-21T22:23:59Z",
   "dc_creator_sm": [
-    "Delamarche, Charles Franc\u0327ois,",
+    "Delamarche, Charles François,",
     "Robert de Vaugondy, Gilles,",
     "Vignon, Bernard-Louis,"
   ],
@@ -13,11 +11,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "1831cn332",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Plan ge\u0301ome\u0301tral de Paris et de ses fauxbourgs",
+  "dc_title_s": "Plan géométral de Paris et de ses fauxbourgs",
   "layer_slug_s": "princeton-1831cn332",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/1831cn332/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/18/31/cn/33/2/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "48.902156 2.224122 48.902156 2.4697602 48.8155755 2.4697602 48.8155755 2.224122 48.902156 2.224122",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1797"
@@ -26,5 +23,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Paris (France)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

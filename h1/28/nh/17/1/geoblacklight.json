@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1856",
-  "uuid": "http://arks.princeton.edu/ark:/88435/h128nh171",
   "dc_description_s": "Southern division of the United States : designed to accompany Cornell's High school geography",
-  "georss_box_s": "24.5248244719 -106.6456461 39.7493368813 -74.2160467125",
   "layer_modified_dt": "2015-01-21T22:24:13Z",
   "dc_creator_sm": [
     "Wells, J.",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-h128nh171",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/h128nh171/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/h1/28/nh/17/1/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "39.7493368813 -106.6456461 39.7493368813 -74.2160467125 24.5248244719 -74.2160467125 24.5248244719 -106.6456461 39.7493368813 -106.6456461",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1856"
@@ -26,5 +23,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Southern States"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

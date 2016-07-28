@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(22.670016, 27.891246, 44.217528, 41.570818)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/dv13zv96j/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/dv13zv96j/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/dv13zv96j/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/dv13zv96j",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Lakes",
@@ -21,16 +20,15 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "dv13zv96j",
-  "georss_polygon_s": "44.217528 22.670016 44.217528 27.891246 41.570818 27.891246 41.570818 22.670016 44.217528 22.670016",
   "dc_publisher_s": "Gfk MACON Company",
   "solr_year_i": "2006",
   "dct_spatial_sm": [
     "Bulgaria"
   ],
   "layer_id_s": "pulmap-restricted:dv13zv96j",
-  "georss_box_s": "41.570818 22.670016 44.217528 27.891246",
   "dc_title_s": "Bulgaria Major Lakes, 2005",
   "layer_slug_s": "princeton-dv13zv96j",
   "layer_geom_type_s": "Polygon",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1888",
-  "uuid": "http://arks.princeton.edu/ark:/88435/zg64tp00r",
   "dc_description_s": "Railroad and county map of Dakota",
-  "georss_box_s": "45.9350359 -104.0492649 49.0004918 -96.5543974",
   "layer_modified_dt": "2015-01-21T22:23:54Z",
   "layer_id_s": "zg64tp00r",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-zg64tp00r",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/zg64tp00r/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/zg/64/tp/00/r/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "49.0004918 -104.0492649 49.0004918 -96.5543974 45.9350359 -96.5543974 45.9350359 -104.0492649 49.0004918 -104.0492649",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1888"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "North Dakota",
     "South Dakota"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

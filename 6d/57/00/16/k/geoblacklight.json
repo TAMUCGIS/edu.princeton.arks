@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1806",
-  "uuid": "http://arks.princeton.edu/ark:/88435/6d570016k",
   "dc_description_s": "Carte des royaumes d'Espagne et de Portugal",
-  "georss_box_s": "36.2380667008 -9.5035614375 43.7923795 4.3277839",
   "layer_modified_dt": "2015-01-25T02:06:23Z",
   "dc_creator_sm": [
     "Bonne, Rigobert,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-6d570016k",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/6d570016k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/6d/57/00/16/k/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "43.7923795 -9.5035614375 43.7923795 4.3277839 36.2380667008 4.3277839 36.2380667008 -9.5035614375 43.7923795 -9.5035614375",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1806"
@@ -27,5 +24,6 @@
     "Iberian Peninsula",
     "Portugal",
     "Spain"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

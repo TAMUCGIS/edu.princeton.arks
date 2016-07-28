@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1871",
-  "uuid": "http://arks.princeton.edu/ark:/88435/cn69m650x",
   "dc_description_s": "Watsons new county and railroad map of the western states and territories",
-  "georss_box_s": "25.8371638 -125.2784586 50.3243423493 -103.967023275",
   "layer_modified_dt": "2015-01-21T22:23:56Z",
   "layer_id_s": "cn69m650x",
   "dc_type_s": "Image",
@@ -12,12 +10,14 @@
   "layer_slug_s": "princeton-cn69m650x",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/cn69m650x/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/cn/69/m6/50/x/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "50.3243423493 -125.2784586 50.3243423493 -103.967023275 25.8371638 -103.967023275 25.8371638 -125.2784586 50.3243423493 -125.2784586",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1871"
   ],
   "solr_geom": "ENVELOPE(-125.2784586, -103.967023275, 50.3243423493, 25.8371638)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

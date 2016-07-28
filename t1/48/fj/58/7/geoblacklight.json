@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-75.122, -75.1146, 39.888, 39.8797)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/t148fj587/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/t1/48/fj/58/7/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/t148fj587/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/t148fj587",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "t148fj587",
-  "georss_polygon_s": "39.888 -75.122 39.888 -75.1146 39.8797 -75.1146 39.8797 -75.122 39.888 -75.122",
   "dc_publisher_s": "Sanborn Map Company",
   "solr_year_i": "1930",
   "dct_spatial_sm": [
@@ -28,9 +26,9 @@
     "United States"
   ],
   "layer_id_s": "t148fj587",
-  "georss_box_s": "39.8797 -75.122 39.888 -75.1146",
   "dc_title_s": "Gloucester City, including Borough of Brooklawn, Camden County, New Jersey (Sheet 20)",
   "dct_issued_s": "1930",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

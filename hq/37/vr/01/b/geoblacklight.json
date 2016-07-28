@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1857",
-  "uuid": "http://arks.princeton.edu/ark:/88435/hq37vr01b",
   "dc_description_s": "Plan of the fortifications of Paris : showing the enceinte and detached forts, communications and horizontal curves of the ground, from a survey published by the Prefect of the Department of the Seine /",
-  "georss_box_s": "48.8155755 2.224122 48.902156 2.4697602",
   "layer_modified_dt": "2015-01-21T22:24:00Z",
   "layer_id_s": "hq37vr01b",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-hq37vr01b",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/hq37vr01b/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/hq/37/vr/01/b/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "48.902156 2.224122 48.902156 2.4697602 48.8155755 2.4697602 48.8155755 2.224122 48.902156 2.224122",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1857"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Paris (France)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

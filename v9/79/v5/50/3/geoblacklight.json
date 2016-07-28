@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1861",
-  "uuid": "http://arks.princeton.edu/ark:/88435/v979v5503",
   "dc_description_s": "City of Manhattan or New York",
-  "georss_box_s": "40.7702778 -73.9797222 40.8102778 -73.9397222",
   "layer_modified_dt": "2015-01-21T22:24:01Z",
   "dc_creator_sm": [
     "Valentine, D. T.",
@@ -18,12 +16,14 @@
   "layer_slug_s": "princeton-v979v5503",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/v979v5503/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/v9/79/v5/50/3/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.8102778 -73.9797222 40.8102778 -73.9397222 40.7702778 -73.9397222 40.7702778 -73.9797222 40.8102778 -73.9797222",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1861"
   ],
   "solr_geom": "ENVELOPE(-73.9797222, -73.9397222, 40.8102778, 40.7702778)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

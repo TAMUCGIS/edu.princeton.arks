@@ -1,18 +1,15 @@
 {
   "solr_year_i": "1790",
-  "uuid": "http://arks.princeton.edu/ark:/88435/rj430693g",
-  "dc_description_s": "Plan de la ville et faubourg de Paris : divise\u0301 en ses 48 sections",
-  "georss_box_s": "48.8155755 2.224122 48.902156 2.4697602",
+  "dc_description_s": "Plan de la ville et faubourg de Paris : divisé en ses 48 sections",
   "layer_modified_dt": "2015-01-21T22:23:58Z",
   "layer_id_s": "rj430693g",
   "dc_type_s": "Image",
   "dc_identifier_s": "rj430693g",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Plan de la ville et faubourg de Paris : divise\u0301 en ses 48 sections",
+  "dc_title_s": "Plan de la ville et faubourg de Paris : divisé en ses 48 sections",
   "layer_slug_s": "princeton-rj430693g",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/rj430693g/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/rj/43/06/93/g/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "48.902156 2.224122 48.902156 2.4697602 48.8155755 2.4697602 48.8155755 2.224122 48.902156 2.224122",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1790"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Paris (France)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

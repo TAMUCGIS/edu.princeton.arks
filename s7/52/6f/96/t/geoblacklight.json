@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1870",
-  "uuid": "http://arks.princeton.edu/ark:/88435/s7526f96t",
   "dc_description_s": "Ventimiglia",
-  "georss_box_s": "43.7757247 7.4948099 44.6764264 10.0710317",
   "layer_modified_dt": "2015-01-25T02:06:23Z",
   "layer_id_s": "s7526f96t",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-s7526f96t",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/s7526f96t/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/s7/52/6f/96/t/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "44.6764264 7.4948099 44.6764264 10.0710317 43.7757247 10.0710317 43.7757247 7.4948099 44.6764264 7.4948099",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1870"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Liguria (Italy)",
     "Riviera (Italy)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

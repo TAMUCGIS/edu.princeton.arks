@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(16.1398, 16.201, 46.6838, 46.6235)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/8c97ks014\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/8c97ks014/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/8c97ks014",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Drzavna Zalozba Slovenije/Geodetski Zavod SRS. Kartografski Oddelek",
   "dc_type_s": "Image",
   "dc_identifier_s": "8c97ks014",
-  "georss_polygon_s": "46.6838 16.1398 46.6838 16.201 46.6235 16.201 46.6235 16.1398 46.6838 16.1398",
   "dc_publisher_s": "Drzavna Zalozba Slovenije/Geodetski Zavod SRS. Kartografski Oddelek",
   "solr_year_i": "1979",
   "dct_spatial_sm": [
@@ -31,9 +29,9 @@
     "Szombat"
   ],
   "layer_id_s": "8c97ks014",
-  "georss_box_s": "46.6235 16.1398 46.6838 16.201",
   "dc_title_s": "Murska Sobota",
   "layer_slug_s": "princeton-8c97ks014",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

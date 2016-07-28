@@ -1,7 +1,5 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/3197xp55w",
   "dc_description_s": "Souvenir map of prominent motion picture stars homes",
-  "georss_box_s": "34.05269 -118.4270731 34.112456 -118.3720591",
   "layer_modified_dt": "2015-01-21T22:24:24Z",
   "layer_id_s": "3197xp55w",
   "dc_type_s": "Image",
@@ -11,9 +9,11 @@
   "layer_slug_s": "princeton-3197xp55w",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/3197xp55w/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/31/97/xp/55/w/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "34.112456 -118.4270731 34.112456 -118.3720591 34.05269 -118.3720591 34.05269 -118.4270731 34.112456 -118.4270731",
   "layer_geom_type_s": "Image",
   "solr_geom": "ENVELOPE(-118.4270731, -118.3720591, 34.112456, 34.05269)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

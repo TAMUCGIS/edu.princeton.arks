@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1844",
-  "uuid": "http://arks.princeton.edu/ark:/88435/cv43p035p",
   "dc_description_s": "Plan von St. Petersburg (Sanktpeterburga), 1844",
-  "georss_box_s": "59.7441481 30.0433427 60.0907368 30.5673028",
   "layer_modified_dt": "2015-01-21T22:24:29Z",
   "layer_id_s": "cv43p035p",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-cv43p035p",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/cv43p035p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/cv/43/p0/35/p/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "60.0907368 30.0433427 60.0907368 30.5673028 59.7441481 30.5673028 59.7441481 30.0433427 60.0907368 30.0433427",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1844"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Saint Petersburg (Russia)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

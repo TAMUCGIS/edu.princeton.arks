@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1830",
-  "uuid": "http://arks.princeton.edu/ark:/88435/w0892d48r",
   "dc_description_s": "Pianta topografica di Roma antica con i principali monumenti ideati nel loro primitivo stato secondo le ultime scoperte e con i frammenti della marmorea pianta capitolina disposti nel suo d'intorno /",
-  "georss_box_s": "41.6556417 12.2344985 42.1410285 12.8557603",
   "layer_modified_dt": "2015-01-25T02:06:23Z",
   "layer_id_s": "w0892d48r",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-w0892d48r",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/w0892d48r/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/w0/89/2d/48/r/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "42.1410285 12.2344985 42.1410285 12.8557603 41.6556417 12.8557603 41.6556417 12.2344985 42.1410285 12.2344985",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1830"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Rome (Italy)",
     "Rome (Italy)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

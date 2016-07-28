@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1906",
-  "uuid": "http://arks.princeton.edu/ark:/88435/b8515q882",
   "dc_description_s": "Uebersichts-Karte der Insel Sylt",
-  "georss_box_s": "54.7418629 8.2788526 55.0583511 8.489955",
   "layer_modified_dt": "2015-01-25T02:06:17Z",
   "layer_id_s": "b8515q882",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-b8515q882",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/b8515q882/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/b8/51/5q/88/2/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "55.0583511 8.2788526 55.0583511 8.489955 54.7418629 8.489955 54.7418629 8.2788526 55.0583511 8.2788526",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1906"
@@ -23,5 +20,6 @@
     "Sylt (Germany)",
     "Schleswig-Holstein (Germany)",
     "Westerland (Germany)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

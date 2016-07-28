@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(42.347517, 48.005094, 36.511212, 30.512717)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/2j62s648t\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/2j62s648t/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/2j62s648t",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Refineries",
@@ -20,7 +19,6 @@
   "dc_creator_sm": "Robert Fargo",
   "dc_type_s": "Image",
   "dc_identifier_s": "2j62s648t",
-  "georss_polygon_s": "36.511212 42.347517 36.511212 48.005094 30.512717 48.005094 30.512717 42.347517 36.511212 42.347517",
   "dc_publisher_s": "ESOC Group",
   "solr_year_i": "2007",
   "dct_spatial_sm": [
@@ -28,9 +26,9 @@
     "Middle East"
   ],
   "layer_id_s": "2j62s648t",
-  "georss_box_s": "30.512717 42.347517 36.511212 48.005094",
   "dc_title_s": "Iraq Hydrocarbon Refineries",
   "layer_slug_s": "princeton-2j62s648t",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

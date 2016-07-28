@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1814",
-  "uuid": "http://arks.princeton.edu/ark:/88435/zw12z7811",
   "dc_description_s": "China, divided into its great provinces : according to the best authorities",
-  "georss_box_s": "18.0 91.0 46.0 134.0",
   "layer_modified_dt": "2015-01-19T22:37:37Z",
   "dc_creator_sm": [
     "Carey, Mathew,",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-zw12z7811",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/zw12z7811/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/zw/12/z7/81/1/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "46.0 91.0 46.0 134.0 18.0 134.0 18.0 91.0 46.0 91.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1814"
@@ -27,5 +24,6 @@
   "dct_spatial_sm": [
     "China",
     "Korea"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

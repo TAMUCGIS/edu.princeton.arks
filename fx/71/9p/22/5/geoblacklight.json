@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-74.7667, -74.5500, 40.700, 40.5833)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/fx719p225/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/fx/71/9p/22/5/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/fx719p225/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/fx719p225",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Topographic map",
@@ -23,7 +22,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "fx719p225",
-  "georss_polygon_s": "40.700 -74.7667 40.700 -74.5500 40.5833 -74.5500 40.5833 -74.7667 40.700 -74.7667",
   "dc_publisher_s": "Geological Survey  of New Jersey",
   "solr_year_i": "1917",
   "dct_spatial_sm": [
@@ -33,9 +31,9 @@
     "New Jersey"
   ],
   "layer_id_s": "fx719p225",
-  "georss_box_s": "40.5833 -74.7667 40.700 -74.5500",
   "dc_title_s": "New Jersey topographic name sheet. Pluckemin [1917] ",
   "dct_issued_s": "1917",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

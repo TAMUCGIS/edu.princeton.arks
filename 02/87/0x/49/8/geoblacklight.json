@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(103, 123, 25, 0)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/02870x498/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/02/87/0x/49/8/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/02870x498/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/02870x498",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Administrative and Political Boundaries"
@@ -16,7 +15,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "02870x498",
-  "georss_polygon_s": "25 103 25 123 0 123 0 103 25 103",
   "dc_publisher_s": "Central Intelligence Agency",
   "dct_spatial_sm": [
     "Spratly Islands",
@@ -26,9 +24,9 @@
     "Asia"
   ],
   "layer_id_s": "02870x498",
-  "georss_box_s": "0 103 25 123",
   "dc_title_s": "South China Seas Islands. (1988). ",
   "dct_issued_s": "September 1988",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

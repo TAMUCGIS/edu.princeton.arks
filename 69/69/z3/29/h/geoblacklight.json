@@ -1,8 +1,6 @@
 {
   "solr_year_i": "2000",
-  "uuid": "http://arks.princeton.edu/ark:/88435/6969z329h",
   "dc_description_s": "Map of Hunterdon County, New Jersey : entirely from original surveys",
-  "georss_box_s": "40.339427 -75.1954891 40.7890857 -74.7036889",
   "layer_modified_dt": "2015-01-21T22:24:26Z",
   "dc_creator_sm": [
     "Van Derveer, Lloyd.",
@@ -16,12 +14,14 @@
   "layer_slug_s": "princeton-6969z329h",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/6969z329h/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/69/69/z3/29/h/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.7890857 -75.1954891 40.7890857 -74.7036889 40.339427 -74.7036889 40.339427 -75.1954891 40.7890857 -75.1954891",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "2000"
   ],
   "solr_geom": "ENVELOPE(-75.1954891, -74.7036889, 40.7890857, 40.339427)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

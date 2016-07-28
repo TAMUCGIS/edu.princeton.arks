@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1901",
-  "uuid": "http://arks.princeton.edu/ark:/88435/kh04ds222",
   "dc_description_s": "Map of Armenia and adjacent countries",
-  "georss_box_s": "37.0 38.0 43.0 50.0",
   "layer_modified_dt": "2015-01-19T22:37:41Z",
   "dc_creator_sm": [
     "Oswald, Felix,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-kh04ds222",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/kh04ds222/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/kh/04/ds/22/2/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "43.0 38.0 43.0 50.0 37.0 50.0 37.0 38.0 43.0 38.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1901"
@@ -28,5 +25,6 @@
     "Armenia",
     "Georgia (Republic)",
     "Turkey"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

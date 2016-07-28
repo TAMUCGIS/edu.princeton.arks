@@ -1,7 +1,5 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/1j92g992p",
   "dc_description_s": "Partie orientale d'Afrique : ou se trouvent l'Egipte, la Nubie, l'Abissine, et l'Ajan et partie de la Nigritie, du Grand Desert et du Bildulgerid &c. : ou se trouvent encore l'Arabie qui fait partie de l'Asie, et la Mer Rouge",
-  "georss_box_s": "-26.9612 21.9963878 18.0212099 63.8085939",
   "layer_modified_dt": "2015-01-21T22:24:06Z",
   "dc_creator_sm": [
     "Fer, Nicolas de,"
@@ -14,12 +12,12 @@
   "layer_slug_s": "princeton-1j92g992p",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/1j92g992p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/1j/92/g9/92/p/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "18.0212099 21.9963878 18.0212099 63.8085939 -26.9612 63.8085939 -26.9612 21.9963878 18.0212099 21.9963878",
   "layer_geom_type_s": "Image",
   "solr_geom": "ENVELOPE(21.9963878, 63.8085939, 18.0212099, -26.9612)",
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Africa, East",
     "Arabia, Southern"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

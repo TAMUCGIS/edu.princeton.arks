@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(121.011164, 121.806160, 31.440715, 30.700257)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/3j333375j/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/3j333375j/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/3j333375j/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/3j333375j",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Transportation networks",
@@ -17,7 +16,6 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "3j333375j",
-  "georss_polygon_s": "31.440715 121.011164 31.440715 121.806160 30.700257 121.806160 30.700257 121.011164 31.440715 121.011164",
   "dc_publisher_s": "LeadDog Consulting, LLC",
   "solr_year_i": "2006",
   "dct_spatial_sm": [
@@ -25,9 +23,9 @@
     "China"
   ],
   "layer_id_s": "pulmap-restricted:3j333375j",
-  "georss_box_s": "30.700257 121.011164 31.440715 121.806160",
   "dc_title_s": "Shangai railways",
   "layer_slug_s": "princeton-3j333375j",
   "layer_geom_type_s": "Line",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

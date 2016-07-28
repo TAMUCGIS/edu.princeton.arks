@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1603",
-  "uuid": "http://arks.princeton.edu/ark:/88435/cn69m656t",
   "dc_description_s": "Daphne",
-  "georss_box_s": "36.1938048 36.1442916 36.2118122 36.1763064",
   "layer_modified_dt": "2015-01-21T22:24:00Z",
   "dc_creator_sm": [
     "Ortelius, Abraham,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-cn69m656t",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/cn69m656t/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/cn/69/m6/56/t/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "36.2118122 36.1442916 36.2118122 36.1763064 36.1938048 36.1763064 36.1938048 36.1442916 36.2118122 36.1442916",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1603"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "Antioch (Turkey)",
     "Maps"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

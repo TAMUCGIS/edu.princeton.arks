@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-72, -71.75, 41.5, 41.25)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/wd375x95z/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/wd/37/5x/95/z/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/wd375x95z/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/wd375x95z",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "historical maps",
@@ -20,7 +19,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "wd375x95z",
-  "georss_polygon_s": "41.5 -72 41.5 -71.75 41.25 -71.75 41.25 -72 41.5 -72",
   "dc_publisher_s": "US Geological Survey",
   "dct_spatial_sm": [
     "Stonington",
@@ -33,9 +31,9 @@
     "United States"
   ],
   "layer_id_s": "wd375x95z",
-  "georss_box_s": "41.25 -72 41.5 -71.75",
   "dc_title_s": "Connecticut-R.I.-N.Y.: Stonington sheet [1935 reprint]",
   "dct_issued_s": "December 1893",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

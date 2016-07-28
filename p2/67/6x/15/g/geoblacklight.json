@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-180, 180, 90, -90)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/p2676x15g\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/p2676x15g/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/p2676x15g",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Oil",
@@ -17,13 +16,12 @@
   "dc_creator_sm": "Petroleum Economist Ltd.",
   "dc_type_s": "Image",
   "dc_identifier_s": "p2676x15g",
-  "georss_polygon_s": "90 -180 90 180 -90 180 -90 -180 90 -180",
   "solr_year_i": "2003",
   "dct_spatial_sm": "World",
   "layer_id_s": "p2676x15g",
-  "georss_box_s": "-90 -180 90 180",
   "dc_title_s": "World oil map.",
   "layer_slug_s": "princeton-p2676x15g",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

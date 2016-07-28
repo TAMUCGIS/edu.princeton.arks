@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1750",
-  "uuid": "http://arks.princeton.edu/ark:/88435/d217qs01n",
-  "dc_description_s": "Pr\u00e6fectur\u00e6 Leucopetran\u00e6 delineatio geographica, urbes, oppida, vicos, pagos, limitesque nova ratione complectens",
-  "georss_box_s": "50.9378508 10.5608128 53.0416917 13.1868819",
+  "dc_description_s": "Præfecturæ Leucopetranæ delineatio geographica, urbes, oppida, vicos, pagos, limitesque nova ratione complectens",
   "layer_modified_dt": "2015-01-21T22:24:19Z",
   "dc_creator_sm": [
     "Lotter, Tobias Conrad,"
@@ -11,11 +9,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "d217qs01n",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Pr\u00e6fectur\u00e6 Leucopetran\u00e6 delineatio geographica, urbes, oppida, vicos, pagos, limitesque nova ratione complectens",
+  "dc_title_s": "Præfecturæ Leucopetranæ delineatio geographica, urbes, oppida, vicos, pagos, limitesque nova ratione complectens",
   "layer_slug_s": "princeton-d217qs01n",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/d217qs01n/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/d2/17/qs/01/n/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "53.0416917 10.5608128 53.0416917 13.1868819 50.9378508 13.1868819 50.9378508 10.5608128 53.0416917 10.5608128",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1750"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "Saxony-Anhalt (Germany)",
     "Weissenfels (Germany)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

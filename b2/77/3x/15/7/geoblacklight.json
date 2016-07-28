@@ -1,8 +1,6 @@
 {
   "layer_modified_dt": "2014-12-19T16:18:35Z",
-  "uuid": "http://arks.princeton.edu/ark:/88435/b2773x157",
   "dc_description_s": "Polylines representing tram lines in Cairo.",
-  "georss_box_s": "29.781999 31.248047 30.118464 31.380603",
   "layer_slug_s": "princeton-b2773x157",
   "dct_spatial_sm": [
     "Egypt",
@@ -12,7 +10,6 @@
     "Globe Telecom"
   ],
   "layer_id_s": "pulmap-restricted:b2773x157",
-  "georss_polygon_s": "30.118464 31.248047 30.118464 31.380603 29.781999 31.380603 29.781999 31.248047 30.118464 31.248047",
   "dc_type_s": "Dataset",
   "dc_identifier_s": "b2773x157",
   "dct_provenance_s": "Princeton",
@@ -29,5 +26,6 @@
   "layer_geom_type_s": "Line",
   "solr_geom": "ENVELOPE(31.248047, 31.380603, 30.118464, 29.781999)",
   "dc_rights_s": "Restricted",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

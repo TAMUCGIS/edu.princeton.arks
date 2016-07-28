@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1769",
-  "uuid": "http://arks.princeton.edu/ark:/88435/gb19f774z",
   "dc_description_s": "A mar [sic] of part of Borneo and the Sooloo Archipelago : laid down chiefly from observations made in 1761, 2, 3, and 4",
-  "georss_box_s": "-4.1785188 108.8413152 7.0374623 119.2691247",
   "layer_modified_dt": "2015-01-21T22:23:52Z",
   "layer_id_s": "gb19f774z",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-gb19f774z",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/gb19f774z/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/gb/19/f7/74/z/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "7.0374623 108.8413152 7.0374623 119.2691247 -4.1785188 119.2691247 -4.1785188 108.8413152 7.0374623 108.8413152",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1769"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Borneo",
     "Sulu Archipelago (Philippines)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

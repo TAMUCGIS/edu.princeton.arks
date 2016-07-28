@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1805",
-  "uuid": "http://arks.princeton.edu/ark:/88435/sn00b1269",
   "dc_description_s": "A map of the north part of the West Riding of Yorkshire : from the best authorities",
-  "georss_box_s": "53.51974 -2.1732938 53.963151 -1.1988144",
   "layer_modified_dt": "2015-01-21T22:24:18Z",
   "dc_creator_sm": [
     "Morris, William H.,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-sn00b1269",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/sn00b1269/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/sn/00/b1/26/9/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "53.963151 -2.1732938 53.963151 -1.1988144 53.51974 -1.1988144 53.51974 -2.1732938 53.963151 -2.1732938",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1805"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "West Riding of Yorkshire (England)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

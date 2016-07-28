@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1846",
-  "uuid": "http://arks.princeton.edu/ark:/88435/zc77ss01m",
   "dc_description_s": "Oceana or Pacific Ocean",
-  "georss_box_s": "-54.0 95.0 68.0 -70.0",
   "layer_modified_dt": "2015-01-19T22:36:53Z",
   "dc_creator_sm": [
     "Mitchell, S. Augustus"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-zc77ss01m",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/zc77ss01m/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/zc/77/ss/01/m/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "68.0 95.0 68.0 -70.0 -54.0 -70.0 -54.0 95.0 68.0 95.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1846"
@@ -26,5 +23,6 @@
     "Australia",
     "Pacific Ocean",
     "Oceania"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

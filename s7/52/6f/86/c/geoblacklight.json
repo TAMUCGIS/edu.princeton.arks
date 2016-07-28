@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1883",
-  "uuid": "http://arks.princeton.edu/ark:/88435/s7526f86c",
   "dc_description_s": "[Map of Newport, Rhode Island, and vicinity showing the disposition of American and British forces in August 1778]",
-  "georss_box_s": "41.0959868 -71.9074126 42.0188529 -71.0999606",
   "layer_modified_dt": "2015-01-21T22:24:04Z",
   "layer_id_s": "s7526f86c",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-s7526f86c",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/s7526f86c/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/s7/52/6f/86/c/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "42.0188529 -71.9074126 42.0188529 -71.0999606 41.0959868 -71.0999606 41.0959868 -71.9074126 42.0188529 -71.9074126",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1883"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Rhode Island"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

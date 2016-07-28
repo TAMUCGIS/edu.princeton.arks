@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1645",
-  "uuid": "http://arks.princeton.edu/ark:/88435/m613n107v",
   "dc_description_s": "Archiepiscopatus Maghdeburgensis, et Anhaltinus Ducatus : cum terris adjacentibus",
-  "georss_box_s": "29.7741091 -98.495574 29.8141091 -98.455574",
   "layer_modified_dt": "2015-01-25T02:06:16Z",
   "layer_id_s": "m613n107v",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-m613n107v",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/m613n107v/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/m6/13/n1/07/v/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "29.8141091 -98.495574 29.8141091 -98.455574 29.7741091 -98.455574 29.7741091 -98.495574 29.8141091 -98.495574",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1645"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Anhalt (Germany)",
     "Magdeburg (Ecclesiastical principality)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

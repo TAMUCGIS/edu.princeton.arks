@@ -1,8 +1,6 @@
 {
   "layer_modified_dt": "2014-12-19T16:18:36Z",
-  "uuid": "http://arks.princeton.edu/ark:/88435/6t053h597",
   "dc_description_s": "Points representing post offices in Cairo.",
-  "georss_box_s": "29.727807 30.889500 30.254213 31.750143",
   "layer_slug_s": "princeton-6t053h597",
   "dct_spatial_sm": [
     "Egypt",
@@ -12,7 +10,6 @@
     "Globe Telecom"
   ],
   "layer_id_s": "pulmap-restricted:6t053h597",
-  "georss_polygon_s": "30.254213 30.889500 30.254213 31.750143 29.727807 31.750143 29.727807 30.889500 30.254213 30.889500",
   "dc_type_s": "Dataset",
   "dc_identifier_s": "6t053h597",
   "dct_provenance_s": "Princeton",
@@ -28,5 +25,6 @@
   "layer_geom_type_s": "Point",
   "solr_geom": "ENVELOPE(30.889500, 31.750143, 30.254213, 29.727807)",
   "dc_rights_s": "Restricted",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

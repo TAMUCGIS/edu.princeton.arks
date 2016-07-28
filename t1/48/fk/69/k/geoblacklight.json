@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1850",
-  "uuid": "http://arks.princeton.edu/ark:/88435/t148fk69k",
   "dc_description_s": "Map of Somerset County, New Jersey",
-  "georss_box_s": "40.3743969 -74.797841 40.758005 -74.4018389",
   "layer_modified_dt": "2015-01-25T02:06:23Z",
   "dc_creator_sm": [
     "Keily, James.",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-t148fk69k",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/t148fk69k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/t1/48/fk/69/k/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.758005 -74.797841 40.758005 -74.4018389 40.3743969 -74.4018389 40.3743969 -74.797841 40.758005 -74.797841",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1850"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Somerset County (New Jersey)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

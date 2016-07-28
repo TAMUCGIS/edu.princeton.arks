@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1790",
-  "uuid": "http://arks.princeton.edu/ark:/88435/df65v969t",
-  "dc_description_s": "Carte d'Ame\u0301rique dresse\u0301e pour l'instruction",
-  "georss_box_s": "-90 -180 90 0",
+  "dc_description_s": "Carte d'Amérique dressée pour l'instruction",
   "layer_modified_dt": "2015-01-21T22:23:44Z",
   "dc_creator_sm": [
     "Buache, Philippe,",
@@ -13,11 +11,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "df65v969t",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Carte d'Ame\u0301rique dresse\u0301e pour l'instruction",
+  "dc_title_s": "Carte d'Amérique dressée pour l'instruction",
   "layer_slug_s": "princeton-df65v969t",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/df65v969t/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/df/65/v9/69/t/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "90 -180 90 0 -90 0 -90 -180 90 -180",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1790"
@@ -27,5 +24,6 @@
   "dct_spatial_sm": [
     "Western Hemisphere",
     "Atlantic Ocean"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

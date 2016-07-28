@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1831",
-  "uuid": "http://arks.princeton.edu/ark:/88435/q237hv428",
   "dc_description_s": "Chart of a part of South America surveyed by order of the Rt. Honble. the Lords Commissioners of the Admiralty, under the direction of Capt. P.P. King R.N. during the years 1826-30 /",
-  "georss_box_s": "-57.00000 -76.25000 -46.50000 -63.75000",
   "layer_modified_dt": "2015-01-19T22:37:22Z",
   "dc_creator_sm": [
     "King, Phillip Parker,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-q237hv428",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/q237hv428/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/q2/37/hv/42/8/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "-46.50000 -76.25000 -46.50000 -63.75000 -57.00000 -63.75000 -57.00000 -76.25000 -46.50000 -76.25000",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1831"
@@ -27,5 +24,6 @@
     "South America",
     "Tierra del Fuego (Argentina and Chile)",
     "Strait of Magellan (Argentina and Chile)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

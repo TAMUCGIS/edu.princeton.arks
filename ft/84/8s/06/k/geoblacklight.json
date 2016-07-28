@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-75.700, -73.9500, 40.6667, 39.4167)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/ft848s06k/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ft/84/8s/06/k/00000001.jp2/info.json\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/ft848s06k\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/ft848s06k",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "historical maps",
@@ -20,7 +19,6 @@
   "dc_creator_sm": "Hopkins, Griffith Morgan",
   "dc_type_s": "Image",
   "dc_identifier_s": "ft848s06k",
-  "georss_polygon_s": "40.6667 -75.700 40.6667 -73.9500 39.4167 -73.9500 39.4167 -75.700 40.6667 -75.700",
   "dc_publisher_s": "New Jersey Geological Survey",
   "solr_year_i": "1866",
   "dct_spatial_sm": [
@@ -40,9 +38,9 @@
     "MC  G3811.C5.1866.N4J4"
   ],
   "layer_id_s": "ft848s06k",
-  "georss_box_s": "39.4167 -75.700 40.6667 -73.9500",
   "dc_title_s": "Cretaceous formation: including the green-sand marl beds. (Sheet 2)",
   "dct_issued_s": "1866",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

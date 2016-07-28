@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-75.105, -74.723, 39.999, 39.606)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/pr76f502m/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/pr/76/f5/02/m/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/pr76f502m/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/pr76f502m",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "pr76f502m",
-  "georss_polygon_s": "39.999 -75.105 39.999 -74.723 39.606 -74.723 39.606 -75.105 39.999 -75.105",
   "dc_publisher_s": "Sanborn Map Company",
   "solr_year_i": "1927",
   "dct_spatial_sm": [
@@ -26,9 +24,9 @@
     "New Jersey"
   ],
   "layer_id_s": "pr76f502m",
-  "georss_box_s": "39.606 -75.105 39.999 -74.723",
   "dc_title_s": "Mt. Ephraim, Camden County, New Jersey (Sheet 17)",
   "dct_issued_s": "1927",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

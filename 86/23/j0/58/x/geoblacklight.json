@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1830",
-  "uuid": "http://arks.princeton.edu/ark:/88435/8623j058x",
   "dc_description_s": "Carta della reggenza d'Algeri",
-  "georss_box_s": "18.968147 -8.6689089 37.2962055 11.997337",
   "layer_modified_dt": "2015-01-21T22:23:45Z",
   "layer_id_s": "8623j058x",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-8623j058x",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/8623j058x/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/86/23/j0/58/x/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "37.2962055 -8.6689089 37.2962055 11.997337 18.968147 11.997337 18.968147 -8.6689089 37.2962055 -8.6689089",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1830"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Algeria",
     "Algiers (Algeria)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

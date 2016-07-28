@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-74.25, -74, 43.5, 43.25)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/pg15bg40m/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/pg/15/bg/40/m/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/pg15bg40m/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/pg15bg40m",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "historical maps",
@@ -20,7 +19,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "pg15bg40m",
-  "georss_polygon_s": "43.5 -74.25 43.5 -74 43.25 -74 43.25 -74.25 43.5 -74.25",
   "dc_publisher_s": "US Geological Survey",
   "solr_year_i": "1910",
   "dct_spatial_sm": [
@@ -33,9 +31,9 @@
     "United States"
   ],
   "layer_id_s": "pg15bg40m",
-  "georss_box_s": "43.25 -74.25 43.5 -74",
   "dc_title_s": "New York: Stony Creek Quadrangle, 1910",
   "dct_issued_s": "1910",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

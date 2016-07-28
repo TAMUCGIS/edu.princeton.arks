@@ -1,18 +1,15 @@
 {
   "solr_year_i": "1810",
-  "uuid": "http://arks.princeton.edu/ark:/88435/rr172058g",
-  "dc_description_s": "Nouveau plan routier de la ville et faubourgs de Paris, divise\u0301 en ses 12 arrondissemens municipaux ou mairies avec ses changements, augmentations et enbellissemens",
-  "georss_box_s": "48.8155755 2.224122 48.902156 2.4697602",
+  "dc_description_s": "Nouveau plan routier de la ville et faubourgs de Paris, divisé en ses 12 arrondissemens municipaux ou mairies avec ses changements, augmentations et enbellissemens",
   "layer_modified_dt": "2015-01-21T22:23:59Z",
   "layer_id_s": "rr172058g",
   "dc_type_s": "Image",
   "dc_identifier_s": "rr172058g",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Nouveau plan routier de la ville et faubourgs de Paris, divise\u0301 en ses 12 arrondissemens municipaux ou mairies avec ses changements, augmentations et enbellissemens",
+  "dc_title_s": "Nouveau plan routier de la ville et faubourgs de Paris, divisé en ses 12 arrondissemens municipaux ou mairies avec ses changements, augmentations et enbellissemens",
   "layer_slug_s": "princeton-rr172058g",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/rr172058g/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/rr/17/20/58/g/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "48.902156 2.224122 48.902156 2.4697602 48.8155755 2.4697602 48.8155755 2.224122 48.902156 2.224122",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1810"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Paris (France)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

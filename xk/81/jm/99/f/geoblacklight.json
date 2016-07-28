@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(80.208, 80.4929, 26.5261, 26.3074)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/xk81jm99f\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/xk81jm99f/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/xk81jm99f",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "City plan",
@@ -15,7 +14,6 @@
   "dc_creator_sm": "Survey of India",
   "dc_type_s": "Image",
   "dc_identifier_s": "xk81jm99f",
-  "georss_polygon_s": "26.5261 80.208 26.5261 80.4929 26.3074 80.4929 26.3074 80.208 26.5261 80.208",
   "dc_publisher_s": "Survey of India",
   "solr_year_i": "1921",
   "dct_spatial_sm": [
@@ -28,9 +26,9 @@
     "1921.S9I8"
   ],
   "layer_id_s": "xk81jm99f",
-  "georss_box_s": "26.3074 80.208 26.5261 80.4929",
   "dc_title_s": "Town guide map of Cawnpore City",
   "layer_slug_s": "princeton-xk81jm99f",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

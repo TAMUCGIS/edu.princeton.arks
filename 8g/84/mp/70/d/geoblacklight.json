@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1888",
-  "uuid": "http://arks.princeton.edu/ark:/88435/8g84mp70d",
   "dc_description_s": "Map of the Argentine Republic",
-  "georss_box_s": "-56.0 -80.0 -21.0 -50.0",
   "layer_modified_dt": "2015-01-19T22:37:11Z",
   "layer_id_s": "8g84mp70d",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-8g84mp70d",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/8g84mp70d/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/8g/84/mp/70/d/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "-21.0 -80.0 -21.0 -50.0 -56.0 -50.0 -56.0 -80.0 -21.0 -80.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1888"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Argentina",
     "South America"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

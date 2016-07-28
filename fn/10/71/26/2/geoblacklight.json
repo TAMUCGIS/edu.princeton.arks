@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1778",
-  "uuid": "http://arks.princeton.edu/ark:/88435/fn1071262",
   "dc_description_s": "Asia : agreeable to the most approved maps and charts",
-  "georss_box_s": "-8.0 29.0 75.0 180.0",
   "layer_modified_dt": "2015-01-19T22:36:59Z",
   "dc_creator_sm": [
     "Hogg, Alexander,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-fn1071262",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/fn1071262/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/fn/10/71/26/2/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "75.0 29.0 75.0 180.0 -8.0 180.0 -8.0 29.0 75.0 29.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1778"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Asia"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

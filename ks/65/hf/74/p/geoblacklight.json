@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1839",
-  "uuid": "http://arks.princeton.edu/ark:/88435/ks65hf74p",
-  "dc_description_s": "Tableau des courans occasionne\u0301s par la mare\u0301e dans la Manche et la partie me\u0301ridionale de la Mer du Nord",
-  "georss_box_s": "50.0221824 -1.0513728 50.0222824 -1.0512728",
+  "dc_description_s": "Tableau des courans occasionnés par la marée dans la Manche et la partie méridionale de la Mer du Nord",
   "layer_modified_dt": "2015-01-21T22:24:29Z",
   "dc_creator_sm": [
     "Tardieu, Ambroise,",
@@ -12,11 +10,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "ks65hf74p",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Tableau des courans occasionne\u0301s par la mare\u0301e dans la Manche et la partie me\u0301ridionale de la Mer du Nord",
+  "dc_title_s": "Tableau des courans occasionnés par la marée dans la Manche et la partie méridionale de la Mer du Nord",
   "layer_slug_s": "princeton-ks65hf74p",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/ks65hf74p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ks/65/hf/74/p/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "50.0222824 -1.0513728 50.0222824 -1.0512728 50.0221824 -1.0512728 50.0221824 -1.0513728 50.0222824 -1.0513728",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1839"
@@ -26,5 +23,6 @@
   "dct_spatial_sm": [
     "English Channel",
     "North Sea"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

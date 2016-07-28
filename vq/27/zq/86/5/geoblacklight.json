@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1639",
-  "uuid": "http://arks.princeton.edu/ark:/88435/vq27zq865",
   "dc_description_s": "Guiana siue Amazonum regio",
-  "georss_box_s": "-5.00000 -65.00000 12.00000 -46.00000",
   "layer_modified_dt": "2015-01-23T17:48:35Z",
   "dc_creator_sm": [
     "Hondius, Hendrik,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-vq27zq865",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/vq27zq865/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/vq/27/zq/86/5/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "12.00000 -65.00000 12.00000 -46.00000 -5.00000 -46.00000 -5.00000 -65.00000 12.00000 -65.00000",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1639"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Guiana"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

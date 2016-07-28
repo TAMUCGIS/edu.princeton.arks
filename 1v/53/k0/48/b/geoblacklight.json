@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1904",
-  "uuid": "http://arks.princeton.edu/ark:/88435/1v53k048b",
   "dc_description_s": "Magdeburg und Umgegend",
-  "georss_box_s": "52.0238362 11.5177765 52.2282553 11.7666902",
   "layer_modified_dt": "2015-01-21T22:24:22Z",
   "layer_id_s": "1v53k048b",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-1v53k048b",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/1v53k048b/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/1v/53/k0/48/b/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "52.2282553 11.5177765 52.2282553 11.7666902 52.0238362 11.7666902 52.0238362 11.5177765 52.2282553 11.5177765",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1904"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Magdeburg (Germany)",
     "Saxony-Anhalt (Germany)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

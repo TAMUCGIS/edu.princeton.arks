@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-75.257328, -75.222864, 39.852064, 39.819836)",
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/8c/97/ks/44/c/00000001.jp2/info.json\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/8c97ks44c",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
@@ -21,7 +20,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "8c97ks44c",
-  "georss_polygon_s": "39.852064 -75.257328 39.852064 -75.222864 39.819836 -75.222864 39.819836 -75.257328 39.852064 -75.257328",
   "dc_publisher_s": "New York: Sanborn Map Company",
   "solr_year_i": "1909",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "Paulsboro"
   ],
   "layer_id_s": "8c97ks44c",
-  "georss_box_s": "39.819836 -75.257328 39.852064 -75.222864",
   "dc_title_s": "Paulsboro, Gloucester County, New Jersey (Sheet 6)",
   "layer_slug_s": "princeton-8c97ks44c",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

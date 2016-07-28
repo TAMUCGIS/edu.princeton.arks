@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1545",
-  "uuid": "http://arks.princeton.edu/ark:/88435/9k41zg99r",
-  "dc_description_s": "Carte des routes de postes de l'Empire Franc\u0327ais, du Royaume d'Italie et de la Confe\u0301de\u0301ration du Rhin",
-  "georss_box_s": "-50.2187168 -178.3873748 51.268318 172.3057152",
+  "dc_description_s": "Carte des routes de postes de l'Empire Français, du Royaume d'Italie et de la Confédération du Rhin",
   "layer_modified_dt": "2015-01-25T02:06:16Z",
   "dc_creator_sm": [
     "Tardieu, Pierre Antoine,",
@@ -14,11 +12,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "9k41zg99r",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Carte des routes de postes de l'Empire Franc\u0327ais, du Royaume d'Italie et de la Confe\u0301de\u0301ration du Rhin",
+  "dc_title_s": "Carte des routes de postes de l'Empire Français, du Royaume d'Italie et de la Confédération du Rhin",
   "layer_slug_s": "princeton-9k41zg99r",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/9k41zg99r/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/9k/41/zg/99/r/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.268318 -178.3873748 51.268318 172.3057152 -50.2187168 172.3057152 -50.2187168 -178.3873748 51.268318 -178.3873748",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1545"
@@ -32,5 +29,6 @@
     "Great Britain",
     "Italy",
     "Spain"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1893",
-  "uuid": "http://arks.princeton.edu/ark:/88435/d791sj70z",
   "dc_description_s": "Marburg",
-  "georss_box_s": "49.3952611 7.7724063 51.657817 10.2364858",
   "layer_modified_dt": "2015-01-21T22:24:27Z",
   "dc_creator_sm": [
     "Woerl, Leo,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-d791sj70z",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/d791sj70z/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/d7/91/sj/70/z/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.657817 7.7724063 51.657817 10.2364858 49.3952611 10.2364858 49.3952611 7.7724063 51.657817 7.7724063",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1893"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "Hesse (Germany)",
     "Marburg (Germany)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

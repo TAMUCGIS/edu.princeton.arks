@@ -1,8 +1,6 @@
 {
   "layer_modified_dt": "2014-12-19T16:18:37Z",
-  "uuid": "http://arks.princeton.edu/ark:/88435/2514nn201",
   "dc_description_s": "Land parcels in Ocean County, New Jersey, 2008. The parcel coverage was created with CADD software, then imported into ARCGIS for cleaning, editing, and additions. The coverage conversion is geodatabase for distribution.",
-  "georss_box_s": "39.499800 -74.552976 40.172393 -74.031089",
   "layer_slug_s": "princeton-2514nn201",
   "dct_spatial_sm": [
     "New Jersey",
@@ -15,7 +13,6 @@
     "Boundary Solutions, Inc."
   ],
   "layer_id_s": "pulmap-restricted:2514nn201",
-  "georss_polygon_s": "40.172393 -74.552976 40.172393 -74.031089 39.499800 -74.031089 39.499800 -74.552976 40.172393 -74.552976",
   "dc_type_s": "Dataset",
   "dc_identifier_s": "2514nn201",
   "dct_provenance_s": "Princeton",
@@ -42,5 +39,6 @@
   "layer_geom_type_s": "Polygon",
   "solr_geom": "ENVELOPE(-74.552976, -74.031089, 40.172393, 39.499800)",
   "dc_rights_s": "Restricted",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

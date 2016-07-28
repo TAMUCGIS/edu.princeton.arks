@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1880",
-  "uuid": "http://arks.princeton.edu/ark:/88435/qz20sv920",
   "dc_description_s": "Map of the golden northwest : showing location of the great wheat growing region of North Dakota, in the vallies of the Sheyenne, James and Red Rivers",
-  "georss_box_s": "45.9350359 -104.0492649 49.0004918 -96.5543974",
   "layer_modified_dt": "2015-01-21T22:24:01Z",
   "layer_id_s": "qz20sv920",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-qz20sv920",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/qz20sv920/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/qz/20/sv/92/0/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "49.0004918 -104.0492649 49.0004918 -96.5543974 45.9350359 -96.5543974 45.9350359 -104.0492649 49.0004918 -104.0492649",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1880"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "North Dakota"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

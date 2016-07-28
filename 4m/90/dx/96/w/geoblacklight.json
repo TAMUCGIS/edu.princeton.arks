@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1640",
-  "uuid": "http://arks.princeton.edu/ark:/88435/4m90dx96w",
-  "dc_description_s": "Gall\u00e6cia regnum",
-  "georss_box_s": "41.0 7.0 44.0 11.0",
+  "dc_description_s": "Gallæcia regnum",
   "layer_modified_dt": "2015-01-23T17:48:36Z",
   "dc_creator_sm": [
     "Ojea, Hernando,",
@@ -13,11 +11,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "4m90dx96w",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Gall\u00e6cia regnum",
+  "dc_title_s": "Gallæcia regnum",
   "layer_slug_s": "princeton-4m90dx96w",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/4m90dx96w/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/4m/90/dx/96/w/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "44.0 7.0 44.0 11.0 41.0 11.0 41.0 7.0 44.0 7.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1640"
@@ -26,5 +23,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Galicia (Spain)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

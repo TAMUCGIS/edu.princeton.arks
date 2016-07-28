@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(17.9284, 18.1553, 59.3841, 59.2823)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/1831cm382\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/1831cm382/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/1831cm382",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Generalstabens litografiska anstalt",
   "dc_type_s": "Image",
   "dc_identifier_s": "1831cm382",
-  "georss_polygon_s": "59.3841 17.9284 59.3841 18.1553 59.2823 18.1553 59.2823 17.9284 59.3841 17.9284",
   "dc_publisher_s": "Generalstabens litografiska anstalt",
   "solr_year_i": "1968",
   "dct_spatial_sm": [
@@ -27,9 +25,9 @@
     "Tukholma"
   ],
   "layer_id_s": "1831cm382",
-  "georss_box_s": "59.2823 17.9284 59.3841 18.1553",
-  "dc_title_s": "Kartbilage till Lokala trafik\u00f6reskrifter inom Stockholm",
+  "dc_title_s": "Kartbilage till Lokala trafiköreskrifter inom Stockholm",
   "layer_slug_s": "princeton-1831cm382",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

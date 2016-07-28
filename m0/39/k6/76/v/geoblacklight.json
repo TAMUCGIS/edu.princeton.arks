@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1862",
-  "uuid": "http://arks.princeton.edu/ark:/88435/m039k676v",
   "dc_description_s": "Map of public surveys in Nevada Territory : to accompany report of Surveyor Genl. /",
-  "georss_box_s": "38.0 -120.133333333 39.75 -118.666666667",
   "layer_modified_dt": "2015-01-19T22:36:48Z",
   "layer_id_s": "m039k676v",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-m039k676v",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/m039k676v/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/m0/39/k6/76/v/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "39.75 -120.133333333 39.75 -118.666666667 38.0 -118.666666667 38.0 -120.133333333 39.75 -120.133333333",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1862"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Nevada",
     "Nevada"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

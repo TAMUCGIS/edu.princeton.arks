@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1610",
-  "uuid": "http://arks.princeton.edu/ark:/88435/3r074x444",
   "dc_description_s": "Barkshire described",
-  "georss_box_s": "51.328963 -1.588088 51.5778253 -0.4900443",
   "layer_modified_dt": "2015-01-25T02:06:16Z",
   "dc_creator_sm": [
     "Humble, George,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-3r074x444",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/3r074x444/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/3r/07/4x/44/4/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.5778253 -1.588088 51.5778253 -0.4900443 51.328963 -0.4900443 51.328963 -1.588088 51.5778253 -1.588088",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1610"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Berkshire (England)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

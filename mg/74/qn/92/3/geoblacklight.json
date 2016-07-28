@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1973",
-  "uuid": "http://arks.princeton.edu/ark:/88435/mg74qn923",
   "dc_description_s": "Burgh of Paisley",
-  "georss_box_s": "55.81667 -4.50000 55.86667 -4.40000",
   "layer_modified_dt": "2015-01-19T22:36:36Z",
   "dc_creator_sm": [
     "McNaughtan, H. V."
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-mg74qn923",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/mg74qn923/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/mg/74/qn/92/3/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "55.86667 -4.50000 55.86667 -4.40000 55.81667 -4.40000 55.81667 -4.50000 55.86667 -4.50000",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1973"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Scotland"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "layer_modified_dt": "2014-12-19T16:18:36Z",
-  "uuid": "http://arks.princeton.edu/ark:/88435/4b29b763s",
   "dc_description_s": "Land parcels in Somerset County, New Jersey, 2008.",
-  "georss_box_s": "40.373749 -74.798178 40.758482 -74.401813",
   "layer_slug_s": "princeton-4b29b763s",
   "dct_spatial_sm": [
     "New Jersey",
@@ -13,7 +11,6 @@
     "Boundary Solutions, Inc."
   ],
   "layer_id_s": "pulmap-restricted:4b29b763s",
-  "georss_polygon_s": "40.758482 -74.798178 40.758482 -74.401813 40.373749 -74.401813 40.373749 -74.798178 40.758482 -74.798178",
   "dc_type_s": "Dataset",
   "dc_identifier_s": "4b29b763s",
   "dct_provenance_s": "Princeton",
@@ -40,5 +37,6 @@
   "layer_geom_type_s": "Polygon",
   "solr_geom": "ENVELOPE(-74.798178, -74.401813, 40.758482, 40.373749)",
   "dc_rights_s": "Restricted",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

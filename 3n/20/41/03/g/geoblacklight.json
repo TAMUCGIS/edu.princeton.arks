@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1603",
-  "uuid": "http://arks.princeton.edu/ark:/88435/3n204103g",
-  "dc_description_s": "Tartariae sive Magni Chami Regni ty\u0308pus",
-  "georss_box_s": "51.0228712 -179.9999999 71.6048217 180",
+  "dc_description_s": "Tartariae sive Magni Chami Regni tÿpus",
   "layer_modified_dt": "2015-01-21T22:23:52Z",
   "dc_creator_sm": [
     "Ortelius, Abraham,",
@@ -13,11 +11,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "3n204103g",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Tartariae sive Magni Chami Regni ty\u0308pus",
+  "dc_title_s": "Tartariae sive Magni Chami Regni tÿpus",
   "layer_slug_s": "princeton-3n204103g",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/3n204103g/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/3n/20/41/03/g/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "71.6048217 -179.9999999 71.6048217 180 51.0228712 180 51.0228712 -179.9999999 71.6048217 -179.9999999",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1603"
@@ -29,5 +26,6 @@
     "Asia",
     "Bering Sea",
     "Bering Strait"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

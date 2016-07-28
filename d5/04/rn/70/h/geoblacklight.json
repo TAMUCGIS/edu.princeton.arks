@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1827",
-  "uuid": "http://arks.princeton.edu/ark:/88435/d504rn70h",
   "dc_description_s": "Partie de l'Egypte",
-  "georss_box_s": "24.0 24.3333333333 30.0 32.3333333333",
   "layer_modified_dt": "2015-01-19T22:37:02Z",
   "dc_creator_sm": [
     "Vandermaelen, Philippe, 1795-1869."
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-d504rn70h",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/d504rn70h/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/d5/04/rn/70/h/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "30.0 24.3333333333 30.0 32.3333333333 24.0 32.3333333333 24.0 24.3333333333 30.0 24.3333333333",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1827"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "Egypt",
     "Libya"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

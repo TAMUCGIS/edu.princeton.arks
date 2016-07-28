@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-76, -75.75, 43, 42.75)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/1j92g913k/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/1j/92/g9/13/k/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/1j92g913k/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/1j92g913k",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "historical maps",
@@ -20,7 +19,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "1j92g913k",
-  "georss_polygon_s": "43 -76 43 -75.75 42.75 -75.75 42.75 -76 43 -76",
   "dc_publisher_s": "US Geological Survey",
   "dct_spatial_sm": [
     "Cazenovia",
@@ -31,9 +29,9 @@
     "United States"
   ],
   "layer_id_s": "1j92g913k",
-  "georss_box_s": "42.75 -76 43 -75.75",
   "dc_title_s": "New York: Cazenovia Quadrangle, 1938 reprint",
   "dct_issued_s": "November 1899",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

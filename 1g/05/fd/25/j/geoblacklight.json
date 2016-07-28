@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-75.5500, -73.8667, 41.3667, 38.9167)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/1g05fd25j/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/1g/05/fd/25/j/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/1g05fd25j/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/1g05fd25j",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "historical maps",
@@ -20,16 +19,15 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "1g05fd25j",
-  "georss_polygon_s": "41.3667 -75.5500 41.3667 -73.8667 38.9167 -73.8667 38.9167 -75.5500 41.3667 -75.5500",
   "dc_publisher_s": "Geological Survey of New Jersey",
   "solr_year_i": "1882",
   "dct_spatial_sm": [
     "New Jersey"
   ],
   "layer_id_s": "1g05fd25j",
-  "georss_box_s": "38.9167 -75.5500 41.3667 -73.8667",
   "dc_title_s": "Geological map of New Jersey.",
   "dct_issued_s": "1882",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

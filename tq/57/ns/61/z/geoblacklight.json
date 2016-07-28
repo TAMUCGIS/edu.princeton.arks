@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(8.4662, 8.8013, 50.2274, 50.0179)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/tq57ns61z\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/tq57ns61z/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/tq57ns61z",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -19,7 +18,6 @@
   "dc_creator_sm": "Stadtvermessungsamt Frankfurt",
   "dc_type_s": "Image",
   "dc_identifier_s": "tq57ns61z",
-  "georss_polygon_s": "50.2274 8.4662 50.2274 8.8013 50.0179 8.8013 50.0179 8.4662 50.2274 8.4662",
   "dc_publisher_s": "Stadtvermessungsamt",
   "solr_year_i": "1955",
   "dct_spatial_sm": [
@@ -31,9 +29,9 @@
     "Land Hessen"
   ],
   "layer_id_s": "tq57ns61z",
-  "georss_box_s": "50.0179 8.4662 50.2274 8.8013",
   "dc_title_s": "Frankfurt am Main",
   "layer_slug_s": "princeton-tq57ns61z",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

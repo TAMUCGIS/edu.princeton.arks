@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1971",
-  "uuid": "http://arks.princeton.edu/ark:/88435/fb494b89b",
   "dc_description_s": "The Prince's journeys",
-  "georss_box_s": "49.674 -14.0155169 61.061 2.0919117",
   "layer_modified_dt": "2015-01-21T22:24:15Z",
   "dc_creator_sm": [
     "Grante, James A."
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-fb494b89b",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/fb494b89b/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/fb/49/4b/89/b/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "61.061 -14.0155169 61.061 2.0919117 49.674 2.0919117 49.674 -14.0155169 61.061 -14.0155169",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1971"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "Great Britain",
     "Scotland"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

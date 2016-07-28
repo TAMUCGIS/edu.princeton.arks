@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(118.321396, 121.864281, 25.264194, 21.925638)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/08612q07r/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/08612q07r/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/08612q07r/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/08612q07r",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Cities",
@@ -21,7 +20,6 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "08612q07r",
-  "georss_polygon_s": "25.264194 118.321396 25.264194 121.864281 21.925638 121.864281 21.925638 118.321396 25.264194 118.321396",
   "dc_publisher_s": "Gfk MACON Company",
   "solr_year_i": "2006",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "China"
   ],
   "layer_id_s": "pulmap-restricted:08612q07r",
-  "georss_box_s": "21.925638 118.321396 25.264194 121.864281",
   "dc_title_s": "Taiwan Cities With Population 20 Thousand and More, 2005",
   "layer_slug_s": "princeton-08612q07r",
   "layer_geom_type_s": "Point",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

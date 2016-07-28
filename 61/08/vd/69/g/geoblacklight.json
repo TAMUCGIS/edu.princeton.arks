@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1779",
-  "uuid": "http://arks.princeton.edu/ark:/88435/6108vd69g",
-  "dc_description_s": "Carte du Chili me\u0301ridional, du Rio de la Plata des Patagons, et du De\u0301troit de Magellan : ce qui fait l'extremite\u0301 australe de l'Ame\u0301rique Meridle.",
-  "georss_box_s": "-57.0 -78.0 -32.0 -51.0",
+  "dc_description_s": "Carte du Chili méridional, du Rio de la Plata des Patagons, et du Détroit de Magellan : ce qui fait l'extremité australe de l'Amérique Meridle.",
   "layer_modified_dt": "2015-01-19T22:37:10Z",
   "dc_creator_sm": [
     "Santini, P.",
@@ -13,11 +11,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "6108vd69g",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Carte du Chili me\u0301ridional, du Rio de la Plata des Patagons, et du De\u0301troit de Magellan : ce qui fait l'extremite\u0301 australe de l'Ame\u0301rique Meridle.",
+  "dc_title_s": "Carte du Chili méridional, du Rio de la Plata des Patagons, et du Détroit de Magellan : ce qui fait l'extremité australe de l'Amérique Meridle.",
   "layer_slug_s": "princeton-6108vd69g",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/6108vd69g/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/61/08/vd/69/g/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "-32.0 -78.0 -32.0 -51.0 -57.0 -51.0 -57.0 -78.0 -32.0 -78.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1779"
@@ -29,5 +26,6 @@
     "Chile",
     "Magellan, Strait of  (Chile and Argentina)",
     "South America"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

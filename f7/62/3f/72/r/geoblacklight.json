@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-74.341063, -74.266638, 40.953005, 40.894906)",
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/f7/62/3f/72/r/00000001.jp2/info.json\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/f7623f72r",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
@@ -21,7 +20,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "f7623f72r",
-  "georss_polygon_s": "40.953005 -74.341063 40.953005 -74.266638 40.894906 -74.266638 40.894906 -74.341063 40.953005 -74.341063",
   "dc_publisher_s": "New York: Sanborn Map Company",
   "solr_year_i": "1937",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "Lincoln Park"
   ],
   "layer_id_s": "f7623f72r",
-  "georss_box_s": "40.894906 -74.341063 40.953005 -74.266638",
   "dc_title_s": "Lincoln Park, Morris County, New Jersey (Sheet 4)",
   "layer_slug_s": "princeton-f7623f72r",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

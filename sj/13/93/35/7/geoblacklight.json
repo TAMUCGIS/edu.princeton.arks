@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(77.0667, 77.1667, 31.100, 31.0667)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/sj1393357\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/sj1393357/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/sj1393357",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "City plan",
@@ -16,7 +15,6 @@
   "dc_creator_sm": "Survey of India",
   "dc_type_s": "Image",
   "dc_identifier_s": "sj1393357",
-  "georss_polygon_s": "31.100 77.0667 31.100 77.1667 31.0667 77.1667 31.0667 77.0667 31.100 77.0667",
   "dc_publisher_s": "Survey of India",
   "solr_year_i": "1939",
   "dct_spatial_sm": [
@@ -27,9 +25,9 @@
     "MAX  G7654.S5C2.1939.S9I5"
   ],
   "layer_id_s": "sj1393357",
-  "georss_box_s": "31.0667 77.0667 31.100 77.1667",
   "dc_title_s": "Simla guide map (1939)",
   "layer_slug_s": "princeton-sj1393357",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

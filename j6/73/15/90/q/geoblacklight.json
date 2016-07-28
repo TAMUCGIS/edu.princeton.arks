@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-74.399721, -74.363072, 40.75521, 40.724299)",
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/j6/73/15/90/q/00000001.jp2/info.json\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/j6731590q",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
@@ -21,7 +20,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "j6731590q",
-  "georss_polygon_s": "40.75521 -74.399721 40.75521 -74.363072 40.724299 -74.363072 40.724299 -74.399721 40.75521 -74.399721",
   "dc_publisher_s": "New York: Sanborn Map Company",
   "solr_year_i": "1909",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "Chatham"
   ],
   "layer_id_s": "j6731590q",
-  "georss_box_s": "40.724299 -74.399721 40.75521 -74.363072",
   "dc_title_s": "Chatham, Morris County, New Jersey (Sheet 6)",
   "layer_slug_s": "princeton-j6731590q",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

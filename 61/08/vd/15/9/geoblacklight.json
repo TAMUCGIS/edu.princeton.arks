@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1878",
-  "uuid": "http://arks.princeton.edu/ark:/88435/6108vd159",
   "dc_description_s": "Map of Turkey in Europe, illustrating the Berlin Congress Treaty, July, 1878",
-  "georss_box_s": "35.8076804 25.6212891 42.297 44.8176638",
   "layer_modified_dt": "2015-01-21T22:23:49Z",
   "dc_creator_sm": [
     "Mitchell, S. Augustus"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-6108vd159",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/6108vd159/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/61/08/vd/15/9/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "42.297 25.6212891 42.297 44.8176638 35.8076804 44.8176638 35.8076804 25.6212891 42.297 25.6212891",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1878"
@@ -29,5 +26,6 @@
     "Balkan Peninsula",
     "Armenia",
     "Armenia"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

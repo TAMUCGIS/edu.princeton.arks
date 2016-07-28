@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1590",
-  "uuid": "http://arks.princeton.edu/ark:/88435/3484zk293",
   "dc_description_s": "Sevilla",
-  "georss_box_s": "37.3310791 -6.0148747 37.4343218 -5.8951622",
   "layer_modified_dt": "2015-01-21T22:23:57Z",
   "dc_creator_sm": [
     "Hogenberg, Frans,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-3484zk293",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/3484zk293/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/34/84/zk/29/3/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "37.4343218 -6.0148747 37.4343218 -5.8951622 37.3310791 -5.8951622 37.3310791 -6.0148747 37.4343218 -6.0148747",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1590"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Seville (Spain)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

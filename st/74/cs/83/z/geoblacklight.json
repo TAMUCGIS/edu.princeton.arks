@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1857",
-  "uuid": "http://arks.princeton.edu/ark:/88435/st74cs83z",
   "dc_description_s": "Map of Somerville, the seat of justice of Somerset County, N.J.",
-  "georss_box_s": "40.5560339 -74.626395 40.581697 -74.586259",
   "layer_modified_dt": "2015-01-21T22:23:57Z",
   "layer_id_s": "st74cs83z",
   "dc_type_s": "Image",
@@ -12,12 +10,14 @@
   "layer_slug_s": "princeton-st74cs83z",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/st74cs83z/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/st/74/cs/83/z/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.581697 -74.626395 40.581697 -74.586259 40.5560339 -74.586259 40.5560339 -74.626395 40.581697 -74.626395",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1857"
   ],
   "solr_geom": "ENVELOPE(-74.626395, -74.586259, 40.581697, 40.5560339)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

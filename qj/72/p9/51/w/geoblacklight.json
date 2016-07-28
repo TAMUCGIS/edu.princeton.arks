@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1764",
-  "uuid": "http://arks.princeton.edu/ark:/88435/qj72p951w",
   "dc_description_s": "Carte de la Nouvelle Angleterre, New York, Pensilvanie et Nouveau Jersay suivant les cartes angloises",
-  "georss_box_s": "40.950943 -73.727775 47.459686 -66.8850751",
   "layer_modified_dt": "2015-01-21T22:23:58Z",
   "layer_id_s": "qj72p951w",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-qj72p951w",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/qj72p951w/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/qj/72/p9/51/w/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "47.459686 -73.727775 47.459686 -66.8850751 40.950943 -66.8850751 40.950943 -73.727775 47.459686 -73.727775",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1764"
@@ -23,5 +20,6 @@
     "New England",
     "New Jersey",
     "New York (State)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1703",
-  "uuid": "http://arks.princeton.edu/ark:/88435/vx021h63d",
   "dc_description_s": "Le cours du Po",
-  "georss_box_s": "44.4666666667 6.23333333333 45.5 12.4666666667",
   "layer_modified_dt": "2015-01-23T17:48:39Z",
   "dc_creator_sm": [
     "Berey, Charles Amadeus de."
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-vx021h63d",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/vx021h63d/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/vx/02/1h/63/d/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "45.5 6.23333333333 45.5 12.4666666667 44.4666666667 12.4666666667 44.4666666667 6.23333333333 45.5 6.23333333333",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1703"
@@ -23,7 +20,7 @@
   "solr_geom": "ENVELOPE(6.23333333333, 12.4666666667, 45.5, 44.4666666667)",
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
-    "Dauphine\u0301 (France)",
+    "Dauphiné (France)",
     "Emilia-Romagna (Italy)",
     "Italy, Northern",
     "Lombardy (Italy)",
@@ -31,5 +28,6 @@
     "Piedmont (Italy)",
     "Po River Valley (Italy)",
     "Veneto (Italy)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

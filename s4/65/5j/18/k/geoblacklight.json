@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(77.98334, 78.05, 27.2, 27.15)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/s4655j18k\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/s4655j18k/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/s4655j18k",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Road map",
@@ -17,7 +16,6 @@
   "dc_creator_sm": "Newell, Herbert Andrews",
   "dc_type_s": "Image",
   "dc_identifier_s": "s4655j18k",
-  "georss_polygon_s": "27.2 77.98334 27.2 78.05 27.15 78.05 27.15 77.98334 27.2 77.98334",
   "dc_publisher_s": "Survey of India",
   "solr_year_i": "1925",
   "dct_spatial_sm": [
@@ -27,9 +25,9 @@
     "MAX  G7654.A2.C1.1925.S8I5"
   ],
   "layer_id_s": "s4655j18k",
-  "georss_box_s": "27.15 77.98334 27.2 78.05",
   "dc_title_s": "Agra guide map",
   "layer_slug_s": "princeton-s4655j18k",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

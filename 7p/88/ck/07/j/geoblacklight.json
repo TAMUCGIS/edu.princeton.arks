@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1911",
-  "uuid": "http://arks.princeton.edu/ark:/88435/7p88ck07j",
   "dc_description_s": "The National Geographic Magazine map of Mexico",
-  "georss_box_s": "14.5333037 -118.36443 32.7187629 -86.7105711",
   "layer_modified_dt": "2015-01-21T22:24:28Z",
   "dc_creator_sm": [
     "Grosvenor, Gilbert Hovey,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-7p88ck07j",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/7p88ck07j/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/7p/88/ck/07/j/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "32.7187629 -118.36443 32.7187629 -86.7105711 14.5333037 -86.7105711 14.5333037 -118.36443 32.7187629 -118.36443",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1911"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Mexico"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

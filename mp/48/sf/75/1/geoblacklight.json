@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-74.251324, -74.112787, 40.788664, 40.674018)",
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/mp/48/sf/75/1/00000001.jp2/info.json\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/mp48sf751",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
@@ -21,7 +20,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "mp48sf751",
-  "georss_polygon_s": "40.788664 -74.251324 40.788664 -74.112787 40.674018 -74.112787 40.674018 -74.251324 40.788664 -74.251324",
   "dc_publisher_s": "New York: Sanborn Map Company",
   "solr_year_i": "1908",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "Newark"
   ],
   "layer_id_s": "mp48sf751",
-  "georss_box_s": "40.674018 -74.251324 40.788664 -74.112787",
   "dc_title_s": "Insurance maps of Newark, New Jersey : volume three (Sheet 20).",
   "layer_slug_s": "princeton-mp48sf751",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

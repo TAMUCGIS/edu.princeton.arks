@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1750",
-  "uuid": "http://arks.princeton.edu/ark:/88435/n870zs65q",
   "dc_description_s": "Afrique",
-  "georss_box_s": "1.9999503 15.9999497 2.0000503 16.0000497",
   "layer_modified_dt": "2015-01-21T22:23:42Z",
   "layer_id_s": "n870zs65q",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-n870zs65q",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/n870zs65q/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/n8/70/zs/65/q/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "2.0000503 15.9999497 2.0000503 16.0000497 1.9999503 16.0000497 1.9999503 15.9999497 2.0000503 15.9999497",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1750"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Africa"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

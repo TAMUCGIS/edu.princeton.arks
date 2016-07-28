@@ -1,8 +1,6 @@
 {
   "layer_modified_dt": "2014-12-30T13:14:41Z",
-  "uuid": "http://arks.princeton.edu/ark:/88435/ht24wm12g",
   "dc_description_s": "Land parcels in Bergen County, New Jersey, 2006.",
-  "georss_box_s": "40.762358 -74.272118 41.134256 -73.902466",
   "layer_slug_s": "princeton-ht24wm12g",
   "dct_spatial_sm": [
     "New Jersey",
@@ -15,7 +13,6 @@
     "Boundary Solutions, Inc."
   ],
   "layer_id_s": "pulmap-restricted:ht24wm12g",
-  "georss_polygon_s": "41.134256 -74.272118 41.134256 -73.902466 40.762358 -73.902466 40.762358 -74.272118 41.134256 -74.272118",
   "dc_type_s": "Dataset",
   "dc_identifier_s": "ht24wm12g",
   "dct_provenance_s": "Princeton",
@@ -42,5 +39,6 @@
   "layer_geom_type_s": "Polygon",
   "solr_geom": "ENVELOPE(-74.272118, -73.902466, 41.134256, 40.762358)",
   "dc_rights_s": "Restricted",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

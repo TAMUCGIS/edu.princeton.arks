@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(\n15.466056, \n16.033367, \n-14.445369, \n-15.160726)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/7m01bn37w\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/7m01bn37w/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/7m01bn37w",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Topographic maps",
@@ -15,7 +14,6 @@
   "dc_creator_sm": "Instituto de Geodesia e Cartografia de Angola",
   "dc_type_s": "Image",
   "dc_identifier_s": "7m01bn37w",
-  "georss_polygon_s": "\n-14.445369 \n15.466056 \n-14.445369 \n16.033367 \n-15.160726 \n16.033367 \n-15.160726 \n15.466056 \n-14.445369 \n15.466056",
   "dc_publisher_s": "Instituto de Geodesia e Cartografia de Angola",
   "solr_year_i": "1982",
   "dct_spatial_sm": [
@@ -24,9 +22,9 @@
     "Angola"
   ],
   "layer_id_s": "7m01bn37w",
-  "georss_box_s": "\n-15.160726 \n15.466056 \n-14.445369 \n16.033367",
   "dc_title_s": "Republica Popular de Angola. Folha No.341 : Ndjamba",
   "layer_slug_s": "princeton-7m01bn37w",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

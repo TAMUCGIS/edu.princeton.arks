@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-76.7167, -73.2333, 45.0167, 42.6500)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/np193b65d/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/np/19/3b/65/d/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/np193b65d/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/np193b65d",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Historical Map",
@@ -18,7 +17,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "np193b65d",
-  "georss_polygon_s": "45.0167 -76.7167 45.0167 -73.2333 42.6500 -73.2333 42.6500 -76.7167 45.0167 -76.7167",
   "dc_publisher_s": "Scarborough Motor Guide Co.",
   "solr_year_i": "1916",
   "dct_spatial_sm": [
@@ -28,9 +26,9 @@
     "United States"
   ],
   "layer_id_s": "np193b65d",
-  "georss_box_s": "42.6500 -76.7167 45.0167 -73.2333",
   "dc_title_s": "Adirondack and Thousand Islands section. Scarborough's official road map of the State of New York. ",
   "dct_issued_s": "1916",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

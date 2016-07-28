@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1870",
-  "uuid": "http://arks.princeton.edu/ark:/88435/vm40xv00b",
   "dc_description_s": "Map of the James W. Beekman, Catherine Livingston, Breevoort & Odell, Spring Valley, Thomas Buchanan, Thomas C. Pearsall, Mount Vernon & Abraham & William Beekman estates",
-  "georss_box_s": "40.7702778 -73.9797222 40.8102778 -73.9397222",
   "layer_modified_dt": "2015-01-21T22:24:01Z",
   "layer_id_s": "vm40xv00b",
   "dc_type_s": "Image",
@@ -12,12 +10,14 @@
   "layer_slug_s": "princeton-vm40xv00b",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/vm40xv00b/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/vm/40/xv/00/b/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.8102778 -73.9797222 40.8102778 -73.9397222 40.7702778 -73.9397222 40.7702778 -73.9797222 40.8102778 -73.9797222",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1870"
   ],
   "solr_geom": "ENVELOPE(-73.9797222, -73.9397222, 40.8102778, 40.7702778)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

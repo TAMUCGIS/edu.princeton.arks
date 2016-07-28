@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1864",
-  "uuid": "http://arks.princeton.edu/ark:/88435/3b591c04h",
   "dc_description_s": "Map of the provinces of Canterbury and Otago (New Zealand) to illustrate the papers of Mr. James M'Kerrow, Dr. J. Haast & Dr. Hector /",
-  "georss_box_s": "-46.96667 166.25000 -43.61667 173.66667",
   "layer_modified_dt": "2015-01-19T22:37:22Z",
   "dc_creator_sm": [
     "McKerrow, James,",
@@ -18,12 +16,14 @@
   "layer_slug_s": "princeton-3b591c04h",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/3b591c04h/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/3b/59/1c/04/h/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "-43.61667 166.25000 -43.61667 173.66667 -46.96667 173.66667 -46.96667 166.25000 -43.61667 166.25000",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1864"
   ],
   "solr_geom": "ENVELOPE(166.25000, 173.66667, -43.61667, -46.96667)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

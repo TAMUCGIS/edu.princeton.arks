@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(11.0975, 11.1575, 46.1129, 46.0291)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/hh63sx41b\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/hh63sx41b/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/hh63sx41b",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -19,7 +18,6 @@
   "dc_creator_sm": "Casa Editrice G.B. Monauni",
   "dc_type_s": "Image",
   "dc_identifier_s": "hh63sx41b",
-  "georss_polygon_s": "46.1129 11.0975 46.1129 11.1575 46.0291 11.1575 46.0291 11.0975 46.1129 11.0975",
   "dc_publisher_s": "Casa Editrice G.B. Monauni",
   "solr_year_i": "1960",
   "dct_spatial_sm": [
@@ -31,9 +29,9 @@
     "Tridentum"
   ],
   "layer_id_s": "hh63sx41b",
-  "georss_box_s": "46.0291 11.0975 46.1129 11.1575",
   "dc_title_s": "Pianta della citta` di Trento",
   "layer_slug_s": "princeton-hh63sx41b",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

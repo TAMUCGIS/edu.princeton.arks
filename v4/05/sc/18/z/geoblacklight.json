@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1942",
-  "uuid": "http://arks.princeton.edu/ark:/88435/v405sc18z",
   "dc_description_s": "England 1:10 000, Cardiff, BB 32a",
-  "georss_box_s": "51.48333 -3.25000 51.50000 -3.20000",
   "layer_modified_dt": "2015-01-19T22:36:34Z",
   "layer_id_s": "v405sc18z",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-v405sc18z",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/v405sc18z/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/v4/05/sc/18/z/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.50000 -3.25000 51.50000 -3.20000 51.48333 -3.20000 51.48333 -3.25000 51.50000 -3.25000",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1942"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Cardiff (England)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-80, -66, 13, -5)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/ht24wk826/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ht/24/wk/82/6/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/ht24wk826/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/ht24wk826",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
@@ -22,7 +21,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "ht24wk826",
-  "georss_polygon_s": "13 -80 13 -66 -5 -66 -5 -80 13 -80",
   "dc_publisher_s": "Central Intelligence Agency",
   "solr_year_i": "1970",
   "dct_spatial_sm": [
@@ -30,9 +28,9 @@
     "South America"
   ],
   "layer_id_s": "ht24wk826",
-  "georss_box_s": "-5 -80 13 -66",
   "dc_title_s": "Columbia. (1970/relief).",
   "dct_issued_s": "1970",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

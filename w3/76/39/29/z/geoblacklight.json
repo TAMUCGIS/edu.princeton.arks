@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1849",
-  "uuid": "http://arks.princeton.edu/ark:/88435/w3763929z",
   "dc_description_s": "Plan von Mainz, 1849",
-  "georss_box_s": "49.8399952 8.1110237 50.1599952 8.4310237",
   "layer_modified_dt": "2015-01-21T22:24:27Z",
   "dc_creator_sm": [
     "Meyer, Joseph,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-w3763929z",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/w3763929z/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/w3/76/39/29/z/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "50.1599952 8.1110237 50.1599952 8.4310237 49.8399952 8.4310237 49.8399952 8.1110237 50.1599952 8.1110237",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1849"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "Mainz (Germany)",
     "Rhineland-Palatinate (Germany)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

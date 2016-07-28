@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1893",
-  "uuid": "http://arks.princeton.edu/ark:/88435/0g354h04p",
   "dc_description_s": "Aequatorial-West-Afrika",
-  "georss_box_s": "4.1821 -17.688 25.000012 15.999034",
   "layer_modified_dt": "2015-01-21T22:23:43Z",
   "dc_creator_sm": [
     "Sprigade, Paul,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-0g354h04p",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/0g354h04p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/0g/35/4h/04/p/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "25.000012 -17.688 25.000012 15.999034 4.1821 15.999034 4.1821 -17.688 25.000012 -17.688",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1893"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Africa, West"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

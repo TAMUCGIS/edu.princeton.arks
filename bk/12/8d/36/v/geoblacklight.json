@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1900",
-  "uuid": "http://arks.princeton.edu/ark:/88435/bk128d36v",
-  "dc_description_s": "A\u0308gypten",
-  "georss_box_s": "21.9999975 24.706389 31.8330854 37.1153517",
+  "dc_description_s": "Ägypten",
   "layer_modified_dt": "2015-01-21T22:24:11Z",
   "dc_creator_sm": [
     "Clarke, Dumont,"
@@ -11,11 +9,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "bk128d36v",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "A\u0308gypten",
+  "dc_title_s": "Ägypten",
   "layer_slug_s": "princeton-bk128d36v",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/bk128d36v/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/bk/12/8d/36/v/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "31.8330854 24.706389 31.8330854 37.1153517 21.9999975 37.1153517 21.9999975 24.706389 31.8330854 24.706389",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1900"
@@ -26,5 +23,6 @@
     "Egypt",
     "Suez Canal (Egypt)",
     "Caucasus"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

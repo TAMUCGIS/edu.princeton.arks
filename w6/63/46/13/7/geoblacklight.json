@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1905",
-  "uuid": "http://arks.princeton.edu/ark:/88435/w66346137",
   "dc_description_s": "Bad Wildungen und Umgebung",
-  "georss_box_s": "51.0618831 9.0707607 51.1293133 9.1814192",
   "layer_modified_dt": "2015-01-21T22:24:22Z",
   "dc_creator_sm": [
     "Woerl, Leo,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-w66346137",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/w66346137/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/w6/63/46/13/7/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.1293133 9.0707607 51.1293133 9.1814192 51.0618831 9.1814192 51.0618831 9.0707607 51.1293133 9.0707607",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1905"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "Bad Wildungen (Germany)",
     "Hesse (Germany)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

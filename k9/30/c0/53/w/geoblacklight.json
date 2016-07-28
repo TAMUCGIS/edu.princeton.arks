@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1584",
-  "uuid": "http://arks.princeton.edu/ark:/88435/k930c053w",
   "dc_description_s": "Asiae IX tab.",
-  "georss_box_s": "23.5393916 60.866944 37.084107 77.1203914",
   "layer_modified_dt": "2015-01-21T22:24:20Z",
   "dc_creator_sm": [
     "Ptolemy,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-k930c053w",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/k930c053w/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/k9/30/c0/53/w/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "37.084107 60.866944 37.084107 77.1203914 23.5393916 77.1203914 23.5393916 60.866944 37.084107 60.866944",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1584"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Pakistan"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

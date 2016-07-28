@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1876",
-  "uuid": "http://arks.princeton.edu/ark:/88435/st74cs82g",
   "dc_description_s": "Green River Basin",
-  "georss_box_s": "40.2833333333 -110.733333333 41.8333333333 -107.566666667",
   "layer_modified_dt": "2015-01-19T22:37:00Z",
   "dc_creator_sm": [
     "King, Clarence,",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-st74cs82g",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/st74cs82g/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/st/74/cs/82/g/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "41.8333333333 -110.733333333 41.8333333333 -107.566666667 40.2833333333 -107.566666667 40.2833333333 -110.733333333 41.8333333333 -110.733333333",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1876"
@@ -28,5 +25,6 @@
     "Colorado",
     "Utah",
     "Wyoming"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

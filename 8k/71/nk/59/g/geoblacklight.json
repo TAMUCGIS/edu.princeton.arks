@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1736",
-  "uuid": "http://arks.princeton.edu/ark:/88435/8k71nk59g",
   "dc_description_s": "Germany : divided into circles, agreeable to modern history",
-  "georss_box_s": "45.0 3.0 55.0 20.0",
   "layer_modified_dt": "2015-01-19T22:37:31Z",
   "dc_creator_sm": [
     "Bowles, John,",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-8k71nk59g",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/8k71nk59g/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/8k/71/nk/59/g/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "55.0 3.0 55.0 20.0 45.0 20.0 45.0 3.0 55.0 3.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1736"
@@ -27,5 +24,6 @@
   "dct_spatial_sm": [
     "Europe, Central",
     "Germany"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

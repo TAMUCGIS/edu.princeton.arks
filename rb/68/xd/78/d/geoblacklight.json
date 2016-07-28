@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1748",
-  "uuid": "http://arks.princeton.edu/ark:/88435/rb68xd78d",
-  "dc_description_s": "L'Asie avec les nouvelles de\u0301couvertes",
-  "georss_box_s": "55.9999502 103.9999498 56.0000502 104.0000498",
+  "dc_description_s": "L'Asie avec les nouvelles découvertes",
   "layer_modified_dt": "2015-01-21T22:23:52Z",
   "dc_creator_sm": [
     "Le Rouge, Georges-Louis.",
@@ -12,11 +10,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "rb68xd78d",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "L'Asie avec les nouvelles de\u0301couvertes",
+  "dc_title_s": "L'Asie avec les nouvelles découvertes",
   "layer_slug_s": "princeton-rb68xd78d",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/rb68xd78d/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/rb/68/xd/78/d/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "56.0000502 103.9999498 56.0000502 104.0000498 55.9999502 104.0000498 55.9999502 103.9999498 56.0000502 103.9999498",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1748"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Asia"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(13.2691, 13.4001, 50.9585, 50.8760)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/7w62f989h\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/7w62f989h/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/7w62f989h",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Dewag-Werbung",
   "dc_type_s": "Image",
   "dc_identifier_s": "7w62f989h",
-  "georss_polygon_s": "50.9585 13.2691 50.9585 13.4001 50.8760 13.4001 50.8760 13.2691 50.9585 13.2691",
   "dc_publisher_s": "Dewag-Werbung",
   "solr_year_i": "1958",
   "dct_spatial_sm": [
@@ -35,9 +33,9 @@
     "Landkreis Freiberg"
   ],
   "layer_id_s": "7w62f989h",
-  "georss_box_s": "50.8760 13.2691 50.9585 13.4001",
   "dc_title_s": "Stadtplan Freiberg",
   "layer_slug_s": "princeton-7w62f989h",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

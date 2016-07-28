@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1850",
-  "uuid": "http://arks.princeton.edu/ark:/88435/6t053j477",
   "dc_description_s": "Isle of Wight",
-  "georss_box_s": "50.5746776 -1.5918009 50.7675562 -1.0627188",
   "layer_modified_dt": "2015-01-21T22:24:18Z",
   "layer_id_s": "6t053j477",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-6t053j477",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/6t053j477/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/6t/05/3j/47/7/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "50.7675562 -1.5918009 50.7675562 -1.0627188 50.5746776 -1.0627188 50.5746776 -1.5918009 50.7675562 -1.5918009",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1850"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Isle of Wight (England)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

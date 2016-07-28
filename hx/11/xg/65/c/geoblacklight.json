@@ -1,8 +1,6 @@
 {
   "layer_modified_dt": "2014-12-19T16:18:34Z",
-  "uuid": "http://arks.princeton.edu/ark:/88435/hx11xg65c",
   "dc_description_s": "Polygons representing urban areas in Egypt.",
-  "georss_box_s": "22.095679 25.038199 31.865422 36.976913",
   "layer_slug_s": "princeton-hx11xg65c",
   "dct_spatial_sm": [
     "Egypt"
@@ -11,7 +9,6 @@
     "Globe Telecom"
   ],
   "layer_id_s": "pulmap-restricted:hx11xg65c",
-  "georss_polygon_s": "31.865422 25.038199 31.865422 36.976913 22.095679 36.976913 22.095679 25.038199 31.865422 25.038199",
   "dc_type_s": "Dataset",
   "dc_identifier_s": "hx11xg65c",
   "dct_provenance_s": "Princeton",
@@ -31,5 +28,6 @@
   "layer_geom_type_s": "Polygon",
   "solr_geom": "ENVELOPE(25.038199, 36.976913, 31.865422, 22.095679)",
   "dc_rights_s": "Restricted",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

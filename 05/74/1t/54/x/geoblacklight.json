@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1673",
-  "uuid": "http://arks.princeton.edu/ark:/88435/05741t54x",
-  "dc_description_s": "Novissima et accuratissima totius Americ\u00e6 descriptio",
-  "georss_box_s": "18.9110642 172.4458955 71.389888 -66.9453947",
+  "dc_description_s": "Novissima et accuratissima totius Americæ descriptio",
   "layer_modified_dt": "2015-01-21T22:23:44Z",
   "dc_creator_sm": [
     "Meurs, Jacob van,"
@@ -11,11 +9,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "05741t54x",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Novissima et accuratissima totius Americ\u00e6 descriptio",
+  "dc_title_s": "Novissima et accuratissima totius Americæ descriptio",
   "layer_slug_s": "princeton-05741t54x",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/05741t54x/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/05/74/1t/54/x/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "71.389888 172.4458955 71.389888 -66.9453947 18.9110642 -66.9453947 18.9110642 172.4458955 71.389888 172.4458955",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1673"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "America"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

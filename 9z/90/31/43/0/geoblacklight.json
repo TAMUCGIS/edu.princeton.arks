@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-75, -74.75, 44, 43.75)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/9z9031430/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/9z/90/31/43/0/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/9z9031430/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/9z9031430",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "historical maps",
@@ -20,7 +19,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "9z9031430",
-  "georss_polygon_s": "44 -75 44 -74.75 43.75 -74.75 43.75 -75 44 -75",
   "dc_publisher_s": "US Geological Survey",
   "dct_spatial_sm": [
     "United States",
@@ -28,9 +26,9 @@
     "Big Moose"
   ],
   "layer_id_s": "9z9031430",
-  "georss_box_s": "43.75 -75 44 -74.75",
   "dc_title_s": "New York: Big Moose Quadrangle",
   "dct_issued_s": "July1903",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

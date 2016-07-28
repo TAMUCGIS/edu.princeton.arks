@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(1.5618, 1.6975, 41.6189, 41.5203)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/79407z728\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/79407z728/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/79407z728",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Alpina",
   "dc_type_s": "Image",
   "dc_identifier_s": "79407z728",
-  "georss_polygon_s": "41.6189 1.5618 41.6189 1.6975 41.5203 1.6975 41.5203 1.5618 41.6189 1.5618",
   "dc_publisher_s": "Alpina",
   "solr_year_i": "1952",
   "dct_spatial_sm": [
@@ -28,9 +26,9 @@
     "Comunidad Autonoma de Cataluna"
   ],
   "layer_id_s": "79407z728",
-  "georss_box_s": "41.5203 1.5618 41.6189 1.6975",
   "dc_title_s": "Cuidad de Igualada",
   "layer_slug_s": "princeton-79407z728",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

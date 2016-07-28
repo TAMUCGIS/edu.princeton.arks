@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1783",
-  "uuid": "http://arks.princeton.edu/ark:/88435/fn1071440",
-  "dc_description_s": "Ad antiquam Indi\u00e6 geographiam tabula",
-  "georss_box_s": "6.5546079 68.1113787 35.6745457 97.395561",
+  "dc_description_s": "Ad antiquam Indiæ geographiam tabula",
   "layer_modified_dt": "2015-01-21T22:24:20Z",
   "dc_creator_sm": [
     "Dorn, S."
@@ -11,11 +9,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "fn1071440",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Ad antiquam Indi\u00e6 geographiam tabula",
+  "dc_title_s": "Ad antiquam Indiæ geographiam tabula",
   "layer_slug_s": "princeton-fn1071440",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/fn1071440/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/fn/10/71/44/0/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "35.6745457 68.1113787 35.6745457 97.395561 6.5546079 97.395561 6.5546079 68.1113787 35.6745457 68.1113787",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1783"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "India",
     "Sri Lanka"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1828",
-  "uuid": "http://arks.princeton.edu/ark:/88435/37720f552",
   "dc_description_s": "Juba or Dundas Islands on the east coast of Africa",
-  "georss_box_s": "-26.9612 21.9963878 18.0212099 63.8085939",
   "layer_modified_dt": "2015-01-21T22:23:43Z",
   "layer_id_s": "37720f552",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-37720f552",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/37720f552/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/37/72/0f/55/2/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "18.0212099 21.9963878 18.0212099 63.8085939 -26.9612 63.8085939 -26.9612 21.9963878 18.0212099 21.9963878",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1828"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Africa, East",
     "Somalia"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

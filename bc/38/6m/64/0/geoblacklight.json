@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1850",
-  "uuid": "http://arks.princeton.edu/ark:/88435/bc386m640",
   "dc_description_s": "Map of Lake George.",
-  "georss_box_s": "43.416489 -73.722054 43.436169 -73.7070539",
   "layer_modified_dt": "2015-01-21T22:24:02Z",
   "layer_id_s": "bc386m640",
   "dc_type_s": "Image",
@@ -12,12 +10,14 @@
   "layer_slug_s": "princeton-bc386m640",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/bc386m640/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/bc/38/6m/64/0/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "43.436169 -73.722054 43.436169 -73.7070539 43.416489 -73.7070539 43.416489 -73.722054 43.436169 -73.722054",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1850"
   ],
   "solr_geom": "ENVELOPE(-73.722054, -73.7070539, 43.436169, 43.416489)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

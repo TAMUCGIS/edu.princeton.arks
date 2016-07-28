@@ -1,5 +1,4 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/db78td77p",
   "dc_creator_sm": "U.S. Geological Survey",
   "dc_description_s": "Orthophotos combine the image characteristics of a\nphotograph with the geometric qualities of a map. The\nprimary digital orthophotoquad (DOQ) is a 1-meter ground\nresolution, quarter-quadrangle (3.75-minutes of latitude\nby 3.75-minutes of longitude) image cast on the Universal\nTransverse Mercator Projection (UTM) on the North\nAmerican Datum of 1983 (NAD83).The geographic extent of\nthe DOQ is equivalent to a quarter-quad plus The overedge\nranges a minimum of 50 meters to a maximum of 300 meters\nbeyond the extremes of the primary and secondary corner\npoints. The overedge is included to facilitate tonal\nmatching for mosaicking and for the placement of the NAD83\nand secondary datum corner ticks. The normal orientation\nof data is by lines (rows) and samples (columns). Each\nline contains a series of pixels ordered from west to\neast with the order of the lines from north to south.\nThe standard, archived digital orthophoto is formatted as\nfour ASCII header records, followed by a series of 8-bit\nbinary image data records. The radiometric image\nbrightness values are stored as 256 gray levels ranging\nfrom 0 to 255. The metadata provided in the digital\northophoto contain a wide range of descriptive\ninformation including format source information,\nproduction instrumentation and dates, and data to assist\nwith displaying and georeferencing the image. The\nstandard distribution format of DOQs will be JPEG\ncompressed images on CD-ROM by counties or special\nregions. The reconstituted image from the CD-ROM will\nexhibit some radiometric differences when compared to its\nuncompressed original but will retain the geometry of the\nuncompressed DOQ. Uncompressed DOQs are distributed on\ntape.",
   "dc_format_s": "CD-ROM",
@@ -34,11 +33,10 @@
   ],
   "dct_issued_s": "Unknown",
   "dct_provenance_s": "Princeton",
-  "georss_box_s": "38.9176 -75.5794 41.4212 -73.8908",
-  "georss_polygon_s": "41.4212 -75.5794 41.4212 -73.8908 38.9176 -73.8908 38.9176 -75.5794 41.4212 -75.5794",
   "layer_slug_s": "princeton-db78td77p",
   "layer_id_s": "db78td77p",
   "layer_modified_dt": "2014-12-30T13:14:50Z",
   "layer_geom_type_s": "Raster",
-  "solr_geom": "ENVELOPE(-75.5794, -73.8908, 41.4212, 38.9176)"
+  "solr_geom": "ENVELOPE(-75.5794, -73.8908, 41.4212, 38.9176)",
+  "geoblacklight_version": "1.0"
 }

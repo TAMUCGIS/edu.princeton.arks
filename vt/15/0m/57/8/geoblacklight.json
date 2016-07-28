@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1873",
-  "uuid": "http://arks.princeton.edu/ark:/88435/vt150m578",
   "dc_description_s": "Map of the rail roads of New Jersey, and parts of adjoining states",
-  "georss_box_s": "38.7911303 -75.5633859 41.357423 -73.8939789",
   "layer_modified_dt": "2015-01-21T22:23:55Z",
   "dc_creator_sm": [
     "Smith, J. L."
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-vt150m578",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/vt150m578/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/vt/15/0m/57/8/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "41.357423 -75.5633859 41.357423 -73.8939789 38.7911303 -73.8939789 38.7911303 -75.5633859 41.357423 -75.5633859",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1873"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "New Jersey",
     "Pennsylvania"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

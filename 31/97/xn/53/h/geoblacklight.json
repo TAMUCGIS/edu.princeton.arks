@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(7.3662, 7.4936, 46.9889, 46.9211)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/3197xn53h\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/3197xn53h/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/3197xn53h",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Earl Steinbicker",
   "dc_type_s": "Image",
   "dc_identifier_s": "3197xn53h",
-  "georss_polygon_s": "46.9889 7.3662 46.9889 7.4936 46.9211 7.4936 46.9211 7.3662 46.9889 7.3662",
   "dc_publisher_s": "Earl Steinbicker/Great Trips/Europe",
   "solr_year_i": "1980",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "Berne"
   ],
   "layer_id_s": "3197xn53h",
-  "georss_box_s": "46.9211 7.3662 46.9889 7.4936",
   "dc_title_s": "Bern Switzerland",
   "layer_slug_s": "princeton-3197xn53h",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

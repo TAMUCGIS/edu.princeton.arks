@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1865",
-  "uuid": "http://arks.princeton.edu/ark:/88435/9880vt46g",
   "dc_description_s": "Post map of Europe : comprehending England, France, Germany, Italy, &c., with the posts, distances, roads, railways, packet routes, &c.",
-  "georss_box_s": "50.9999503 9.9999497 51.0000503 10.0000497",
   "layer_modified_dt": "2015-01-21T22:24:16Z",
   "dc_creator_sm": [
     "McClellan, George B."
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-9880vt46g",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/9880vt46g/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/98/80/vt/46/g/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.0000503 9.9999497 51.0000503 10.0000497 50.9999503 10.0000497 50.9999503 9.9999497 51.0000503 9.9999497",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1865"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Europe"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

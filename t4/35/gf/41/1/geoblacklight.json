@@ -1,8 +1,6 @@
 {
   "layer_modified_dt": "2014-12-19T16:18:32Z",
-  "uuid": "http://arks.princeton.edu/ark:/88435/t435gf411",
   "dc_description_s": "Points representing stadiums in Cairo.",
-  "georss_box_s": "29.957902 31.051505 30.173930 31.445851",
   "layer_slug_s": "princeton-t435gf411",
   "dct_spatial_sm": [
     "Egypt",
@@ -12,7 +10,6 @@
     "Globe Telecom"
   ],
   "layer_id_s": "pulmap-restricted:t435gf411",
-  "georss_polygon_s": "30.173930 31.051505 30.173930 31.445851 29.957902 31.445851 29.957902 31.051505 30.173930 31.051505",
   "dc_type_s": "Dataset",
   "dc_identifier_s": "t435gf411",
   "dct_provenance_s": "Princeton",
@@ -28,5 +25,6 @@
   "layer_geom_type_s": "Point",
   "solr_geom": "ENVELOPE(31.051505, 31.445851, 30.173930, 29.957902)",
   "dc_rights_s": "Restricted",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

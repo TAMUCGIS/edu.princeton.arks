@@ -1,10 +1,9 @@
 {
-  "dc_description_s": "This is a city map of Ausburg and G\u00f6ggingen, Germany, shown at a 1:15,000 scale. This city map was created by Kartographisches B\u00fcro B. Rausch.",
+  "dc_description_s": "This is a city map of Ausburg and Göggingen, Germany, shown at a 1:15,000 scale. This city map was created by Kartographisches Büro B. Rausch.",
   "layer_modified_dt": "2015-01-11T18:24:57Z",
   "solr_geom": "ENVELOPE(10.84, 10.95, 48.41, 48.32)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/r207tq94j\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/r207tq94j/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/r207tq94j",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -15,11 +14,10 @@
   ],
   "dc_format_s": "Scanned Map",
   "dct_issued_s": "1960",
-  "dc_creator_sm": "Kartographisches B\u00fcro B. Rausch",
+  "dc_creator_sm": "Kartographisches Büro B. Rausch",
   "dc_type_s": "Image",
   "dc_identifier_s": "r207tq94j",
-  "georss_polygon_s": "48.41 10.84 48.41 10.95 48.32 10.95 48.32 10.84 48.41 10.84",
-  "dc_publisher_s": "Kartographisches B\u00fcro B. Rausch",
+  "dc_publisher_s": "Kartographisches Büro B. Rausch",
   "solr_year_i": "1960",
   "dct_spatial_sm": [
     "Augsburg",
@@ -27,9 +25,9 @@
     "Goggingen"
   ],
   "layer_id_s": "r207tq94j",
-  "georss_box_s": "48.32 10.84 48.41 10.95",
-  "dc_title_s": "Stadtplan von Augsburg und G\u00f6ggingen mit Strassenverzeichnis",
+  "dc_title_s": "Stadtplan von Augsburg und Göggingen mit Strassenverzeichnis",
   "layer_slug_s": "princeton-r207tq94j",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(44.197798, 44.564201, 33.449570, 33.189900)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/qv33rz265/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/qv33rz265/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/qv33rz265/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/qv33rz265",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Administrative and political boundaries",
@@ -17,7 +16,6 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "qv33rz265",
-  "georss_polygon_s": "33.449570 44.197798 33.449570 44.564201 33.189900 44.564201 33.189900 44.197798 33.449570 44.197798",
   "dc_publisher_s": "LeadDog Consulting, LLC",
   "solr_year_i": "2006",
   "dct_spatial_sm": [
@@ -25,9 +23,9 @@
     "Baghdad"
   ],
   "layer_id_s": "pulmap-restricted:qv33rz265",
-  "georss_box_s": "33.189900 44.197798 33.449570 44.564201",
   "dc_title_s": "Baghdad neighborhoods",
   "layer_slug_s": "princeton-qv33rz265",
   "layer_geom_type_s": "Point",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

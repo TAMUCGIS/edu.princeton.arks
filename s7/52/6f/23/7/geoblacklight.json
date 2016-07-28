@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1901",
-  "uuid": "http://arks.princeton.edu/ark:/88435/s7526f237",
   "dc_description_s": "Geologic map of New York exhibiting the structure of the state so far as known: Finger Lakes sheet",
-  "georss_box_s": "42.00000 -78.16667 43.50000 -76.50000",
   "layer_modified_dt": "2015-01-19T22:36:36Z",
   "dc_creator_sm": [
     "Evans, A. M.",
@@ -17,12 +15,14 @@
   "layer_slug_s": "princeton-s7526f237",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/s7526f237/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/s7/52/6f/23/7/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "43.50000 -78.16667 43.50000 -76.50000 42.00000 -76.50000 42.00000 -78.16667 43.50000 -78.16667",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1901"
   ],
   "solr_geom": "ENVELOPE(-78.16667, -76.50000, 43.50000, 42.00000)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

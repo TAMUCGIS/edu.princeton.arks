@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(12.2401, 12.4989, 51.4446, 51.2374)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/bc386k91g\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/bc386k91g/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/bc386k91g",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Frawin-Verlag",
   "dc_type_s": "Image",
   "dc_identifier_s": "bc386k91g",
-  "georss_polygon_s": "51.4446 12.2401 51.4446 12.4989 51.2374 12.4989 51.2374 12.2401 51.4446 12.2401",
   "dc_publisher_s": "Frawin-Verlag",
   "dct_spatial_sm": [
     "Leipzig",
@@ -31,9 +29,9 @@
     "Sachsen Freistaat"
   ],
   "layer_id_s": "bc386k91g",
-  "georss_box_s": "51.2374 12.2401 51.4446 12.4989",
   "dc_title_s": "Neuester Stadtplan von Leipzig",
   "layer_slug_s": "princeton-bc386k91g",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

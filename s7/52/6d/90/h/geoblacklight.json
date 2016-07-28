@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-124.4167, -114.1167, 42.00, 32.5333)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/s7526d90h/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/s7/52/6d/90/h/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/s7526d90h/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/s7526d90h",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Topographic map",
@@ -20,7 +19,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "s7526d90h",
-  "georss_polygon_s": "42.00 -124.4167 42.00 -114.1167 32.5333 -114.1167 32.5333 -124.4167 42.00 -124.4167",
   "dc_publisher_s": "California State Mining Bureau",
   "solr_year_i": "1916",
   "dct_spatial_sm": [
@@ -28,9 +26,9 @@
     "United States"
   ],
   "layer_id_s": "s7526d90h",
-  "georss_box_s": "32.5333 -124.4167 42.00 -114.1167",
   "dc_title_s": "Geological map of the state of California. Sheet 2.",
   "dct_issued_s": "1916",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

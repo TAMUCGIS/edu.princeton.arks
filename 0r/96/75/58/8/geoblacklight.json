@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1806",
-  "uuid": "http://arks.princeton.edu/ark:/88435/0r9675588",
-  "dc_description_s": "\u00c6gyptus, provincia romana imperialis",
-  "georss_box_s": "21.9999975 24.706389 31.8330854 37.1153517",
+  "dc_description_s": "Ægyptus, provincia romana imperialis",
   "layer_modified_dt": "2015-01-21T22:23:45Z",
   "dc_creator_sm": [
     "Macpherson, David,"
@@ -11,11 +9,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "0r9675588",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "\u00c6gyptus, provincia romana imperialis",
+  "dc_title_s": "Ægyptus, provincia romana imperialis",
   "layer_slug_s": "princeton-0r9675588",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/0r9675588/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/0r/96/75/58/8/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "31.8330854 24.706389 31.8330854 37.1153517 21.9999975 37.1153517 21.9999975 24.706389 31.8330854 24.706389",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1806"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Egypt"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

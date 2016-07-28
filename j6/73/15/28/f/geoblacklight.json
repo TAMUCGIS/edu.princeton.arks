@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(6.8944, 7.1348, 51.5343, 51.3490)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/j6731528f\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/j6731528f/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/j6731528f",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Stadtvermessungsamt Essen",
   "dc_type_s": "Image",
   "dc_identifier_s": "j6731528f",
-  "georss_polygon_s": "51.5343 6.8944 51.5343 7.1348 51.3490 7.1348 51.3490 6.8944 51.5343 6.8944",
   "dc_publisher_s": "Stadtvermessungsamt Essen",
   "solr_year_i": "1963",
   "dct_spatial_sm": [
@@ -27,9 +25,9 @@
     "Land Nordrhein-Westfalen"
   ],
   "layer_id_s": "j6731528f",
-  "georss_box_s": "51.3490 6.8944 51.5343 7.1348",
   "dc_title_s": "Amtlicher Stadtplan Essen",
   "layer_slug_s": "princeton-j6731528f",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

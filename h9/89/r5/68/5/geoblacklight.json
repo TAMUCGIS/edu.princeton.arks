@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1775",
-  "uuid": "http://arks.princeton.edu/ark:/88435/h989r5685",
   "dc_description_s": "An accurate map of North and South Carolina with their Indian frontiers, shewing in a distinct manner all the mountains, rivers, swamps, marshes, bays, creeks, harbours, sandbanks and soundings on the coasts; with the roads and Indian paths; as well as the boundary of provincial lines, the several townships and other divisions of the land in both the provinces",
-  "georss_box_s": "33.752878 -84.3218689 36.5880363 -75.4001189",
   "layer_modified_dt": "2015-11-23T14:10:15Z",
   "layer_id_s": "h989r5685",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-h989r5685",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/h989r5685/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/h9/89/r5/68/5/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "36.5880363 -84.3218689 36.5880363 -75.4001189 33.752878 -75.4001189 33.752878 -84.3218689 36.5880363 -84.3218689",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1775"
@@ -25,5 +22,6 @@
     "North Carolina",
     "South Carolina",
     "Sea Islands"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

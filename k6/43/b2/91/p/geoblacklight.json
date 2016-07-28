@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(8.1393, 8.342, 50.0352, 49.8932)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/k643b291p\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/k643b291p/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/k643b291p",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Wilhelm Stollfuss Verlag",
   "dc_type_s": "Image",
   "dc_identifier_s": "k643b291p",
-  "georss_polygon_s": "50.0352 8.1393 50.0352 8.342 49.8932 8.342 49.8932 8.1393 50.0352 8.1393",
   "dc_publisher_s": "Wilhelm Stollfuss Verlag",
   "solr_year_i": "1954",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "West Germany"
   ],
   "layer_id_s": "k643b291p",
-  "georss_box_s": "49.8932 8.1393 50.0352 8.342",
   "dc_title_s": "Stollfuss-Plan Nr. 49: Mainz",
   "layer_slug_s": "princeton-k643b291p",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

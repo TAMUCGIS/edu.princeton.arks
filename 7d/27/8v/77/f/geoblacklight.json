@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-74.800, -74.3333, 40.9333, 40.4667)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/7d278v77f/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/7d/27/8v/77/f/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/7d278v77f/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/7d278v77f",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "historical maps",
@@ -22,7 +21,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "7d278v77f",
-  "georss_polygon_s": "40.9333 -74.800 40.9333 -74.3333 40.4667 -74.3333 40.4667 -74.800 40.9333 -74.800",
   "dc_publisher_s": "New Jersey. Department of Conservation and Development. Division of Geology and Waters",
   "solr_year_i": "1917",
   "dct_spatial_sm": [
@@ -33,9 +31,9 @@
     "Hunterdon"
   ],
   "layer_id_s": "7d278v77f",
-  "georss_box_s": "40.4667 -74.800 40.9333 -74.3333",
   "dc_title_s": "[New Jersey.] Atlas sheet no. 25.",
   "dct_issued_s": "1917",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1792",
-  "uuid": "http://arks.princeton.edu/ark:/88435/37720f63j",
-  "dc_description_s": "Amerique septentrionale divise\u0301e en ses principales parties",
-  "georss_box_s": "5.0 -125.0 80.0 -0.0",
+  "dc_description_s": "Amerique septentrionale divisée en ses principales parties",
   "layer_modified_dt": "2015-01-23T17:48:34Z",
   "dc_creator_sm": [
     "Elwe, Jan Barend.",
@@ -12,11 +10,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "37720f63j",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Amerique septentrionale divise\u0301e en ses principales parties",
+  "dc_title_s": "Amerique septentrionale divisée en ses principales parties",
   "layer_slug_s": "princeton-37720f63j",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/37720f63j/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/37/72/0f/63/j/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "80.0 -125.0 80.0 -0.0 5.0 -0.0 5.0 -125.0 80.0 -125.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1792"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "North America"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

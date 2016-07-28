@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1780",
-  "uuid": "http://arks.princeton.edu/ark:/88435/b8515q90n",
   "dc_description_s": "Le Nouveau Mexique, avec la partie septentrionale d l'ancien, ou de la Nouvelle Espagne",
-  "georss_box_s": "32.5295236 -124.4820029 42.009499 -114.1307815",
   "layer_modified_dt": "2015-01-21T22:24:24Z",
   "dc_creator_sm": [
     "Dien, Charles,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-b8515q90n",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/b8515q90n/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/b8/51/5q/90/n/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "42.009499 -124.4820029 42.009499 -114.1307815 32.5295236 -114.1307815 32.5295236 -124.4820029 42.009499 -124.4820029",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1780"
@@ -26,5 +23,6 @@
     "California",
     "Mexico",
     "New Mexico"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

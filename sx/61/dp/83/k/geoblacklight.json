@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1776",
-  "uuid": "http://arks.princeton.edu/ark:/88435/sx61dp83k",
   "dc_description_s": "A survey of Lake Champlain, including Lake George, Crown Point, and St. John : surveyed by order of His Excellency Major-General Sr. Jeffery Amherst ... Commander in Chief of His Majesty's forces in North America, (now Lord Amherst)",
-  "georss_box_s": "43.0 -73.1 45.35 -73.8",
   "layer_modified_dt": "2015-01-23T17:48:40Z",
   "dc_creator_sm": [
     "Fox, N. B.,",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-sx61dp83k",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/sx61dp83k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/sx/61/dp/83/k/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "45.35 -73.1 45.35 -73.8 43.0 -73.8 43.0 -73.1 45.35 -73.1",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1776"
@@ -27,5 +24,6 @@
   "dct_spatial_sm": [
     "Champlain, Lake",
     "Champlain, Lake"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(116.1333, 116.5500, 40.0500, 39.7667)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/m039k658x/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/m0/39/k6/58/x/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/m039k658x/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/m039k658x",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
@@ -21,7 +20,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "m039k658x",
-  "georss_polygon_s": "40.0500 116.1333 40.0500 116.5500 39.7667 116.5500 39.7667 116.1333 40.0500 116.1333",
   "dc_publisher_s": "East View Cartographic",
   "solr_year_i": "1983",
   "dct_spatial_sm": [
@@ -31,9 +29,9 @@
     "China"
   ],
   "layer_id_s": "m039k658x",
-  "georss_box_s": "39.7667 116.1333 40.0500 116.5500",
   "dc_title_s": "Kitai gorod Pekin. Pekin (K-50-137,138; K-50-5,6). Sheet 2",
   "dct_issued_s": "1983",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

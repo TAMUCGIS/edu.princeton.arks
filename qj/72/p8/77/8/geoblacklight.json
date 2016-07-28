@@ -1,8 +1,6 @@
 {
   "layer_modified_dt": "2014-12-19T16:18:33Z",
-  "uuid": "http://arks.princeton.edu/ark:/88435/qj72p8778",
   "dc_description_s": "Land parcels in Berks County, Pennsylvania, 2008.",
-  "georss_box_s": "40.136931 -76.439060 40.676594 -75.529623",
   "layer_slug_s": "princeton-qj72p8778",
   "dct_spatial_sm": [
     "Pennsylvania",
@@ -16,7 +14,6 @@
     "Boundary Solutions, Inc."
   ],
   "layer_id_s": "pulmap-restricted:qj72p8778",
-  "georss_polygon_s": "40.676594 -76.439060 40.676594 -75.529623 40.136931 -75.529623 40.136931 -76.439060 40.676594 -76.439060",
   "dc_type_s": "Dataset",
   "dc_identifier_s": "qj72p8778",
   "dct_provenance_s": "Princeton",
@@ -40,5 +37,6 @@
   "layer_geom_type_s": "Polygon",
   "solr_geom": "ENVELOPE(-76.439060, -75.529623, 40.676594, 40.136931)",
   "dc_rights_s": "Restricted",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

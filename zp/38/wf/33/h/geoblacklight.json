@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-135, -45, 85, 43)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/zp38wf33h/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/zp/38/wf/33/h/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/zp38wf33h/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/zp38wf33h",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
@@ -19,16 +18,15 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "zp38wf33h",
-  "georss_polygon_s": "85 -135 85 -45 43 -45 43 -135 85 -135",
   "dc_publisher_s": "Central Intelligence Agency",
   "dct_spatial_sm": [
     "Canada",
     "North America"
   ],
   "layer_id_s": "zp38wf33h",
-  "georss_box_s": "43 -135 85 -45",
   "dc_title_s": "Canada, 1999",
   "dct_issued_s": "September 1999",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

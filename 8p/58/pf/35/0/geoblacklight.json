@@ -1,8 +1,6 @@
 {
   "layer_modified_dt": "2014-12-19T16:18:35Z",
-  "uuid": "http://arks.princeton.edu/ark:/88435/8p58pf350",
   "dc_description_s": "Digital map of village boundaries in Andhra Pradesh, 2011. Boundaries of all villages are shown linked to Primary Census Abstract 2011. Additionally, the Village Panchayat (Gram Panchayat) name is indicated.",
-  "georss_box_s": "12.623090 76.760000 19.917050 84.766180",
   "layer_slug_s": "princeton-8p58pf350",
   "dct_spatial_sm": [
     "Andhra",
@@ -13,7 +11,6 @@
     "ML Infomap Pvt. Ltd."
   ],
   "layer_id_s": "pulmap-restricted:8p58pf350",
-  "georss_polygon_s": "19.917050 76.760000 19.917050 84.766180 12.623090 84.766180 12.623090 76.760000 19.917050 76.760000",
   "dc_type_s": "Dataset",
   "dc_identifier_s": "8p58pf350",
   "dct_provenance_s": "Princeton",
@@ -61,5 +58,6 @@
   "layer_geom_type_s": "Polygon",
   "solr_geom": "ENVELOPE(76.760000, 84.766180, 19.917050, 12.623090)",
   "dc_rights_s": "Restricted",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

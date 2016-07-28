@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1771",
-  "uuid": "http://arks.princeton.edu/ark:/88435/1544bq927",
-  "dc_description_s": "Ame\u0301rique ou Indes Occidentales",
-  "georss_box_s": "-90 -180 90 0",
+  "dc_description_s": "Amérique ou Indes Occidentales",
   "layer_modified_dt": "2015-01-21T22:23:44Z",
   "dc_creator_sm": [
     "Delahaye, Jean-Baptiste-Henri.",
@@ -12,11 +10,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "1544bq927",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Ame\u0301rique ou Indes Occidentales",
+  "dc_title_s": "Amérique ou Indes Occidentales",
   "layer_slug_s": "princeton-1544bq927",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/1544bq927/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/15/44/bq/92/7/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "90 -180 90 0 -90 0 -90 -180 90 -180",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1771"
@@ -28,5 +25,6 @@
     "Dominican Republic",
     "Haiti",
     "Martinique"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

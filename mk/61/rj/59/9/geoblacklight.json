@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(11.7507, 13.2937, 42.2986, 41.4362)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/mk61rj599\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/mk61rj599/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/mk61rj599",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -20,7 +19,6 @@
   "dc_creator_sm": "Visceglia/Hertz",
   "dc_type_s": "Image",
   "dc_identifier_s": "mk61rj599",
-  "georss_polygon_s": "42.2986 11.7507 42.2986 13.2937 41.4362 13.2937 41.4362 11.7507 42.2986 11.7507",
   "dc_publisher_s": "Visceglia/Hertz",
   "solr_year_i": "1984",
   "dct_spatial_sm": [
@@ -31,9 +29,9 @@
     "Roma Prov."
   ],
   "layer_id_s": "mk61rj599",
-  "georss_box_s": "41.4362 11.7507 42.2986 13.2937",
   "dc_title_s": "Mappa di Roma = City map of Rome",
   "layer_slug_s": "princeton-mk61rj599",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

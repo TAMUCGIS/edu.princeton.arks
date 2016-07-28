@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1891",
-  "uuid": "http://arks.princeton.edu/ark:/88435/2v23vw938",
   "dc_description_s": "Rand McNally & Co.'s indexed atlas of the world map of Mexico",
-  "georss_box_s": "16.0 -116.0 32.0 -86.0",
   "layer_modified_dt": "2015-01-19T22:37:41Z",
   "layer_id_s": "2v23vw938",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-2v23vw938",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/2v23vw938/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/2v/23/vw/93/8/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "32.0 -116.0 32.0 -86.0 16.0 -86.0 16.0 -116.0 32.0 -116.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1891"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Mexico"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

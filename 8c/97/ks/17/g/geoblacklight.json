@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(72.450, 73.1667, 19.500, 18.58334)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/8c97ks17g\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/8c97ks17g/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/8c97ks17g",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "City plan",
@@ -17,7 +16,6 @@
   "dc_creator_sm": "Bombay Housing Panel",
   "dc_type_s": "Image",
   "dc_identifier_s": "8c97ks17g",
-  "georss_polygon_s": "19.500 72.450 19.500 73.1667 18.58334 73.1667 18.58334 72.450 19.500 72.450",
   "dc_publisher_s": "India. Bombay Housing Panel.",
   "solr_year_i": "1946",
   "dct_spatial_sm": [
@@ -28,9 +26,9 @@
     "MAX  G7654.B8C1.1946.I5 (b)"
   ],
   "layer_id_s": "8c97ks17g",
-  "georss_box_s": "18.58334 72.450 19.500 73.1667",
   "dc_title_s": "Greater Bombay",
   "layer_slug_s": "princeton-8c97ks17g",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

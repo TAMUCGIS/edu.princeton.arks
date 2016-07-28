@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1910",
-  "uuid": "http://arks.princeton.edu/ark:/88435/tt44pq381",
   "dc_description_s": "Plan von Neubrandenburg",
-  "georss_box_s": "53.1098405 10.5938299 54.8849662 14.4125172",
   "layer_modified_dt": "2015-01-21T22:24:26Z",
   "layer_id_s": "tt44pq381",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-tt44pq381",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/tt44pq381/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/tt/44/pq/38/1/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "54.8849662 10.5938299 54.8849662 14.4125172 53.1098405 14.4125172 53.1098405 10.5938299 54.8849662 10.5938299",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1910"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Mecklenburg-Vorpommern (Germany)",
     "Neubrandenburg (Germany)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

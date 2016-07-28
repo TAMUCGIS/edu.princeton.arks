@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1902",
-  "uuid": "http://arks.princeton.edu/ark:/88435/rr172066z",
   "dc_description_s": "Map of Bergen County, New Jersey : with a portion of Passaic Co.",
-  "georss_box_s": "40.7666666667 -74.2666666667 41.1166666667 -73.9",
   "layer_modified_dt": "2015-01-19T22:37:16Z",
   "dc_creator_sm": [
     "Mueller, A. H."
@@ -15,12 +13,14 @@
   "layer_slug_s": "princeton-rr172066z",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/rr172066z/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/rr/17/20/66/z/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "41.1166666667 -74.2666666667 41.1166666667 -73.9 40.7666666667 -73.9 40.7666666667 -74.2666666667 41.1166666667 -74.2666666667",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1902"
   ],
   "solr_geom": "ENVELOPE(-74.2666666667, -73.9, 41.1166666667, 40.7666666667)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

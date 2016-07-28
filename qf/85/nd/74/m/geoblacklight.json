@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1847",
-  "uuid": "http://arks.princeton.edu/ark:/88435/qf85nd74m",
   "dc_description_s": "Map of the West India & Bahama islands, with the adjacent coasts of Yucatan, Honduras, Caracas, &c.",
-  "georss_box_s": "9.0 -89.0 28.0 -59.0",
   "layer_modified_dt": "2015-01-19T22:37:14Z",
   "dc_creator_sm": [
     "Wyld, James,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-qf85nd74m",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/qf85nd74m/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/qf/85/nd/74/m/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "28.0 -89.0 28.0 -59.0 9.0 -59.0 9.0 -89.0 28.0 -89.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1847"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "Bahamas",
     "West Indies"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

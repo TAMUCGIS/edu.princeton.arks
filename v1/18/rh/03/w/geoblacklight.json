@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1865",
-  "uuid": "http://arks.princeton.edu/ark:/88435/v118rh03w",
   "dc_description_s": "Mapa topografica pintoresco de la isla de Cuba",
-  "georss_box_s": "19.0 -85.0 24.6666666667 -74.0",
   "layer_modified_dt": "2015-01-19T22:37:30Z",
   "layer_id_s": "v118rh03w",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-v118rh03w",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/v118rh03w/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/v1/18/rh/03/w/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "24.6666666667 -85.0 24.6666666667 -74.0 19.0 -74.0 19.0 -85.0 24.6666666667 -85.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1865"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Cuba",
     "Havana (Cuba)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

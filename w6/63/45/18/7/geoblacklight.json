@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(25.779612, 44.658527, 42.009472, 36.013084)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/w66345187/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/w66345187/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/w66345187/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/w66345187",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Cities",
@@ -21,16 +20,15 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "w66345187",
-  "georss_polygon_s": "42.009472 25.779612 42.009472 44.658527 36.013084 44.658527 36.013084 25.779612 42.009472 25.779612",
   "dc_publisher_s": "Gfk MACON Company",
   "solr_year_i": "2006",
   "dct_spatial_sm": [
     "Turkey"
   ],
   "layer_id_s": "pulmap-restricted:w66345187",
-  "georss_box_s": "36.013084 25.779612 42.009472 44.658527",
   "dc_title_s": "Turkey Cities With Population 10 Thousand and More, 2005",
   "layer_slug_s": "princeton-w66345187",
   "layer_geom_type_s": "Point",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

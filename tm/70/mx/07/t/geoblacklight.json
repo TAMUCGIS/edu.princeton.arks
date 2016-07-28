@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1835",
-  "uuid": "http://arks.princeton.edu/ark:/88435/tm70mx07t",
   "dc_description_s": "An outline chart of the Pacific Ocean for the purpose of marking off a ships track",
-  "georss_box_s": "-10.3757076 -151.2761694 -10.3756076 -151.2760694",
   "layer_modified_dt": "2015-01-21T22:23:49Z",
   "dc_creator_sm": [
     "Blachford, Robert,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-tm70mx07t",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/tm70mx07t/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/tm/70/mx/07/t/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "-10.3756076 -151.2761694 -10.3756076 -151.2760694 -10.3757076 -151.2760694 -10.3757076 -151.2761694 -10.3756076 -151.2761694",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1835"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Pacific Ocean"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

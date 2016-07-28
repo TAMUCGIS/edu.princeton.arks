@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1832",
-  "uuid": "http://arks.princeton.edu/ark:/88435/g445cg66h",
-  "dc_description_s": "Carte de la Gre\u0300ce et de l'Archipel",
-  "georss_box_s": "34.7006096 19.2477876 41.7488862 29.7296986",
+  "dc_description_s": "Carte de la Grèce et de l'Archipel",
   "layer_modified_dt": "2015-01-21T22:24:26Z",
   "dc_creator_sm": [
     "Lapie,",
@@ -12,11 +10,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "g445cg66h",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Carte de la Gre\u0300ce et de l'Archipel",
+  "dc_title_s": "Carte de la Grèce et de l'Archipel",
   "layer_slug_s": "princeton-g445cg66h",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/g445cg66h/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/g4/45/cg/66/h/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "41.7488862 19.2477876 41.7488862 29.7296986 34.7006096 29.7296986 34.7006096 19.2477876 41.7488862 19.2477876",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1832"
@@ -26,5 +23,6 @@
   "dct_spatial_sm": [
     "Greece",
     "Aegean Islands (Greece and Turkey)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

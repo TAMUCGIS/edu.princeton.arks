@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1732",
-  "uuid": "http://arks.princeton.edu/ark:/88435/6t053j40v",
   "dc_description_s": "A map of the river Gambia from Eropina to Barrakunda",
-  "georss_box_s": "13.061 -17.0288253 13.826389 -13.7977779",
   "layer_modified_dt": "2015-01-21T22:24:01Z",
   "dc_creator_sm": [
     "Kitchin, Thomas,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-6t053j40v",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/6t053j40v/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/6t/05/3j/40/v/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "13.826389 -17.0288253 13.826389 -13.7977779 13.061 -13.7977779 13.061 -17.0288253 13.826389 -17.0288253",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1732"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "Gambia",
     "Gambia River"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

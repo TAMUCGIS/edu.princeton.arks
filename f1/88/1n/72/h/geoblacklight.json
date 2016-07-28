@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1893",
-  "uuid": "http://arks.princeton.edu/ark:/88435/f1881n72h",
   "dc_description_s": "Map showing the direction of glacial striae on the Palisade Ridge.",
-  "georss_box_s": "40.60000 -74.16667 50.00000 -73.83333",
   "layer_modified_dt": "2015-01-19T22:36:35Z",
   "dc_creator_sm": [
     "Peet, Charles E.",
@@ -17,12 +15,14 @@
   "layer_slug_s": "princeton-f1881n72h",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/f1881n72h/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/f1/88/1n/72/h/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "50.00000 -74.16667 50.00000 -73.83333 40.60000 -73.83333 40.60000 -74.16667 50.00000 -74.16667",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1893"
   ],
   "solr_geom": "ENVELOPE(-74.16667, -73.83333, 50.00000, 40.60000)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

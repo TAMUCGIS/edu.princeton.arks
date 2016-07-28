@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1607",
-  "uuid": "http://arks.princeton.edu/ark:/88435/4f16c531h",
   "dc_description_s": "Huntingdon : comitatus qui pars fuir Icenorum",
-  "georss_box_s": "52.1587237 -0.499896 52.5832987 0.0515078",
   "layer_modified_dt": "2015-01-21T22:24:19Z",
   "dc_creator_sm": [
     "Bishop, George,",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-4f16c531h",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/4f16c531h/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/4f/16/c5/31/h/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "52.5832987 -0.499896 52.5832987 0.0515078 52.1587237 0.0515078 52.1587237 -0.499896 52.5832987 -0.499896",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1607"
@@ -26,5 +23,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Huntingdonshire (England)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

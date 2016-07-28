@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1887",
-  "uuid": "http://arks.princeton.edu/ark:/88435/jq085n45w",
   "dc_description_s": "A topographical map of the vicinity of Mount Holly : from Bordentown southward to Winslow and Woodmansie",
-  "georss_box_s": "39.65 -74.8833333333 40.1666666667 -74.4333333333",
   "layer_modified_dt": "2015-01-19T22:37:28Z",
   "dc_creator_sm": [
     "Cook, George Hammell,",
@@ -17,12 +15,14 @@
   "layer_slug_s": "princeton-jq085n45w",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/jq085n45w/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/jq/08/5n/45/w/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.1666666667 -74.8833333333 40.1666666667 -74.4333333333 39.65 -74.4333333333 39.65 -74.8833333333 40.1666666667 -74.8833333333",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1887"
   ],
   "solr_geom": "ENVELOPE(-74.8833333333, -74.4333333333, 40.1666666667, 39.65)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

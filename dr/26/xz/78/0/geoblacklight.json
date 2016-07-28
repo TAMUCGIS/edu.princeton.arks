@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-74.366, -73.933, 40.566, 40.10)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/dr26xz780/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/dr/26/xz/78/0/00000001.jp2/info.json\", \"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/dr26xz780\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/dr26xz780",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Geological map",
@@ -19,7 +18,6 @@
   "dc_creator_sm": "Geological Survey of New Jersey",
   "dc_type_s": "Image",
   "dc_identifier_s": "dr26xz780",
-  "georss_polygon_s": "40.566 -74.366 40.566 -73.933 40.10 -73.933 40.10 -74.366 40.566 -74.366",
   "dc_publisher_s": "Geological Survey of New Jersey",
   "solr_year_i": "1886",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "New Jersey"
   ],
   "layer_id_s": "dr26xz780",
-  "georss_box_s": "40.10 -74.366 40.566 -73.933",
   "dc_title_s": "A Topographical Map of the MonMouth Shore with the Interior From Metuchen to Lakewood",
   "dct_issued_s": "1886",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

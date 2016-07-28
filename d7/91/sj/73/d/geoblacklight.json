@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1894",
-  "uuid": "http://arks.princeton.edu/ark:/88435/d791sj73d",
   "dc_description_s": "A topographical map of Kittatinny Valley and Mountain in Sussex County and the northern part of Warren : from original surveys and levelings, based on the triangulation of the U.S. Coast and Geodetic Survey /",
-  "georss_box_s": "40.8833333333 -75.0333333333 41.3833333333 -74.5666666667",
   "layer_modified_dt": "2015-01-23T17:48:40Z",
   "dc_creator_sm": [
     "Smock, John C.",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-d791sj73d",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/d791sj73d/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/d7/91/sj/73/d/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "41.3833333333 -75.0333333333 41.3833333333 -74.5666666667 40.8833333333 -74.5666666667 40.8833333333 -75.0333333333 41.3833333333 -75.0333333333",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1894"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Kittatinny Mountain"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

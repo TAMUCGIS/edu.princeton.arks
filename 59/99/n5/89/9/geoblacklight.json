@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1862",
-  "uuid": "http://arks.princeton.edu/ark:/88435/5999n5899",
   "dc_description_s": "Map of Cumberland Co., New Jersey : from actual surveys",
-  "georss_box_s": "39.176202 -75.419562 39.568643 -74.8518551",
   "layer_modified_dt": "2015-01-21T22:24:23Z",
   "dc_creator_sm": [
     "Beers, S. N.",
@@ -16,12 +14,14 @@
   "layer_slug_s": "princeton-5999n5899",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/5999n5899/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/59/99/n5/89/9/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "39.568643 -75.419562 39.568643 -74.8518551 39.176202 -74.8518551 39.176202 -75.419562 39.568643 -75.419562",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1862"
   ],
   "solr_geom": "ENVELOPE(-75.419562, -74.8518551, 39.568643, 39.176202)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-2.6879, -1.7621, 52.449, 51.9654)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/t722hb49h\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/t722hb49h/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/t722hb49h",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
@@ -19,7 +18,6 @@
   "dc_creator_sm": "Great Britain Ordnance Survey",
   "dc_type_s": "Image",
   "dc_identifier_s": "t722hb49h",
-  "georss_polygon_s": "52.449 -2.6879 52.449 -1.7621 51.9654 -1.7621 51.9654 -2.6879 52.449 -2.6879",
   "dc_publisher_s": "Great Britain Ordnance Survey",
   "solr_year_i": "1928",
   "dct_spatial_sm": [
@@ -33,9 +31,9 @@
     "G5741.C2.s63.O7S8 sh81"
   ],
   "layer_id_s": "t722hb49h",
-  "georss_box_s": "51.9654 -2.6879 52.449 -1.7621",
   "dc_title_s": "Ordnance Survey of England and Wales: popular edition one-inch map. Worcester. Sheet 81.",
   "layer_slug_s": "princeton-t722hb49h",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

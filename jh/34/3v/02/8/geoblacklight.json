@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(8.4470, 8.6187, 47.4327, 47.3235)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/jh343v028\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/jh343v028/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/jh343v028",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Falk-Verlag",
   "dc_type_s": "Image",
   "dc_identifier_s": "jh343v028",
-  "georss_polygon_s": "47.4327 8.4470 47.4327 8.6187 47.3235 8.6187 47.3235 8.4470 47.4327 8.4470",
   "dc_publisher_s": "Falk-Verlag",
   "solr_year_i": "1973",
   "dct_spatial_sm": [
@@ -28,9 +26,9 @@
     "Schweizerische Eidgenossenschaft"
   ],
   "layer_id_s": "jh343v028",
-  "georss_box_s": "47.3235 8.4470 47.4327 8.6187",
   "dc_title_s": "Zurich",
   "layer_slug_s": "princeton-jh343v028",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

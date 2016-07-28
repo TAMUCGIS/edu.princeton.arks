@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1840",
-  "uuid": "http://arks.princeton.edu/ark:/88435/wd375z75g",
   "dc_description_s": "Port Papudo : Horcon and Quintero Bays",
-  "georss_box_s": "-32.7384000021 -71.5223791845 -32.6936600416 -71.4654052376",
   "layer_modified_dt": "2015-01-21T22:24:09Z",
   "layer_id_s": "wd375z75g",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-wd375z75g",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/wd375z75g/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/wd/37/5z/75/g/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "-32.6936600416 -71.5223791845 -32.6936600416 -71.4654052376 -32.7384000021 -71.4654052376 -32.7384000021 -71.5223791845 -32.6936600416 -71.5223791845",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1840"
@@ -23,5 +20,6 @@
     "Horcon Bay (Chile)",
     "Port Papudo (Chile)",
     "Quintero Bay (Chile)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

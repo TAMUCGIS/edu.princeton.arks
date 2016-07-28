@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-74.720272, -74.683246, 40.926068, 40.899141)",
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/3f/46/27/67/v/00000001.jp2/info.json\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/3f462767v",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
@@ -21,7 +20,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "3f462767v",
-  "georss_polygon_s": "40.926068 -74.720272 40.926068 -74.683246 40.899141 -74.683246 40.899141 -74.720272 40.926068 -74.720272",
   "dc_publisher_s": "New York: Sanborn Map Company",
   "solr_year_i": "1886",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "Stanhope"
   ],
   "layer_id_s": "3f462767v",
-  "georss_box_s": "40.899141 -74.720272 40.926068 -74.683246",
   "dc_title_s": "Stanhope, N. J. (Sheet 1).",
   "layer_slug_s": "princeton-3f462767v",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

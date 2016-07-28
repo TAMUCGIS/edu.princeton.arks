@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(23.5979, 23.8971, 38.157, 37.8239)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/hx11xg70d\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/hx11xg70d/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/hx11xg70d",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -19,7 +18,6 @@
   "dc_creator_sm": "Generalstab des Heeres, Abteilung fur Kriegskarten- und Vermessungswesen",
   "dc_type_s": "Image",
   "dc_identifier_s": "hx11xg70d",
-  "georss_polygon_s": "38.157 23.5979 38.157 23.8971 37.8239 23.8971 37.8239 23.5979 38.157 23.5979",
   "dc_publisher_s": "Generalstab des Heeres, Abteilung fur Kriegskarten- und Vermessungswesen",
   "solr_year_i": "1940",
   "dct_spatial_sm": [
@@ -30,9 +28,9 @@
     "Nomoarchia Athinon"
   ],
   "layer_id_s": "hx11xg70d",
-  "georss_box_s": "37.8239 23.5979 38.157 23.8971",
   "dc_title_s": "Stadtplan von Athen",
   "layer_slug_s": "princeton-hx11xg70d",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

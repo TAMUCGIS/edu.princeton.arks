@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1854",
-  "uuid": "http://arks.princeton.edu/ark:/88435/p2676x45t",
   "dc_description_s": "Turkey in Asia",
-  "georss_box_s": "32.5308163633 44.406204663 32.5539905253 44.4384283804",
   "layer_modified_dt": "2015-01-21T22:23:49Z",
   "dc_creator_sm": [
     "Aikman, George,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-p2676x45t",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/p2676x45t/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/p2/67/6x/45/t/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "32.5539905253 44.406204663 32.5539905253 44.4384283804 32.5308163633 44.4384283804 32.5308163633 44.406204663 32.5539905253 44.406204663",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1854"
@@ -26,5 +23,6 @@
     "Babylon (Extinct cities)",
     "Turkey",
     "Middle East"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

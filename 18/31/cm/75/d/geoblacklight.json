@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1945",
-  "uuid": "http://arks.princeton.edu/ark:/88435/1831cm75d",
   "dc_description_s": "[Numazu, Japan]. Administrative unit names, administrative names and locations are correct to October 1945.",
-  "georss_box_s": "35.0666666667 138.833333333 35.1166666667 138.883333333",
   "layer_modified_dt": "2015-01-19T22:36:34Z",
   "layer_id_s": "1831cm75d",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-1831cm75d",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/1831cm75d/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/18/31/cm/75/d/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "35.1166666667 138.833333333 35.1166666667 138.883333333 35.0666666667 138.883333333 35.0666666667 138.833333333 35.1166666667 138.833333333",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1945"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Japan"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

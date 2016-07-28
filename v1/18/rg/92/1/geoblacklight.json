@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1574",
-  "uuid": "http://arks.princeton.edu/ark:/88435/v118rg921",
   "dc_description_s": "Issola de' Rhodi",
-  "georss_box_s": "35.8767211 27.6834947 36.4586052 28.2475278",
   "layer_modified_dt": "2015-01-21T22:23:59Z",
   "dc_creator_sm": [
     "Bonifacio, Natale,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-v118rg921",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/v118rg921/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/v1/18/rg/92/1/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "36.4586052 27.6834947 36.4586052 28.2475278 35.8767211 28.2475278 35.8767211 27.6834947 36.4586052 27.6834947",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1574"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Rhodes (Greece : Island)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

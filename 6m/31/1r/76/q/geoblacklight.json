@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1640",
-  "uuid": "http://arks.princeton.edu/ark:/88435/6m311r76q",
   "dc_description_s": "Legionis regnum et Asturiarum principatus",
-  "georss_box_s": "41.0 9.0 44.0 15.0",
   "layer_modified_dt": "2015-01-19T22:37:16Z",
   "dc_creator_sm": [
     "Blaeu, Joan,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-6m311r76q",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/6m311r76q/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/6m/31/1r/76/q/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "44.0 9.0 44.0 15.0 41.0 15.0 41.0 9.0 44.0 9.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1640"
@@ -25,6 +22,7 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Asturias (Spain)",
-    "Leo\u0301n (Spain)"
-  ]
+    "León (Spain)"
+  ],
+  "geoblacklight_version": "1.0"
 }

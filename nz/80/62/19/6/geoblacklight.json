@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1776",
-  "uuid": "http://arks.princeton.edu/ark:/88435/nz8062196",
   "dc_description_s": "A Plan of the city and environs of New York in North America",
-  "georss_box_s": "40.477399 -74.2590899 40.917577 -73.7001714",
   "layer_modified_dt": "2015-01-21T22:24:24Z",
   "layer_id_s": "nz8062196",
   "dc_type_s": "Image",
@@ -12,12 +10,14 @@
   "layer_slug_s": "princeton-nz8062196",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/nz8062196/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/nz/80/62/19/6/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.917577 -74.2590899 40.917577 -73.7001714 40.477399 -73.7001714 40.477399 -74.2590899 40.917577 -74.2590899",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1776"
   ],
   "solr_geom": "ENVELOPE(-74.2590899, -73.7001714, 40.917577, 40.477399)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1855",
-  "uuid": "http://arks.princeton.edu/ark:/88435/7w62fb583",
   "dc_description_s": "Map of routes for a Pacific railroad",
-  "georss_box_s": "24.0 -128.0 50.0 -84.0",
   "layer_modified_dt": "2015-01-19T22:37:00Z",
   "layer_id_s": "7w62fb583",
   "dc_type_s": "Image",
@@ -12,11 +10,11 @@
   "layer_slug_s": "princeton-7w62fb583",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/7w62fb583/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/7w/62/fb/58/3/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "50.0 -128.0 50.0 -84.0 24.0 -84.0 24.0 -128.0 50.0 -128.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1855"
   ],
   "solr_geom": "ENVELOPE(-128.0, -84.0, 50.0, 24.0)",
-  "dc_rights_s": "Public"
+  "dc_rights_s": "Public",
+  "geoblacklight_version": "1.0"
 }

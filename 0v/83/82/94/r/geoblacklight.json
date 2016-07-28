@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1827",
-  "uuid": "http://arks.princeton.edu/ark:/88435/0v838294r",
-  "dc_description_s": "Partie du De\u0301sert de Sahara",
-  "georss_box_s": "18.0 -3.66666666667 24.0 4.33333333333",
+  "dc_description_s": "Partie du Désert de Sahara",
   "layer_modified_dt": "2015-01-19T22:37:02Z",
   "dc_creator_sm": [
     "Vandermaelen, Philippe, 1795-1869."
@@ -11,11 +9,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "0v838294r",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Partie du De\u0301sert de Sahara",
+  "dc_title_s": "Partie du Désert de Sahara",
   "layer_slug_s": "princeton-0v838294r",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/0v838294r/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/0v/83/82/94/r/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "24.0 -3.66666666667 24.0 4.33333333333 18.0 4.33333333333 18.0 -3.66666666667 24.0 -3.66666666667",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1827"
@@ -26,5 +23,6 @@
     "Algeria",
     "Mali",
     "Sahara"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

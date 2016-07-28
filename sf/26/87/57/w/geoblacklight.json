@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1774",
-  "uuid": "http://arks.princeton.edu/ark:/88435/sf268757w",
   "dc_description_s": "France, divided into military governments",
-  "georss_box_s": "-50.2187168 -178.3873748 51.268318 172.3057152",
   "layer_modified_dt": "2015-01-21T22:24:15Z",
   "dc_creator_sm": [
     "Sayer, Robert,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-sf268757w",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/sf268757w/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/sf/26/87/57/w/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.268318 -178.3873748 51.268318 172.3057152 -50.2187168 172.3057152 -50.2187168 -178.3873748 51.268318 -178.3873748",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1774"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "France"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

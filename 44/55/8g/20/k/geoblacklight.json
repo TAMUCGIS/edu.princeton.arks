@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1774",
-  "uuid": "http://arks.princeton.edu/ark:/88435/44558g20k",
   "dc_description_s": "First part of Turkey in Europe : containing Moldavia and Little Tartary with Krimea : to which is added the whole of the Black Sea",
-  "georss_box_s": "35.8076804 25.6212891 42.297 44.8176638",
   "layer_modified_dt": "2015-01-21T22:23:49Z",
   "dc_creator_sm": [
     "Sayer, Robert,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-44558g20k",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/44558g20k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/44/55/8g/20/k/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "42.297 25.6212891 42.297 44.8176638 35.8076804 44.8176638 35.8076804 25.6212891 42.297 25.6212891",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1774"
@@ -26,5 +23,6 @@
   "dct_spatial_sm": [
     "Turkey",
     "Balkan Peninsula"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

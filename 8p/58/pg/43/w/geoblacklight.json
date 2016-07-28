@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1899",
-  "uuid": "http://arks.princeton.edu/ark:/88435/8p58pg43w",
   "dc_description_s": "New York entrance : America's Cup races",
-  "georss_box_s": "40.3837099138 -74.3030352125 40.7926856614 -73.698898809",
   "layer_modified_dt": "2015-01-25T02:06:16Z",
   "layer_id_s": "8p58pg43w",
   "dc_type_s": "Image",
@@ -12,12 +10,14 @@
   "layer_slug_s": "princeton-8p58pg43w",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/8p58pg43w/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/8p/58/pg/43/w/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.7926856614 -74.3030352125 40.7926856614 -73.698898809 40.3837099138 -73.698898809 40.3837099138 -74.3030352125 40.7926856614 -74.3030352125",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1899"
   ],
   "solr_geom": "ENVELOPE(-74.3030352125, -73.698898809, 40.7926856614, 40.3837099138)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

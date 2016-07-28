@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-17.776660, 2.672167, 43.574528, 28.091932)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/t148fj892/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/t148fj892/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/t148fj892/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/t148fj892",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Cities",
@@ -21,16 +20,15 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "t148fj892",
-  "georss_polygon_s": "43.574528 -17.776660 43.574528 2.672167 28.091932 2.672167 28.091932 -17.776660 43.574528 -17.776660",
   "dc_publisher_s": "Gfk MACON Company",
   "solr_year_i": "2006",
   "dct_spatial_sm": [
     "Spain"
   ],
   "layer_id_s": "pulmap-restricted:t148fj892",
-  "georss_box_s": "28.091932 -17.776660 43.574528 2.672167",
   "dc_title_s": "Spain Major City Areas, 2005",
   "layer_slug_s": "princeton-t148fj892",
   "layer_geom_type_s": "Polygon",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

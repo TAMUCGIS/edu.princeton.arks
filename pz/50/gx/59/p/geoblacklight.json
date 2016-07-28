@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(42.000, 43.500, 35.000, 34.000)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/pz50gx59p/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/pz/50/gx/59/p/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/pz50gx59p/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/pz50gx59p",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Relief",
@@ -21,7 +20,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "pz50gx59p",
-  "georss_polygon_s": "35.000 42.000 35.000 43.500 34.000 43.500 34.000 42.000 35.000 42.000",
   "dc_publisher_s": "Great Britain. War Office.",
   "solr_year_i": "1917",
   "dct_spatial_sm": [
@@ -33,9 +31,9 @@
     "Syria"
   ],
   "layer_id_s": "pz50gx59p",
-  "georss_box_s": "34.000 42.000 35.000 43.500",
   "dc_title_s": "Eastern Turkey in Asia. Abu Samakh, sheet 49. Series G.S.G.S. no. 1522a.",
   "dct_issued_s": "1917",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

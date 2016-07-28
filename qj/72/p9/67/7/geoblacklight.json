@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1902",
-  "uuid": "http://arks.princeton.edu/ark:/88435/qj72p9677",
   "dc_description_s": "Il Vero disegno del sito di Hostia e di porto con li forti fatti dal campo di Sua Santita et delli Imperiali quali si resero adi XXIIII gennaro MDLVII",
-  "georss_box_s": "41.6999451 12.2344325 41.7448403 12.3475952",
   "layer_modified_dt": "2015-01-25T02:06:20Z",
   "layer_id_s": "qj72p9677",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-qj72p9677",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/qj72p9677/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/qj/72/p9/67/7/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "41.7448403 12.2344325 41.7448403 12.3475952 41.6999451 12.3475952 41.6999451 12.2344325 41.7448403 12.2344325",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1902"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Lido di Roma (Italy)",
     "Ostia (Italy)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

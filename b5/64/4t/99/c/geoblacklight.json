@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1880",
-  "uuid": "http://arks.princeton.edu/ark:/88435/b5644t99c",
   "dc_description_s": "Mapa del Peru",
-  "georss_box_s": "-20.1984471 -84.6732789 -0.0392817 -68.6519905",
   "layer_modified_dt": "2015-01-25T02:06:12Z",
   "layer_id_s": "b5644t99c",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-b5644t99c",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/b5644t99c/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/b5/64/4t/99/c/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "-0.0392817 -84.6732789 -0.0392817 -68.6519905 -20.1984471 -68.6519905 -20.1984471 -84.6732789 -0.0392817 -84.6732789",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1880"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Peru"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

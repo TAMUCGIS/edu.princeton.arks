@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-73.9971, -73.9098, 40.8776, 40.7567)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/5t34sk97t\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/5t34sk97t/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/5t34sk97t",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "City map",
@@ -22,7 +21,6 @@
   "dc_creator_sm": "Identity Development International Ltd",
   "dc_type_s": "Image",
   "dc_identifier_s": "5t34sk97t",
-  "georss_polygon_s": "40.8776 -73.9971 40.8776 -73.9098 40.7567 -73.9098 40.7567 -73.9971 40.8776 -73.9971",
   "dc_publisher_s": "Identity Development International Ltd",
   "solr_year_i": "1993",
   "dct_spatial_sm": [
@@ -32,9 +30,9 @@
     "Manhattan"
   ],
   "layer_id_s": "5t34sk97t",
-  "georss_box_s": "40.7567 -73.9971 40.8776 -73.9098",
   "dc_title_s": "New York (Side 1)",
   "layer_slug_s": "princeton-5t34sk97t",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

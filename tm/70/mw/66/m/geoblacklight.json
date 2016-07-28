@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-74.149, -74.078, 41.008, 40.955)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/tm70mw66m/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/tm/70/mw/66/m/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/tm70mw66m/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/tm70mw66m",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "tm70mw66m",
-  "georss_polygon_s": "41.008 -74.149 41.008 -74.078 40.955 -74.078 40.955 -74.149 41.008 -74.149",
   "dc_publisher_s": "Sanborn Map Company",
   "solr_year_i": "1910",
   "dct_spatial_sm": [
@@ -30,9 +28,9 @@
     "United States"
   ],
   "layer_id_s": "tm70mw66m",
-  "georss_box_s": "40.955 -74.149 41.008 -74.078",
   "dc_title_s": "Insurance maps of the city of Plainfield, Union County, and borough of North Plainfield, Somerset County, New Jersey (Sheet 16)",
   "dct_issued_s": "1910",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

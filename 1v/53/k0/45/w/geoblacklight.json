@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1914",
-  "uuid": "http://arks.princeton.edu/ark:/88435/1v53k045w",
   "dc_description_s": "Carta de la costa occidental de la Florida y parte de la Isla de Cuba : segun los trabajos mas modernos nacionales y estrangeros",
-  "georss_box_s": "24.396308 -87.6348959 31.000968 -79.9743059",
   "layer_modified_dt": "2015-01-21T22:24:16Z",
   "dc_creator_sm": [
     "Bryant, T.",
@@ -18,7 +16,6 @@
   "layer_slug_s": "princeton-1v53k045w",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/1v53k045w/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/1v/53/k0/45/w/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "31.000968 -87.6348959 31.000968 -79.9743059 24.396308 -79.9743059 24.396308 -87.6348959 31.000968 -87.6348959",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1914"
@@ -28,5 +25,6 @@
   "dct_spatial_sm": [
     "Florida",
     "Cuba"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

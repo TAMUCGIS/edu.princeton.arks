@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(77.200, 77.2333, 28.6333, 28.5833)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/wd375x85h\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/wd375x85h/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/wd375x85h",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Land use",
@@ -15,7 +14,6 @@
   "dc_creator_sm": "New Delhi Development Committee",
   "dc_type_s": "Image",
   "dc_identifier_s": "wd375x85h",
-  "georss_polygon_s": "28.6333 77.200 28.6333 77.2333 28.5833 77.2333 28.5833 77.200 28.6333 77.200",
   "dc_publisher_s": "New Delhi Development Committee",
   "solr_year_i": "1939",
   "dct_spatial_sm": [
@@ -26,9 +24,9 @@
     "MAX  G7654.N45G4.1939. N4 (b)"
   ],
   "layer_id_s": "wd375x85h",
-  "georss_box_s": "28.5833 77.200 28.6333 77.2333",
   "dc_title_s": "(New Delhi Development Committee's Report 1939.) Map II: Actual lay-out of New Dehli and the use of land as in 1938. ",
   "layer_slug_s": "princeton-wd375x85h",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

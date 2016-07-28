@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1851",
-  "uuid": "http://arks.princeton.edu/ark:/88435/z890rw087",
   "dc_description_s": "Northern Africa",
-  "georss_box_s": "3.4889804 -17.4573 37.5359 38.6938",
   "layer_modified_dt": "2015-01-21T22:23:44Z",
   "dc_creator_sm": [
     "Winkles, Henry,",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-z890rw087",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/z890rw087/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/z8/90/rw/08/7/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "37.5359 -17.4573 37.5359 38.6938 3.4889804 38.6938 3.4889804 -17.4573 37.5359 -17.4573",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1851"
@@ -26,5 +23,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Africa, North"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

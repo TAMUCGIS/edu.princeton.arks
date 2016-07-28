@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1725",
-  "uuid": "http://arks.princeton.edu/ark:/88435/7w62fb691",
   "dc_description_s": "Carte de la Grece",
-  "georss_box_s": "35.59933 22.4993729 40.901786 28.3309422",
   "layer_modified_dt": "2015-01-21T22:24:12Z",
   "dc_creator_sm": [
     "Mol, P.",
@@ -19,7 +17,6 @@
   "layer_slug_s": "princeton-7w62fb691",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/7w62fb691/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/7w/62/fb/69/1/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.901786 22.4993729 40.901786 28.3309422 35.59933 28.3309422 35.59933 22.4993729 40.901786 22.4993729",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1725"
@@ -30,5 +27,6 @@
     "Aegean Sea",
     "Greece",
     "Turkey"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

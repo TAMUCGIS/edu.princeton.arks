@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1821",
-  "uuid": "http://arks.princeton.edu/ark:/88435/jd472z973",
   "dc_description_s": "A new and improved map of Ireland exhibiting the rail coach and turnpike roads, the lakes, rivers & canals, the principal ranges of mountains : also the borough &. market towns, with their distances from the capital /",
-  "georss_box_s": "52.0 -10.0 55.0 -4.0",
   "layer_modified_dt": "2015-01-19T22:37:34Z",
   "layer_id_s": "jd472z973",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-jd472z973",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/jd472z973/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/jd/47/2z/97/3/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "55.0 -10.0 55.0 -4.0 52.0 -4.0 52.0 -10.0 55.0 -10.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1821"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Ireland"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

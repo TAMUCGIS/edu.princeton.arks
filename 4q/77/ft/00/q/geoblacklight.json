@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(44.211527, 44.504486, 33.337555, 33.238766)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/4q77ft00q/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/4q77ft00q/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/4q77ft00q/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/4q77ft00q",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Transportation networks",
@@ -17,7 +16,6 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "4q77ft00q",
-  "georss_polygon_s": "33.337555 44.211527 33.337555 44.504486 33.238766 44.504486 33.238766 44.211527 33.337555 44.211527",
   "dc_publisher_s": "LeadDog Consulting, LLC",
   "solr_year_i": "2006",
   "dct_spatial_sm": [
@@ -25,9 +23,9 @@
     "Baghdad"
   ],
   "layer_id_s": "pulmap-restricted:4q77ft00q",
-  "georss_box_s": "33.238766 44.211527 33.337555 44.504486",
   "dc_title_s": "Baghdad airports",
   "layer_slug_s": "princeton-4q77ft00q",
   "layer_geom_type_s": "Polygon",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

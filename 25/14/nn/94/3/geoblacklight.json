@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1633",
-  "uuid": "http://arks.princeton.edu/ark:/88435/2514nn943",
   "dc_description_s": "Zelandia Comitatus",
-  "georss_box_s": "51.2001621 3.3079526 51.7815205 4.2774232",
   "layer_modified_dt": "2015-01-21T22:24:09Z",
   "dc_creator_sm": [
     "Hondius, Hendrik,",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-2514nn943",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/2514nn943/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/25/14/nn/94/3/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.7815205 3.3079526 51.7815205 4.2774232 51.2001621 4.2774232 51.2001621 3.3079526 51.7815205 3.3079526",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1633"
@@ -26,5 +23,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Zeeland (Netherlands: Province)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1884",
-  "uuid": "http://arks.princeton.edu/ark:/88435/sf268761f",
   "dc_description_s": "Mexico",
-  "georss_box_s": "15.0 -117.0 33.0 -89.0",
   "layer_modified_dt": "2015-01-19T22:37:35Z",
   "layer_id_s": "sf268761f",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-sf268761f",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/sf268761f/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/sf/26/87/61/f/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "33.0 -117.0 33.0 -89.0 15.0 -89.0 15.0 -117.0 33.0 -117.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1884"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Mexico"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

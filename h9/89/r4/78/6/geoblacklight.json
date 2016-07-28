@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(130.2833, 130.3167, 31.2833, 31.2500)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/h989r4786/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/h9/89/r4/78/6/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/h989r4786/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/h989r4786",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
@@ -23,7 +22,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "h989r4786",
-  "georss_polygon_s": "31.2833 130.2833 31.2833 130.3167 31.2500 130.3167 31.2500 130.2833 31.2833 130.2833",
   "dc_publisher_s": "Army Map Service",
   "solr_year_i": "1945",
   "dct_spatial_sm": [
@@ -32,9 +30,9 @@
     "Japan"
   ],
   "layer_id_s": "h989r4786",
-  "georss_box_s": "31.2500 130.2833 31.2833 130.3167",
   "dc_title_s": "Makurazaki, Japan: Kagoshima Prefecture, Kyushu. A.M.S. L902.",
   "dct_issued_s": "1945",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

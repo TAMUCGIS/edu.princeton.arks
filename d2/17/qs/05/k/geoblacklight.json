@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1831",
-  "uuid": "http://arks.princeton.edu/ark:/88435/d217qs05k",
   "dc_description_s": "Madrid",
-  "georss_box_s": "40.3121886 -3.8889538 40.6437293 -3.5179162",
   "layer_modified_dt": "2015-01-25T02:06:20Z",
   "dc_creator_sm": [
     "Henshall, J.,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-d217qs05k",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/d217qs05k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/d2/17/qs/05/k/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.6437293 -3.8889538 40.6437293 -3.5179162 40.3121886 -3.5179162 40.3121886 -3.8889538 40.6437293 -3.8889538",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1831"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Madrid (Spain)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

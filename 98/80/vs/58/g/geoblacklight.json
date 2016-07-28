@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-2.2833, -1.6833, 50.8333, 50.5833)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/9880vs58g\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/9880vs58g/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/9880vs58g",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
@@ -19,7 +18,6 @@
   "dc_creator_sm": "Great Britain Ordnance Survey",
   "dc_type_s": "Image",
   "dc_identifier_s": "9880vs58g",
-  "georss_polygon_s": "50.8333 -2.2833 50.8333 -1.6833 50.5833 -1.6833 50.5833 -2.2833 50.8333 -2.2833",
   "dc_publisher_s": "Great Britain Ordnance Survey",
   "solr_year_i": "1928",
   "dct_spatial_sm": [
@@ -32,9 +30,9 @@
     "G5741.C2.s63.O7S8 sh141"
   ],
   "layer_id_s": "9880vs58g",
-  "georss_box_s": "50.5833 -2.2833 50.8333 -1.6833",
   "dc_title_s": "Ordnance Survey of England and Wales: popular edition one-inch map.  Bournemouth & Swanage. Sheet 141.",
   "layer_slug_s": "princeton-9880vs58g",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

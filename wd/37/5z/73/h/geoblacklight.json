@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1854",
-  "uuid": "http://arks.princeton.edu/ark:/88435/wd375z73h",
   "dc_description_s": "Chili, La Plata or the Argentine Republic & Bolivia",
-  "georss_box_s": "-55.1906485 -73.5665893 -21.7811679 -53.6374514",
   "layer_modified_dt": "2015-01-21T22:24:05Z",
   "layer_id_s": "wd375z73h",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-wd375z73h",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/wd375z73h/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/wd/37/5z/73/h/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "-21.7811679 -73.5665893 -21.7811679 -53.6374514 -55.1906485 -53.6374514 -55.1906485 -73.5665893 -21.7811679 -73.5665893",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1854"
@@ -23,5 +20,6 @@
     "Argentina",
     "Bolivia",
     "Chile"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

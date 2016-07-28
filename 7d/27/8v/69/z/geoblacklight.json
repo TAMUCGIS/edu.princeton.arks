@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-74.5, -74.25, 39.5, 39.25)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/7d278v69z/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/7d/27/8v/69/z/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/7d278v69z/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/7d278v69z",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Topographic map",
@@ -21,7 +20,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "7d278v69z",
-  "georss_polygon_s": "39.5 -74.5 39.5 -74.25 39.25 -74.25 39.25 -74.5 39.5 -74.5",
   "dc_publisher_s": "United States Geological Survey",
   "solr_year_i": "1912",
   "dct_spatial_sm": [
@@ -31,9 +29,9 @@
     "New Jersey"
   ],
   "layer_id_s": "7d278v69z",
-  "georss_box_s": "39.25 -74.5 39.5 -74.25",
   "dc_title_s": "New Jersey, Atlantic City Sheet (1912)",
   "dct_issued_s": "1912",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

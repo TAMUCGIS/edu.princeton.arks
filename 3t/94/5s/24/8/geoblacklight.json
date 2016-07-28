@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(7.0136, 7.3116, 51.3181, 51.1662)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/3t945s248\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/3t945s248/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/3t945s248",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Falk-Verlag",
   "dc_type_s": "Image",
   "dc_identifier_s": "3t945s248",
-  "georss_polygon_s": "51.3181 7.0136 51.3181 7.3116 51.1662 7.3116 51.1662 7.0136 51.3181 7.0136",
   "dc_publisher_s": "Falk-Verlag",
   "solr_year_i": "1964",
   "dct_spatial_sm": [
@@ -28,9 +26,9 @@
     "Nordrhein-Westfalen Land"
   ],
   "layer_id_s": "3t945s248",
-  "georss_box_s": "51.1662 7.0136 51.3181 7.3116",
   "dc_title_s": "Falk-Plan Wuppertal",
   "layer_slug_s": "princeton-3t945s248",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

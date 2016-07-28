@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1902",
-  "uuid": "http://arks.princeton.edu/ark:/88435/ks65hf736",
   "dc_description_s": "Wildbad",
-  "georss_box_s": "47.5324787 7.5117461 49.7913277 10.4955731",
   "layer_modified_dt": "2015-01-21T22:24:27Z",
   "dc_creator_sm": [
     "Woerl, Leo,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-ks65hf736",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/ks65hf736/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ks/65/hf/73/6/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "49.7913277 7.5117461 49.7913277 10.4955731 47.5324787 10.4955731 47.5324787 7.5117461 49.7913277 7.5117461",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1902"
@@ -23,7 +20,8 @@
   "solr_geom": "ENVELOPE(7.5117461, 10.4955731, 49.7913277, 47.5324787)",
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
-    "Baden-Wu\u0308rttemberg (Germany)",
+    "Baden-Württemberg (Germany)",
     "Wildbad im Schwarzwald (Germany)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

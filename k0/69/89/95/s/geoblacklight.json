@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1635",
-  "uuid": "http://arks.princeton.edu/ark:/88435/k0698995s",
   "dc_description_s": "Venezuela, cum parte australi Novae Andalusiae",
-  "georss_box_s": "0.647529 -73.3529631 15.9158431 -59.5427078",
   "layer_modified_dt": "2015-01-21T22:24:06Z",
   "dc_creator_sm": [
     "Blaeu, Willem Janszoon,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-k0698995s",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/k0698995s/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/k0/69/89/95/s/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "15.9158431 -73.3529631 15.9158431 -59.5427078 0.647529 -59.5427078 0.647529 -73.3529631 15.9158431 -73.3529631",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1635"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Venezuela"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

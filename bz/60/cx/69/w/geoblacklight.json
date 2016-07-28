@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(14.183136, 14.576155, 36.082695, 35.805990)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/bz60cx69w/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/bz60cx69w/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/bz60cx69w/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/bz60cx69w",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "administrative units",
@@ -22,16 +21,15 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "bz60cx69w",
-  "georss_polygon_s": "36.082695 14.183136 36.082695 14.576155 35.805990 14.576155 35.805990 14.183136 36.082695 14.183136",
   "dc_publisher_s": "Gfk MACON Company",
   "solr_year_i": "2006",
   "dct_spatial_sm": [
     "Malta"
   ],
   "layer_id_s": "pulmap-restricted:bz60cx69w",
-  "georss_box_s": "35.805990 14.183136 36.082695 14.576155",
   "dc_title_s": "Malta Municipality Boundaries, 2005",
   "layer_slug_s": "princeton-bz60cx69w",
   "layer_geom_type_s": "Polygon",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

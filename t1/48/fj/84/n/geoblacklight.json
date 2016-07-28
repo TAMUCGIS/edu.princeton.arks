@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(83.000, 83.0167, 25.3333, 25.2833)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/t148fj84n\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/t148fj84n/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/t148fj84n",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "City plan",
@@ -17,7 +16,6 @@
   "dc_creator_sm": "Survey of India",
   "dc_type_s": "Image",
   "dc_identifier_s": "t148fj84n",
-  "georss_polygon_s": "25.3333 83.000 25.3333 83.0167 25.2833 83.0167 25.2833 83.000 25.3333 83.000",
   "dc_publisher_s": "Survey of India",
   "solr_year_i": "1920",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "MAX  G7654.V3.1920.S9I5"
   ],
   "layer_id_s": "t148fj84n",
-  "georss_box_s": "25.2833 83.000 25.3333 83.0167",
   "dc_title_s": "Town guide map of Benares City. Sheet 2.",
   "layer_slug_s": "princeton-t148fj84n",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-74.7333, -74.6958, 40.5083, 40.3583)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/1r66j252v/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/1r/66/j2/52/v/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/1r66j252v/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/1r66j252v",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Aerial photograph",
@@ -20,16 +19,15 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "1r66j252v",
-  "georss_polygon_s": "40.5083 -74.7333 40.5083 -74.6958 40.3583 -74.6958 40.3583 -74.7333 40.5083 -74.7333",
   "dc_publisher_s": "NJDEP Bureau of Tidelands Management",
   "dct_spatial_sm": [
     "Lawrence",
     "Mercer county"
   ],
   "layer_id_s": "1r66j252v",
-  "georss_box_s": "40.3583 -74.7333 40.5083 -74.6958",
   "dc_title_s": "1951 Mercer County Aerial Photograph (289-1601)",
   "dct_issued_s": "March 27, 1951",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

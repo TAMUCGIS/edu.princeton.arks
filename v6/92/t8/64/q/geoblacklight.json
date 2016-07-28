@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1867",
-  "uuid": "http://arks.princeton.edu/ark:/88435/v692t864q",
   "dc_description_s": "North Anna : [map] /",
-  "georss_box_s": "37.870973 -77.5374836 37.910973 -77.4974836",
   "layer_modified_dt": "2015-01-21T22:24:04Z",
   "dc_creator_sm": [
     "Michler, N."
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-v692t864q",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/v692t864q/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/v6/92/t8/64/q/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "37.910973 -77.5374836 37.910973 -77.4974836 37.870973 -77.4974836 37.870973 -77.5374836 37.910973 -77.5374836",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1867"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "United States"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

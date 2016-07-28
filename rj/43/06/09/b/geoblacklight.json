@@ -1,10 +1,9 @@
 {
-  "dc_description_s": "This is a city map of N\u00fcrnberg, Germany, shown at a 1:8,315 scale. This city map was created by Pharus-Verlag G.m.b.H.",
+  "dc_description_s": "This is a city map of Nürnberg, Germany, shown at a 1:8,315 scale. This city map was created by Pharus-Verlag G.m.b.H.",
   "layer_modified_dt": "2015-01-11T18:24:50Z",
   "solr_geom": "ENVELOPE(10.989647, 11.1922, 49.5412, 49.3331)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/rj430609b\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/rj430609b/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/rj430609b",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,11 +17,10 @@
   "dc_creator_sm": "Pharus-Verlag G.m.b.H.",
   "dc_type_s": "Image",
   "dc_identifier_s": "rj430609b",
-  "georss_polygon_s": "49.5412 10.989647 49.5412 11.1922 49.3331 11.1922 49.3331 10.989647 49.5412 10.989647",
   "dc_publisher_s": "Pharus-Verlag G.m.b.H.",
   "solr_year_i": "1923",
   "dct_spatial_sm": [
-    "N\u00fcrnberg",
+    "Nürnberg",
     "Germany",
     "Bundesrepublik Deutschland",
     "Federal Republic of Germany",
@@ -30,9 +28,9 @@
     "Nuremberg"
   ],
   "layer_id_s": "rj430609b",
-  "georss_box_s": "49.3331 10.989647 49.5412 11.1922",
-  "dc_title_s": "Pharus-Plan N\u00fcrnberg",
+  "dc_title_s": "Pharus-Plan Nürnberg",
   "layer_slug_s": "princeton-rj430609b",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

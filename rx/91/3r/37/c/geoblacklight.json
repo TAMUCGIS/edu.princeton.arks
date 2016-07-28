@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(21.772260, 28.208174, 59.687057, 57.508647)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/rx913r37c/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/rx913r37c/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/rx913r37c/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/rx913r37c",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "administrative units",
@@ -22,16 +21,15 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "rx913r37c",
-  "georss_polygon_s": "59.687057 21.772260 59.687057 28.208174 57.508647 28.208174 57.508647 21.772260 59.687057 21.772260",
   "dc_publisher_s": "Gfk MACON Company",
   "solr_year_i": "2006",
   "dct_spatial_sm": [
     "Estonia"
   ],
   "layer_id_s": "pulmap-restricted:rx913r37c",
-  "georss_box_s": "57.508647 21.772260 59.687057 28.208174",
   "dc_title_s": "Estonia District Boundaries, 2005",
   "layer_slug_s": "princeton-rx913r37c",
   "layer_geom_type_s": "Polygon",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

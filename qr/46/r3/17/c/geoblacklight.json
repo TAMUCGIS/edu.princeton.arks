@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1864",
-  "uuid": "http://arks.princeton.edu/ark:/88435/qr46r317c",
   "dc_description_s": "New England in 1689",
-  "georss_box_s": "40.950943 -73.727775 47.459686 -66.8850751",
   "layer_modified_dt": "2015-01-21T22:23:56Z",
   "dc_creator_sm": [
     "Boynton, George W.,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-qr46r317c",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/qr46r317c/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/qr/46/r3/17/c/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "47.459686 -73.727775 47.459686 -66.8850751 40.950943 -66.8850751 40.950943 -73.727775 47.459686 -73.727775",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1864"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "New England"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

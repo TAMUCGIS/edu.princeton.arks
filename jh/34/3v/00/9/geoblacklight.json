@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(11.7507, 13.2937, 42.2986, 41.4362)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/jh343v009\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/jh343v009/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/jh343v009",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Cartografia Riccardi / Guida Monaci",
   "dc_type_s": "Image",
   "dc_identifier_s": "jh343v009",
-  "georss_polygon_s": "42.2986 11.7507 42.2986 13.2937 41.4362 13.2937 41.4362 11.7507 42.2986 11.7507",
   "dc_publisher_s": "Cartografia Riccardi / Guida Monaci",
   "dct_spatial_sm": [
     "Rome",
@@ -28,9 +26,9 @@
     "Roma Prov."
   ],
   "layer_id_s": "jh343v009",
-  "georss_box_s": "41.4362 11.7507 42.2986 13.2937",
   "dc_title_s": "Grande pianta di Roma",
   "layer_slug_s": "princeton-jh343v009",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

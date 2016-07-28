@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1692",
-  "uuid": "http://arks.princeton.edu/ark:/88435/5425kd19c",
-  "dc_description_s": "La More\u0301e et les isles de Zante, Cefalonie, Ste. Maure, Cerigo &c",
-  "georss_box_s": "38.1631263 20.4965293 38.1682541 20.5004667",
+  "dc_description_s": "La Morée et les isles de Zante, Cefalonie, Ste. Maure, Cerigo &c",
   "layer_modified_dt": "2015-01-21T22:24:23Z",
   "dc_creator_sm": [
     "Jaillot, Alexis Hubert,"
@@ -11,11 +9,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "5425kd19c",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "La More\u0301e et les isles de Zante, Cefalonie, Ste. Maure, Cerigo &c",
+  "dc_title_s": "La Morée et les isles de Zante, Cefalonie, Ste. Maure, Cerigo &c",
   "layer_slug_s": "princeton-5425kd19c",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/5425kd19c/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/54/25/kd/19/c/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "38.1682541 20.4965293 38.1682541 20.5004667 38.1631263 20.5004667 38.1631263 20.4965293 38.1682541 20.4965293",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1692"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "Ionian Islands (Greece)",
     "Peloponnesus (Greece : Peninsula)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

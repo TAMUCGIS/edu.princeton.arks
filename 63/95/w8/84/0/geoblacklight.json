@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-70.5, -70.2, 41.5, 41.25)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/6395w8840/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/63/95/w8/84/0/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/6395w8840/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/6395w8840",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "historical maps",
@@ -20,7 +19,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "6395w8840",
-  "georss_polygon_s": "41.5 -70.5 41.5 -70.2 41.25 -70.2 41.25 -70.5 41.5 -70.5",
   "dc_publisher_s": "US Geological Survey",
   "solr_year_i": "1899",
   "dct_spatial_sm": [
@@ -31,9 +29,9 @@
     "United States"
   ],
   "layer_id_s": "6395w8840",
-  "georss_box_s": "41.25 -70.5 41.5 -70.2",
   "dc_title_s": "Massachusetts: Muskeget sheet [1899]",
   "dct_issued_s": "1899",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

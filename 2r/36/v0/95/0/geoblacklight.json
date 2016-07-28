@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1576",
-  "uuid": "http://arks.princeton.edu/ark:/88435/2r36v0950",
   "dc_description_s": "Negroponte",
-  "georss_box_s": "37.8913838 22.7746914 39.0756458 24.7699047",
   "layer_modified_dt": "2015-01-21T22:23:59Z",
   "dc_creator_sm": [
     "Porro, Girolamo,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-2r36v0950",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/2r36v0950/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/2r/36/v0/95/0/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "39.0756458 22.7746914 39.0756458 24.7699047 37.8913838 24.7699047 37.8913838 22.7746914 39.0756458 22.7746914",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1576"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Euboea Island (Greece)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

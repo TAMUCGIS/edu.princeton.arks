@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-123.094277, -122.339730, 39.581382, 38.670851)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/44558f91s/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/44558f91s/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/44558f91s/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/44558f91s",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "parcels",
@@ -25,7 +24,6 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "44558f91s",
-  "georss_polygon_s": "39.581382 -123.094277 39.581382 -122.339730 38.670851 -122.339730 38.670851 -123.094277 39.581382 -123.094277",
   "dc_publisher_s": "Boundary Solutions, Inc.",
   "dct_spatial_sm": [
     "California",
@@ -34,9 +32,9 @@
     "Clearlake"
   ],
   "layer_id_s": "pulmap-restricted:44558f91s",
-  "georss_box_s": "38.670851 -123.094277 39.581382 -122.339730",
   "dc_title_s": "Lake County, California land parcels, 2009",
   "layer_slug_s": "princeton-44558f91s",
   "layer_geom_type_s": "Polygon",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

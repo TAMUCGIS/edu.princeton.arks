@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1855",
-  "uuid": "http://arks.princeton.edu/ark:/88435/n296x096p",
   "dc_description_s": "Discoveries in the Arctic Sea by the squadrons under the orders of Captn. Sir Edwd. Belcher C.B. H.M.S. Assistance, Captn. Kellett C.B. H.M.S. Resolute, Captn. Collinson C.B. H.M.S. Enterprise and Captn. McClure H.M.S. Investigator up to MDCCCLIV",
-  "georss_box_s": "61.8620577 -136.8686548 75.1744843087 -61.2616874",
   "layer_modified_dt": "2015-01-21T22:23:44Z",
   "dc_creator_sm": [
     "Belcher, Edward,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-n296x096p",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/n296x096p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/n2/96/x0/96/p/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "75.1744843087 -136.8686548 75.1744843087 -61.2616874 61.8620577 -61.2616874 61.8620577 -136.8686548 75.1744843087 -136.8686548",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1855"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "Northwest Passage",
     "Arctic regions"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

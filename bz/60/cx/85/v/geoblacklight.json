@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(88.300, 88.3667, 22.6167, 22.5500)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/bz60cx85v\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/bz60cx85v/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/bz60cx85v",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "City plan",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Howrah Improvement Trust",
   "dc_type_s": "Image",
   "dc_identifier_s": "bz60cx85v",
-  "georss_polygon_s": "22.6167 88.300 22.6167 88.3667 22.5500 88.3667 22.5500 88.300 22.6167 88.300",
   "dc_publisher_s": "Howrah Improvement Trust",
   "solr_year_i": "1965",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "MAX  G7654.H9P2.1965.H6"
   ],
   "layer_id_s": "bz60cx85v",
-  "georss_box_s": "22.5500 88.300 22.6167 88.3667",
   "dc_title_s": "Howrah Improvement Trust. Howrah and vicinity: schemes and alignments.",
   "layer_slug_s": "princeton-bz60cx85v",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

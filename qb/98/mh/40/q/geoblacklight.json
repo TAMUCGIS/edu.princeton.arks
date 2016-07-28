@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1613",
-  "uuid": "http://arks.princeton.edu/ark:/88435/qb98mh40q",
-  "dc_description_s": "Asi\u00e6 nova descriptio",
-  "georss_box_s": "55.9999502 103.9999498 56.0000502 104.0000498",
+  "dc_description_s": "Asiæ nova descriptio",
   "layer_modified_dt": "2015-01-25T02:06:10Z",
   "dc_creator_sm": [
     "Mercator, Gerhard,",
@@ -12,11 +10,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "qb98mh40q",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Asi\u00e6 nova descriptio",
+  "dc_title_s": "Asiæ nova descriptio",
   "layer_slug_s": "princeton-qb98mh40q",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/qb98mh40q/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/qb/98/mh/40/q/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "56.0000502 103.9999498 56.0000502 104.0000498 55.9999502 104.0000498 55.9999502 103.9999498 56.0000502 103.9999498",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1613"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Asia"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

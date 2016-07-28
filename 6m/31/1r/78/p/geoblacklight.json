@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1760",
-  "uuid": "http://arks.princeton.edu/ark:/88435/6m311r78p",
   "dc_description_s": "An accurate map of North Wales : divided into its counties ; viz. Carnarvonshire, Flintshire, Denbeighshire, Merionythshire, Montgomeryshire with the Isle of Anglesey : improved from the best surveys & intelligences and illustrated with historical extracts relative to its air, soil, natural produce, trade, manufactures &c.",
-  "georss_box_s": "52.4323363268 -5.6700973 53.4356935 -2.6497994",
   "layer_modified_dt": "2015-01-21T22:24:17Z",
   "dc_creator_sm": [
     "Bowles, John,",
@@ -18,7 +16,6 @@
   "layer_slug_s": "princeton-6m311r78p",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/6m311r78p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/6m/31/1r/78/p/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "53.4356935 -5.6700973 53.4356935 -2.6497994 52.4323363268 -2.6497994 52.4323363268 -5.6700973 53.4356935 -5.6700973",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1760"
@@ -27,5 +24,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Wales, North"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

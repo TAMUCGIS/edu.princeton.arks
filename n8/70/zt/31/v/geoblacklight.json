@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1645",
-  "uuid": "http://arks.princeton.edu/ark:/88435/n870zt31v",
   "dc_description_s": "Westmoria comitatus : Anglice Westmorland",
-  "georss_box_s": "33.0301209 -115.6301583 33.048224 -115.6130152",
   "layer_modified_dt": "2015-01-25T02:06:17Z",
   "layer_id_s": "n870zt31v",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-n870zt31v",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/n870zt31v/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/n8/70/zt/31/v/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "33.048224 -115.6301583 33.048224 -115.6130152 33.0301209 -115.6130152 33.0301209 -115.6301583 33.048224 -115.6301583",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1645"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Westmorland (England)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

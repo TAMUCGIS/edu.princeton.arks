@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1871",
-  "uuid": "http://arks.princeton.edu/ark:/88435/6682x6396",
   "dc_description_s": "South America : wall-atlas",
-  "georss_box_s": "-21.0000498 -61.0000502 -20.9999498 -60.9999502",
   "layer_modified_dt": "2015-01-21T22:24:05Z",
   "layer_id_s": "6682x6396",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-6682x6396",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/6682x6396/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/66/82/x6/39/6/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "-20.9999498 -61.0000502 -20.9999498 -60.9999502 -21.0000498 -60.9999502 -21.0000498 -61.0000502 -20.9999498 -61.0000502",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1871"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "South America"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

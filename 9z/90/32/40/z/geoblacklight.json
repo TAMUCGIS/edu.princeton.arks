@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1860",
-  "uuid": "http://arks.princeton.edu/ark:/88435/9z903240z",
   "dc_description_s": "Map of the vicinity of Philadelphia",
-  "georss_box_s": "39.7197662 -80.5210832 42.5146891 -74.6895019",
   "layer_modified_dt": "2015-01-25T02:06:21Z",
   "dc_creator_sm": [
     "Beers, S. N..",
@@ -18,7 +16,6 @@
   "layer_slug_s": "princeton-9z903240z",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/9z903240z/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/9z/90/32/40/z/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "42.5146891 -80.5210832 42.5146891 -74.6895019 39.7197662 -74.6895019 39.7197662 -80.5210832 42.5146891 -80.5210832",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1860"
@@ -27,5 +24,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Pennsylvania"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

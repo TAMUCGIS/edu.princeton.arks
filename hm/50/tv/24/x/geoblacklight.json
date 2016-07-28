@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1598",
-  "uuid": "http://arks.princeton.edu/ark:/88435/hm50tv24x",
   "dc_description_s": "Ratzenburgk",
-  "georss_box_s": "53.6702922 10.7266958 53.7815093 10.8268765",
   "layer_modified_dt": "2015-01-25T02:06:19Z",
   "dc_creator_sm": [
     "Braun, Georg,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-hm50tv24x",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/hm50tv24x/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/hm/50/tv/24/x/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "53.7815093 10.7266958 53.7815093 10.8268765 53.6702922 10.8268765 53.6702922 10.7266958 53.7815093 10.7266958",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1598"
@@ -26,5 +23,6 @@
   "dct_spatial_sm": [
     "Ratzeburg (Germany)",
     "Schleswig-Holstein (Germany)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

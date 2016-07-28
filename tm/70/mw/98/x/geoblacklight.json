@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1944",
-  "uuid": "http://arks.princeton.edu/ark:/88435/tm70mw98x",
   "dc_description_s": "1:25,000 Istanbul.",
-  "georss_box_s": "41.05000 28.90000 41.13333 29.05000",
   "layer_modified_dt": "2015-01-19T22:36:34Z",
   "layer_id_s": "tm70mw98x",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-tm70mw98x",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/tm70mw98x/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/tm/70/mw/98/x/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "41.13333 28.90000 41.13333 29.05000 41.05000 29.05000 41.05000 28.90000 41.13333 28.90000",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1944"
@@ -20,8 +17,9 @@
   "solr_geom": "ENVELOPE(28.90000, 29.05000, 41.13333, 41.05000)",
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
-    "I\u0307stanbul I\u0307li (Turkey)",
+    "İstanbul İli (Turkey)",
     "Istanbul Region (Turkey)",
     "Istanbul (Turkey)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

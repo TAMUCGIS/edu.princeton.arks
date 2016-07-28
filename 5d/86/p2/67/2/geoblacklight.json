@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1914",
-  "uuid": "http://arks.princeton.edu/ark:/88435/5d86p2672",
   "dc_description_s": "North west Europe",
-  "georss_box_s": "49.4969821 2.3889137 51.5516667 6.4080405",
   "layer_modified_dt": "2015-01-25T02:06:13Z",
   "layer_id_s": "5d86p2672",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-5d86p2672",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/5d86p2672/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/5d/86/p2/67/2/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.5516667 2.3889137 51.5516667 6.4080405 49.4969821 6.4080405 49.4969821 2.3889137 51.5516667 2.3889137",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1914"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Belgium",
     "France"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

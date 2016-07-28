@@ -1,8 +1,6 @@
 {
   "layer_modified_dt": "2014-12-19T16:18:37Z",
-  "uuid": "http://arks.princeton.edu/ark:/88435/1n79h571n",
   "dc_description_s": "Polygons representing landmarks in Egypt.",
-  "georss_box_s": "21.880781 25.075991 31.824376 37.062209",
   "layer_slug_s": "princeton-1n79h571n",
   "dct_spatial_sm": [
     "Egypt"
@@ -11,7 +9,6 @@
     "Globe Telecom"
   ],
   "layer_id_s": "pulmap-restricted:1n79h571n",
-  "georss_polygon_s": "31.824376 25.075991 31.824376 37.062209 21.880781 37.062209 21.880781 25.075991 31.824376 25.075991",
   "dc_type_s": "Dataset",
   "dc_identifier_s": "1n79h571n",
   "dct_provenance_s": "Princeton",
@@ -27,5 +24,6 @@
   "layer_geom_type_s": "Polygon",
   "solr_geom": "ENVELOPE(25.075991, 37.062209, 31.824376, 21.880781)",
   "dc_rights_s": "Restricted",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

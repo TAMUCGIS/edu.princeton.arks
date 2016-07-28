@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1850",
-  "uuid": "http://arks.princeton.edu/ark:/88435/4b29b832c",
   "dc_description_s": "Map of New Jersey : reduced from T. Gordon's map",
-  "georss_box_s": "38.7911303 -75.5633859 41.357423 -73.8939789",
   "layer_modified_dt": "2015-01-25T02:06:10Z",
   "dc_creator_sm": [
     "Mitchell, S. Augustus"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-4b29b832c",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/4b29b832c/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/4b/29/b8/32/c/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "41.357423 -75.5633859 41.357423 -73.8939789 38.7911303 -73.8939789 38.7911303 -75.5633859 41.357423 -75.5633859",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1850"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "New Jersey"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

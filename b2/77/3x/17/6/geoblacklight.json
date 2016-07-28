@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(5.1961, 5.3794, 60.4277, 60.2609)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/b2773x176\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/b2773x176/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/b2773x176",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Turisttrafikkomiteen for Bergen",
   "dc_type_s": "Image",
   "dc_identifier_s": "b2773x176",
-  "georss_polygon_s": "60.4277 5.1961 60.4277 5.3794 60.2609 5.3794 60.2609 5.1961 60.4277 5.1961",
   "dc_publisher_s": "Turisttrafikkomiteen for Bergen",
   "solr_year_i": "1953",
   "dct_spatial_sm": [
@@ -26,9 +24,9 @@
     "Norway"
   ],
   "layer_id_s": "b2773x176",
-  "georss_box_s": "60.2609 5.1961 60.4277 5.3794",
   "dc_title_s": "Bergen",
   "layer_slug_s": "princeton-b2773x176",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

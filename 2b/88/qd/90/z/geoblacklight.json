@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(8.7104, 9.5534, 45.7491, 45.2634)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/2b88qd90z\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/2b88qd90z/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/2b88qd90z",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Edizione Cartografiche Affini",
   "dc_type_s": "Image",
   "dc_identifier_s": "2b88qd90z",
-  "georss_polygon_s": "45.7491 8.7104 45.7491 9.5534 45.2634 9.5534 45.2634 8.7104 45.7491 8.7104",
   "dc_publisher_s": "Edizione Cartografiche Affini",
   "solr_year_i": "1959",
   "dct_spatial_sm": [
@@ -31,9 +29,9 @@
     "Lombardy"
   ],
   "layer_id_s": "2b88qd90z",
-  "georss_box_s": "45.2634 8.7104 45.7491 9.5534",
   "dc_title_s": "Citta di Milano, pianta guida toponomastica",
   "layer_slug_s": "princeton-2b88qd90z",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

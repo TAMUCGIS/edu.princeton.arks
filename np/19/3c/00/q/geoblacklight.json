@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1932",
-  "uuid": "http://arks.princeton.edu/ark:/88435/np193c00q",
   "dc_description_s": "Princeton University : a map showing the campus and its buildings : with the dates of their construction and certain other more or less important information",
-  "georss_box_s": "40.3092744 -74.6992958 40.3892744 -74.6192958",
   "layer_modified_dt": "2015-01-21T22:23:45Z",
   "layer_id_s": "np193c00q",
   "dc_type_s": "Image",
@@ -12,12 +10,14 @@
   "layer_slug_s": "princeton-np193c00q",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/np193c00q/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/np/19/3c/00/q/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.3892744 -74.6992958 40.3892744 -74.6192958 40.3092744 -74.6192958 40.3092744 -74.6992958 40.3892744 -74.6992958",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1932"
   ],
   "solr_geom": "ENVELOPE(-74.6992958, -74.6192958, 40.3892744, 40.3092744)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

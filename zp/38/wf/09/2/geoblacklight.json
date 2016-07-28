@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(6.093223, 14.807028, 54.516012, 47.492460)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/zp38wf092/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/zp38wf092/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/zp38wf092/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/zp38wf092",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "City",
@@ -21,16 +20,15 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "zp38wf092",
-  "georss_polygon_s": "54.516012 6.093223 54.516012 14.807028 47.492460 14.807028 47.492460 6.093223 54.516012 6.093223",
   "dc_publisher_s": "Gfk MACON Company",
   "solr_year_i": "2006",
   "dct_spatial_sm": [
     "Germany"
   ],
   "layer_id_s": "pulmap-restricted:zp38wf092",
-  "georss_box_s": "47.492460 6.093223 54.516012 14.807028",
   "dc_title_s": "Germany Cities With Population From 20 Thousand To 50 Thousand, 2006",
   "layer_slug_s": "princeton-zp38wf092",
   "layer_geom_type_s": "Point",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

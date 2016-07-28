@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1874",
-  "uuid": "http://arks.princeton.edu/ark:/88435/5425kd15f",
   "dc_description_s": "Nineveh",
-  "georss_box_s": "29.0612087 38.7936612 37.380932 48.8412702",
   "layer_modified_dt": "2015-01-21T22:24:11Z",
   "dc_creator_sm": [
     "Smith, William,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-5425kd15f",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/5425kd15f/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/54/25/kd/15/f/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "37.380932 38.7936612 37.380932 48.8412702 29.0612087 48.8412702 29.0612087 38.7936612 37.380932 38.7936612",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1874"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "Iraq",
     "Nineveh (Extinct city)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

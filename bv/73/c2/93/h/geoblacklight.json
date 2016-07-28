@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1914",
-  "uuid": "http://arks.princeton.edu/ark:/88435/bv73c293h",
   "dc_description_s": "Geologische schetskaart van Nederlandsch Oost-Indie",
-  "georss_box_s": "-11.2085668 94.7717124 6.2744496 141.0194444",
   "layer_modified_dt": "2015-01-21T22:24:23Z",
   "layer_id_s": "bv73c293h",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-bv73c293h",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/bv73c293h/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/bv/73/c2/93/h/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "6.2744496 94.7717124 6.2744496 141.0194444 -11.2085668 141.0194444 -11.2085668 94.7717124 6.2744496 94.7717124",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1914"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Indonesia"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

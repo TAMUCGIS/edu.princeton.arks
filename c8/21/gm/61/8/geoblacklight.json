@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1911",
-  "uuid": "http://arks.princeton.edu/ark:/88435/c821gm618",
   "dc_description_s": "New York: Antwerp Quadrangle",
-  "georss_box_s": "44.00000 -75.75000 44.25000 -75.50000",
   "layer_modified_dt": "2015-01-19T22:36:39Z",
   "dc_creator_sm": [
     "Morey, W. H. S."
@@ -15,12 +13,14 @@
   "layer_slug_s": "princeton-c821gm618",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/c821gm618/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/c8/21/gm/61/8/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "44.25000 -75.75000 44.25000 -75.50000 44.00000 -75.50000 44.00000 -75.75000 44.25000 -75.75000",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1911"
   ],
   "solr_geom": "ENVELOPE(-75.75000, -75.50000, 44.25000, 44.00000)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

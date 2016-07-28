@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(25.911850, 28.289044, 59.348512, 57.807724)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/ns0647721/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/ns0647721/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/ns0647721/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/ns0647721",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Lakes",
@@ -21,16 +20,15 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "ns0647721",
-  "georss_polygon_s": "59.348512 25.911850 59.348512 28.289044 57.807724 28.289044 57.807724 25.911850 59.348512 25.911850",
   "dc_publisher_s": "Gfk MACON Company",
   "solr_year_i": "2006",
   "dct_spatial_sm": [
     "Estonia"
   ],
   "layer_id_s": "pulmap-restricted:ns0647721",
-  "georss_box_s": "57.807724 25.911850 59.348512 28.289044",
   "dc_title_s": "Estonia Major Lakes, 2005",
   "layer_slug_s": "princeton-ns0647721",
   "layer_geom_type_s": "Polygon",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

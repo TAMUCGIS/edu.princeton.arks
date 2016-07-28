@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-75.0000, -74.8750, 41.2500, 41.1250)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/1g05fd204/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/1g/05/fd/20/4/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/1g05fd204/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/1g05fd204",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Topographic map",
@@ -20,7 +19,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "1g05fd204",
-  "georss_polygon_s": "41.2500 -75.0000 41.2500 -74.8750 41.1250 -74.8750 41.1250 -75.0000 41.2500 -75.0000",
   "dc_publisher_s": "United States Geological Survey",
   "solr_year_i": "1954",
   "dct_spatial_sm": [
@@ -33,9 +31,9 @@
     "New Jersey"
   ],
   "layer_id_s": "1g05fd204",
-  "georss_box_s": "41.1250 -75.0000 41.2500 -74.8750",
   "dc_title_s": "Lake Maskenozha Quadrangle, Pennsylvania - New Jersey, 7.5 minute series (topographic)",
   "dct_issued_s": "1954",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

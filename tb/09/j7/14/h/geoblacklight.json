@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(77.1167, 77.2500, 28.7167, 28.5667)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/tb09j714h\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/tb09j714h/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/tb09j714h",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "City plan",
@@ -17,7 +16,6 @@
   "dc_creator_sm": "Ashoka Publication",
   "dc_type_s": "Image",
   "dc_identifier_s": "tb09j714h",
-  "georss_polygon_s": "28.7167 77.1167 28.7167 77.2500 28.5667 77.2500 28.5667 77.1167 28.7167 77.1167",
   "dc_publisher_s": "Ashoka Publication",
   "solr_year_i": "1966",
   "dct_spatial_sm": [
@@ -30,9 +28,9 @@
     "MAX  G7654.D5E635.1966.A8"
   ],
   "layer_id_s": "tb09j714h",
-  "georss_box_s": "28.5667 77.1167 28.7167 77.2500",
   "dc_title_s": "Latest pictorial road map of Delhi & New Delhi with the boundary of N.D.M.C. & Cantt., showing existing petrol pum, cinema, newly set up colonies and gen. Information.",
   "layer_slug_s": "princeton-tb09j714h",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

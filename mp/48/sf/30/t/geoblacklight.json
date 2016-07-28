@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-74.408, -74.221, 40.296, 40.168)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/mp48sf30t/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/mp/48/sf/30/t/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/mp48sf30t/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/mp48sf30t",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
@@ -17,7 +16,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "mp48sf30t",
-  "georss_polygon_s": "40.296 -74.408 40.296 -74.221 40.168 -74.221 40.168 -74.408 40.296 -74.408",
   "dc_publisher_s": "Sanborn-Perris Map Company",
   "solr_year_i": "1901",
   "dct_spatial_sm": [
@@ -27,9 +25,9 @@
     "United States"
   ],
   "layer_id_s": "mp48sf30t",
-  "georss_box_s": "40.168 -74.408 40.296 -74.221",
   "dc_title_s": "Freehold (Sheet 8), Monmouth Co., N.J.",
   "dct_issued_s": "1901",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

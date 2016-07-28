@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1844",
-  "uuid": "http://arks.princeton.edu/ark:/88435/jh343v84t",
   "dc_description_s": "Carta dei contorni di Milano per l'opera Milano e il suo territorio /",
-  "georss_box_s": "44.6796491 8.4978605 46.6351853 11.4276993",
   "layer_modified_dt": "2015-01-25T02:06:21Z",
   "layer_id_s": "jh343v84t",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-jh343v84t",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/jh343v84t/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/jh/34/3v/84/t/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "46.6351853 8.4978605 46.6351853 11.4276993 44.6796491 11.4276993 44.6796491 8.4978605 46.6351853 8.4978605",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1844"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Lombardy (Italy)",
     "Milan (Italy : Province)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1892",
-  "uuid": "http://arks.princeton.edu/ark:/88435/f4752k27q",
   "dc_description_s": "Naumburg a/S.",
-  "georss_box_s": "51.0727766 11.6476118 51.2016644 11.8732095",
   "layer_modified_dt": "2015-01-21T22:24:29Z",
   "dc_creator_sm": [
     "Woerl, Leo,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-f4752k27q",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/f4752k27q/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/f4/75/2k/27/q/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.2016644 11.6476118 51.2016644 11.8732095 51.0727766 11.8732095 51.0727766 11.6476118 51.2016644 11.6476118",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1892"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "Naumburg (Saxony-Anhalt, Germany)",
     "Saxony-Anhalt (Germany)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

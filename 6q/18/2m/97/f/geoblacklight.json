@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1570",
-  "uuid": "http://arks.princeton.edu/ark:/88435/6q182m97f",
   "dc_description_s": "Carthaginis celeberrimi sinus typus",
-  "georss_box_s": "36.811627 10.2904407 36.891627 10.3704407",
   "layer_modified_dt": "2015-01-25T02:06:09Z",
   "dc_creator_sm": [
     "Ortelius, Abraham,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-6q182m97f",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/6q182m97f/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/6q/18/2m/97/f/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "36.891627 10.2904407 36.891627 10.3704407 36.811627 10.3704407 36.811627 10.2904407 36.891627 10.2904407",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1570"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Carthage (Extinct city)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

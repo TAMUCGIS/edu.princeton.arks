@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(36.750817, 37.000805, -0.002731, -0.252691)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/jw827d245\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/jw827d245/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/jw827d245",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "imageryBaseMapsEarthCover",
@@ -16,7 +15,6 @@
   "dc_creator_sm": "Directorate of Overseas Survey",
   "dc_type_s": "Image",
   "dc_identifier_s": "jw827d245",
-  "georss_polygon_s": "-0.002731 36.750817 -0.002731 37.000805 -0.252691 37.000805 -0.252691 36.750817 -0.002731 36.750817",
   "dc_publisher_s": "Directorate of Overseas Survey for the Survey of Kenya",
   "solr_year_i": "1973",
   "dct_spatial_sm": [
@@ -28,9 +26,9 @@
     "Kenya"
   ],
   "layer_id_s": "jw827d245",
-  "georss_box_s": "-0.252691 36.750817 -0.002731 37.000805",
   "dc_title_s": "Ongobit",
   "layer_slug_s": "princeton-jw827d245",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

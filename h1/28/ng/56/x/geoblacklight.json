@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1670",
-  "uuid": "http://arks.princeton.edu/ark:/88435/h128ng56x",
   "dc_description_s": "Barbaria Biledulgerid o: Libye et pars Nigritarum terra",
-  "georss_box_s": "3.4889804 -17.4573 37.5359 38.6938",
   "layer_modified_dt": "2015-01-21T22:23:46Z",
   "dc_creator_sm": [
     "Dapper, Olfert,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-h128ng56x",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/h128ng56x/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/h1/28/ng/56/x/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "37.5359 -17.4573 37.5359 38.6938 3.4889804 38.6938 3.4889804 -17.4573 37.5359 -17.4573",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1670"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Africa, North"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "layer_modified_dt": "2014-12-19T16:18:34Z",
-  "uuid": "http://arks.princeton.edu/ark:/88435/g445cf90j",
   "dc_description_s": "Polylines representing irrigation networks in Cairo.",
-  "georss_box_s": "29.723748 31.116585 30.150804 31.341328",
   "layer_slug_s": "princeton-g445cf90j",
   "dct_spatial_sm": [
     "Egypt",
@@ -12,7 +10,6 @@
     "Globe Telecom"
   ],
   "layer_id_s": "pulmap-restricted:g445cf90j",
-  "georss_polygon_s": "30.150804 31.116585 30.150804 31.341328 29.723748 31.341328 29.723748 31.116585 30.150804 31.116585",
   "dc_type_s": "Dataset",
   "dc_identifier_s": "g445cf90j",
   "dct_provenance_s": "Princeton",
@@ -31,5 +28,6 @@
   "layer_geom_type_s": "Line",
   "solr_geom": "ENVELOPE(31.116585, 31.341328, 30.150804, 29.723748)",
   "dc_rights_s": "Restricted",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

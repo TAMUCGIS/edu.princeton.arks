@@ -1,8 +1,6 @@
 {
   "layer_modified_dt": "2014-12-19T16:18:33Z",
-  "uuid": "http://arks.princeton.edu/ark:/88435/pr76f4927",
   "dc_description_s": "Land parcels in Pima County, Arizona, 2008.",
-  "georss_box_s": "31.426106 -113.334221 32.514068 -110.447680",
   "layer_slug_s": "princeton-pr76f4927",
   "dct_spatial_sm": [
     "Arizona",
@@ -13,7 +11,6 @@
     "Pima County Department of Transportation - Geographic Information Services\n          Division"
   ],
   "layer_id_s": "pulmap-restricted:pr76f4927",
-  "georss_polygon_s": "32.514068 -113.334221 32.514068 -110.447680 31.426106 -110.447680 31.426106 -113.334221 32.514068 -113.334221",
   "dc_type_s": "Dataset",
   "dc_identifier_s": "pr76f4927",
   "dct_provenance_s": "Princeton",
@@ -37,5 +34,6 @@
   "layer_geom_type_s": "Polygon",
   "solr_geom": "ENVELOPE(-113.334221, -110.447680, 32.514068, 31.426106)",
   "dc_rights_s": "Restricted",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

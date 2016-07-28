@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1884",
-  "uuid": "http://arks.princeton.edu/ark:/88435/3t945t325",
-  "dc_description_s": "Charte\u0304s tou Vasileiou te\u0304s Hellados synetachthe\u0304 hypo smikrynsin 1:300.000 /",
-  "georss_box_s": "34.7006096 19.2477876 41.7488862 29.7296986",
+  "dc_description_s": "Chartēs tou Vasileiou tēs Hellados synetachthē hypo smikrynsin 1:300.000 /",
   "layer_modified_dt": "2015-01-25T02:06:22Z",
   "dc_creator_sm": [
     "Ducakis, Georges,"
@@ -11,11 +9,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "3t945t325",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Charte\u0304s tou Vasileiou te\u0304s Hellados synetachthe\u0304 hypo smikrynsin 1:300.000 /",
+  "dc_title_s": "Chartēs tou Vasileiou tēs Hellados synetachthē hypo smikrynsin 1:300.000 /",
   "layer_slug_s": "princeton-3t945t325",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/3t945t325/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/3t/94/5t/32/5/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "41.7488862 19.2477876 41.7488862 29.7296986 34.7006096 29.7296986 34.7006096 19.2477876 41.7488862 19.2477876",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1884"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Greece"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

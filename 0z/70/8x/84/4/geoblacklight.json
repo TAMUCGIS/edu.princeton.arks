@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-180.000000, 180.000000, 84.000000, \n-90.000000\n)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/0z708x844\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/0z708x844/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/0z708x844",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Population",
@@ -15,13 +14,12 @@
   "dc_creator_sm": "\n\nOak Ridge National Laboratory; Edward A. Bright, Phillip R. Coleman, Amy L. King, Amy N. Rose\n",
   "dc_type_s": "Image",
   "dc_identifier_s": "0z708x844",
-  "georss_polygon_s": "84.000000 -180.000000 84.000000 180.000000 \n-90.000000\n 180.000000 \n-90.000000\n -180.000000 84.000000 -180.000000",
   "dc_publisher_s": "\nOak Ridge National Laboratory\n",
   "dct_spatial_sm": "\nGlobal\n",
   "layer_id_s": "0z708x844",
-  "georss_box_s": "\n-90.000000\n -180.000000 84.000000 180.000000",
   "dc_title_s": "LandScan 2007",
   "layer_slug_s": "princeton-0z708x844",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1761",
-  "uuid": "http://arks.princeton.edu/ark:/88435/2514nn97j",
   "dc_description_s": "An accurate map of England, Scotland, and Ireland, with all the adjacent islands, from the latest improvements",
-  "georss_box_s": "49.0 -11.0 60.0 2.0",
   "layer_modified_dt": "2015-01-19T22:37:27Z",
   "dc_creator_sm": [
     "Hinton, John,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-2514nn97j",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/2514nn97j/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/25/14/nn/97/j/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "60.0 -11.0 60.0 2.0 49.0 2.0 49.0 -11.0 60.0 -11.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1761"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "Great Britain",
     "Ireland"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

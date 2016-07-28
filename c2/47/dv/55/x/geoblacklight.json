@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1851",
-  "uuid": "http://arks.princeton.edu/ark:/88435/c247dv55x",
   "dc_description_s": "Modern Palestine",
-  "georss_box_s": "30.9166666667 34.35 33.7 36.8166666667",
   "layer_modified_dt": "2015-01-19T22:37:20Z",
   "dc_creator_sm": [
     "Warren, H.",
@@ -18,7 +16,6 @@
   "layer_slug_s": "princeton-c247dv55x",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/c247dv55x/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/c2/47/dv/55/x/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "33.7 34.35 33.7 36.8166666667 30.9166666667 36.8166666667 30.9166666667 34.35 33.7 34.35",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1851"
@@ -27,5 +24,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Palestine"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

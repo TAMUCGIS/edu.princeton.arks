@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1854",
-  "uuid": "http://arks.princeton.edu/ark:/88435/8c97ks26f",
   "dc_description_s": "Port Natal",
-  "georss_box_s": "-31.0828225 28.8734799 -26.8044198 32.8916968",
   "layer_modified_dt": "2015-01-21T22:23:45Z",
   "dc_creator_sm": [
     "Simpson, H. G."
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-8c97ks26f",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/8c97ks26f/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/8c/97/ks/26/f/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "-26.8044198 28.8734799 -26.8044198 32.8916968 -31.0828225 32.8916968 -31.0828225 28.8734799 -26.8044198 28.8734799",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1854"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "KwaZulu-Natal (South Africa)",
     "Durban (South Africa)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(8.5606, 8.7629, 50.6344, 50.5271)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/vq27zp99n\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/vq27zp99n/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/vq27zp99n",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Otto Schmelz & Co., Stadtvermessungsamt Giessen I. J.",
   "dc_type_s": "Image",
   "dc_identifier_s": "vq27zp99n",
-  "georss_polygon_s": "50.6344 8.5606 50.6344 8.7629 50.5271 8.7629 50.5271 8.5606 50.6344 8.5606",
   "dc_publisher_s": "Otto Schmelz & Co., Stadtvermessungsamt Giessen I. J.",
   "solr_year_i": "1969",
   "dct_spatial_sm": [
@@ -30,9 +28,9 @@
     "Hessen"
   ],
   "layer_id_s": "vq27zp99n",
-  "georss_box_s": "50.5271 8.5606 50.6344 8.7629",
   "dc_title_s": "Giessen",
   "layer_slug_s": "princeton-vq27zp99n",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

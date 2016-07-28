@@ -1,12 +1,10 @@
 {
   "solr_year_i": "1540",
-  "uuid": "http://arks.princeton.edu/ark:/88435/4j03d2136",
   "dc_description_s": "Tabula Europae X",
-  "georss_box_s": "34.7006096 19.2477876 41.7488862 29.7296986",
   "layer_modified_dt": "2015-01-25T02:06:14Z",
   "dc_creator_sm": [
     "Petri, Heinrich,",
-    "Mu\u0308nster, Sebastian,",
+    "Münster, Sebastian,",
     "Ptolemy,"
   ],
   "layer_id_s": "4j03d2136",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-4j03d2136",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/4j03d2136/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/4j/03/d2/13/6/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "41.7488862 19.2477876 41.7488862 29.7296986 34.7006096 29.7296986 34.7006096 19.2477876 41.7488862 19.2477876",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1540"
@@ -26,5 +23,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Greece"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,7 +1,5 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/bn999918h",
   "dc_description_s": "Nieuwe kaart van de Grootbrittannische volkplantingen in Noord America waar in tevens de Fransche bezittingen en de Landen, tusschen die beide volken in geschil staande en de wederzydsche pretensien duidelyk aangewezen worden",
-  "georss_box_s": "-50.2187168 -178.3873748 51.268318 172.3057152",
   "layer_modified_dt": "2015-01-25T02:06:12Z",
   "dc_creator_sm": [
     "Mitchell, John,"
@@ -14,12 +12,12 @@
   "layer_slug_s": "princeton-bn999918h",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/bn999918h/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/bn/99/99/18/h/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.268318 -178.3873748 51.268318 172.3057152 -50.2187168 172.3057152 -50.2187168 -178.3873748 51.268318 -178.3873748",
   "layer_geom_type_s": "Image",
   "solr_geom": "ENVELOPE(-178.3873748, 172.3057152, 51.268318, -50.2187168)",
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "France",
     "Great Britain"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(20.458973, 29.312361, 48.208152, 43.712639)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/ms35tb16f/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/ms35tb16f/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/ms35tb16f/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/ms35tb16f",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Cities",
@@ -21,16 +20,15 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "ms35tb16f",
-  "georss_polygon_s": "48.208152 20.458973 48.208152 29.312361 43.712639 29.312361 43.712639 20.458973 48.208152 20.458973",
   "dc_publisher_s": "Gfk MACON Company",
   "solr_year_i": "2006",
   "dct_spatial_sm": [
     "Romania"
   ],
   "layer_id_s": "pulmap-restricted:ms35tb16f",
-  "georss_box_s": "43.712639 20.458973 48.208152 29.312361",
   "dc_title_s": "Romania Minor City Areas, 2005",
   "layer_slug_s": "princeton-ms35tb16f",
   "layer_geom_type_s": "Polygon",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

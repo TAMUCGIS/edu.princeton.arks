@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1707",
-  "uuid": "http://arks.princeton.edu/ark:/88435/6m311r85p",
-  "dc_description_s": "Les royaumes de Grenade et d'Andalousie dresse\u0301s sur les derniers memoires /",
-  "georss_box_s": "35.9373253 -7.5226847 38.7290874 -1.6297999",
+  "dc_description_s": "Les royaumes de Grenade et d'Andalousie dressés sur les derniers memoires /",
   "layer_modified_dt": "2015-01-25T02:06:23Z",
   "dc_creator_sm": [
     "Fer, Nicolas de,",
@@ -12,11 +10,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "6m311r85p",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Les royaumes de Grenade et d'Andalousie dresse\u0301s sur les derniers memoires /",
+  "dc_title_s": "Les royaumes de Grenade et d'Andalousie dressés sur les derniers memoires /",
   "layer_slug_s": "princeton-6m311r85p",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/6m311r85p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/6m/31/1r/85/p/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "38.7290874 -7.5226847 38.7290874 -1.6297999 35.9373253 -1.6297999 35.9373253 -7.5226847 38.7290874 -7.5226847",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1707"
@@ -26,5 +23,6 @@
   "dct_spatial_sm": [
     "Andalusia (Spain)",
     "Granada (Spain)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

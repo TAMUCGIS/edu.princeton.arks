@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1852",
-  "uuid": "http://arks.princeton.edu/ark:/88435/fb494b94c",
   "dc_description_s": "Preliminary sketch showing the positions of Davis's South Shoal and other dangers recently discovered by the Coast Survey and the soundings on the Old South Shoal, Bass Rip, Old Man, Pochinck Rip, &c.",
-  "georss_box_s": "41.1888589 -73.5081419 42.8867135 -69.8601041",
   "layer_modified_dt": "2015-01-21T22:24:26Z",
   "dc_creator_sm": [
     "Davis, Charles Henry,",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-fb494b94c",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/fb494b94c/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/fb/49/4b/94/c/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "42.8867135 -73.5081419 42.8867135 -69.8601041 41.1888589 -69.8601041 41.1888589 -73.5081419 42.8867135 -73.5081419",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1852"
@@ -26,5 +23,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Massachusetts"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

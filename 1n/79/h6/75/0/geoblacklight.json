@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1748",
-  "uuid": "http://arks.princeton.edu/ark:/88435/1n79h6750",
-  "dc_description_s": "II. Carte du De.\u0301 de Luxembourg ; ou\u0300 se trouvt. la mairie de la Marche, le Cte\u0301. de Durbuy et partie de la Seignrie. de Lyege &c.",
-  "georss_box_s": "49.4969821 2.3889137 51.5516667 6.4080405",
+  "dc_description_s": "II. Carte du De.́ de Luxembourg ; où se trouvt. la mairie de la Marche, le Cté. de Durbuy et partie de la Seignrie. de Lyege &c.",
   "layer_modified_dt": "2015-01-21T22:24:08Z",
   "dc_creator_sm": [
     "Robert de Vaugondy, Gilles,"
@@ -11,11 +9,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "1n79h6750",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "II. Carte du De.\u0301 de Luxembourg ; ou\u0300 se trouvt. la mairie de la Marche, le Cte\u0301. de Durbuy et partie de la Seignrie. de Lyege &c.",
+  "dc_title_s": "II. Carte du De.́ de Luxembourg ; où se trouvt. la mairie de la Marche, le Cté. de Durbuy et partie de la Seignrie. de Lyege &c.",
   "layer_slug_s": "princeton-1n79h6750",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/1n79h6750/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/1n/79/h6/75/0/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.5516667 2.3889137 51.5516667 6.4080405 49.4969821 6.4080405 49.4969821 2.3889137 51.5516667 2.3889137",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1748"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "Belgium",
     "Luxembourg"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

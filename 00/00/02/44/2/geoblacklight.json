@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1850",
-  "uuid": "http://arks.princeton.edu/ark:/88435/000002442",
   "dc_description_s": "A plan of the city of New York : reduced from an actual survey",
-  "georss_box_s": "40.7702778 -73.9797222 40.8102778 -73.9397222",
   "layer_modified_dt": "2015-01-21T22:24:02Z",
   "dc_creator_sm": [
     "Valentine, D. T.",
@@ -17,12 +15,14 @@
   "layer_slug_s": "princeton-000002442",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/000002442/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/00/00/02/44/2/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.8102778 -73.9797222 40.8102778 -73.9397222 40.7702778 -73.9397222 40.7702778 -73.9797222 40.8102778 -73.9797222",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1850"
   ],
   "solr_geom": "ENVELOPE(-73.9797222, -73.9397222, 40.8102778, 40.7702778)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

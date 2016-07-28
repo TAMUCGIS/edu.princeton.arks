@@ -1,10 +1,9 @@
 {
-  "dc_description_s": "This is a city map of D\u00fcren, Germany, shown at a 1:12,500 scale. This city map was created by the Great Britain War Office.",
+  "dc_description_s": "This is a city map of Düren, Germany, shown at a 1:12,500 scale. This city map was created by the Great Britain War Office.",
   "layer_modified_dt": "2015-01-11T18:24:56Z",
   "solr_geom": "ENVELOPE(6.3860, 6.5371, 50.8575, 50.7423)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/x346d578s\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/x346d578s/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/x346d578s",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -20,7 +19,6 @@
   "dc_creator_sm": "Great Britain. War Office. General Staff. Geographical Section. G.S.G.S. No. 4480",
   "dc_type_s": "Image",
   "dc_identifier_s": "x346d578s",
-  "georss_polygon_s": "50.8575 6.3860 50.8575 6.5371 50.7423 6.5371 50.7423 6.3860 50.8575 6.3860",
   "dc_publisher_s": "Great Britain War Office",
   "solr_year_i": "1944",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "Land Nordrheim-Westfalen"
   ],
   "layer_id_s": "x346d578s",
-  "georss_box_s": "50.7423 6.3860 50.8575 6.5371",
-  "dc_title_s": "D\u00fcren",
+  "dc_title_s": "Düren",
   "layer_slug_s": "princeton-x346d578s",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

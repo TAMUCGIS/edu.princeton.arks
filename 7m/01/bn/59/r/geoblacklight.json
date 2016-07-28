@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1755",
-  "uuid": "http://arks.princeton.edu/ark:/88435/7m01bn59r",
   "dc_description_s": "A map of the British and French settlements in North America",
-  "georss_box_s": "50.9999502 -109.0000502 51.0000502 -108.9999502",
   "layer_modified_dt": "2015-01-21T22:23:50Z",
   "layer_id_s": "7m01bn59r",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-7m01bn59r",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/7m01bn59r/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/7m/01/bn/59/r/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.0000502 -109.0000502 51.0000502 -108.9999502 50.9999502 -108.9999502 50.9999502 -109.0000502 51.0000502 -109.0000502",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1755"
@@ -23,5 +20,6 @@
     "North America",
     "Great Britain",
     "France"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

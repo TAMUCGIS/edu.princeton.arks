@@ -1,18 +1,15 @@
 {
   "solr_year_i": "1950",
-  "uuid": "http://arks.princeton.edu/ark:/88435/3197xp56c",
-  "dc_description_s": "Charte\u0304s perioche\u0304s tes dioike\u0304seo\u0304s",
-  "georss_box_s": "37.8241493 23.5679843 38.1441493 23.8879843",
+  "dc_description_s": "Chartēs periochēs tes dioikēseōs",
   "layer_modified_dt": "2015-01-25T02:06:19Z",
   "layer_id_s": "3197xp56c",
   "dc_type_s": "Image",
   "dc_identifier_s": "3197xp56c",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Charte\u0304s perioche\u0304s tes dioike\u0304seo\u0304s",
+  "dc_title_s": "Chartēs periochēs tes dioikēseōs",
   "layer_slug_s": "princeton-3197xp56c",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/3197xp56c/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/31/97/xp/56/c/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "38.1441493 23.5679843 38.1441493 23.8879843 37.8241493 23.8879843 37.8241493 23.5679843 38.1441493 23.5679843",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1950"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Athens (Greece)",
     "Piraeus (Greece)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

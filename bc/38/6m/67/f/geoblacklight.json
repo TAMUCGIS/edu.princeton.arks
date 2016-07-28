@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1640",
-  "uuid": "http://arks.princeton.edu/ark:/88435/bc386m67f",
   "dc_description_s": "Arragonia regnum",
-  "georss_box_s": "39.8467782 -2.1736712 42.9244952 0.7713067",
   "layer_modified_dt": "2015-01-21T22:24:10Z",
   "dc_creator_sm": [
     "Blaeu, Willem Janszoon,",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-bc386m67f",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/bc386m67f/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/bc/38/6m/67/f/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "42.9244952 -2.1736712 42.9244952 0.7713067 39.8467782 0.7713067 39.8467782 -2.1736712 42.9244952 -2.1736712",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1640"
@@ -26,5 +23,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Aragon (Spain)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

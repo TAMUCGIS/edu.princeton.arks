@@ -1,8 +1,6 @@
 {
   "layer_modified_dt": "2014-12-19T16:18:32Z",
-  "uuid": "http://arks.princeton.edu/ark:/88435/qz20sv26s",
   "dc_description_s": "Digital map of village points in Nagaland, 2011. Points of all villages are shown linked to Primary Census Abstract 2011. Additionally, the Village Panchayat (Gram Panchayat) name is indicated.",
-  "georss_box_s": "25.206297 93.466041 26.974587 95.214447",
   "layer_slug_s": "princeton-qz20sv26s",
   "dct_spatial_sm": [
     "Nagaland",
@@ -12,7 +10,6 @@
     "ML Infomap Pvt. Ltd."
   ],
   "layer_id_s": "pulmap-restricted:qz20sv26s",
-  "georss_polygon_s": "26.974587 93.466041 26.974587 95.214447 25.206297 95.214447 25.206297 93.466041 26.974587 93.466041",
   "dc_type_s": "Dataset",
   "dc_identifier_s": "qz20sv26s",
   "dct_provenance_s": "Princeton",
@@ -58,5 +55,6 @@
   "layer_geom_type_s": "Point",
   "solr_geom": "ENVELOPE(93.466041, 95.214447, 26.974587, 25.206297)",
   "dc_rights_s": "Restricted",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

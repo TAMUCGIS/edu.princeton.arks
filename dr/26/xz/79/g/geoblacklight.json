@@ -1,8 +1,6 @@
 {
   "layer_modified_dt": "2014-12-19T16:18:34Z",
-  "uuid": "http://arks.princeton.edu/ark:/88435/dr26xz79g",
   "dc_description_s": "Digital map of village boundaries in Bihar, 2011. Boundaries of all villages are shown linked to Primary Census Abstract 2011. Additionally, the Village Panchayat (Gram Panchayat) name is indicated.",
-  "georss_box_s": "24.260071 83.325867 27.518850 88.293266",
   "layer_slug_s": "princeton-dr26xz79g",
   "dct_spatial_sm": [
     "Bihar",
@@ -12,7 +10,6 @@
     "ML Infomap Pvt. Ltd."
   ],
   "layer_id_s": "pulmap-restricted:dr26xz79g",
-  "georss_polygon_s": "27.518850 83.325867 27.518850 88.293266 24.260071 88.293266 24.260071 83.325867 27.518850 83.325867",
   "dc_type_s": "Dataset",
   "dc_identifier_s": "dr26xz79g",
   "dct_provenance_s": "Princeton",
@@ -60,5 +57,6 @@
   "layer_geom_type_s": "Polygon",
   "solr_geom": "ENVELOPE(83.325867, 88.293266, 27.518850, 24.260071)",
   "dc_rights_s": "Restricted",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

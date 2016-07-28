@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1874",
-  "uuid": "http://arks.princeton.edu/ark:/88435/k930c048v",
-  "dc_description_s": "Su\u0308d-America im Massstabe von 1:8,000,000",
-  "georss_box_s": "-21.0000498 -61.0000502 -20.9999498 -60.9999502",
+  "dc_description_s": "Süd-America im Massstabe von 1:8,000,000",
   "layer_modified_dt": "2015-01-21T22:24:05Z",
   "dc_creator_sm": [
     "Kiepert, Richard,"
@@ -11,11 +9,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "k930c048v",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Su\u0308d-America im Massstabe von 1:8,000,000",
+  "dc_title_s": "Süd-America im Massstabe von 1:8,000,000",
   "layer_slug_s": "princeton-k930c048v",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/k930c048v/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/k9/30/c0/48/v/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "-20.9999498 -61.0000502 -20.9999498 -60.9999502 -21.0000498 -60.9999502 -21.0000498 -61.0000502 -20.9999498 -61.0000502",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1874"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "South America"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(18.5468, 18.7508, 50.3743, 50.2291)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/xs55md72j\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/xs55md72j/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/xs55md72j",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Panstwowe Przedsiebiorstwo Wydawnictw Kartograficznych",
   "dc_type_s": "Image",
   "dc_identifier_s": "xs55md72j",
-  "georss_polygon_s": "50.3743 18.5468 50.3743 18.7508 50.2291 18.7508 50.2291 18.5468 50.3743 18.5468",
   "dc_publisher_s": "Panstwowe Przedsiebiorstwo Wydawnictw Kartograficznych",
   "solr_year_i": "1957",
   "dct_spatial_sm": [
@@ -28,9 +26,9 @@
     "Gliwice-Sosnowiec"
   ],
   "layer_id_s": "xs55md72j",
-  "georss_box_s": "50.2291 18.5468 50.3743 18.7508",
   "dc_title_s": "Plan miasta Gliwic",
   "layer_slug_s": "princeton-xs55md72j",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

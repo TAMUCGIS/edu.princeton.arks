@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1876",
-  "uuid": "http://arks.princeton.edu/ark:/88435/3n204164n",
   "dc_description_s": "Mapa de Rno. de Leon y del Principado de Asturias con las nuevas divisiones",
-  "georss_box_s": "42.8825428 -7.1824889 43.6665323 -4.5105944",
   "layer_modified_dt": "2015-01-25T02:06:23Z",
   "dc_creator_sm": [
     "Vuillemin, A.",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-3n204164n",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/3n204164n/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/3n/20/41/64/n/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "43.6665323 -7.1824889 43.6665323 -4.5105944 42.8825428 -4.5105944 42.8825428 -7.1824889 43.6665323 -7.1824889",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1876"
@@ -25,6 +22,7 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Asturias (Spain)",
-    "Leo\u0301n (Spain : Province)"
-  ]
+    "León (Spain : Province)"
+  ],
+  "geoblacklight_version": "1.0"
 }

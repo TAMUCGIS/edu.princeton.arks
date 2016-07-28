@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1695",
-  "uuid": "http://arks.princeton.edu/ark:/88435/dv13zw705",
   "dc_description_s": "Nottingham Shire",
-  "georss_box_s": "52.7893886 -1.3445927 53.5024932 -0.666263",
   "layer_modified_dt": "2015-01-21T22:24:17Z",
   "dc_creator_sm": [
     "Churchill, Awnsham,",
@@ -19,7 +17,6 @@
   "layer_slug_s": "princeton-dv13zw705",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/dv13zw705/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/dv/13/zw/70/5/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "53.5024932 -1.3445927 53.5024932 -0.666263 52.7893886 -0.666263 52.7893886 -1.3445927 53.5024932 -1.3445927",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1695"
@@ -28,5 +25,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Nottinghamshire (England)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

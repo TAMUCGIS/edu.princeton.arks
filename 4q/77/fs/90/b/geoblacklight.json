@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(7.5550, 7.6233, 47.5898, 47.5205)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/4q77fs90b\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/4q77fs90b/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/4q77fs90b",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -19,7 +18,6 @@
   "dc_creator_sm": "Vermessungsamt Basel-Stadt",
   "dc_type_s": "Image",
   "dc_identifier_s": "4q77fs90b",
-  "georss_polygon_s": "47.5898 7.5550 47.5898 7.6233 47.5205 7.6233 47.5205 7.5550 47.5898 7.5550",
   "dc_publisher_s": "Vermessungsamt Basel-Stadt",
   "solr_year_i": "1958",
   "dct_spatial_sm": [
@@ -30,9 +28,9 @@
     "Basle"
   ],
   "layer_id_s": "4q77fs90b",
-  "georss_box_s": "47.5205 7.5550 47.5898 7.6233",
   "dc_title_s": "Stadtplan von Basel",
   "layer_slug_s": "princeton-4q77fs90b",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

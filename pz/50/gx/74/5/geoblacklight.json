@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(15.5472, 15.6805, 56.2275, 56.1377)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/pz50gx745\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/pz50gx745/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/pz50gx745",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Svenska Reproduktions AB",
   "dc_type_s": "Image",
   "dc_identifier_s": "pz50gx745",
-  "georss_polygon_s": "56.2275 15.5472 56.2275 15.6805 56.1377 15.6805 56.1377 15.5472 56.2275 15.5472",
   "dc_publisher_s": "Svenska Reproduktions AB",
   "solr_year_i": "1966",
   "dct_spatial_sm": [
@@ -26,9 +24,9 @@
     "Sweden"
   ],
   "layer_id_s": "pz50gx745",
-  "georss_box_s": "56.1377 15.5472 56.2275 15.6805",
-  "dc_title_s": "Turistkarta \u00f6ver Karlskrona",
+  "dc_title_s": "Turistkarta över Karlskrona",
   "layer_slug_s": "princeton-pz50gx745",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

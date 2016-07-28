@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1859",
-  "uuid": "http://arks.princeton.edu/ark:/88435/8w32r797w",
   "dc_description_s": "From the Rio Grande to the Pacific Ocean : from explorations and surveys",
-  "georss_box_s": "31.9078585996 -120.8280766312 34.9884615645 -106.2100684219",
   "layer_modified_dt": "2015-01-21T22:23:56Z",
   "dc_creator_sm": [
     "Davis, Jefferson,",
@@ -18,7 +16,6 @@
   "layer_slug_s": "princeton-8w32r797w",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/8w32r797w/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/8w/32/r7/97/w/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "34.9884615645 -120.8280766312 34.9884615645 -106.2100684219 31.9078585996 -106.2100684219 31.9078585996 -120.8280766312 34.9884615645 -120.8280766312",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1859"
@@ -27,5 +24,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Southwest, New"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

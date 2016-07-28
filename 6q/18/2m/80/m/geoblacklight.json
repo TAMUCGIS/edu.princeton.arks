@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(8.2774, 8.5397, 49.0910, 48.9410)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/6q182m80m\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/6q182m80m/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/6q182m80m",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -19,7 +18,6 @@
   "dc_creator_sm": "Stadtliche Vermessungs- und Liegenschaftsamtes",
   "dc_type_s": "Image",
   "dc_identifier_s": "6q182m80m",
-  "georss_polygon_s": "49.0910 8.2774 49.0910 8.5397 48.9410 8.5397 48.9410 8.2774 49.0910 8.2774",
   "dc_publisher_s": "Stadtliche Vermessungs- und Liegenschaftsamtes",
   "solr_year_i": "1954",
   "dct_spatial_sm": [
@@ -31,9 +29,9 @@
     "Baden-Wuerttemberg"
   ],
   "layer_id_s": "6q182m80m",
-  "georss_box_s": "48.9410 8.2774 49.0910 8.5397",
   "dc_title_s": "Karlsruhe mit Umgebung",
   "layer_slug_s": "princeton-6q182m80m",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

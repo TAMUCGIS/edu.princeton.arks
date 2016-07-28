@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(5.1714, 5.3939, 60.4232, 60.2619)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/73666620m\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/73666620m/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/73666620m",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,16 +17,15 @@
   "dc_creator_sm": "Berg-Hansen and Co.",
   "dc_type_s": "Image",
   "dc_identifier_s": "73666620m",
-  "georss_polygon_s": "60.4232 5.1714 60.4232 5.3939 60.2619 5.3939 60.2619 5.1714 60.4232 5.1714",
   "dc_publisher_s": "Berg-Hansen and Co.",
   "dct_spatial_sm": [
     "Bergen",
     "Norway"
   ],
   "layer_id_s": "73666620m",
-  "georss_box_s": "60.2619 5.1714 60.4232 5.3939",
   "dc_title_s": "Plan of Bergen",
   "layer_slug_s": "princeton-73666620m",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

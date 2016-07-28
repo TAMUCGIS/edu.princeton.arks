@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1912",
-  "uuid": "http://arks.princeton.edu/ark:/88435/2b88qf67d",
-  "dc_description_s": "Das Deutsche Reich : in 4 Bla\u0308ttern",
-  "georss_box_s": "47.0 5.0 56.0 23.0",
+  "dc_description_s": "Das Deutsche Reich : in 4 Blättern",
   "layer_modified_dt": "2015-01-19T22:37:30Z",
   "dc_creator_sm": [
     "Stieler, Adolf,"
@@ -11,11 +9,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "2b88qf67d",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Das Deutsche Reich : in 4 Bla\u0308ttern",
+  "dc_title_s": "Das Deutsche Reich : in 4 Blättern",
   "layer_slug_s": "princeton-2b88qf67d",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/2b88qf67d/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/2b/88/qf/67/d/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "56.0 5.0 56.0 23.0 47.0 23.0 47.0 5.0 56.0 5.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1912"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Germany"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

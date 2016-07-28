@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1675",
-  "uuid": "http://arks.princeton.edu/ark:/88435/pz50gz00h",
-  "dc_description_s": "Le Nouveau Mexique et la Floride : tire\u0301es de diverses cartes, et relations",
-  "georss_box_s": "50.9999502 -109.0000502 51.0000502 -108.9999502",
+  "dc_description_s": "Le Nouveau Mexique et la Floride : tirées de diverses cartes, et relations",
   "layer_modified_dt": "2015-01-21T22:23:50Z",
   "dc_creator_sm": [
     "Sanson, Nicolas,",
@@ -12,11 +10,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "pz50gz00h",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Le Nouveau Mexique et la Floride : tire\u0301es de diverses cartes, et relations",
+  "dc_title_s": "Le Nouveau Mexique et la Floride : tirées de diverses cartes, et relations",
   "layer_slug_s": "princeton-pz50gz00h",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/pz50gz00h/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/pz/50/gz/00/h/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.0000502 -109.0000502 51.0000502 -108.9999502 50.9999502 -108.9999502 50.9999502 -109.0000502 51.0000502 -109.0000502",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1675"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "North America"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

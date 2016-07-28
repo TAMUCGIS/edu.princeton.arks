@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1944",
-  "uuid": "http://arks.princeton.edu/ark:/88435/db78td836",
   "dc_description_s": "Bago, Philippine Islands, Negros Occidental Province. A.M.S. S901",
-  "georss_box_s": "10.5166666667 122.816666667 10.5333333333 122.833333333",
   "layer_modified_dt": "2015-01-23T17:48:33Z",
   "layer_id_s": "db78td836",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-db78td836",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/db78td836/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/db/78/td/83/6/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "10.5333333333 122.816666667 10.5333333333 122.833333333 10.5166666667 122.833333333 10.5166666667 122.816666667 10.5333333333 122.816666667",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1944"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Bago City (Philippines)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

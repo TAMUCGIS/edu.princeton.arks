@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1701",
-  "uuid": "http://arks.princeton.edu/ark:/88435/fb494b95v",
   "dc_description_s": "Italy",
-  "georss_box_s": "35.2889616 6.6272658 47.0921462 18.7844746",
   "layer_modified_dt": "2015-01-25T02:06:20Z",
   "dc_creator_sm": [
     "Falconer, Robert,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-fb494b95v",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/fb494b95v/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/fb/49/4b/95/v/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "47.0921462 6.6272658 47.0921462 18.7844746 35.2889616 18.7844746 35.2889616 6.6272658 47.0921462 6.6272658",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1701"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Italy"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

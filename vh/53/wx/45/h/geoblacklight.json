@@ -1,10 +1,9 @@
 {
-  "dc_description_s": "This is a city map of M\u00fcnchen, Germany, shown at a 1:13,250 scale. This city map was created by Wagner & Debes.",
+  "dc_description_s": "This is a city map of München, Germany, shown at a 1:13,250 scale. This city map was created by Wagner & Debes.",
   "layer_modified_dt": "2015-01-11T18:25:17Z",
   "solr_geom": "ENVELOPE(11.3508, 11.7271, 48.2352, 48.0671)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/vh53wx45h\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/vh53wx45h/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/vh53wx45h",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -19,10 +18,9 @@
   "dc_creator_sm": "Wagner & Debes",
   "dc_type_s": "Image",
   "dc_identifier_s": "vh53wx45h",
-  "georss_polygon_s": "48.2352 11.3508 48.2352 11.7271 48.0671 11.7271 48.0671 11.3508 48.2352 11.3508",
   "dc_publisher_s": "Wagner & Debes",
   "dct_spatial_sm": [
-    "M\u00fcnchen",
+    "München",
     "Germany",
     "Bundesrepublik Deutschland",
     "Federal Republic of Germany",
@@ -30,9 +28,9 @@
     "Munich"
   ],
   "layer_id_s": "vh53wx45h",
-  "georss_box_s": "48.0671 11.3508 48.2352 11.7271",
-  "dc_title_s": "M\u00fcnchen",
+  "dc_title_s": "München",
   "layer_slug_s": "princeton-vh53wx45h",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

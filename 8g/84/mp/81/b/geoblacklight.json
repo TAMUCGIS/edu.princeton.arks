@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1663",
-  "uuid": "http://arks.princeton.edu/ark:/88435/8g84mp81b",
   "dc_description_s": "Ducato ouero territorio di Milano",
-  "georss_box_s": "45.3897787 9.0651182 45.535689 9.2903463",
   "layer_modified_dt": "2015-01-25T02:06:20Z",
   "dc_creator_sm": [
     "Blaeu, Joan,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-8g84mp81b",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/8g84mp81b/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/8g/84/mp/81/b/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "45.535689 9.0651182 45.535689 9.2903463 45.3897787 9.2903463 45.3897787 9.0651182 45.535689 9.0651182",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1663"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Milan (Italy : Province)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

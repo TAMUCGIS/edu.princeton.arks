@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1945",
-  "uuid": "http://arks.princeton.edu/ark:/88435/xg94hr33n",
   "dc_description_s": "Index to administrative units for Mito.",
-  "georss_box_s": "36.35000 140.43333 36.40000 140.53333",
   "layer_modified_dt": "2015-01-19T22:36:33Z",
   "layer_id_s": "xg94hr33n",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-xg94hr33n",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/xg94hr33n/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/xg/94/hr/33/n/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "36.40000 140.43333 36.40000 140.53333 36.35000 140.53333 36.35000 140.43333 36.40000 140.43333",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1945"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Japan"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

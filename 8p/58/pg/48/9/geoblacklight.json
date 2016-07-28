@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1885",
-  "uuid": "http://arks.princeton.edu/ark:/88435/8p58pg489",
   "dc_description_s": "A topographical map of Egg Harbor and vicinity including the Atlantic shore from Barnegat to Great Egg Harbor ; from original surveys and levelings based on the triangulation of the U.S. Coast and Geodetic Survey /",
-  "georss_box_s": "39.540837 -75.054844 40.184235 -74.38979",
   "layer_modified_dt": "2015-01-25T02:06:22Z",
   "dc_creator_sm": [
     "Cook, George Hammell,",
@@ -18,12 +16,14 @@
   "layer_slug_s": "princeton-8p58pg489",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/8p58pg489/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/8p/58/pg/48/9/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.184235 -75.054844 40.184235 -74.38979 39.540837 -74.38979 39.540837 -75.054844 40.184235 -75.054844",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1885"
   ],
   "solr_geom": "ENVELOPE(-75.054844, -74.38979, 40.184235, 39.540837)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

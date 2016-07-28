@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1941",
-  "uuid": "http://arks.princeton.edu/ark:/88435/8910jx12w",
   "dc_description_s": "East Indies",
-  "georss_box_s": "-11.2085668 94.7717124 6.2744496 141.0194444",
   "layer_modified_dt": "2015-01-25T02:06:23Z",
   "layer_id_s": "8910jx12w",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-8910jx12w",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/8910jx12w/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/89/10/jx/12/w/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "6.2744496 94.7717124 6.2744496 141.0194444 -11.2085668 141.0194444 -11.2085668 94.7717124 6.2744496 94.7717124",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1941"
@@ -23,5 +20,6 @@
     "Indonesia",
     "Malay Archipelago",
     "Philippines"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1827",
-  "uuid": "http://arks.princeton.edu/ark:/88435/jq085n35f",
-  "dc_description_s": "Hai\u0308ti ou St. Domingue",
-  "georss_box_s": "18.0 -75.6666666667 24.0 -67.6666666667",
+  "dc_description_s": "Haïti ou St. Domingue",
   "layer_modified_dt": "2015-01-19T22:37:03Z",
   "dc_creator_sm": [
     "Vandermaelen, Philippe, 1795-1869."
@@ -11,11 +9,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "jq085n35f",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Hai\u0308ti ou St. Domingue",
+  "dc_title_s": "Haïti ou St. Domingue",
   "layer_slug_s": "princeton-jq085n35f",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/jq085n35f/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/jq/08/5n/35/f/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "24.0 -75.6666666667 24.0 -67.6666666667 18.0 -67.6666666667 18.0 -75.6666666667 24.0 -75.6666666667",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1827"
@@ -28,5 +25,6 @@
     "Haiti",
     "Hispaniola",
     "Santo Domingo"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

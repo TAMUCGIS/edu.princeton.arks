@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1852",
-  "uuid": "http://arks.princeton.edu/ark:/88435/k643b3627",
-  "dc_description_s": "U\u0308bersichts-Karte von Iran, oder West-Hochasien : zu C. Ritter's Erdkunde, Buch III, West-Asien, Theil VIII, IX",
-  "georss_box_s": "25.0 44.0 41.0 72.0",
+  "dc_description_s": "Übersichts-Karte von Iran, oder West-Hochasien : zu C. Ritter's Erdkunde, Buch III, West-Asien, Theil VIII, IX",
   "layer_modified_dt": "2015-01-19T22:37:18Z",
   "dc_creator_sm": [
     "Ritter, Carl,",
@@ -13,11 +11,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "k643b3627",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "U\u0308bersichts-Karte von Iran, oder West-Hochasien : zu C. Ritter's Erdkunde, Buch III, West-Asien, Theil VIII, IX",
+  "dc_title_s": "Übersichts-Karte von Iran, oder West-Hochasien : zu C. Ritter's Erdkunde, Buch III, West-Asien, Theil VIII, IX",
   "layer_slug_s": "princeton-k643b3627",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/k643b3627/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/k6/43/b3/62/7/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "41.0 44.0 41.0 72.0 25.0 72.0 25.0 44.0 41.0 44.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1852"
@@ -26,5 +23,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Iran"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

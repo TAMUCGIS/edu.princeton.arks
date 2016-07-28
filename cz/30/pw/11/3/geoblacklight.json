@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1590",
-  "uuid": "http://arks.princeton.edu/ark:/88435/cz30pw113",
   "dc_description_s": "Hispaniae veteris descriptio",
-  "georss_box_s": "36.2380667008 -9.5035614375 43.7923795 4.3277839",
   "layer_modified_dt": "2015-01-21T22:24:10Z",
   "dc_creator_sm": [
     "Ortelius, Abraham,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-cz30pw113",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/cz30pw113/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/cz/30/pw/11/3/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "43.7923795 -9.5035614375 43.7923795 4.3277839 36.2380667008 4.3277839 36.2380667008 -9.5035614375 43.7923795 -9.5035614375",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1590"
@@ -26,5 +23,6 @@
     "Iberian Peninsula",
     "Portugal",
     "Spain"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

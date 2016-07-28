@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1636",
-  "uuid": "http://arks.princeton.edu/ark:/88435/w95052950",
   "dc_description_s": "Macedonia, Epirus et Achaia",
-  "georss_box_s": "37.7807215 21.3506249 38.3411904 22.3780635",
   "layer_modified_dt": "2015-01-21T22:24:16Z",
   "dc_creator_sm": [
     "Mercator, Gerhard,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-w95052950",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/w95052950/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/w9/50/52/95/0/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "38.3411904 21.3506249 38.3411904 22.3780635 37.7807215 22.3780635 37.7807215 21.3506249 38.3411904 21.3506249",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1636"
@@ -26,5 +23,6 @@
     "Achaia (Greece)",
     "Epirus (Greece and Albania)",
     "Macedonia (Greece)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

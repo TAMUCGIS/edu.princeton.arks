@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(8.6192, 8.7090, 49.4667, 49.4367)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/6m311q70d\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/6m311q70d/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/6m311q70d",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Stadte-Verlag",
   "dc_type_s": "Image",
   "dc_identifier_s": "6m311q70d",
-  "georss_polygon_s": "49.4667 8.6192 49.4667 8.7090 49.4367 8.7090 49.4367 8.6192 49.4667 8.6192",
   "dc_publisher_s": "Stadte-Verlag",
   "solr_year_i": "1968",
   "dct_spatial_sm": [
@@ -27,9 +25,9 @@
     "Land Baden-Wuerttemberg"
   ],
   "layer_id_s": "6m311q70d",
-  "georss_box_s": "49.4367 8.6192 49.4667 8.7090",
   "dc_title_s": "Ortsplan Dossenheim, Kreis Heidelberg",
   "layer_slug_s": "princeton-6m311q70d",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1904",
-  "uuid": "http://arks.princeton.edu/ark:/88435/r207tr66k",
   "dc_description_s": "Yosemite National Park, showing changes in boundaries recommended by commission appointed pursuant to act of Congress : approved April 28, 1904",
-  "georss_box_s": "37.4948419 -119.8863376 38.1863499 -119.1995074",
   "layer_modified_dt": "2015-01-21T22:23:55Z",
   "layer_id_s": "r207tr66k",
   "dc_type_s": "Image",
@@ -12,12 +10,14 @@
   "layer_slug_s": "princeton-r207tr66k",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/r207tr66k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/r2/07/tr/66/k/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "38.1863499 -119.8863376 38.1863499 -119.1995074 37.4948419 -119.1995074 37.4948419 -119.8863376 38.1863499 -119.8863376",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1904"
   ],
   "solr_geom": "ENVELOPE(-119.8863376, -119.1995074, 38.1863499, 37.4948419)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-18.47, 19.08, 47.36, -47.26)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/mw22v722k\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/mw22v722k/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/mw22v722k",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -19,7 +18,6 @@
   "dc_creator_sm": "Budapest Municipal Information Office/ Szekesfovaros Hazinyomdaja",
   "dc_type_s": "Image",
   "dc_identifier_s": "mw22v722k",
-  "georss_polygon_s": "47.36 -18.47 47.36 19.08 -47.26 19.08 -47.26 -18.47 47.36 -18.47",
   "dc_publisher_s": "Budapest Municipal Information Office/ Szekesfovaros Hazinyomdaja",
   "solr_year_i": "1931",
   "dct_spatial_sm": [
@@ -27,9 +25,9 @@
     "Hungary"
   ],
   "layer_id_s": "mw22v722k",
-  "georss_box_s": "-47.26 -18.47 47.36 19.08",
   "dc_title_s": "Plan von Budapest, Haupt- und Residenzstadt Ungarns",
   "layer_slug_s": "princeton-mw22v722k",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

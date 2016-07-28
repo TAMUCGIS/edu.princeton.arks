@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1891",
-  "uuid": "http://arks.princeton.edu/ark:/88435/bg257h53p",
   "dc_description_s": "Rand, McNally & Co.'s indexed atlas of the world map of Europe",
-  "georss_box_s": "35.0 -25.0 75.0 65.0",
   "layer_modified_dt": "2015-01-23T17:48:36Z",
   "layer_id_s": "bg257h53p",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-bg257h53p",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/bg257h53p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/bg/25/7h/53/p/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "75.0 -25.0 75.0 65.0 35.0 65.0 35.0 -25.0 75.0 -25.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1891"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Europe"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

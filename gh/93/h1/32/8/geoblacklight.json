@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1626",
-  "uuid": "http://arks.princeton.edu/ark:/88435/gh93h1328",
   "dc_description_s": "The Turkish empire",
-  "georss_box_s": "35.8076804 25.6212891 42.297 44.8176638",
   "layer_modified_dt": "2015-01-21T22:23:42Z",
   "dc_creator_sm": [
     "Speed, John,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-gh93h1328",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/gh93h1328/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/gh/93/h1/32/8/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "42.297 25.6212891 42.297 44.8176638 35.8076804 44.8176638 35.8076804 25.6212891 42.297 25.6212891",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1626"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Turkey"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

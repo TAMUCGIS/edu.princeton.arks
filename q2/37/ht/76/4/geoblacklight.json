@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1945",
-  "uuid": "http://arks.princeton.edu/ark:/88435/q237ht764",
   "dc_description_s": "Carte geologique de la France a1/80,000; Avranches.",
-  "georss_box_s": "48.38140 -1.57920 48.74090 -0.70990",
   "layer_modified_dt": "2015-01-19T22:36:37Z",
   "dc_creator_sm": [
     "Jacquot, Mr.",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-q237ht764",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/q237ht764/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/q2/37/ht/76/4/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "48.74090 -1.57920 48.74090 -0.70990 48.38140 -0.70990 48.38140 -1.57920 48.74090 -1.57920",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1945"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "France"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

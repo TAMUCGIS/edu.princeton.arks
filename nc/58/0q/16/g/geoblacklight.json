@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1914",
-  "uuid": "http://arks.princeton.edu/ark:/88435/nc580q16g",
   "dc_description_s": "The Mexican situation",
-  "georss_box_s": "14.0 -117.0 34.0 -86.0",
   "layer_modified_dt": "2015-01-19T22:37:35Z",
   "layer_id_s": "nc580q16g",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-nc580q16g",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/nc580q16g/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/nc/58/0q/16/g/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "34.0 -117.0 34.0 -86.0 14.0 -86.0 14.0 -117.0 34.0 -117.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1914"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Mexico",
     "Mexico"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

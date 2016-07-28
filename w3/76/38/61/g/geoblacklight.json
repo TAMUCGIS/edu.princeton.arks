@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1753",
-  "uuid": "http://arks.princeton.edu/ark:/88435/w3763861g",
-  "dc_description_s": "Tabula geographica hemisph\u00e6rii australis ad emendatiora qu\u00e6 adhuc prodierunt exempla /",
-  "georss_box_s": "-90 -180 0 180",
+  "dc_description_s": "Tabula geographica hemisphærii australis ad emendatiora quæ adhuc prodierunt exempla /",
   "layer_modified_dt": "2015-01-21T22:23:45Z",
   "dc_creator_sm": [
     "Euler, Leonhard,"
@@ -11,11 +9,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "w3763861g",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Tabula geographica hemisph\u00e6rii australis ad emendatiora qu\u00e6 adhuc prodierunt exempla /",
+  "dc_title_s": "Tabula geographica hemisphærii australis ad emendatiora quæ adhuc prodierunt exempla /",
   "layer_slug_s": "princeton-w3763861g",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/w3763861g/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/w3/76/38/61/g/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "0 -180 0 180 -90 180 -90 -180 0 -180",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1753"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Southern Hemisphere"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

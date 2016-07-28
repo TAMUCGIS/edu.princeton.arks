@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-74.75, -74.6, 40.25, 40.15)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/cz30pv093/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/cz/30/pv/09/3/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/cz30pv093/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/cz30pv093",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Administrational and Political Boundaries",
@@ -17,7 +16,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "cz30pv093",
-  "georss_polygon_s": "40.25 -74.75 40.25 -74.6 40.15 -74.6 40.15 -74.75 40.25 -74.75",
   "dc_publisher_s": "Sanborn Map Company",
   "solr_year_i": "1925",
   "dct_spatial_sm": [
@@ -27,9 +25,9 @@
     "United States"
   ],
   "layer_id_s": "cz30pv093",
-  "georss_box_s": "40.15 -74.75 40.25 -74.6",
   "dc_title_s": "Hightstown (Sheet 7), Mercer County, New Jersey [1925]",
   "dct_issued_s": "1925",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

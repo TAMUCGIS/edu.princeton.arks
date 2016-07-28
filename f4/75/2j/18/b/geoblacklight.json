@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(8.4662, 8.8013, 50.2274, 50.0179)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/f4752j18b\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/f4752j18b/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/f4752j18b",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -19,7 +18,6 @@
   "dc_creator_sm": "Ravensteins Geographische Verlagsanstalt und Druckerei",
   "dc_type_s": "Image",
   "dc_identifier_s": "f4752j18b",
-  "georss_polygon_s": "50.2274 8.4662 50.2274 8.8013 50.0179 8.8013 50.0179 8.4662 50.2274 8.4662",
   "dc_publisher_s": "Ravensteins Geographische Verlagsanstalt und Druckerei",
   "solr_year_i": "1954",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "Land Hessen"
   ],
   "layer_id_s": "f4752j18b",
-  "georss_box_s": "50.0179 8.4662 50.2274 8.8013",
   "dc_title_s": "Ravensteins Verkehrsplan von Frankfurt/Main",
   "layer_slug_s": "princeton-f4752j18b",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

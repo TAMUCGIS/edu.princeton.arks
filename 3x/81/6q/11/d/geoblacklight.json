@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1805",
-  "uuid": "http://arks.princeton.edu/ark:/88435/3x816q11d",
   "dc_description_s": "A map of Lincolnshire : from the best authorities",
-  "georss_box_s": "52.6402179 -0.8206512 53.6163635 0.3579553",
   "layer_modified_dt": "2015-01-21T22:24:18Z",
   "dc_creator_sm": [
     "Cary, John,",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-3x816q11d",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/3x816q11d/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/3x/81/6q/11/d/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "53.6163635 -0.8206512 53.6163635 0.3579553 52.6402179 0.3579553 52.6402179 -0.8206512 53.6163635 -0.8206512",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1805"
@@ -26,5 +23,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Lincolnshire (England)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

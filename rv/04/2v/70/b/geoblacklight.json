@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(7.5894, 7.6572, 50.325299, 50.2653)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/rv042v70b\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/rv042v70b/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/rv042v70b",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Stadte-Verlag",
   "dc_type_s": "Image",
   "dc_identifier_s": "rv042v70b",
-  "georss_polygon_s": "50.325299 7.5894 50.325299 7.6572 50.2653 7.6572 50.2653 7.5894 50.325299 7.5894",
   "dc_publisher_s": "Stadte-Verlag",
   "solr_year_i": "1969",
   "dct_spatial_sm": [
@@ -31,9 +29,9 @@
     "Braubach"
   ],
   "layer_id_s": "rv042v70b",
-  "georss_box_s": "50.2653 7.5894 50.325299 7.6572",
-  "dc_title_s": "St\u00e4dteplan Niederlahnstein, Oberlahnstein, Braubach",
+  "dc_title_s": "Städteplan Niederlahnstein, Oberlahnstein, Braubach",
   "layer_slug_s": "princeton-rv042v70b",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-79.5, -79.25, 42, 41.75)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/g445cf65m/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/g4/45/cf/65/m/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/g445cf65m/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/g445cf65m",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "historical maps",
@@ -20,7 +19,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "g445cf65m",
-  "georss_polygon_s": "42 -79.5 42 -79.25 41.75 -79.25 41.75 -79.5 42 -79.5",
   "dc_publisher_s": "US Geological Survey",
   "solr_year_i": "1929",
   "dct_spatial_sm": [
@@ -32,9 +30,9 @@
     "United States"
   ],
   "layer_id_s": "g445cf65m",
-  "georss_box_s": "41.75 -79.5 42 -79.25",
   "dc_title_s": "Pennsylvania-New York: Youngsville Quadrangle, 1929",
   "dct_issued_s": "1929",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

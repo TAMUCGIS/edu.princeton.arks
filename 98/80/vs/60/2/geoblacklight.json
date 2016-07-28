@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(120.869017, 121.903292, 31.836750, 30.708013)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/9880vs602/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/9880vs602/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/9880vs602/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/9880vs602",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Facilities and structures",
@@ -18,7 +17,6 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "9880vs602",
-  "georss_polygon_s": "31.836750 120.869017 31.836750 121.903292 30.708013 121.903292 30.708013 120.869017 31.836750 120.869017",
   "dc_publisher_s": "LeadDog Consulting, LLC",
   "solr_year_i": "2006",
   "dct_spatial_sm": [
@@ -26,9 +24,9 @@
     "China"
   ],
   "layer_id_s": "pulmap-restricted:9880vs602",
-  "georss_box_s": "30.708013 120.869017 31.836750 121.903292",
   "dc_title_s": "Shanghai secondary localities",
   "layer_slug_s": "princeton-9880vs602",
   "layer_geom_type_s": "Point",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

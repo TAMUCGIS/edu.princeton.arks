@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1674",
-  "uuid": "http://arks.princeton.edu/ark:/88435/qf85nd15d",
   "dc_description_s": "Geographische Beschreibung der Landschafften, welche die Apostel und sonderlich Paulus durchraist, und durch die Predigt dess Evangelii zum Christischen Glauben befehret /",
-  "georss_box_s": "35.8076804 29.0876878 38.5861136 37.7518928",
   "layer_modified_dt": "2015-01-21T22:23:46Z",
   "layer_id_s": "qf85nd15d",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-qf85nd15d",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/qf85nd15d/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/qf/85/nd/15/d/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "38.5861136 29.0876878 38.5861136 37.7518928 35.8076804 37.7518928 35.8076804 29.0876878 38.5861136 29.0876878",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1674"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Mediterranean Region"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

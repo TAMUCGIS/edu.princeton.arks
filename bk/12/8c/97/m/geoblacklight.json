@@ -1,18 +1,15 @@
 {
   "solr_year_i": "1860",
-  "uuid": "http://arks.princeton.edu/ark:/88435/bk128c97m",
-  "dc_description_s": "Neueste Karte von New Jersey : mit seinen Strassen, Entfernung, der Hauptpunkte u. Routen fu\u0308r Dampfschiffe, nach den bessten Quellen verbessert, 1846",
-  "georss_box_s": "38.9166666667 -75.55 41.3666666667 -73.8666666667",
+  "dc_description_s": "Neueste Karte von New Jersey : mit seinen Strassen, Entfernung, der Hauptpunkte u. Routen für Dampfschiffe, nach den bessten Quellen verbessert, 1846",
   "layer_modified_dt": "2015-01-19T22:36:58Z",
   "layer_id_s": "bk128c97m",
   "dc_type_s": "Image",
   "dc_identifier_s": "bk128c97m",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Neueste Karte von New Jersey : mit seinen Strassen, Entfernung, der Hauptpunkte u. Routen fu\u0308r Dampfschiffe, nach den bessten Quellen verbessert, 1846",
+  "dc_title_s": "Neueste Karte von New Jersey : mit seinen Strassen, Entfernung, der Hauptpunkte u. Routen für Dampfschiffe, nach den bessten Quellen verbessert, 1846",
   "layer_slug_s": "princeton-bk128c97m",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/bk128c97m/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/bk/12/8c/97/m/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "41.3666666667 -75.55 41.3666666667 -73.8666666667 38.9166666667 -73.8666666667 38.9166666667 -75.55 41.3666666667 -75.55",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1860"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "New Jersey"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

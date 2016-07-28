@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-74.70, -74.65, 40.366, 40.33)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/bk128c44x/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/bk/12/8c/44/x/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/bk128c44x/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/bk128c44x",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Aerial photograph",
@@ -20,16 +19,15 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "bk128c44x",
-  "georss_polygon_s": "40.366 -74.70 40.366 -74.65 40.33 -74.65 40.33 -74.70 40.366 -74.70",
   "dc_publisher_s": "NJDEP Bureau of Tidelands Management",
   "dct_spatial_sm": [
     "Princeton",
     "Mercer county"
   ],
   "layer_id_s": "bk128c44x",
-  "georss_box_s": "40.33 -74.70 40.366 -74.65",
   "dc_title_s": "1951 Mercer County Aerial Photograph (289-1624) ",
   "dct_issued_s": "March 27, 1951",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

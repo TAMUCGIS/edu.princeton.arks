@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-74.4763, -74.4705, 39.4506, 39.4468)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/3r074w494/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/3r/07/4w/49/4/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/3r074w494/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/3r074w494",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
@@ -18,7 +17,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "3r074w494",
-  "georss_polygon_s": "39.4506 -74.4763 39.4506 -74.4705 39.4468 -74.4705 39.4468 -74.4763 39.4506 -74.4763",
   "dc_publisher_s": "Sanborn Map Company",
   "solr_year_i": "1931",
   "dct_spatial_sm": [
@@ -28,9 +26,9 @@
     "United States"
   ],
   "layer_id_s": "3r074w494",
-  "georss_box_s": "39.4468 -74.4763 39.4506 -74.4705",
   "dc_title_s": "Absecon, Atlantic County, New Jersey (Sheet 8)",
   "dct_issued_s": "1931",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

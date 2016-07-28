@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1927",
-  "uuid": "http://arks.princeton.edu/ark:/88435/w3763859w",
   "dc_description_s": "Pennsylvania: Mifflinburg Quadrangle. 15-minute series",
-  "georss_box_s": "40.75000 -77.25000 41.00000 -77.00000",
   "layer_modified_dt": "2015-01-19T22:36:39Z",
   "dc_creator_sm": [
     "Thompson, W. C.",
@@ -17,11 +15,11 @@
   "layer_slug_s": "princeton-w3763859w",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/w3763859w/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/w3/76/38/59/w/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "41.00000 -77.25000 41.00000 -77.00000 40.75000 -77.00000 40.75000 -77.25000 41.00000 -77.25000",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1927"
   ],
   "solr_geom": "ENVELOPE(-77.25000, -77.00000, 41.00000, 40.75000)",
-  "dc_rights_s": "Public"
+  "dc_rights_s": "Public",
+  "geoblacklight_version": "1.0"
 }

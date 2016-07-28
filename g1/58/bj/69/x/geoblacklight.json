@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-76.75, -76.5, 43, 42.75)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/g158bj69x/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/g1/58/bj/69/x/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/g158bj69x/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/g158bj69x",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "historical maps",
@@ -20,7 +19,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "g158bj69x",
-  "georss_polygon_s": "43 -76.75 43 -76.5 42.75 -76.5 42.75 -76.75 43 -76.75",
   "dc_publisher_s": "US Geological Survey",
   "dct_spatial_sm": [
     "New York",
@@ -28,9 +26,9 @@
     "Auburn"
   ],
   "layer_id_s": "g158bj69x",
-  "georss_box_s": "42.75 -76.75 43 -76.5",
   "dc_title_s": "New York: Auburn Quadrangle.",
   "dct_issued_s": "April 1902",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(120.3167, 120.3333, 16.0667, 16.0500)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/g732db68p/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/g7/32/db/68/p/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/g732db68p/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/g732db68p",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
@@ -23,7 +22,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "g732db68p",
-  "georss_polygon_s": "16.0667 120.3167 16.0667 120.3333 16.0500 120.3333 16.0500 120.3167 16.0667 120.3167",
   "dc_publisher_s": "Army Map Service",
   "solr_year_i": "1944",
   "dct_spatial_sm": [
@@ -31,9 +29,9 @@
     "Philippines"
   ],
   "layer_id_s": "g732db68p",
-  "georss_box_s": "16.0500 120.3167 16.0667 120.3333",
   "dc_title_s": "Dagupan, Philippine Islands, Pangasinan Province. A.M.S. S901.",
   "dct_issued_s": "1944",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

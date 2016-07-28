@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1841",
-  "uuid": "http://arks.princeton.edu/ark:/88435/j6731614g",
-  "dc_description_s": "De\u0301partement de la Seine : environs de Paris",
-  "georss_box_s": "48.8155755 2.224122 48.902156 2.4697602",
+  "dc_description_s": "Département de la Seine : environs de Paris",
   "layer_modified_dt": "2015-01-21T22:23:59Z",
   "dc_creator_sm": [
     "Malo, Abel.",
@@ -14,11 +12,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "j6731614g",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "De\u0301partement de la Seine : environs de Paris",
+  "dc_title_s": "Département de la Seine : environs de Paris",
   "layer_slug_s": "princeton-j6731614g",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/j6731614g/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/j6/73/16/14/g/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "48.902156 2.224122 48.902156 2.4697602 48.8155755 2.4697602 48.8155755 2.224122 48.902156 2.224122",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1841"
@@ -28,5 +25,6 @@
   "dct_spatial_sm": [
     "Paris (France)",
     "Seine (France)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

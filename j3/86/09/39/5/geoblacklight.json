@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1861",
-  "uuid": "http://arks.princeton.edu/ark:/88435/j38609395",
   "dc_description_s": "The Army of liberty",
-  "georss_box_s": "-14.7608357 -179.9999999 71.6048217 180",
   "layer_modified_dt": "2015-01-21T22:24:05Z",
   "layer_id_s": "j38609395",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-j38609395",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/j38609395/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/j3/86/09/39/5/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "71.6048217 -179.9999999 71.6048217 180 -14.7608357 180 -14.7608357 -179.9999999 71.6048217 -179.9999999",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1861"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "United States",
     "United States"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

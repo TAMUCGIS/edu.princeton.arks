@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1680",
-  "uuid": "http://arks.princeton.edu/ark:/88435/d791sj64f",
   "dc_description_s": "Tabula comitatus Frisiae",
-  "georss_box_s": "52.8333333333 5.25 53.3333333333 6.25",
   "layer_modified_dt": "2015-01-19T22:37:19Z",
   "dc_creator_sm": [
     "Wit, Frederik de."
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-d791sj64f",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/d791sj64f/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/d7/91/sj/64/f/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "53.3333333333 5.25 53.3333333333 6.25 52.8333333333 6.25 52.8333333333 5.25 53.3333333333 5.25",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1680"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Friesland (Netherlands)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

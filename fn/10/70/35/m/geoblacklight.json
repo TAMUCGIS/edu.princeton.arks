@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(6.078722, 9.658534, 47.715805, 45.992669)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/fn107035m/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/fn107035m/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/fn107035m/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/fn107035m",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Cities",
@@ -21,16 +20,15 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "fn107035m",
-  "georss_polygon_s": "47.715805 6.078722 47.715805 9.658534 45.992669 9.658534 45.992669 6.078722 47.715805 6.078722",
   "dc_publisher_s": "Gfk MACON Company",
   "solr_year_i": "2006",
   "dct_spatial_sm": [
     "Switzerland"
   ],
   "layer_id_s": "pulmap-restricted:fn107035m",
-  "georss_box_s": "45.992669 6.078722 47.715805 9.658534",
   "dc_title_s": "Switzerland Major City Areas, 2006",
   "layer_slug_s": "princeton-fn107035m",
   "layer_geom_type_s": "Polygon",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

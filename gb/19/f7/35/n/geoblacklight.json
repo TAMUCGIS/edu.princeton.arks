@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(12.061501, 12.2235, 50.5749, 50.4325)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/gb19f735n\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/gb19f735n/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/gb19f735n",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "VEB Landkartenverlag",
   "dc_type_s": "Image",
   "dc_identifier_s": "gb19f735n",
-  "georss_polygon_s": "50.5749 12.061501 50.5749 12.2235 50.4325 12.2235 50.4325 12.061501 50.5749 12.061501",
   "dc_publisher_s": "VEB Landkartenverlag",
   "solr_year_i": "1965",
   "dct_spatial_sm": [
@@ -27,9 +25,9 @@
     "Sachsen Freistaat"
   ],
   "layer_id_s": "gb19f735n",
-  "georss_box_s": "50.4325 12.061501 50.5749 12.2235",
   "dc_title_s": "Plauen im Vogtland",
   "layer_slug_s": "princeton-gb19f735n",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

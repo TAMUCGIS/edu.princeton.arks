@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1901",
-  "uuid": "http://arks.princeton.edu/ark:/88435/tb09j818v",
   "dc_description_s": "Karte von Ost-China",
-  "georss_box_s": "3.966232 73.4997347 53.5608154 134.7754563",
   "layer_modified_dt": "2015-01-25T02:06:18Z",
   "layer_id_s": "tb09j818v",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-tb09j818v",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/tb09j818v/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/tb/09/j8/18/v/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "53.5608154 73.4997347 53.5608154 134.7754563 3.966232 134.7754563 3.966232 73.4997347 53.5608154 73.4997347",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1901"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "China",
     "Korea"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

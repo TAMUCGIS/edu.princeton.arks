@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1876",
-  "uuid": "http://arks.princeton.edu/ark:/88435/pk02cd185",
   "dc_description_s": "Map showing the lines of communication between Southern Colorado and Northern New Mexico",
-  "georss_box_s": "35.0 -109.0 38.5 -104.0",
   "layer_modified_dt": "2015-01-19T22:37:14Z",
   "dc_creator_sm": [
     "Hunnius, Ado."
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-pk02cd185",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/pk02cd185/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/pk/02/cd/18/5/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "38.5 -109.0 38.5 -104.0 35.0 -104.0 35.0 -109.0 38.5 -109.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1876"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "Colorado",
     "New Mexico"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

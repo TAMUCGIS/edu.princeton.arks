@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(17.9667, 18.0667, 45.200, 45.1167)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/xp68kh62g/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/xp/68/kh/62/g/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/xp68kh62g/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/xp68kh62g",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
@@ -22,7 +21,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "xp68kh62g",
-  "georss_polygon_s": "45.200 17.9667 45.200 18.0667 45.1167 18.0667 45.1167 17.9667 45.200 17.9667",
   "dc_publisher_s": "Defense Mapping Agency",
   "solr_year_i": "1996",
   "dct_spatial_sm": [
@@ -33,9 +31,9 @@
     "Croatia"
   ],
   "layer_id_s": "xp68kh62g",
-  "georss_box_s": "45.1167 17.9667 45.200 18.0667",
   "dc_title_s": "Croatia city graphic 1:12,000. Slavonski Brod. Series M903. ",
   "dct_issued_s": "1996",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

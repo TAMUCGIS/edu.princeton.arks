@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(77.000, 77.4333, 28.7167, 28.3500)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/zs25x9999\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/zs25x9999/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/zs25x9999",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "City plan",
@@ -15,7 +14,6 @@
   "dc_creator_sm": "White, Francis Sellon",
   "dc_type_s": "Image",
   "dc_identifier_s": "zs25x9999",
-  "georss_polygon_s": "28.7167 77.000 28.7167 77.4333 28.3500 77.4333 28.3500 77.000 28.7167 77.000",
   "dc_publisher_s": "Survey of India",
   "solr_year_i": "1807",
   "dct_spatial_sm": [
@@ -26,9 +24,9 @@
     "MAX  G7654.D5.1807.S9I5"
   ],
   "layer_id_s": "zs25x9999",
-  "georss_box_s": "28.3500 77.000 28.7167 77.4333",
   "dc_title_s": "Dilli ke nikatavarti kshetra ka rekhacitra, lagabhaga 1807 = Sketch of the environs of Delhi, circa 1807.",
   "layer_slug_s": "princeton-zs25x9999",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

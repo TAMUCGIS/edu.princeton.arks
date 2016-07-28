@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-74.255273, -74.218485, 40.7898, 40.75199)",
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/x6/33/f3/02/s/00000001.jp2/info.json\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/x633f302s",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
@@ -21,7 +20,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "x633f302s",
-  "georss_polygon_s": "40.7898 -74.255273 40.7898 -74.218485 40.75199 -74.218485 40.75199 -74.255273 40.7898 -74.255273",
   "dc_publisher_s": "New York: Sanborn Map Company",
   "solr_year_i": "1912",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "Orange"
   ],
   "layer_id_s": "x633f302s",
-  "georss_box_s": "40.75199 -74.255273 40.7898 -74.218485",
   "dc_title_s": "Orange (Sheet 115).",
   "layer_slug_s": "princeton-x633f302s",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

@@ -1,5 +1,4 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/qn59q552q",
   "dc_creator_sm": "NASA",
   "dc_description_s": "MODIS NDVI data was extracted from MODIS product type MOD13Q1. MODIS/Terra Vegetation Indices 16-Day L3 Global 250m covers Central Kenya. Data was caputred on 2008-02-02.",
   "dc_format_s": "GeoTIFF",
@@ -25,11 +24,10 @@
   ],
   "dct_issued_s": "2008-02-02",
   "dct_provenance_s": "Princeton",
-  "georss_box_s": "0.002671 29.824968 10.169614 40.573547",
-  "georss_polygon_s": "10.169614 29.824968 10.169614 40.573547 0.002671 40.573547 0.002671 29.824968 10.169614 29.824968",
   "layer_slug_s": "princeton-qn59q552q",
   "layer_id_s": "qn59q552q",
   "layer_modified_dt": "2015-01-11T18:57:43Z",
   "layer_geom_type_s": "Raster",
-  "solr_geom": "ENVELOPE(29.824968, 40.573547, 10.169614, 0.002671)"
+  "solr_geom": "ENVELOPE(29.824968, 40.573547, 10.169614, 0.002671)",
+  "geoblacklight_version": "1.0"
 }

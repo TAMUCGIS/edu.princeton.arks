@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1794",
-  "uuid": "http://arks.princeton.edu/ark:/88435/kd17cv99j",
   "dc_description_s": "Plan of the bay and harbour of Rio-Janeiro on the coast of Brazil",
-  "georss_box_s": "-23.0764256 -43.7938879 -22.7460328 -43.0969042",
   "layer_modified_dt": "2015-01-21T22:23:54Z",
   "dc_creator_sm": [
     "Hall, Sampson.",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-kd17cv99j",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/kd17cv99j/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/kd/17/cv/99/j/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "-22.7460328 -43.7938879 -22.7460328 -43.0969042 -23.0764256 -43.0969042 -23.0764256 -43.7938879 -22.7460328 -43.7938879",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1794"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Rio de Janeiro (Brazil)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-75.1244, -75.119, 39.9029, 39.8987)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/gh93h121b/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/gh/93/h1/21/b/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/gh93h121b/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/gh93h121b",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "gh93h121b",
-  "georss_polygon_s": "39.9029 -75.1244 39.9029 -75.119 39.8987 -75.119 39.8987 -75.1244 39.9029 -75.1244",
   "dc_publisher_s": "Sanborn Map Company",
   "solr_year_i": "1915",
   "dct_spatial_sm": [
@@ -28,9 +26,9 @@
     "United States"
   ],
   "layer_id_s": "gh93h121b",
-  "georss_box_s": "39.8987 -75.1244 39.9029 -75.119",
   "dc_title_s": "Insurance maps of Gloucester City, Camden Co., NJ (Sheet 4)",
   "dct_issued_s": "1915",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

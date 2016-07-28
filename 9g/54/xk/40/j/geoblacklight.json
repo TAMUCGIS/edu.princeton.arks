@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(15.875044, 16.029010, -17.389708, -17.463875)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/9g54xk40j\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/9g54xk40j/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/9g54xk40j",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Aerial photograph",
@@ -15,7 +14,6 @@
   "dc_creator_sm": "Prof. Kreike, History Department, Princeton University",
   "dc_type_s": "Image",
   "dc_identifier_s": "9g54xk40j",
-  "georss_polygon_s": "-17.389708 15.875044 -17.389708 16.029010 -17.463875 16.029010 -17.463875 15.875044 -17.389708 15.875044",
   "solr_year_i": "1943",
   "dct_spatial_sm": [
     "Oshikango",
@@ -24,9 +22,9 @@
     "Namibia"
   ],
   "layer_id_s": "9g54xk40j",
-  "georss_box_s": "-17.463875 15.875044 -17.389708 16.029010",
   "dc_title_s": "1943 aerial photographs of area near Oshikango and Edundja",
   "layer_slug_s": "princeton-9g54xk40j",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

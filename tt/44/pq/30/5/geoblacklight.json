@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1757",
-  "uuid": "http://arks.princeton.edu/ark:/88435/tt44pq305",
   "dc_description_s": "A new and accurate map of Paraguay, Rio de la Plata, Tucumania Guaria &c.",
-  "georss_box_s": "-27.6012696 -62.6442035 -19.2876463 -54.2579999",
   "layer_modified_dt": "2015-01-21T22:24:05Z",
   "layer_id_s": "tt44pq305",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-tt44pq305",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/tt44pq305/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/tt/44/pq/30/5/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "-19.2876463 -62.6442035 -19.2876463 -54.2579999 -27.6012696 -54.2579999 -27.6012696 -62.6442035 -19.2876463 -62.6442035",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1757"
@@ -23,5 +20,6 @@
     "Paraguay",
     "Rio de la Plata Region (Argentina and Uraguay)",
     "South America"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

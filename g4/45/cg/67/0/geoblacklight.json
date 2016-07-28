@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1850",
-  "uuid": "http://arks.princeton.edu/ark:/88435/g445cg670",
   "dc_description_s": "[General chart of the coast from Gay Head to Cape Henlopen]",
-  "georss_box_s": "24.4510460732 -88.4357686625 47.7071655681 -66.959079725",
   "layer_modified_dt": "2015-01-21T22:24:29Z",
   "layer_id_s": "g445cg670",
   "dc_type_s": "Image",
@@ -12,12 +10,14 @@
   "layer_slug_s": "princeton-g445cg670",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/g445cg670/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/g4/45/cg/67/0/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "47.7071655681 -88.4357686625 47.7071655681 -66.959079725 24.4510460732 -66.959079725 24.4510460732 -88.4357686625 47.7071655681 -88.4357686625",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1850"
   ],
   "solr_geom": "ENVELOPE(-88.4357686625, -66.959079725, 47.7071655681, 24.4510460732)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

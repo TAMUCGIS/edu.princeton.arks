@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-74.625, -74.50, 39.875, 39.750)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/wp988m226/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/wp/98/8m/22/6/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/wp988m226/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/wp988m226",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Topographic map",
@@ -20,7 +19,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "wp988m226",
-  "georss_polygon_s": "39.875 -74.625 39.875 -74.50 39.750 -74.50 39.750 -74.625 39.875 -74.625",
   "dc_publisher_s": "United States Geological Survey",
   "solr_year_i": "1957",
   "dct_spatial_sm": [
@@ -31,9 +29,9 @@
     "New Jersey"
   ],
   "layer_id_s": "wp988m226",
-  "georss_box_s": "39.750 -74.625 39.875 -74.50",
   "dc_title_s": "Chatsworth Quadrangle, New Jersey, 7.5 minute series (topographic) ",
   "dct_issued_s": "1957",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-80.5, -80.25, 40.25, 40)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/st74cs187/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/st/74/cs/18/7/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/st74cs187/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/st74cs187",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "historical maps",
@@ -20,7 +19,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "st74cs187",
-  "georss_polygon_s": "40.25 -80.5 40.25 -80.25 40 -80.25 40 -80.5 40.25 -80.5",
   "dc_publisher_s": "US Geological Survey",
   "dct_spatial_sm": [
     "Claysville",
@@ -30,9 +28,9 @@
     "United States"
   ],
   "layer_id_s": "st74cs187",
-  "georss_box_s": "40 -80.5 40.25 -80.25",
   "dc_title_s": "Pennsylvania: Claysville Quadrangle, 1945 reprint",
   "dct_issued_s": "April 1907",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

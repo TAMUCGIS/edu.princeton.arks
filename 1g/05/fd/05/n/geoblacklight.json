@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(6.5845, 6.7194, 46.6022, 46.5045)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/1g05fd05n\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/1g05fd05n/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/1g05fd05n",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Roth & Sauter",
   "dc_type_s": "Image",
   "dc_identifier_s": "1g05fd05n",
-  "georss_polygon_s": "46.6022 6.5845 46.6022 6.7194 46.5045 6.7194 46.5045 6.5845 46.6022 6.5845",
   "dc_publisher_s": "Roth & Sauter",
   "solr_year_i": "1939",
   "dct_spatial_sm": [
@@ -28,9 +26,9 @@
     "Schweizerische Eidgenossenschaft"
   ],
   "layer_id_s": "1g05fd05n",
-  "georss_box_s": "46.5045 6.5845 46.6022 6.7194",
   "dc_title_s": "Lausanne, Ouchy plan de ville",
   "layer_slug_s": "princeton-1g05fd05n",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

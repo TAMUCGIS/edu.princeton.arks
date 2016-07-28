@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(11.7269, 13.2898, 42.2981, 41.4195)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/8910jw32c\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/8910jw32c/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/8910jw32c",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -20,7 +19,6 @@
   "dc_creator_sm": "Mauro Gigli - Casa della Stampa",
   "dc_type_s": "Image",
   "dc_identifier_s": "8910jw32c",
-  "georss_polygon_s": "42.2981 11.7269 42.2981 13.2898 41.4195 13.2898 41.4195 11.7269 42.2981 11.7269",
   "dc_publisher_s": "Mauro Gigli - Casa della Stampa",
   "dct_spatial_sm": [
     "Rome",
@@ -30,9 +28,9 @@
     "Roma Prov."
   ],
   "layer_id_s": "8910jw32c",
-  "georss_box_s": "41.4195 11.7269 42.2981 13.2898",
   "dc_title_s": "Pianta monumentale di Roma",
   "layer_slug_s": "princeton-8910jw32c",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

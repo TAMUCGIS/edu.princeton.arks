@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(9.0664, 9.2764, 45.5367, 45.3927)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/ks65hd659\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/ks65hd659/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/ks65hd659",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Falk-Verlag",
   "dc_type_s": "Image",
   "dc_identifier_s": "ks65hd659",
-  "georss_polygon_s": "45.5367 9.0664 45.5367 9.2764 45.3927 9.2764 45.3927 9.0664 45.5367 9.0664",
   "dc_publisher_s": "Falk-Verlag",
   "solr_year_i": "1970",
   "dct_spatial_sm": [
@@ -31,9 +29,9 @@
     "Lombardy"
   ],
   "layer_id_s": "ks65hd659",
-  "georss_box_s": "45.3927 9.0664 45.5367 9.2764",
   "dc_title_s": "Milano",
   "layer_slug_s": "princeton-ks65hd659",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

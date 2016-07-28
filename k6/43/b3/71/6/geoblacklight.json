@@ -1,7 +1,5 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/k643b3716",
   "dc_description_s": "Map of the Solomon Islands",
-  "georss_box_s": "-12.883333 155.516667 -5.166667 170.2",
   "layer_modified_dt": "2015-01-25T02:06:22Z",
   "layer_id_s": "k643b3716",
   "dc_type_s": "Image",
@@ -11,11 +9,11 @@
   "layer_slug_s": "princeton-k643b3716",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/k643b3716/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/k6/43/b3/71/6/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "-5.166667 155.516667 -5.166667 170.2 -12.883333 170.2 -12.883333 155.516667 -5.166667 155.516667",
   "layer_geom_type_s": "Image",
   "solr_geom": "ENVELOPE(155.516667, 170.2, -5.166667, -12.883333)",
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Solomon Islands"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

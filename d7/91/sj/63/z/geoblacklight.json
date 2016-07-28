@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1914",
-  "uuid": "http://arks.princeton.edu/ark:/88435/d791sj63z",
   "dc_description_s": "Telephone lines used by Dirkzwager's Ship Agency in connection with those of Holland-Belgium, France and Germany",
-  "georss_box_s": "49.4969821 2.3889137 51.5516667 6.4080405",
   "layer_modified_dt": "2015-01-21T22:24:09Z",
   "layer_id_s": "d791sj63z",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-d791sj63z",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/d791sj63z/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/d7/91/sj/63/z/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.5516667 2.3889137 51.5516667 6.4080405 49.4969821 6.4080405 49.4969821 2.3889137 51.5516667 2.3889137",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1914"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Belgium",
     "Netherlands"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,18 +1,15 @@
 {
   "solr_year_i": "1935",
-  "uuid": "http://arks.princeton.edu/ark:/88435/5m60qv42m",
-  "dc_description_s": "Mapa de los estados unidos de Me\u0301jico",
-  "georss_box_s": "14.0 -125.0 44.0 -76.0",
+  "dc_description_s": "Mapa de los estados unidos de Méjico",
   "layer_modified_dt": "2015-01-19T22:37:35Z",
   "layer_id_s": "5m60qv42m",
   "dc_type_s": "Image",
   "dc_identifier_s": "5m60qv42m",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Mapa de los estados unidos de Me\u0301jico",
+  "dc_title_s": "Mapa de los estados unidos de Méjico",
   "layer_slug_s": "princeton-5m60qv42m",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/5m60qv42m/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/5m/60/qv/42/m/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "44.0 -125.0 44.0 -76.0 14.0 -76.0 14.0 -125.0 44.0 -125.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1935"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Mexico"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

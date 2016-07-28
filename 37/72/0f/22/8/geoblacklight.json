@@ -1,8 +1,6 @@
 {
   "layer_modified_dt": "2014-12-19T16:18:36Z",
-  "uuid": "http://arks.princeton.edu/ark:/88435/37720f228",
   "dc_description_s": "Points representing palaces in Cairo.",
-  "georss_box_s": "29.847062 31.188004 30.164902 31.364557",
   "layer_slug_s": "princeton-37720f228",
   "dct_spatial_sm": [
     "Egypt",
@@ -12,7 +10,6 @@
     "Globe Telecom"
   ],
   "layer_id_s": "pulmap-restricted:37720f228",
-  "georss_polygon_s": "30.164902 31.188004 30.164902 31.364557 29.847062 31.364557 29.847062 31.188004 30.164902 31.188004",
   "dc_type_s": "Dataset",
   "dc_identifier_s": "37720f228",
   "dct_provenance_s": "Princeton",
@@ -27,5 +24,6 @@
   "layer_geom_type_s": "Point",
   "solr_geom": "ENVELOPE(31.188004, 31.364557, 30.164902, 29.847062)",
   "dc_rights_s": "Restricted",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

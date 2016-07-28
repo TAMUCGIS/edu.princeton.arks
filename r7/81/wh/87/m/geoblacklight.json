@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1943",
-  "uuid": "http://arks.princeton.edu/ark:/88435/r781wh87m",
   "dc_description_s": "Brasil coal production",
-  "georss_box_s": "-33.77389 -73.98556 -7.61056 -34.79917",
   "layer_modified_dt": "2015-01-19T22:36:50Z",
   "layer_id_s": "r781wh87m",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-r781wh87m",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/r781wh87m/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/r7/81/wh/87/m/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "-7.61056 -73.98556 -7.61056 -34.79917 -33.77389 -34.79917 -33.77389 -73.98556 -7.61056 -73.98556",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1943"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Brazil"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

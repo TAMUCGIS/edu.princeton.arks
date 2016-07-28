@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1854",
-  "uuid": "http://arks.princeton.edu/ark:/88435/r494vn63k",
   "dc_description_s": "Lower Egypt with the peninsula of Mt. Sinai and the journeys of the Israelites",
-  "georss_box_s": "25.0 32.0 32.0 36.0",
   "layer_modified_dt": "2015-01-19T22:37:17Z",
   "layer_id_s": "r494vn63k",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-r494vn63k",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/r494vn63k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/r4/94/vn/63/k/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "32.0 32.0 32.0 36.0 25.0 36.0 25.0 32.0 32.0 32.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1854"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Egypt",
     "Sinai (Egypt)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

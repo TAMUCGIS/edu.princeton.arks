@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-74.6662, -74.64, 40.355, 40.3336)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/h702q792m/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/h7/02/q7/92/m/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/h702q792m/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/h702q792m",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Princeton University",
@@ -18,7 +17,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "h702q792m",
-  "georss_polygon_s": "40.355 -74.6662 40.355 -74.64 40.3336 -74.64 40.3336 -74.6662 40.355 -74.6662",
   "solr_year_i": "1904",
   "dct_spatial_sm": [
     "Princeton",
@@ -27,9 +25,9 @@
     "United States"
   ],
   "layer_id_s": "h702q792m",
-  "georss_box_s": "40.3336 -74.6662 40.355 -74.64",
   "dc_title_s": "Princeton Campus Map 1903-1904",
   "dct_issued_s": "1904",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1747",
-  "uuid": "http://arks.princeton.edu/ark:/88435/5q47rq61c",
   "dc_description_s": "Karte von dem Mittaeglichen Meere : zu der allgemeinen Historie der Reise-beschreibungen [map] /",
-  "georss_box_s": "-45.00005 -15.00005 -44.99995 -14.99995",
   "layer_modified_dt": "2015-01-21T22:23:47Z",
   "layer_id_s": "5q47rq61c",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-5q47rq61c",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/5q47rq61c/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/5q/47/rq/61/c/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "-44.99995 -15.00005 -44.99995 -14.99995 -45.00005 -14.99995 -45.00005 -15.00005 -44.99995 -15.00005",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1747"
@@ -23,5 +20,6 @@
     "South Atlantic Ocean",
     "South America",
     "Africa, Southern"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "layer_modified_dt": "2014-12-19T16:18:36Z",
-  "uuid": "http://arks.princeton.edu/ark:/88435/6t053h58r",
   "dc_description_s": "Land parcels in Boulder County, Colorado, 2006.",
-  "georss_box_s": "39.912972 -105.694452 40.263959 -105.052816",
   "layer_slug_s": "princeton-6t053h58r",
   "dct_spatial_sm": [
     "Colorado",
@@ -14,7 +12,6 @@
     "Boundary Solutions, Inc."
   ],
   "layer_id_s": "pulmap-restricted:6t053h58r",
-  "georss_polygon_s": "40.263959 -105.694452 40.263959 -105.052816 39.912972 -105.052816 39.912972 -105.694452 40.263959 -105.694452",
   "dc_type_s": "Dataset",
   "dc_identifier_s": "6t053h58r",
   "dct_provenance_s": "Princeton",
@@ -42,5 +39,6 @@
   "layer_geom_type_s": "Polygon",
   "solr_geom": "ENVELOPE(-105.694452, -105.052816, 40.263959, 39.912972)",
   "dc_rights_s": "Restricted",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

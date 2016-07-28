@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1607",
-  "uuid": "http://arks.princeton.edu/ark:/88435/2801pj829",
   "dc_description_s": "Flint : comitatus quem Ordovices olim incoluerunt",
-  "georss_box_s": "53.0723774 -3.4005984 53.3618938 -2.920277",
   "layer_modified_dt": "2015-01-21T22:24:18Z",
   "dc_creator_sm": [
     "Bishop, George,",
@@ -19,7 +17,6 @@
   "layer_slug_s": "princeton-2801pj829",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/2801pj829/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/28/01/pj/82/9/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "53.3618938 -3.4005984 53.3618938 -2.920277 53.0723774 -2.920277 53.0723774 -3.4005984 53.3618938 -3.4005984",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1607"
@@ -28,5 +25,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Flintshire (Wales)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

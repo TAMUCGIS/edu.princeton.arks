@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1825",
-  "uuid": "http://arks.princeton.edu/ark:/88435/bn999929f",
   "dc_description_s": "Portugal",
-  "georss_box_s": "36.0 -10.0 43.0 -5.0",
   "layer_modified_dt": "2015-01-23T17:48:40Z",
   "dc_creator_sm": [
     "Harrison, Charles Peter,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-bn999929f",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/bn999929f/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/bn/99/99/29/f/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "43.0 -10.0 43.0 -5.0 36.0 -5.0 36.0 -10.0 43.0 -10.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1825"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Portugal"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

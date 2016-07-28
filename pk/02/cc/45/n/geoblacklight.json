@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(5.956958, 10.488839, 47.695541, 45.872586)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/pk02cc45n/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/pk02cc45n/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/pk02cc45n/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/pk02cc45n",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Rivers",
@@ -21,16 +20,15 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "pk02cc45n",
-  "georss_polygon_s": "47.695541 5.956958 47.695541 10.488839 45.872586 10.488839 45.872586 5.956958 47.695541 5.956958",
   "dc_publisher_s": "Gfk MACON Company",
   "solr_year_i": "2006",
   "dct_spatial_sm": [
     "Switzerland"
   ],
   "layer_id_s": "pulmap-restricted:pk02cc45n",
-  "georss_box_s": "45.872586 5.956958 47.695541 10.488839",
   "dc_title_s": "Switzerland Major Rivers, 2006",
   "layer_slug_s": "princeton-pk02cc45n",
   "layer_geom_type_s": "Line",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

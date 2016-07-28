@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1866",
-  "uuid": "http://arks.princeton.edu/ark:/88435/0r967628b",
   "dc_description_s": "Nuova carta del teatro della guerra in Italia dal Brenner al Gran Sasso d'Italia e da Torino all'isola di Lissa",
-  "georss_box_s": "42.0 26.0 46.0 33.5",
   "layer_modified_dt": "2015-01-23T17:48:41Z",
   "layer_id_s": "0r967628b",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-0r967628b",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/0r967628b/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/0r/96/76/28/b/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "46.0 26.0 46.0 33.5 42.0 33.5 42.0 26.0 46.0 26.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1866"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Italy, Northern"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

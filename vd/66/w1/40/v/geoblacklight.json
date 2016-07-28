@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-25.6244, 51.5195, 37.5071, -35.0869)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/vd66w140v/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/vd/66/w1/40/v/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/vd66w140v/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/vd66w140v",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Administrative and Political Boundary",
@@ -18,15 +17,14 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "vd66w140v",
-  "georss_polygon_s": "37.5071 -25.6244 37.5071 51.5195 -35.0869 51.5195 -35.0869 -25.6244 37.5071 -25.6244",
   "dc_publisher_s": "Central Intelligence Agency",
   "dct_spatial_sm": [
     "Africa"
   ],
   "layer_id_s": "vd66w140v",
-  "georss_box_s": "-35.0869 -25.6244 37.5071 51.5195",
   "dc_title_s": "Africa (2000, Relief).",
   "dct_issued_s": "April 2000",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

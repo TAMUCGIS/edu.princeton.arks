@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-76, -75.75, 38.25, 38)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/w0892c598/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/w0/89/2c/59/8/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/w0892c598/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/w0892c598",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "historical maps",
@@ -20,7 +19,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "w0892c598",
-  "georss_polygon_s": "38.25 -76 38.25 -75.75 38 -75.75 38 -76 38.25 -76",
   "dc_publisher_s": "US Geological Survey",
   "dct_spatial_sm": [
     "Deal Island",
@@ -31,9 +29,9 @@
     "United States"
   ],
   "layer_id_s": "w0892c598",
-  "georss_box_s": "38 -76 38.25 -75.75",
   "dc_title_s": "Maryland: Deal Island Quadrangle [1903] ",
   "dct_issued_s": "May 1903",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

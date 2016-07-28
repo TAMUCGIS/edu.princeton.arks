@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1792",
-  "uuid": "http://arks.princeton.edu/ark:/88435/v405sc90p",
   "dc_description_s": "China : from D'Anville",
-  "georss_box_s": "18.0 93.0 45.0 130.0",
   "layer_modified_dt": "2015-01-19T22:37:37Z",
   "dc_creator_sm": [
     "Anville, Jean Baptiste Bourguignon d',",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-v405sc90p",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/v405sc90p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/v4/05/sc/90/p/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "45.0 93.0 45.0 130.0 18.0 130.0 18.0 93.0 45.0 93.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1792"
@@ -26,5 +23,6 @@
   "dct_spatial_sm": [
     "China",
     "Korea"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

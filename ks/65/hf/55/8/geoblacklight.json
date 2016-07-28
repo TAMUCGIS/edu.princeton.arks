@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-75.063313, -74.937618, 41.043585, 40.919716)",
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ks/65/hf/55/8/00000001.jp2/info.json\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/ks65hf558",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
@@ -21,7 +20,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "ks65hf558",
-  "georss_polygon_s": "41.043585 -75.063313 41.043585 -74.937618 40.919716 -74.937618 40.919716 -75.063313 41.043585 -75.063313",
   "dc_publisher_s": "New York: Sanborn Map Company",
   "solr_year_i": "1903",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "Blairstown"
   ],
   "layer_id_s": "ks65hf558",
-  "georss_box_s": "40.919716 -75.063313 41.043585 -74.937618",
   "dc_title_s": "Blairstown, Warren Co., New Jersey (Sheet 2)",
   "layer_slug_s": "princeton-ks65hf558",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

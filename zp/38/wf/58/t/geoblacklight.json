@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-74.299695, -74.259779, 40.835277, 40.814288)",
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/zp/38/wf/58/t/00000001.jp2/info.json\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/zp38wf58t",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
@@ -21,7 +20,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "zp38wf58t",
-  "georss_polygon_s": "40.835277 -74.299695 40.835277 -74.259779 40.814288 -74.259779 40.814288 -74.299695 40.835277 -74.299695",
   "dc_publisher_s": "New York: Sanborn Map Company",
   "solr_year_i": "1907",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "Essex Fells"
   ],
   "layer_id_s": "zp38wf58t",
-  "georss_box_s": "40.814288 -74.299695 40.835277 -74.259779",
   "dc_title_s": "Essex Fells Borough, N. J. (Sheet 82)",
   "layer_slug_s": "princeton-zp38wf58t",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

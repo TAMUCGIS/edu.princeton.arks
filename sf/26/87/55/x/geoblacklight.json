@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1870",
-  "uuid": "http://arks.princeton.edu/ark:/88435/sf268755x",
   "dc_description_s": "County map of Utah and Nevada",
-  "georss_box_s": "36.0 -120.0 41.0 -109.0",
   "layer_modified_dt": "2015-01-19T22:37:13Z",
   "dc_creator_sm": [
     "Mitchell, S. Augustus"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-sf268755x",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/sf268755x/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/sf/26/87/55/x/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "41.0 -120.0 41.0 -109.0 36.0 -109.0 36.0 -120.0 41.0 -120.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1870"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "Nevada",
     "Utah"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

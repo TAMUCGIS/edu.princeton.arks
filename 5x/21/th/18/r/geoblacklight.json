@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-10.40, 10.52, 59.59, -57.54)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/5x21th18r\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/5x21th18r/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/5x21th18r",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -16,7 +15,6 @@
   "dc_creator_sm": "Oslo Byplankontor, Generalplanavdelingen",
   "dc_type_s": "Image",
   "dc_identifier_s": "5x21th18r",
-  "georss_polygon_s": "59.59 -10.40 59.59 10.52 -57.54 10.52 -57.54 -10.40 59.59 -10.40",
   "dc_publisher_s": "Oslo Byplankontor, Generalplanavdelingen",
   "solr_year_i": "1948",
   "dct_spatial_sm": [
@@ -26,9 +24,9 @@
     "Kristiania"
   ],
   "layer_id_s": "5x21th18r",
-  "georss_box_s": "-57.54 -10.40 59.59 10.52",
   "dc_title_s": "Byutvidelser i Oslo",
   "layer_slug_s": "princeton-5x21th18r",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

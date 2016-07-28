@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1878",
-  "uuid": "http://arks.princeton.edu/ark:/88435/g732dc36s",
   "dc_description_s": "A geographically correct county map of states traversed by the St. Louis, Iron Mountain and Southern Railway and its connections",
-  "georss_box_s": "29.0 -100.0 40.0 -88.0",
   "layer_modified_dt": "2015-01-19T22:37:02Z",
   "dc_creator_sm": [
     "Hubbard, Richard Bennett,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-g732dc36s",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/g732dc36s/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/g7/32/dc/36/s/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.0 -100.0 40.0 -88.0 29.0 -88.0 29.0 -100.0 40.0 -100.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1878"
@@ -26,5 +23,6 @@
   "dct_spatial_sm": [
     "Southwest, Old",
     "Texas"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

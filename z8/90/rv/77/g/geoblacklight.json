@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-7.8998, -7.4695, 33.654, 33.401)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/z890rv77g\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/z890rv77g/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/z890rv77g",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -20,7 +19,6 @@
   "dc_creator_sm": "Institut Geographique National, Annexe du Maroc",
   "dc_type_s": "Image",
   "dc_identifier_s": "z890rv77g",
-  "georss_polygon_s": "33.654 -7.8998 33.654 -7.4695 33.401 -7.4695 33.401 -7.8998 33.654 -7.8998",
   "dc_publisher_s": "Institut Geographique National, Annexe du Maroc",
   "solr_year_i": "1962",
   "dct_spatial_sm": [
@@ -28,9 +26,9 @@
     "Morocco"
   ],
   "layer_id_s": "z890rv77g",
-  "georss_box_s": "33.401 -7.8998 33.654 -7.4695",
   "dc_title_s": "Casablanca",
   "layer_slug_s": "princeton-z890rv77g",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

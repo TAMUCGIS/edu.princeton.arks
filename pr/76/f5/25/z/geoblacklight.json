@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1851",
-  "uuid": "http://arks.princeton.edu/ark:/88435/pr76f525z",
   "dc_description_s": "Eastern hemisphere",
-  "georss_box_s": "-90 0 90 180",
   "layer_modified_dt": "2015-01-21T22:23:44Z",
   "dc_creator_sm": [
     "Tallis, John,",
@@ -18,7 +16,6 @@
   "layer_slug_s": "princeton-pr76f525z",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/pr76f525z/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/pr/76/f5/25/z/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "90 0 90 180 -90 180 -90 0 90 0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1851"
@@ -27,5 +24,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Eastern Hemisphere"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

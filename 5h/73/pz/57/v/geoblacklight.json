@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1657",
-  "uuid": "http://arks.princeton.edu/ark:/88435/5h73pz57v",
   "dc_description_s": "Mexico ; Cusco",
-  "georss_box_s": "19.2725301 -99.2932102 19.5925301 -98.9732102",
   "layer_modified_dt": "2015-01-21T22:24:24Z",
   "layer_id_s": "5h73pz57v",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-5h73pz57v",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/5h73pz57v/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/5h/73/pz/57/v/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "19.5925301 -99.2932102 19.5925301 -98.9732102 19.2725301 -98.9732102 19.2725301 -99.2932102 19.5925301 -99.2932102",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1657"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Mexico City (Mexico)",
     "Cuzco (Peru)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

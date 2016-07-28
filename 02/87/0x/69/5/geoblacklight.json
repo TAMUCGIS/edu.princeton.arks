@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1902",
-  "uuid": "http://arks.princeton.edu/ark:/88435/02870x695",
   "dc_description_s": "New York: Auburn Quadrangle",
-  "georss_box_s": "42.75000 -76.75000 43.00000 -76.50000",
   "layer_modified_dt": "2015-01-23T17:48:33Z",
   "dc_creator_sm": [
     "Sutton, Frank.",
@@ -17,12 +15,14 @@
   "layer_slug_s": "princeton-02870x695",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/02870x695/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/02/87/0x/69/5/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "43.00000 -76.75000 43.00000 -76.50000 42.75000 -76.50000 42.75000 -76.75000 43.00000 -76.75000",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1902"
   ],
   "solr_geom": "ENVELOPE(-76.75000, -76.50000, 43.00000, 42.75000)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

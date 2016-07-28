@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1633",
-  "uuid": "http://arks.princeton.edu/ark:/88435/mw22v8004",
   "dc_description_s": "Mantua ducatus",
-  "georss_box_s": "42.6792426623 6.6267201 47.092 18.5205015",
   "layer_modified_dt": "2015-01-25T02:06:20Z",
   "dc_creator_sm": [
     "Hondius, Hendrik,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-mw22v8004",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/mw22v8004/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/mw/22/v8/00/4/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "47.092 6.6267201 47.092 18.5205015 42.6792426623 18.5205015 42.6792426623 6.6267201 47.092 6.6267201",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1633"
@@ -26,5 +23,6 @@
   "dct_spatial_sm": [
     "Italy, Northern",
     "Mantua (Italy : Province)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

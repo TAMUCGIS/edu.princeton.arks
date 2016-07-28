@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-0.5168, -0.2825, 39.5498, 39.3656)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/rj430606w\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/rj430606w/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/rj430606w",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Director General of Architecture",
   "dc_type_s": "Image",
   "dc_identifier_s": "rj430606w",
-  "georss_polygon_s": "39.5498 -0.5168 39.5498 -0.2825 39.3656 -0.2825 39.3656 -0.5168 39.5498 -0.5168",
   "dc_publisher_s": "Director General of Architecture",
   "solr_year_i": "1950",
   "dct_spatial_sm": [
@@ -27,9 +25,9 @@
     "Comunidad Valenciana"
   ],
   "layer_id_s": "rj430606w",
-  "georss_box_s": "39.3656 -0.5168 39.5498 -0.2825",
   "dc_title_s": "Valencia 46-I",
   "layer_slug_s": "princeton-rj430606w",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

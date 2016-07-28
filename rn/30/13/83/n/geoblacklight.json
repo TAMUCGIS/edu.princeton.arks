@@ -1,11 +1,9 @@
 {
   "solr_year_i": "1799",
-  "uuid": "http://arks.princeton.edu/ark:/88435/rn301383n",
   "dc_description_s": "Carte des Etats-Unis : provinces septentrionales",
-  "georss_box_s": "37.9648979285 -80.7892842875 47.5887446096 -66.8711891",
   "layer_modified_dt": "2015-01-21T22:24:07Z",
   "dc_creator_sm": [
-    "La Rochefoucauld-Liancourt, Franc\u0327ois-Alexandre-Fre\u0301de\u0301ric,"
+    "La Rochefoucauld-Liancourt, François-Alexandre-Frédéric,"
   ],
   "layer_id_s": "rn301383n",
   "dc_type_s": "Image",
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-rn301383n",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/rn301383n/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/rn/30/13/83/n/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "47.5887446096 -80.7892842875 47.5887446096 -66.8711891 37.9648979285 -66.8711891 37.9648979285 -80.7892842875 47.5887446096 -80.7892842875",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1799"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Northeastern States"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

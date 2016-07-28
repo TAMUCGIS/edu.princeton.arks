@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-1.4667, -1.000, 51.4167, 51.0333)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/rx913r56s\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/rx913r56s/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/rx913r56s",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
@@ -19,7 +18,6 @@
   "dc_creator_sm": "Great Britain Ordnance Survey",
   "dc_type_s": "Image",
   "dc_identifier_s": "rx913r56s",
-  "georss_polygon_s": "51.4167 -1.4667 51.4167 -1.000 51.0333 -1.000 51.0333 -1.4667 51.4167 -1.4667",
   "dc_publisher_s": "Great Britain Ordnance Survey",
   "solr_year_i": "1926",
   "dct_spatial_sm": [
@@ -30,9 +28,9 @@
     "G5741.C2.s63.O7S8 sh117"
   ],
   "layer_id_s": "rx913r56s",
-  "georss_box_s": "51.0333 -1.4667 51.4167 -1.000",
   "dc_title_s": "Ordnance Survey of England and Wales: popular edition one-inch map.  East Kent. Sheet 117.",
   "layer_slug_s": "princeton-rx913r56s",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

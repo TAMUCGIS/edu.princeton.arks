@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1743",
-  "uuid": "http://arks.princeton.edu/ark:/88435/5999n588t",
   "dc_description_s": "Hartfordshire described : the sittuations of Hartford, and the most ancient towne S. Albons with such memorable actions as have happened",
-  "georss_box_s": "51.5995828 -0.7457891 52.0805364 0.195567",
   "layer_modified_dt": "2015-01-21T22:24:20Z",
   "dc_creator_sm": [
     "Hondius, Jodocus,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-5999n588t",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/5999n588t/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/59/99/n5/88/t/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "52.0805364 -0.7457891 52.0805364 0.195567 51.5995828 0.195567 51.5995828 -0.7457891 52.0805364 -0.7457891",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1743"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Hertfordshire (England)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

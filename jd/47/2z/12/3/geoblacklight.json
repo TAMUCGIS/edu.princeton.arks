@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(10.4952, 10.9365, 60.1327, 59.8129)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/jd472z123\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/jd472z123/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/jd472z123",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -19,7 +18,6 @@
   "dc_creator_sm": "Generalplanavdelingen, Oslo Reguleringsvesen",
   "dc_type_s": "Image",
   "dc_identifier_s": "jd472z123",
-  "georss_polygon_s": "60.1327 10.4952 60.1327 10.9365 59.8129 10.9365 59.8129 10.4952 60.1327 10.4952",
   "dc_publisher_s": "Generalplanavdelingen, Oslo Reguleringsvesen",
   "solr_year_i": "1949",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "Kristiania"
   ],
   "layer_id_s": "jd472z123",
-  "georss_box_s": "59.8129 10.4952 60.1327 10.9365",
   "dc_title_s": "Generalplan for Oslo",
   "layer_slug_s": "princeton-jd472z123",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

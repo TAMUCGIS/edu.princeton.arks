@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1898",
-  "uuid": "http://arks.princeton.edu/ark:/88435/t722hc33k",
   "dc_description_s": "Plan von Erfurt",
-  "georss_box_s": "50.8178285 10.8696459 51.1378285 11.1896459",
   "layer_modified_dt": "2015-01-21T22:24:27Z",
   "layer_id_s": "t722hc33k",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-t722hc33k",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/t722hc33k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/t7/22/hc/33/k/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.1378285 10.8696459 51.1378285 11.1896459 50.8178285 11.1896459 50.8178285 10.8696459 51.1378285 10.8696459",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1898"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Erfurt (Germany)",
     "Thuringia (Germany)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

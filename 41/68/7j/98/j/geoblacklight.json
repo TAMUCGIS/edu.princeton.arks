@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-74.504, -74.464, 39.357, 39.33)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/41687j98j/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/41/68/7j/98/j/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/41687j98j/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/41687j98j",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "41687j98j",
-  "georss_polygon_s": "39.357 -74.504 39.357 -74.464 39.33 -74.464 39.33 -74.504 39.357 -74.504",
   "dc_publisher_s": "Sanborn Map Company",
   "solr_year_i": "1896",
   "dct_spatial_sm": [
@@ -28,9 +26,9 @@
     "United States"
   ],
   "layer_id_s": "41687j98j",
-  "georss_box_s": "39.33 -74.504 39.357 -74.464",
   "dc_title_s": "Ventnor, N.J. (Sheet 52) ",
   "dct_issued_s": "1896",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

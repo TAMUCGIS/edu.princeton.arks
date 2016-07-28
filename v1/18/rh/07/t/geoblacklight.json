@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1657",
-  "uuid": "http://arks.princeton.edu/ark:/88435/v118rh07t",
   "dc_description_s": "Luneborch",
-  "georss_box_s": "53.1918393 10.3308253 53.2866442 10.5141641",
   "layer_modified_dt": "2015-01-21T22:24:29Z",
   "layer_id_s": "v118rh07t",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-v118rh07t",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/v118rh07t/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/v1/18/rh/07/t/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "53.2866442 10.3308253 53.2866442 10.5141641 53.1918393 10.5141641 53.1918393 10.3308253 53.2866442 10.3308253",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1657"
@@ -20,6 +17,7 @@
   "solr_geom": "ENVELOPE(10.3308253, 10.5141641, 53.2866442, 53.1918393)",
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
-    "Lu\u0308neburg (Germany)"
-  ]
+    "Lüneburg (Germany)"
+  ],
+  "geoblacklight_version": "1.0"
 }

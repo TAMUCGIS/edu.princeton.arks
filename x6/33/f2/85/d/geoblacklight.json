@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1925",
-  "uuid": "http://arks.princeton.edu/ark:/88435/x633f285d",
   "dc_description_s": "Cairo & environs",
-  "georss_box_s": "29.83333 30.90000 30.20000 31.35000",
   "layer_modified_dt": "2015-01-19T22:36:39Z",
   "layer_id_s": "x633f285d",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-x633f285d",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/x633f285d/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/x6/33/f2/85/d/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "30.20000 30.90000 30.20000 31.35000 29.83333 31.35000 29.83333 30.90000 30.20000 30.90000",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1925"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Egypt"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

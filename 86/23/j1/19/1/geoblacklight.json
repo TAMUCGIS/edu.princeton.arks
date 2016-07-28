@@ -1,11 +1,9 @@
 {
   "solr_year_i": "1756",
-  "uuid": "http://arks.princeton.edu/ark:/88435/8623j1191",
   "dc_description_s": "Karte von Luisiana : dem Laufe des Mississipi und den benachbarten Laendern",
-  "georss_box_s": "28.855127 -94.0431469 33.0194557 -88.7583879",
   "layer_modified_dt": "2015-01-21T22:24:08Z",
   "dc_creator_sm": [
-    "Charlevoix, Pierre-Franc\u0327ois-Xavier de,",
+    "Charlevoix, Pierre-François-Xavier de,",
     "Cooper, John C.,"
   ],
   "layer_id_s": "8623j1191",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-8623j1191",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/8623j1191/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/86/23/j1/19/1/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "33.0194557 -94.0431469 33.0194557 -88.7583879 28.855127 -88.7583879 28.855127 -94.0431469 33.0194557 -94.0431469",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1756"
@@ -26,5 +23,6 @@
   "dct_spatial_sm": [
     "Louisiana",
     "United States"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

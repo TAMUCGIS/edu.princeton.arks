@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-76.75, -76.5, 41, 40.75)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/r781wh76p/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/r7/81/wh/76/p/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/r781wh76p/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/r781wh76p",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "historical maps",
@@ -20,7 +19,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "r781wh76p",
-  "georss_polygon_s": "41 -76.75 41 -76.5 40.75 -76.5 40.75 -76.75 41 -76.75",
   "dc_publisher_s": "US Geological Survey",
   "dct_spatial_sm": [
     "Shamokin",
@@ -31,9 +29,9 @@
     "United States"
   ],
   "layer_id_s": "r781wh76p",
-  "georss_box_s": "40.75 -76.75 41 -76.5",
   "dc_title_s": "Pennsylvania: Shamokin sheet, 1932 reprint",
   "dct_issued_s": "November 1893",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

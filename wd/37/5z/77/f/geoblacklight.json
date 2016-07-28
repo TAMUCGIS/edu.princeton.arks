@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1849",
-  "uuid": "http://arks.princeton.edu/ark:/88435/wd375z77f",
   "dc_description_s": "Imperial map of Canada and Arctic regions of North America",
-  "georss_box_s": "51.175092 157.732108 83.9999979 65.6777839",
   "layer_modified_dt": "2015-01-21T22:24:15Z",
   "layer_id_s": "wd375z77f",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-wd375z77f",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/wd375z77f/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/wd/37/5z/77/f/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "83.9999979 157.732108 83.9999979 65.6777839 51.175092 65.6777839 51.175092 157.732108 83.9999979 157.732108",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1849"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Arctic regions",
     "Canada"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

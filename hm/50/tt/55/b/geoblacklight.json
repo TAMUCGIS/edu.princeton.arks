@@ -1,11 +1,9 @@
 {
   "solr_year_i": "1552",
-  "uuid": "http://arks.princeton.edu/ark:/88435/hm50tt55b",
   "dc_description_s": "La table & description uniuerselle de toute l'Afrique, uoire estendue outre les limites de Ptol.",
-  "georss_box_s": "1.9999503 15.9999497 2.0000503 16.0000497",
   "layer_modified_dt": "2015-01-21T22:23:42Z",
   "dc_creator_sm": [
-    "Mu\u0308nster, Sebastian,",
+    "Münster, Sebastian,",
     "Petri, Heinrich,",
     "McCabe, Robert A.,"
   ],
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-hm50tt55b",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/hm50tt55b/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/hm/50/tt/55/b/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "2.0000503 15.9999497 2.0000503 16.0000497 1.9999503 16.0000497 1.9999503 15.9999497 2.0000503 15.9999497",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1552"
@@ -26,5 +23,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Africa"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1942",
-  "uuid": "http://arks.princeton.edu/ark:/88435/p2676x40d",
   "dc_description_s": "Communication chart of the world : showing submarine cables, principal land lines and radio traffic stations: (sheet 3)",
-  "georss_box_s": "-65.0 159.0 73.0 -65.0",
   "layer_modified_dt": "2015-01-19T22:36:50Z",
   "layer_id_s": "p2676x40d",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-p2676x40d",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/p2676x40d/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/p2/67/6x/40/d/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "73.0 159.0 73.0 -65.0 -65.0 -65.0 -65.0 159.0 73.0 159.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1942"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "World"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

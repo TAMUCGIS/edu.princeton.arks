@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1905",
-  "uuid": "http://arks.princeton.edu/ark:/88435/zk51vk30q",
   "dc_description_s": "[Ilmenau]",
-  "georss_box_s": "50.6347299 10.818229 50.7494563 10.9670611",
   "layer_modified_dt": "2015-01-21T22:24:28Z",
   "layer_id_s": "zk51vk30q",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-zk51vk30q",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/zk51vk30q/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/zk/51/vk/30/q/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "50.7494563 10.818229 50.7494563 10.9670611 50.6347299 10.9670611 50.6347299 10.818229 50.7494563 10.818229",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1905"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Ilmenau (Germany)",
     "Thuringia (Germany)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

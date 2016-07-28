@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1869",
-  "uuid": "http://arks.princeton.edu/ark:/88435/pk02cc553",
   "dc_description_s": "Map of the marshes on Newark Bay and the Passaic and Hackensack rivers.",
-  "georss_box_s": "40.61667 -74.25000 40.78333 -74.00000",
   "layer_modified_dt": "2015-01-19T22:36:35Z",
   "layer_id_s": "pk02cc553",
   "dc_type_s": "Image",
@@ -12,12 +10,14 @@
   "layer_slug_s": "princeton-pk02cc553",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/pk02cc553/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/pk/02/cc/55/3/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.78333 -74.25000 40.78333 -74.00000 40.61667 -74.00000 40.61667 -74.25000 40.78333 -74.25000",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1869"
   ],
   "solr_geom": "ENVELOPE(-74.25000, -74.00000, 40.78333, 40.61667)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

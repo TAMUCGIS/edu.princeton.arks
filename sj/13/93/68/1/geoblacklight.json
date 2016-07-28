@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(8.5646, 8.647, 47.3526, 47.2916)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/sj1393681\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/sj1393681/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/sj1393681",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -19,7 +18,6 @@
   "dc_creator_sm": "Artisches Institut Orell Fussli A.G.",
   "dc_type_s": "Image",
   "dc_identifier_s": "sj1393681",
-  "georss_polygon_s": "47.3526 8.5646 47.3526 8.647 47.2916 8.647 47.2916 8.5646 47.3526 8.5646",
   "dc_publisher_s": "Artisches Institut Orell Fussli A.G.",
   "solr_year_i": "1960",
   "dct_spatial_sm": [
@@ -33,9 +31,9 @@
     "Schweizerische Eidgenossenschaft"
   ],
   "layer_id_s": "sj1393681",
-  "georss_box_s": "47.2916 8.5646 47.3526 8.647",
   "dc_title_s": "Spaziergangerkarte: Zollikon, Kusnacht, Erlenbach, Zumikon",
   "layer_slug_s": "princeton-sj1393681",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

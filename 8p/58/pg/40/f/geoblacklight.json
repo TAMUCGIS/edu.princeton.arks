@@ -1,18 +1,15 @@
 {
   "solr_year_i": "1912",
-  "uuid": "http://arks.princeton.edu/ark:/88435/8p58pg40f",
-  "dc_description_s": "Mappa da viac\u0327a\u0303o ferrea de Sa\u0303o Paulo e partes dos estados vizinhos",
-  "georss_box_s": "-33.8689055 -73.9830624 5.2834573 -28.6341163",
+  "dc_description_s": "Mappa da viação ferrea de São Paulo e partes dos estados vizinhos",
   "layer_modified_dt": "2015-01-21T22:24:09Z",
   "layer_id_s": "8p58pg40f",
   "dc_type_s": "Image",
   "dc_identifier_s": "8p58pg40f",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Mappa da viac\u0327a\u0303o ferrea de Sa\u0303o Paulo e partes dos estados vizinhos",
+  "dc_title_s": "Mappa da viação ferrea de São Paulo e partes dos estados vizinhos",
   "layer_slug_s": "princeton-8p58pg40f",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/8p58pg40f/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/8p/58/pg/40/f/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "5.2834573 -73.9830624 5.2834573 -28.6341163 -33.8689055 -28.6341163 -33.8689055 -73.9830624 5.2834573 -73.9830624",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1912"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Brazil"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

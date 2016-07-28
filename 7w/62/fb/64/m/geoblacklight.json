@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1609",
-  "uuid": "http://arks.princeton.edu/ark:/88435/7w62fb64m",
   "dc_description_s": "Tempe",
-  "georss_box_s": "39.8686588 22.5601037 39.8857845 22.5921185",
   "layer_modified_dt": "2015-01-21T22:24:00Z",
   "dc_creator_sm": [
     "Ortelius, Abraham,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-7w62fb64m",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/7w62fb64m/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/7w/62/fb/64/m/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "39.8857845 22.5601037 39.8857845 22.5921185 39.8686588 22.5921185 39.8686588 22.5601037 39.8857845 22.5601037",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1609"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Tempe, Vale of (Greece)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1683",
-  "uuid": "http://arks.princeton.edu/ark:/88435/nz806205t",
   "dc_description_s": "Novi Belgii, Novaeque Angliae nec non Pennsylvaniae et partis Virginiae tabula",
-  "georss_box_s": "40.950943 -73.727775 47.459686 -66.8850751",
   "layer_modified_dt": "2015-01-21T22:23:56Z",
   "dc_creator_sm": [
     "Visscher, Nicolaes,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-nz806205t",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/nz806205t/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/nz/80/62/05/t/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "47.459686 -73.727775 47.459686 -66.8850751 40.950943 -66.8850751 40.950943 -73.727775 47.459686 -73.727775",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1683"
@@ -26,5 +23,6 @@
   "dct_spatial_sm": [
     "New England",
     "Middle Atlantic States"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

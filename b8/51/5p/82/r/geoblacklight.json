@@ -1,8 +1,6 @@
 {
   "layer_modified_dt": "2014-12-19T16:18:35Z",
-  "uuid": "http://arks.princeton.edu/ark:/88435/b8515p82r",
   "dc_description_s": "Land parcels in Navajo County, Arizona, 2009.",
-  "georss_box_s": "34.098335 -110.754399 35.170535 -109.843264",
   "layer_slug_s": "princeton-b8515p82r",
   "dct_spatial_sm": [
     "Arizona",
@@ -12,7 +10,6 @@
     "Boundary Solutions, Inc."
   ],
   "layer_id_s": "pulmap-restricted:b8515p82r",
-  "georss_polygon_s": "35.170535 -110.754399 35.170535 -109.843264 34.098335 -109.843264 34.098335 -110.754399 35.170535 -110.754399",
   "dc_type_s": "Dataset",
   "dc_identifier_s": "b8515p82r",
   "dct_provenance_s": "Princeton",
@@ -33,5 +30,6 @@
   "layer_geom_type_s": "Polygon",
   "solr_geom": "ENVELOPE(-110.754399, -109.843264, 35.170535, 34.098335)",
   "dc_rights_s": "Restricted",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

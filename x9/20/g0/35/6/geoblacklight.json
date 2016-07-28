@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1855",
-  "uuid": "http://arks.princeton.edu/ark:/88435/x920g0356",
   "dc_description_s": "Colton's Germany : no. 4",
-  "georss_box_s": "47.0 6.0 51.0 14.0",
   "layer_modified_dt": "2015-01-19T22:37:31Z",
   "dc_creator_sm": [
     "Colton, G. Woolworth"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-x920g0356",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/x920g0356/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/x9/20/g0/35/6/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.0 6.0 51.0 14.0 47.0 14.0 47.0 6.0 51.0 6.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1855"
@@ -23,7 +20,8 @@
   "solr_geom": "ENVELOPE(6.0, 14.0, 51.0, 47.0)",
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
-    "Baden-Wu\u0308rttemberg (Germany)",
+    "Baden-Württemberg (Germany)",
     "Bavaria (Germany)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

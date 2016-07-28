@@ -1,9 +1,6 @@
 {
   "dc_publisher_s": "New York: Sanborn Map Company",
-  "uuid": "http://arks.princeton.edu/ark:/88435/c534fr129",
   "dc_description_s": "This a Sanborn map of Hackensack",
-  "georss_box_s": "40.858698 -74.068385 40.913285 -74.024737",
-  "georss_polygon_s": "40.913285 -74.068385 40.913285 -74.024737 40.858698 -74.024737 40.858698 -74.068385 40.913285 -74.068385",
   "layer_modified_dt": "2015-01-18T17:07:30Z",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -29,5 +26,6 @@
   "layer_geom_type_s": "Image",
   "solr_geom": "ENVELOPE(-74.068385, -74.024737, 40.913285, 40.858698)",
   "dc_rights_s": "Public",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

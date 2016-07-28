@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1808",
-  "uuid": "http://arks.princeton.edu/ark:/88435/bk128d26d",
   "dc_description_s": "Plan of the city of New York",
-  "georss_box_s": "40.477399 -74.2590899 40.917577 -73.7001714",
   "layer_modified_dt": "2015-01-21T22:23:57Z",
   "dc_creator_sm": [
     "Maverick, Peter,",
@@ -16,12 +14,14 @@
   "layer_slug_s": "princeton-bk128d26d",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/bk128d26d/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/bk/12/8d/26/d/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.917577 -74.2590899 40.917577 -73.7001714 40.477399 -73.7001714 40.477399 -74.2590899 40.917577 -74.2590899",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1808"
   ],
   "solr_geom": "ENVELOPE(-74.2590899, -73.7001714, 40.917577, 40.477399)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

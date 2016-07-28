@@ -1,11 +1,9 @@
 {
   "solr_year_i": "1889",
-  "uuid": "http://arks.princeton.edu/ark:/88435/np193c60d",
   "dc_description_s": "Plan de Paris",
-  "georss_box_s": "48.8155755 2.224122 48.902156 2.4697602",
   "layer_modified_dt": "2015-01-21T22:24:02Z",
   "dc_creator_sm": [
-    "Lefe\u0300vre, F."
+    "Lefèvre, F."
   ],
   "layer_id_s": "np193c60d",
   "dc_type_s": "Image",
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-np193c60d",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/np193c60d/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/np/19/3c/60/d/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "48.902156 2.224122 48.902156 2.4697602 48.8155755 2.4697602 48.8155755 2.224122 48.902156 2.224122",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1889"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Paris (France)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

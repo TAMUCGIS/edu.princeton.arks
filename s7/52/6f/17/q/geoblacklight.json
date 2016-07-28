@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-74.042, -74.007, 40.187, 40.166)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/s7526f17q/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/s7/52/6f/17/q/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/s7526f17q/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/s7526f17q",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
@@ -18,7 +17,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "s7526f17q",
-  "georss_polygon_s": "40.187 -74.042 40.187 -74.007 40.166 -74.007 40.166 -74.042 40.187 -74.042",
   "dc_publisher_s": "Sanborn-Perris Map Company",
   "solr_year_i": "1890",
   "dct_spatial_sm": [
@@ -28,9 +26,9 @@
     "United States"
   ],
   "layer_id_s": "s7526f17q",
-  "georss_box_s": "40.166 -74.042 40.187 -74.007",
   "dc_title_s": "Belmar, Monmouth Co. (Sheet 13), New Jersey",
   "dct_issued_s": "1890",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

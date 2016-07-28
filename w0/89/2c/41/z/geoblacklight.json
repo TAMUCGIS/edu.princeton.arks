@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(18.9266, 19.3335, 47.6131, 47.3502)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/w0892c41z\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/w0892c41z/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/w0892c41z",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -19,7 +18,6 @@
   "dc_creator_sm": "Kartografiai Vallalat",
   "dc_type_s": "Image",
   "dc_identifier_s": "w0892c41z",
-  "georss_polygon_s": "47.6131 18.9266 47.6131 19.3335 47.3502 19.3335 47.3502 18.9266 47.6131 18.9266",
   "dc_publisher_s": "Kartografiai Vallalat",
   "solr_year_i": "1968",
   "dct_spatial_sm": [
@@ -27,9 +25,9 @@
     "Hungary"
   ],
   "layer_id_s": "w0892c41z",
-  "georss_box_s": "47.3502 18.9266 47.6131 19.3335",
   "dc_title_s": "Budapest",
   "layer_slug_s": "princeton-w0892c41z",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

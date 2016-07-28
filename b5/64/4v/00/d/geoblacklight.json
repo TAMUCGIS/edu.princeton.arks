@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1579",
-  "uuid": "http://arks.princeton.edu/ark:/88435/b5644v00d",
   "dc_description_s": "Hispalensis conventus delineatio",
-  "georss_box_s": "35.9373253 -7.5226847 38.7290874 -1.6297999",
   "layer_modified_dt": "2015-01-21T22:24:10Z",
   "dc_creator_sm": [
     "Ortelius, Abraham,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-b5644v00d",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/b5644v00d/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/b5/64/4v/00/d/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "38.7290874 -7.5226847 38.7290874 -1.6297999 35.9373253 -1.6297999 35.9373253 -7.5226847 38.7290874 -7.5226847",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1579"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Andalusia (Spain)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

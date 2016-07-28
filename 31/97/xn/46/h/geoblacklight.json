@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(17.9722, 18.0163, 40.0641, 40.0450)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/3197xn46h\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/3197xn46h/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/3197xn46h",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Research and Analysis, O.S.S.",
   "dc_type_s": "Image",
   "dc_identifier_s": "3197xn46h",
-  "georss_polygon_s": "40.0641 17.9722 40.0641 18.0163 40.0450 18.0163 40.0450 17.9722 40.0641 17.9722",
   "dc_publisher_s": "Research and Analysis, O.S.S.",
   "solr_year_i": "1943",
   "dct_spatial_sm": [
@@ -30,9 +28,9 @@
     "Provincia di Lecce"
   ],
   "layer_id_s": "3197xn46h",
-  "georss_box_s": "40.0450 17.9722 40.0641 18.0163",
   "dc_title_s": "Gallipoli (plan of port)",
   "layer_slug_s": "princeton-3197xn46h",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

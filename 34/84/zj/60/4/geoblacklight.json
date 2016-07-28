@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-6.667269, 1.419110, 57.653034, 50.123116)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/3484zj604/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/3484zj604/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/3484zj604/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/3484zj604",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "City",
@@ -21,7 +20,6 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "3484zj604",
-  "georss_polygon_s": "57.653034 -6.667269 57.653034 1.419110 50.123116 1.419110 50.123116 -6.667269 57.653034 -6.667269",
   "dc_publisher_s": "Gfk MACON Company",
   "solr_year_i": "2006",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "UK"
   ],
   "layer_id_s": "pulmap-restricted:3484zj604",
-  "georss_box_s": "50.123116 -6.667269 57.653034 1.419110",
   "dc_title_s": "United Kingdom Cities With Population From 20 Thousand To 50 Thousand, 2005",
   "layer_slug_s": "princeton-3484zj604",
   "layer_geom_type_s": "Point",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

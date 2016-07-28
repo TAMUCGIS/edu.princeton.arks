@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(11.1544, 11.3292, 43.8251, 43.7274)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/mk61rj33h\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/mk61rj33h/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/mk61rj33h",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Istituto geografico militare",
   "dc_type_s": "Image",
   "dc_identifier_s": "mk61rj33h",
-  "georss_polygon_s": "43.8251 11.1544 43.8251 11.3292 43.7274 11.3292 43.7274 11.1544 43.8251 11.1544",
   "dc_publisher_s": "Istituto geografico militare",
   "solr_year_i": "1950",
   "dct_spatial_sm": [
@@ -28,9 +26,9 @@
     "Tuscany"
   ],
   "layer_id_s": "mk61rj33h",
-  "georss_box_s": "43.7274 11.1544 43.8251 11.3292",
   "dc_title_s": "Pianta della citta` di Firenze",
   "layer_slug_s": "princeton-mk61rj33h",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

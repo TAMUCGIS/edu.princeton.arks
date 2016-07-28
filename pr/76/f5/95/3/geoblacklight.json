@@ -1,12 +1,10 @@
 {
   "solr_year_i": "1894",
-  "uuid": "http://arks.princeton.edu/ark:/88435/pr76f5953",
   "dc_description_s": "Map of the extinct Lake Passaic, showing its outline, the position of the present shore features and the deformation which its shores have suffered",
-  "georss_box_s": "40.649516 -74.8897529 41.0860019 -74.266638",
   "layer_modified_dt": "2015-01-25T02:06:22Z",
   "dc_creator_sm": [
     "Salisbury, Rollin D.,",
-    "Ku\u0308mmel, Henry Barnard,"
+    "Kümmel, Henry Barnard,"
   ],
   "layer_id_s": "pr76f5953",
   "dc_type_s": "Image",
@@ -16,12 +14,14 @@
   "layer_slug_s": "princeton-pr76f5953",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/pr76f5953/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/pr/76/f5/95/3/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "41.0860019 -74.8897529 41.0860019 -74.266638 40.649516 -74.266638 40.649516 -74.8897529 41.0860019 -74.8897529",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1894"
   ],
   "solr_geom": "ENVELOPE(-74.8897529, -74.266638, 41.0860019, 40.649516)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

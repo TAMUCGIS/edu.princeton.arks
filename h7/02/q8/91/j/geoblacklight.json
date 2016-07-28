@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1562",
-  "uuid": "http://arks.princeton.edu/ark:/88435/h702q891j",
   "dc_description_s": "Il disegno de geografia moderna del regno di Polonia, e parte del ducado di Moscouia, con parte della Scandia, e parte de Sueuia, con molte regioni, in quelli et la prouincia de Vstiuga e quella di Seuera in sino al mare maggiore",
-  "georss_box_s": "53.5977873912 19.6403534 59.7454168077 29.235962",
   "layer_modified_dt": "2015-01-21T22:24:28Z",
   "dc_creator_sm": [
     "Licinius, Fabius,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-h702q891j",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/h702q891j/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/h7/02/q8/91/j/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "59.7454168077 19.6403534 59.7454168077 29.235962 53.5977873912 29.235962 53.5977873912 19.6403534 59.7454168077 19.6403534",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1562"
@@ -28,5 +25,6 @@
     "Russia",
     "Sweden",
     "Ukraine"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

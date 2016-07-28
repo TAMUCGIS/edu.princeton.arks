@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1648",
-  "uuid": "http://arks.princeton.edu/ark:/88435/8k71nk561",
   "dc_description_s": "De heylige en wytvermaerde stadt Jerusalem, eerst genaemt Salem : Genesis 14 vers 18",
-  "georss_box_s": "31.7087672 35.0854203 31.8826765 35.2630682",
   "layer_modified_dt": "2015-01-21T22:24:13Z",
   "dc_creator_sm": [
     "Visscher, Claes Jansz.,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-8k71nk561",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/8k71nk561/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/8k/71/nk/56/1/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "31.8826765 35.0854203 31.8826765 35.2630682 31.7087672 35.2630682 31.7087672 35.0854203 31.8826765 35.0854203",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1648"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Jerusalem"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

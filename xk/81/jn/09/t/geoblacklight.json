@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-74.219, -74.183, 40.448, 40.423)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/xk81jn09t/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/xk/81/jn/09/t/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/xk81jn09t/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/xk81jn09t",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
@@ -18,7 +17,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "xk81jn09t",
-  "georss_polygon_s": "40.448 -74.219 40.448 -74.183 40.423 -74.183 40.423 -74.219 40.448 -74.219",
   "dc_publisher_s": "Sanborn Map Company",
   "solr_year_i": "1931",
   "dct_spatial_sm": [
@@ -28,9 +26,9 @@
     "United States"
   ],
   "layer_id_s": "xk81jn09t",
-  "georss_box_s": "40.423 -74.219 40.448 -74.183",
   "dc_title_s": "Keyport (Sheet 4), Monmouth County, New Jersey",
   "dct_issued_s": "1931",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

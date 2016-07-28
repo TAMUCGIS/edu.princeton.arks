@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-79.50, -79.25, 38.50, 38.25)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/pk02cc21t/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/pk/02/cc/21/t/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/pk02cc21t/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/pk02cc21t",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "historical maps",
@@ -20,7 +19,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "pk02cc21t",
-  "georss_polygon_s": "38.50 -79.50 38.50 -79.25 38.25 -79.25 38.25 -79.50 38.50 -79.50",
   "dc_publisher_s": "US Geological Survey",
   "solr_year_i": "1946",
   "dct_spatial_sm": [
@@ -30,9 +28,9 @@
     "United States"
   ],
   "layer_id_s": "pk02cc21t",
-  "georss_box_s": "38.25 -79.50 38.50 -79.25",
   "dc_title_s": "Virginia--West Virginia: McDowell Quadrangle [1946] ",
   "dct_issued_s": "1946",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

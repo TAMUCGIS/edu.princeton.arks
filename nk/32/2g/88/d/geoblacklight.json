@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1771",
-  "uuid": "http://arks.princeton.edu/ark:/88435/nk322g88d",
   "dc_description_s": "A plan of the city of Lisbon",
-  "georss_box_s": "38.6914845 -9.2294567 38.7957485 -9.0895574",
   "layer_modified_dt": "2015-01-25T02:06:20Z",
   "dc_creator_sm": [
     "Andrews, John,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-nk322g88d",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/nk322g88d/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/nk/32/2g/88/d/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "38.7957485 -9.2294567 38.7957485 -9.0895574 38.6914845 -9.0895574 38.6914845 -9.2294567 38.7957485 -9.2294567",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1771"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Lisbon (Portugal)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

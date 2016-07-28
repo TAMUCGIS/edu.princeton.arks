@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1890",
-  "uuid": "http://arks.princeton.edu/ark:/88435/7d278v91f",
   "dc_description_s": "Constantinople",
-  "georss_box_s": "40.8496334 28.8051646 41.1696334 29.1251646",
   "layer_modified_dt": "2015-01-21T22:23:48Z",
   "layer_id_s": "7d278v91f",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-7d278v91f",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/7d278v91f/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/7d/27/8v/91/f/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "41.1696334 28.8051646 41.1696334 29.1251646 40.8496334 29.1251646 40.8496334 28.8051646 41.1696334 28.8051646",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1890"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Istanbul (Turkey)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

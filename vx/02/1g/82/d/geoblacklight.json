@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-74.500, -74.2500, 42.7167, 42.5833)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/vx021g82d/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/vx/02/1g/82/d/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/vx021g82d/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/vx021g82d",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "historical maps",
@@ -20,7 +19,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "vx021g82d",
-  "georss_polygon_s": "42.7167 -74.500 42.7167 -74.2500 42.5833 -74.2500 42.5833 -74.500 42.7167 -74.500",
   "dc_publisher_s": "New York State Museum.",
   "solr_year_i": "1903",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "New York"
   ],
   "layer_id_s": "vx021g82d",
-  "georss_box_s": "42.5833 -74.500 42.7167 -74.2500",
   "dc_title_s": "Geologic map of the Schoharie and Cobleskill Valleys. ",
   "dct_issued_s": "1903",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

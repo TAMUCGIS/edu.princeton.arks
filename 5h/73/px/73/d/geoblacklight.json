@@ -1,8 +1,6 @@
 {
   "layer_modified_dt": "2014-12-19T16:18:36Z",
-  "uuid": "http://arks.princeton.edu/ark:/88435/5h73px73d",
   "dc_description_s": "Land parcels in Montezuma County, Colorado, 2009.",
-  "georss_box_s": "37.130812 -109.045934 37.637197 -108.063715",
   "layer_slug_s": "princeton-5h73px73d",
   "dct_spatial_sm": [
     "Montezuma",
@@ -13,7 +11,6 @@
     "Boundary Solutions, Inc."
   ],
   "layer_id_s": "pulmap-restricted:5h73px73d",
-  "georss_polygon_s": "37.637197 -109.045934 37.637197 -108.063715 37.130812 -108.063715 37.130812 -109.045934 37.637197 -109.045934",
   "dc_type_s": "Dataset",
   "dc_identifier_s": "5h73px73d",
   "dct_provenance_s": "Princeton",
@@ -41,5 +38,6 @@
   "layer_geom_type_s": "Polygon",
   "solr_geom": "ENVELOPE(-109.045934, -108.063715, 37.637197, 37.130812)",
   "dc_rights_s": "Restricted",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

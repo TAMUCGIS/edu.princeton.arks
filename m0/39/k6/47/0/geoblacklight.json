@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-76, -75.75, 44, 43.75)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/m039k6470/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/m0/39/k6/47/0/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/m039k6470/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/m039k6470",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "historical maps",
@@ -20,7 +19,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "m039k6470",
-  "georss_polygon_s": "44 -76 44 -75.75 43.75 -75.75 43.75 -76 44 -76",
   "dc_publisher_s": "US Geological Survey",
   "dct_spatial_sm": [
     "Watertown",
@@ -30,9 +28,9 @@
     "United States"
   ],
   "layer_id_s": "m039k6470",
-  "georss_box_s": "43.75 -76 44 -75.75",
   "dc_title_s": "New York: Watertown Quadrangle, 1909",
   "dct_issued_s": "September 1909",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

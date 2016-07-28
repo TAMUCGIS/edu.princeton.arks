@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1818",
-  "uuid": "http://arks.princeton.edu/ark:/88435/sj139440p",
   "dc_description_s": "Peru",
-  "georss_box_s": "-16.3333333333 -81.6666666667 -2.0 -62.3333333333",
   "layer_modified_dt": "2015-01-19T22:37:11Z",
   "dc_creator_sm": [
     "Hebert, L.",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-sj139440p",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/sj139440p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/sj/13/94/40/p/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "-2.0 -81.6666666667 -2.0 -62.3333333333 -16.3333333333 -62.3333333333 -16.3333333333 -81.6666666667 -2.0 -81.6666666667",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1818"
@@ -26,5 +23,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Peru"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

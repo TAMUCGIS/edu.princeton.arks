@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1800",
-  "uuid": "http://arks.princeton.edu/ark:/88435/cz30pv49w",
   "dc_description_s": "A chart of Ceuta and Tetuan bays : in which are pointed out, the most advantageous places of rendezvous for the purposes of victualling & watering a fleet",
-  "georss_box_s": "21.3365321 -17.2122302 36.0027875 -0.9984289",
   "layer_modified_dt": "2015-01-21T22:23:45Z",
   "dc_creator_sm": [
     "Wolseley, W."
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-cz30pv49w",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/cz30pv49w/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/cz/30/pv/49/w/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "36.0027875 -17.2122302 36.0027875 -0.9984289 21.3365321 -0.9984289 21.3365321 -17.2122302 36.0027875 -17.2122302",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1800"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "Morocco",
     "Ceuta (Spain)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

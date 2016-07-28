@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1900",
-  "uuid": "http://arks.princeton.edu/ark:/88435/cv43p0346",
   "dc_description_s": "Quedlinburg",
-  "georss_box_s": "51.664403 11.0543593 51.8456594 11.2539452",
   "layer_modified_dt": "2015-01-21T22:24:27Z",
   "layer_id_s": "cv43p0346",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-cv43p0346",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/cv43p0346/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/cv/43/p0/34/6/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.8456594 11.0543593 51.8456594 11.2539452 51.664403 11.2539452 51.664403 11.0543593 51.8456594 11.0543593",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1900"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Quedlinburg (Germany)",
     "Saxony-Anhalt (Germany)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

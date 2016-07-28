@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1852",
-  "uuid": "http://arks.princeton.edu/ark:/88435/794080671",
   "dc_description_s": "Mexico, Mittel-America, Texas",
-  "georss_box_s": "5.4961 -92.2714 18.495942 -77.158488",
   "layer_modified_dt": "2015-01-21T22:24:24Z",
   "dc_creator_sm": [
     "Flemming, C."
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-794080671",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/794080671/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/79/40/80/67/1/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "18.495942 -92.2714 18.495942 -77.158488 5.4961 -77.158488 5.4961 -92.2714 18.495942 -92.2714",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1852"
@@ -26,5 +23,6 @@
     "Central America",
     "Mexico",
     "United States"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

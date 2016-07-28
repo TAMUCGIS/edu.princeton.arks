@@ -1,12 +1,10 @@
 {
   "solr_year_i": "1614",
-  "uuid": "http://arks.princeton.edu/ark:/88435/x920fz70s",
   "dc_description_s": "Americae sive novi orbis, nova descriptio",
-  "georss_box_s": "18.9110642 172.4458955 71.389888 -66.9453947",
   "layer_modified_dt": "2015-01-21T22:23:44Z",
   "dc_creator_sm": [
     "Henricpetri, Sebastian,",
-    "Mu\u0308nster, Sebastian,"
+    "Münster, Sebastian,"
   ],
   "layer_id_s": "x920fz70s",
   "dc_type_s": "Image",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-x920fz70s",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/x920fz70s/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/x9/20/fz/70/s/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "71.389888 172.4458955 71.389888 -66.9453947 18.9110642 -66.9453947 18.9110642 172.4458955 71.389888 172.4458955",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1614"
@@ -26,5 +23,6 @@
   "dct_spatial_sm": [
     "America",
     "Western Hemisphere"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-70.50, -70.00, -15.00, -15.50)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/hq37vq286\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/hq37vq286/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/hq37vq286",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "geoscientificInformation",
@@ -16,7 +15,6 @@
   "dc_creator_sm": "Instituto Geologico Minero y Metalurgico",
   "dc_type_s": "Image",
   "dc_identifier_s": "hq37vq286",
-  "georss_polygon_s": "-15.00 -70.50 -15.00 -70.00 -15.50 -70.00 -15.50 -70.50 -15.00 -70.50",
   "dc_publisher_s": "Instituto Geologico Minero y Metalurgico",
   "solr_year_i": "1989",
   "dct_spatial_sm": [
@@ -25,9 +23,9 @@
     "Juliaca Quad."
   ],
   "layer_id_s": "hq37vq286",
-  "georss_box_s": "-15.50 -70.50 -15.00 -70.00",
   "dc_title_s": "Peru 1:100 000: Mapa geologico del cuadrangulo de Juliaca",
   "layer_slug_s": "princeton-hq37vq286",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

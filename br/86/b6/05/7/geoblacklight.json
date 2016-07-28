@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1854",
-  "uuid": "http://arks.princeton.edu/ark:/88435/br86b6057",
   "dc_description_s": "North & South Wales",
-  "georss_box_s": "51.0 -6.0 54.0 -3.0",
   "layer_modified_dt": "2015-01-19T22:37:26Z",
   "layer_id_s": "br86b6057",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-br86b6057",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/br86b6057/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/br/86/b6/05/7/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "54.0 -6.0 54.0 -3.0 51.0 -3.0 51.0 -6.0 54.0 -6.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1854"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Wales"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

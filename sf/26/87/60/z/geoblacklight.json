@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1903",
-  "uuid": "http://arks.princeton.edu/ark:/88435/sf268760z",
   "dc_description_s": "Dessau und Umgebung",
-  "georss_box_s": "51.7911104 12.2029261 51.8711104 12.2829261",
   "layer_modified_dt": "2015-01-21T22:24:22Z",
   "dc_creator_sm": [
     "Woerl, Leo,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-sf268760z",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/sf268760z/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/sf/26/87/60/z/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.8711104 12.2029261 51.8711104 12.2829261 51.7911104 12.2829261 51.7911104 12.2029261 51.8711104 12.2029261",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1903"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "Dessau (Germany)",
     "Saxony-Anhalt (Germany)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

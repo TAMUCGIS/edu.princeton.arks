@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1786",
-  "uuid": "http://arks.princeton.edu/ark:/88435/47429c62z",
   "dc_description_s": "Der Ober Rheinische Kreis : nach seinen Unterabtheilungen",
-  "georss_box_s": "48.80000 6.60000 52.00000 10.35000",
   "layer_modified_dt": "2015-01-19T22:37:28Z",
   "layer_id_s": "47429c62z",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-47429c62z",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/47429c62z/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/47/42/9c/62/z/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "52.00000 6.60000 52.00000 10.35000 48.80000 10.35000 48.80000 6.60000 52.00000 6.60000",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1786"
@@ -20,9 +17,10 @@
   "solr_geom": "ENVELOPE(6.60000, 10.35000, 52.00000, 48.80000)",
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
-    "Baden-Wu\u0308rttemberg (Germany)",
+    "Baden-Württemberg (Germany)",
     "Hesse (Germany)",
     "North Rhine-Westphalia (Germany)",
     "Rhineland-Palatinate (Germany)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(10.2347, 10.3765, 47.7774, 47.6956)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/nk322f96g\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/nk322f96g/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/nk322f96g",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Stadte-Verlag",
   "dc_type_s": "Image",
   "dc_identifier_s": "nk322f96g",
-  "georss_polygon_s": "47.7774 10.2347 47.7774 10.3765 47.6956 10.3765 47.6956 10.2347 47.7774 10.2347",
   "dc_publisher_s": "Stadte-Verlag",
   "solr_year_i": "1963",
   "dct_spatial_sm": [
@@ -30,9 +28,9 @@
     "Bayern Freistaat"
   ],
   "layer_id_s": "nk322f96g",
-  "georss_box_s": "47.6956 10.2347 47.7774 10.3765",
   "dc_title_s": "Stadtplan Kempten",
   "layer_slug_s": "princeton-nk322f96g",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

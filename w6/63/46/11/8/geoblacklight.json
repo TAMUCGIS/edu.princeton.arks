@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1879",
-  "uuid": "http://arks.princeton.edu/ark:/88435/w66346118",
-  "dc_description_s": "Nouvelle carte de l'Ame\u0301rique me\u0301ridionale : et des i\u0302les qui en de\u0301pendent",
-  "georss_box_s": "-21.0000498 -61.0000502 -20.9999498 -60.9999502",
+  "dc_description_s": "Nouvelle carte de l'Amérique méridionale : et des îles qui en dépendent",
   "layer_modified_dt": "2015-01-21T22:24:17Z",
   "dc_creator_sm": [
     "Levasseur, Emile,"
@@ -11,11 +9,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "w66346118",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Nouvelle carte de l'Ame\u0301rique me\u0301ridionale : et des i\u0302les qui en de\u0301pendent",
+  "dc_title_s": "Nouvelle carte de l'Amérique méridionale : et des îles qui en dépendent",
   "layer_slug_s": "princeton-w66346118",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/w66346118/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/w6/63/46/11/8/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "-20.9999498 -61.0000502 -20.9999498 -60.9999502 -21.0000498 -60.9999502 -21.0000498 -61.0000502 -20.9999498 -61.0000502",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1879"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "South America"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

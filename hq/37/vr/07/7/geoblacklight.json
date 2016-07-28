@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1885",
-  "uuid": "http://arks.princeton.edu/ark:/88435/hq37vr077",
   "dc_description_s": "Bacon's map of Liverpool : corrected to the present time",
-  "georss_box_s": "53.3115585 -3.0191725 53.4749837 -2.8180002",
   "layer_modified_dt": "2015-01-21T22:24:17Z",
   "layer_id_s": "hq37vr077",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-hq37vr077",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/hq37vr077/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/hq/37/vr/07/7/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "53.4749837 -3.0191725 53.4749837 -2.8180002 53.3115585 -2.8180002 53.3115585 -3.0191725 53.4749837 -3.0191725",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1885"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Liverpool (England)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

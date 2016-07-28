@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1945",
-  "uuid": "http://arks.princeton.edu/ark:/88435/gb19f8314",
-  "dc_description_s": "Plano topogra\u0301fico de la ciudad de Me\u0301rida",
-  "georss_box_s": "20.8071405 -89.7837 21.1271405 -89.4637",
+  "dc_description_s": "Plano topográfico de la ciudad de Mérida",
   "layer_modified_dt": "2015-01-21T22:24:24Z",
   "dc_creator_sm": [
     "Cervantes, Enrique A.",
@@ -12,11 +10,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "gb19f8314",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Plano topogra\u0301fico de la ciudad de Me\u0301rida",
+  "dc_title_s": "Plano topográfico de la ciudad de Mérida",
   "layer_slug_s": "princeton-gb19f8314",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/gb19f8314/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/gb/19/f8/31/4/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "21.1271405 -89.7837 21.1271405 -89.4637 20.8071405 -89.4637 20.8071405 -89.7837 21.1271405 -89.7837",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1945"
@@ -24,6 +21,7 @@
   "solr_geom": "ENVELOPE(-89.7837, -89.4637, 21.1271405, 20.8071405)",
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
-    "Me\u0301rida (Mexico)"
-  ]
+    "Mérida (Mexico)"
+  ],
+  "geoblacklight_version": "1.0"
 }

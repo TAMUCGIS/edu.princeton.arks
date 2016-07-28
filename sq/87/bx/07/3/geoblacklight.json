@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1884",
-  "uuid": "http://arks.princeton.edu/ark:/88435/sq87bx073",
   "dc_description_s": "Persia and Afghanistan",
-  "georss_box_s": "24.0 47.0 40.0 72.0",
   "layer_modified_dt": "2015-01-19T22:37:18Z",
   "layer_id_s": "sq87bx073",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-sq87bx073",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/sq87bx073/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/sq/87/bx/07/3/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.0 47.0 40.0 72.0 24.0 72.0 24.0 47.0 40.0 47.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1884"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Afghanistan",
     "Iran"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

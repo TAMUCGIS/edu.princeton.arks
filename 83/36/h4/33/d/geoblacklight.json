@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1779",
-  "uuid": "http://arks.princeton.edu/ark:/88435/8336h433d",
   "dc_description_s": "Carte du theatre de la guerre presente en Amerique",
-  "georss_box_s": "-14.7608357 -179.9999999 71.6048217 180",
   "layer_modified_dt": "2015-01-21T22:24:04Z",
   "layer_id_s": "8336h433d",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-8336h433d",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/8336h433d/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/83/36/h4/33/d/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "71.6048217 -179.9999999 71.6048217 180 -14.7608357 180 -14.7608357 -179.9999999 71.6048217 -179.9999999",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1779"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "United States",
     "United States"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

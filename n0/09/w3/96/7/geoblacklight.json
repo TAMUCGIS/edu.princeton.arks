@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-72.75, -72.5, 42, 41.75)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/n009w3967/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/n0/09/w3/96/7/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/n009w3967/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/n009w3967",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "historical maps",
@@ -20,7 +19,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "n009w3967",
-  "georss_polygon_s": "42 -72.75 42 -72.5 41.75 -72.5 41.75 -72.75 42 -72.75",
   "dc_publisher_s": "US Geological Survey",
   "dct_spatial_sm": [
     "Hartford",
@@ -30,9 +28,9 @@
     "United States"
   ],
   "layer_id_s": "n009w3967",
-  "georss_box_s": "41.75 -72.75 42 -72.5",
   "dc_title_s": "Connecticut: Hartford sheet [1906 reprint]",
   "dct_issued_s": "March 1892",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

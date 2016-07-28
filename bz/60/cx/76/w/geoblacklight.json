@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(29.286, 29.4268, -3.2998, -3.4834)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/bz60cx76w\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/bz60cx76w/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/bz60cx76w",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -19,7 +18,6 @@
   "dc_creator_sm": "United States Defense Mapping Agency, Aerospace Agency",
   "dc_type_s": "Image",
   "dc_identifier_s": "bz60cx76w",
-  "georss_polygon_s": "-3.2998 29.286 -3.2998 29.4268 -3.4834 29.4268 -3.4834 29.286 -3.2998 29.286",
   "dc_publisher_s": "United States Defense Mapping Agency, Aerospace Agency",
   "solr_year_i": "1995",
   "dct_spatial_sm": [
@@ -30,9 +28,9 @@
     "Africa"
   ],
   "layer_id_s": "bz60cx76w",
-  "georss_box_s": "-3.4834 29.286 -3.2998 29.4268",
   "dc_title_s": "Burundi city graphic 1:12,500. Bujumbura. Series Z921",
   "layer_slug_s": "princeton-bz60cx76w",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

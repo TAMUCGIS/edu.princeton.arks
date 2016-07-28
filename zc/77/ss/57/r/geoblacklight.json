@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1590",
-  "uuid": "http://arks.princeton.edu/ark:/88435/zc77ss57r",
   "dc_description_s": "A mapp of the north part from the equinoctial, with the auncient seates of the families mentioned in genesis : conteyning also the summe of Daniel, who sheweth howe those fight against the Ebrewes until our Lord's Birth from the fall of David's Kingdome",
-  "georss_box_s": "0 -180 90 180",
   "layer_modified_dt": "2015-01-21T22:24:13Z",
   "dc_creator_sm": [
     "Broughton, Hugh,",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-zc77ss57r",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/zc77ss57r/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/zc/77/ss/57/r/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "90 -180 90 180 0 180 0 -180 90 -180",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1590"
@@ -26,5 +23,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Northern Hemisphere"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

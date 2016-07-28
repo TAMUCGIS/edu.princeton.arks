@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1900",
-  "uuid": "http://arks.princeton.edu/ark:/88435/mp48sg307",
   "dc_description_s": "Plan der Stadt Helmstedt ; Karte der Umgebung von Helmstedt",
-  "georss_box_s": "52.1754 10.9118835 52.2872682 11.0723671",
   "layer_modified_dt": "2015-01-21T22:24:27Z",
   "layer_id_s": "mp48sg307",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-mp48sg307",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/mp48sg307/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/mp/48/sg/30/7/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "52.2872682 10.9118835 52.2872682 11.0723671 52.1754 11.0723671 52.1754 10.9118835 52.2872682 10.9118835",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1900"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Helmstedt (Germany)",
     "Lower Saxony (Germany)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1915",
-  "uuid": "http://arks.princeton.edu/ark:/88435/k930c005m",
   "dc_description_s": "Map of the Borough of Princeton, Mercer County, New Jersey",
-  "georss_box_s": "40.3092744 -74.6992958 40.3892744 -74.6192958",
   "layer_modified_dt": "2015-01-21T22:23:53Z",
   "dc_creator_sm": [
     "Ulyat, William L."
@@ -15,12 +13,14 @@
   "layer_slug_s": "princeton-k930c005m",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/k930c005m/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/k9/30/c0/05/m/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.3892744 -74.6992958 40.3892744 -74.6192958 40.3092744 -74.6192958 40.3092744 -74.6992958 40.3892744 -74.6992958",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1915"
   ],
   "solr_geom": "ENVELOPE(-74.6992958, -74.6192958, 40.3892744, 40.3092744)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

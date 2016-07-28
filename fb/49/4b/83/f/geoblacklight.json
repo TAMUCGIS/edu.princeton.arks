@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1856",
-  "uuid": "http://arks.princeton.edu/ark:/88435/fb494b83f",
   "dc_description_s": "Plan of Fort Green, and line of intrenchments, from the Wallabout to Gowanus Creek : with a topographical sketch of the country",
-  "georss_box_s": "40.477399 -74.2590899 40.917577 -73.7001714",
   "layer_modified_dt": "2015-01-21T22:24:01Z",
   "dc_creator_sm": [
     "Hayward, George,",
@@ -17,12 +15,14 @@
   "layer_slug_s": "princeton-fb494b83f",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/fb494b83f/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/fb/49/4b/83/f/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.917577 -74.2590899 40.917577 -73.7001714 40.477399 -73.7001714 40.477399 -74.2590899 40.917577 -74.2590899",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1856"
   ],
   "solr_geom": "ENVELOPE(-74.2590899, -73.7001714, 40.917577, 40.477399)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

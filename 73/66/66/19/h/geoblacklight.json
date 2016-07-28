@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-2.3594, -2.0482, 57.2351, 57.0757)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/73666619h\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/73666619h/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/73666619h",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -19,7 +18,6 @@
   "dc_creator_sm": "Aberdeen Corporation Publicity Department",
   "dc_type_s": "Image",
   "dc_identifier_s": "73666619h",
-  "georss_polygon_s": "57.2351 -2.3594 57.2351 -2.0482 57.0757 -2.0482 57.0757 -2.3594 57.2351 -2.3594",
   "dc_publisher_s": "Aberdeen Corporation Publicity Department",
   "solr_year_i": "1973",
   "dct_spatial_sm": [
@@ -28,9 +26,9 @@
     "City of Aberdeen"
   ],
   "layer_id_s": "73666619h",
-  "georss_box_s": "57.0757 -2.3594 57.2351 -2.0482",
   "dc_title_s": "Street plan of the royal burgh of Aberdeen",
   "layer_slug_s": "princeton-73666619h",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

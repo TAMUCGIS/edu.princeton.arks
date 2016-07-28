@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(9.9602, 10.0125, 53.482, 53.4504)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/dn39x326z\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/dn39x326z/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/dn39x326z",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -17,7 +16,6 @@
   "dc_creator_sm": "Freie und Hansestadt Hamburg, Vermessungsamt",
   "dc_type_s": "Image",
   "dc_identifier_s": "dn39x326z",
-  "georss_polygon_s": "53.482 9.9602 53.482 10.0125 53.4504 10.0125 53.4504 9.9602 53.482 9.9602",
   "dc_publisher_s": "Freie und Hansestadt Hamburg, Vermessungsamt",
   "solr_year_i": "1952",
   "dct_spatial_sm": [
@@ -26,9 +24,9 @@
     "Harburg"
   ],
   "layer_id_s": "dn39x326z",
-  "georss_box_s": "53.4504 9.9602 53.482 10.0125",
-  "dc_title_s": "Stra\u00dfenkarte von Hamburg: Harburg",
+  "dc_title_s": "Straßenkarte von Hamburg: Harburg",
   "layer_slug_s": "princeton-dn39x326z",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

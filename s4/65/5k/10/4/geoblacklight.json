@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1916",
-  "uuid": "http://arks.princeton.edu/ark:/88435/s4655k104",
   "dc_description_s": "Map of Mexico",
-  "georss_box_s": "14.0 -118.0 32.0 -86.0",
   "layer_modified_dt": "2015-01-19T22:37:35Z",
   "dc_creator_sm": [
     "Grosvenor, Gilbert Hovey,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-s4655k104",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/s4655k104/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/s4/65/5k/10/4/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "32.0 -118.0 32.0 -86.0 14.0 -86.0 14.0 -118.0 32.0 -118.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1916"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Mexico"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

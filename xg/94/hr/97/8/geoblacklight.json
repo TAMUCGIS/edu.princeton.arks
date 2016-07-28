@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1903",
-  "uuid": "http://arks.princeton.edu/ark:/88435/xg94hr978",
   "dc_description_s": "Territory of New Mexico",
-  "georss_box_s": "31.3333333333 -109.0 37.0 -103.0",
   "layer_modified_dt": "2015-01-19T22:37:07Z",
   "dc_creator_sm": [
     "Bond, Frank,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-xg94hr978",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/xg94hr978/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/xg/94/hr/97/8/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "37.0 -109.0 37.0 -103.0 31.3333333333 -103.0 31.3333333333 -109.0 37.0 -109.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1903"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "New Mexico"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

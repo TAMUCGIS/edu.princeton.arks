@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-74.25, -74.00, 40.50, 40.25)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/bk128c330/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/bk/12/8c/33/0/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/bk128c330/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/bk128c330",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Topographic map",
@@ -21,7 +20,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "bk128c330",
-  "georss_polygon_s": "40.50 -74.25 40.50 -74.00 40.25 -74.00 40.25 -74.25 40.50 -74.25",
   "dc_publisher_s": "United States Geological Survey",
   "solr_year_i": "1912",
   "dct_spatial_sm": [
@@ -33,9 +31,9 @@
     "New Jersey/New York"
   ],
   "layer_id_s": "bk128c330",
-  "georss_box_s": "40.25 -74.25 40.50 -74.00",
   "dc_title_s": "New Jersey - New York, Navesink Quadrangle (1912)",
   "dct_issued_s": "1912",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

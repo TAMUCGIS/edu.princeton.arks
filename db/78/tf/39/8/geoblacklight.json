@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1860",
-  "uuid": "http://arks.princeton.edu/ark:/88435/db78tf398",
   "dc_description_s": "Map of the five cities of New York, Brooklyn, Jersey City, Hoboken & Hudson City",
-  "georss_box_s": "40.551042 -74.05663 40.739446 -73.8333651",
   "layer_modified_dt": "2015-01-25T02:06:11Z",
   "dc_creator_sm": [
     "Valentine, D. T.",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-db78tf398",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/db78tf398/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/db/78/tf/39/8/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.739446 -74.05663 40.739446 -73.8333651 40.551042 -73.8333651 40.551042 -74.05663 40.739446 -74.05663",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1860"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "New York Metropolitan Area"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

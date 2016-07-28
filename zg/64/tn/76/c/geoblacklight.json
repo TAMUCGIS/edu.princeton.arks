@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1900",
-  "uuid": "http://arks.princeton.edu/ark:/88435/zg64tn76c",
   "dc_description_s": "Abidjan",
-  "georss_box_s": "5.2203147 -4.2940787 5.6363268 -3.717741",
   "layer_modified_dt": "2015-01-21T22:23:43Z",
   "layer_id_s": "zg64tn76c",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-zg64tn76c",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/zg64tn76c/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/zg/64/tn/76/c/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "5.6363268 -4.2940787 5.6363268 -3.717741 5.2203147 -3.717741 5.2203147 -4.2940787 5.6363268 -4.2940787",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1900"
@@ -20,6 +17,7 @@
   "solr_geom": "ENVELOPE(-4.2940787, -3.717741, 5.6363268, 5.2203147)",
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
-    "Abidjan (Co\u0302te d'Ivoire)"
-  ]
+    "Abidjan (Côte d'Ivoire)"
+  ],
+  "geoblacklight_version": "1.0"
 }

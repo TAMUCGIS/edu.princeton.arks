@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-119.000, -118.000, 37.000, 36.2667)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/k643b264s/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/k6/43/b2/64/s/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/k643b264s/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/k643b264s",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Topographic map",
@@ -20,7 +19,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "k643b264s",
-  "georss_polygon_s": "37.000 -119.000 37.000 -118.000 36.2667 -118.000 36.2667 -119.000 37.000 -119.000",
   "solr_year_i": "1927",
   "dct_spatial_sm": [
     "Sequoia",
@@ -30,9 +28,9 @@
     "United States"
   ],
   "layer_id_s": "k643b264s",
-  "georss_box_s": "36.2667 -119.000 37.000 -118.000",
   "dc_title_s": "Topographic map of Sequoia and General Grant National Parks, California.",
   "dct_issued_s": "1927",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

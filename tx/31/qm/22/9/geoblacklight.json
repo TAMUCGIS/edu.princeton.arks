@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1854",
-  "uuid": "http://arks.princeton.edu/ark:/88435/tx31qm229",
   "dc_description_s": "Plan von Coeln und Deutz",
-  "georss_box_s": "50.8304494 6.7725303 51.0849743 7.162028",
   "layer_modified_dt": "2015-01-21T22:24:28Z",
   "dc_creator_sm": [
     "Hagelberg, W.,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-tx31qm229",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/tx31qm229/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/tx/31/qm/22/9/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.0849743 6.7725303 51.0849743 7.162028 50.8304494 7.162028 50.8304494 6.7725303 51.0849743 6.7725303",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1854"
@@ -26,5 +23,6 @@
     "Cologne (Germany)",
     "Deutz (Cologne, Germany)",
     "North Rhine-Westphalia (Germany)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

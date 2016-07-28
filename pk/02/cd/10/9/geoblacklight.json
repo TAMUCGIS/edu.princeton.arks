@@ -1,18 +1,15 @@
 {
   "solr_year_i": "1783",
-  "uuid": "http://arks.princeton.edu/ark:/88435/pk02cd109",
-  "dc_description_s": "Carte des environs de Paris : comprenant partie des gouvernemens ge\u0301ne\u0301raux de l'Isle de France, de Normandie, d'Orle\u0301anois et de Champagne",
-  "georss_box_s": "48.1200811 1.44617 49.241504 3.5590069",
+  "dc_description_s": "Carte des environs de Paris : comprenant partie des gouvernemens généraux de l'Isle de France, de Normandie, d'Orléanois et de Champagne",
   "layer_modified_dt": "2015-01-21T22:23:58Z",
   "layer_id_s": "pk02cd109",
   "dc_type_s": "Image",
   "dc_identifier_s": "pk02cd109",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Carte des environs de Paris : comprenant partie des gouvernemens ge\u0301ne\u0301raux de l'Isle de France, de Normandie, d'Orle\u0301anois et de Champagne",
+  "dc_title_s": "Carte des environs de Paris : comprenant partie des gouvernemens généraux de l'Isle de France, de Normandie, d'Orléanois et de Champagne",
   "layer_slug_s": "princeton-pk02cd109",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/pk02cd109/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/pk/02/cd/10/9/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "49.241504 1.44617 49.241504 3.5590069 48.1200811 3.5590069 48.1200811 1.44617 49.241504 1.44617",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1783"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Paris Region (France)",
     "Paris (France)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

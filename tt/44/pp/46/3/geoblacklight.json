@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(10.5769, 10.8948, 51.8811, 51.7550)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/tt44pp463\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/tt44pp463/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/tt44pp463",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Dewag-Werbung",
   "dc_type_s": "Image",
   "dc_identifier_s": "tt44pp463",
-  "georss_polygon_s": "51.8811 10.5769 51.8811 10.8948 51.7550 10.8948 51.7550 10.5769 51.8811 10.5769",
   "dc_publisher_s": "Dewag-Werbung",
   "solr_year_i": "1964",
   "dct_spatial_sm": [
@@ -27,9 +25,9 @@
     "Sachsen-Anhalt Land"
   ],
   "layer_id_s": "tt44pp463",
-  "georss_box_s": "51.7550 10.5769 51.8811 10.8948",
   "dc_title_s": "Wernigerode",
   "layer_slug_s": "princeton-tt44pp463",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

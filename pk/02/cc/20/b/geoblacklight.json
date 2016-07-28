@@ -1,10 +1,9 @@
 {
-  "dc_description_s": "This is a city map of M\u00fcnster, Germany, shown at a 1:16,500-1:22,000 scale. This city map was created by Falk-Verlag.",
+  "dc_description_s": "This is a city map of Münster, Germany, shown at a 1:16,500-1:22,000 scale. This city map was created by Falk-Verlag.",
   "layer_modified_dt": "2015-01-11T18:24:41Z",
   "solr_geom": "ENVELOPE(7.4747, 7.7713, 52.0588, 51.8421)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/pk02cc20b\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/pk02cc20b/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/pk02cc20b",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,20 +17,19 @@
   "dc_creator_sm": "Falk-Verlag",
   "dc_type_s": "Image",
   "dc_identifier_s": "pk02cc20b",
-  "georss_polygon_s": "52.0588 7.4747 52.0588 7.7713 51.8421 7.7713 51.8421 7.4747 52.0588 7.4747",
   "dc_publisher_s": "Falk-Verlag",
   "solr_year_i": "1965",
   "dct_spatial_sm": [
-    "M\u00fcnster",
+    "Münster",
     "Germany",
     "Bundesrepublik Deutschland",
     "Federal Republic of Germany",
     "West Germany"
   ],
   "layer_id_s": "pk02cc20b",
-  "georss_box_s": "51.8421 7.4747 52.0588 7.7713",
-  "dc_title_s": "M\u00fcnster",
+  "dc_title_s": "Münster",
   "layer_slug_s": "princeton-pk02cc20b",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

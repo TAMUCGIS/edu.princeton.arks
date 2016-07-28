@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-75.1148, -75.1109, 39.9479, 39.944)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/5138jg54q/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/51/38/jg/54/q/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/5138jg54q/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/5138jg54q",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "5138jg54q",
-  "georss_polygon_s": "39.9479 -75.1148 39.9479 -75.1109 39.944 -75.1109 39.944 -75.1148 39.9479 -75.1148",
   "dc_publisher_s": "Sanborn Map Company",
   "solr_year_i": "1891",
   "dct_spatial_sm": [
@@ -28,9 +26,9 @@
     "United States"
   ],
   "layer_id_s": "5138jg54q",
-  "georss_box_s": "39.944 -75.1148 39.9479 -75.1109",
   "dc_title_s": "Camden, Burlington County (Sheet 21)",
   "dct_issued_s": "1891",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

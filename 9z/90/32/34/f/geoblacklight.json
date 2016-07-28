@@ -1,7 +1,5 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/9z903234f",
   "dc_description_s": "Nova tabula terrarum Cucan, Canara, Malabaria, Madura & Coromandelia : cum parte septentrionali insulae Ceylon in mari Indico orientali",
-  "georss_box_s": "6.7535159 72.20535475 20.1064563727 85.96977375",
   "layer_modified_dt": "2015-01-21T22:24:19Z",
   "dc_creator_sm": [
     "Keulen, Gerard van.",
@@ -15,12 +13,12 @@
   "layer_slug_s": "princeton-9z903234f",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/9z903234f/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/9z/90/32/34/f/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "20.1064563727 72.20535475 20.1064563727 85.96977375 6.7535159 85.96977375 6.7535159 72.20535475 20.1064563727 72.20535475",
   "layer_geom_type_s": "Image",
   "solr_geom": "ENVELOPE(72.20535475, 85.96977375, 20.1064563727, 6.7535159)",
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "India, South",
     "Sri Lanka"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

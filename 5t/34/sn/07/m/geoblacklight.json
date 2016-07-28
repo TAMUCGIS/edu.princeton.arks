@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1855",
-  "uuid": "http://arks.princeton.edu/ark:/88435/5t34sn07m",
   "dc_description_s": "Colton's Germany : no. 3",
-  "georss_box_s": "49.0 6.0 53.0 10.0",
   "layer_modified_dt": "2015-01-19T22:37:31Z",
   "dc_creator_sm": [
     "Colton, G. Woolworth"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-5t34sn07m",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/5t34sn07m/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/5t/34/sn/07/m/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "53.0 6.0 53.0 10.0 49.0 10.0 49.0 6.0 53.0 6.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1855"
@@ -27,5 +24,6 @@
     "Hesse (Germany)",
     "North Rhine-Westphalia (Germany)",
     "Rhineland-Palatinate (Germany)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1889",
-  "uuid": "http://arks.princeton.edu/ark:/88435/nv935469d",
   "dc_description_s": "The \"Daily mail\" Map of the Boer Republics.",
-  "georss_box_s": "-30.6940799 24.34662 -26.6687399 29.78513",
   "layer_modified_dt": "2015-01-21T22:23:43Z",
   "layer_id_s": "nv935469d",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-nv935469d",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/nv935469d/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/nv/93/54/69/d/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "-26.6687399 24.34662 -26.6687399 29.78513 -30.6940799 29.78513 -30.6940799 24.34662 -26.6687399 24.34662",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1889"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Free State (South Africa)",
     "Transvaal (South Africa)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

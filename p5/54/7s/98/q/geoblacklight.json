@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(9.5, 25.317, 32.276, 24.237)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/p5547s98q/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/p5/54/7s/98/q/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/p5547s98q/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/p5547s98q",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Historical Maps",
@@ -18,7 +17,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "p5547s98q",
-  "georss_polygon_s": "32.276 9.5 32.276 25.317 24.237 25.317 24.237 9.5 32.276 9.5",
   "dc_publisher_s": "Macpherson, David",
   "solr_year_i": "1806",
   "dct_spatial_sm": [
@@ -26,9 +24,9 @@
     "Africa"
   ],
   "layer_id_s": "p5547s98q",
-  "georss_box_s": "24.237 9.5 32.276 25.317",
-  "dc_title_s": "Liby\u00e6, vel Afric\u00e6, ora borealis ",
+  "dc_title_s": "Libyæ, vel Africæ, ora borealis ",
   "dct_issued_s": "1806",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

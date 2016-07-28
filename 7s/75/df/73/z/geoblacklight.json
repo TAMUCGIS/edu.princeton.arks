@@ -1,18 +1,15 @@
 {
   "solr_year_i": "1690",
-  "uuid": "http://arks.princeton.edu/ark:/88435/7s75df73z",
-  "dc_description_s": "Novi Belgii, Nov\u00e6que Angli\u00e6 nec non Pennsylvani\u00e6 et partis Virgini\u00e6 tabula /",
-  "georss_box_s": "40.950943 -73.727775 47.459686 -66.8850751",
+  "dc_description_s": "Novi Belgii, Novæque Angliæ nec non Pennsylvaniæ et partis Virginiæ tabula /",
   "layer_modified_dt": "2015-01-21T22:23:56Z",
   "layer_id_s": "7s75df73z",
   "dc_type_s": "Image",
   "dc_identifier_s": "7s75df73z",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Novi Belgii, Nov\u00e6que Angli\u00e6 nec non Pennsylvani\u00e6 et partis Virgini\u00e6 tabula /",
+  "dc_title_s": "Novi Belgii, Novæque Angliæ nec non Pennsylvaniæ et partis Virginiæ tabula /",
   "layer_slug_s": "princeton-7s75df73z",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/7s75df73z/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/7s/75/df/73/z/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "47.459686 -73.727775 47.459686 -66.8850751 40.950943 -66.8850751 40.950943 -73.727775 47.459686 -73.727775",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1690"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "New England",
     "Middle Atlantic States"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

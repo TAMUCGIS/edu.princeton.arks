@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1805",
-  "uuid": "http://arks.princeton.edu/ark:/88435/zp38wg112",
   "dc_description_s": "A map of Norfolk : from the best authorities",
-  "georss_box_s": "52.3553666 0.1535553 52.9916398 1.7457818",
   "layer_modified_dt": "2015-01-21T22:24:17Z",
   "dc_creator_sm": [
     "Morris, William H.,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-zp38wg112",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/zp38wg112/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/zp/38/wg/11/2/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "52.9916398 0.1535553 52.9916398 1.7457818 52.3553666 1.7457818 52.3553666 0.1535553 52.9916398 0.1535553",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1805"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Norfolk (England)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

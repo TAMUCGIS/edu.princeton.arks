@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1585",
-  "uuid": "http://arks.princeton.edu/ark:/88435/rj430705t",
   "dc_description_s": "Tipus Vindeliciae siue vtriusque Bauariae",
-  "georss_box_s": "47.2701114 8.9763497 50.5647142 13.8396373",
   "layer_modified_dt": "2015-01-21T22:24:21Z",
   "dc_creator_sm": [
     "Favolius, Hugo,",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-rj430705t",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/rj430705t/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/rj/43/07/05/t/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "50.5647142 8.9763497 50.5647142 13.8396373 47.2701114 13.8396373 47.2701114 8.9763497 50.5647142 8.9763497",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1585"
@@ -26,5 +23,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Bavaria (Germany)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

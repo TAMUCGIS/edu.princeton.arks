@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1794",
-  "uuid": "http://arks.princeton.edu/ark:/88435/736666993",
   "dc_description_s": "The traveller's companion, or, The post roads of England and Wales : with the distances in measured miles",
-  "georss_box_s": "49.0 -8.0 56.0 2.0",
   "layer_modified_dt": "2015-01-19T22:37:26Z",
   "layer_id_s": "736666993",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-736666993",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/736666993/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/73/66/66/99/3/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "56.0 -8.0 56.0 2.0 49.0 2.0 49.0 -8.0 56.0 -8.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1794"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "England",
     "Wales"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

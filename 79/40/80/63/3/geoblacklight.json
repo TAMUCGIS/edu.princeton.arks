@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1964",
-  "uuid": "http://arks.princeton.edu/ark:/88435/794080633",
   "dc_description_s": "Palestine of the Crusades",
-  "georss_box_s": "31.3333333333 34.3333333333 33.3333333333 35.8333333333",
   "layer_modified_dt": "2015-01-19T22:37:20Z",
   "dc_creator_sm": [
     "Salmon, F. J."
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-794080633",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/794080633/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/79/40/80/63/3/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "33.3333333333 34.3333333333 33.3333333333 35.8333333333 31.3333333333 35.8333333333 31.3333333333 34.3333333333 33.3333333333 34.3333333333",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1964"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Jerusalem"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

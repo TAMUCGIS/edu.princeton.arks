@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1871",
-  "uuid": "http://arks.princeton.edu/ark:/88435/th83m180s",
   "dc_description_s": "Map showing the line of the Cairo & Fulton Railroad and its connections",
-  "georss_box_s": "26.0 -104.0 42.0 -86.0",
   "layer_modified_dt": "2015-01-19T22:37:23Z",
   "layer_id_s": "th83m180s",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-th83m180s",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/th83m180s/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/th/83/m1/80/s/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "42.0 -104.0 42.0 -86.0 26.0 -86.0 26.0 -104.0 42.0 -104.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1871"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Middle West"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

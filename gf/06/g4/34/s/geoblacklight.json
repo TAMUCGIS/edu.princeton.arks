@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(28.8098, 28.8919, -2.4725, -2.5546)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/gf06g434s\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/gf06g434s/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/gf06g434s",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -19,7 +18,6 @@
   "dc_creator_sm": "United States Defense Mapping Agency, Hydrographic/Topographic Center",
   "dc_type_s": "Image",
   "dc_identifier_s": "gf06g434s",
-  "georss_polygon_s": "-2.4725 28.8098 -2.4725 28.8919 -2.5546 28.8919 -2.5546 28.8098 -2.4725 28.8098",
   "dc_publisher_s": "United States Defense Mapping Agency, Hydrographic/Topographic Center",
   "solr_year_i": "1994",
   "dct_spatial_sm": [
@@ -31,9 +29,9 @@
     "Africa"
   ],
   "layer_id_s": "gf06g434s",
-  "georss_box_s": "-2.5546 28.8098 -2.4725 28.8919",
   "dc_title_s": "Zaire city map 1:12,500. Bukavu. Series Z901",
   "layer_slug_s": "princeton-gf06g434s",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

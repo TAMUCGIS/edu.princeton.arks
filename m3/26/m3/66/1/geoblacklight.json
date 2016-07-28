@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1906",
-  "uuid": "http://arks.princeton.edu/ark:/88435/m326m3661",
   "dc_description_s": "Oahu, Hawaiian Islands",
-  "georss_box_s": "21.2548159 -158.2805761 21.7120844 -157.6486276",
   "layer_modified_dt": "2015-01-21T22:23:52Z",
   "layer_id_s": "m326m3661",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-m326m3661",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/m326m3661/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/m3/26/m3/66/1/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "21.7120844 -158.2805761 21.7120844 -157.6486276 21.2548159 -157.6486276 21.2548159 -158.2805761 21.7120844 -158.2805761",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1906"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Oahu (Hawaii)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

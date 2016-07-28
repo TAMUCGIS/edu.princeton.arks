@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(10.0401, 10.2117, 54.4337, 54.2528)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/1831cm64g\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/1831cm64g/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/1831cm64g",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -20,7 +19,6 @@
   "dc_creator_sm": "United States. Office of Strategic Services. Research and Analysis Branch",
   "dc_type_s": "Image",
   "dc_identifier_s": "1831cm64g",
-  "georss_polygon_s": "54.4337 10.0401 54.4337 10.2117 54.2528 10.2117 54.2528 10.0401 54.4337 10.0401",
   "dc_publisher_s": "United States. Office of Strategic Services. Research and Analysis Branch",
   "solr_year_i": "1944",
   "dct_spatial_sm": [
@@ -32,9 +30,9 @@
     "Schleswig-Holstein Land"
   ],
   "layer_id_s": "1831cm64g",
-  "georss_box_s": "54.2528 10.0401 54.4337 10.2117",
   "dc_title_s": "Port of Kiel",
   "layer_slug_s": "princeton-1831cm64g",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

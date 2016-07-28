@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(15.721170, 19.622772, 45.277027, 42.560511)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/0k225c73j/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/0k225c73j/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/0k225c73j/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/0k225c73j",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "administrative units",
@@ -22,7 +21,6 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "0k225c73j",
-  "georss_polygon_s": "45.277027 15.721170 45.277027 19.622772 42.560511 19.622772 42.560511 15.721170 45.277027 15.721170",
   "dc_publisher_s": "Gfk MACON Company",
   "solr_year_i": "2006",
   "dct_spatial_sm": [
@@ -31,9 +29,9 @@
     "Herzegovina"
   ],
   "layer_id_s": "pulmap-restricted:0k225c73j",
-  "georss_box_s": "42.560511 15.721170 45.277027 19.622772",
   "dc_title_s": "Bosnia-Herzegovina District Boundaries, 2005",
   "layer_slug_s": "princeton-0k225c73j",
   "layer_geom_type_s": "Polygon",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

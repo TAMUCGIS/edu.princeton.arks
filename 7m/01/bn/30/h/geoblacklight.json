@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-4.0313, -3.9794, 34.2547, 34.1988)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/7m01bn30h\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/7m01bn30h/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/7m01bn30h",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -20,7 +19,6 @@
   "dc_creator_sm": "Institut Geographique National, Annexe du Maroc",
   "dc_type_s": "Image",
   "dc_identifier_s": "7m01bn30h",
-  "georss_polygon_s": "34.2547 -4.0313 34.2547 -3.9794 34.1988 -3.9794 34.1988 -4.0313 34.2547 -4.0313",
   "dc_publisher_s": "Institut Geographique National, Annexe du Maroc",
   "solr_year_i": "1955",
   "dct_spatial_sm": [
@@ -30,9 +28,9 @@
     "Province de Taza"
   ],
   "layer_id_s": "7m01bn30h",
-  "georss_box_s": "34.1988 -4.0313 34.2547 -3.9794",
   "dc_title_s": "Plan de Taza, 1955",
   "layer_slug_s": "princeton-7m01bn30h",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

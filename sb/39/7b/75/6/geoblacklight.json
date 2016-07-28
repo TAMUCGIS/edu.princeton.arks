@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1960",
-  "uuid": "http://arks.princeton.edu/ark:/88435/sb397b756",
   "dc_description_s": "Economic map of Iran = Carta economico della Iran",
-  "georss_box_s": "24.8465103 44.0318908 39.7816502 63.3332704",
   "layer_modified_dt": "2015-01-21T22:24:19Z",
   "layer_id_s": "sb397b756",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-sb397b756",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/sb397b756/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/sb/39/7b/75/6/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "39.7816502 44.0318908 39.7816502 63.3332704 24.8465103 63.3332704 24.8465103 44.0318908 39.7816502 44.0318908",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1960"
@@ -23,5 +20,6 @@
     "Iran",
     "Iran",
     "Iran"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

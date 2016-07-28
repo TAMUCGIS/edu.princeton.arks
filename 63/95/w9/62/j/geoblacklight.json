@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1799",
-  "uuid": "http://arks.princeton.edu/ark:/88435/6395w962j",
   "dc_description_s": "New York",
-  "georss_box_s": "40.5 -80.1666666667 44.8333333333 -71.8333333333",
   "layer_modified_dt": "2015-01-19T22:37:42Z",
   "dc_creator_sm": [
     "Bohn, Carl Ernst,",
@@ -18,7 +16,6 @@
   "layer_slug_s": "princeton-6395w962j",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/6395w962j/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/63/95/w9/62/j/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "44.8333333333 -80.1666666667 44.8333333333 -71.8333333333 40.5 -71.8333333333 40.5 -80.1666666667 44.8333333333 -80.1666666667",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1799"
@@ -27,5 +24,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "New York (State)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

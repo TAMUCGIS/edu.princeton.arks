@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-80.6192, -80.4725, 8.2625, 8.1778)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/vd66w1617\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/vd66w1617/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/vd66w1617",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -19,7 +18,6 @@
   "dc_creator_sm": "Instituto Geografico Nacional",
   "dc_type_s": "Image",
   "dc_identifier_s": "vd66w1617",
-  "georss_polygon_s": "8.2625 -80.6192 8.2625 -80.4725 8.1778 -80.4725 8.1778 -80.6192 8.2625 -80.6192",
   "dc_publisher_s": "Instituto Geografico Nacional",
   "solr_year_i": "1999",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "Cocle Province"
   ],
   "layer_id_s": "vd66w1617",
-  "georss_box_s": "8.1778 -80.6192 8.2625 -80.4725",
   "dc_title_s": "Panama 1:12,500. Aguadulce. Serie E961",
   "layer_slug_s": "princeton-vd66w1617",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

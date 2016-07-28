@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1773",
-  "uuid": "http://arks.princeton.edu/ark:/88435/2227ms13t",
   "dc_description_s": "Carte de la Louisiane et pays voisins : pour servir a l'histoire des etablissemens Europeens",
-  "georss_box_s": "28.855127 -94.0431469 33.0194557 -88.7583879",
   "layer_modified_dt": "2015-01-21T22:24:13Z",
   "dc_creator_sm": [
     "Raynal,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-2227ms13t",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/2227ms13t/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/22/27/ms/13/t/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "33.0194557 -94.0431469 33.0194557 -88.7583879 28.855127 -88.7583879 28.855127 -94.0431469 33.0194557 -94.0431469",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1773"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "Louisiana",
     "Mississippi River Valley"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

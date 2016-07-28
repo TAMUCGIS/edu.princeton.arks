@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-75.1299, -75.1247, 39.8977, 39.8943)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/dz010r805/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/dz/01/0r/80/5/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/dz010r805/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/dz010r805",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "dz010r805",
-  "georss_polygon_s": "39.8977 -75.1299 39.8977 -75.1247 39.8943 -75.1247 39.8943 -75.1299 39.8977 -75.1299",
   "dc_publisher_s": "Sanborn Map Company",
   "solr_year_i": "1902",
   "dct_spatial_sm": [
@@ -28,9 +26,9 @@
     "United States"
   ],
   "layer_id_s": "dz010r805",
-  "georss_box_s": "39.8943 -75.1299 39.8977 -75.1247",
   "dc_title_s": "Gloucester City, Camden Co., NJ (Sheet 4)",
   "dct_issued_s": "1902",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

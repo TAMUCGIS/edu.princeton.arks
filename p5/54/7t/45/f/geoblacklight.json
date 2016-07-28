@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1810",
-  "uuid": "http://arks.princeton.edu/ark:/88435/p5547t45f",
   "dc_description_s": "London and Westminster in the reign of Queen Elizabeth, anno Dom., 1563",
-  "georss_box_s": "51.2867602 -0.510375 51.6918741 0.3340155",
   "layer_modified_dt": "2015-01-21T22:23:53Z",
   "layer_id_s": "p5547t45f",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-p5547t45f",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/p5547t45f/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/p5/54/7t/45/f/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.6918741 -0.510375 51.6918741 0.3340155 51.2867602 0.3340155 51.2867602 -0.510375 51.6918741 -0.510375",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1810"
@@ -23,5 +20,6 @@
     "London (England)",
     "London (England)",
     "Westminster (London, England)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

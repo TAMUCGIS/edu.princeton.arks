@@ -1,10 +1,8 @@
 {
-  "uuid": "http://arks.princeton.edu/ark:/88435/vm40xv07q",
   "dc_description_s": "Orographische Karte des Siebengebirges bei Bonn",
-  "georss_box_s": "50.639641 7.1682649 50.711371 7.2906732",
   "layer_modified_dt": "2015-01-21T22:24:20Z",
   "dc_creator_sm": [
-    "No\u0308ggerath, Jakob,"
+    "Nöggerath, Jakob,"
   ],
   "layer_id_s": "vm40xv07q",
   "dc_type_s": "Image",
@@ -14,11 +12,11 @@
   "layer_slug_s": "princeton-vm40xv07q",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/vm40xv07q/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/vm/40/xv/07/q/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "50.711371 7.1682649 50.711371 7.2906732 50.639641 7.2906732 50.639641 7.1682649 50.711371 7.1682649",
   "layer_geom_type_s": "Image",
   "solr_geom": "ENVELOPE(7.1682649, 7.2906732, 50.711371, 50.639641)",
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Siebengebirge (Germany)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1867",
-  "uuid": "http://arks.princeton.edu/ark:/88435/x059c983m",
   "dc_description_s": "Map of Oxford Furnace iron-ore veins, Warren County",
-  "georss_box_s": "40.7814749 -75.025313 40.832713 -74.953184",
   "layer_modified_dt": "2015-01-21T22:24:23Z",
   "dc_creator_sm": [
     "Cook, George Hammell,",
@@ -17,12 +15,14 @@
   "layer_slug_s": "princeton-x059c983m",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/x059c983m/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/x0/59/c9/83/m/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.832713 -75.025313 40.832713 -74.953184 40.7814749 -74.953184 40.7814749 -75.025313 40.832713 -75.025313",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1867"
   ],
   "solr_geom": "ENVELOPE(-75.025313, -74.953184, 40.832713, 40.7814749)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

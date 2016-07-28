@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1912",
-  "uuid": "http://arks.princeton.edu/ark:/88435/cv43p031r",
   "dc_description_s": "The Rand McNally new library atlas map of China and Japan",
-  "georss_box_s": "16.00000 68.00000 50.00000 148.00000",
   "layer_modified_dt": "2015-01-19T22:37:33Z",
   "layer_id_s": "cv43p031r",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-cv43p031r",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/cv43p031r/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/cv/43/p0/31/r/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "50.00000 68.00000 50.00000 148.00000 16.00000 148.00000 16.00000 68.00000 50.00000 68.00000",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1912"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "China",
     "Japan"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

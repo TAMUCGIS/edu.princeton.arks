@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1832",
-  "uuid": "http://arks.princeton.edu/ark:/88435/8p58pf86q",
   "dc_description_s": "Hinterindien",
-  "georss_box_s": "-11.1083 92.171808 28.5478351 141.0425",
   "layer_modified_dt": "2015-01-21T22:23:52Z",
   "dc_creator_sm": [
     "Berghaus, Heinrich Karl Wilhelm,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-8p58pf86q",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/8p58pf86q/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/8p/58/pf/86/q/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "28.5478351 92.171808 28.5478351 141.0425 -11.1083 141.0425 -11.1083 92.171808 28.5478351 92.171808",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1832"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Southeast Asia"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

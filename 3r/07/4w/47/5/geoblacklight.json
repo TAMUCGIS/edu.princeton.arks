@@ -1,10 +1,9 @@
 {
-  "dc_description_s": "This is a city map of Markgr\u00f6ningen, Germany, shown at a 1:7,000 scale. This city map was created by Stadte-Verlag: E.v. Wagner & J. Mitterhuber.",
+  "dc_description_s": "This is a city map of Markgröningen, Germany, shown at a 1:7,000 scale. This city map was created by Stadte-Verlag: E.v. Wagner & J. Mitterhuber.",
   "layer_modified_dt": "2015-01-11T18:24:47Z",
   "solr_geom": "ENVELOPE(9.0152, 9.1251, 48.9439, 48.8879)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/3r074w475\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/3r074w475/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/3r074w475",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,20 +17,19 @@
   "dc_creator_sm": "Stadte-Verlag",
   "dc_type_s": "Image",
   "dc_identifier_s": "3r074w475",
-  "georss_polygon_s": "48.9439 9.0152 48.9439 9.1251 48.8879 9.1251 48.8879 9.0152 48.9439 9.0152",
   "dc_publisher_s": "Stadte-Verlag",
   "solr_year_i": "1969",
   "dct_spatial_sm": [
-    "Markgr\u00f6ningen",
+    "Markgröningen",
     "Germany",
     "Bundesrepublik Deutschland",
     "Federal Republic of Germany",
     "West Germany"
   ],
   "layer_id_s": "3r074w475",
-  "georss_box_s": "48.8879 9.0152 48.9439 9.1251",
-  "dc_title_s": "Stadtplan Markgr\u00f6ningen",
+  "dc_title_s": "Stadtplan Markgröningen",
   "layer_slug_s": "princeton-3r074w475",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

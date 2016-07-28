@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1778",
-  "uuid": "http://arks.princeton.edu/ark:/88435/ff365779h",
   "dc_description_s": "Mappa geographica Provinciae Novae Eboraci ab Anglis New-York dictae ex ampliori delineatione ad exactas dimensiones concinnata in arctius spatium redacta cura Claudii Josephi Sauthier cui accedit Nova Jersey ex topographicis observationibus.",
-  "georss_box_s": "40.4913686 -79.7621438 45.015865 -71.8562643",
   "layer_modified_dt": "2015-01-21T22:24:30Z",
   "dc_creator_sm": [
     "Sauthier, Claude Joseph.",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-ff365779h",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/ff365779h/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ff/36/57/79/h/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "45.015865 -79.7621438 45.015865 -71.8562643 40.4913686 -71.8562643 40.4913686 -79.7621438 45.015865 -79.7621438",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1778"
@@ -29,5 +26,6 @@
     "New Jersey",
     "New Jersey",
     "Northeastern States"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,13 +1,11 @@
 {
   "solr_year_i": "1777",
-  "uuid": "http://arks.princeton.edu/ark:/88435/jd472z992",
   "dc_description_s": "The provinces of New York, and New Jersey; with part of Pensilvania and the province of Quebec. Drawn by Major Holland, Surveyor General of the Northern District in America",
-  "georss_box_s": "40.950943 -73.727775 47.459686 -66.8850751",
   "layer_modified_dt": "2015-01-25T02:06:19Z",
   "dc_creator_sm": [
     "Holland, Samuel,",
     "Coentgen, Heinrich Hugo.",
-    "Bro\u0308nner, H. L.",
+    "Brönner, H. L.",
     "Fox, N. B.,"
   ],
   "layer_id_s": "jd472z992",
@@ -18,7 +16,6 @@
   "layer_slug_s": "princeton-jd472z992",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/jd472z992/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/jd/47/2z/99/2/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "47.459686 -73.727775 47.459686 -66.8850751 40.950943 -66.8850751 40.950943 -73.727775 47.459686 -73.727775",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1777"
@@ -29,8 +26,9 @@
     "New England",
     "New York (State)",
     "New Jersey",
-    "Que\u0301bec (Province)",
+    "Québec (Province)",
     "New York (State)",
     "New Jersey"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1719",
-  "uuid": "http://arks.princeton.edu/ark:/88435/0c483m80q",
   "dc_description_s": "A new map of France : shewing the roads & post stages thro-out that Kingdom, as also the errors of Sanson's map compard wth ye survey made by order of ye late French King",
-  "georss_box_s": "-50.2187168 -178.3873748 51.268318 172.3057152",
   "layer_modified_dt": "2015-01-21T22:24:01Z",
   "layer_id_s": "0c483m80q",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-0c483m80q",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/0c483m80q/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/0c/48/3m/80/q/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.268318 -178.3873748 51.268318 172.3057152 -50.2187168 172.3057152 -50.2187168 -178.3873748 51.268318 -178.3873748",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1719"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "France",
     "France"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

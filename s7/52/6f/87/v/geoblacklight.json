@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1891",
-  "uuid": "http://arks.princeton.edu/ark:/88435/s7526f87v",
   "dc_description_s": "Rand, McNally & Co.'s indexed atlas of the world map of Germany (eastern sheet)",
-  "georss_box_s": "47.2701114 5.8663153 55.099161 15.0419319",
   "layer_modified_dt": "2015-01-21T22:24:06Z",
   "layer_id_s": "s7526f87v",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-s7526f87v",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/s7526f87v/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/s7/52/6f/87/v/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "55.099161 5.8663153 55.099161 15.0419319 47.2701114 15.0419319 47.2701114 5.8663153 55.099161 5.8663153",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1891"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Germany",
     "Berlin (Germany)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

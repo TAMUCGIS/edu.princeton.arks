@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1855",
-  "uuid": "http://arks.princeton.edu/ark:/88435/fb494b91x",
   "dc_description_s": "Colton's Germany : no. 2",
-  "georss_box_s": "51.0 6.0 55.0 14.0",
   "layer_modified_dt": "2015-01-19T22:37:31Z",
   "dc_creator_sm": [
     "Colton, G. Woolworth"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-fb494b91x",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/fb494b91x/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/fb/49/4b/91/x/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "55.0 6.0 55.0 14.0 51.0 14.0 51.0 6.0 55.0 6.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1855"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Germany, Northern"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

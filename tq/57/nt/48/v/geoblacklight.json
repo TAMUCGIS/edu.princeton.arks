@@ -1,18 +1,15 @@
 {
   "solr_year_i": "1935",
-  "uuid": "http://arks.princeton.edu/ark:/88435/tq57nt48v",
-  "dc_description_s": "Charte\u0304s te\u0304s Euro\u0304pe\u0304s",
-  "georss_box_s": "50.9999503 9.9999497 51.0000503 10.0000497",
+  "dc_description_s": "Chartēs tēs Eurōpēs",
   "layer_modified_dt": "2015-01-21T22:24:11Z",
   "layer_id_s": "tq57nt48v",
   "dc_type_s": "Image",
   "dc_identifier_s": "tq57nt48v",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Charte\u0304s te\u0304s Euro\u0304pe\u0304s",
+  "dc_title_s": "Chartēs tēs Eurōpēs",
   "layer_slug_s": "princeton-tq57nt48v",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/tq57nt48v/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/tq/57/nt/48/v/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.0000503 9.9999497 51.0000503 10.0000497 50.9999503 10.0000497 50.9999503 9.9999497 51.0000503 9.9999497",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1935"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Europe"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

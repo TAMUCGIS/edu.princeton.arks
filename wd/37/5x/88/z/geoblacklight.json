@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-80, -79.75, 37, 36.75)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/wd375x88z/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/wd/37/5x/88/z/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/wd375x88z/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/wd375x88z",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "historical maps",
@@ -20,7 +19,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "wd375x88z",
-  "georss_polygon_s": "37 -80 37 -79.75 36.75 -79.75 36.75 -80 37 -80",
   "dc_publisher_s": "US Geological Survey",
   "solr_year_i": "1927",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "United States"
   ],
   "layer_id_s": "wd375x88z",
-  "georss_box_s": "36.75 -80 37 -79.75",
   "dc_title_s": "Virginia: Rocky Mount Quadrangle [1927] ",
   "dct_issued_s": "1927",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

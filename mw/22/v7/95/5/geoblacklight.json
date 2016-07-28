@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1906",
-  "uuid": "http://arks.princeton.edu/ark:/88435/mw22v7955",
   "dc_description_s": "Ordnance survey of England and Wales : parts of sheets 4, 7 & 8",
-  "georss_box_s": "53.3793042939 -2.5647389 54.5601224 0.1830119125",
   "layer_modified_dt": "2015-01-21T22:24:18Z",
   "layer_id_s": "mw22v7955",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-mw22v7955",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/mw22v7955/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/mw/22/v7/95/5/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "54.5601224 -2.5647389 54.5601224 0.1830119125 53.3793042939 0.1830119125 53.3793042939 -2.5647389 54.5601224 -2.5647389",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1906"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Yorkshire (England)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

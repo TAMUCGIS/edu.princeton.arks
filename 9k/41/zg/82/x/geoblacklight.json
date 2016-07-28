@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-75.030171, -74.990171, 40.715933, 40.675933)",
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/9k/41/zg/82/x/00000001.jp2/info.json\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/9k41zg82x",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
@@ -21,7 +20,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "9k41zg82x",
-  "georss_polygon_s": "40.715933 -75.030171 40.715933 -74.990171 40.675933 -74.990171 40.675933 -75.030171 40.715933 -75.030171",
   "dc_publisher_s": "New York: Sanborn Map Company",
   "solr_year_i": "1909",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "Asbury"
   ],
   "layer_id_s": "9k41zg82x",
-  "georss_box_s": "40.675933 -75.030171 40.715933 -74.990171",
   "dc_title_s": "Asbury, Warren County, New Jersey (Sheet 2)",
   "layer_slug_s": "princeton-9k41zg82x",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

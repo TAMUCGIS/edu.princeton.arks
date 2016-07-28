@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-74.166087, -73.991958, 40.823417, 40.643781)",
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/mk/61/rk/03/k/00000001.jp2/info.json\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/mk61rk03k",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
@@ -21,7 +20,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "mk61rk03k",
-  "georss_polygon_s": "40.823417 -74.166087 40.823417 -73.991958 40.643781 -73.991958 40.643781 -74.166087 40.823417 -74.166087",
   "dc_publisher_s": "New York: Sanborn Map Company",
   "solr_year_i": "1906",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "Hudson County"
   ],
   "layer_id_s": "mk61rk03k",
-  "georss_box_s": "40.643781 -74.166087 40.823417 -73.991958",
   "dc_title_s": "Insurance maps of Hudson County, New Jersey, volume seven: Hoboken (Sheet 41)",
   "layer_slug_s": "princeton-mk61rk03k",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

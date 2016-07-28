@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1915",
-  "uuid": "http://arks.princeton.edu/ark:/88435/r781wj509",
   "dc_description_s": "Bedford and Cambridge",
-  "georss_box_s": "51.8050872 -0.7021801 52.3229568 -0.1439573",
   "layer_modified_dt": "2015-01-21T22:24:17Z",
   "dc_creator_sm": [
     "Close, C. F.",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-r781wj509",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/r781wj509/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/r7/81/wj/50/9/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "52.3229568 -0.7021801 52.3229568 -0.1439573 51.8050872 -0.1439573 51.8050872 -0.7021801 52.3229568 -0.7021801",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1915"
@@ -26,5 +23,6 @@
   "dct_spatial_sm": [
     "Bedfordshire (England)",
     "Cambridgeshire (England)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

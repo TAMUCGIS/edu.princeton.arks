@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1858",
-  "uuid": "http://arks.princeton.edu/ark:/88435/k930c055v",
   "dc_description_s": "Ordnance Survey of Ireland",
-  "georss_box_s": "51.222 -14.0155169 57.7730825 -5.6582362",
   "layer_modified_dt": "2015-01-25T02:06:18Z",
   "dc_creator_sm": [
     "Leach, George Archibald.",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-k930c055v",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/k930c055v/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/k9/30/c0/55/v/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "57.7730825 -14.0155169 57.7730825 -5.6582362 51.222 -5.6582362 51.222 -14.0155169 57.7730825 -14.0155169",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1858"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Ireland"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

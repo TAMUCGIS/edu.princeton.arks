@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1616",
-  "uuid": "http://arks.princeton.edu/ark:/88435/8p58pg32z",
-  "dc_description_s": "Descriptio terr\u00e6 subaustralis",
-  "georss_box_s": "-85.0511286 -179.9999999 -59.9999999 180.0",
+  "dc_description_s": "Descriptio terræ subaustralis",
   "layer_modified_dt": "2015-01-21T22:23:57Z",
   "dc_creator_sm": [
     "Hondius, Jodocus,",
@@ -12,11 +10,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "8p58pg32z",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Descriptio terr\u00e6 subaustralis",
+  "dc_title_s": "Descriptio terræ subaustralis",
   "layer_slug_s": "princeton-8p58pg32z",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/8p58pg32z/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/8p/58/pg/32/z/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "-59.9999999 -179.9999999 -59.9999999 180.0 -85.0511286 180.0 -85.0511286 -179.9999999 -59.9999999 -179.9999999",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1616"
@@ -26,5 +23,6 @@
   "dct_spatial_sm": [
     "Antarctica",
     "Southern Hemisphere"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1585",
-  "uuid": "http://arks.princeton.edu/ark:/88435/7h149s31s",
   "dc_description_s": "S. Lorenzo",
-  "georss_box_s": "-12.1136333 -77.2515679 -12.0592981 -77.1887777",
   "layer_modified_dt": "2015-01-21T22:24:06Z",
   "layer_id_s": "7h149s31s",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-7h149s31s",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/7h149s31s/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/7h/14/9s/31/s/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "-12.0592981 -77.2515679 -12.0592981 -77.1887777 -12.1136333 -77.1887777 -12.1136333 -77.2515679 -12.0592981 -77.2515679",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1585"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "San Lorenzo Island (Peru)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

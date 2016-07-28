@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-74.501444, -74.456181, 40.818361, 40.780231)",
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/tt/44/pp/99/s/00000001.jp2/info.json\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/tt44pp99s",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
@@ -21,7 +20,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "tt44pp99s",
-  "georss_polygon_s": "40.818361 -74.501444 40.818361 -74.456181 40.780231 -74.456181 40.780231 -74.501444 40.818361 -74.501444",
   "dc_publisher_s": "New York: Sanborn Map Company",
   "solr_year_i": "1909",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "Morristown"
   ],
   "layer_id_s": "tt44pp99s",
-  "georss_box_s": "40.780231 -74.501444 40.818361 -74.456181",
   "dc_title_s": "Insurance maps of Morristown, Morris County, New Jersey: including Morristown suburbs, Whippany, Morris Plains and Mt. Tabor (Sheet 28)",
   "layer_slug_s": "princeton-tt44pp99s",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

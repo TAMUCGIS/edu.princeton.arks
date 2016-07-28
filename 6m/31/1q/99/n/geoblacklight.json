@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(56.9782, 72.421, 37.7596, 24.0284)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/6m311q99n/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/6m/31/1q/99/n/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/6m311q99n/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/6m311q99n",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Elevation",
@@ -18,7 +17,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "6m311q99n",
-  "georss_polygon_s": "37.7596 56.9782 37.7596 72.421 24.0284 72.421 24.0284 56.9782 37.7596 56.9782",
   "dc_publisher_s": "apud Vincentium Valgrisium",
   "solr_year_i": "1562",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "Asia"
   ],
   "layer_id_s": "6m311q99n",
-  "georss_box_s": "24.0284 56.9782 37.7596 72.421",
   "dc_title_s": "Tabula Asiae IX",
   "dct_issued_s": "1562",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

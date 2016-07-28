@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(38.9167, 48.4167, 34.1667, 29.0833)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/37720f49j/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/37/72/0f/49/j/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/37720f49j/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/37720f49j",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
@@ -23,16 +22,15 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "37720f49j",
-  "georss_polygon_s": "34.1667 38.9167 34.1667 48.4167 29.0833 48.4167 29.0833 38.9167 34.1667 38.9167",
   "dc_publisher_s": "National Imagery and Mapping Agency.",
   "solr_year_i": "2003",
   "dct_spatial_sm": [
     "Iraq"
   ],
   "layer_id_s": "37720f49j",
-  "georss_box_s": "29.0833 38.9167 34.1667 48.4167",
   "dc_title_s": "Iraq.",
   "dct_issued_s": "2003",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

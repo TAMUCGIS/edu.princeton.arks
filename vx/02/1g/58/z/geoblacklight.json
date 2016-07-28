@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-74.8083, -74.7708, 40.300, 40.2792)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/vx021g58z/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/vx/02/1g/58/z/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/vx021g58z/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/vx021g58z",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Aerial photograph",
@@ -20,16 +19,15 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "vx021g58z",
-  "georss_polygon_s": "40.300 -74.8083 40.300 -74.7708 40.2792 -74.7708 40.2792 -74.8083 40.300 -74.8083",
   "dc_publisher_s": "NJDEP Bureau of Tidelands Management",
   "dct_spatial_sm": [
     "Ewing",
     "Mercer county"
   ],
   "layer_id_s": "vx021g58z",
-  "georss_box_s": "40.2792 -74.8083 40.300 -74.7708",
   "dc_title_s": "1951 Mercer County Aerial Photograph (289-1170)",
   "dct_issued_s": "March 27, 1951",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

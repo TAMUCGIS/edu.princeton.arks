@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-74.036, -73.953, 40.877, 40.806)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/t148fj64r/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/t1/48/fj/64/r/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/t148fj64r/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/t148fj64r",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "t148fj64r",
-  "georss_polygon_s": "40.877 -74.036 40.877 -73.953 40.806 -73.953 40.806 -74.036 40.877 -74.036",
   "dc_publisher_s": "Sanborn Map Company",
   "solr_year_i": "1911",
   "dct_spatial_sm": [
@@ -34,9 +32,9 @@
     "United States"
   ],
   "layer_id_s": "t148fj64r",
-  "georss_box_s": "40.806 -74.036 40.877 -73.953",
   "dc_title_s": "Insurance maps of the Palisades of lower Bergen County, New Jersey : comprising Edgewater, Fairview, Cliffside Park, Ridgefield, Fort Lee, Leonia and Palisades Park (Sheet 74). ",
   "dct_issued_s": "1911",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

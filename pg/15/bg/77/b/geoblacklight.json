@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1646",
-  "uuid": "http://arks.princeton.edu/ark:/88435/pg15bg77b",
-  "dc_description_s": "Carta particolare della America e\u0300 parte maestrale dal C. di Cedros",
-  "georss_box_s": "27.9081714 -117.5377299 32.7186553 -111.8267365",
+  "dc_description_s": "Carta particolare della America è parte maestrale dal C. di Cedros",
   "layer_modified_dt": "2015-01-21T22:23:49Z",
   "dc_creator_sm": [
     "Lucini, A. F."
@@ -11,11 +9,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "pg15bg77b",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Carta particolare della America e\u0300 parte maestrale dal C. di Cedros",
+  "dc_title_s": "Carta particolare della America è parte maestrale dal C. di Cedros",
   "layer_slug_s": "princeton-pg15bg77b",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/pg15bg77b/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/pg/15/bg/77/b/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "32.7186553 -117.5377299 32.7186553 -111.8267365 27.9081714 -111.8267365 27.9081714 -117.5377299 32.7186553 -117.5377299",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1646"
@@ -26,5 +23,6 @@
     "Baja California (Mexico : Peninsula)",
     "Mexico",
     "Pacific Coast (Mexico)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

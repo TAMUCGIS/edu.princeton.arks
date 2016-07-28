@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1759",
-  "uuid": "http://arks.princeton.edu/ark:/88435/k3569677g",
   "dc_description_s": "Nieuwe zeekaart van de Straat van Gibraltar : benevens een gedeelte van de Spaansche, Portugeesche en Moorsche kust : met naaukeurige aftekeningen der havens, baayen enz. als inzonderheid Lissabon, S. Ubes, Cadix, Gibraltar enz. getrokken uit de nieuwe paskaart van den ... Heere Hendrik Lynslager, thans Vice Admiraal van den Staat",
-  "georss_box_s": "35.7729163 -6.0332889 36.1866023 -5.2280378",
   "layer_modified_dt": "2015-01-21T22:24:05Z",
   "dc_creator_sm": [
     "Lynslager, Hendrik,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-k3569677g",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/k3569677g/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/k3/56/96/77/g/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "36.1866023 -6.0332889 36.1866023 -5.2280378 35.7729163 -5.2280378 35.7729163 -6.0332889 36.1866023 -6.0332889",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1759"
@@ -26,5 +23,6 @@
     "Gibraltar, Strait of",
     "Portugal",
     "Spain"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

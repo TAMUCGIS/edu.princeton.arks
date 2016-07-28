@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1540",
-  "uuid": "http://arks.princeton.edu/ark:/88435/8s45qb62h",
   "dc_description_s": "Aphricae tabula I",
-  "georss_box_s": "3.4889804 -17.4573 37.5359 38.6938",
   "layer_modified_dt": "2015-01-21T22:23:44Z",
   "dc_creator_sm": [
     "Ptolemy,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-8s45qb62h",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/8s45qb62h/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/8s/45/qb/62/h/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "37.5359 -17.4573 37.5359 38.6938 3.4889804 38.6938 3.4889804 -17.4573 37.5359 -17.4573",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1540"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "Africa, North",
     "Mauritania"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

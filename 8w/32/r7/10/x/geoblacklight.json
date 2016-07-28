@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(32.5235, 32.6965, -25.8091, -25.9839)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/8w32r710x\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/8w32r710x/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/8w32r710x",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -19,7 +18,6 @@
   "dc_creator_sm": "United States Defense Mapping Agency, National Imagery and Mapping Agency",
   "dc_type_s": "Image",
   "dc_identifier_s": "8w32r710x",
-  "georss_polygon_s": "-25.8091 32.5235 -25.8091 32.6965 -25.9839 32.6965 -25.9839 32.5235 -25.8091 32.5235",
   "dc_publisher_s": "United States Defense Mapping Agency, National Imagery and Mapping Agency",
   "solr_year_i": "2000",
   "dct_spatial_sm": [
@@ -31,9 +29,9 @@
     "Africa"
   ],
   "layer_id_s": "8w32r710x",
-  "georss_box_s": "-25.9839 32.5235 -25.8091 32.6965",
   "dc_title_s": "Mozambique city graphic 1:12,500. Maputo. Series Y961",
   "layer_slug_s": "princeton-8w32r710x",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

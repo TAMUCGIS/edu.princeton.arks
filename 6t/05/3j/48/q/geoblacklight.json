@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1754",
-  "uuid": "http://arks.princeton.edu/ark:/88435/6t053j48q",
   "dc_description_s": "A map of Coromandel shewing the seat of war on that coast",
-  "georss_box_s": "7.7481070557 77.1711750625 16.7017889635 84.2559065625",
   "layer_modified_dt": "2015-01-21T22:24:21Z",
   "dc_creator_sm": [
     "Kitchin, Thomas,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-6t053j48q",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/6t053j48q/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/6t/05/3j/48/q/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "16.7017889635 77.1711750625 16.7017889635 84.2559065625 7.7481070557 84.2559065625 7.7481070557 77.1711750625 16.7017889635 77.1711750625",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1754"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Coromandel Coast (India)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

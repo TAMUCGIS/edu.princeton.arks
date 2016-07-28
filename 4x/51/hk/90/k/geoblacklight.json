@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1609",
-  "uuid": "http://arks.princeton.edu/ark:/88435/4x51hk90k",
   "dc_description_s": "Cypri insulae nova descript. 1573",
-  "georss_box_s": "34.632303 32.2687076 35.7072 34.6045",
   "layer_modified_dt": "2015-01-21T22:23:47Z",
   "dc_creator_sm": [
     "Doetichum, Johan van,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-4x51hk90k",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/4x51hk90k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/4x/51/hk/90/k/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "35.7072 32.2687076 35.7072 34.6045 34.632303 34.6045 34.632303 32.2687076 35.7072 32.2687076",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1609"
@@ -26,5 +23,6 @@
   "dct_spatial_sm": [
     "Cyprus",
     "Limnos Island (Greece)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

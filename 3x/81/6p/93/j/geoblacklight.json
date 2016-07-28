@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1825",
-  "uuid": "http://arks.princeton.edu/ark:/88435/3x816p93j",
-  "dc_description_s": "Carte ge\u0301ographique, statistique et historique du New-Jersey",
-  "georss_box_s": "38.7911303 -75.5633859 41.357423 -73.8939789",
+  "dc_description_s": "Carte géographique, statistique et historique du New-Jersey",
   "layer_modified_dt": "2015-01-21T22:23:56Z",
   "dc_creator_sm": [
     "Buchon, J. A. C."
@@ -11,11 +9,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "3x816p93j",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Carte ge\u0301ographique, statistique et historique du New-Jersey",
+  "dc_title_s": "Carte géographique, statistique et historique du New-Jersey",
   "layer_slug_s": "princeton-3x816p93j",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/3x816p93j/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/3x/81/6p/93/j/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "41.357423 -75.5633859 41.357423 -73.8939789 38.7911303 -73.8939789 38.7911303 -75.5633859 41.357423 -75.5633859",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1825"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "New Jersey"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

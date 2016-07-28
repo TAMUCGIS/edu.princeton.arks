@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1905",
-  "uuid": "http://arks.princeton.edu/ark:/88435/ws859j208",
   "dc_description_s": "Italia centrale",
-  "georss_box_s": "35.4929201 6.6267201 47.092 18.5205015",
   "layer_modified_dt": "2015-01-25T02:06:21Z",
   "layer_id_s": "ws859j208",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-ws859j208",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/ws859j208/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ws/85/9j/20/8/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "47.092 6.6267201 47.092 18.5205015 35.4929201 18.5205015 35.4929201 6.6267201 47.092 6.6267201",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1905"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Italy, Central"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

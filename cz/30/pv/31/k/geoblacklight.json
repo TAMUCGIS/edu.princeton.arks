@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-89.5551, -89.5124, 14.9880, 14.9515)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/cz30pv31k\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/cz30pv31k/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/cz30pv31k",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -17,7 +16,6 @@
   "dc_creator_sm": "U.S. Office of Strategic Service",
   "dc_type_s": "Image",
   "dc_identifier_s": "cz30pv31k",
-  "georss_polygon_s": "14.9880 -89.5551 14.9880 -89.5124 14.9515 -89.5124 14.9515 -89.5551 14.9880 -89.5551",
   "dc_publisher_s": "U.S. Office of Strategic Service",
   "solr_year_i": "1943",
   "dct_spatial_sm": [
@@ -25,9 +23,9 @@
     "Guatemala"
   ],
   "layer_id_s": "cz30pv31k",
-  "georss_box_s": "14.9515 -89.5551 14.9880 -89.5124",
   "dc_title_s": "Zacapa and environs, Guatemala",
   "layer_slug_s": "princeton-cz30pv31k",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

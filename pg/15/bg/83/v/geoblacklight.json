@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-75.087129, -74.896626, 39.568643, 39.377715)",
   "dct_references_s": "{\"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/pg/15/bg/83/v/00000001.jp2/info.json\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/pg15bg83v",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
@@ -21,7 +20,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "pg15bg83v",
-  "georss_polygon_s": "39.568643 -75.087129 39.568643 -74.896626 39.377715 -74.896626 39.377715 -75.087129 39.568643 -75.087129",
   "dc_publisher_s": "New York: Sanborn Map Company",
   "solr_year_i": "1891",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "Vineland"
   ],
   "layer_id_s": "pg15bg83v",
-  "georss_box_s": "39.377715 -75.087129 39.568643 -74.896626",
   "dc_title_s": "Vineland, Cumberland Co., N. J. (Sheet 6)",
   "layer_slug_s": "princeton-pg15bg83v",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

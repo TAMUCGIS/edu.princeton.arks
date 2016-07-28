@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1780",
-  "uuid": "http://arks.princeton.edu/ark:/88435/ws859j09q",
   "dc_description_s": "Charles Town, South Carolina, with a chart of the bars & harbour",
-  "georss_box_s": "32.668505 -80.1438458 32.973515 -79.7970639",
   "layer_modified_dt": "2015-01-21T22:24:03Z",
   "dc_creator_sm": [
     "Lodge, John,"
@@ -15,12 +13,14 @@
   "layer_slug_s": "princeton-ws859j09q",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/ws859j09q/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ws/85/9j/09/q/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "32.973515 -80.1438458 32.973515 -79.7970639 32.668505 -79.7970639 32.668505 -80.1438458 32.973515 -80.1438458",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1780"
   ],
   "solr_geom": "ENVELOPE(-80.1438458, -79.7970639, 32.973515, 32.668505)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

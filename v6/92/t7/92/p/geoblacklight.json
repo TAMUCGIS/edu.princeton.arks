@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-75.8167, -75.6500, 42.800, 42.5167)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/v692t792p/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/v6/92/t7/92/p/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/v692t792p/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/v692t792p",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "historical maps",
@@ -21,7 +20,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "v692t792p",
-  "georss_polygon_s": "42.800 -75.8167 42.800 -75.6500 42.5167 -75.6500 42.5167 -75.8167 42.800 -75.8167",
   "dc_publisher_s": "New York State Museum.",
   "solr_year_i": "1901",
   "dct_spatial_sm": [
@@ -31,9 +29,9 @@
     "Rensselaer"
   ],
   "layer_id_s": "v692t792p",
-  "georss_box_s": "42.5167 -75.8167 42.800 -75.6500",
   "dc_title_s": "Stratigraphic map showing the subdivisions of the Hudson River beds in parts of Albany and Rensselaer counties, New York. ",
   "dct_issued_s": "1901",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

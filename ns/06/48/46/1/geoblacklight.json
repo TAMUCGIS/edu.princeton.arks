@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1909",
-  "uuid": "http://arks.princeton.edu/ark:/88435/ns0648461",
   "dc_description_s": "1609, the Island of Manhattan (Mannahtin) at the time of its discovery : showing its elevations, water-courses, marshes, and shore line",
-  "georss_box_s": "40.477399 -74.2590899 40.917577 -73.7001714",
   "layer_modified_dt": "2015-01-25T02:06:11Z",
   "layer_id_s": "ns0648461",
   "dc_type_s": "Image",
@@ -12,12 +10,14 @@
   "layer_slug_s": "princeton-ns0648461",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/ns0648461/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ns/06/48/46/1/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.917577 -74.2590899 40.917577 -73.7001714 40.477399 -73.7001714 40.477399 -74.2590899 40.917577 -74.2590899",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1909"
   ],
   "solr_geom": "ENVELOPE(-74.2590899, -73.7001714, 40.917577, 40.477399)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

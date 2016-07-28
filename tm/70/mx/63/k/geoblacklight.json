@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1889",
-  "uuid": "http://arks.princeton.edu/ark:/88435/tm70mx63k",
   "dc_description_s": "Imperia Persarum et Macedonum in usum scholarum descripta",
-  "georss_box_s": "35.12876 46.493672 55.441984 87.315415",
   "layer_modified_dt": "2015-01-25T02:06:14Z",
   "dc_creator_sm": [
     "Reimer, Dietrich,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-tm70mx63k",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/tm70mx63k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/tm/70/mx/63/k/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "55.441984 46.493672 55.441984 87.315415 35.12876 87.315415 35.12876 46.493672 55.441984 46.493672",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1889"
@@ -26,5 +23,6 @@
     "Asia, Central",
     "Iran",
     "Turkey"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

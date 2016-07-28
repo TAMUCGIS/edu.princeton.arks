@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-79.5, -79.25, 37, 36.75)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/qj72p883s/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/qj/72/p8/83/s/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/qj72p883s/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/qj72p883s",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "historical maps",
@@ -20,7 +19,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "qj72p883s",
-  "georss_polygon_s": "37 -79.5 37 -79.25 36.75 -79.25 36.75 -79.5 37 -79.5",
   "dc_publisher_s": "US Geological Survey",
   "solr_year_i": "1923",
   "dct_spatial_sm": [
@@ -30,9 +28,9 @@
     "United States"
   ],
   "layer_id_s": "qj72p883s",
-  "georss_box_s": "36.75 -79.5 37 -79.25",
   "dc_title_s": "Virginia (Pittsylvania County): Chatham Quadrangle [1923] ",
   "dct_issued_s": "1923",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

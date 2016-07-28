@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-8.5426, -8.4659, 33.2678, 33.2044)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/th83m1044\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/th83m1044/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/th83m1044",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -20,7 +19,6 @@
   "dc_creator_sm": "Institut Geographique National, Annexe du Maroc",
   "dc_type_s": "Image",
   "dc_identifier_s": "th83m1044",
-  "georss_polygon_s": "33.2678 -8.5426 33.2678 -8.4659 33.2044 -8.4659 33.2044 -8.5426 33.2678 -8.5426",
   "dc_publisher_s": "Institut Geographique National, Annexe du Maroc",
   "solr_year_i": "1977",
   "dct_spatial_sm": [
@@ -31,9 +29,9 @@
     "el Jadida"
   ],
   "layer_id_s": "th83m1044",
-  "georss_box_s": "33.2044 -8.5426 33.2678 -8.4659",
   "dc_title_s": "Al Jadida :Plan urbain",
   "layer_slug_s": "princeton-th83m1044",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

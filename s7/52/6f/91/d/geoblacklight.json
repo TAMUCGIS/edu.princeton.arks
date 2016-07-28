@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1864",
-  "uuid": "http://arks.princeton.edu/ark:/88435/s7526f91d",
   "dc_description_s": "Map of the Ringwood Iron Mines, Passaic County",
-  "georss_box_s": "40.8199331 -74.5028748 41.202894 -74.1067859",
   "layer_modified_dt": "2015-01-25T02:06:17Z",
   "dc_creator_sm": [
     "Brooks, T. B.",
@@ -16,12 +14,14 @@
   "layer_slug_s": "princeton-s7526f91d",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/s7526f91d/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/s7/52/6f/91/d/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "41.202894 -74.5028748 41.202894 -74.1067859 40.8199331 -74.1067859 40.8199331 -74.5028748 41.202894 -74.5028748",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1864"
   ],
   "solr_geom": "ENVELOPE(-74.5028748, -74.1067859, 41.202894, 40.8199331)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

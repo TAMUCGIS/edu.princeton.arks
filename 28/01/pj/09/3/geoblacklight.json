@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(13.2835, 13.5021, 48.6256, 48.5236)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/2801pj093\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/2801pj093/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/2801pj093",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Stadte-Verlag",
   "dc_type_s": "Image",
   "dc_identifier_s": "2801pj093",
-  "georss_polygon_s": "48.6256 13.2835 48.6256 13.5021 48.5236 13.5021 48.5236 13.2835 48.6256 13.2835",
   "dc_publisher_s": "Stadte-Verlag",
   "solr_year_i": "1966",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "West Germany"
   ],
   "layer_id_s": "2801pj093",
-  "georss_box_s": "48.5236 13.2835 48.6256 13.5021",
   "dc_title_s": "Stadtplan Passau",
   "layer_slug_s": "princeton-2801pj093",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-74.131, -74.092, 40.894, 40.841)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/hq37vq21t/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/hq/37/vq/21/t/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/hq37vq21t/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/hq37vq21t",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "hq37vq21t",
-  "georss_polygon_s": "40.894 -74.131 40.894 -74.092 40.841 -74.092 40.841 -74.131 40.894 -74.131",
   "dc_publisher_s": "Sanborn Map Company",
   "solr_year_i": "1910",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "United States"
   ],
   "layer_id_s": "hq37vq21t",
-  "georss_box_s": "40.841 -74.131 40.894 -74.092",
   "dc_title_s": "Insurance maps of Garfield and Wallington, Bergen County, New Jersey (Sheet 4) ",
   "dct_issued_s": "1910",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

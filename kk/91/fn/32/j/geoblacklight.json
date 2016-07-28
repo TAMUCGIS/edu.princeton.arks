@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-09.09, 09.13, 45.29, -45.27)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/kk91fn32j\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/kk91fn32j/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/kk91fn32j",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Ente Provinciali per il Turismo",
   "dc_type_s": "Image",
   "dc_identifier_s": "kk91fn32j",
-  "georss_polygon_s": "45.29 -09.09 45.29 09.13 -45.27 09.13 -45.27 -09.09 45.29 -09.09",
   "dc_publisher_s": "Ente Provinciali per il Turismo",
   "dct_spatial_sm": [
     "Milan",
@@ -30,9 +28,9 @@
     "Lombardy"
   ],
   "layer_id_s": "kk91fn32j",
-  "georss_box_s": "-45.27 -09.09 45.29 09.13",
   "dc_title_s": "Milano",
   "layer_slug_s": "princeton-kk91fn32j",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

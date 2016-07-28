@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1816",
-  "uuid": "http://arks.princeton.edu/ark:/88435/sq87bx06m",
   "dc_description_s": "Chili",
-  "georss_box_s": "-44.0 -81.0 -24.0 -63.0",
   "layer_modified_dt": "2015-01-19T22:37:12Z",
   "dc_creator_sm": [
     "Hebert, L.",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-sq87bx06m",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/sq87bx06m/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/sq/87/bx/06/m/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "-24.0 -81.0 -24.0 -63.0 -44.0 -63.0 -44.0 -81.0 -24.0 -81.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1816"
@@ -26,5 +23,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Chile"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

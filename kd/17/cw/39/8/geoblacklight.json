@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1912",
-  "uuid": "http://arks.princeton.edu/ark:/88435/kd17cw398",
   "dc_description_s": "Weissenburg (ost) 1884",
-  "georss_box_s": "47.2701114 8.9763497 50.5647142 13.8396373",
   "layer_modified_dt": "2015-01-21T22:24:29Z",
   "layer_id_s": "kd17cw398",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-kd17cw398",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/kd17cw398/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/kd/17/cw/39/8/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "50.5647142 8.9763497 50.5647142 13.8396373 47.2701114 13.8396373 47.2701114 8.9763497 50.5647142 8.9763497",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1912"
@@ -23,5 +20,6 @@
     "Bavaria (Germany)",
     "Weissenburg in Bayern (Germany)",
     "Maps"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

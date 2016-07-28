@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1746",
-  "uuid": "http://arks.princeton.edu/ark:/88435/9593tx66r",
   "dc_description_s": "Carte de l'Archipel",
-  "georss_box_s": "35.4658867461 22.5145125438 40.990369365 27.4698546312",
   "layer_modified_dt": "2015-01-25T02:06:21Z",
   "layer_id_s": "9593tx66r",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-9593tx66r",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/9593tx66r/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/95/93/tx/66/r/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.990369365 22.5145125438 40.990369365 27.4698546312 35.4658867461 27.4698546312 35.4658867461 22.5145125438 40.990369365 22.5145125438",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1746"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Aegean Islands (Greece and Turkey)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

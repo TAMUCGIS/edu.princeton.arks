@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1874",
-  "uuid": "http://arks.princeton.edu/ark:/88435/qf85nd78j",
   "dc_description_s": "Map of Morristown, Morris County, N.J.",
-  "georss_box_s": "40.649516 -74.8897529 41.0860019 -74.266638",
   "layer_modified_dt": "2015-01-21T22:24:17Z",
   "layer_id_s": "qf85nd78j",
   "dc_type_s": "Image",
@@ -12,12 +10,14 @@
   "layer_slug_s": "princeton-qf85nd78j",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/qf85nd78j/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/qf/85/nd/78/j/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "41.0860019 -74.8897529 41.0860019 -74.266638 40.649516 -74.266638 40.649516 -74.8897529 41.0860019 -74.8897529",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1874"
   ],
   "solr_geom": "ENVELOPE(-74.8897529, -74.266638, 41.0860019, 40.649516)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

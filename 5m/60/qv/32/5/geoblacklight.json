@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1775",
-  "uuid": "http://arks.princeton.edu/ark:/88435/5m60qv325",
   "dc_description_s": "Plan de New-York et des environs",
-  "georss_box_s": "40.477399 -74.2590899 40.917577 -73.7001714",
   "layer_modified_dt": "2015-01-21T22:24:02Z",
   "dc_creator_sm": [
     "Le Rouge, Georges-Louis.",
@@ -16,12 +14,14 @@
   "layer_slug_s": "princeton-5m60qv325",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/5m60qv325/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/5m/60/qv/32/5/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.917577 -74.2590899 40.917577 -73.7001714 40.477399 -73.7001714 40.477399 -74.2590899 40.917577 -74.2590899",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1775"
   ],
   "solr_geom": "ENVELOPE(-74.2590899, -73.7001714, 40.917577, 40.477399)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-2.700, -2.300, 50.8667, 50.500)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/sf268672z\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/sf268672z/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/sf268672z",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
@@ -19,7 +18,6 @@
   "dc_creator_sm": "Great Britain Ordnance Survey",
   "dc_type_s": "Image",
   "dc_identifier_s": "sf268672z",
-  "georss_polygon_s": "50.8667 -2.700 50.8667 -2.300 50.500 -2.300 50.500 -2.700 50.8667 -2.700",
   "dc_publisher_s": "Great Britain Ordnance Survey",
   "solr_year_i": "1919",
   "dct_spatial_sm": [
@@ -32,9 +30,9 @@
     "G5741.C2.s63.O7S8 sh140"
   ],
   "layer_id_s": "sf268672z",
-  "georss_box_s": "50.500 -2.700 50.8667 -2.300",
   "dc_title_s": "Ordnance Survey of England and Wales: popular edition one-inch map.  Weymouth & Dorchester. Sheet 140.",
   "layer_slug_s": "princeton-sf268672z",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

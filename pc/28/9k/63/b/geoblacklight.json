@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(120.916306, 121.873622, 31.836538, 30.711758)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/pc289k63b/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/pc289k63b/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/pc289k63b/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/pc289k63b",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "laborers",
@@ -61,7 +60,6 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "pc289k63b",
-  "georss_polygon_s": "31.836538 120.916306 31.836538 121.873622 30.711758 121.873622 30.711758 120.916306 31.836538 120.916306",
   "solr_year_i": "2000",
   "dct_spatial_sm": [
     "China",
@@ -69,9 +67,9 @@
     "Shanghai Municipality"
   ],
   "layer_id_s": "pulmap-restricted:pc289k63b",
-  "georss_box_s": "30.711758 120.916306 31.836538 121.873622",
   "dc_title_s": "Township map of Shanghai with 2000 Census long form data (L1-L6)",
   "layer_slug_s": "princeton-pc289k63b",
   "layer_geom_type_s": "Point",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

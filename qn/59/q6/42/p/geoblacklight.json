@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1849",
-  "uuid": "http://arks.princeton.edu/ark:/88435/qn59q642p",
   "dc_description_s": "To Her most excellent Majesty Queen Victoria this hydrographical map of the British Isles, exhibiting the geographical distribution of the inland waters",
-  "georss_box_s": "49.674 -14.0155169 61.061 2.0919117",
   "layer_modified_dt": "2015-01-21T22:24:01Z",
   "dc_creator_sm": [
     "Orr, William Somerville,",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-qn59q642p",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/qn59q642p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/qn/59/q6/42/p/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "61.061 -14.0155169 61.061 2.0919117 49.674 2.0919117 49.674 -14.0155169 61.061 -14.0155169",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1849"
@@ -26,5 +23,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Great Britain"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1843",
-  "uuid": "http://arks.princeton.edu/ark:/88435/0z708z97f",
   "dc_description_s": "Helmstedt",
-  "georss_box_s": "52.1754 10.9118835 52.2872682 11.0723671",
   "layer_modified_dt": "2015-01-21T22:24:27Z",
   "dc_creator_sm": [
     "Woerl, Leo,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-0z708z97f",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/0z708z97f/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/0z/70/8z/97/f/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "52.2872682 10.9118835 52.2872682 11.0723671 52.1754 11.0723671 52.1754 10.9118835 52.2872682 10.9118835",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1843"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "Helmstedt (Germany)",
     "Lower Saxony (Germany)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

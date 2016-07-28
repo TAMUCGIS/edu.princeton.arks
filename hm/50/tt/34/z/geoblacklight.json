@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-75.0071, -74.9967, 39.8269, 39.8203)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/hm50tt34z/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/hm/50/tt/34/z/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/hm50tt34z/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/hm50tt34z",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "hm50tt34z",
-  "georss_polygon_s": "39.8269 -75.0071 39.8269 -74.9967 39.8203 -74.9967 39.8203 -75.0071 39.8269 -75.0071",
   "dc_publisher_s": "Sanborn Map Company",
   "solr_year_i": "1918",
   "dct_spatial_sm": [
@@ -28,9 +26,9 @@
     "United States"
   ],
   "layer_id_s": "hm50tt34z",
-  "georss_box_s": "39.8203 -75.0071 39.8269 -74.9967",
   "dc_title_s": "Laurel Springs, Camden County, New Jersey (Sheet 2)",
   "dct_issued_s": "1918",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-21.970000, 58.824100, 71.168100, 28.119100)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/xs55md77z/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/xs55md77z/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/xs55md77z/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/xs55md77z",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "line",
@@ -22,16 +21,15 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "xs55md77z",
-  "georss_polygon_s": "71.168100 -21.970000 71.168100 58.824100 28.119100 58.824100 28.119100 -21.970000 71.168100 -21.970000",
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "solr_year_i": "1999",
   "dct_spatial_sm": [
     "Europe"
   ],
   "layer_id_s": "pulmap-restricted:xs55md77z",
-  "georss_box_s": "28.119100 -21.970000 71.168100 58.824100",
   "dc_title_s": "Europe Major Roads 2000",
   "layer_slug_s": "princeton-xs55md77z",
   "layer_geom_type_s": "Line",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

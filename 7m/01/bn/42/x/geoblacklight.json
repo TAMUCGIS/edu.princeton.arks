@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-74.375, -74.250, 40.250, 40.125)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/7m01bn42x/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/7m/01/bn/42/x/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/7m01bn42x/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/7m01bn42x",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Topographic map",
@@ -20,7 +19,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "7m01bn42x",
-  "georss_polygon_s": "40.250 -74.375 40.250 -74.250 40.125 -74.250 40.125 -74.375 40.250 -74.375",
   "dc_publisher_s": "United States Geological Survey",
   "solr_year_i": "1957",
   "dct_spatial_sm": [
@@ -33,9 +31,9 @@
     "New Jersey"
   ],
   "layer_id_s": "7m01bn42x",
-  "georss_box_s": "40.125 -74.375 40.250 -74.250",
   "dc_title_s": "Adelphia Quadrangle, New Jersey, 7.5 minute series (topographic)",
   "dct_issued_s": "1957",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1685",
-  "uuid": "http://arks.princeton.edu/ark:/88435/cj82k971j",
   "dc_description_s": "I. De Sifanto et de Milo",
-  "georss_box_s": "36.6447702 24.3173156 36.7739565 24.5482216",
   "layer_modified_dt": "2015-01-21T22:24:03Z",
   "dc_creator_sm": [
     "Manesson-Mallet, Allain,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-cj82k971j",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/cj82k971j/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/cj/82/k9/71/j/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "36.7739565 24.3173156 36.7739565 24.5482216 36.6447702 24.5482216 36.6447702 24.3173156 36.7739565 24.3173156",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1685"
@@ -26,5 +23,6 @@
   "dct_spatial_sm": [
     "Melos Island (Greece)",
     "Siphnos Island (Greece)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

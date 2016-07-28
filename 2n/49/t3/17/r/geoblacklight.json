@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(82.9667, 83.0333, 25.3500, 25.2667)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/2n49t317r\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/2n49t317r/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/2n49t317r",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "City plan",
@@ -16,7 +15,6 @@
   "dc_creator_sm": "India. Ministry of Transport. Tourist Division",
   "dc_type_s": "Image",
   "dc_identifier_s": "2n49t317r",
-  "georss_polygon_s": "25.3500 82.9667 25.3500 83.0333 25.2667 83.0333 25.2667 82.9667 25.3500 82.9667",
   "dc_publisher_s": "India. Ministry of Transport. Tourist Division",
   "solr_year_i": "1956",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "MAX  G7654.V3.1956.T6D5"
   ],
   "layer_id_s": "2n49t317r",
-  "georss_box_s": "25.2667 82.9667 25.3500 83.0333",
   "dc_title_s": "Banaras",
   "layer_slug_s": "princeton-2n49t317r",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

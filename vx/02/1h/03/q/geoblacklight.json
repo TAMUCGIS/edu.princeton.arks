@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1640",
-  "uuid": "http://arks.princeton.edu/ark:/88435/vx021h03q",
   "dc_description_s": "Tartaria sive Magni Chami imperium",
-  "georss_box_s": "35.12876 46.493672 55.441984 87.315415",
   "layer_modified_dt": "2015-01-21T22:23:52Z",
   "dc_creator_sm": [
     "McCabe, Robert A.,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-vx021h03q",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/vx021h03q/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/vx/02/1h/03/q/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "55.441984 46.493672 55.441984 87.315415 35.12876 87.315415 35.12876 46.493672 55.441984 46.493672",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1640"
@@ -28,5 +25,6 @@
     "Mongolia",
     "Russia",
     "Siberia (Russia)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

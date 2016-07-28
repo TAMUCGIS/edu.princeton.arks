@@ -1,10 +1,9 @@
 {
-  "dc_description_s": "This is a city map of Odense, Denmark, shown at an unknown scale. This city map was created by A/S Hagen & Sievertsen for S\u00f8ren Stryhns Reklamebureu.",
+  "dc_description_s": "This is a city map of Odense, Denmark, shown at an unknown scale. This city map was created by A/S Hagen & Sievertsen for Søren Stryhns Reklamebureu.",
   "layer_modified_dt": "2015-01-11T18:25:15Z",
   "solr_geom": "ENVELOPE(10.2186, 10.5757, 55.4806, 55.2889)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/2514nn19x\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/2514nn19x/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/2514nn19x",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -15,19 +14,18 @@
   ],
   "dc_format_s": "Scanned Map",
   "dct_issued_s": "Unknown",
-  "dc_creator_sm": "S\u00f8ren Stryhns Reklamebureu",
+  "dc_creator_sm": "Søren Stryhns Reklamebureu",
   "dc_type_s": "Image",
   "dc_identifier_s": "2514nn19x",
-  "georss_polygon_s": "55.4806 10.2186 55.4806 10.5757 55.2889 10.5757 55.2889 10.2186 55.4806 10.2186",
-  "dc_publisher_s": "S\u00f8ren Stryhns Reklamebureu",
+  "dc_publisher_s": "Søren Stryhns Reklamebureu",
   "dct_spatial_sm": [
     "Odense",
     "Denmark"
   ],
   "layer_id_s": "2514nn19x",
-  "georss_box_s": "55.2889 10.2186 55.4806 10.5757",
   "dc_title_s": "Odense, Denmark",
   "layer_slug_s": "princeton-2514nn19x",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

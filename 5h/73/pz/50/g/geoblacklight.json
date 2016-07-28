@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1851",
-  "uuid": "http://arks.princeton.edu/ark:/88435/5h73pz50g",
   "dc_description_s": "\"A\" diagram of a portion of Oregon Territory /",
-  "georss_box_s": "41.991794 -124.7035409 46.299099 -116.4635039",
   "layer_modified_dt": "2015-01-21T22:24:04Z",
   "dc_creator_sm": [
     "McClelland, D.,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-5h73pz50g",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/5h73pz50g/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/5h/73/pz/50/g/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "46.299099 -124.7035409 46.299099 -116.4635039 41.991794 -116.4635039 41.991794 -124.7035409 46.299099 -124.7035409",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1851"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "Oregon",
     "Washington (State)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

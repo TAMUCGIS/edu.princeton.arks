@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1755",
-  "uuid": "http://arks.princeton.edu/ark:/88435/cr56n3441",
   "dc_description_s": "South America : performed under the patronage of Louis Duke of Orleans, First Prince of the Blood",
-  "georss_box_s": "-21.0000498 -61.0000502 -20.9999498 -60.9999502",
   "layer_modified_dt": "2015-01-25T02:06:11Z",
   "dc_creator_sm": [
     "Kitchin, Thomas,",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-cr56n3441",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/cr56n3441/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/cr/56/n3/44/1/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "-20.9999498 -61.0000502 -20.9999498 -60.9999502 -21.0000498 -60.9999502 -21.0000498 -61.0000502 -20.9999498 -61.0000502",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1755"
@@ -26,5 +23,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "South America"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

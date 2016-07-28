@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1633",
-  "uuid": "http://arks.princeton.edu/ark:/88435/tb09j812z",
-  "dc_description_s": "Novissima Arragoni\u00e6 regni tabula",
-  "georss_box_s": "40.1342597044 -9.503203125 43.9110632602 3.262984375",
+  "dc_description_s": "Novissima Arragoniæ regni tabula",
   "layer_modified_dt": "2015-01-21T22:24:12Z",
   "dc_creator_sm": [
     "Willis, Raymond S.,"
@@ -11,11 +9,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "tb09j812z",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Novissima Arragoni\u00e6 regni tabula",
+  "dc_title_s": "Novissima Arragoniæ regni tabula",
   "layer_slug_s": "princeton-tb09j812z",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/tb09j812z/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/tb/09/j8/12/z/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "43.9110632602 -9.503203125 43.9110632602 3.262984375 40.1342597044 3.262984375 40.1342597044 -9.503203125 43.9110632602 -9.503203125",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1633"
@@ -30,5 +27,6 @@
     "Navarre (Spain)",
     "Soria (Spain : Province)",
     "Zaragoza (Spain : Province)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

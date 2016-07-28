@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1913",
-  "uuid": "http://arks.princeton.edu/ark:/88435/xw42nb36q",
-  "dc_description_s": "El Peru\u0301 en 1913",
-  "georss_box_s": "-21.0 -82.0 2.0 -66.0",
+  "dc_description_s": "El Perú en 1913",
   "layer_modified_dt": "2015-01-19T22:37:14Z",
   "dc_creator_sm": [
     "Vallejos Z., Camilo."
@@ -11,11 +9,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "xw42nb36q",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "El Peru\u0301 en 1913",
+  "dc_title_s": "El Perú en 1913",
   "layer_slug_s": "princeton-xw42nb36q",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/xw42nb36q/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/xw/42/nb/36/q/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "2.0 -82.0 2.0 -66.0 -21.0 -66.0 -21.0 -82.0 2.0 -82.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1913"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Peru"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

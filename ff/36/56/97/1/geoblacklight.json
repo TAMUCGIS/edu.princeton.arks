@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(117.63, 117.68, 24.53, 24.48)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/ff3656971/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ff/36/56/97/1/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/ff3656971/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/ff3656971",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Roads",
@@ -24,7 +23,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "ff3656971",
-  "georss_polygon_s": "24.53 117.63 24.53 117.68 24.48 117.68 24.48 117.63 24.53 117.63",
   "dc_publisher_s": "Army Map Service",
   "solr_year_i": "1946",
   "dct_spatial_sm": [
@@ -34,9 +32,9 @@
     "China"
   ],
   "layer_id_s": "ff3656971",
-  "georss_box_s": "24.48 117.63 24.53 117.68",
   "dc_title_s": "Lung-Ch'i (Chang-Chou), China, Fukien Province.",
   "dct_issued_s": "1946",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

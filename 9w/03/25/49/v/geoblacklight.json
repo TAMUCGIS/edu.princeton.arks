@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1843",
-  "uuid": "http://arks.princeton.edu/ark:/88435/9w032549v",
   "dc_description_s": "Ancient Syria",
-  "georss_box_s": "30.6666666667 34.1666666667 38.1666666667 41.3333333333",
   "layer_modified_dt": "2015-01-19T22:37:18Z",
   "layer_id_s": "9w032549v",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-9w032549v",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/9w032549v/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/9w/03/25/49/v/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "38.1666666667 34.1666666667 38.1666666667 41.3333333333 30.6666666667 41.3333333333 30.6666666667 34.1666666667 38.1666666667 34.1666666667",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1843"
@@ -24,5 +21,6 @@
     "Syria",
     "Middle East",
     "Middle East"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

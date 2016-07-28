@@ -1,11 +1,9 @@
 {
   "solr_year_i": "1575",
-  "uuid": "http://arks.princeton.edu/ark:/88435/gh93h1582",
   "dc_description_s": "La ville de Londres : Londinum feracissimi Angliae regni metropolis",
-  "georss_box_s": "51.2867602 -0.510375 51.6918741 0.3340155",
   "layer_modified_dt": "2015-01-21T22:23:54Z",
   "dc_creator_sm": [
-    "Mu\u0308nster, Sebastian,"
+    "Münster, Sebastian,"
   ],
   "layer_id_s": "gh93h1582",
   "dc_type_s": "Image",
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-gh93h1582",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/gh93h1582/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/gh/93/h1/58/2/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.6918741 -0.510375 51.6918741 0.3340155 51.2867602 0.3340155 51.2867602 -0.510375 51.6918741 -0.510375",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1575"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "London (England)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

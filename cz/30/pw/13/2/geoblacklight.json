@@ -1,12 +1,10 @@
 {
   "solr_year_i": "1540",
-  "uuid": "http://arks.princeton.edu/ark:/88435/cz30pw132",
   "dc_description_s": "Tabula Europae IX",
-  "georss_box_s": "41.185353 12.090589 81.8581221 69.0679636",
   "layer_modified_dt": "2015-01-25T02:06:14Z",
   "dc_creator_sm": [
     "Petri, Heinrich,",
-    "Mu\u0308nster, Sebastian,",
+    "Münster, Sebastian,",
     "Ptolemy,"
   ],
   "layer_id_s": "cz30pw132",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-cz30pw132",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/cz30pw132/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/cz/30/pw/13/2/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "81.8581221 12.090589 81.8581221 69.0679636 41.185353 69.0679636 41.185353 12.090589 81.8581221 12.090589",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1540"
@@ -26,5 +23,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Europe, Eastern"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

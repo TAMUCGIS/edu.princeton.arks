@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1892",
-  "uuid": "http://arks.princeton.edu/ark:/88435/5d86p2723",
   "dc_description_s": "Rand, McNally & Co.'s indexed atlas of the world map of Japan",
-  "georss_box_s": "22.0 120.0 52.0 157.0",
   "layer_modified_dt": "2015-01-23T17:48:38Z",
   "layer_id_s": "5d86p2723",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-5d86p2723",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/5d86p2723/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/5d/86/p2/72/3/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "52.0 120.0 52.0 157.0 22.0 157.0 22.0 120.0 52.0 120.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1892"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Japan"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

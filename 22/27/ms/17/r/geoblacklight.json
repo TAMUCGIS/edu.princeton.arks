@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1849",
-  "uuid": "http://arks.princeton.edu/ark:/88435/2227ms17r",
-  "dc_description_s": "Rade de Port-au-Prince (Ile Hai\u0308ti ou St. Domingue)",
-  "georss_box_s": "18.387327 -72.4995928 18.707327 -72.1795928",
+  "dc_description_s": "Rade de Port-au-Prince (Ile Haïti ou St. Domingue)",
   "layer_modified_dt": "2015-01-21T22:24:26Z",
   "dc_creator_sm": [
     "Dyonnet, Ch.,",
@@ -12,11 +10,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "2227ms17r",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Rade de Port-au-Prince (Ile Hai\u0308ti ou St. Domingue)",
+  "dc_title_s": "Rade de Port-au-Prince (Ile Haïti ou St. Domingue)",
   "layer_slug_s": "princeton-2227ms17r",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/2227ms17r/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/22/27/ms/17/r/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "18.707327 -72.4995928 18.707327 -72.1795928 18.387327 -72.1795928 18.387327 -72.4995928 18.707327 -72.4995928",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1849"
@@ -25,5 +22,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Port-au-Prince (Haiti)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

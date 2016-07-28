@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1923",
-  "uuid": "http://arks.princeton.edu/ark:/88435/70795944t",
   "dc_description_s": "Map of the central part of Jasper Park, Alberta.",
-  "georss_box_s": "52.60000 -118.48333 53.36667 -117.73333",
   "layer_modified_dt": "2015-01-19T22:36:33Z",
   "layer_id_s": "70795944t",
   "dc_type_s": "Image",
@@ -12,12 +10,14 @@
   "layer_slug_s": "princeton-70795944t",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/70795944t/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/70/79/59/44/t/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "53.36667 -118.48333 53.36667 -117.73333 52.60000 -117.73333 52.60000 -118.48333 53.36667 -118.48333",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1923"
   ],
   "solr_geom": "ENVELOPE(-118.48333, -117.73333, 53.36667, 52.60000)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-80, -79.75, 36.75, 36.50)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/bn999819k/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/bn/99/98/19/k/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/bn999819k/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/bn999819k",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "historical maps",
@@ -20,7 +19,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "bn999819k",
-  "georss_polygon_s": "36.75 -80 36.75 -79.75 36.50 -79.75 36.50 -80 36.75 -80",
   "dc_publisher_s": "US Geological Survey",
   "solr_year_i": "1926",
   "dct_spatial_sm": [
@@ -30,9 +28,9 @@
     "United States"
   ],
   "layer_id_s": "bn999819k",
-  "georss_box_s": "36.50 -80 36.75 -79.75",
   "dc_title_s": "Virginia--North Carolina: Martinsville Quadrangle [1926] ",
   "dct_issued_s": "1926",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

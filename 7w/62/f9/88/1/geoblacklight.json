@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(11.98, 12.02, 51.37, 51.35)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/7w62f9881\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/7w62f9881/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/7w62f9881",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,16 +17,15 @@
   "dc_creator_sm": "Verlag von Friedr. Stollberg",
   "dc_type_s": "Image",
   "dc_identifier_s": "7w62f9881",
-  "georss_polygon_s": "51.37 11.98 51.37 12.02 51.35 12.02 51.35 11.98 51.37 11.98",
   "dc_publisher_s": "Verlag von Friedr. Stollberg",
   "dct_spatial_sm": [
     "Merseberg",
     "Germany"
   ],
   "layer_id_s": "7w62f9881",
-  "georss_box_s": "51.35 11.98 51.37 12.02",
   "dc_title_s": "Plan der Stadt Merseburg",
   "layer_slug_s": "princeton-7w62f9881",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(121.100136, 121.763186, 31.636031, 30.701076)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/gq67js78j/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/gq67js78j/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/gq67js78j/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/gq67js78j",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Cultural, society, and demographic",
@@ -18,7 +17,6 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "gq67js78j",
-  "georss_polygon_s": "31.636031 121.100136 31.636031 121.763186 30.701076 121.763186 30.701076 121.100136 31.636031 121.100136",
   "dc_publisher_s": "LeadDog Consulting, LLC",
   "solr_year_i": "2006",
   "dct_spatial_sm": [
@@ -26,9 +24,9 @@
     "China"
   ],
   "layer_id_s": "pulmap-restricted:gq67js78j",
-  "georss_box_s": "30.701076 121.100136 31.636031 121.763186",
   "dc_title_s": "Shanghai education and research",
   "layer_slug_s": "princeton-gq67js78j",
   "layer_geom_type_s": "Point",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

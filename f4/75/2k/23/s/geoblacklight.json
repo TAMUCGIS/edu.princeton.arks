@@ -1,18 +1,15 @@
 {
   "solr_year_i": "1899",
-  "uuid": "http://arks.princeton.edu/ark:/88435/f4752k23s",
-  "dc_description_s": "Der Kyffha\u0308user",
-  "georss_box_s": "51.3521460885 11.0075874408 51.4341938118 11.2009639352",
+  "dc_description_s": "Der Kyffhäuser",
   "layer_modified_dt": "2015-01-21T22:24:22Z",
   "layer_id_s": "f4752k23s",
   "dc_type_s": "Image",
   "dc_identifier_s": "f4752k23s",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Der Kyffha\u0308user",
+  "dc_title_s": "Der Kyffhäuser",
   "layer_slug_s": "princeton-f4752k23s",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/f4752k23s/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/f4/75/2k/23/s/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.4341938118 11.0075874408 51.4341938118 11.2009639352 51.3521460885 11.2009639352 51.3521460885 11.0075874408 51.4341938118 11.0075874408",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1899"
@@ -20,7 +17,8 @@
   "solr_geom": "ENVELOPE(11.0075874408, 11.2009639352, 51.4341938118, 51.3521460885)",
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
-    "Kyffha\u0308user Mountains (Germany)",
+    "Kyffhäuser Mountains (Germany)",
     "Thuringia (Germany)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

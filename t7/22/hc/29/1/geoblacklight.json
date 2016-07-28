@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1890",
-  "uuid": "http://arks.princeton.edu/ark:/88435/t722hc291",
   "dc_description_s": "A topographical map of the southwestern Highlands : with the southwest portion of Kittatinny Valley",
-  "georss_box_s": "40.0 -75.0 41.0 -74.0",
   "layer_modified_dt": "2015-01-19T22:37:28Z",
   "dc_creator_sm": [
     "Cook, George Hammell,",
@@ -16,12 +14,14 @@
   "layer_slug_s": "princeton-t722hc291",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/t722hc291/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/t7/22/hc/29/1/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "41.0 -75.0 41.0 -74.0 40.0 -74.0 40.0 -75.0 41.0 -75.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1890"
   ],
   "solr_geom": "ENVELOPE(-75.0, -74.0, 41.0, 40.0)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

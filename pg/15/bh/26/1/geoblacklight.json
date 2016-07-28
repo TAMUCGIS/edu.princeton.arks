@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1827",
-  "uuid": "http://arks.princeton.edu/ark:/88435/pg15bh261",
   "dc_description_s": "Ile de Cuba",
-  "georss_box_s": "20.7059846 -80.700194 27.4734551 -72.447752",
   "layer_modified_dt": "2015-01-21T22:23:58Z",
   "dc_creator_sm": [
     "Vandermaelen, Philippe,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-pg15bh261",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/pg15bh261/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/pg/15/bh/26/1/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "27.4734551 -80.700194 27.4734551 -72.447752 20.7059846 -72.447752 20.7059846 -80.700194 27.4734551 -80.700194",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1827"
@@ -26,5 +23,6 @@
     "Bahamas",
     "Cuba",
     "Jamaica"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,9 +1,6 @@
 {
   "dc_publisher_s": "New York: Sanborn Map Company",
-  "uuid": "http://arks.princeton.edu/ark:/88435/6w924d961",
   "dc_description_s": "This a Sanborn map of Morristown",
-  "georss_box_s": "40.780231 -74.501444 40.818361 -74.456181",
-  "georss_polygon_s": "40.818361 -74.501444 40.818361 -74.456181 40.780231 -74.456181 40.780231 -74.501444 40.818361 -74.501444",
   "layer_modified_dt": "2015-01-18T17:06:18Z",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -29,5 +26,6 @@
   "layer_geom_type_s": "Image",
   "solr_geom": "ENVELOPE(-74.501444, -74.456181, 40.818361, 40.780231)",
   "dc_rights_s": "Public",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1745",
-  "uuid": "http://arks.princeton.edu/ark:/88435/ft848t15z",
   "dc_description_s": "Le cours du Po, du Tanaro, Doria, Sessia, Tessin, Adda, Oglio, et traversants le Piemont, Montferrat, Milanois Mantouan, Parmesan, et Ferrarois",
-  "georss_box_s": "42.6792426623 6.6267201 47.092 18.5205015",
   "layer_modified_dt": "2015-01-25T02:06:21Z",
   "layer_id_s": "ft848t15z",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-ft848t15z",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/ft848t15z/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/ft/84/8t/15/z/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "47.092 6.6267201 47.092 18.5205015 42.6792426623 18.5205015 42.6792426623 6.6267201 47.092 6.6267201",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1745"
@@ -24,5 +21,6 @@
     "Monferrato (Italy)",
     "Piedmont (Italy)",
     "Po River Valley (Italy)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

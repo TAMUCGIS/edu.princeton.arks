@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(44.3206, 44.4372, 35.507, 35.3794)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/kh04dr253\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/kh04dr253/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/kh04dr253",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -21,7 +20,6 @@
   "dc_creator_sm": "National Imagery and Mapping Agency",
   "dc_type_s": "Image",
   "dc_identifier_s": "kh04dr253",
-  "georss_polygon_s": "35.507 44.3206 35.507 44.4372 35.3794 44.4372 35.3794 44.3206 35.507 44.3206",
   "dc_publisher_s": "National Imagery and Mapping Agency",
   "solr_year_i": "2003",
   "dct_spatial_sm": [
@@ -32,9 +30,9 @@
     "Murhafazah At Ta'min"
   ],
   "layer_id_s": "kh04dr253",
-  "georss_box_s": "35.3794 44.3206 35.507 44.4372",
   "dc_title_s": "Karkuk (Kirkuk), Iraq",
   "layer_slug_s": "princeton-kh04dr253",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

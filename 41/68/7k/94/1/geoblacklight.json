@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1630",
-  "uuid": "http://arks.princeton.edu/ark:/88435/41687k941",
   "dc_description_s": "Westmorlandia, Lancastria, Cestria, Caernarvan, Denbigh, Flint, Merionidh, Montgomery, Salopia : cum insulis Mania et Anglesey",
-  "georss_box_s": "53.1263336 -4.7004414 53.4357956 -4.0190358",
   "layer_modified_dt": "2015-01-21T22:24:18Z",
   "dc_creator_sm": [
     "Hondius, Hendrik,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-41687k941",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/41687k941/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/41/68/7k/94/1/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "53.4357956 -4.7004414 53.4357956 -4.0190358 53.1263336 -4.0190358 53.1263336 -4.7004414 53.4357956 -4.7004414",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1630"
@@ -28,5 +25,6 @@
     "England, North West",
     "Isle of Man",
     "Wales, North"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

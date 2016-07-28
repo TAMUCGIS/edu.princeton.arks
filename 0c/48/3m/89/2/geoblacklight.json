@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1609",
-  "uuid": "http://arks.princeton.edu/ark:/88435/0c483m892",
   "dc_description_s": "[Map of Northern Ireland]",
-  "georss_box_s": "53.8701676 -8.1775098 55.4435849 -5.0777815",
   "layer_modified_dt": "2015-01-21T22:24:23Z",
   "dc_creator_sm": [
     "Hondius, Jodocus,",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-0c483m892",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/0c483m892/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/0c/48/3m/89/2/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "55.4435849 -8.1775098 55.4435849 -5.0777815 53.8701676 -5.0777815 53.8701676 -8.1775098 55.4435849 -8.1775098",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1609"
@@ -26,5 +23,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Northern Ireland"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-71, -70.75, 42.25, 42)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/02870x32f/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/02/87/0x/32/f/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/02870x32f/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/02870x32f",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "historical maps",
@@ -20,7 +19,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "02870x32f",
-  "georss_polygon_s": "42.25 -71 42.25 -70.75 42 -70.75 42 -71 42.25 -71",
   "dc_publisher_s": "US Geological Survey",
   "dct_spatial_sm": [
     "Abington",
@@ -29,9 +27,9 @@
     "United States"
   ],
   "layer_id_s": "02870x32f",
-  "georss_box_s": "42 -71 42.25 -70.75",
   "dc_title_s": "Massachusetts: Abington sheet [1886]",
   "dct_issued_s": "September 1886",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

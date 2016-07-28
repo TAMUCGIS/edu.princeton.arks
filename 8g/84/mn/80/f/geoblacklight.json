@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(12.3018, 12.3687, 45.4493, 45.4247)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/8g84mn80f\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/8g84mn80f/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/8g84mn80f",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Istituto geografico De Agostini",
   "dc_type_s": "Image",
   "dc_identifier_s": "8g84mn80f",
-  "georss_polygon_s": "45.4493 12.3018 45.4493 12.3687 45.4247 12.3687 45.4247 12.3018 45.4493 12.3018",
   "dc_publisher_s": "Istituto geografico De Agostini",
   "solr_year_i": "1955",
   "dct_spatial_sm": [
@@ -31,9 +29,9 @@
     "Provincia di Venezia"
   ],
   "layer_id_s": "8g84mn80f",
-  "georss_box_s": "45.4247 12.3018 45.4493 12.3687",
   "dc_title_s": "Venezia",
   "layer_slug_s": "princeton-8g84mn80f",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

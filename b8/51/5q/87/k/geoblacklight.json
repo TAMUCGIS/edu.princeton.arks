@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1628",
-  "uuid": "http://arks.princeton.edu/ark:/88435/b8515q87k",
   "dc_description_s": "Northumbria, Cumberlandia, et Dunelmensis Episcopatus",
-  "georss_box_s": "53.0868348 -0.5351732 53.1068348 -0.5151732",
   "layer_modified_dt": "2015-01-21T22:24:19Z",
   "dc_creator_sm": [
     "Hondius, Hendrik,",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-b8515q87k",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/b8515q87k/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/b8/51/5q/87/k/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "53.1068348 -0.5351732 53.1068348 -0.5151732 53.0868348 -0.5151732 53.0868348 -0.5351732 53.1068348 -0.5351732",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1628"
@@ -27,5 +24,6 @@
     "Cumberland (England)",
     "Durham (England)",
     "Northumbria (England : Region)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

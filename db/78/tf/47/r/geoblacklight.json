@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1780",
-  "uuid": "http://arks.princeton.edu/ark:/88435/db78tf47r",
   "dc_description_s": "An accurate map of Rhode Island, part of Connecticut and Massachusets [sic] : shewing Admiral Arbuthnot's station in blocking up Admiral Ternay",
-  "georss_box_s": "40.8833333333 -72.9166666667 42.0 -70.5",
   "layer_modified_dt": "2015-01-19T22:37:09Z",
   "dc_creator_sm": [
     "Bew, John,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-db78tf47r",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/db78tf47r/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/db/78/tf/47/r/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "42.0 -72.9166666667 42.0 -70.5 40.8833333333 -70.5 40.8833333333 -72.9166666667 42.0 -72.9166666667",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1780"
@@ -27,5 +24,6 @@
     "Massachusetts",
     "Rhode Island",
     "United States"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

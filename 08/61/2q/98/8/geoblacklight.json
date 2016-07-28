@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1818",
-  "uuid": "http://arks.princeton.edu/ark:/88435/08612q988",
   "dc_description_s": "Egypt",
-  "georss_box_s": "24.0 28.8333333333 31.7 35.1666666667",
   "layer_modified_dt": "2015-01-19T22:37:18Z",
   "dc_creator_sm": [
     "Hebert, L.",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-08612q988",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/08612q988/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/08/61/2q/98/8/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "31.7 28.8333333333 31.7 35.1666666667 24.0 35.1666666667 24.0 28.8333333333 31.7 28.8333333333",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1818"
@@ -26,5 +23,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Egypt"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

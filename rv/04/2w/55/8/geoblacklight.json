@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1620",
-  "uuid": "http://arks.princeton.edu/ark:/88435/rv042w558",
-  "dc_description_s": "Northumbri\u00e6 : comitatus olim sedes Otadinorum",
-  "georss_box_s": "54.78251 -2.689785 55.81166 -1.4602858",
+  "dc_description_s": "Northumbriæ : comitatus olim sedes Otadinorum",
   "layer_modified_dt": "2015-01-21T22:24:18Z",
   "dc_creator_sm": [
     "Bishop, George,",
@@ -13,11 +11,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "rv042w558",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Northumbri\u00e6 : comitatus olim sedes Otadinorum",
+  "dc_title_s": "Northumbriæ : comitatus olim sedes Otadinorum",
   "layer_slug_s": "princeton-rv042w558",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/rv042w558/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/rv/04/2w/55/8/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "55.81166 -2.689785 55.81166 -1.4602858 54.78251 -1.4602858 54.78251 -2.689785 55.81166 -2.689785",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1620"
@@ -26,5 +23,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Northumberland (England)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

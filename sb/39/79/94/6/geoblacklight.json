@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-7.3636, -7.2738, 55.0374, 54.9783)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/sb3979946\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/sb3979946/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/sb3979946",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Defense Survey, Ministry of Defense",
   "dc_type_s": "Image",
   "dc_identifier_s": "sb3979946",
-  "georss_polygon_s": "55.0374 -7.3636 55.0374 -7.2738 54.9783 -7.2738 54.9783 -7.3636 55.0374 -7.3636",
   "dc_publisher_s": "Defense Survey, Ministry of Defense",
   "solr_year_i": "1970",
   "dct_spatial_sm": [
@@ -26,9 +24,9 @@
     "Ireland"
   ],
   "layer_id_s": "sb3979946",
-  "georss_box_s": "54.9783 -7.3636 55.0374 -7.2738",
   "dc_title_s": "United Kingdom Town plans. Series M 921. Londonderry.",
   "layer_slug_s": "princeton-sb3979946",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

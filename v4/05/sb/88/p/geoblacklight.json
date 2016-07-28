@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(09.64, 09.83, 52.43, 52.33)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/v405sb88p\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/v405sb88p/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/v405sb88p",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -17,7 +16,6 @@
   "dc_creator_sm": "Stadtvermessungsamt Hannover",
   "dc_type_s": "Image",
   "dc_identifier_s": "v405sb88p",
-  "georss_polygon_s": "52.43 09.64 52.43 09.83 52.33 09.83 52.33 09.64 52.43 09.64",
   "dc_publisher_s": "Stadtvermessungsamt Hannover",
   "solr_year_i": "1948",
   "dct_spatial_sm": [
@@ -25,9 +23,9 @@
     "Germany"
   ],
   "layer_id_s": "v405sb88p",
-  "georss_box_s": "52.33 09.64 52.43 09.83",
   "dc_title_s": "Karte der Haupstadt Hannover",
   "layer_slug_s": "princeton-v405sb88p",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

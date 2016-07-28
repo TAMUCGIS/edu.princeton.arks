@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(13.6065, 13.7342, 45.1314, 45.0213)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/fn107037k\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/fn107037k/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/fn107037k",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "unknown",
   "dc_type_s": "Image",
   "dc_identifier_s": "fn107037k",
-  "georss_polygon_s": "45.1314 13.6065 45.1314 13.7342 45.0213 13.7342 45.0213 13.6065 45.1314 13.6065",
   "dc_publisher_s": "unknown",
   "dct_spatial_sm": [
     "Rovinj",
@@ -28,9 +26,9 @@
     "Rovigno"
   ],
   "layer_id_s": "fn107037k",
-  "georss_box_s": "45.0213 13.6065 45.1314 13.7342",
   "dc_title_s": "Rovinj",
   "layer_slug_s": "princeton-fn107037k",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

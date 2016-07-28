@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-7.3643, -7.2726, 55.04, 54.9769)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/m613n008x\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/m613n008x/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/m613n008x",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "Defense Survey, Ministry of Defense",
   "dc_type_s": "Image",
   "dc_identifier_s": "m613n008x",
-  "georss_polygon_s": "55.04 -7.3643 55.04 -7.2726 54.9769 -7.2726 54.9769 -7.3643 55.04 -7.3643",
   "dc_publisher_s": "Defense Survey, Ministry of Defense",
   "solr_year_i": "1970",
   "dct_spatial_sm": [
@@ -26,9 +24,9 @@
     "Ireland"
   ],
   "layer_id_s": "m613n008x",
-  "georss_box_s": "54.9769 -7.3643 55.04 -7.2726",
   "dc_title_s": "Londonderry Town Plan 1:2500 Londonderry East (2/2)",
   "layer_slug_s": "princeton-m613n008x",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

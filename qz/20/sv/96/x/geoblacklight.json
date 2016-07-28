@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1902",
-  "uuid": "http://arks.princeton.edu/ark:/88435/qz20sv96x",
   "dc_description_s": "Persia, Afghanistan, and Baluchistan",
-  "georss_box_s": "26.0 46.0 40.0 72.0",
   "layer_modified_dt": "2015-01-19T22:37:18Z",
   "layer_id_s": "qz20sv96x",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-qz20sv96x",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/qz20sv96x/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/qz/20/sv/96/x/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "40.0 46.0 40.0 72.0 26.0 72.0 26.0 46.0 40.0 46.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1902"
@@ -23,5 +20,6 @@
     "Afghanistan",
     "Iran",
     "Pakistan"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

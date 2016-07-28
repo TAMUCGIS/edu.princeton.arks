@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1850",
-  "uuid": "http://arks.princeton.edu/ark:/88435/q524jr29c",
   "dc_description_s": "Berlin",
-  "georss_box_s": "52.3570365 13.2288599 52.6770365 13.5488599",
   "layer_modified_dt": "2015-01-21T22:24:26Z",
   "dc_creator_sm": [
     "Metzeroth, B.,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-q524jr29c",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/q524jr29c/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/q5/24/jr/29/c/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "52.6770365 13.2288599 52.6770365 13.5488599 52.3570365 13.5488599 52.3570365 13.2288599 52.6770365 13.2288599",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1850"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Berlin (Germany)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

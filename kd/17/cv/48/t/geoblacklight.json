@@ -1,10 +1,9 @@
 {
-  "dc_description_s": "This is a city map of Donauw\u00f6rth, Germany, shown at a 1:7,500 scale. This city map was created by Stadte-Verlag: E.v. Wagner & J. Mitterhuber.",
+  "dc_description_s": "This is a city map of Donauwörth, Germany, shown at a 1:7,500 scale. This city map was created by Stadte-Verlag: E.v. Wagner & J. Mitterhuber.",
   "layer_modified_dt": "2015-01-11T18:24:59Z",
   "solr_geom": "ENVELOPE(10.6697, 10.8606, 48.7629, 48.6769)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/kd17cv48t\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/kd17cv48t/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/kd17cv48t",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,18 +17,17 @@
   "dc_creator_sm": "Stadte-Verlag",
   "dc_type_s": "Image",
   "dc_identifier_s": "kd17cv48t",
-  "georss_polygon_s": "48.7629 10.6697 48.7629 10.8606 48.6769 10.8606 48.6769 10.6697 48.7629 10.6697",
   "dc_publisher_s": "Stadte-Verlag",
   "solr_year_i": "1962",
   "dct_spatial_sm": [
-    "Donauw\u00f6rth",
+    "Donauwörth",
     "Germany",
     "Land Bayern"
   ],
   "layer_id_s": "kd17cv48t",
-  "georss_box_s": "48.6769 10.6697 48.7629 10.8606",
-  "dc_title_s": "Stadtplan Donauw\u00f6rth",
+  "dc_title_s": "Stadtplan Donauwörth",
   "layer_slug_s": "princeton-kd17cv48t",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

@@ -1,18 +1,15 @@
 {
   "solr_year_i": "1898",
-  "uuid": "http://arks.princeton.edu/ark:/88435/7h149s40r",
-  "dc_description_s": "Mu\u0308nchen : mit den Vororten",
-  "georss_box_s": "47.2701114 8.9763497 50.5647142 13.8396373",
+  "dc_description_s": "München : mit den Vororten",
   "layer_modified_dt": "2015-01-21T22:24:27Z",
   "layer_id_s": "7h149s40r",
   "dc_type_s": "Image",
   "dc_identifier_s": "7h149s40r",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Mu\u0308nchen : mit den Vororten",
+  "dc_title_s": "München : mit den Vororten",
   "layer_slug_s": "princeton-7h149s40r",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/7h149s40r/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/7h/14/9s/40/r/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "50.5647142 8.9763497 50.5647142 13.8396373 47.2701114 13.8396373 47.2701114 8.9763497 50.5647142 8.9763497",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1898"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Bavaria (Germany)",
     "Munich (Germany)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-75.105, -74.723, 39.999, 39.606)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/b2773x195/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/b2/77/3x/19/5/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/b2773x195/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/b2773x195",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "b2773x195",
-  "georss_polygon_s": "39.999 -75.105 39.999 -74.723 39.606 -74.723 39.606 -75.105 39.999 -75.105",
   "dc_publisher_s": "Sanborn Map Company",
   "solr_year_i": "1931",
   "dct_spatial_sm": [
@@ -30,9 +28,9 @@
     "Pine Hill"
   ],
   "layer_id_s": "b2773x195",
-  "georss_box_s": "39.606 -75.105 39.999 -74.723",
   "dc_title_s": "Clementon, including Pine Hill and part of Lindenwold, Camden County, New Jersey (Sheet 9)",
   "dct_issued_s": "1931",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

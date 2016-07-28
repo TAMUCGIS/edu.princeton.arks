@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1650",
-  "uuid": "http://arks.princeton.edu/ark:/88435/6d5700115",
   "dc_description_s": "Cumberland and the ancient citie Carlile described with many memorable antiquities therein found observed",
-  "georss_box_s": "54.8649744 -2.9892121 54.9320717 -2.8764246",
   "layer_modified_dt": "2015-01-21T22:24:19Z",
   "layer_id_s": "6d5700115",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-6d5700115",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/6d5700115/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/6d/57/00/11/5/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "54.9320717 -2.9892121 54.9320717 -2.8764246 54.8649744 -2.8764246 54.8649744 -2.9892121 54.9320717 -2.9892121",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1650"
@@ -22,5 +19,6 @@
   "dct_spatial_sm": [
     "Carlisle (England)",
     "Cumberland (England)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

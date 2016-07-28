@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1805",
-  "uuid": "http://arks.princeton.edu/ark:/88435/br86b606q",
   "dc_description_s": "A map of Wiltshire : from the best authorities",
-  "georss_box_s": "50.9445859 -2.3655988 51.7031431 -1.4857261",
   "layer_modified_dt": "2015-01-21T22:24:18Z",
   "dc_creator_sm": [
     "Cary, John,",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-br86b606q",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/br86b606q/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/br/86/b6/06/q/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.7031431 -2.3655988 51.7031431 -1.4857261 50.9445859 -1.4857261 50.9445859 -2.3655988 51.7031431 -2.3655988",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1805"
@@ -26,5 +23,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Wiltshire (England)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1845",
-  "uuid": "http://arks.princeton.edu/ark:/88435/n870zt28s",
   "dc_description_s": "Oporto (Porto)",
-  "georss_box_s": "40.9882464 -8.7710231 41.3082464 -8.4510231",
   "layer_modified_dt": "2015-01-21T22:24:10Z",
   "dc_creator_sm": [
     "Henshall, J.,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-n870zt28s",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/n870zt28s/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/n8/70/zt/28/s/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "41.3082464 -8.7710231 41.3082464 -8.4510231 40.9882464 -8.4510231 40.9882464 -8.7710231 41.3082464 -8.7710231",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1845"
@@ -24,5 +21,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Porto (Portugal)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

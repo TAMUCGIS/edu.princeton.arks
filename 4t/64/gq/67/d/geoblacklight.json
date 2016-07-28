@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1701",
-  "uuid": "http://arks.princeton.edu/ark:/88435/4t64gq67d",
   "dc_description_s": "Germany",
-  "georss_box_s": "46.3722761 9.5307265 49.0205304 17.160776",
   "layer_modified_dt": "2015-01-21T22:24:21Z",
   "dc_creator_sm": [
     "Moll, Herman,"
@@ -15,7 +13,6 @@
   "layer_slug_s": "princeton-4t64gq67d",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/4t64gq67d/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/4t/64/gq/67/d/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "49.0205304 9.5307265 49.0205304 17.160776 46.3722761 17.160776 46.3722761 9.5307265 49.0205304 9.5307265",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1701"
@@ -26,5 +23,6 @@
     "Austria",
     "Germany",
     "Poland"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

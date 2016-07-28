@@ -1,9 +1,6 @@
 {
   "dc_publisher_s": "New York: Sanborn Map Company",
-  "uuid": "http://arks.princeton.edu/ark:/88435/q237hv10z",
   "dc_description_s": "This a Sanborn map of New Jersey Coast",
-  "georss_box_s": "38.9465 -74.8546 40.4126 -73.9684",
-  "georss_polygon_s": "40.4126 -74.8546 40.4126 -73.9684 38.9465 -73.9684 38.9465 -74.8546 40.4126 -74.8546",
   "layer_modified_dt": "2015-01-18T17:06:33Z",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -29,5 +26,6 @@
   "layer_geom_type_s": "Image",
   "solr_geom": "ENVELOPE(-74.8546, -73.9684, 40.4126, 38.9465)",
   "dc_rights_s": "Public",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(14.9523, 15.1459, 50.8245, 50.7077)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/h128ng19k\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/h128ng19k/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/h128ng19k",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -19,7 +18,6 @@
   "dc_creator_sm": "Vytiskla Severografia/Krajske Nakladatelstvi Liberec",
   "dc_type_s": "Image",
   "dc_identifier_s": "h128ng19k",
-  "georss_polygon_s": "50.8245 14.9523 50.8245 15.1459 50.7077 15.1459 50.7077 14.9523 50.8245 14.9523",
   "dc_publisher_s": "Vytiskla Severografia/Krajske Nakladatelstvi Liberec",
   "solr_year_i": "1958",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "Czech Republic"
   ],
   "layer_id_s": "h128ng19k",
-  "georss_box_s": "50.7077 14.9523 50.8245 15.1459",
   "dc_title_s": "Liberec, orentacni plan",
   "layer_slug_s": "princeton-h128ng19k",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

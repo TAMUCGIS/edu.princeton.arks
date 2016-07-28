@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(47.6153, 47.9270, 30.6314, 30.4326)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/zg64tn404\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/zg64tn404/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/zg64tn404",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -21,7 +20,6 @@
   "dc_creator_sm": "National Imagery and Mapping Agency",
   "dc_type_s": "Image",
   "dc_identifier_s": "zg64tn404",
-  "georss_polygon_s": "30.6314 47.6153 30.6314 47.9270 30.4326 47.9270 30.4326 47.6153 30.6314 47.6153",
   "dc_publisher_s": "National Imagery and Mapping Agency",
   "solr_year_i": "2003",
   "dct_spatial_sm": [
@@ -30,9 +28,9 @@
     "Al Basrah muhafazah"
   ],
   "layer_id_s": "zg64tn404",
-  "georss_box_s": "30.4326 47.6153 30.6314 47.9270",
   "dc_title_s": "Al Basrah, Iraq",
   "layer_slug_s": "princeton-zg64tn404",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

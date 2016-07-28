@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(78.0333, 78.0833, 30.4667, 30.4333)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/st74cr85h\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/st74cr85h/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/st74cr85h",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Topography",
@@ -15,7 +14,6 @@
   "dc_creator_sm": "Survey of India",
   "dc_type_s": "Image",
   "dc_identifier_s": "st74cr85h",
-  "georss_polygon_s": "30.4667 78.0333 30.4667 78.0833 30.4333 78.0833 30.4333 78.0333 30.4667 78.0333",
   "dc_publisher_s": "Survey of India",
   "solr_year_i": "1946",
   "dct_spatial_sm": [
@@ -29,9 +27,9 @@
     "MAX  G7654.M79C2.1946.S9I5"
   ],
   "layer_id_s": "st74cr85h",
-  "georss_box_s": "30.4333 78.0333 30.4667 78.0833",
   "dc_title_s": "Guide map of Mussoorie and Landour.",
   "layer_slug_s": "princeton-st74cr85h",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

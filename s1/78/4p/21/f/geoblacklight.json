@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1851",
-  "uuid": "http://arks.princeton.edu/ark:/88435/s1784p21f",
   "dc_description_s": "Ancient Palestine",
-  "georss_box_s": "29.4533796 34.2676025 33.3356317 35.8950234",
   "layer_modified_dt": "2015-01-21T22:24:14Z",
   "dc_creator_sm": [
     "Warner, H.",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-s1784p21f",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/s1784p21f/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/s1/78/4p/21/f/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "33.3356317 34.2676025 33.3356317 35.8950234 29.4533796 35.8950234 29.4533796 34.2676025 33.3356317 34.2676025",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1851"
@@ -26,5 +23,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Palestine"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

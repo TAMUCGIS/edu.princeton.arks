@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1872",
-  "uuid": "http://arks.princeton.edu/ark:/88435/x346d603n",
   "dc_description_s": "Countries in the northern tropical regions of Africa",
-  "georss_box_s": "4.0 26.0 16.0 45.0",
   "layer_modified_dt": "2015-01-19T22:36:49Z",
   "dc_creator_sm": [
     "Petermann, A.",
@@ -17,7 +15,6 @@
   "layer_slug_s": "princeton-x346d603n",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/x346d603n/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/x3/46/d6/03/n/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "16.0 26.0 16.0 45.0 4.0 45.0 4.0 26.0 16.0 26.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1872"
@@ -27,5 +24,6 @@
   "dct_spatial_sm": [
     "Africa, Central",
     "Ethiopia"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,11 +1,9 @@
 {
   "solr_year_i": "1560",
-  "uuid": "http://arks.princeton.edu/ark:/88435/0p096945b",
   "dc_description_s": "Geographia particolare d'una gran parte dell'Europa nouame[n]te descritta co i confini suoi, e prima uerso leua[n]te e il meridiano di Consta[n]tinopoli, e da pone[n]te il meridiano della magca. cita di Venetia, et da tramo[n]tana il parallelo di Vienna in Austria, e uerso Ostro il parallelo che passa per il mezzo dell'isola di Candia, et in torno ui sono i gradi e minuti delle longhezze, et larghhezze, con lamisura de le miglia italiani",
-  "georss_box_s": "36.3854134 13.4285022 45.9089096 29.619427",
   "layer_modified_dt": "2015-01-25T02:06:21Z",
   "dc_creator_sm": [
-    "Lafre\u0301ry, Antoine,",
+    "Lafréry, Antoine,",
     "Licinius, Fabius,"
   ],
   "layer_id_s": "0p096945b",
@@ -16,7 +14,6 @@
   "layer_slug_s": "princeton-0p096945b",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/0p096945b/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/0p/09/69/45/b/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "45.9089096 13.4285022 45.9089096 29.619427 36.3854134 29.619427 36.3854134 13.4285022 45.9089096 13.4285022",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1560"
@@ -28,5 +25,6 @@
     "Italy, Central",
     "Italy, Southern",
     "Siciliy (Italy)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

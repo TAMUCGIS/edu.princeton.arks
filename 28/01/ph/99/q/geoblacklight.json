@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(8.6042, 8.7216, 50.0293, 49.9521)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/2801ph99q\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/2801ph99q/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/2801ph99q",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "RECO Kartographie und Verlag",
   "dc_type_s": "Image",
   "dc_identifier_s": "2801ph99q",
-  "georss_polygon_s": "50.0293 8.6042 50.0293 8.7216 49.9521 8.7216 49.9521 8.6042 50.0293 8.6042",
   "dc_publisher_s": "Sprendlingen: Stadtverwaltung und Verkehrs- und Verschoenerungsverein",
   "solr_year_i": "1964",
   "dct_spatial_sm": [
@@ -30,9 +28,9 @@
     "Hessen Land"
   ],
   "layer_id_s": "2801ph99q",
-  "georss_box_s": "49.9521 8.6042 50.0293 8.7216",
   "dc_title_s": "Stadtplan von Langen",
   "layer_slug_s": "princeton-2801ph99q",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

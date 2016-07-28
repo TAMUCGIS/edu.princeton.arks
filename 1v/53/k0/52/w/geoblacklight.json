@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1759",
-  "uuid": "http://arks.princeton.edu/ark:/88435/1v53k052w",
   "dc_description_s": "Partie de l'empire de Russie : comprise en Asie",
-  "georss_box_s": "41.1858711 -179.9999999 82.0586232 180",
   "layer_modified_dt": "2015-01-25T02:06:23Z",
   "layer_id_s": "1v53k052w",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-1v53k052w",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/1v53k052w/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/1v/53/k0/52/w/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "82.0586232 -179.9999999 82.0586232 180 41.1858711 180 41.1858711 -179.9999999 82.0586232 -179.9999999",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1759"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Russia"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

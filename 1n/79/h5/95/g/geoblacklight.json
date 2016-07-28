@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(6.250795, 30.588541, 70.536178, 58.020731)",
   "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/1n79h595g/preview.jpg\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/1n79h595g/fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wfs\", \"http://schema.org/downloadUrl\": \"https://geowebservices.princeton.edu/download/items/1n79h595g/data.zip\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geowebservices.princeton.edu/pulmap-restricted/geoserver/wms\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/1n79h595g",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Rivers",
@@ -21,16 +20,15 @@
   ],
   "dc_type_s": "Dataset",
   "dc_identifier_s": "1n79h595g",
-  "georss_polygon_s": "70.536178 6.250795 70.536178 30.588541 58.020731 30.588541 58.020731 6.250795 70.536178 6.250795",
   "dc_publisher_s": "Gfk MACON Company",
   "solr_year_i": "2006",
   "dct_spatial_sm": [
     "Norway"
   ],
   "layer_id_s": "pulmap-restricted:1n79h595g",
-  "georss_box_s": "58.020731 6.250795 70.536178 30.588541",
   "dc_title_s": "Norway Major Rivers, 2005",
   "layer_slug_s": "princeton-1n79h595g",
   "layer_geom_type_s": "Line",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

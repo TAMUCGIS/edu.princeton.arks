@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1760",
-  "uuid": "http://arks.princeton.edu/ark:/88435/7p88cj918",
   "dc_description_s": "Pensylvania, Nova Jersey et Nova York cum regionibus ad fluvium Delaware in America sitis",
-  "georss_box_s": "38.0020724983 -80.6300211 45.4767372853 -73.1174139",
   "layer_modified_dt": "2015-01-21T22:23:58Z",
   "dc_creator_sm": [
     "Lotter, Tobias Conrad,",
@@ -18,7 +16,6 @@
   "layer_slug_s": "princeton-7p88cj918",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/7p88cj918/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/7p/88/cj/91/8/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "45.4767372853 -80.6300211 45.4767372853 -73.1174139 38.0020724983 -73.1174139 38.0020724983 -80.6300211 45.4767372853 -80.6300211",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1760"
@@ -29,5 +26,6 @@
     "Middle Atlantic States",
     "New England",
     "New Jersey"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

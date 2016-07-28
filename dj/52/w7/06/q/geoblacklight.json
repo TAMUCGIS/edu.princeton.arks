@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1780",
-  "uuid": "http://arks.princeton.edu/ark:/88435/dj52w706q",
-  "dc_description_s": "Carte de la partie nord, des Etats Unis, de l'Ame\u0301rique septentrionale",
-  "georss_box_s": "38.0 -83.0 45.0 -67.0",
+  "dc_description_s": "Carte de la partie nord, des Etats Unis, de l'Amérique septentrionale",
   "layer_modified_dt": "2015-01-19T22:37:01Z",
   "dc_creator_sm": [
     "Bonne, Rigobert,"
@@ -11,11 +9,10 @@
   "dc_type_s": "Image",
   "dc_identifier_s": "dj52w706q",
   "dct_provenance_s": "Princeton",
-  "dc_title_s": "Carte de la partie nord, des Etats Unis, de l'Ame\u0301rique septentrionale",
+  "dc_title_s": "Carte de la partie nord, des Etats Unis, de l'Amérique septentrionale",
   "layer_slug_s": "princeton-dj52w706q",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/dj52w706q/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/dj/52/w7/06/q/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "45.0 -83.0 45.0 -67.0 38.0 -67.0 38.0 -83.0 45.0 -83.0",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1780"
@@ -25,5 +22,6 @@
   "dct_spatial_sm": [
     "Middle Atlantic States",
     "New England"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1864",
-  "uuid": "http://arks.princeton.edu/ark:/88435/zk51vk25p",
   "dc_description_s": "Map of Vancouver Island to illustrate the paper of Dr. C. Forbes, R.N. /",
-  "georss_box_s": "47.83333 -129.16667 51.11667 -121.66667",
   "layer_modified_dt": "2015-01-19T22:37:22Z",
   "dc_creator_sm": [
     "Forbes, Charles.",
@@ -16,12 +14,14 @@
   "layer_slug_s": "princeton-zk51vk25p",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/zk51vk25p/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/zk/51/vk/25/p/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "51.11667 -129.16667 51.11667 -121.66667 47.83333 -121.66667 47.83333 -129.16667 51.11667 -129.16667",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1864"
   ],
   "solr_geom": "ENVELOPE(-129.16667, -121.66667, 51.11667, 47.83333)",
   "dc_rights_s": "Public",
-  "dct_spatial_sm": []
+  "dct_spatial_sm": [
+
+  ],
+  "geoblacklight_version": "1.0"
 }

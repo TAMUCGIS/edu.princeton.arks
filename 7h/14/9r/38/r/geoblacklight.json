@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-2.1278, -2.0626, 49.2012, 49.1618)",
   "dct_references_s": "{\"http://schema.org/url\": \"http://arks.princeton.edu/ark:/88435/7h149r38r\", \"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/metadata/edu.princeton.arks/7h149r38r/fgdc.xml\"}",
   "dc_rights_s": "Restricted",
-  "uuid": "http://arks.princeton.edu/ark:/88435/7h149r38r",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Structure",
@@ -18,7 +17,6 @@
   "dc_creator_sm": "United States Army Map Service/Great Britain War Office, General Staff, Geographical Section",
   "dc_type_s": "Image",
   "dc_identifier_s": "7h149r38r",
-  "georss_polygon_s": "49.2012 -2.1278 49.2012 -2.0626 49.1618 -2.0626 49.1618 -2.1278 49.2012 -2.1278",
   "dc_publisher_s": "United States Army Map Service/Great Britain War Office, General Staff, Geographical Section",
   "solr_year_i": "1943",
   "dct_spatial_sm": [
@@ -28,9 +26,9 @@
     "Jersey"
   ],
   "layer_id_s": "7h149r38r",
-  "georss_box_s": "49.1618 -2.1278 49.2012 -2.0626",
   "dc_title_s": "St. Helier",
   "layer_slug_s": "princeton-7h149r38r",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

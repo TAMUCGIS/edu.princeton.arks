@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1884",
-  "uuid": "http://arks.princeton.edu/ark:/88435/p5547t21m",
   "dc_description_s": "Africa",
-  "georss_box_s": "1.9999503 15.9999497 2.0000503 16.0000497",
   "layer_modified_dt": "2015-01-21T22:23:43Z",
   "layer_id_s": "p5547t21m",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-p5547t21m",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/p5547t21m/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/p5/54/7t/21/m/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "2.0000503 15.9999497 2.0000503 16.0000497 1.9999503 16.0000497 1.9999503 15.9999497 2.0000503 15.9999497",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1884"
@@ -23,5 +20,6 @@
     "Africa",
     "Saint Helena",
     "Nile River Valley"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

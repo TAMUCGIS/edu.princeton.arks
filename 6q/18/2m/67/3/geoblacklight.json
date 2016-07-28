@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-45, 85, 39, -40)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/6q182m673/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/6q/18/2m/67/3/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/6q182m673/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/6q182m673",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Africa maps 1710"
@@ -16,16 +15,15 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "6q182m673",
-  "georss_polygon_s": "39 -45 39 85 -40 85 -40 -45 39 -45",
   "dc_publisher_s": "Philip Overton",
   "solr_year_i": "1710",
   "dct_spatial_sm": [
     "Africa"
   ],
   "layer_id_s": "6q182m673",
-  "georss_box_s": "-40 -45 39 85",
   "dc_title_s": "To the right honourable Charles, Earl of Peterborow and Monmouth, &c this map of Africa ... is most humbly dedicated / by your Lordship's humble servant H: Moll geographer.",
   "dct_issued_s": "1710",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }

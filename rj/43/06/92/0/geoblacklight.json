@@ -1,8 +1,6 @@
 {
   "solr_year_i": "1732",
-  "uuid": "http://arks.princeton.edu/ark:/88435/rj4306920",
   "dc_description_s": "Insul Rhodus",
-  "georss_box_s": "35.8767211 27.6834947 36.4586052 28.2475278",
   "layer_modified_dt": "2015-01-21T22:23:57Z",
   "layer_id_s": "rj4306920",
   "dc_type_s": "Image",
@@ -12,7 +10,6 @@
   "layer_slug_s": "princeton-rj4306920",
   "dc_format_s": "Scanned Map",
   "dct_references_s": "{\"http://www.loc.gov/standards/marcxml\": \"https://geowebservices.princeton.edu/download/items/rj4306920/marc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/rj/43/06/92/0/00000001.jp2/info.json\"}",
-  "georss_polygon_s": "36.4586052 27.6834947 36.4586052 28.2475278 35.8767211 28.2475278 35.8767211 27.6834947 36.4586052 27.6834947",
   "layer_geom_type_s": "Image",
   "dct_temporal_sm": [
     "1732"
@@ -21,5 +18,6 @@
   "dc_rights_s": "Public",
   "dct_spatial_sm": [
     "Rhodes (Greece : Island)"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

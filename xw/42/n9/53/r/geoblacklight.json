@@ -4,7 +4,6 @@
   "solr_geom": "ENVELOPE(-73.988, -73.972, 40.399, 40.346)",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\": \"https://geowebservices.princeton.edu/download/items/xw42n953r/fgdc.xml\", \"http://iiif.io/api/image\": \"https://libimages1.princeton.edu/loris/pulmap/xw/42/n9/53/r/00000001.jp2/info.json\", \"http://schema.org/thumbnailUrl\": \"https://geowebservices.princeton.edu/download/items/xw42n953r/preview.jpg\"}",
   "dc_rights_s": "Public",
-  "uuid": "http://arks.princeton.edu/ark:/88435/xw42n953r",
   "dct_provenance_s": "Princeton",
   "dc_subject_sm": [
     "Boundaries",
@@ -18,7 +17,6 @@
   ],
   "dc_type_s": "Image",
   "dc_identifier_s": "xw42n953r",
-  "georss_polygon_s": "40.399 -73.988 40.399 -73.972 40.346 -73.972 40.346 -73.988 40.399 -73.988",
   "dc_publisher_s": "Sanborn Map Company",
   "solr_year_i": "1890",
   "dct_spatial_sm": [
@@ -28,9 +26,9 @@
     "United States"
   ],
   "layer_id_s": "xw42n953r",
-  "georss_box_s": "40.346 -73.988 40.399 -73.972",
   "dc_title_s": "Sea Bright (Sheet 48), Monmouth Co., N. J.",
   "dct_issued_s": "1890",
   "layer_geom_type_s": "Image",
-  "dc_language_s": "English"
+  "dc_language_s": "English",
+  "geoblacklight_version": "1.0"
 }
